@@ -1,8 +1,12 @@
 """
-generate_java_master_v2.py
-Extracts, deduplicates, and tags Java examination questions across R13, R15, R16, and R22.
-Preserves ALL questions (in-syllabus and legacy out-of-syllabus), splits atomic sub-questions,
-and performs fuzzy deduplication across years.
+generate_java_master_final.py
+Generates the definitive, accurate Java Master Dataset.
+Implements:
+1. Full inclusion of image-bearing, table-bearing, and math questions.
+2. Distinct handling of independent sub-questions (split) vs 'Explain the following' short-notes (kept glued).
+3. Exact marks attribution (e.g. 5+5 -> 5M each, 7+8 -> 7M and 8M).
+4. Full preservation of legacy topics (JDBC, Collections, Servlets).
+5. Fuzzy deduplication (>= 0.90) to merge multi-year repeats into part_a_years and part_b_years.
 """
 
 import os
@@ -12,12 +16,7 @@ from pathlib import Path
 from difflib import SequenceMatcher
 
 CLEANED_DIR = Path("data/cleaned_papers")
-OUTPUT_CSV = Path("data/processed_dataset/java_master_v2.csv")
-
-IMAGE_TRIGGERS = re.compile(
-    r"shown below|following figure|following circuit|following diagram|following graph|following table",
-    re.IGNORECASE
-)
+OUTPUT_CSV = Path("data/processed_dataset/java_master_final.csv")
 
 # ---------------------------------------------------------------------------
 # Bloom Taxonomy Patterns
@@ -38,16 +37,16 @@ def infer_bloom(text: str) -> str:
     return "Understand"
 
 # ---------------------------------------------------------------------------
-# Topic Matching Rules (Preserving both R22 and Legacy topics)
+# High-Precision R22 Topic Matching Rules
 # ---------------------------------------------------------------------------
 TOPIC_RULES = [
     # Legacy Topics (Kept and tagged rather than dropped)
     ("DATABASE_CONNECTIVITY_JDBC", [
-        r"jdbc\b", r"driver ?manager", r"database connectivity", r"resultset", r"preparedstatement"
+        r"jdbc\b", r"driver ?manager", r"database connectivity", r"resultset", r"preparedstatement", r"sql exception"
     ]),
     ("COLLECTIONS_FRAMEWORK", [
         r"\bvector\b", r"hash ?table", r"stack class", r"iterator", r"listiterator",
-        r"collection framework", r"collections? in java", r"dictionary class", r"collections? class"
+        r"collection framework", r"collections? in java", r"dictionary class", r"collections? class", r"\bhashmap\b"
     ]),
     ("SERVLETS_AND_ENTERPRISE_JAVA", [
         r"servlet", r"jsp\b", r"rmi\b", r"corba\b", r"java beans?", r"remote method invocation"
@@ -101,7 +100,7 @@ TOPIC_RULES = [
 
     # Unit 3: Exception Handling & Multithreading
     ("MULTITHREADING_VS_MULTITASKING", [
-        r"multitasking", r"multiprocessing", r"thread vs process", r"thread based preemptive", r"multithreading vs"
+        r"multitasking", r"multiprocessing", r"thread vs process", r"thread based preemptive", r"multithreading vs", r"thread-based multitasking"
     ]),
     ("DAEMON_THREADS", [
         r"daemon thread"
@@ -113,7 +112,7 @@ TOPIC_RULES = [
         r"thread priorit(?:y|ies)", r"setpriority"
     ]),
     ("THREAD_SYNCHRONIZATION", [
-        r"synchroniz(?:e|ation|ing) thread", r"synchronized block", r"synchronized method", r"thread lock"
+        r"synchroniz(?:e|ation|ing) thread", r"synchronized block", r"synchronized method", r"thread lock", r"\bsynchronization\b"
     ]),
     ("THREAD_LIFECYCLE", [
         r"thread life ?cycle", r"life cycle of (?:a )?thread", r"thread state", r"deadlock"
@@ -137,7 +136,7 @@ TOPIC_RULES = [
         r"enumeration", r"autoboxing", r"annotation", r"generics"
     ]),
     ("STRING_HANDLING_AND_JAVA_UTIL", [
-        r"stringtokenizer", r"string ?tokenizer", r"stringbuffer", r"stringbuilder", r"string class", r"string handling", r"scanner class", r"\bscanner\b"
+        r"stringtokenizer", r"string ?tokenizer", r"stringbuffer", r"stringbuilder", r"string class", r"string handling", r"scanner class", r"\bscanner\b", r"dateformat", r"calendar class"
     ]),
 
     # Unit 2: Inheritance, Packages, Interfaces
@@ -236,7 +235,9 @@ def parse_year(filename: str) -> int | None:
     return int(m.group(1)) if m else None
 
 def clean_text_basic(text: str) -> str:
+    # Strip leading question numbers e.g. "1.a) ", "2. ", "b) "
     text = re.sub(r"^\s*(?:\d{1,2}\.\s*)?(?:\(?[a-j]\)?[.\s]*)?", "", text)
+    # Strip trailing exam footers
     text = re.sub(r"-{2,}\s*oo[o0]oo\s*-{2,}.*$", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\s*\[[\d\+\s]+\]\s*$", "", text)
     text = re.sub(r"-{2,}\s*oo[o0]oo\s*-{2,}.*$", "", text, flags=re.IGNORECASE)
@@ -250,9 +251,23 @@ def normalize_for_fuzzy(text: str) -> str:
     norm = re.sub(r"\s+", " ", norm).strip()
     return norm
 
+# Patterns indicating 'Short notes' or 'Explain the following' that should be kept GLUED
+GLUE_PROMPTS = [
+    r"explain the following",
+    r"write short notes? on",
+    r"write a short notes? on",
+    r"discuss the following",
+    r"write about the following"
+]
+
+def is_glue_composite(text: str) -> bool:
+    t = text.lower()
+    return any(p in t for p in GLUE_PROMPTS)
+
 def extract_questions_from_paper(raw_text: str) -> list[dict]:
     questions = []
 
+    # Unicode-aware section splitting: PART - A vs PART - B
     part_split = re.split(r"(?:^|\n)\s*PART\s*[\-\u2013\u2014]?\s*B\b.*", raw_text, flags=re.IGNORECASE)
     part_a_raw = part_split[0] if len(part_split) >= 2 else ""
     part_b_raw = part_split[1] if len(part_split) >= 2 else raw_text
@@ -265,7 +280,6 @@ def extract_questions_from_paper(raw_text: str) -> list[dict]:
         )
         for m in a_pattern.finditer(part_a_raw):
             content = m.group(2).strip()
-            # Accurately extract mark [1], [2], or [3]
             m_m = re.search(r"\[([1-3])\]", content)
             marks = int(m_m.group(1)) if m_m else 1
 
@@ -274,6 +288,7 @@ def extract_questions_from_paper(raw_text: str) -> list[dict]:
                 questions.append({"text": q_clean, "marks": marks, "part": "A"})
 
     # ----------------- PART B EXTRACTION -----------------
+    # Decimal-safe question number matcher
     q_split_pattern = re.compile(r"(?:^|\n)\s*([1-9]|1[0-5])\.(?!\d)\s*", re.IGNORECASE)
     b_splits = q_split_pattern.split(part_b_raw)
 
@@ -291,6 +306,16 @@ def extract_questions_from_paper(raw_text: str) -> list[dict]:
 
         clean_block = re.sub(r"\[[\d\+\s]+\]", "", block).strip()
 
+        # Check if this is an "Explain the following" / "Short notes" composite
+        if is_glue_composite(clean_block):
+            # Keep glued as a single composite question!
+            total_m = sum(mark_parts)
+            full_text = clean_text_basic(clean_block)
+            if len(full_text) > 15:
+                questions.append({"text": full_text, "marks": total_m, "part": "B"})
+            continue
+
+        # Otherwise check for independent sub-questions: a), b)
         sub_pattern = re.compile(r"(?:^|\n)\s*(?:\(([a-d])\)|([a-d])\))\s*", re.IGNORECASE)
         sub_matches = list(sub_pattern.finditer(clean_block))
 
@@ -313,6 +338,7 @@ def extract_questions_from_paper(raw_text: str) -> list[dict]:
                 if len(full_text) > 15:
                     questions.append({"text": full_text, "marks": m_val, "part": "B"})
         else:
+            # Single atomic question (including questions with tables / math formulas)
             total_m = sum(mark_parts)
             full_text = clean_text_basic(clean_block)
             if len(full_text) > 15 and not full_text.startswith(("Code No", "Note:", "Max", "Time")):
@@ -322,7 +348,7 @@ def extract_questions_from_paper(raw_text: str) -> list[dict]:
 
 def run():
     java_files = sorted(list(CLEANED_DIR.rglob("*JAVA*/**/*.txt")) + list(CLEANED_DIR.rglob("*Java*/**/*.txt")))
-    print(f"Processing {len(java_files)} Java question paper files...")
+    print(f"Reading {len(java_files)} Java question paper files...")
 
     unique_questions: list[dict] = []
 
@@ -350,8 +376,7 @@ def run():
 
         for q in extracted:
             q_text = q["text"]
-            if IMAGE_TRIGGERS.search(q_text):
-                continue
+            # Filter only empty/tiny garbage fragments (< 3 words)
             if len(q_text.split()) < 3:
                 continue
 
@@ -379,7 +404,7 @@ def run():
                 }
                 unique_questions.append(entry)
 
-    print(f"Total atomic questions extracted: {total_extracted}")
+    print(f"Total question instances extracted: {total_extracted}")
     print(f"Fuzzy merges: {merged_count}")
     print(f"Total unique questions preserved: {len(unique_questions)}")
 
@@ -409,7 +434,7 @@ def run():
         for r in rows:
             writer.writerow(r)
 
-    print(f"Saved dataset with {len(rows)} rows to {OUTPUT_CSV}")
+    print(f"Successfully generated: {OUTPUT_CSV.resolve()}")
 
 if __name__ == "__main__":
     run()

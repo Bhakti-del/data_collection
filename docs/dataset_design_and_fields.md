@@ -2,90 +2,81 @@
 
 ## 1. Objective
 
-Build a question paper prediction engine for JNTUH exams using 15 years of past papers (R09, R13, R15, R16, R18, R22). Given a subject and its syllabus, the engine predicts a valid exam paper by analyzing historical question frequency and recency.
+Build a machine-learning and rubric-based question paper prediction engine for JNTUH B.Tech examinations targeting the **R22 Regulation**. Given a subject and its R22 syllabus, the engine predicts a valid exam paper by analyzing historical question frequency, recency, and cognitive depth across regulations (R13, R15, R16, R18, R22).
 
 ---
 
 ## 2. Key Design Decisions
 
-### One row = one unique question
-Each row in the dataset represents a **unique question**. If the same question appeared in 2018 and 2022, it is stored as **one row** with `part_a_years: [2018, 2022]` or `part_b_years: [2018, 2022]` — not two separate rows.
+### One Row = One Unique Question
+Each row in the dataset represents a **unique question statement**. If the exact same question appeared in 2018 and 2022, it is stored as **one single row** with calendar year arrays: `part_a_years: [2018, 2022]` or `part_b_years: [2018, 2022]`.
 
-### Universal concept tags, not unit numbers
-Syllabus units change across regulations (R16, R18, R22). A topic like *AVL Trees* was in Unit 2 under R16 but Unit 3 under R22. We do **not** store unit numbers. Instead, every question is tagged with a `topic_tag` (e.g., `AVL_TREES`). The prediction engine maps the new syllabus's units to topic tags at query time.
+### Universal Topic Tags Aligned with R22 Syllabus
+Syllabus units change across regulations (e.g. Applets moved from Unit 4 to Unit 5). We do **not** hardcode unit numbers into the CSV. Instead, every question is tagged with its official `topic_tag` (e.g., `ABSTRACT_CLASSES`, `LAYOUT_MANAGERS`, `CUSTOM_EXCEPTIONS`) mapped from the R22 syllabus JSON config.
 
-### Two-tier topic hierarchy
-Topics are organized in two levels:
-- `topic_category` — higher-level group (e.g., `SEARCH_TREES`)
-- `topic_tag` — exact concept (e.g., `AVL_TREES`)
+### Simplified 7-Column Schema (No topic_category)
+`topic_category` has been intentionally excluded from the active ingestion schema to keep the pipeline lightweight, modular, and strictly aligned with unit syllabus topics.
 
-This is required to enforce paper quality: the two OR-choices in a Part B question must belong to **different** `topic_category` values, preventing a paper where both choices test the same broad area.
+### Atomic Splitting vs. Cohesive Composites
+- **Independent sub-questions (`[5+5]` marks):** Must be split into separate rows so each has its own topic tag and pure Bloom level.
+- **Short-note composites (`Explain: a) ... b) ... c) ... [5+5+5]`):** Must be kept glued as a single composite row to prevent naked fragments from polluting the dataset.
 
 ---
 
-## 3. Dataset Fields
+## 3. Dataset Fields (7 Standard Columns)
 
 | # | Field | Type | Example | Purpose |
 |---|---|---|---|---|
-| 1 | `subject_name` | String | `"Data Structures"` | Identifies which subject this question belongs to. Primary filter. |
-| 2 | `raw_question_text` | Text | `"Explain AVL tree rotations (LL, RR, LR, RL) with an example."` | The actual question text as it appeared in the exam. |
-| 3 | `topic_tag` | String | `"AVL_TREES"` | Exact concept being tested. Used for frequency-based prediction. |
-| 4 | `topic_category` | String | `"SEARCH_TREES"` | Higher-level group of the topic. Used to enforce variety in OR-choice pairs. |
-| 5 | `bloom_level` | Enum | `"Apply"` | Cognitive depth: `Remember`, `Understand`, `Apply`, `Analyze`, `Evaluate`. Used to balance paper difficulty. |
-| 6 | `original_marks` | Integer | `7` | Standard marks for this question. Used to slot into Part A (≤3M) or Part B (≥5M). |
-| 7 | `part_a_years` | List[Integer] | `[2018, 2021]` | Years this question appeared as a Part A (short answer) question. |
-| 8 | `part_b_years` | List[Integer] | `[2019, 2022, 2023]` | Years this question appeared as a Part B (long answer) question. |
+| 1 | `subject_name` | String | `"Object Oriented Programming through Java"` | Identifies which subject this question belongs to. Primary filter. |
+| 2 | `raw_question_text` | Text | `"Explain abstract class with a suitable example."` | The actual question statement as it appeared in the exam. |
+| 3 | `topic_tag` | String | `"ABSTRACT_CLASSES"` | Exact concept being tested. Mapped strictly to R22 syllabus JSON. |
+| 4 | `bloom_level` | Enum | `"Understand"` | Cognitive depth: `Remember`, `Understand`, `Apply`, `Analyze`, `Evaluate`. |
+| 5 | `original_marks` | Integer | `5` | Standard marks (1–3 for Part A; 5 or 10 for Part B). |
+| 6 | `part_a_years` | List[Integer] | `[2018, 2021]` | Calendar years this question appeared in Part A (short answer). |
+| 7 | `part_b_years` | List[Integer] | `[2022, 2024]` | Calendar years this question appeared in Part B (long answer). |
 
 ---
 
-## 4. topic_category → topic_tag Hierarchy (Example: Data Structures)
+## 4. Bloom's Taxonomy Cognitive Hierarchy
 
-```
-SEARCH_TREES
-  ├── AVL_TREES
-  ├── B_TREES
-  └── SPLAY_TREES
+Cognitive levels are assigned based on the primary cognitive demand required from the student:
 
-SORTING
-  ├── QUICK_SORT
-  ├── HEAP_SORT
-  └── MERGE_SORT
-
-GRAPHS
-  ├── DIJKSTRA
-  ├── KRUSKAL_MST
-  └── BFS_DFS
-```
-
-Each `topic_tag` belongs to exactly one `topic_category`.
+1. **`Apply`**: ONLY assigned for active programming or computational problem-solving tasks (e.g. *"Write a Java program"*, *"Develop a code snippet"*, *"Implement with a program"*).
+2. **`Analyze`**: Comparisons, distinctions, differences, and structural contrasts (e.g. *"What are the differences between Thread and Process?"*, *"Differentiate between checked and unchecked exceptions"*).
+3. **`Evaluate`**: Critical justification, suitability trade-offs, and proofs (e.g. *"Is Java a robust language? Justify your answer"*).
+4. **`Remember`**: Direct recall, naming, definitions, and simple listings (e.g. *"Define bytecode"*, *"List the primitive types"*).
+5. **`Understand`**: Conceptual explanations, mechanisms, and descriptions (e.g. *"Explain the lifecycle of a thread"*, *"How is an Exception handled in Java?"*).
 
 ---
 
 ## 5. Derived Features (Computed at Query Time)
 
-These are **not stored** in the dataset. The engine computes them on the fly:
+These are computed dynamically by the prediction engine:
 
 | Feature | How it's computed |
 |---|---|
 | `part_a_count` | `len(part_a_years)` |
 | `part_b_count` | `len(part_b_years)` |
+| `total_appearances` | `len(part_a_years) + len(part_b_years)` |
 | `last_appeared` | `max(part_a_years + part_b_years)` |
 | `recency_gap_years` | `current_year - last_appeared` |
-| `anti_collision_flag` | `true` if appeared in the immediately preceding exam year |
+| `anti_collision_flag` | `true` if question appeared in the immediate prior examination year |
 
 ---
 
-## 6. How the Engine Uses This Data
+## 6. How the Prediction Engine Uses This Dataset
 
 ```
-Input:  Subject name + Target syllabus (unit → topic_tags mapping)
+Input: Subject name + Target R22 syllabus config (Units 1 to 5)
 
 Step 1: Filter dataset by subject_name
-Step 2: Filter by topic_tags present in the target syllabus
-Step 3: For Part A slots — pick high-frequency questions with original_marks ≤ 3
-Step 4: For Part B slots — pick high-frequency questions with original_marks ≥ 5,
-        ensuring each OR-pair has two questions from different topic_category values
-Step 5: Apply recency penalty (deprioritize questions asked in the last 1–2 years)
+Step 2: Filter by topic_tags present in the target R22 syllabus
+Step 3: Part A Slots (10 questions x 1M):
+        Pick top candidate short-answer questions (part_a_years != [])
+        allocating exactly 2 questions per unit across Units 1 to 5.
+Step 4: Part B Slots (5 questions x 10M, internal choice: 2 per unit):
+        Pick top-ranked long-answer questions (part_b_years != [], 5M or 10M)
+        ensuring coverage of all 5 units without immediate repeat collision.
 
-Output: Complete predicted exam paper
+Output: Complete valid predicted R22 examination paper
 ```

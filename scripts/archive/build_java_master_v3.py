@@ -315,7 +315,14 @@ def build():
         if not year:
             continue
         text = f.read_text(encoding="utf-8", errors="ignore")
-        lines = [l.strip() for l in text.splitlines() if l.strip()]
+        # Pre-process lines to split any mashed inline sub-questions
+        raw_lines = [l.strip() for l in text.splitlines() if l.strip()]
+        lines = []
+        for l in raw_lines:
+            # Expand any inline sub-question markers like "[3] e) "
+            expanded = re.sub(r'(\[[1-3]\])\s+([a-j]\))', r'\1\n\2', l, flags=re.I)
+            expanded = re.sub(r'\s+PART\s*[\-–]\s*[AB]\b.*$', '', expanded, flags=re.I)
+            lines.extend([x.strip() for x in expanded.splitlines() if x.strip()])
 
         current_part = "B"
         curr_q = None
@@ -395,18 +402,14 @@ def build():
 
     print(f"Total extracted deduplicated questions: {len(corpus)}")
 
-    final_rows = []
-    oos_count = 0
+    in_syllabus_rows = []
+    archive_rows = []
 
     for text, data in corpus.items():
         tag = classify_topic(text)
-        if tag == "OUT_OF_SYLLABUS":
-            oos_count += 1
-            continue
-
         bloom = classify_bloom(text, data["marks"])
 
-        final_rows.append({
+        row = {
             "subject_name": "Object Oriented Programming through Java",
             "raw_question_text": text,
             "topic_tag": tag,
@@ -414,24 +417,48 @@ def build():
             "original_marks": data["marks"],
             "part_a_years": sorted(list(data["part_a_years"])),
             "part_b_years": sorted(list(data["part_b_years"]))
-        })
+        }
 
-    # Sort deterministically by topic_tag then marks then text
-    final_rows.sort(key=lambda r: (r["topic_tag"], r["original_marks"], r["raw_question_text"]))
+        if tag == "OUT_OF_SYLLABUS":
+            archive_rows.append(row)
+        else:
+            in_syllabus_rows.append(row)
 
-    OUTPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
-        fieldnames = [
-            "subject_name", "raw_question_text", "topic_tag",
-            "bloom_level", "original_marks", "part_a_years", "part_b_years"
-        ]
+    # Sort deterministically
+    in_syllabus_rows.sort(key=lambda r: (r["topic_tag"], r["original_marks"], r["raw_question_text"]))
+    archive_rows.sort(key=lambda r: (r["original_marks"], r["raw_question_text"]))
+
+    fieldnames = [
+        "subject_name", "raw_question_text", "topic_tag",
+        "bloom_level", "original_marks", "part_a_years", "part_b_years"
+    ]
+
+    # Write in-syllabus R22 dataset
+    r22_csv = Path("data/processed_dataset/java_master_R22.csv")
+    r22_csv.parent.mkdir(parents=True, exist_ok=True)
+    with open(r22_csv, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for r in final_rows:
+        for r in in_syllabus_rows:
             writer.writerow(r)
 
-    print(f"Generated {len(final_rows)} 100% verified rows in {OUTPUT_CSV}")
-    print(f"Filtered out {oos_count} out-of-syllabus questions.")
+    # Write legacy unmatched archive dataset
+    archive_csv = Path("data/processed_dataset/java_unmatched_archive.csv")
+    with open(archive_csv, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for r in archive_rows:
+            writer.writerow(r)
+
+    # Also synchronize to data/Java_Dataset.csv
+    with open("data/Java_Dataset.csv", "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for r in in_syllabus_rows:
+            writer.writerow(r)
+
+    print(f"Generated {len(in_syllabus_rows)} in-syllabus rows in {r22_csv} and data/Java_Dataset.csv")
+    print(f"Archived {len(archive_rows)} out-of-syllabus questions in {archive_csv}")
 
 if __name__ == "__main__":
     build()
