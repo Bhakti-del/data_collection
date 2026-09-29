@@ -1,0 +1,53 @@
+CHEMISTRY
+10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What is band structure of solids.     [2]
+b) How is portable water disinfected by ozonation?   [2]
+c) What is standard electrode potential?     [2]
+d) What is specific rotation?      [2]
+e) What is nuclear magnetic resonance?     [2]
+f) Give the molecular energy diagrams of O2.    [3]
+g) What is Caustic embrittlement?     [3]
+h) Why small anodic area undergo intense corrosion?   [3]
+i) Explain Grignard addition on carbonyl compounds.   [3]
+j) State and explain Lambert-Beer law.     [3]
+PART-B
+2.a) Explain the bond order in N2 molecule.
+b) Discuss briefly the molecular orbital theory?
+c) Give the crystal field splitting pattern of d-orbitals in octahedral geometry.          [3+4+3]
+OR
+3.a) What are the differences between bonding and antibonding orbitals?
+b) What are the salient features of crystal field theory?
+c) Give the crystal field splitting pattern of d-orbitals in tetrahedral geometry.         [3+4+3]
+4.a) Explain the   principle involved in the complexometric method of determination of the
+hardness of water.
+b) Explain the disinfection of water by Chlorination.
+c) Give the Ion-exchange process for softening of hard water.            [4+3+3]
+OR
+5.a) What are the disadvantages of boiler corrosion ? Explain how such corrosion is
+prevented.
+b) What is hardness of water? Give the various units of hardness.
+c) Calculate the temporary, permanent and total hardness of water sample containing
+following impurities:
+Mg(HCO3)2=16.8mg/L, MgSO4=24.0mg/L and NaCl = 58.5 mg/L.          [3+4+3]
+6.a) Describe the construction and working of standard calomel electrode.
+b) What is corrosion? Explain the theory of chemical corrosion.
+c) Derive Nernst equation.              [4+3+3]
+OR
+7.a) What is a battery? Explain the functioning of Li ion battery.
+b) Explain the factors affecting the rate of corrosion.
+c) What is electrochemical series? Give its applications.          [4+3+3]
+8.a) Describe the conformational isomers of n-butane.
+b) Explain the mechanism of dehydro halogenation of alkylhalides.
+c) Discuss reduction of carbonyl compounds using LiAlH4.           [4+3+3]
+OR
+9.a) Write the possible optical isomers in tartaric acid.
+b) Explain the nucleophilic substitution reaction mechanism.
+c) Discuss oxidation mechanism of alcohols using KMnO4.           [3+4+3]
+10.a) What is meant by shielding and deshielding of a proton nucleus?
+b) Explain the principle of UV spectroscopy.
+c) Explain the applications of IR spectroscopy.              [3+4+3]
+OR
+11.a) Explain the principle of NMR spectroscopy.
+b) Why methane does not absorb IR energy.
+c) What are different electronic excitations in UV spectroscopy?          [4+3+3]

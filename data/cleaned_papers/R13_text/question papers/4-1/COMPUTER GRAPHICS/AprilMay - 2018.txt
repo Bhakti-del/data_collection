@@ -1,0 +1,50 @@
+COMPUTER GRAPHICS
+marks and may have a, b, c as sub questions.
+PART- A
+1.a) How are computer graphics useful in image processing and Visualization?  [2]
+b)      Explain two successive translation vectors are additive.    [3]
+c) Write any two advantages of cohen sutherland algorithm.    [2]
+d) Write about Homogeneous coordinates.      [3]
+e) Define B spline surface.        [2]
+f) Give the properties of B-Spline curves.      [3]
+g) What are the advantages of BSP Tree methods?      [2]
+h) Write about area sub division method.      [3]
+i) Define Computer Animation.        [2]
+j) Write about any two computer animation languages.     [3]
+PART-B
+2.a) Describe the construction and working principle of CRT Raster Scan system with a neat
+sketch.
+b) What are the steps inv olved in depth buffer algorithm? What are its advantages and
+disadvantages?         [5+5]
+OR
+3.a) Explain about the Bressen hams line generation algorithm.
+b) Describe about the flat panel display devices.     [5+5]
+4.a) Clip a line segment between points (1, 3) to (5, 17) using Co hen Sutherland   clipping
+algorithm so that it fit into view port with left bottom at (2, 5) and   right top at (5, 12).
+b) What are the steps involved in reflecting the object about an arbitrary axis using 2 -D
+transformations?         [5+5]
+OR
+5.a) Show that a rotation about the origin can be done by performing three shearing
+Transformations
+b) Derive the window to view port transformations equations by first scaling the window to
+the size of the viewport and then translating the scaled window to the v iew port position.
+[5+5]
+6.a) Determine the Bezier blending functions for five control points. Plot each function and
+label the maximum and minimum values.
+b) Compare the characteristics of Beizer and B-spline curves.    [5+5]
+OR
+7.a) Differentiate between Bezier curve and B-Spline curve.
+b) Explain about Hermite curve with equations and examples.     [5+5]
+8.a) Explain how the issues involved in rotation and reflection are different in 3 -D from 2 -D.
+Give a detailed note.
+b) Derive the transformation matrix for perspective transformation.     [5+5]
+OR
+9.a) Explain in brief about octree methods.
+b) Write a program that uses the depth -sorting method to display the visible surfaces of any
+given object with plane faces.        [5+5]
+10.a) Define the term morphing and explain its use in key frame systems of  Animation.
+b) Briefly explain the steps involved in the design of animation sequence.  [5+5]
+OR
+11.a) Explain in brief about computer animation functions.
+b) What are the various types of interpolation used in animation?    [5+5]
+--ooOoo--

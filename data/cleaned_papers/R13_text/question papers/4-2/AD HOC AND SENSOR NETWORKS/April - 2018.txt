@@ -1,0 +1,42 @@
+AD-HOC AND SENSOR NETWORKS
+marks and may have a, b, c as sub questions.
+PART - A
+1.a) What is Personal Area Networking?        [2]
+b) Specify the importance of energy conservation protocols in Ad hoc sensor networks.[3]
+c) List four categories of Multicast routing protocols.      [2]
+d) How does the Hidden Terminal Problem affect TCP over multi-hop MANETs? [3]
+e) What is the role of cluster head in Wireless Sensor Clustering network?  [2]
+f) Specify the difference between Flat-based and Hierarchical-based routing in WSNs.
+[3]
+g) How key management is done for securing WSNs?     [2]
+h) Illustrate the network programming challenges.     [3]
+i) What is concurrency and Atomicity in network programming language?  [2]
+j) Briefly explain component interface in nesC code.          [3]
+PART - B
+2.a) Explain the major challenges to be addressed by Ad hoc networks.
+b) Illustrate differences between Associative-based routing and QoS Routing.            [5+5]
+OR
+3. Explain Proactive, reactive and hybrid routing approaches of r outing in MANETs with
+suitable example routing protocol in each category.     [10]
+4. Describe in detail about MAC layer impact and Network layer impact on TCP. [10]
+OR
+5. Explain the working principle of
+a) Voronoi Diagram based Geo-casting
+b)  Mesh based Geo-cast Routing protocol.      [5+5]
+6. Describe in detail about Sensor -MAC protocol and its design trade -offs for energy
+consumption.          [10]
+OR
+7. Explain the operation of the following WSN routing algorithms
+a) Cluster Based Routing Protocol (CBRP)
+b)  Threshold-sensitive Energy Efficient Network Protocol (TEEN).  [5+5]
+8. Describe in detail the IDS Architecture for Ad hoc and Sensor networks with neat sketch.
+[10]
+OR
+9. Explain the functionality of the following Secure routing protocols.
+a)  ARIADNE
+b)  SEAD.          [5+5]
+10. Describe TinyOS with details of “Field Monitor” application and Timer component
+Interfacing.            [10]
+OR
+11. Explain NS-2 simulator with its sensor network extensions. Compare Ns -2 simulator with
+its counter parts.         [10]

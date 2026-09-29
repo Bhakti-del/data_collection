@@ -1,0 +1,63 @@
+BASIC ELECTRICAL ENGINEERING
+PART- A                                               (25 Marks)
+1.a) State and explain Ohms law.       [2]
+b) State and explain Kirchhoff’s laws.      [3]
+c) What is meant by impedance?      [2]
+d) Obtain the form factor of a sinusoidal voltage,
+sinmVt .  [3]
+e) Define efficiency of a Transformer.      [2]
+f) What are the characteristics of an Ideal transformer?    [3]
+g)  Give the applications of 3- Induction motor.    [2]
+h) Based on the type of excitation, classify the DC generators.   [3]
+i) Compare spring control and gravity control methods.   [2]
+j) What are the advantages and disadvantages of PMMC instrument?  [3]
+PART-B                                             (50 Marks)
+2. By applying Kirchhoff’s laws , find the c urrent through all the elements in the
+circuit as shown in the figure.       [10]
+OR
+3.a) Write short notes on star-delta transformation. If Rab, Rbc and Rca
+are connected in
+delta, derive the expressions for equivalent star connection.
+b) State Thevenin’s theorem.       [4+6]
+4. An a.c. circuit consists of a resistance of 5 ohms, an inductance of 0.1 H, and a
+capacitance of 100 µF, all in series. Determine for this circuit:
+a) Total Impedance
+b) Reactance
+c) Admittance
+d) Susceptance, and
+e) Conductance.
+The supply frequency is 60 Hz.      [10]
+OR
+5.a) Write down the expression for the instantaneous power, and hence derive the
+equation for the average power.
+b) A series R -L-C circuit consists of 100 ohms resistor and an inductor of 0.318
+Henry and a capacitor of unknown value. This circuit is supplied by 230V, 50HZ
+supply and draws a current of 2.3 amps , and the current is in phase with the
+supply voltage. Fin d the value of the capacitance, and the power supplied by the
+source.          [5+5]
+6.a) Draw the phasor diagram of Transformer under no load.
+b) A single phase transformer with a ratio of 440/110V takes a load current of  5A at
+0.2 power factor lagging. If the secondary supplies a current of 120A at  power
+factor of 0.8 lagging, estimate the current taken by the primary.  [5+5]
+OR
+7.a) Derive the emf equation of a single phase Transformer.
+b) In 25KVA, 2000/200V, single phase Transformer, the iron and full -load copper
+losses are 50 W and 400 W respectively. Calculate the effi ciency at unity power
+factor of:
+i) Full load and
+ii) Half full-load.        [5+5]
+8.a) Explain how the rotating magnetic field is developed in a 3 - phase induction
+Motor.
+b) A 6 pole, 3 -phase induction motor runs at 1140  rpm on full load whe n supplied
+power from a 60Hz supply. Determine the slip at full load.   [6+4]
+OR
+9.a) Derive an expression for the speed of a DC motor in terms of back emf and flux
+per pole.
+b) A 4-pole lap wound D.C. shunt generator has a useful flux per pole of 0.06wb.
+The armature winding consists of 240 turns each of 0.0035 ohms resistance.
+Calculate the terminal voltage when running at 920 rpm, if the armature current  is
+60A.                    [5+5]
+10. Explain the essential requirements of indicating instruments with necessary
+diagrams.         [10]
+OR
+11. Explain with neat sketch the construction and working of a MI ammeter. [10]

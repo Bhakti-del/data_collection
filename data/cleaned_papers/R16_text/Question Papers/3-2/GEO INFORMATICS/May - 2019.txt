@@ -1,0 +1,43 @@
+GEOINFORMATICS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)     What is meant by Focal length of lens in aerial photography?    [2]
+b)     How many minimum numbers of photographs are required for Stereo Photogrammetry?
+[3]
+c)      What do you understand by remote sensing?      [2]
+d)      Write the special needs of sensors for geological studies.    [3]
+e)      What do you understand by image histogram?     [2]
+f)       Distinguish between supervised and unsupervised classification.   [3]
+g)      List few Urban applications of GIS.         [2]
+h)      List kind of errors that can occur in GIS.      [3]
+i)       How do you explain GNSS?        [2]
+j)       What do you understand by GALILEO?      [3]
+PART - B
+2.a)  Discuss about various types of Aerial Photogrammetric techniques.
+b)  What are the factors effecting aerial photographs?     [5+5]
+OR
+3.a)  Explain briefly about digital photogrammetry.
+b)  Write a short note on Relief Displacement.      [5+5]
+4.  List and explain any two satellites and write down characteristics of satellites.    [10]
+OR
+5.a)  Explain about physics of Remote Sensing.
+b)  Discuss about Remote Sensing satellites and their products.    [5+5]
+6.a)  Explain crop inventory using remote sensing.
+b)  Explain the remote sensing application in land use and land cover studies.  [5+5]
+OR
+7.  Explain the applications of remote sensing in ground water prospects and potential
+recharge zones.           [10]
+used paper 18-05-19 PM
+8.a)  Classify data in GIS context and explain spatial data editing.
+b)  Describe the theoretical frame work and operations involved in Geographic Information
+System.          [5+5]
+OR
+9.a)  Discuss in brief various applications of GIS in civil engineering.
+b)  What do you understand by spatial data and how are they integrated to make a GIS?
+[5+5]
+10.a)  Explain in brief how GPS helps in modern life.
+b)  Discuss in brief about GPS satellite signals and also explain its importance. [5+5]
+OR
+11.a)  Give the details of the important map projections applicable to Indian regions.
+b)  Explain in detail the applications of GPS.      [5+5]
+used paper 18-05-19 PM

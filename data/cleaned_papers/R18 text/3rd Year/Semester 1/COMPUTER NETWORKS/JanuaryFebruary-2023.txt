@@ -1,0 +1,30 @@
+COMPUTER NETWORKS
+and may have a, b as sub questions.
+PART – A
+1.a)  What is ARPANET?         [2]
+b)  Write about Co-axial cable transmission media?     [3]
+c)  What is framing?         [2]
+d)  What are the advantages of sliding window protocol?    [3]
+e)  What is non-adaptive routing?       [2]
+f)  What is meant by congestion?       [3]
+g)  What is the function of transport layer?      [2]
+h)  What is UDP?          [3]
+i)  What is the function of application layer?      [2]
+j)  What is DNS?          [3]
+PART – B
+2. Explain the TCP/IP reference model.           [10]
+OR
+3. Explain about fiber optics transmission media.       [10]
+4. Explain the stop-and-wait protocol.         [10]
+OR
+5. Explain about wireless LAN.          [10]
+6. Explain the shortest-path routing algorithm.         [10]
+OR
+7.a)  Explain the IPV4 header.
+b)  What is packet fragmentation?       [5+5]
+8. Explain the elements of transport layer.        [10]
+OR
+9.  Explain the TCP transmission policy.         [10]
+10. Explain about HTTP.           [10]
+OR
+11. Explain about streaming audio.         [10]

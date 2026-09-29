@@ -1,0 +1,22 @@
+COMPUTER NETWORKS
+(R15-Common to CSE, IT; R13-Common to CSE, IT)
+1.a)  Describe TCP/IP reference model with a neat diagram and compare TCP/IP with
+ISO-OSI reference model.
+b)  What are the advantages of Fiber optic cables? Enumerate the functionalities of Fiber
+Optic Cables with a neat diagram.       [8+7]
+2.a)  What is CRC? Discuss about CRC method for error detection with suitable example.
+b)  Explain about Go, Back_N sliding window protocol. List out its drawbacks. [7+8]
+3.a)  Differentiate Pure ALOHA and Slotted ALOHA.
+b)  Compare and contrast the network devices repeaters, hubs, bridges and switches. [7+8]
+4.     What is the functionality of Ethernet MAC sub layer? Explain each field in Ethernet
+Frame with a neat diagram.          [15]
+5.a)  Explain about hierarchical routing algorithm with suitable example.
+b)  Discuss about count-to-infinity problem. How to overcome it?   [7+8]
+6.    What is Congestion? How to avoid congestion? Explain about Token bucket algorithm
+for traffic shaping with a neat diagram.        [15]
+7.a)  Explain about DHCP protocol frame format in detail.
+b)  What are the benefits of ICMP protocol?      [8+7]
+8.a)  What is DNS? Explain DNS structure for Internet.
+b)  What is the sliding window protocol involved in TCP connection? Discuss. [7+8]
+R15/R13
+USED PAPER MARCH-2021

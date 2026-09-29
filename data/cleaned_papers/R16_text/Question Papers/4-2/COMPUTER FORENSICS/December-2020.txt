@@ -1,0 +1,12 @@
+COMPUTER FORENSICS
+(Computer Science and Engineering)
+1. Explain how digital forensics used in investigating cybercrimes.   [15]
+2. Explain the activites in initial response methodology.    [15]
+3. Explain volatile data collection in Windows system.     [15]
+4. Explain the creation of a forensic duplicate of a hard drive.    [15]
+5. What is remote acquisition? Explain how remote acquisition is performed.  [15]
+6. Explain the standard procedures for network forensics.    [15]
+7. Describe the process of investigation of e-mail crimes and violations.  [15]
+8. With respect to computer forensics explain the following:
+a) Microsoft file structures
+b) Virtual machines.         [7+8]

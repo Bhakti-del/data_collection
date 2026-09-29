@@ -1,0 +1,37 @@
+NATURAL LANGUAGE PROCESSING
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)   Define allomorphs.         [2]
+b)   What is a lexeme? List its categories.       [3]
+c)    What is the use of Treebank?        [2]
+d)    Give an example of a phrase structure tree.      [3]
+e)     What is the objective of semantic parsing?      [2]
+f)     How to identify an event in text?       [3]
+g)     List verbal predicates that demand two object arguments.     [2]
+h)     Suggest the requirements for a meaning representation system.    [3]
+i)     What is meant by cohesion in NLP?       [2]
+j)      What is an n-Gram model?        [3]
+PART – B
+2.  Describe the following morphological models with illustrations:
+a) Dictionary lookup
+b) Unification based morphology.       [5+5]
+OR
+3.  Make a comparison of generative sequence classification methods and discriminative
+local classification methods for finding structure of the documents.     [10]
+4.  Elaborate the tokenization and parsing challenges in multilingual content.    [10]
+OR
+5.a) Demonstrate shift-reduce parsing algorithm.
+b) Explain the use of probabilistic context free grammars for ambiguity resolution in
+parsing.          [5+5]
+6. Describe the methods for word s ense disambiguation and the  software support for it.
+[10]
+OR
+7. Illustrate the methods for resolving entity and event in natural language.     [10]
+8.  Explain the usage of PropBank in semantic parsing.       [10]
+OR
+9. Provide a detailed description of meaning representation and its need.      [10]
+10. Make a comparison of syntax based language model and factored language model.  [10]
+OR
+11.a) With an example, discuss demonstrative reference.
+b) What is meant by anaphora resolution? Explain the methods used for it.  [5+5]

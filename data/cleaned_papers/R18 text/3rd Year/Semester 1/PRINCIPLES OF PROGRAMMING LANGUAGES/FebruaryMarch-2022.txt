@@ -1,0 +1,17 @@
+PRINCIPLES OF PROGRAMMING LANGUAGES
+----
+1. Explain the characteristics of Reliability of a programming language.    [15]
+2. Compare operational semantics and denotational semantics.      [15]
+3. How is the order of evaluation of attributes determine d for the trees of a given attribute
+grammar? Explain.           [15]
+4. Define static, stack -dynamic, explicit heap -dynamic and implicit heap -dynamic
+variables. What are their advantages and disadvantages?      [15]
+5. Define shallow and de ep binding for referencing environments of subprograms that
+have been passed as parameters.         [15]
+6. Describe the actions of the three Java methods that are used to support cooperation
+synchronization.           [15]
+7. Write a Scheme function that takes a simple list of numbers as its parameter and returns
+the largest and smallest numbers in the list.        [15]
+8. Write a function in LISP to read ‘n’ positive integers from user and find min, max and
+average of them.           [15]
+used paper feb-22 jntu

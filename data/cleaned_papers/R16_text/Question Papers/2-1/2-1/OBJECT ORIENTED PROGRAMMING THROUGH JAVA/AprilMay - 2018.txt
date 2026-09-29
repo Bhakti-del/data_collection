@@ -1,0 +1,44 @@
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a)      What is abstract class? Give example.      [2]
+b)       Explain the use of ‘for’ statement in Java with an example.    [3]
+c)       Define a Package? What is its use in java? Explain.     [2]
+d)       List out the benefits of Stream oriented I/O.      [3]
+e)       How do we start and stop a thread?       [2]
+f)       Write the complete life cycle of a thread.      [3]
+g)      What is the benefit of Generics in Collections Framework?    [2]
+h)       Differentiate between Enumeration and Iterator interface.    [3]
+i)        What are the limitations of AWT?       [2]
+j)        Why do applet classes need to be declared as public?    [3]
+PART-B
+2.a) What is inheritance and how does it help to create new classes quickly.
+b) Describe different levels of access protection available in Java.   [5+5]
+OR
+3.a) List the primitive data types available in Java and explain.
+b)  What is polymorphism? Explain different types of polymorphisms with examples.[5+5]
+4.a) What is an interface? What are the similarities between interfaces and classes?
+b)  How can you extend one interface by the other interface? Discuss.   [5+5]
+OR
+5.a) Discuss about CLASSPATH environment variables.
+b) Discuss the different levels of access protection available in Java.    [5+5]
+6.a) What are advantages of using Exception handling mechanism in a program?
+b) Write a java program that demonstrates how certain exception types are not allowed to be
+thrown.          [5+5]
+OR
+7.a)  What are the different ways that are possible to create multiple threaded
+programs in java? Discuss the differences between them.
+b)  Write a program to create four threads using Runnable interface.   [5+5]
+8.a)  What is Java Collections Framework? List out some benefits of Collections framework and
+explain.
+b) What is the importance of hashCode() and equals() methods?   [5+5]
+OR
+9.a)  What are the common algorithms implemented in Collections Framework? Discuss.
+b)  What is difference between ArrayList and LinkedList in collection framework? Explain.
+[5+5]
+10.a)  What is an applet? Explain the life cycle of Applet with a neat sketch.
+b)  Write the applets to draw the Cube and Cylinder shapes.    [5+5]
+OR
+11.a)  What is an Layout manager?  Explain different types of Layout managers.
+b)  Write a program to create a frame window that responds to key strokes.  [5+5]
+---oo0oo---

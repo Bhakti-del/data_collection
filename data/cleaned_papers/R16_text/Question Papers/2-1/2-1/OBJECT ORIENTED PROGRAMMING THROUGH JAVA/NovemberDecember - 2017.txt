@@ -1,0 +1,46 @@
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA
+PART- A
+1.a) Differentiate between print() and println() methods in Java.   [2]
+b) What are symbolic constants? Explain with examples.   [3]
+c) What are the methods available in the character streams?   [2]
+d) What is the significance of the CLASSPATH environment variable in
+creating/using a package?          [3]
+e) What is the difference between error and an exception?   [2]
+f) What is synchronization and why is it important?    [3]
+g) What is the significance of Legacy class? Give example.   [2]
+h) What is the purpose of String Tokenizer class? Explain.   [3]
+i) What are the differences between JToggle buttion and Radio buttion? [2]
+j) What is an adapter class? Explain with an example.    [3]
+PART-B
+2.a) What is meant by byte code? Briefly explain how Java is platform independent.
+b) Explain the significance of public, protected and private access specifiers in
+inheritance.         [5+5]
+OR
+3.a) Explain different parts of a Java program with an appropriate example.
+b) How does polymorphism promote extensibility? Explain with example. [5+5]
+4.a) Explain the process of defining and creating a package with suitable examples.
+b) Give an example where interface can be used to support multiple inheritance.
+[5+5]
+OR
+5.a) What is the accessibility of a public method or field inside a nonpublic class or
+interface? Explain.
+b) Describe the process of importing and accessing a package with suitable
+examples.         [5+5]
+6.a) Differentiate between Checked and UnChecked Exceptions with examples.
+b) Write a program to create four threads using Runnable interface.  [5+5]
+OR
+7.a) What are the different ways to handle exceptions? Explain.
+b) How many ways are possible in ja va to create multiple threaded programs?
+Discuss the differences between them.     [5+5]
+8.a) Differentiate between ArrayList and a Vector? Why ArrayList is faster than
+Vector? Explain.
+b) How an Hashtable can change the iterator? Explain.    [5+5]
+OR
+9.a) Explain the Bit Set and Calander classes in detail.
+b)  Discuss the differences between HashList and HashMap, Set and List. [5+5]
+10.a) List and explain different types of Layout managers with suitable examples.
+b) How to move/drag a component placed in Swing Container? Explain. [5+5]
+OR
+11.a) Discuss about different applet display methods in brief.
+b) What are the various components of Swing? Explain.   [5+5]
+---oo0oo---

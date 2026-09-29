@@ -1,0 +1,20 @@
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT
+(Computer Science and Engineering)
+1.a) List the commands available in user EXEC mode and explain.
+b) Describe the testing the traffic signaling devices.      [8+7]
+2.a) Explain in detail about ROM monitor mode commands.
+b) Discuss about configuring Bastion host in detail.      [8+7]
+3.a) Describe show commands for monitoring and troubleshooting tools.
+b) Explain about Cisco Router basic troubleshooting checklist.    [8+7]
+4.a) Discuss about troubleshooting CISCO IOS Firewall configurations.
+b) What is Modem? Explain in detail.        [8+7]
+5.a) Explain about preparation of handling an incident.
+b) Describe development of an effective data backup strategy and plan.   [8+7]
+6.a) Discuss in detail about data backup techniques.
+b) What is the need of incident response? Explain incident response process.   [8+7]
+7.a) Describe understanding and knowledge of NOS 9005.
+b) Discuss about log management functions and challenges.     [8+7]
+8. Explain the following:
+a) Network scanning security incidents
+b) Detection of malicious code.        [8+7]
+---oo0oo---

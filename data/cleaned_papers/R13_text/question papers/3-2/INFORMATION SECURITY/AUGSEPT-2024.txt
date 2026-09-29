@@ -1,0 +1,40 @@
+INFORMATION SECURITY
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)      Define Computer Security and list the three factors of Computer security.  [2]
+b)      List the characteristics of Cryptographic techniques.     [3]
+c)      Define Substitution and Permutation.         [2]
+d)      Differentiate between Block Cipher and Stream Cipher.    [3]
+e)      Define hash function and list the functionalities of hash function.   [2]
+f)     Write short notes on Biometric Authentication.     [3]
+g)      What is the need of Email Security?         [2]
+h)      Mention various modes of Authentication header and explain them.  [3]
+i)       Define Secure Socket Layer.                                         [2]
+j)       List any four firewall design principles.      [3]
+PART - B
+2.a)  Mention and explain various types of Security Services.
+b)  With an example, explain any two types of Transposition techniques.  [5+5]
+OR
+3.  Define Threat and attack . Differentiate between them. List some examples of attacks
+which raise in real world cases and explain.        [10]
+4.a)  Draw and explain the single round of DES algorithm.
+b)  Write and explain the principles of public key cryptography.   [5+5]
+OR
+5.  Why mode of operation is defined? Explain the Block Cipher modes of operation.   [10]
+6.a)  Is Message Authentication code same as encryption? How message authentication can
+be done by message Authentication code? Explain with an example.
+b)  With a neat block diagram, explain Digital Signature algorithm.                             [5+5]
+OR
+7.  What is key wrapping and key Unwrapping? Write and explain k ey wrapping
+algorithm.            [10]
+used paper Aug-2024
+8.a)  List and explain various Services provided by Email Security.
+b)  How to encrypt Email with S/MIME? Explain.     [5+5]
+OR
+9.  With a neat sketch, explain the architecture of IP Security.       [10]
+10.  Which Parameters define Session state and which parameters define connection state in
+SSL? Explain.            [10]
+OR
+11. How can we achieve web security? Explain Web Security threats with an example. [10]
+used paper Aug-2024

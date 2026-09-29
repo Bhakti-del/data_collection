@@ -1,0 +1,20 @@
+LINUX PROGRAMMING
+(Computer Science and Engineering)
+1.a) Write a shell script to compute sum of digits of a number.
+b) List and explain various File handling utilities available in Linux.    [7+8]
+2.a) What is the need of linking? How to create soft links between file? Illustrate the system
+call used to create soft links between files.
+b) Explain fcntl( ) functions with an example program.     [8+7]
+3.a) What is the need of getenv( ) and setenv( ) system calls?
+b) Describe how exec( ) family of syst em calls set the environment for the newly initiated
+processes.           [5+10]
+4. With a neat syntax and example, explain various APIs support for Message queues. [15]
+5. Write down the steps and explain establishing connection between a client and a server
+machine using various socket system calls using connection oriented protocol.  [15]
+6.a) Write an awk script illustrating the need of Associative arrays.
+b) Give a detail note on shell meta characters and shell built-in variables.   [7+8]
+7. List and explain various file permission system calls with clear syntax and example
+program.          [15]
+8.a) What are reliable and unreliable signals?
+b) Illustrate kill( ) and raise( ) system calls with an example program.    [7+8]
+--ooOoo--

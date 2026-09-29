@@ -1,0 +1,43 @@
+COMPILER DESIGN
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      Define linker and loader.        [2]
+b)      Write a short note on regular expression.      [3]
+c)      Explain context free grammar.         [2]
+d)      Compute FIRSTs and FOLLOWs for the following grammar
+R→R+R, R→R*R, R→R/R, R→(R), R→id    [3]
+e)      What are the evaluation orders for syntax directed definitions?   [2]
+f)      Explain the variants of syntax trees.       [3]
+g)     What is trace based collection?         [2]
+h)      Explain the addresses in the target code.      [3]
+i)       Define strength reduction.        [2]
+j)      Discuss about common sub expression elimination.     [3]
+PART – B
+2. Define compiler. Explain various phases of compiler with neat sketch.    [10]
+OR
+3.a)  Explain various error recovery strategies in lexical analysis.
+b)  Construct a Finite automata and scanning algorithm for recognizing identifiers,
+numerical constants in ‘C’ language.       [5+5]
+4.a)  What is left recursion? Describe the algorithm used for eliminating left recursion.
+b)  Eliminate left recursion in the following grammar:
+E → E + T / T, T → T * F / F, F → (E) / id      [5+5]
+OR
+5.a)  Write an algorithm for computing LR(K) item sets.
+b)  Differentiate between Top down and Bottom up parsing techniques.  [5+5]
+6.a)  Construct a Quadruple, Triple and Indirect triple for the statement
+a + a * (b – c) + (b – c) * d
+b)  How are inherited attributes differ from synthesized attributes?   [6+4]
+OR
+7.    Give syntax directed translation scheme for simple desk calculator.     [10]
+R18  R18
+8.   Explain various storage allocation strategies with an example.     [10]
+OR
+9.a)  What is a basic block? How to construct a basic block?
+b)  Explain peephole optimization with an illustrative example.    [5+5]
+10.  Explain the following with an example
+a) Constant Propagation
+b) Partial Redundancy Elimination.       [5+5]
+OR
+11.a)  Explain loop optimization techniques with example.
+b)  Explain various notations used in data flow analysis.    [5+5]

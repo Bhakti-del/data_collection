@@ -1,0 +1,20 @@
+COMPUTER PROGRAMMING IN C
+1.a) Discuss various categories of computing environments.
+b) Draw a flow chart to check whether the given number is perfect number or not. [8+7]
+2.a) Discuss in brief about loop statements in ‘C’ language.
+b) Write a C program to check whether a number is palindrome or not.  [8+7]
+3.a) Differentiate between user defined and system defined functions.
+b) Why we need storage classes? List and explain the various storage classes present in
+language ‘C’.          [6+9]
+4.a) What is recursion function? Discuss the limitations of recursion.
+b) Explain the binary search method.       [7+8]
+5. Explain the following.
+a) Passing an array to a function.
+b) Arrays of strings.         [7+8]
+6.a) Explain various string manipulation functions with example program.
+b) Explain in brief about pointer applications.      [7+8]
+7.a) Differentiate between structures and unions.
+b) What is enumeration? Explain with suitable example.    [7+8]
+8.a) Write a C program to copy the contents of one text file to another text file.
+b) Explain various file status functions.       [8+7]
+--ooOoo--

@@ -1,0 +1,18 @@
+INFORMATION RETRIEVAL SYSTEMS
+1.a) Explain any one probabilistic retrieval strategy model.
+b) Give a note on parameter estimation of probabilistic model.    [7+8]
+2.a) What is the language model? Explain its working principle.
+b) Write the algorithm to rank the components.      [7+8]
+3.a) Write the importance of relevance feedback in vector space model.
+b) What is N-gram model? Explain D' Amore and Mah gram model.   [7+8]
+4.a) Explain how thesauri useful to expand query.
+b) Write a note on regression analysis.       [7+8]
+5.a) Give a note on semantic parsing.
+b) Explain four strategies to cross the language barrier.     [7+8]
+6.a) Mention the advantages and disadvantages of semantic networks.
+b) Explain language model for cross language information retrieval.   [7+8]
+7.a) Explain fixed length index compression.
+b) Elaborate different approaches of building signature files.    [7+8]
+8.a) Write the techniques to improve the effectiveness of web search engines.
+b) Give a brief description of a distributed information retrieval model.  [7+8]
+--ooOoo--

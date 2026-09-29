@@ -1,0 +1,11 @@
+RENEWABLE ENERGY SOURCES
+1. Explain the potential of renewable energy sources in India.    [15]
+2. Describe the concept of Hybrid systems.      [15]
+3. Explain the mechanism of photoconduction in a PV cell.    [15]
+4.  Explain briefly about various parameters of solar energy reaching the earth surface.
+[15]
+5. Explain the procedure of wind generation and control for electrical energy.  [15]
+6. Discuss the wind mill component design and their demand side management. [15]
+7. Describe the process of bio-gas generation and factors affecting the generation of biogas.
+[15]
+8. Explain the hybrid cycle operation of OTEC plant with a neat diagram.  [15]

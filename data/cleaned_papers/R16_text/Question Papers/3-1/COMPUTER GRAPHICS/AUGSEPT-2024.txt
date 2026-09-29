@@ -1,0 +1,47 @@
+COMPUTER GRAPHICS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)     Name two advantage of LCD monitors over CRT monitors.             [2]
+b)      What is the primary method used by the flood-fill algorithm to fill areas?   [3]
+c)      What is the shear matrix for shearing an object along the x-axis by a factor of k? [2]
+d)      How does the viewing coordinate reference frame differ from the world coordinate
+system?           [3]
+e)      What is an octree, and how does it partition 3-D space?    [2]
+f)      How does perspective projection differ from orthographic projection?  [3]
+g)     How does area subdivision improve visibility determination in 3-D graphics? [2]
+h)     What is the primary advantage of using flat shading over smooth sha ding techniques?
+[3]
+i)       Name one example of a computer animation language and its use.   [2]
+j)       Why are timing and spacing important in animation?    [3]
+PART – B
+2.  Explain the differences between CRT and LCD mo nitors, including their advantages
+and disadvantages in the context of computer graphics.      [10]
+OR
+3.  Describe the mid-point ellipse drawing algorithm and compare it with the methods used
+for drawing circles.           [10]
+4.  Analyze the impact of  combining translation and scaling transformations on an object
+in 2-D space. How does the order of transformations affect the final result?   [10]
+OR
+5.  Describe the Sutherland-Hodgeman polygon clipping algorithm. How does it handle the
+clipping of polygons, and what are its strengths and limitations?     [10]
+6.  Discuss B-spline curves and their advantages over other spline representations. How do
+B-splines offer greater control and flexibility in modeling complex shapes?   [10]
+OR
+7.  Evaluate the pro cess of clipping in 3 -D graphics. How are clipping algorithms used to
+remove parts of objects outside the view volume, and what challenges are associated
+with 3-D clipping?           [10]
+Used Paper Aug-2024
+8.  Explain how visible surface detection methods can be combined to optimize rendering
+performance. What are some common hybrid approaches, and how do they leverage the
+strengths of multiple techniques?         [10]
+OR
+9.  Describe the concept of texture mapping and its importance in surface rendering. How
+does texture mapping contribute to the realism of 3-D models?     [10]
+10.  Explain the concept of motion specifications in computer animation. How are motion
+paths, speed, and acceleration defined and managed in animation systems?    [10]
+OR
+11.  Discuss the role of interpolation techniques in animation. How do interpolation
+methods like linear, spline, and Bézier interpolation affect the smoothness and realism
+of animated motions?             [10]
+Used Paper Aug-2024

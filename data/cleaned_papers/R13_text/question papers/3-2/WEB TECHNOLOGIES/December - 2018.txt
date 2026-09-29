@@ -1,0 +1,43 @@
+WEB TECHNOLOGIES
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What are the data types supported by PHP?      [2]
+b)      List various types of arrays supported by PHP. How to declare arrays in PHP? [3]
+c)      Write in brief about XHTML.        [2]
+d)      What is XML? List characteristic features of XML.     [3]
+e)      State the differences between GET and POST methods.    [2]
+f)      Develop a servlet that handles an HTTP GET request.    [3]
+g)      What are JSP Implicit Objects?       [2]
+h)      How JSP resolves the problems with Servlets?     [3]
+i)       What is Document Object Model?       [2]
+j)       Explain the scope of variable.       [3]
+PART - B
+2.a) Explain database connectivity in PHP with reference to MYSQL.
+b) How to execute a simple query in PHP? Illustrate.     [5+5]
+OR
+3.a) State the rules for declaring variables in PHP.
+b) Write a PHP program for a simple calculator.     [3+7]
+4.a) What is XML Schema? State its purpose and list its advantages over DTD
+b) Describe XML schema for designing a Web page as an illustration.   [3+7]
+OR
+5.a) What is a ‘XML Parser’?
+b) Explain in detail how XML data is parsed with an example.    [2+8]
+6.a) What are the advantages of Servlets over CGI?
+b) What is a ‘servlet’? Explain the life cycle of a servlet with an example servlet program.
+[4+6]
+OR
+7.a) Demonstrate the use of cookies in servlets with an example.
+b) Write a servlet program to retrieve data from the database.    [4+6]
+used paper 23-12-2018 AM
+8.a) How to declare and use variables in JavaScript?
+b) What are JSP Code snippets? Develop a JSP program to display current date and time.
+[3+7]
+OR
+9.a) Write in very brief about JSP processing.
+b) How to access a database from a JSP? Explain in detail.    [2+8]
+10.a) How is Client side Java Script different from Server side Java Script?
+b) Write a simple AJAX application.       [3+7]
+OR
+11.a) What is JavaScript? What are the features of JavaScript?
+b)  Write a JavaScript to display whether given number is a prime or not.  [3+7]
+used paper 23-12-2018 AM

@@ -1,0 +1,46 @@
+COMPUTER ORGANIZATION
+carries 10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Write the generic Instruction types present in a computer system.   [2]
+b) What is the difference between a direct and an indirect address instruction? [3]
+c) List the four basic functions of the CPU.      [2]
+d) Give a note on Instruction Set of 8086.       [3]
+e) What is an interrupt service routine in microprocessor?    [2]
+f) How a clock signal is generated in 8086 microprocessor?    [3]
+g) List four peripherals devices that produce an acceptable output for a person to
+understand.          [2]
+h) How many characters per second can be transmitted over a 1200 baud line in
+Synchronous serial transmission?        [3]
+i) What are the difficulties that cause the instruction pipeline to deviate from its normal
+operation?          [2]
+j) Draw the structure of general purpose multicomputer.    [3]
+PART - B
+5 × 10 marks = 50
+2.a) How many references to memory are needed for each type of instruction to bring an
+operand into a processor register? Explain.
+b) With the help of a block dia gram, explain how do we select the address of control
+memory.          [5+5]
+OR
+3.a) Give a brief note on instruction cycle.
+b) List and explain the functional units of a computer.     [5+5]
+4. Draw and explain the 8086 Processor Architecture.     [10]
+OR
+5.a) Explain the Assembler Directives.
+b) Discuss the Physical memory organization.      [5+5]
+6. How to pass parameters to procedures in 8086? Explain in detail with an ALP. [10]
+OR
+7.a) Is ‘c’ an assembly language? Justify your answer.
+b) With an assembly language program explain stack organization in 8086.  [4+6]
+8. Compare interrupt driven data transfer scheme with DMA. Using block diagram explain
+interrupt driven transfer scheme.       [10]
+OR
+9. Explain Booths multiplication algorithm with example.    [10]
+10.a) Distinguish between the virtual memory and cache memory. Write the merits and
+demerits of virtual memory.
+b) Give a neat sketch that illustrates the components in a typical memory hierarchy. [5+5]
+OR
+11.a) With the help of a neat diagram explain the match logic for one word of associative
+memory.
+b) What are the various forms available for establishing an interconnection network  in a
+multi processor system?        [5+5]
+---oo0oo---

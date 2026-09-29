@@ -1,0 +1,25 @@
+CHEMISTRY
+1.a) Give the principles of LCAO.
+b) Give the molecular energy diagrams of N2 and F2.     [7+8]
+2.a) Give the Salient features of CFT.
+b) Give the crystal field splitting pattern of d -orbitals in square planar and tetrahedral
+geometry.              [7+8]
+3.a) What is hardness of water? How is it estimated by complexometric method?
+b) Calculate the temporary and permanent hardness of the water sample containing
+MgCl2=9.5mg/L; Mg(HCO3)2=7.3mg/L; Ca(HCO3)2=16.2 mg/L; CaSO4=13.6 mg/L and
+NaCl=58.5 mg/L.         [8+7]
+4.a) What are the specifications of potable water?
+b) Explain various steps involved in the treatment of potable water.
+c) What are the common boiler troubles? Explain about Caustic embrittlement.       [5+6+4]
+5.a) What is an electrochemical series? Give its applications.
+b) What is a secondary battery? Explain the functioning of lead-acid storage battery.
+c) In a cell, a silver rod is placed in a AgNO 3 solution of 0.1M and another silver rod in
+0.01 M AgNO3 solution at room temperature. Calculate the emf.          [6+5+4]
+6.a) What is corrosion? Explain the mechanism of electrochemical corrosion of Iron.
+b) What is cathodic protection? Explain the sacrificial anodic method.   [8+7]
+7.a) What is Chirality and optical activity? How are they related?
+b) What are enantiomers and diastereomers? Give examples for each.
+c) Give the structure, preparation and uses of Paracetamol.           [6+5+4]
+8.a) What is an electronic spectra? Explain its selection rules.
+b) Explain the principle and applications of vibrational and rotational spectroscopy.
+c) Write a note on magnetic resonance imaging.             [5+6+4]

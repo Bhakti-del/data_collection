@@ -1,0 +1,59 @@
+NON-CONVENTIONAL POWER GENERATION
+10 marks and may have a, b, c as sub questions.
+Illustrate your answers with NEAT sketches wherever necessary.
+PART - A
+1.a)      Define ‘Surface azimuth angle’ and ‘Solar azimuth angle’.    [2]
+b)      What are solar ponds? Explain its principle of working.    [3]
+c)      Name the basic components of Photovoltaic systems.      [2]
+d)      Explain briefly the three processes required to obtain useful power output from photon
+interaction in a semi-conductor?       [3]
+e)      How can the wind utilization be considered as a part of solar energy?  [2]
+f)      Distinguish between pitch control and yaw control in wind energy conversion systems.
+[3]
+g)      What is the difference between biomass and biogas?         [2]
+h)  What ar e limitations of the flashed -steam geothermal system as compared to the
+vapour-dominated system?        [3]
+i)      Explain the two approaches to hardness tidal energy.     [2]
+j)      What are the main components of a fuel cell system? Show by means of a schematic
+diagram.          [3]
+PART - B
+2.a)  Explain, with sketches, the various types of solar radiation measurement instruments.
+b)  Calculate the number of daylight hours (sunshine hours) at Bangalore on 21 st June and
+21st December in a leap year. The latitude of Bangalore is 120 58′ N.  [5+5]
+OR
+3.a)  Derive an expression for total radiation on an inclined surface. Show that a horizontal
+surface receives no ground reflected radiation.
+b)  Discuss the following terms : Diffuse radiation, Reflected radiation and Total radiation.
+[5+5]
+4.  What is Maximum Power Point Tracker (MPPT)? Also discuss the three possible
+strategies for operation of a Maximum Power Point Tracker.       [10]
+OR
+used paper 11-06-2019 PM
+5.a)  A solar photovoltaic panel has an open circuit voltage of 43.6V and short circuit current
+of 5.45A. The maximum power that can be drawn from the panel is 175W. The
+maximum power occurs at a voltage of 81% of open circuit voltage. What is the
+optimal load resistance that needs to be connect to the terminals of the PV panel?
+b)  With a schematic diagram, describe the working of a basic photovoltaic system for
+power generation.         [5+5]
+6.a)  Derive an expression for power extracted from wind.
+b)  A horizontal axis wind turbine is installed at a location having free win d velocity of
+15 m/s. The 80 m diameter rotor has three blades attached to the hub. Find the
+rotational speed of the turbine for optimal energy extraction.   [5+5]
+OR
+7.a)  State and briefly explain the factors that determine the output power from wind energy.
+b)  Write a technical note on selection of generator for WECS.     [5+5]
+8.a)  Sketch and explain the working of floating gas holder type biogas plant (KVIC) plant
+used in India.
+b)  Explain the concept of wet steam geothermal system.    [5+5]
+OR
+9.a) Discuss the significant factors effecting of aerobic digestion and anaerobic digestion.
+b) Classify wet and dry process of energy conversion technologies.   [5+5]
+10.a)  What is the significance of a fuel cell? Write short notes on regenerative fuel cell and
+list out its advantages.
+b)  The basin area of a tidal power plant is 20 × 106 m2. The tidal range is 8 m. Calculate
+the energy generated in kWh.        [5+5]
+OR
+11.a)  Mention the application of fuel cells and explain anyone application.
+b)  Distinguish between working principles of a single basin and double basin systems of
+tidal power plants.         [5+5]
+used paper 11-06-2019 PM

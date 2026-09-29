@@ -1,0 +1,20 @@
+BASICS OF POWER PLANT ENGINEERING
+1.a) Explain the concept of super critical brilers.
+b) Describe the hydraulic ash handling system.      [7+8]
+2.a) Write the difference between Rankine cycle and Modified Rankine Cycle.
+b) Explain about binary cycles and cogeneration systems.    [7+8]
+3.a) Mention the advantages and disadvantages of a diesel power plant over a gas turbine
+power plant.
+b) Give a maintenance schedule for diesel engine power plant.    [7+8]
+4.a) With the neat sketch, explain the boiling water reactor power plant ?
+b) What are the advantages and disadvantages of nuclear power plant?  [7+8]
+5.a) Write down the safety measurements for nuclear power plants in detail.
+b) Write the difference between BWR and PWR.     [7+8]
+6.a) Sketch and discuss FBR and PHWR in detail.
+b) Draw the layout and subsystems of nuclear power plant.    [7+8]
+7.a) What are the various factors to be considered in selecting the site for a hydroelectric power
+plant and discuss about primary and secondary investigation.
+b) Describe the classification of turbines.       [8+7]
+8.a)  Describe the Pollution control Technologies in detail.
+b) Write the load distribution parameters of Economic and Environmental issues. [7+8]
+---oo0oo---

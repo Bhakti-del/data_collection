@@ -1,0 +1,36 @@
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+1.a) Use indirect method to show that P → Q , Q → R , ~ (P Λ R), P V R
+  R.
+b) Obtain principal conjunctive normal form for the formula p V (~ p → (q V (~q → r)))
+[7+8]
+2. Prove that non empty subset H of a group G is a subg roup of G if and only if
+1ab H  ,
+for all
+, a b H          [15]
+3.   Let X be the set of all three digit integers i.e
+{    int /100 999}X x is an eger x   .
+If
+iA  is the set of integers, whose ith digit is i, compute the cardinality of
+1 2 3A A A .
+[15]
+4.   Solve the recurrence relation.
+2
+21 22 n
+n n nu u u n   .    [15]
+5.a) Is the following graph planar?  If so draw the planar graph 1.
+Graph: 1
+b) Find the minimum spanning tree shown in Graph 2.     [7+8]
+Graph: 2
+6.a) Show that the proposition
+( ) ( )p q p q q      is a tautology.
+b) Prove that the argument is valid.
+No mathematicians are fools.
+No one who is not a fool is an administrator.
+Sita is a mathematician
+ Sita is not an administrator.        [7+8]
+7. The set Q of all rational numbers, the operation is defined by
+*a b a b ab   . Show that under
+this operation Q forms a commutative monoid.      [15]
+8. Find the coefficient of
+47xy  in the expansion of
+11()xy .    [15]

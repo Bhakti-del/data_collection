@@ -1,0 +1,41 @@
+WEB TECHNOLOGIES
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) How do you execute a PHP script from the command line?    [2]
+b) Is multiple inheritance supported in PHP? Explain.     [3]
+c) Differentiate XHTML and XML.       [2]
+d) Define XML. What are the advantages of XML?     [3]
+e) Name two CGI environmental variables.       [2]
+f) Mention some uses of servlet.        [3]
+g) How to deal with syntax errors in JSP page?      [2]
+h) List the JSP implicit objects.        [3]
+i) Give a note on this keyword in JavaScript.       [2]
+j)  What is the difference between undefined and not defined in JavaScript?  [3]
+PART - B
+2.a) Write a PHP script to retrieve the data from oracle database.
+b) With an example explain the casting of data types in PHP.    [5+5]
+OR
+3.a) How strings are declared in PHP? Explain string operators.
+b) Explain the process of Reading data from web form controls like text boxes, radio
+buttons, and lists.         [5+5]
+4. Define Document type definition (DTD) in XML. What is difference between internal
+and External DTD.             [10]
+OR
+5.a) How XML transformations will form and write the Schemas of XML? Explain.
+b) What is an XML DOM? How DOM parses the XML file.    [5+5]
+6. With the help of neat diagram, explain the servlet architecture.       [10]
+OR
+7. List and explain the web servers that support CGI programming.       [10]
+used paper 18-04-2018
+8. Discuss about various categories of JSP tags. Explain each of them with syntax and
+suitable examples.           [10]
+OR
+9.a) Write a JSP to demonstrate the usage of page and include directives.
+b) Give a brief note on Anatomy of a JSP Page.      [5+5]
+10.a) Explain the Simple AJAX application.
+b) Discuss the event handlers in JavaScript.      [5+5]
+OR
+11. Describe about form validation concept in JavaScript. Explain with an example
+program.            [10]
+---oo0oo---
+used paper 18-04-2018

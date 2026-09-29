@@ -1,0 +1,31 @@
+FORMAL LANGUAGES AND AUTOMATA THEORY
+1.a)  Differentiate between NFA and DFA.
+b)  Construct DFA for the following language:
+i) L={w|w has both an even number of 0’s and even number of 1’s }
+ii) L= {w|w is in the form of ‘x01y’ for so me strings x and y consisting of 0’s and 1’s} .
+[5+10]
+2.a)  Design a Moore Machine to determine the residue mod 3 , where input is treated as
+binary.
+b)  Construct the NFA accepting the following language:
+i) The set of all strings over ∑ = {a,b} starting with the prefix “ab”
+ii) The set of all strings over {0,1} except those containing the substring “001”. [7+8]
+3.a)  Construct the NFA for the regular expression r = ((01+10)*00)*.
+b) What are the closure properties of regular languages?
+c)  State the Pumping Lemma for regular sets.                                                           [6+5+4]
+4.a)  Construct the regular expression for the language over the set S={0,1}
+i) The set of all strings containing no three consecutive 0’s.
+ii) The set of all strings in which the number of occurrences is divisible by 3.
+b)  Design NFA with epsilon for the RE=(a/b)*ab and convert it into DFA and further find
+the minimized DFA.          [6+9]
+5.a)  What do you mean by ambiguity in grammars and languages?  How to eliminated
+ambiguity in grammars? Explain with an example.
+b)  Consider the grammar ( {S,A,B}, {a,b}, P, S) that has the productions:
+S→bA | aB       A→bAA | aS | a        B→aBB | bS | b.
+Find an equivalent grammar in CNF.       [7+8]
+6.a)  Construct the PDA for the following grammar:
+S→aAA,  A→aS | bS | a
+b)  Discuss the applications of Push down Automata.      [8+7]
+7.  Explain the importance of Turing Machines an d also give descriptions of various types
+of Turing Machines with necessary examples.        [15]
+8.  Discuss briefly about decidability and undecidability problems.      [15]
+---oo0oo---

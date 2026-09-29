@@ -1,0 +1,61 @@
+FORMAL LANGUAGES AND AUTOMATA THEORY
+(Computer Science and Engineering)
+PART- A
+1.a) Define NFA with
+ -moves.        [2]
+b) Design FA to accept set of all strings over {0,1} containing 3 consecutive ones.
+[3]
+c) Give recursive definition for Regular expression.     [2]
+d) If L1={an/n≥1} and L2= {bn/n≥1} then find   L1.L2.    [3]
+e) State pumping Lemma.       [2]
+f) Perform leftmost derivation for the string aaabbabbba with respect to the
+Grammar S → aB / bA; A →a/ aS/ bAA;  B→b / bS / aBB  [3]
+g) Define Turing Machine.       [2]
+h) Write about Multi tape- Turing Machine.     [3]
+i) Write about Modified PCP.       [2]
+j) Give an example of a Language that is not recursive but recursively enumerable.
+[3]
+PART-B
+2.a) Convert the following NFA with € moves to DFA shown in figure 1.
+Figure: 1
+b) Design Finite Automaton which accepts set of all strings not containing 101 as
+substring.        [5+5]
+OR
+3.a) Design DFA for the language all strings over {0,1} which are ending with 00.
+b) Minimize the following DFA shown in figure 2.       [4+6]
+Figure: 2
+4.a) Convert the following Finite Automata to it’s equivalent Regular Expression  as
+shown in figure 3.
+Figure: 3
+b) Construct Finite Automata for the regular expression 0*1*(00)*1.  [5+5]
+OR
+5.a) Construct Finite Automata for ((0+1)*00)*110.
+b) Find the right linear grammar for the following regular Expression 0*110*. [5+5]
+6.a) Design Push Down Automata for the language L={wcwR | w Є (0+1)*}
+b) Convert the following Context Free Grammar (CFG) to Chomskey Normal Form
+(CNF)
+S→AaB | aaB
+A→€
+B→bbA | €         [5+5]
+OR
+7.a) Convert the following grammar to Chomsky Normal Form
+SaSa | bSb | a| b| aa | bb
+b) Construct CFG for the PDA given below A=({q0,q1},{0,1},{S,A},δ,q0,S,φ)
+where δ is  given as below       [5+5]
+δ (q0,1,S)={(q0,AS)}
+δ (q0,ε,S)={(q0,ε)}
+δ (q0,1,A)={(q0,AA)}
+δ (q0,0,A)={(q1,A)}
+δ (q0,1,A)={(q1,ε)}
+δ (q1,0,S)={(q0,S)}
+8.a) Construct the Turing machine for the language L={ anb2n| n>=1}.
+b) Write properties of recursively enumerable languages.   [5+5]
+OR
+9.a) Explain about various types of Turing Machine.
+b)  Design Turing Machine for the Language L={an bn cn/n≥1}.  [5+5]
+10.a) Write and explain about e Chomsky hierarchy of languages.
+b) What do you mean by Halting Problem of Turing Machine?    [7+3]
+OR
+11. Define the following and give examples
+a) P – type problem
+b) NP – Hard problem.       [5+5]

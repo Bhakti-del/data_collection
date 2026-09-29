@@ -1,0 +1,69 @@
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS
+and may have a, b as sub questions.
+PART – A
+1.a)    Define attenuation in the context of signal transmission.    [2]
+b)    What is the purpose of frequency translation in communication systems?  [3]
+c)    What are the drawbacks of BPSK?          [2]
+d)    What are the noise effects in Pulse Code Modulation?    [3]
+e)    What is Ethernet?         [2]
+f)     What is the role of a network switch in a LAN?                [3]
+g)    What is the primary function of a transponder in  a satellite communication system?
+[2]
+h)    What are the core and cladding in a fiber-optic cable, and how do they contribute is an
+efficient light propagation?                              [3]
+i) Which multiple access techn ique does GSM employ to handle multiple users in a
+cell?                                                       [2]
+j)    What does WiMAX stand for, and in which type of network is it commonly used? [3]
+PART – B
+2.a)  Explain the need for modulation in communication systems and provide examples of
+modulation techniques used in modern technologies.
+b)  Analyze the significance of the electromagnetic spect rum in modern communication
+and its impact on different technologies.      [5+5]
+OR
+3.a)  Evaluate the significance of decibels as a unit for exp ressing signal strength and the
+advantages it offers in comparing signal levels in logarithmic scale.
+b)  Describe the concept of frequency translation a nd how it is applied in various
+communication systems.         [5+5]
+4.a)  Discuss the principles of Analog Modulation using AM and FM techniqu es, and
+compare their advantages and disadvantages in practical communication systems.
+b) Examine the demodulation schemes used to recover the original signal from modulated
+carriers in digital modulation techniques, highlighting the key  differences between the
+processes.               [5+5]
+OR
+Used Papers March-2024
+5.a)  Design a comprehensive communication system that incorporates multiple modulation
+techniques to transmit and receive signals efficiently in different operational conditions.
+b)  With a neat sketch, explain the modulation and detection of Differential Phase shift
+Keying.           [5+5]
+6.a)  Discuss the evolution of telephones a nd telephone  systems from the early days of
+Alexander Graham Bell to modern digital communication systems.
+b)  Examine the principles of Internet Telephony (VoIP) and how it leverages the Internet
+to transmit voice data.                                                                                           [5+5]
+OR
+7.a)  Explain the concept of paging systems and how they are used for wireless
+communication.
+b)  Discuss the working principle of Token Ring LAN access method and how it ensures
+fair access to the network resources among connected devices.                               [5+5]
+8.a)  Explain the various types  of satellite orbits, including geostationary, polar, and
+elliptical orbits. Discuss the advantages and disadvantages o f each orbit type for
+satellite communication systems.
+b)  Discuss the operation of an optical transmitter and how it converts electrical signals
+into light signals for transmission through fiber-optic cables.   [5+5]
+OR
+9.a)  Discuss the concept of trilateration and its role in determining user locations in GPS
+systems.
+b)  Examine the different types of WDM, such as Coarse Wavelength Division
+Multiplexing(CWDM) and Dense Wavelength Division Multiplexing (DWDM), and
+discuss their respective applications and limitations in optical communication networks.
+[5+5]
+10.a)  Describe the basic architecture of a cellular telephone sy stem, including the
+components such as base stations, mobile switching centers, and cell sites.
+b)  Explain the concept of Wireless LAN (WLAN) and how i t enables wireless
+connectivity in local area networks?       [5+5]
+OR
+11.a)  Explain the fundamental principles of the Global System for Mobile Communications
+(GSM) and how it employs Time Division Multiple Access (TDMA) to handle multiple
+users in a cell?
+b)  Elaborate the characteristics of Zigbee as a low -power, short -range wireless
+communication technology.        [5+5]
+Used Papers March-2024

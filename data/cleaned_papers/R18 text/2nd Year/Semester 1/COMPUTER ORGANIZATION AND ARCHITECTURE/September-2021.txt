@@ -1,0 +1,19 @@
+COMPUTER ORGANIZATION AND ARCHITECTURE
+(Computer Science and Engineering)
+1.a) Draw the block diagram of a digital computer and explain the purpose of each part.
+b) Design a 4-bit combinational circuit decrementer using four full-adder circuits.   [6+9]
+2. What are the common fields found in instruction format? Explain various instruction
+formats based on types of CPU Organization?               [15]
+3. Perform the arithmetic operation (+41)+( -13) and ( -41)-(-13) in binary using signed 2’s
+complement representation for negative numbers.               [15]
+4.a) Draw the block diagram of a typical DMA controller and explain.
+b)  Explain Daisy-Chain priority interrupt in detail.     [8+7]
+5.a) Construct a diagram for a 4×4 omega Switching network. Show the switch setting
+required to connect input 3 to output 1.
+b) Give a brief note on mutual exclusion with a semaphore.    [9+6]
+6.a) Differentiate between computer organization and computer architecture.
+b) Explain the Stored Program organization in detail.     [7+8]
+7. Explain the microprogram sequencer for a control memory with a neat diagram.     [15]
+8. Derive an algorithm in flowchart form for adding and subtra cting two fixed point  binary
+numbers when negative numbers are in the signed-2’s complement representation.  [15]
+Used Papers SEP 2021

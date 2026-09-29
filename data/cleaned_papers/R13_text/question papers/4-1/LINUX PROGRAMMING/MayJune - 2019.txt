@@ -1,0 +1,36 @@
+LINUX PROGRAMMING
+(Computer Science and Engineering)
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Explain briefly about Associative Arrays.        [2]
+b) Write a short note on Disk Utility.          [3]
+c)     What is a Regular File in UNIX System?          [2]
+d)     Write a short note on “lseek”.         [3]
+e)     Differentiate between Threads and Processes.      [2]
+f)     Write a short note on Environment Variables.      [3]
+g)     Write a short note on IPC.           [2]
+h)     Explain briefly about “popen” library function.      [3]
+i)      What is a Socket?          [2]
+j)      Write a short note on “fcntl” system call.       [3]
+PART-B
+2. Explain in detail about Text Processing Utilities and Backup Utilities.  [10]
+OR
+3.a) Write a detailed note on Shell Responsibilities.
+b)  Explain in detail about Shell Meta Characters.     [5+5]
+4. Explain in detail about following File Operations :
+a) open  b) creat c) read   d) write   [10]
+OR
+5. Explain in detail about File Ownership Commands.     [10]
+6. Explain in detail about Process Creation Mechanism.    [10]
+OR
+7. Write a detailed note on following functions:
+a) kill  b) raise  c) alarm d) pause    [10]
+8.a) Discuss about Kernel support for Message Queues.
+b) Demonstrate client/server communication using message queues.   [5+5]
+OR
+9. Explain in detail about IPC between unrelated processes using FIFO’s.  [10]
+10. Explain in detail about Socket System Calls for Connection Oriented and Connection less
+protocol.               [10]
+OR
+11. Write a short note on API’s for Shared Memory.     [10]
+--ooOoo--

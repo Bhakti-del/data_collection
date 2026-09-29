@@ -1,0 +1,51 @@
+FORMAL LANGUAGES AND AUTOMATA THEORY
+and may have a, b as sub questions.
+PART – A
+1.a)      Identify the elements of finite automata.      [2]
+b)      Design FA with ∑ = {0, 1} accepts even number of 0's and even number of 1's. [3]
+c)      Outline the operations of Regular Language.      [2]
+d)      How is the Pumping Lemma used to prove that a language is not regular?    [3]
+e)      Identify the properties of parse tree.       [2]
+f)      Construct a CFG for the regular expression (0+1)*.     [3]
+g)     Discover the features of the Turing machine.       [2]
+h)      State one challenge involved in converting PDA to an equivalent CFG.  [3]
+i) Identify one example of an undecidable problem concerning Turing Machines. [2]
+j)      What is recursively enumerable language?                                [3]
+PART – B
+2.a)  Compare the characteristics of NFAs with DFAs.
+b)  Design a DFA L(M) = {w | w ε {0, 1}*} and W is a string that does not contain
+consecutive 1's.         [5+5]
+OR
+3.a) Compare transition diagrams and transition tables in detail.
+b)  Describe the steps involved in the algorithm for eliminating ε -transitions from a finite
+automaton.          [5+5]
+4.a) Write the regular expression for the language L over ∑ = {0, 1} such that all the str ing
+do not contain the substring 01.
+b)  Prove that every language defined by a regul ar expression is also defined by a  finite
+automata.          [5+5]
+OR
+5.a) Construct the FA for regular expression 0*1 + 10.
+b)  Discuss real-world applications of Regular Expressions.     [5+5]
+6.a)   Illustrate about derivations in the context of CFGs.
+b)  Let, L (G) = {am bn | m > 0 and n ≥ 0}. Find out the grammar G which produces L(G).
+[5+5]
+OR
+7.a)  Discuss Deterministic Pushdown Automata.
+b)  Derive the st ring "aabbabba" for leftmost derivation and rightmost derivation using a
+CFG given by,
+S → aB | bA
+S → a | aS | bAA
+S → b | aS | aBB           [5+5]
+8.a)  Explain the concept of Chomsky Normal Form for Context -Free Grammars  with
+example.
+b)  Construct TM for the addition function for the unary number system.  [5+5]
+OR
+9.a) Analyze the running time complexity of converting a context -free grammar to
+Chomsky Normal Form.
+b) Interpret Turing Machine program with example.     [5+5]
+10.a)  Explain NP-complete of SAT problem.
+b)  Explain Rice’s theorem and properties of RE Language.    [5+5]
+OR
+11.a)  State the properties of recursively enumerable sets which are undecidable.
+b)  Obtain the solution for the following system of posts correspondence problem.  [5+5]
+A = {100, 0, 1}, B = {1, 100, 00}

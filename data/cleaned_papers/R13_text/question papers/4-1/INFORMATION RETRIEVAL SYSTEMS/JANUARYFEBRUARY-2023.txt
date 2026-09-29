@@ -1,0 +1,43 @@
+INFORMATION RETRIEVAL SYSTEMS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) What is Boolean Indexing?        [2]
+b) Write a brief note on PRP.        [3]
+c) Illustrate Passage-based Retrieval.       [2]
+d) Define Clustering.         [3]
+e) What is Phase Translation?        [2]
+f) Write a brief note on Parsing.        [3]
+g) What are the benefits of Signature Files?      [2]
+h) What is Index Pruning?        [3]
+i) What is a Web Search Engine?       [2]
+j) What are Proximity Searches?       [3]
+PART – B
+2.  Consider a case insensitive query and document collection with a query Q and a
+document collection consisting of the following three documents:
+Q: "gold silver truck"
+D l : "Shipment of gold damaged in a fire"
+D 2 : "Delivery of silver arrived in a silver truck"
+D3: "Shipment of gold arrived in a truck"
+Explain the Similarity Co -efficient for the above quer y and calculate the Similarity
+Measures.          [10]
+OR
+3.  Write a detailed note on Non-Binary Independence Model.    [10]
+4.a)  Explain Relevance Feedback in the Vector Space Model.
+b)  Discuss Damashek Algorithm.       [5+5]
+OR
+5.a)  Describe hierarchical agglomerative clustering.
+b) Explain about D' Amore and Mah n-gram algorithm.    [5+5]
+6.  Explain word net as a Semantic Networks.      [10]
+OR
+7.a)  Explain Evaluation in Cross-Language Retrieval Systems.
+b)  Discuss Query Translation.        [5+5]
+8.  How can partial result set retrieval improve run -time performance of informatio n
+retrieval systems?         [10]
+OR
+9.a) Explain duplicate Document Detection.
+b) Illustrate variable length index computer.      [5+5]
+10.  Write a detailed note on Semi-Structured Search using a Relational Schema. [10]
+OR
+11.a) Demonstrate user-defined operations in SQL.
+b) Discuss the relations which model the document collections.    [5+5]

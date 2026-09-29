@@ -1,0 +1,20 @@
+DATA WAREHOUSING AND DATA MINING
+(Computer Science and Engineering)
+1.a) Draw the Architecture of Data warehouse and explain its Components.
+b) List and explain about various types of OLAP.             [8+7]
+2.a) How does Data warehouse handle Multidimensional data? Explain.
+b) Discuss about different approaches for Design of Data Warehouse.   [8+7]
+3.a) List and describe the Five primitives for specifying a Data Mining Task.
+b) What are the steps involved in Performing Data Cleaning as a Process?  [8+7]
+4.a) Do you agree with “Data mining as a step in the process of KDD”? Justify your answer.
+b) Illustrate the Data Transformation by Normalization.    [8+7]
+5.a) Write an algorithm for FP -tree construction and explain how frequent itemsets are  generated
+from FP-tree.
+b) Explain the procedure to mining Closed Frequent Itemsets.    [8+7]
+6.a) How are Association rules generated from Frequent Itemsets? Illustrate.
+b) Discuss the applications of Association Analysis.     [8+7]
+7.a) What is Decision Tree? Explain how it works for classification problem.
+b) How will you solve a classification problem using Bayesian Belief Networks? [8+7]
+8.a) What is Cluster Analysis? What are typical Requirements of Clustering in data mining?
+b) Explain the Partitioning Methods of Clustering in Large Databases.   [7+8]
+--ooOoo---

@@ -1,0 +1,20 @@
+DESIGN AND ANALYSIS OF ALGORITHMS
+(Computer Science and Engineering)
+1.a) Write about the pseudocode conventions for representing algorithm.
+b) Explain about Binary search and derive the time complexity.                  [8+7]
+2.a) Illustrate on Asymptotic Notations.
+b) Give the algorithm for Quick Sort.       [7+8]
+3.a) Explain about Depth first G raph Traversals with an example and derive the time
+complexity.
+b) Explain AND/OR Graphs.        [8+7]
+4.a) Explain in detail about the binary tree traversal algorithm.
+b) What is a disjoint set? Give the representations for disjoint sets and explain simple find
+and simple union operations.          [8+7]
+5.a) Explain job sequencing with deadlines using an example.
+b) Discuss 0/1 knapsack problem using dynamic programming.             [7+8]
+6.a)  Explain about the Optimal Binary Search Trees using dynamic programming.
+b) Discuss about all pairs of shortest path problem.               [8+7]
+7.a) Give general method for Branch and Bound and compare with backtracking.
+b) Give backtracking solution to sum of subsets problem.                     [8+7]
+8.a) Write notes on NP-hard and NP-complete problems.
+b) Explain cook’s theorem.               [8+7]

@@ -1,0 +1,44 @@
+FUNDAMENTALS OF BIOMEDICAL APPLICATIONS
+and may have a, b as sub questions.
+PART – A
+1.a) Give the Nernst equation for electrode potential.     [2]
+b) Differentiate between action potential and resting potential.    [3]
+c) Name the parts of the heart conduction system.     [2]
+d) What are the requirements of physiological signal amplifier?   [3]
+e) What is korotkoft sound?        [2]
+f) Discuss about the origin of heart sounds.      [3]
+g) Differentiate between external pacemaker and implanted pacemaker.  [2]
+h) What are the advantages diathermies?      [3]
+i) Summarize latency in EMG.        [2]
+j) Give the frequency range & amplitude of EEG and EMG waves.   [3]
+PART – B
+2.a) Sketch the block diagram of biomedical instrumentation system and explain the function of
+each block.
+b) Draw the structure of a living cell of a body and explain its constituents.  [5+5]
+OR
+3.a) With help of neat diagram , explain the electrical activity associated with one  contraction of
+muscles.
+b) Name the different propagation methods of action potentials.   [5+5]
+4.a) Justify how bipolar leads can be used for measurement of ECG with help of neat diagrams
+b) Enumerate and explain the different ECG waves and intervals.   [5+5]
+OR
+5.a) Illustrate the working of the cardiac conduction path with neat diagram.
+b) Explain the working principle of a ECG machine with a neat block diagram. [5+5]
+6.a) Describe the working principle of ultrasonic blood pressure measurement.
+b) Explain the measurement of heart sound with suitable diagram.   [5+5]
+OR
+7.a) Justify and explain how electromagnetic principle can be used for measurement of blood
+flow with help of neat diagram.
+b) Discuss the Oscillometric blood pressure1 measurement method.   [5+5]
+8.a) Explain the basic principle of operation of an ultrasonic diathermy unit.
+b) With help of neat block diagram, explain the working of hemodialysis machine. [5+5]
+OR
+9.a) Explain the working principle of surgical diathermy unit with a neat block diagram.
+b) What is a Synchronized defibrillator? Draw a block diagram of it and explain its working.
+[5+5]
+10.a) Discuss in brief about any one type of pneumotachmeter with relevant diagram.
+b) With a neat diagram, explain the working principle of EMG.   [5+5]
+OR
+11.a) What is EMG nerve conduction velocity? Explain the process and purpose of EMG NCV
+test.
+b) Explain the different modes of ventilator.      [5+5]

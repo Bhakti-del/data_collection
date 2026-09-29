@@ -1,0 +1,37 @@
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+- -
+1.a) Is (p → q) → ((p → q) → q) a tautology?
+b) Verify whether the following statement is tautology or not.    [8+7]
+{[p → (q
+  r)]
+  (~q)} → (p → r)
+2.a) Show that
+      p p Q QQ pP       
+b) Obtain the principal conjunctive normal form of the following formula.
+   P R Q P            [7+8]
+3.a) Find the number of committees of 5 that can be selected from 7 men and 5 women if the
+committee is to consist of atleast 1 man and atleast 1 woman.
+b) State pigeon hole principle with example.      [8+7]
+4.a) Explain reflexive, symmetric, transitive, equivalence and partial ordering relations with
+example.
+b) Let A={1, 2, 3, 4, 6}, and let R be the relation on A defined by “x divides y”, written x|y.
+(Note: x|y iff there exists an integer z such that xz = y)
+i) Write R as a set of ordered pairs.
+ii) Draw the digraph of R.
+iii) Draw the Hasse diagram of the relation.      [7+8]
+5. A survey of 500 television viewers of a sports channel produced the following
+information 285 watch cricket, 195 watch hockey, 115 watch football, 45 watch cricket
+and football, 70 watch cricket and hockey, 50 watch hockey and football an d 50 do not
+watch any of the three kinds of games.
+a) How many viewers in the survey watch all three kinds of games?
+b) How many viewers watch only cricket?      [8+7]
+6.a) A certain question paper contains two parts A and B each containing five questions. How
+many different ways a student can answer six questions by selecting atleast two questions
+from each part?
+b) How many three-digit numbers are there which are even and have no repeateddigits?
+[8+7]
+7.a) Solve the Fibonacci recurrence relation Fn = Fn-1 +Fn-2 ,with F0 = 0 and F1 = 1.
+b) Solve the recurrence relation an=7an−1−10an − 2 with a0=2and a1=3.   [8+7]
+8.a) Differentiate DFS and BFS.
+b) Show whether the two graphs below are isomorphic or not.     [7+8]
+---oo0oo---

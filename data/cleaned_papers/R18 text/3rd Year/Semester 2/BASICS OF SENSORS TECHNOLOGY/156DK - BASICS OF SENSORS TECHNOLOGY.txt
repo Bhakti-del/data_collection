@@ -1,0 +1,20 @@
+BASICS OF SENSORS TECHNOLOGY
+1.a) Define potentiometer. Explain about the resistive potentiometers in detail.
+b) Briefly explain about the dynamic characteristics of sensors.   [8+7]
+2.a) What is RTD? Explain the relationship between resistance and temperature for the RTD
+with temperature resistance curve.
+b) What are differential capacitive sensors? Explain the function of a capacitive sensor in
+a robot end Effectors.         [7+8]
+3.  Explain the working of piezo electric sensors. State their applications.  [15]
+4.a) Explain about the measurement of force using Strain gauge load cell method.
+b) Explain how to measure rotational velocity using stroboscopic methods.  [8+7]
+5.a) What is Gauge factor? Derive an expression for Gauge factor in terms of poisson’s
+ratio.
+b) Explain principle of operation of L.V.D.T. with its characteristics.     [8+7]
+6.a) With a neat diagram, explain in detail about Oscillating Type Consistency Meter.
+b) Explain in detail about differential pressure densitometer.    [8+7]
+7. Explain different methods for measuring consistency and viscosity.     [15]
+8. Explain in detail for following interfacing sensors.
+a) Force sensors
+b) Viscosity sensors
+c) Variable frequency device.              [5+5+5]

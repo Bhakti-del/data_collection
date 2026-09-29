@@ -1,0 +1,34 @@
+EMBEDDED SYSTEMS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) What is a timer of 8051?        [2]
+b) List the general-purpose registers available in 8051 architecture.   [3]
+c) What is the difference between conditional and unconditional jump?  [2]
+d) Add 84h to RAM locations 17h and 18h.      [3]
+e) What is a semaphore?         [2]
+f) Give the three rules to decide whether a function is reentrant.   [3]
+g) What is a hard time scheduling?       [2]
+h) List the goals of the typical testing process.      [3]
+i) What is internet security?        [2]
+j) Write the important features of SHARC.      [3]
+PART – B
+2.a)  Explain the challenges in embedded system design.
+b) Write the interrupts of 8051.        [5+5]
+OR
+3.a)  Explain the different modes of timers.
+b) Discuss about I/O ports of 8051.       [5+5]
+4.  Explain the logical instructions of 8051 with examples.     [10]
+OR
+5.  Explain the Jump instructions of 8051 with examples.     [10]
+6.  Discuss the interfacing of the keyboard with a neat diagram.   [10]
+OR
+7.  Explain two rules that must follow by the interrupt routines in most RTOS environments.
+[10]
+8.  Explain the encapsulation of semaphores and queues with the required code. [10]
+OR
+9.  Discuss different ways to get embedded software into the target system.  [10]
+10.  Compare the Instruction level parallelism of ARM and SHARC.   [10]
+OR
+11.  Discuss the operation and requirements of elevator controller design.  [10]
+used paper July/Aug-2023

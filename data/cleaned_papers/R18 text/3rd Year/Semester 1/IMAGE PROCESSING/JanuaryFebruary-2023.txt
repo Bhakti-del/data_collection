@@ -1,0 +1,32 @@
+IMAGE PROCESSING
+and may have a, b as sub questions.
+PART – A
+1.a)  What is ‘digital image processing’?          [2]
+b)  List the properties of 2-D DFT method.       [3]
+c)  What are gamma transformations?             [2]
+d)  What is special correlation?           [3]
+e)  State the expression for geometric mean filter.     [2]
+f)  Draw the model of image degradation-restoration process.    [3]
+g)  List the advantages of canny edge detector.      [2]
+h)  Write the mask for sobel edge detector and prewitt edge detector prewitt.     [3]
+i)  List different types of Redundancies.       [2]
+j)  Summarize noiseless coding theorem.            [3]
+PART – B
+2.  Illustrate ‘Gray level digital image processing’ in detail.      [10]
+OR
+3.  Discuss the ‘Origins of digital image processing’.       [10]
+4.  Outline the mechanism for ‘Spatial filtering’ in detail.      [10]
+OR
+5.  Write the details about ‘Histogram Processing’ for image enhancement with example.
+[10]
+6.  Describe the concept of ‘Algebraic approach to restoration’ with example.    [10]
+OR
+7.  Compare and contrast ‘Enhancement and Restoration’.      [10]
+8.  “The image threshold enjoys a central position in allocation of image segmentation”
+Prove the statement with suitable case study.        [10]
+OR
+9.  Illustrate “Region growing” with example.         [10]
+10.a)  Discuss ‘Fidelity criterion’ in image compression.
+b)   Draw and explain the functional block diagram for image compression system. [5+5]
+OR
+11.  Elaborate the techniques for “Lossy compression”.       [10]

@@ -1,0 +1,40 @@
+INTRODUCTION TO ANALYTICS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)  Write a short note on work management.      [2]
+b)  List the various data types in R.       [3]
+c)  What is professional behavior in the workplace?     [2]
+d)  Compare personal work with team work.      [3]
+e)  What is NoSQL database?        [2]
+f)  What is the purpose of using NoSQL?       [3]
+g)  What is correlation?         [2]
+h)  State and explain any example sentence for correlation.    [3]
+i)  Write a short note on manufacturing.       [2]
+j)  List out the problems related to any business.     [3]
+PART - B
+2.  Explain the following terms.
+a) Quality and standard adherence.
+b) Time management.         [6+4]
+OR
+3.a)  Write a R program for addition of matrices.
+b)  How to you find outliers in R? Explain.      [5+5]
+4.  State and explain central limit theorem with an example.      [10]
+OR
+5.a)  Describe various types of data summarization in R.
+b)  Discuss the importance of effective communication skills.    [5+5]
+6.a)  Explain how database connector is used to R-integrity?
+b)  Discuss the steps for connecting R to NoSQL database.    [5+5]
+OR
+7.  Explain the concept Excel and R integration with R connector.     [10]
+8.a)  Explain about model of multi regression system.
+b)  Differentiate between regression and correlated analysis.     [5+5]
+OR
+9.  Explain the following terms.
+a) Assumption on OLS regression.
+b) ANOVA.          [5+5]
+10.  Discuss in detail requirements gathering related to a business.     [10]
+OR
+11.  Explain the following terms.
+a) Smart utilities.
+b) Production lines.         [5+5]

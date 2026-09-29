@@ -1,0 +1,20 @@
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT
+(Computer Science and Engineering)
+1.a) Distinguish between LAN and WAN.      [8+7]
+b) Discuss about Privileged EXEC Mode in detail.
+2.a) Explain about configuring VPN server.      [8+7]
+b) Describe solutions combining Traffic Filtering with Other Technologies.
+3.a) Discuss about ping and trace commands with examples.    [8+7]
+b) Define troubleshooting. Explain about methodology of troubleshooting.
+4.a) Explain in detail about debug commands in detail.      [8+7]
+b) Discuss about network slowdowns in detail.
+5.a) Describe Incident Response Team Structure.      [8+7]
+b) What are security policies for backup procedures? Explain.
+6.a) What are various types of data backups? Explain in detail.    [8+7]
+b) Discuss about incident roles and responsibilities.
+7.a) Describe generic, professional and technical skills of NOS 9005.   [8+7]
+b) Explain about configuring and analyzing Windows logs.
+8. Explain the following:        [8+7]
+a) Detecting DoS attack
+b) Incident handling preparation
+---oo0oo---

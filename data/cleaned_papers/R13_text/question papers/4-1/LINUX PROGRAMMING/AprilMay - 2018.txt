@@ -1,0 +1,35 @@
+LINUX PROGRAMMING
+(Computer Science and Engineering)
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Write a short note on Filters.        [2]
+b) What is a Field Buffer and a Record Buffer.       [3]
+c) Explain briefly FIFO file in UNIX File System.         [2]
+d) Write a short note on “mkdir” command.       [3]
+e) Write a short note on Signal function.       [2]
+f) Compare and Contrast Reliable and Unreliable Signals.     [3]
+g) Write a short note on UNIX system V IPC methods.       [2]
+h)  Write a short note on “rclose()” library function.      [3]
+i) Explain briefly about “setsockopt” system call.      [2]
+j) Write a short note on Berkeley Socket.       [3]
+PART-B
+2. Explain in detail about Control Structures.      [10]
+OR
+3.a)  Explain in detail about Process Utilities.
+b)  Write a short notes on security using file permissions.    [5+5]
+4. Explain in detail about following File Operations:
+a) seek  b) fcntl         [5+5]
+OR
+5. Explain in detail about File and Record Locking in UNIX.    [10]
+6. Explain in detail about Kernel support for Signals.     [10]
+OR
+7. Write a detailed note on following processes:
+a) Zombie processes  b) Orphan processes.     [5+5]
+8. Explain in detail about IPC between related processes using unnamed pipes. [10]
+OR
+9.  Explain in detail about Kernel support for Semaphores.    [10]
+10. Make a comparison of various IPC mechanisms.     [10]
+OR
+11. Explain the usage of Stream Sockets using Client-Server Message handling example.
+[10]
+--ooOoo--

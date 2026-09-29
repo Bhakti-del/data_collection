@@ -1,0 +1,14 @@
+SENSORS AND TRANSDUCERS
+1.a) Give the classification of transducers. Explain the basic requirements of a transducer.
+b) Distinguish between precision and accuracy.      [10+5]
+2. Indicate the basic stages that constitute a measuring system and explain their functions.
+[15]
+3. State various dynamic characteristics of a transducer and elaborate each characteristic.[15]
+4. Obtain the response of a transducer for (a) impulse and (b) step inputs.  [15]
+5. Explain the construction and working of Bonded and unbounded strain gauges.  [15]
+6. Explain the working of Hot wire anemometer and its application for the measurement of
+flow rate of fluids.            [15]
+7.a) Discuss the principle of operation of a LVDT. Also, state its advantages and disadvantages.
+b) Explain the working principle of capacitor microphone.    [12+3]
+8. Explain the working principle and applications of the Hall-Effect transducers. [15]
+--ooOoo---

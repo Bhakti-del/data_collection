@@ -1,0 +1,27 @@
+COMPILER DESIGN
+(Computer Science and Engineering)
+1.a) Write a LEX program that recognizes the tokens of a C language and returns the  token
+found.
+b) Consider the following grammar and eliminate ambiguity and construct the parse tree
+for the sentence (a,((a,a),(a,a))).         [7+8]
+S  (L) | a  L  L,S | S
+2.a) How can NFA be generated from a Regular expression? Explain the steps with the
+following example: (a/b)*abb.
+b) Write the recursive descent parser for the following grammar:    [7+8]
+ETE′ E′ +TE′ |   TFT′  T′ *FT′ | 
+3. Compute LR(0) items for the following grammar and construct SLR parsing Table:
+SL=R | R  L *R | id  RL          [15]
+4. What is shift -reduce parsers? Explain briefly and mention the conflicts that occur
+during shift-reduce parsing.           [15]
+5.a) Write the Syntax Directed Definition for the following grammar:
+EE + T | T   TT * F | F  F  (E)/id
+b) Translate the arithmetic expression a+(b+c)*d into a syntax tree, postfix notation and
+three address code notation.         [7+8]
+6.a) Construct the Syntax Directed Translation scheme to convert a given arithmetic
+expression into three address code.
+b) Explain various symbol table organization formats and state the merits and demerits.
+[8+7]
+7. What is data – flow analysis? Explain various terminology used in data – flow
+analysis and live – variable analysis.          [15]
+8. Explain in detail about various machine dependent code optimization techniques.    [15]
+used paper feb-22 jntu

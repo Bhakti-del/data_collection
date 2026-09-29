@@ -1,0 +1,21 @@
+PROGRAMMING FOR PROBLEM SOLVING
+1.a) Explain in detail about relational operators with examples.
+b) In C if any variable is auto storage class by default, then why auto keyword introduced in
+C? Explain.          [7+8]
+2. Write a C program that performs the following operations (Use structures)
+a) Reading a complex number
+b) Writing a complex number
+c) Addition of two complex numbers.               [5+5+5]
+3.a) Discuss the random access using fseek( ) function.
+b) Give a brief note on ftell( ) and rewind( ) function.     [7+8]
+4.a) Write a recursive function in C to find the sum of array elements.
+b) Explain the passing parameters to functions.       [7+8]
+5.  Which searching technique is best among line ar search and binary search, justify your
+answer.          [15]
+6.a) Write a C Program to find maximum number among three numbers using conditional
+operator.
+b) Define Flow Chart. List some commonly used symbols and specify its purpose. [7+8]
+7.a) Write a C program to find given string is palindrome or not without using any string
+functions.
+b) Define pointer. Write the advantages and disadvantages of using pointers.  [7+8]
+8. Write a C program to merge the contents given two existing files into new file. [15]

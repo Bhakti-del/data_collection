@@ -1,0 +1,36 @@
+INFORMATION SECURITY MANAGEMENT
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      Write about Worms.         [2]
+b)      What are preventive controls and Detective Controls?    [3]
+c)      What do you mean by Network Security?        [2]
+d)      What is EMSEC?         [3]
+e)      What is context Analysis?        [2]
+f)      What are major Enterprise data states?      [3]
+g)      Why an organization needs a security policies.     [2]
+h)      What a security policy contains?       [3]
+i)       What is the role of a IS Auditor in Security Management?    [2]
+j)       What are the basic responsibilities of a Security Architect in an organization?  [3]
+PART – B
+2.a)   Differentiate Virus and Trojans in detail.
+b)  What do you mean by communication security? Explain in brief.   [5+5]
+OR
+3.a)  Explain about Common Vulnerabilities Exposures (CVE).
+b)  Explain Access Control Models in brief.      [5+5]
+4.a)  What are the services of Non-Repudiation? Explain in brief.
+b)  Explain principle consents of Data Security.      [5+5]
+OR
+5.  Discuss in detail about Key Elements of Networks.     [10]
+6.  What are the major aspects in Data Protection? Explain in detail.      [10]
+OR
+7.  What is a Data Leakage? Explain in detail about Data Leakage Prevention (DLP)
+solutions along with data leakage statistics.      [10]
+8.a) Explain about COSO internal controls framework.
+b)  Explain about COBIT frame work for ISM Audi and control.      [5+5]
+OR
+9. What are key elements and characteristics of Information? Explain in detail.     [10]
+10. Explain Risk Analysis Process in detail.        [10]
+OR
+11. List out information about various job titles and roles within the data security subsector
+with their responsibilities regarding Security concerns.       [10]

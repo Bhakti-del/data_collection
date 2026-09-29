@@ -1,0 +1,21 @@
+OPERATING SYSTEMS
+1.a) Explain multiprocessing systems and write its advantages.
+b) Write the services provided by Operating System to provide security and protection.
+[7+8]
+2.a) Compare and contrast various structures of Operating System.
+b) What are time sharing systems? Explain in detail.     [8+7]
+3.a) Explain Shortest Job First and FCFS CPU scheduling algorithms with examples.
+b) What is monitor and Give a solution for Reader’s and writer’s Critical section problem
+using monitors.         [7+8]
+4.a) Explain about process control block with neat sketch.
+b) Distinguish between ordinary pipes and named pipes in UNIX.   [7+8]
+5.a) Discuss about virtual memory and address translation in virtual memory.
+b) Explain about LRU approximation and FIFO page replacement algorithms. [7+8]
+6.a) Explain about Thrashing.
+b) Explain various structures of page table.      [8+7]
+7.a) Discuss about SCAN and C-SCAN disk scheduling algorithms.
+b)  Give a note contiguous and indexed allocations method for files.   [7+8]
+8.a) Explain the methods for handling deadlock.
+b) Explain about implementation of access matrix.     [7+8]
+RA
+USED PAPER MARCH-2021

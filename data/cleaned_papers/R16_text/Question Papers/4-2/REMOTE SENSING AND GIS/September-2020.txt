@@ -1,0 +1,18 @@
+REMOTE SENSING AND GIS
+1.a) Explain in detail about the applications of aerial photo interpretation.
+b) State and explain the types of aerial photographs.     [7+8]
+2.a) Explain how height is measured based on relief displacement.
+b) What is meant by Photogrammetry? State the principles of aerial photograph.  [7+8]
+3.a) Explain the different types of resolution.
+b) Write the various elements of visual interpretation techniques.   [8+7]
+4.a) Discuss any two Indian satellites and their sensor characteristics.
+b) Describe energy interaction with various earth features.    [8+7]
+5.a) Describe the components of Geographic Information Systems.
+b) Briefly explain the cylindrical projection system.     [8+7]
+6.a) Describe the overlay analysis in GIS.
+b) Elaborate the types of map projections.      [7+8]
+7.a) Briefly discuss the Spaghetti Model.
+b) Explain the different classes in vector model and their relationship.   [7+8]
+8.a) Describing the following
+i) Remote Sensing data ii) Field data  iii) Text data
+b) Write a detailed note on raster data model.      [9+6]

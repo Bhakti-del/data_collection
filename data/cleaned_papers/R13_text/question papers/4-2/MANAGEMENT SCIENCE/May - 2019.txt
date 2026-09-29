@@ -1,0 +1,72 @@
+MANAGEMENT SCIENCE
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What are the two factors referred to in Hertzberg theory?     [2]
+b)      What are the five levels of need hierarchy?      [3]
+c)      What are the control charts for inspection by variable?      [2]
+d)      What are the elements of marketing mix?      [3]
+e)      Differentiate between transfer and separation.     [2]
+f)       How do you calculate labor  turnover?      [3]
+g)      What is float?          [2]
+h)      What are dummy activities?        [3]
+i)       How would you conduct internal bench marking?         [2]
+j)       How would you define mission?                     [3]
+PART - B
+2.a) What is decentralization? What are its advantages?
+b)   What is matrix organization structure? Under what conditions do you need that type of
+structure? What are its advantages?                                [5+5]
+OR
+3.   Outline and explain briefly Fayol’s principle of organization.    [10]
+4.a) Determine the EOQ and number of orders to be placed in year for an item given the
+following;
+Annual consumption of the item : 14400 units
+Inventory carrying cost                : 3 percent of the average value of inventory per month.
+Price of the item                           : Rs 64 per unit.
+Ordering cost                                : Rs. 4900 per order.
+b) Bring out the differences between product lay out and process layout.    [5+5]
+OR
+5.a) List out some of the store documents and explain them briefly.
+b)  What are the stages in purchasing activity in the case of organizational buyers?   [5+5]
+6.a) What is promotion? What purpose does it serve to the organization?
+b)  What do you understand by factor comparison method of job evaluation?  [5+5]
+OR
+7.a)  What are the various functions of welfare management?
+b)   Is performance management system same as performance evaluation system? Explain.
+[5+5]
+8. The following data pertains to a project network.
+activity Normal duration
+in weeks
+Normal cost in
+Rs.
+Crash duration
+in weeks
+Crash cost in Rs.
+1-2 4 10,000 3 18,500
+1-3 8    6000 5    9500
+2-3 6 10,000 4 14,000
+2-4 9 15,000 7 22,000
+3-4 5    8000 3 15,000
+The indirect cost of the project is Rs. 4000 per week. Determine the optimum cost and the
+optimum duration of the project. Also draw the least cost network.   [10]
+OR
+9.  Draw a network diagram for the activities given below and determine the critical path.
+activity Description of the activity Duration of the
+activity in months
+Immediate
+predecessor activity
+A Design plant 12 --
+B Select size 8 A
+C Select vendor 4 A
+D Select personnel  3 A
+E Prepare site 12 B
+F Manufacture generator 18 C
+G Prepare operations manual 5 C
+H Install generator 4 E,F
+I Train operators 9 D,G
+J Obtain license 6 H,I
+[10]
+10.a) What is the importance of environmental scanning in strategic planning?
+b)  Write a brief note on Balanced Score Card.      [5+5]
+OR
+11.a) What are generic strategies?
+b)  What is SWOT analysis? Explain its significance.       [5+5]

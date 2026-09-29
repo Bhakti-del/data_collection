@@ -1,0 +1,41 @@
+ENGINEERING CHEMISTRY
+and may have a, b as sub questions.
+PART - A
+1.a)      Define molar conductance and its units.          [2]
+b)      Why moderate temperature is used during electroplating.      [3]
+c)      Define tactility and functionality of a monomer.        [2]
+d)      Mention the characteristics of a good lubricant.     [3]
+e)      Write the structure for EDTA.            [2]
+f)      Distinguish between temporary and permanent hardness.      [3]
+g)      What is meant by ignition temperature?        [2]
+h)      Why should fuel for cars not evaporate too easily?      [3]
+i)       Name two set systems which form eutectic mixtures.     [2]
+j)       Name the type of adsorption with examples.        [3]
+PART - B
+2.a)  Describe the construction of methanol-oxygen fuel cell with reactions.
+b) Explain the mechanism of electro chemical corrosion.      [5+5]
+OR
+3.a) Derive Nernst equation for single electrode potential. Mention its applications.
+b) Write a brief note on sacrificial anodic impression.       [5+5]
+4.a) Explain in detail about injection molding method with a neat diagram.
+b) Explain the preparation and applications of Butyl rubber and Thiokol rubber.   [5+5]
+OR
+5.a)  With the help of neat diagram write about thick film lubrication method.
+b)  Mention the applications of nanomaterials.        [5+5]
+6.a)    Explain zeolite process for softening of water.
+b)     Write about reverse osmosis and its significance.       [5+5]
+OR
+7.a) Discuss in detail about scale and sludge formation in water boilers. How is it controlled?
+b)  Write a brief notes on internal treatment of water.       [5+5]
+8.a) Describe the analysis of flue gas by orsat’s apparatus.
+b)  Define calorific value. Distinguish between the gross and net calorific value.   [5+5]
+OR
+9.a) Define knocking of a fuel. Discuss in detail how to improve the knocking characteristics
+of a fuel.
+b)  Explain the fixed –bed catalytic method to obtain gasoline. Give its mechanism.  [5+5]
+10.a) Draw a labelled diagram of water system and discuss the meta stable curve and
+principle of freeze drying.
+b)  Mention the classification of colloids with examples.      [5+5]
+OR
+11.a) State Phase rule and discuss its applications to water system.
+b)  Distinguish between absorption and adsorption.       [5+5]

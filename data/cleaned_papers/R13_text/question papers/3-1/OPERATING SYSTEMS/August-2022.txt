@@ -1,0 +1,27 @@
+OPERATING SYSTEMS
+----
+1.a)  What system calls have to be executed by a command interpreter or shell in order to
+start a new process? Explain briefly.
+b)  Explain briefly about virtual machines and micro Kernels.     [8+7]
+2.a)  What are the major activities of an operating system with regard to file management?
+Explain them briefly with their supporting system calls.
+b)  Discuss various operating system services that are very much helpful to the user.  [8+7]
+3.  What is a monitor? Explain how dinning philosopher’s problem is solved using
+monitors with example pseudo code.         [15]
+4.a)  What resources are used when a thread is created? How do they differ from those used
+when a process is created?
+b)  Discuss readers/writers problem and give solution by using semaphores where writers
+have priority.           [7+8]
+5. Consider a swapping system in which memory consists of the following hole sizes in
+memory order: 10 KB,  4 KB, 20 KB, 18 KB, 7 KB, 9 KB, 12 KB, and 15 KB. Which
+hole is taken for successive segment requests of: ( a) 12 KB (b) 10 KB (c) 9 KB for first
+fit, best fit, worst fit, and next fit approaches.          [15]
+6.a)  Explain briefly about LFU Page replacement algorithm.
+b) Give the detailed description of hardware implementation of a page table with
+translation Look-Aside Buffer.        [7+8]
+7.  Explain the following with relevant diagrams:
+a) Two level directory structure.
+b) Acyclic-graph directory structure.        [7+8]
+8.  List the conditions that must be present for deadlock to occur and for each condition ,
+give brief example or reason that illustrate a disadvantage in preventing the condition.
+[15]

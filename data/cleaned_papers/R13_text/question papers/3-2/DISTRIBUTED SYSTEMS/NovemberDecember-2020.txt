@@ -1,0 +1,24 @@
+DISTRIBUTED SYSTEMS
+(Computer Science and Engineering)
+1.a)  List and explain various challenges that are occurred in the process of design ing
+distributed systems.
+b)  What are the specific functional pro perties of a video streaming network system to
+satisfy the expected QoS?        [7+8]
+2.a)  Explain about Christian’s method for synchronizing clocks.
+b)  Write about Maekawa’s voting algorithm.      [8+7]
+3.a)  What is the need for Serialization? De sign a set of constructors and its corresponding
+method for a serialized object “Employee” using Java class using CORBA IDL.
+b)  How are unused remote objects handled by Java garbage handling? Explain how the
+algorithm helps to avoid failure.       [8+7]
+4.a) What are the characteristics of file System? Explain briefly.
+b)  Compare the relative advantages of X.500 with GNS.    [7+8]
+5.a)  Explain how the time -stamp approach helps in overcoming the lost -update problem.
+Prepare a modified algorithm and explain how the inconsistencies are removed.
+b)  Compare the operations of Two -phase commit protocol over three -phase commit
+protocol. Identify the advantages of each method.     [8+7]
+6.a)  Discuss how Denial of service attack takes place in a distributed network system.
+b)  Explain about Software and Hardware service layers in distributed system.  [8+7]
+7.a)  Explain how Berkley’s algorithm tries to resolve the pitfalls of Christian’s algorithm.
+b)  What is the use of bully algorithm? Illustrate with an example.   [8+7]
+8.a)  List and explain various design issues of RMI.
+b)  Explain in detail about Sun RPC.       [8+7]

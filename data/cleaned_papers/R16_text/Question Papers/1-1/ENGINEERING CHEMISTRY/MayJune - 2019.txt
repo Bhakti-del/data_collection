@@ -1,0 +1,53 @@
+ENGINEERING CHEMISTRY
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What is break point chlorination? Give its advantages.    [2]
+b) What is meant by reverse osmosis process? Write the advantages of this process. [3]
+c) Give the chemical reactions involved in the functioning of Hydrogen-Oxygen fuel cell.
+[2]
+d) Give the construction and cell reactions of standard hydrogen electrode.  [3]
+e) Give the synthesis and applications of PVC.      [2]
+f) What are bio-degradable polymers? Give two examples.    [3]
+g) What is knocking? Mention an anti knocking agent.     [2]
+h) Write the composition characteristics and applications of compressed natural gas. [3]
+i) What are the main components of water proof cement and high alumina cement? [2]
+j) How the composite materials have been classified? Give suitable examples. [3]
+PART-B
+2.a) Explain the principle, process, advantages and limitations of ion exchange method of
+softening of water.
+b) A sample of hard water contains the following dissolved salts per liter.
+NaCl = 58.5 mg/L, Ca(HCO3)2 = 16.4 mg/L, Mg(HCO 3)2 = 14.6 mg/L,
+CaCl2 = 111 mg/L, MgSO 4 = 12 mg/L and CaSO 4 = 13.6 mg/L. Calculate temporary,
+permanent and total hardness of water in ppm and degree French.   [5+5]
+OR
+3.a) What is Caustic embrittlement? What are the causes and preventive methods of it?
+b) What are the specifications of potable water? Write the steps involved in the  treatment of
+potable water.          [5+5]
+4.a) Explain how the Glass electrode is used to determine the pH of a given solution. What
+are the limitations of glass electrode?
+b) What is secondary battery? Explain the discharging and recharging pr ocess of lead - acid
+battery.          [5+5]
+OR
+5.a) What is concentration cell? Explain its functioning with suitable example.
+b) What is an electrochemical cell? Explain the working principle of Zn-Cu electrochemical
+cell.           [5+5]
+6.a) Explain the mechanism involved in the conduction of  trans poly acetylene. Give the
+applications of conducting polymers.
+b) Why natural rubber is vulcanized? What are the advantages and applications of
+vulcanized rubber?         [5+5]
+OR
+7.a) Write the preparation, properties and applications of Bakelite.
+b) Explain about fiber reinforced plastics and their applications.   [5+5]
+8.a) Explain the ultimate analysis of coal? Write its significance.
+b) Explain how gasoline is synthesized by Fischer-Tropsch’s process.   [5+5]
+OR
+9.a) What is cracking? Explain fluid bed catalytic cracking.
+b) Write a short note each on Octane number and Cetane number.   [5+5]
+10.a)  What is the composition of Portland cement? Write the steps involved in setting and
+hardening of Portland cement.
+b) What are the characteristics of  a good lubricant? Give the mechanism  of thin film
+lubrication.          [5+5]
+OR
+11.a) What are flash point and fire point of lubricant? Explain their significance.
+b) Define refract ory. Explain about refractoriness, porosity and chemical inertness of
+refractory.          [5+5]

@@ -1,0 +1,45 @@
+ELECTRONIC DEVICES AND CIRCUITS
+PART- A
+1.a) Draw the V-I characteristics of varactor diode.           [2]
+b) Explain how does the reverse saturation current of a p-n diode vary with temperature. [3]
+c) Define the percentage of regulation.                  [2]
+d) What is the need of rectifier? List different types of rectifiers.       [3]
+e) Illustrate CE cutoff region.                  [2]
+f) Explain the base spreading resistance.           [3]
+g) What is thermal runaway?               [2]
+h) List and briefly explain three sources of instability of collector current.          [3]
+i) What are the different types of FETs?          [2]
+j) What is pinch-off voltage? Give its expression.         [3]
+PART-B
+2.a) Derive the expression for transition capacitance CT of a diode.
+b) Draw the small signal model of Tunnel Diode operating in the negative resistance region.
+[5+5]
+OR
+3.a) Draw and explain the graph indicating the variation of minority carrier density with
+distance in a p-n junction diode under forward biased condition.
+b) Write the equation for Volt-Ampere characteristics of a photo diode.    [5+5]
+4.a) Draw and explain the circuit of a half-wave rectifier with capacitor filter.
+b) Explain the design of Full wave bridge rectifier.      [5+5]
+OR
+5.a) A half wave rectifier has a load of 3.5 K Ω. If the diode resistance and the secondary coil
+resistance together have a resistance of 800Ω and the input voltage has a signal voltage of
+240 V, calculate i) Peak, average and rms value of current flowing.  ii) dc power  output.
+iii) ac power input   iv) Efficiency of the rectifier.
+b) Compare inductor and capacitor filters.       [6+4]
+6.a) Explain the input and output characteristics of a transistor in CB configuration.
+b) Draw the circuit diagram of an NPN junction transistor in CE configuration and
+describe its characteristics.         [5+5]
+OR
+7.a) Illustrate and explain active region, saturation region and cut-off region in transistor
+characteristics.
+b) Explain the hybrid small signal model for common collector configuration.  [5+5]
+8.a) Draw a transistor amplifier using self bias (CE configuration) and explain the operation.
+b) Discuss the stabilization against variations in VBE and β.     [6+4]
+OR
+9.a) Draw and explain the Collector feedback biasing.
+b) Describe the analysis of Transistor Amplifier circuit using h-parameters.   [6+4]
+10.a) Explain how FET works as voltage variable resistor.
+b)  Compare BJT and FET.         [6+4]
+OR
+11. Explain the constructional features of a depletion mode P-channel and Enhancement
+mode MOSFET and explain its basic operation.      [10]

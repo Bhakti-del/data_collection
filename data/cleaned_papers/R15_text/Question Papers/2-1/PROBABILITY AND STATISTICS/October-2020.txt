@@ -1,0 +1,42 @@
+PROBABILITY AND STATISTICS
+1.a) The probabilities of a Poisson variate X taking the values 1 and 2 are equal. Find:
+i) Mean µ  ii) P(X ≥ 1)                    iii) P(1 < X < 4).
+b) Given that the mean heights of students in a class is 158 cms with a standard deviation of
+20 cms. Find how many students height lie between 150 cms and 170 cms.  [7+8]
+2.a) Average number of accidents on any day on a national highway is 1.6. Determine the
+probability that the number of accidents is:
+i) At least one   ii) At the most one.
+b) The marks obtained by 500 students is normally distributed with mean 65 % and Standard
+deviation 8%. Determine how many get more than 80%.    [7+8]
+3. Calculate the coefficient of rank correlation from the following data.  [15]
+4. The joint probability density function is given by
+a) Marginal probability density function for X
+b) Marginal probability density function for Y.     [15]
+5. A survey of 400 families with 5 children each revealed the following distribution. Is this
+result with the hypothesis that male births are equally probable?      [15]
+6.a) The mean height of 90 students in a class is 180 cms Test at 90% level whether the
+sample had been drawn from a population whose mean is 170 cms and standard deviation
+35.
+b) Among the items produced by a factory out of 500, 15 were defective in another sample
+out of 400, 20 were defective. Test the significance between the difference  of two
+proportions at 5% level.            [7+8]
+7.a) Derive the formula for the waiting time of a customer has to wait before getting service.
+b) Derive formula for Expected number of customers in the system.   [7+8]
+x y,0 1,0 y 1() 0,
+xfx elsewhere
+    
+
+x 68 64 75 50 64 80 75 40 55 64
+y 62 58 68 45 81 60 68 48 50 70
+No. of boys 0 1 2 3 4 5
+No. of families 25 60 110 113 62 30
+8. There are three brands of tooth pastes, 1, 2 and 3. Transition of customers moving from
+one brand t o another b rand is given by the following transition probability matrix
+0.8 0.1 0.1
+0.05 0.75 0.2
+0.4 0.3 0.3
+
+
+
+
+. What are the long run market shares?               [15]

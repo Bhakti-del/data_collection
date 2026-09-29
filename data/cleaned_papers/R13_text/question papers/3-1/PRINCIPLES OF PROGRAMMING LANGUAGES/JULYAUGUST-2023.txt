@@ -1,0 +1,43 @@
+PRINCIPLES OF PROGRAMMING LANGUAGES
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)      Compare the behavior of imperative paradigm and functional paradigm.  [2]
+b)      What is virtual machine, specify its purpose?     [3]
+c)      What is strong typing?        [2]
+d)      What is a pointer variable?  How does it differ with normal variable?  [3]
+e)      What is static scope?         [2]
+f)      Differentiate ‘&’ with ‘&&’.        [3]
+g)      List out the importance of Polymorphism.      [2]
+h)      What is the importance of the Event handler?      [3]
+i)       Write a code for subtraction of two numbers using imperative language.  [2]
+j)       Write a program to find out the area of a triangle using functional paradigm. [3]
+PART - B
+2.  Discuss on:
+a) The grammar for simple statements
+b) Attribute Grammar and Ambiguous Grammar.     [5+5]
+OR
+3.a)  Derive the Parse tree for the statement A= A+(B*C).
+b)   Explain the need and importance of syntax and semantics.    [6+4]
+4.  Explain about:
+a) Conditional statements
+b) Looping statements with neat sketch and example.     [5+5]
+OR
+5.  Explain the various expressions with suitable example.       [10]
+6.a)  Explain scope and lifetime of a variable using examples.
+b) Distinguish between static and dynamic scoping.     [5+5]
+OR
+7. Write a Program to find the  sum of two complex numbers using user defined
+overloading concepts.           [10]
+used paper July/Aug-2023
+8.a) Narrate on the elements of prolog
+b)  What is the difference between the C++ event handler and JAVA event handler? [3+7]
+OR
+9.a) Explain about assertions in exceptions.
+b)  Enumerate on the behavior of finally keyword.     [5+5]
+10.a) List out the behavioral differences of procedural abstraction and data abstraction.
+b)   Explain about the values and types of python.     [4+6]
+OR
+11.a)   Write notes on  first functional programming language.
+b)    Explain about the importance of bindings and scope.     [5+5]
+used paper July/Aug-2023

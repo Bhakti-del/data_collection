@@ -1,0 +1,40 @@
+COMPUTER GRAPHICS
+and may have a, b as sub questions.
+PART - A
+1.a)      What are the application areas of Computer Graphics?    [2]
+b)      Write a short note on work stations.       [3]
+c)      What is reflection?           [2]
+d)      Explain the 2D transformation matrix for Rotation.     [3]
+e)      Write a short note on Hermite curve.       [2]
+f)      Derive the matrix form for the scaling operation in 3-D graphics.   [3]
+g)      Write about z-buffer algorithm.       [2]
+h)      What are advantages of BSP tree method?      [3]
+i)       What is the importance of animation in Computer Graphics?   [2]
+j)       What is raster animation?        [3]
+PART – B
+2.a)  Briefly explain about mid-point circle algorithm with example.
+b)  Write a short note on flood-fill algorithm.      [5+5]
+OR
+3.a)  Discuss about random scan systems.
+b)  Digitize the line with end points (20,  10) and (30,18) using Bresenham’s algorithm .
+[5+5]
+4.a)  Describe the steps involved in Sutherland Hodgeman  polygon clipping algorithm.
+b)  What is shear transformation? Discuss with example.    [5+5]
+OR
+5.  Derive the composite transformation matrices for translation and scaling.    [10]
+6.a)  Write a short note on B-Spline curve.
+b)  Discuss about Polygon surfaces.       [5+5]
+OR
+7.a) Briefly explain about 3D reflection.
+b) Briefly explain about view volume.       [5+5]
+used paper July/Aug-2023
+8.  Discuss about basic illumination models.        [10]
+OR
+9.a)  Write a short note on area sub-division methods.
+b)  Explain about back-face detection.       [5+5]
+10.a)  Explain briefly about the steps in design of animation sequence.
+b)  Explain about Key frame systems.       [5+5]
+OR
+11.a)  Discuss about the general purpose languages used for animation.
+b)  Explain about motion specifications in computer animation.    [5+5]
+used paper July/Aug-2023

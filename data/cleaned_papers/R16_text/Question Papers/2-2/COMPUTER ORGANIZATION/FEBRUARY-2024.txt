@@ -1,0 +1,44 @@
+COMPUTER ORGANIZATION
+and may have a, b as sub questions.
+PART – A
+1.a)     What is computer organization?        [2]
+b)     What is the significance of AC, IR and PC registers?     [3]
+c)     What is the maximum memory size that can be addressed by 8086?    [2]
+d)     Briefly explain the four segment registers of 8086 processor.    [3]
+e)     What is an assembler?         [2]
+f)      What is the purpose of DEBUG command? List out the function of various command
+characters of DEBUG command.        [3]
+g)      State the basic principle of the two-wire handshaking method of data transfer.  [2]
+h)     Draw the timing diagram for asynchronous data transfer.     [3]
+i)     What is Auxiliary memory?        [2]
+j)     Explain the need and main motivation behind virtual memory.    [3]
+PART – B
+2.a) Present an initial configuration for the instruction cycle using a flow chart and explain
+how the control determines the instruction type after decoding phase?
+b) List out various phases of an instruction cycle.      [7+3]
+OR
+3.a) Explain the significance of micro programmed control unit.
+b) Draw the block diagram of a control memory and its associated hardware needed for
+selecting the next microinstruction address and explain.     [5+5]
+4. Draw the architecture of 8086 processor and describe the ove rall organization of each
+unit.           [10]
+OR
+5. List and explain the functions of various data transfer, branch and loop instructions of
+8086 processor with examples for each.       [10]
+6. How to define and call a subroutine in 8086 programming ? Explain with an illustrative
+example.           [10]
+OR
+7.a) Explain the interrupt response sequence of 8086 when an interrupt occurs.
+b) Write an assembly language program to ad d the c ontents of the memory location
+2000H:0500H to contents of 3000H:0600H and store the result in 5000H:0700H.  [6+4]
+8. Draw the flowchart and explain the algorithm for add ing and subt racting two binary
+numbers in signed 2’s complement representation.      [10]
+OR
+9.a) Differentiate between synchronous and asynchronous data transfer.
+b)  Explain daisy-chaining priority interrupt method for data transfer with relevant diagrams.
+[4+6]
+10. Draw the block diagram of associative memory and explain its functionality in detail.
+[10]
+OR
+11. What are the conflicts raised during multiple processes communication? Explain various
+ways to implement interprocessor synchronization?       [10]

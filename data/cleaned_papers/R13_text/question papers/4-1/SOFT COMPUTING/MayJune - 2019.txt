@@ -1,0 +1,53 @@
+SOFT COMPUTING
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) List the drawbacks of generate and test technique for search.    [2]
+b) What are the characteristics of AI problem?       [3]
+c) What is the use of learning rate parameter?         [2]
+d) Mention the applications of perceptron network.      [3]
+e) Give the general structure of full counter propagation network.     [2]
+f) Discuss the concept of simulated annealing network?     [3]
+g) List the properties of fuzzy sets          [2]
+h) What are the operations on fuzzy relations? Give examples.    [3]
+i) Define plausibility measure.         [2]
+j) Draw the block diagram of an expert system.      [3]
+PART-B
+2.a) Suggest two situations for which means end analysis technique is suitable.
+b)  Represent the following sentences in predicate logic
+i) Arnav likes easy courses
+ii) Every student likes easy courses
+iii) AI is an easy course        [5+5]
+OR
+3. Explain crypt arithmetic problem as a constraint satisfaction problem with suitable
+example.          [10]
+4. Construct and test a BAM network to associate letters E and F with simple bipolar input-
+output vectors. The target output for E is (-1,1) and for F is (1,1). The display matrix size
+is 5 × 3, The input patterns are
+*   *   * *   *   *
+*   ^   ^ *   *   *
+*   *   * *   ^   ^
+*   ^   ^ *   ^   ^
+*   *   * *   ^   ^
+[10]
+OR
+5. With the help of a detail flowchart explain back-propagation network training. [10]
+6.a) Discuss the purpose of Learning Vector Quantization net.
+b)  Write the training algorithm of Kohonen self-organizing feature maps.  [5+5]
+OR
+7. With neat architecture, explain the training algorithm used in adaptive resonance theory
+network.          [10]
+8.a)  Describe the importance of fuzzy sets and its applications in engineering.
+b)  Demonstrate fuzzy composition techniques.      [5+5]
+OR
+9.a) What are the various methods employed for the membership value assignment?
+b)  How is a fuzzy relation converted into a crisp relation using lambda -cut process?
+Illustrate with an example.        [5+5]
+10.a) The two fuzzy vectors of length 6 are defined as
+a = (0.5, 0.7, 0.2, 0.3, 1, 0.8)
+b = (0, 0.2, 0.1, 0.4, 0.6, 1.0)
+Find the inner product and outer product of two vectors.
+b)  Mention the measures of fuzziness with illustrations.    [5+5]
+OR
+11.a)  What are the advantages of Mamdani method over Sugeno method?
+b)  Discuss various stopping conditions for genetic algorithm flow.   [5+5]
+--ooOoo—

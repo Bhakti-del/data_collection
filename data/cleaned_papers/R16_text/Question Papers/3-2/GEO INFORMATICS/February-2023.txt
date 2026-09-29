@@ -1,0 +1,39 @@
+GEOINFORMATICS
+and may have a, b as sub questions.
+PART - A
+1.a)  What is meant by Focal length of lens in aerial photography?    [2]
+b)  Why is stereo photogrammetry important?       [3]
+c)  Write down principle of remote sensing.       [2]
+d)  What is sensor in geology?         [3]
+e)  What do you understand by image histogram?      [2]
+f)  Is image classification supervised or unsupervised?      [3]
+g)  List few urban applications of GIS.        [2]
+h)  What is the definition of error in GIS?       [3]
+i)  How do you explain GNSS?         [2]
+j)  Which countries use GLONASS?        [3]
+PART - B
+2.a)  Discuss about various types of Aerial Photogrammetric techniques.
+b)  What are the factors effecting aerial photographs?      [5+5]
+OR
+3.a) What are the advantages of digital photogrammetry?
+b) How can you interpret the aerial photographs? Discuss.     [5+5]
+4.  List and explain any two satellites and write down characteristics of satellites.    [10]
+OR
+5. What are Spectral reflectance curves? Discuss them for water, vegetation and borewell.
+[10]
+6.a) What are the main characteristics of satellite imageries? Explain.
+b) Discuss the file formats used in various satellites.      [5+5]
+OR
+7.  Explain the applications of remote sensing in ground water prospects and potential
+recharge zones.            [10]
+8. What are the data ty pes in GIS? Explain with clear illustrations the concepts of various
+data models used in GIS.           [10]
+OR
+9.a)  Discuss in brief various applications of GIS in civil engineering.
+b)  What do you understand by spatial data and how are they integrated to make a GIS?
+[5+5]
+10.a)  Explain in brief how GPS helps in modern life.
+b)  Discuss in brief about GPS satellite signals and also explain its importance.  [5+5]
+OR
+11.a) Discuss about composition of GPS satellite signals.
+b) What is differential GPS used for? Discuss the principle of differential GPS.  [5+5]

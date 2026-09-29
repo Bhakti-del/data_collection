@@ -1,0 +1,17 @@
+DATA STRUCTURES
+1.a) Write an algorithm of Insert and Delete operation in Singly Linked List.
+b)  Convert the following infix expression into postfix expression
+A + B – C * D * E $ F $ G        [7+8]
+2.  Explain about the various hash collision resolution techniques with an example. [15]
+3. Insert the following list of elements from the AVL tree. Delete the elements 18, 2 and 30
+from the AVL tree 12, 30, 36, 18, 25, 9, 4, 2, 17, 14 , 20, 47    [15]
+4.a)  Differentiate between BFS and DFS.
+b)  Explain about external sorting with an example.     [7+8]
+5.a) Write an algorithm of compressed Trie.
+b) Explain about the Brute force algorithm with an example.    [7+8]
+6.a)  Write a program to implement stack using linked list.
+b)   Explain the operations of Queue with an example.     [8+7]
+7. Explain about:
+a) Rehashing
+b) Extendible hashing.        [15]
+8. Write an algorithm to delete an element from the binary search tree.  [15]

@@ -1,0 +1,18 @@
+HUMAN COMPUTER INTERACTION
+1.a)  Give a brief summary on graphical systems.
+b)  What are the benefits of a good design?      [8+7]
+2.a)  Discuss the importance of good user interface.
+b)  Compare the graphical user interface and web user interface.   [7+8]
+3.  Explain the following:
+a) Statistical Graphics screen planning
+b) Information retrieval on web.       [8+7]
+4.a)  State the screen design goals.
+b)  Discuss the guidelines for displaying amount of information on screen.  [6+9]
+5.a)  Explain various window components.
+b)  Write short notes on foreground of colors.      [8+7]
+6.a)  Explain the different types of messages.
+b)  What are the uses of the diagrams?       [8+7]
+7.a)  Give a brief summary on multi-modal interaction.
+b)  What are the techniques of evaluation? Explain.     [7+8]
+8.  Explain in detail about hierarchical models and linguistic models.     [15]
+---oo0oo---

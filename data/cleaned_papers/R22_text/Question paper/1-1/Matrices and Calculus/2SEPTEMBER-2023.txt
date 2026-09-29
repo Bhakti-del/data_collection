@@ -1,0 +1,127 @@
+MATRICES AND CALCULUS
+CSE(AI&ML), CSE(DS), CSE(IOT), AI&DS, AI&ML,CSD)
+PART- A
+1.a) Define rank of a matrix.        [1]
+b) What do you mean by indirect methods?      [1]
+c) What is characteristic equation of a matrix?      [1]
+d) Write the symmetric matrix in the matrix notation of the quadratic form:
+++.         [1]
+e)   State Lagrange’s mean value theorem.      [1]
+f)  Define improper integral.        [1]
+g) State Euler’s theorem.         [1]
+h)  What are stationary points of ( , )?z f x y      [1]
+i) Define volume integral of a vector point function   over a region V.  [1]
+j) For finding the area of a plane region R, which double integral is to be evaluated. [1]
+PART - B
+2.a) Determine the rank of the matrix by reducing it into normal form
+1 2 1 4
+2 4 3 4 .1 2 3 4
+1 2 6 7
+ 
+ 
+ 
+ 
+    
+b) Apply Gauss elimination method to solve the equations
++ − =−;+ − =−; −  − =.    [5+5]
+OR
+3.a) Apply Gauss -Jordon method to solve the equations:
++ − =−,++=, − +=.
+b) Apply Gauss -Siedel method to solve the equations:
+++= 9,++=,++=.    [5+5]
+4.a)  Find the Eigen values and Eigen vectors of the following matrix [
+ − 
+−  −
+ − 
+].
+b)  Using Cayley-Hamilton theorem the matrix A= [
+  
+  
+  
+]  compute A1. Also find for
+A8 − A7 +A 6 − A5 + A4 − A3 +A 2 − A + I.     [5+5]
+OR
+5.a)   Using Cayley Hamilton theorem for the matrix [
+  
+ − 
+  
+] and find its inverse.
+b) Reduce the quadratic form x 2 +y 2 +z 2 − xy− yz +zx into a sum of squares
+by an orthogonal transformation and also discuss its nature.    [5+5]
+6.a)  Verify Rolle's theorem for  the function   log ef x x  in [1, ].e
+b)  Expand  , sinf x y xyin powers of   1xand   2y  upto second degree terms.
+[5+5]
+OR
+7.a) Find the volume of the revolution of a loop of the curve 2 2( ) (3 ) 0y x b x b x   about
+x-axis.
+b) Prove that   2 1
+1( ) (2 ). 2 2 mm m m 
+                 [5+5]
+8.a) If
+21
+3131
+2121
+1cos 
+
+
+
+
+
+
+
+
+ 
+y x
+y xec u then prove that .12
+tan
+12
+13
+12
+tan2
+2
+2
+2
+2
+2
+2
+2
+2
+
+
+
+  
+ 
+
+ u u
+y
+uyy x
+uxyx
+ux
+b)   If 1 1 and tan tan ,1
+x yu v x yxy
+     find  
+ 
+, .,
+u v
+x y
+
+
+Are u and v functionally related?  If so
+find its relation.         [5+5]
+OR
+9.a) Find the maximum and minimum values of 32( −  − ).
+b)  A rectangular box open at top is to have a volume of 32 cubic feet. Find the dimensions
+of the box requiring least material for its construction.    [5+5]
+10.a) Evaluate ∬  over the positive quadrant of the circle 2 + 2 = 2.
+b)  Evaluate the integral ∫ ∫
+
+
+∞
+
+∞
+0 by changing the order of integration. [5+5]
+OR
+11.a) Find by double integration the area of the lemniscate  2 = 2.
+b)  Find the volume bounded by the cylinder
+2 2 4x y and the planes 4 y z and
+0.z           [5+5]

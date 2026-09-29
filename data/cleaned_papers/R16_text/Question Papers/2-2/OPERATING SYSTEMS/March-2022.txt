@@ -1,0 +1,24 @@
+OPERATING SYSTEMS
+1.a) Explain the Operating System services.
+b) Discuss the Protection and Security.       [8+7]
+2. List and explain the various types of system calls.      [15]
+3.   PID AT BT
+CPU IO CPU
+P1 0 1 2 2
+P2 1 2 4 5
+P3 2 3 6 8
+What are the completion times of processes P1, P2 and P3 using SRTF (Shortest
+Remaining Time First)?        [15]
+4.a) Draw and explain the process state diagram with two suspend states.
+b) Explain the Classic Problems of Synchronization.     [8+7]
+5.a) In a paged memory, the page hit ratio is 0.35. The time required to access a page in
+secondary memory is equal to 100nS. The time required to access a page in physical
+memory is 10nS. What is the average time required to access a page?
+b) Discuss the hardware support required to support demand paging.   [8+7]
+6. Explain about FIFO, LRU page replacement algorithms with example.  [15]
+7.a) Discuss the Directory and Disk Structure.
+b) Give a brief note on File System Structure.      [8+7]
+8.a) Define deadlock. Explain the necessary conditions for a deadlock to occur.
+b) Is it possible to apply the Resource allocation graph algorithm to avoid deadlock?
+Explain.          [7+8]
+--oo0oo---

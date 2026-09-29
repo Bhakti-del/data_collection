@@ -1,0 +1,40 @@
+ENGINEERING PHYSICS – II
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Explain dual nature of light.              [2]
+b) Define de-Broglie’s hypothesis.        [3]
+c) Define Fermi energy level at 0K.       [2]
+d) Draw V-I Characteristic curve of PN junction diode.     [3]
+e) Define Polarization vector.         [2]
+f) Explain pyro electricity.         [3]
+g) Define magnetic susceptibility.         [2]
+h) Distinguish between soft and hard magnetic materials.     [3]
+i) What is nano size? Explain briefly.        [2]
+j) Write any two applications of nanomaterials.      [3]
+PART-B
+2.a) With neat diagram explain Davisson and Germer’s experiment.
+b) Describe formation of energy bands in solids.      [5+5]
+OR
+3.a) Derive Schrödinger’s time independent wave equation.
+b) Explain physical significance of wave function (ψ).      [5+5]
+4.a) Distinguish between direct and indirect band gap semiconductors.
+b) Determine the concentration of the charge carriers in conduction band of intrinsic
+semiconductors.          [4+6]
+OR
+5.a) Explain formation of PN junction diode.
+b) Describe construction and working principle of Solar Cell.     [4+6]
+6.a) Derive an expression for Clausius-Mosotti relation.
+b)  Describe Ferro electricity of a dielectric material.      [5+5]
+OR
+7.a) Derive an expression for electronic polarizability.
+b) Discuss Piezo electricity of a dielectric material.      [5+5]
+8.a) Discuss classification of magnetic materials.
+b) Explain hysteresis curve based on domain theory of ferro magnetism.  [5+5]
+OR
+9.a) What is Meissner’s effect? Write any two applications of superconductors.
+b) Derive an expression for Bohr magneton.       [5+5]
+10.a) Explain how surface to volume ratio varies in nano materials.
+b) Describe preparation of nanomaterials by using Sol-Gel method.    [4+6]
+OR
+11.a) Explain Quantum confinement.
+b)  Explain how the nanomaterials are characterized by using SEM and TEM.  [4+6]

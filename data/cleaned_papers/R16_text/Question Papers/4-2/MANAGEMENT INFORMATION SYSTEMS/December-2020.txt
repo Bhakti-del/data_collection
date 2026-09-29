@@ -1,0 +1,12 @@
+MANAGEMENT INFORMATION SYSTEM
+1. What are the characteristics of MIS? Explain various types of information systems.[15]
+2. Which are specific areas of business for which application software i s available readily?
+Explain.                   [15]
+3. Describe the basic concepts of IS security.        [15]
+4. Is Information Security a problem of ‘management’ or ‘technology’? Explain your
+reasoning.               [15]
+5. Outline briefly the evolution of ‘enterprise resource planning’ and ‘expert system’.[15]
+6. Which are the major modules of ERP? Explain.     [15]
+7. Explain how better performance of suppliers is achieved through ERP implementation? [15]
+8. Why is ERP system maintenance necessary? Describe briefly the types of ERP system
+maintenance.              [15]

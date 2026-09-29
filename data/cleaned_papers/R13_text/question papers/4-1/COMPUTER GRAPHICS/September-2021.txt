@@ -1,0 +1,18 @@
+COMPUTER GRAPHICS
+(Computer Science and Engineering)
+1.a)  Explain about the construction and functioning of different graphical input devices.
+b) What are the steps involved in DDA algorithm for line drawing?   [8+7]
+2.a) Briefly explain about Scan-line algorithm.
+b) Explain in detail about the random scan systems.     [7+8]
+3.a) Explain the 2 D transformation matrix for Rotation.
+b)  Write a short note on reflection.       [8+7]
+4.a) Explain Sutherland Hodgeman polygon clipping algorithm with a suitable example.
+b) Write a short note on viewing functions.      [8+7]
+5.a) Write a short note on Bezier curve.
+b) Give a detailed note about Hermite interpolation.     [7+8]
+6.a) Write a short note on 3D shearing.
+b) Derive the matrix form for Scaling in 3-D graphics.     [8+7]
+7.a) Write short note on raster animation.
+b) Write a short note on stage action rule of animations.    [7+8]
+8.a) Explain in detail about BSP trees.
+b) Explain the design of animation resource.      [7+8]

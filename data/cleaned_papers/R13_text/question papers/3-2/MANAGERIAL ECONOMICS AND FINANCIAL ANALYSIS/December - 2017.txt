@@ -1,0 +1,157 @@
+MANAGERIAL ECONOMICS AND FINANCIAL ANALYSIS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Explain the concept of ‘Demand’.       [2]
+b) Define Elasticity of demand and mention the formula for measurement.  [3]
+c) What are ‘Isocosts’?         [2]
+d) Give the Cobb Douglas production function.      [3]
+e) What are the features of perfect competition?     [2]
+f) Write about the different forms of business organisation.    [3]
+g) Give the different types of capital.       [2]
+h) What is a cash budget?        [3]
+i) Write a note on IFRS.         [2]
+j) What is the difference between journal and Ledger?     [3]
+PART - B
+2.a) What do you understand by managerial economics?
+b) Give the nature and scope of managerial economics.     [5+5]
+OR
+3.a) What are the different types of elasticity of demand.
+b) 8000-1000p=-4000+2000p, what is the value of p?     [5+5]
+4.a) Explain the laws of returns.
+b) Fixed Costs Rs.24000 pa, Variable Cost Per Unit is Rs.6, Selling Price Per Unit is
+Rs.10 and Quantity Produced is 10000 Units. What is break even point?  [5+5]
+OR
+5.a) Write in detail about production function.
+b) You run a manufacturing business that is involved in manufacturing and selling a single
+product. The annual fixed expenses to run the business are Rs15,000 and variable
+expenses are Rs7.50 per unit. The sale price of your product is Rs15 per unit. What is
+the margin of safety?         [5+5]
+6.a) Compare and contrast  monopoly and monopolistic competition.
+b) What is pricing? What are the practices of pricing methods in India?  [5+5]
+OR
+7.a) Compare and contrast perfect competition and monopoly.
+b) Write a note on the impact of liberalisation on the business environment.  [5+5]
+used paper 21-12-2017
+8.  ABC Ltd is a small company that is currently analyzing capital expenditure proposals
+for the purchase of equipment. The capital budget is limited to Rs 500,000 which ABC
+Ltd believes is the maximum capital it can raise. The initial investment and projected
+net cash flows for each project are shown below. The cost of c apital of ABC Ltd is
+12%. You are required to compute the NPV. Rank them in the order of acceptance. Is
+the capital budget fully utilized?         [10]
+Project A
+Project B Project C Project D
+Initial Investment
+200,000 190,000 250,000 210,000
+Annual Cash Inflows
+Year 1 50,000 40,000 75,000 75,000
+2 50,000 50,000 75,000 75,000
+3 50,000 70,000 60,000 60,000
+4 50,000 75,000 80,000 40,000
+5 50,000 75,000 100,000 20,000
+OR
+9. The following results are expected by XYZ Ltd. by quarters next year, in thousands of
+rupees.
+Particulars Quarter 1 Quarter 2 Quarter 3 Quarter
+4
+Sales 7500 10500 18000 10500
+Production costs 7000 10000 8000 8500
+Selling, administrative costs 1000 2000 2900 1600
+Purchase of plant 100 1100 2100 2100
+The debtors at the end of the quarter are one -third of sales of the quarter. The opening
+balance of debtors is Rs.3000000. Cash on hand at the beginning of the year is
+Rs.650000 and desired minimum balance is Rs.500000. Borrowings are made at the
+beginning of the quarters in which the need will occur in multiples of Rs.10000 and are
+repaid at the end of quarters.  You are required to prepare a cash budget by quarters for
+the year.            [10]
+10. From the following Trial Balance of X Ltd. Company  as at 31st March. 2017. Prepare
+Trading and Profit and Loss Account for the year ended 31st March 2017 and a
+Balance Sheet as on that date:
+Debit Balances Rs. Credit Balances Rs.
+Stock
+Plant and Machinery
+Purchases
+Carriage Inwards
+Carriage Outwards
+Factory Rent
+Discount
+Insurance
+Sundry debtors
+Office Rent
+45,000
+75,000
+2,25,000
+10,000
+2.500
+1,500
+1,500
+350
+60,000
+3,000
+Share Capital
+Sales
+Sundry Creditors
+Bad Debts Provision
+Bills Payable
+P/L A/c
+Reserves and surpluses
+75,000
+4,20,750
+15,000
+200
+2,000
+25,000
+15,000
+used paper 21-12-2017
+Printing and stationary
+Travellers Salaries
+Advertising
+Bills Receivable
+Salaries
+Wages
+Furniture
+Cash in hand
+Cash at Bank
+Goodwill
+600
+2,800
+15,000
+12,000
+15,000
+21,000
+7,500
+2,000
+12,500
+40,000
+5,52,950  5,52,950
+Adjustments:
+a) Closing Stock amounted to Rs. 35,000.
+b) Depreciation Machinery by 10% and Furniture by 5%.
+c) Raise the Bad Debts Provision to 5% on Debtors.
+d) Outstanding Factory Rent Rs. 300 and Office Rent Rs. 600.
+e) Insurance Prepaid Rs. 100.
+f) Transfer to general reserve Rs. 12,000.        [10]
+OR
+11.  From the following Balance Sheet and other information, calculate the following:
+(a) Debt-Equity Ratio (b) Quick Ratio (c) Trade ReceivablesTurnover Ratio
+(d) Working capital (e) Gearing ratio (f) Net worth (g) Capital employed
+Balance Sheet as at March 31, 2017
+I. Equity and Liabilities:
+1. Shareholders’ funds
+a) Share capital                            10,00,000
+b) Reserves and surplus                 9,00,000
+2. Non-current Liabilities
+Long-term borrowings                  12,00,000
+3. Current Liabilities
+Trade payables                               5,00,000
+Total                                                     36,00,000
+II. Assets
+1. Non-current Assets
+Fixed assets
+– Tangible assets                           18,00,000
+2. Current Assets
+a) Inventories                                  4,00,000
+b) Trade Receivables                       9,00,000
+c) Cash and cash equivalents          5,00,000
+Total                                                      36,00,000
+Additional Information: Revenue from Operations Rs. 18,00,000.GP rate is 20%.   [10]
+used paper 21-12-2017

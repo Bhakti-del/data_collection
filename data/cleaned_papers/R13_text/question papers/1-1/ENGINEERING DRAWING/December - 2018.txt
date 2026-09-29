@@ -1,0 +1,50 @@
+ENGINEERING DRAWING
+Answer all five questions
+1.a) A point on the hyperbola is 60  mm from one of the asymptote and 30  mm from the
+second asymptote. Draw the curve if the angle between them is 1200.
+b) Construct a diagonal scale of 1:25 to read meters, decimeters and cent imeters and long
+enough to measure 4 m. Mark on it a distance of 2.47 m.     [7+8]
+OR
+2.a) A disc, radius 30  mm is rolling on the outside surface of a curved surface of radius
+90 mm. Draw the path traced by a point on the circumference of the disc.  The point is
+initially in touch with the base circle. Name the curve. Also draw a tangent and normal at
+a distance of 125 mm from the center of the base circle.
+b) Draw an involute of a pentagon of side 30 mm. Draw a tangent and normal to the curve at
+a distance of 120 mm from the center of the pentagon.     [9+6]
+3.a)  A point L is lying in the first quadrant. The shortest distance of the point from XY line is
+55 mm. If the point is 30  mm above H.P. Draw its projections and also find the distan ce
+to the point from V.P.
+b)  A line AB of 75 mm long is making an angle of 55 0 with XY line in the front view and
+length of the top view is 55  mm. End A is 15 mm above H.P. and 10 mm in front of V.P.
+Draw the projections of the line and its inclinations with H.P. and V.P.   [5+10]
+OR
+4.a) A line AB 50 mm  long is parallel to VP and inclined at 350 with H.P. Point A is 20 mm
+above H.P. and 40 mm in front of V.P. Draw the projections of the line.
+b) A plate having shape of an isosceles tr iangle has base 50 mm long and altitude 70 mm. It
+is so placed that in the front view it is seen as an equilateral triangle of 50 mm sides one
+side inclined at 450 to XY. Draw its top view.      [5+10]
+5. A hexagonal prism of base 30 mm and axis 70  mm long has an edge of the base in on
+V.P. Draw the projections, if the rectangular face containing that edge makes an angle of
+450 with V.P.           [15]
+OR
+6. A pentagonal pyramid of base 30  mm and 60 mm long axis is laying on one of its face  is
+on H.P. It is cut by a cutting plane perpendicular to V.P. and inclined at  600 to H.P. The
+cutting plane is passing through the opposite corner of the  base. Draw the sectional top
+view and true shape of section.       [15]
+7. A cone of height 60  mm and base dia meter of 50  mm is resting on its base. A
+semicircular hole diameter 26 mm is drilled such that the axis of the hole is perpendicular
+to the V.P. and intersecting the axis of the cone at a height of 20  mm above H.P. Develop
+the lateral surface of the cone if the top surface of the hole is flat.   [15]
+OR
+8. A cylinder with a 60  mm base diameter and height 80  mm long is resting on its base  on
+H.P. It is penetrated by another cylinder of 50  mm base diameter and height 90 mm long,
+such that their axes intersec t each other at right angles. Draw the projections of  the
+combination and show the curves of intersection.     [15]
+9. Draw the orthographic projections of the following figure. All dimensions are in mm.
+[15]
+OR
+10. A pentagonal plane of 40  mm side is parallel to and 15  mm above the GP. The corner
+which is nearest to PP is 15 mm behind it and an edge containing that corner is making an
+angle 450 with PP. The station point is 40  mm in front of the PP, 50 mm above the GP
+and lies in central plane which is at a distance of 70  mm left to the corner nearest to the
+PP. Draw the perspective view of the plane.      [15]

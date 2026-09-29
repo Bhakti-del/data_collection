@@ -1,0 +1,56 @@
+ORDINARY DIFFERENTIAL EQUATIONS AND VECTOR CALCULUS
+PART- A
+1.a) Define an exact equation.         [1]
+b) Write the standard form of a linear differential equation, in 𝑥.    [1]
+c) Find general solution of the differential equation 𝑦′′ + 𝑦′ − 2𝑦 = 0.   [1]
+d) Find the PI of (𝐷2 + 4𝐷 + 13)𝑦 = 2𝑒−𝑥.       [1]
+e)   State first shifting theorem of Laplace transforms.      [1]
+f)  State convolution theorem of Laplace transforms.     [1]
+g) Define a scalar point function.       [1]
+h)  Define the divergence of a vector point function.      [1]
+i) Define work done by force 𝐹̅ in moving a particle from A to B along the curve C. [1]
+j) Define a volume integral.        [1]
+PART - B
+2.a)  Solve (𝑒𝑥 + 1)𝑐𝑜𝑠𝑥 𝑑𝑥 + 𝑒𝑦𝑠𝑖𝑛𝑥𝑑𝑦 = 0.
+b) If the air is maintained at 200C and the temperature of the body cools from 100 0C to 800C
+in 10 minutes, find the temperature of the body after 20 minutes and when the temperature
+will be 400C?          [5+5]
+OR
+3.a) Solve (1 + 𝑦2)𝑑𝑥 = (𝑡𝑎𝑛−1𝑦 − 𝑥)𝑑𝑦.
+b) Prove that the system of confocal and coaxial parabolas 𝑦2 = 4𝑎(𝑥 + 𝑎)  is self -
+orthogonal.          [5+5]
+4.a) Solve (𝐷2 + 1)𝑦 = 𝑠𝑖𝑛𝑥 𝑠𝑖𝑛2𝑥.
+b) Solve (𝐷2 + 4)𝑦 = 𝑡𝑎𝑛2𝑥 by method of variation parameters.    [5+5]
+OR
+5.  An LCR circuit with battery emf ′𝐸𝑠𝑖𝑛𝑝𝑡′ is tuned to resonance so that 𝑝2 =
+1
+𝐿𝐶. If initially
+the current 𝑖 and the charge 𝑄 be zero, then show that for small values of
+𝑅
+𝐿, the current in
+the circuit at time 𝑡 is given by
+𝐸
+2𝐿 𝑡 𝑠𝑖𝑛𝑝𝑡.      [10]
+6.a)  Find the Laplace transform of 𝑓(𝑡) = 𝑒−2𝑡 + 3𝑠𝑖𝑛2𝑡 − 2𝑐𝑜𝑠3𝑡 + 𝑡 + 100.
+b)  Use convolution theorem to find the inverse Laplace transform of
+1
+(𝑠+1)(𝑠+2). [5+5]
+OR
+7.a) Find the Laplace transform of Dirac delta function.
+b) Using Laplace transform, solve the differential equation (𝐷2 − 3𝐷 − 4)𝑦 = 2𝑒−𝑡  with
+𝑦(0) = 1 = 𝑦′(0).         [4+6]
+8.a) Find the directional derivative of ∅ = 2𝑥𝑦 + 𝑧2at (1, −1, 3) in the direction of a vector
+𝑖 + 2 𝑗 + 3𝑘̅.
+b)  If 𝑟̅ = 𝑥𝑖 + 𝑦𝑗 + 𝑧𝑘, prove that div𝑟̅ = 3 and curl 𝑟̅ = 0.     [5+5]
+OR
+9.a)      Find the values of 𝑎, 𝑏, and 𝑐 so that the vector
+𝐹̅ = (𝑥 + 𝑦 + 𝑎𝑧)𝑖 + (𝑏𝑥 + 2𝑦 − 𝑧) 𝑗 + (−𝑥 + 𝑐𝑦 + 2𝑧)𝑘 be irrotational.
+b)  Prove that 𝐶𝑢𝑟𝑙 (𝐹̅ × 𝐺̅) = (𝐺̅. ∇)𝐹̅ − 𝐺̅𝑑𝑖𝑣𝐹̅ − (𝐹̅. ∇)𝐺̅ + 𝐹̅𝑑𝑖𝑣𝐺̅.   [5+5]
+10. If 𝐹̅ = 3𝑥2𝑦𝑖 + (𝑥3 − 2𝑦𝑧2) 𝑗 + (3𝑧2 − 2𝑦2𝑧)𝑘, then
+a) Prove that 𝐹̅ is conservative.
+b) Find its scalar potential ∅.
+c) Find the work done in moving a particle under this force field from(2, 1, 1) 𝑡𝑜 (2, 0, 1).
+[10]
+OR
+11. Verify Green’s theorem in plane for ∫ (3𝑥2 − 8𝑦2)𝑑𝑥 + (4𝑦 − 6𝑥𝑦)𝑑𝑦,𝐶  where C is
+the region bounded by the parabolas 𝑦2 = 𝑥 and 𝑥2 = 𝑦.    [10]

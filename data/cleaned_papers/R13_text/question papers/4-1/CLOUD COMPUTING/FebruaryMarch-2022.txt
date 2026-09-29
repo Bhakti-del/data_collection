@@ -1,0 +1,15 @@
+CLOUD COMPUTING
+(Computer Science and Engineering)
+1.a) List and explain the various types of clusters.
+b) Differences between virtualization and cluster technologies.    [8+7]
+2.a) Explain the benefits of virtual machines.
+b) Elaborate on the Virtualization of Clusters and Datacenters.    [8+7]
+3. Enlist and explain three service models and four deployment models of cloud computing .
+[15]
+4.a) List and explain the stages of cloud migration.
+b) Explain parallel computing.        [8+7]
+5. Discuss  Cloud Computing Environments using a cluster as a Service  [15]
+6. Explain the Understanding Scientific Applications for Cloud Environments. [15]
+7. Draw and explain the Architecture for Federated Cloud Computing.   [15]
+8. Discuss Data Security in the Cloud in detail.      [15]
+--oo0oo---

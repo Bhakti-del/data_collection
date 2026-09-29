@@ -1,0 +1,40 @@
+COMPUTER PROGRAMMING IN C
+and may have a, b as sub questions.
+PART – A
+1.a)      How real numbers and integers are stored.      [2]
+b)      What is meant by time sharing environment?      [3]
+c)      Explain about scope rules.          [2]
+d)      What are the limitations of recursion?      [3]
+e)      Write about Pointer Arithmetic with an example.     [2]
+f)      List the substrings that can be formed from the string “JNTUH”.   [3]
+g)      Write short note on Enumerations.       [2]
+h)      Explain self-referential structures in brief.      [3]
+i)       Write about File streams.        [2]
+j)       Discuss about fopen() function.       [3]
+PART - B
+2.a)  Explain in detail about Selection Statements in C.
+b) Write an algorithm to find the greatest number among the three given numbers. [5+5]
+OR
+3.a) Explain in detail about Computer Languages.
+b) Explain the use of ‘for’ loop, ‘do-while’ with the help of example program. [5+5]
+4.a) Discuss various applications of arrays.
+b) Write a program to calculate GCD of two numbers by using functions.  [5+5]
+OR
+5.a)  Write a program to implement the binary search by using functions.
+b) What is an array? Explain the one-dimensional arrays for Inter Function
+Communication.         [5+5]
+6.a)  Discuss about String Input / Output Functions with example programs.
+b)  Explain in detail applications of pointers.      [5+5]
+OR
+7.a) What is meant by arrays of strings? When it will be used? Explain with a ‘C’ program.
+b) Write a program for implementation of pointers to pointers.    [5+5]
+8.a) Explain structures and functions with an example program.
+b)  Write a program to demonstrate command line arguments.    [5+5]
+OR
+9.a) Explain the Enumerated data types with an example.
+b)  Write a C program to implement unions.      [5+5]
+10.a) Explain the different types of files are used in C.
+b)  Write a C program to implement feof() and ferror() functions.   [5+5]
+OR
+11.a) Compare formatting input/output functions with scanf() and printf().
+b)  Write a program to copy the content of one file to another file.   [5+5]

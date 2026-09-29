@@ -1,0 +1,26 @@
+SEMANTIC WEB AND SOCIAL NETWORKS
+(Computer Science and Engineering)
+1. How does World Wide Web evolve into a resource with intelligent capabilities? Explain
+with suitable scenarios.        [15]
+2.a) Compare and contrast information revolution with agriculture revolution.
+b) Explain how innovations in adaptive software may offer surprising capabilities for Web
+software agents.           [7+8]
+3.a) “XML is not a replacement, rather a complementary technology to HTML.”  Support this
+statement with suitable scenarios.
+b) Illustrate the difference between RDF and RDFS layer.
+c) How to introduce constraints on properties of RDF?              [5+5+5]
+4. Describe ontology with the domain of multi -specialty hospital. Use inference e ngine
+to validate your ontology and check for inconsistencies.    [15]
+5.a) What type of rules are preferred in logic where information is unavailable? How to
+handle conflicts between these rules? Explain with an example.
+b) When does an inference en gine use backward chaining instead of forward chaining? Give
+illustrations.            [7+8]
+6.a) What challenges are being faced by semantic based search engines?
+b) How the OWL -S ontology -based Web services can be dynamically invoked by other
+services on the Web? Explain.         [7+8]
+7.a) Explain how is social network analysis a different approach to social phenomena.
+b) How can a sociogram be constructed for an electronic discussion forum? Give
+illustrations.           [7+8]
+8.a) The biggest technical challenge in social network mining is the disambiguation of person
+names. Discuss this challenge and mechanism to handle it.
+b) Write note on building web applications with social network features.  [7+8]

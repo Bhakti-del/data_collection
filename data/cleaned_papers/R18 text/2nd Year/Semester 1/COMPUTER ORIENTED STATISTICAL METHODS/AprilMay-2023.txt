@@ -1,0 +1,94 @@
+COMPUTER ORIENTED STATISTICAL METHODS
+and may have a, b as sub questions.
+PART – A
+1.a) If the probability is 0.05 that a certain kind of measuring device will show excessive
+drift, what is the probability that the sixth measuring device tested will be the  first to
+show excessive drift?         [2]
+b) The probability density function of a continuous random variable X is given
+by
+  ||( ) , where  - <xP x a e x . Prove or disprove that
+ 1
+2a .   [3]
+c) When is the geometric distribution an appropriate model?    [2]
+d) If the mean of Binomial distribution is 3 and variance is 9/4, obtain the value of n. [3]
+e) If z is normally distributed with mean 0 and variance 1, evaluate P (z ≤ 1.64). [2]
+f) Obtain the s.d. of the sampling distribu tion of means of 300 random samples each of
+size n = 36 are drawn from a population of N = 1500 which is normally distributed with
+mean μ=22.4 and s.d. σ of 0.048, if sampling is done with replacement.  [3]
+g) Discuss the level of significance and type of errors.      [2]
+h) Explain the terms null and alternate hypotheses.      [3]
+i) Define Markov chain.         [2]
+j) Is the matrix
+
+
+0 1 0
+0.5 0.25 0.25  stochastic?      [3]
+PART – B
+2. Suppose colored balls are distributed in three indistinguishable boxes as follows:
+Box I     Box II      Box III
+Red               2           4                  3
+White            3           1                  4
+Blue              5           3                  3
+A box is selected at random from which a ball is selected at a random.  What is the
+probability that the ball is colored a) red, b) blue?             [10]
+OR
+3.a)  Define random variable.
+b)  Suppose a continuous function X has the probability density function
+2
+,02() ,00
+x xkefx x
+    .
+Compute (i) k, (ii) the distribution function for X, and (iii)
+ 12PX  .  [2+8]
+4. A pair of fair dice is tossed. Let X denote the maximum of the number appearing i.e.,
+( , ) max( , )X a b a b
+and Y denotes the sum of the numbers appearing i.e.,
+( , )Y a b a b
+. Compute the mean, variance and standard deviation of the distribution
+of both X and Y.           [10]
+OR
+5.a)  Given that
+)4(.3)6(.45)2(  XPXPXP for a Poisson variate X, find the
+probability that 3 < X < 5.
+b)  A car firm has two cars which it hires out day by day. The number of demands for a car
+on each day is distributed as Poisson variable with mea n 1.5. Calculate the probability
+that on a day some demand is refused.      [5+5]
+6.a)  Find the mean and standard deviation of a normal distribution in which 7% of items are
+under 35 and 89% are under 63.
+b)     A random sample of size 100 is taken from an infinite population having the mean 76
+and the variance 256. What is the probability that (i)
+will be in between 75 and 78,
+(ii)
+will be less than 78?         [5+5]
+OR
+7. A population consists of the five numbers 2, 3, 6, 8, and 11. Consider all possible
+samples of size 2 that can be drawn without replacement from this population. Find
+(a) the mean of the population, (b) the standard devia tion of the population, (c) the
+mean of the sampling distribution of means, and (d) the standard deviation of the
+sampling distribution of means.                                                                       [2+3+2+3]
+8. The efficiency expert of a  computer company test ed 40 engineers to estimate the
+average time it takes to assemble a certain computer component, getting a mean of
+12.73 minutes and s.d. of 2.06 minutes. (a) If
+12.73x  is used as a point estimate of
+the actual average time required to perform the task, determine the maximum error with
+99% confidence, (b) construct 98% confidence intervals for the true average time it
+takes to do the job (c) with what confidence can we assert that the sample mean does
+not differ from the true mean by more than 30 seconds.                                   [2+3+2+3]
+OR
+9.       The following are the average weekly losses of w orker hours due to accidents in 10
+industrial plants before and after a certain safety programme was put into operation:
+Before: 45   73    46 124    33     57     83     34     26     17
+After  : 36   60    44 119    35     51     77  29     24     11
+Test whether the safety programme is effective in reducing the number of accident s at
+the level of significance of 0.05?         [10]
+10. An urn A contains 5 red, 3 white and 8 green marbles while urn B contains 3 red and 5
+white marbles. A fair die is tossed; if 3 or 6 appears a marble is chosen from B
+otherwise from A. Determine the probability that
+a) a red marble is chosen, b) a white marble is chosen, c) a green marble is chosen.
+[4+3+3]
+OR
+11. Suppose an urn A contains 2 white marbles and urn B contains 4 red marbles.
+At each step of the process, a marble is selected at random from each urn and the two
+marbles selected are interchanged. Let X n denote the number of red marbles in urn A
+after n in terchanges. (a)  Find the transition matrix P.  (b) What is the probability that
+there are 2 red marbles in urn A after 3 steps.     [5+5]

@@ -1,0 +1,20 @@
+SOFTWARE TESTING METHODOLOGIES
+1.a)  Discuss about implementation and application of path testing.
+b)  Describe instrumentation and sensitization in transaction flow testing.   [8+7]
+2.a)  Explain about approximate number of paths with suitable example.
+b)  Discuss in detail about state bugs.        [8+7]
+3.a)  Describe software implementation of state graphs.
+b)  Explain about partition algorithm with example.      [8+7]
+4.a)  Briefly explain about consequences of bugs.
+b)  Discuss about three and four variable KV charts with examples.    [8+7]
+5.a)  What are dataflow anomalies? Explain about dataflow anomaly state graph.
+b)  Write and explain testability tips of state testing.      [8+7]
+6.a)  Distinguish the following: i) Modularity vs efficiency ii) Function vs structure
+b)  Describe motivational overview of graph matrices.      [8+7]
+7.a)  Explain basic concepts of path products and path expressions.
+b)  Discuss about node-reduction algorithm.       [7+8]
+8.  Explain the following:
+a) Testing one-dimensional domains
+b) Coding bugs
+c) Identity elements.                [5+5+5]
+R18 used paper feb/mar-2022 jntuh

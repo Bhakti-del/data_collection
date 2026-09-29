@@ -1,0 +1,44 @@
+FUNDAMENTALS OF MECHANICAL ENGINEERING
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Write the statement of zeroth law of thermodynamics.     [2]
+b)      Write a short note on Global warming.      [3]
+c)      Define Charle's law.           [2]
+d)      What are fire tube boilers?        [3]
+e)      Define Indicated power.        [2]
+f)       Draw p-v and T-s plots of Otto cycle. Indicate all salient features.   [3]
+g)      What is the working principle of rotary pump?     [2]
+h)      Write a note on window air conditioner.      [3]
+i)       What do you mean by disc type clutch?      [2]
+j)       What are the applications of Abrasive materials?     [3]
+PART - B
+2.a)  What  is a prime mover? Explain various types in detail.
+b)  What do you mean by a fossil fuel? List out different types and their application. [5+5]
+OR
+3.a)  Write a note on bio fuels.
+b)  Write a note on solar power.        [5+5]
+4.a)  Why cannot a throttling calorimeter measure the quality if the steam is very wet?
+b)  A spherical shell of diameter 50 cm contains steam at a pressure of 40 bar and 0.85
+dryness fraction. Calculate the mass of water and steam.    [5+5]
+OR
+5.  Discuss working of Chocran boiler with the help of a neat sketch.     [10]
+R16 used paper 11-06-2019 PM
+6.a)  An engine operating on a Carnot cycle works with in temperature limits of 600 K and
+300 K. If the engine receives 2000 kJ of heat, evaluate the work done and thermal
+efficiency of the engine.
+b)  Draw the p-v and T -s plots of Otto cycle. Derive the expression for thermal efficiency
+of Otto cycle.          [5+5]
+OR
+7.a)  Write detailed classification of IC engines based on various aspects.
+b)  Write the differences between petrol engines and diesel engines.   [5+5]
+8.a)  Differentiate between positive displacement compressors and dynamic compressors.
+b)  What is meant by multistage compression? Explain its significance.  [5+5]
+OR
+9.  Explain working of vapour absorption refrigeration system with the help of a neat
+sketches of layout and property plots. Derive expression for COP.     [10]
+10.a)  Discuss the construction details of flange coupling.
+b)  Explain the working of gear drive.       [5+5]
+OR
+11.  Write a note on various metals that come under engineering materials. Discuss their
+applications.            [10]
+used paper 11-06-2019 PM

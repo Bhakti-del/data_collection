@@ -1,0 +1,46 @@
+INDUSTRIAL MANAGEMENT
+1.a) Briefly explain your understanding of corporate social responsibility.
+b) What are the implications of Herzberg’s two factor theory of motivation?   [8+7]
+2.a) Distinguish between Democratic style of  leadership and Laissez  Faire style of
+leadership.
+b) What do you understand by inverted pyramid organization structure?     [8+7]
+3.a) What is a team?  What are the benefits of team structure organization?
+b) Explain the difference between line and staff authority.      [8+7]
+4.a) With examples, illustrate the nature of mass production system and distinguish it from
+batch production system.
+b) What are the advantages and disadvantages of rural sites for location of plants? [8+7]
+5.a) How can value analysis help an organization becoming competitive?
+b) Explain the basic procedure of method study and work measurement.  [7+8]
+6.a) A time study was conducted on a job consisting of three elements. The stopwatch
+readings of the first five cycles using cumulative timing method are given below:
+Element Stopwatch readings in hundredth of a minute
+1 2 3 4 5
+A 10 73 139 203 266
+B 25 88 155 218 280
+C 64 128 193 257 320
+The rating factors were estimated at 80,100, and 110 for the three elements respectively
+(on the rating scale 100 correspondi ng to normal performance). The allowance for
+personal needs, rest etc. amount to 12%. Calculate the standard time for the job.
+b) What are OC curves?                 [10+5]
+7.a) What is inspection by variables? What is inspection by attributes? What  are the control
+charts used for these?
+b) What is factor comparison method of job evaluation? What are the steps involved?
+[7+8]
+used paper feb/mar-2022 jntuh
+8.  The following data pertains to a project network.
+Activity  Normal duration in
+weeks
+Normal cost in
+Rs.
+Crash duration in
+weeks
+Crash cost in Rs.
+1--2 4 8000 3 15,500
+1--3 8 5000 5   9,500
+2--3 6 7000 4   9,000
+2--4 9 9000 7 16,000
+3--4 5 6000 3 12,000
+The indirect cost of the project is Rs.3000 per week. Determine the optimum cost and
+the optimum duration of the project. Also draw the least cost network.                [15]
+--ooOoo--
+used paper feb/mar-2022 jntuh

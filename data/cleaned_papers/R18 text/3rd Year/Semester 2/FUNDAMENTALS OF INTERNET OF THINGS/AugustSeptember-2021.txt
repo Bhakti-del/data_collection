@@ -1,0 +1,18 @@
+FUNDAMENTALS OF INTERNET OF THINGS
+1.a) Identify the link layer protocols in IoT.
+b)   Explain the functional blocks of IoT.       [7+8]
+2.a)  Demonstrate request-response communication model.
+b) Discuss IoT network technologies.       [8+7]
+3.a) Explain M2M system architecture.
+b)   Write the applications of M2M.       [7+8]
+4.a)    How to integrate sensors and actuators with Arduino?
+b)     Give the anatomy of Arduino program.      [7+8]
+5.a)   Explain the control structure in Python.
+b)   Write Python program to control LED on Raspberry Pi.    [7+8]
+6.a)   List and explain popular commands used in Raspberry Pi.
+b)   Steps to interface Raspberry Pi with a sensor.     [7+8]
+7.a)  Explain key elements of SDN.
+b)   Describe the steps for data acquiring in IoT implementation.    [7+8]
+8.a)   Explain the different services of Cloud computing.
+b)   Give the requirements and devices for interconnected transport system.  [7+8]
+R18 USED PAPERSAUG/SEP-2021

@@ -1,0 +1,121 @@
+QUANTITATIVE ANALYSIS FOR BUSINESS DECISIONS
+and may have a, b as sub questions.
+PART – A
+1.a)      What are the advantages and limitations of Linear Programming models?  [2]
+b)      Explain what is meant by “shadow price of the resource” in the context of duality. [3]
+c)     What is assignment Problem? Give two areas of its applications.      [2]
+d)      Give the mathematical formulation of transportation problem.   [3]
+e)     How would you deal with replacement of items that fail completely and suddenly?
+[2]
+f)      What is the difference between group replacement and individual replacement? Under
+which circumstances group replacement may become profitable?   [3]
+g)      How is the concept of dominance used in simplifying the solution  of rectangular
+games?            [2]
+h)      Explain the difference between expected opportunity loss and expected value of perfect
+information.          [3]
+i)       What happens to the Queue when arrival frequency is more than servicing frequency?
+[2]
+j)       What are the advantages and disadvantages of simulation models?   [3]
+PART – B
+2.a) Discuss the assumptions in Linear Programming Problem.
+b)     Min z = x1-3x2+2x3, subject to
+3x1-x2+3x3≤ 7
+-2x1+4x2≤12
+-4x1+3x2+8x3≤10 and
+x1, x2,x3 ≥0.           [10]
+OR
+3.  Maximize z=4x1+5x2-3x3+50, subject to the constraints,
+x1+x2+x3=10
+x1-x2≥1
+2x1+3x2+x3≤40
+x1,x2, x3≥0.          [10]
+4.   Goods have to be transported from factories F 1, F2, F3 to ware-houses W1, W2, W3 and
+W4. The transportation cost per unit, capacities and requirements of the warehouse are
+given in the following table.
+W1 W2 W3 W4 Capacity
+F1 95 105 80 15 12
+F2 115 180 40 30 7
+F3 195 180 95 70 5
+Requirement 5 4 4 11
+Find the distribution with minimum cost.        [10]
+OR
+5.  Five men are available to do five different jobs. From past records, the time (in hours)
+that each man takes to do each job is known and given in the following table:
+Job
+Man I II III IV V
+A 2 9 2 7 1
+B 6 8 7 6 1
+C 4 6 5 3 1
+D 4 2 7 3 1
+E 5 3 9 5 1
+Find the assignment of men to jobs that will minimize the total time taken.    [10]
+6.  A firm has a machine whose purchase price is Rs.20, 000. Its maintenance cost and
+resale price at the end of different years is as given below:
+Year 1 2 3 4 5 6
+Maintenance cost(Rs.) 1500 1700 2000 2500 3500 5500
+Resale price(Rs.) 17000 15300 14000 12000 8000 3000
+a) Obtain the economic life of machine and the minimum average cost.
+b) The firm has obtained a contract to supply the goods produced by the machine, for a
+period of 5 years from now. After this time period, the firm does not i ntend to use the
+machine. If the firm has a machine of this type that is one year old, what replacement
+policy should it adopt if it intends to replace the machine more than once?      [10]
+OR
+7.   A large TV manufacturer has to provide “Service after sal es” on annual contract basis.
+The company has now 500 TV sets; and has to decide on service policy.  Service is
+restricted to replacement of minor parts. The failure pattern of these minor parts is a
+sunder:
+Month 1 2 3 4 5 6 7
+Number failing after month of service 10 20 60 130 160 180 40
+It costs Rs.50 to replace minor parts as and when they fail. It costs Rs.20 to replace
+minor parts on a planned service basis, when parts are replaced (by fixed interval visits)
+even before failure. Which policy would you recommend?
+a) Replace as and when minor parts fail.
+b) Replace at periodic intervals, say at the end of one month/two months etc?   [10]
+8.  Solve the following game using graphical approach:       [10]
+B's Strategy
+b1 b2 b3 b4
+A's
+strategy a1 8 5 -7 9
+a2 -6 6 4 -2
+OR
+9.  A TV dealer finds that the cost of holding a TV in stock for a week is R s.50. Customers
+who cannot obtain new TVs immediately tend to go to other dealers and he estimates
+that for every customer who cannot get immediate delivery  he loses an average of
+Rs.200.For one particular model of TV the probabilities of selling 0, 1,2,3,4 and 5 TVs
+in a week are 0.05,0.10,0.20,0.30,0.20 and 0.15 respectively.
+a)  How many televisions per week should the dealer order? Assume th at there is no
+time lag between ordering and delivery.
+b) Compute EVPI.
+c) The dealer is thinking of spending on a small market survey to obtain additional
+information regarding the demand levels, how much should he be willing to spend on
+such a survey?            [10]
+10.  A commercial bank has two tellers working on savings accounts. The first teller
+handles withdrawals only. The second teller handles deposits only. It has been found
+that service time distributions for both deposits and withdrawals are e xponential with
+mean service time are 3 minutes per customer. Depositors are found to arrive in a
+Poisson fashion throughout the day with mean arrival rate of 16 per hour. Withdrawers
+also arrive in a Poisson fashion with mean arrival rate of 14 per hour. What would be
+the effect on the average waiting time for depositors and withdrawers if each teller
+handles both withdrawals and deposits?        [10]
+OR
+11.  A company manufactures around 150 two wheelers. The daily production varies from
+146 to 154 depending upon the variability of raw materials and other working
+conditions.
+Production per
+day
+Probability
+146 0.04
+147 0.09
+148 0.12
+149 0.14
+150 0.11
+151 0.10
+152 0.20
+153 0.12
+154 0.08
+The finished two wheelers are transported in a specially arranged vehicle
+accommodating only 150 two wheelers. Using the following random numbers
+80,81,76,75,64,43,18,26,10,12,65,68,69,61,57 simulate the process to find on:
+a) What will be the average number of two wheelers waiting in the factory?
+b) What will be the average number of empty spaces on the specially designed vehicle?
+[10]

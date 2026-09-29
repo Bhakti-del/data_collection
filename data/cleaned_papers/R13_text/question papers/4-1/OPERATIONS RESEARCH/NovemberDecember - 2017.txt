@@ -1,0 +1,84 @@
+OPERATIONS RESEARCH
+carries  10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What is Operations research?         [2]
+b) What is a model? List the various classification schemes of Operations Research models.
+[3]
+c) How the assignment problem can be viewed as a linear programming problem?  [2]
+d) Formulate the travelling – Salesman problem as an assignment problem.   [3]
+e) Define the problem of sequencing.        [2]
+f) What are the situations which make the replacement of items necessary?   [3]
+g) What are the characteristics of game theory?      [2]
+h) What is inventory management? Write the major decisions concerning inventory? [3]
+i) What are major limitations of simulation?       [2]
+j) What do you understand by a queue? Gi ve some important applications of queuing
+theory?           [3]
+PART-B
+2. What do you mean by LPP? What ar e its limitations? Use penalty (or Big-M) method to
+maximize z = 3x1 - x2
+Subject to the constraints
+2x1 + x2 ≥ 2; x1 + 3x2 ≤ 3; x2 ≤ 4
+x1, x2 ≥ 0.          [10]
+OR
+3. What is a simplex?  Describe simplex method of solving linear programming problem.
+[10]
+4. Find the optimal solution for the assignment problem with the following cost matrix.
+I         II          III          IV          V
+A         11      17          8         16           20
+B           9        7         12          6           15
+C         13      16         15        12           16
+D         21      24         17        28           26
+E         14      10         12         11          15      [10]
+OR
+5. There are three sources or origins which store a given product. These sources supply
+these products to four dealers. The capaci ties of the sources (Si) and the demands  at
+dealers (DJ) are as given below.
+S1 = 150, S2 = 40, S3 = 80
+D1 = 90, D2 = 70, D3 = 50, D4 = 60.
+The cost of transporting the product from various sources to various dealers is  shown in
+the table below.
+D1                D2            D3              D4
+S1            27          23         31          69
+S2            10          45         40          32
+S3            30          54         35          57
+Find out the optimum solution for transporting the products at a minimum cost. [10]
+6. Find the sequence th at minimizes the total elapsed time required to complete the
+following jobs.
+Processing times in hours
+No. of jobs              : 1 2 3 4 5 6
+Machine A              :   4 8 3 6 7 5
+Machine B              :   6 3 7 2 8 4   [10]
+OR
+7. A truck owner finds from his past records that the maintenance cost per year of a truck
+whose purchase price is Rs.8000, are given below:
+Year    :  1  2  3  4 5  6  7  8
+Maintenance cost (Rs): 1000 1300 1700 2200 2900 3800 4800 6000
+Resale Price  : 4000   2000 1200  600   500   400   400   400
+Determine at what time it is profitable to replace the truck?    [10]
+8. The payoff matrix of a game is given. Find the solution of the game to the player A and
+B.
+B
+I      II     III        IV      V
+I        -2      0       0          5       3
+II         3      2       1          2       2
+A         III       -4     -3       0         -2       6
+IV        5      3      -4          2      -6     [10]
+OR
+9. Find the optimal order quantity for a product for which the price breaks are as follows:
+Quantity                                       Unit cost (Rs.)
+0 ≤  q1 < 500                                            10.00
+500 ≤  q2  ≤750                                             9.25
+750 ≤ q3                                                       8.75
+The monthly demand for a product is 200 units, the cost of storage is 2% of the unit cost
+and the cost of ordering is Rs. 350.       [10]
+10. A supermarket has two girls ringing up sales at the counters. If the service time for each
+customer is exponential with mean 4 minutes, and if people arrive in a Poisson fashion at
+the counter at the rate of 10 per hour, then calculate:
+a) The probability of having to wait for service;
+b) The expected percentage of idle time for each girl;
+c) If a customer has to wait, find the expected length of his waiting time.  [10]
+OR
+11.a) State the Bellman’s principle of optimality in dynamic programming and give a
+mathematical formulation of a dynamic programming problem?
+b) Define simulation.  Why is simulation used? Give one application area where this
+technique is used in practice?        [6+4]

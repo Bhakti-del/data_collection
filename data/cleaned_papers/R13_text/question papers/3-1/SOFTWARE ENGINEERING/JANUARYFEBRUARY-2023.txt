@@ -1,0 +1,39 @@
+SOFTWARE ENGINEERING
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      What is legacy software?        [2]
+b)      Explain about the waterfall model.       [3]
+c)      What is function requirement?       [2]
+d)      Describe data models.         [3]
+e)      What are architectural styles?        [2]
+f)      Explain about object constraint language.      [3]
+g)      Define integration testing.         [2]
+h)      Explain about metrics for source code.      [3]
+i)       What is SQA?          [2]
+j)       Discuss about RMMM plan.        [3]
+PART – B
+2.  Define process model. What are evolutionary process models? Explain in detail.    [10]
+OR
+3.a)  What are software myths? Explain in detail.
+b)  Define software engineering. Explain about process patterns.    [5+5]
+4.  Explain in detail about requirements elicitation and analysis.      [10]
+OR
+5.a)  What are feasibility studies? Explain.
+b)  Discuss in detail about structured methods.       [5+5]
+6.a)  Explain about task analysis and modeling.
+b)  Discuss about program design language.       [5+5]
+OR
+7.a)  What is architecture? Why is architecture important?
+b)  Describe architectural design and interface design elements.    [5+5]
+8.  Explain in detail about white-box and black-box testing techniques.     [10]
+OR
+9.a)  What is software measurement? Explain in detail.
+b)  Discuss about metrics for analysis model.       [5+5]
+10.  Explain the following:
+a) Risk identification
+b) ISO 9000 quality standards.        [5+5]
+OR
+11.  Explain the following:
+a) Six Sigma quality standard
+b) Software risks.          [5+5]

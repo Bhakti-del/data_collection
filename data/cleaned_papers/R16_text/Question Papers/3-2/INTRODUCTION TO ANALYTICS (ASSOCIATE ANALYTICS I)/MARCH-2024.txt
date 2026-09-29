@@ -1,0 +1,44 @@
+INTRODUCTION TO ANALYTICS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)    What is structured array? Give example.      [2]
+b)    Define work management and its prioritization.     [3]
+c)    Differentiate between Team work and Individual work.    [2]
+d)    What are the types of variables available in R?      [3]
+e)    What are the uses of NOSQL databases?      [2]
+f)    How to Read R output in Excel? Explain.      [3]
+g)    Define Multicollinearity and explain.       [2]
+h)    With example, explain about forecasting.      [3]
+i)    What are requirements gathering? Explain.      [2]
+j)    Write the purpose of engineering design.      [3]
+PART – B
+2.a)  Discuss about various Data types in R with example.
+b)  With examples, explain about outliers and its significance.    [5+5]
+OR
+3.a)  Write and explain R functions and R loops with examples.
+b)  Explain about the concept of Reading Datasets.     [6+4]
+4.a)   Explain about Teamwork communication and time management.
+b)  Discuss about probability distribution and its computation in R.   [5+5]
+OR
+5.a)  Explain about bivariate random variables in detail.
+b)  With an example in R, explain about Central Limit Theorem.   [5+5]
+6.a)  Develop a R program to illustrate database connectivity.
+b)  Explain the features of NOSQL.       [5+5]
+OR
+7.a)  Explain about Excel and R integration with R connector.
+b)  Discuss about the term NOSQL. And differentiate between NOSQL and SQL. [5+5]
+Used paper March-2024
+8.a)  Explain the concept of basic Regression Analysis with a suitable example.
+b)  Discuss about ANOVA test with example.      [5+5]
+OR
+9.a)  With suitable example, discuss about multiple regression and its applications.
+b)  Explain the terms correlation and auto correlation. Give examples.   [5+5]
+10.a)  Discuss about the optimality function for a closed loop system.
+b)  Compare and contrast the manufacturing and production activities with respect to
+automotive technology.        [5+5]
+OR
+11.a)  Make a comparison of business analytics and organization decision-making processes.
+b)  What is business objective? How do you gather all the data related to business
+objective? Discuss.         [5+5]
+Used paper March-2024

@@ -1,0 +1,37 @@
+MACHINE LEARNING
+(Computer Science and Engineering)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What can be the performance measure for checker learning program?   [2]
+b) What is a well-defined learning problem?       [3]
+c) State Minimum description length principle.       [2]
+d)  Why decision trees over fit?        [3]
+e) Give example for Bayesian belief network.      [2]
+f) Differentiate between sample error and true error.      [3]
+g) What is meant by inverted deduction?       [2]
+h) Why case based reasoning is known as lazy learner?     [3]
+i) Differentiate between inductive learning and deductive learning.    [2]
+j) Give an example for mutation operator.      [3]
+PART-B
+2. Explain candidate-elimination learning algorithm using version space. Will this algorithm
+converge to the correct hypothesis? Give illustrative examples.   [10]
+OR
+3. Discuss in detail some successful applications of machine learning.   [10]
+4. Describe the properties of artificial neur al nets.  Why are they better suited for
+classification of objects/inputs?       [10]
+OR
+5. Design a two-layer network of perceptrons that implements A XOR B.  [10]
+6. State Baye’s theorem. Explain the two roles for Bayesian methods and discuss brute force
+MAP hypothesis learner.        [10]
+OR
+7. What are the problems in estimating error? Explain the concept of confidence intervals
+for observed hypothesis error.        [10]
+8. Explain locally weighted regression methods as instance-based algorithm.  [10]
+OR
+9. When to consider nearest neighbour learning? Discuss its advantages and disadvantages.
+[10]
+10. How to use prior knowledge to reduce space complexity? Give illustrations. [10]
+OR
+11. Explain how genetic algorithms can be used for learning. Explain with an example.
+[10]
+---ooOoo—

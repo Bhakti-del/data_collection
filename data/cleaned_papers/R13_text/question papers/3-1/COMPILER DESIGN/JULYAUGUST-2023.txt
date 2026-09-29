@@ -1,0 +1,60 @@
+COMPILER DESIGN
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)      Define the term Tokens in lexical analysis phase.     [2]
+b)      Write a short note on Context Free Grammar.     [3]
+c)      List different rules to compute FIRSTSET.      [2]
+d)      Brief different types of LR parsers.       [3]
+e)      List different data structures used for symbol table.     [2]
+f)      Define syntax tree? Draw the syntax tree for the assignment statement.
+a :=b * -c + b * -c.         [3]
+g)     Define DAG.            [2]
+h)      Write a short note on global optimization.      [3]
+i)       Write in detail the issues in the design of code generator.    [2]
+j)       List the properties of code generation.      [3]
+PART - B
+2.a)  Differentiate between the Pass and Phase in compiler construction.
+b)  Explain the general format of a LEX program with example.   [5+5]
+OR
+3.  Prepare the predictive parser for the following grammar:
+S→a|b|(T)
+T →T, S|S
+Write down the necessary algorithms and define FIRST and  FOLLOW. Show the
+behavior of the parser in the sentences.
+a) (a,(a,a))
+b) ((a,a),a,(a),a).           [10]
+4.  State shift-reduce parsing? Explain in detail the conflicts that  may occur during shift -
+reduce parsing. Illustrate with an example.        [10]
+OR
+5. Construct SLR parsing table for the following grammar:
+E→E+T/T
+T→T*F/F
+F→(E)/id.            [10]
+used paper July/Aug-2023
+6.a)  Explain Intermediate code generation for Basic block.
+b)  Write the advantages and disadvantages of heap storage allocation strategies. [5+5]
+OR
+7.  Explain three address codes and mention its types. Generate the three -address code for
+the following C program fragment         [10]
+while(a > b)
+{
+if (c < d)
+x = y + z;
+else
+x = y - z;
+}
+8.a)  Explain the principle sources of code optimization in detail.
+b)  Write a brief note on Data Flow Analysis of structural programs.   [5+5]
+OR
+9.a)  Construct the DAG for the following basic block.
+D:=B*C
+E:=A+B
+B:=B+C
+A:=E-D
+b)  Explain in detail about Copy Propagation.      [5+5]
+10.a)  Discuss various object code forms.
+b)  Write a short note on DAG for register allocation.         [5+5]
+OR
+11.  Explain Machine dependent code optimization in detail with an example.    [10]
+used paper July/Aug-2023

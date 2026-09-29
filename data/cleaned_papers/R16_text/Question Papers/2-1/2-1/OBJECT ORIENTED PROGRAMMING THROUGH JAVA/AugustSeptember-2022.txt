@@ -1,0 +1,21 @@
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA
+1.a)  What are object-oriented paradigms? Explain in detail.
+b)  Explain about various data types used in Java with examples.    [8+7]
+2.a)  Discuss about various types of polymorphism.
+b)  What are Java buzzwords? Explain in detail.      [8+7]
+3.a)  Explain about importing Java packages with suitable Java program.
+b)  Write a program to improve the efficiency of writing data into a file using Buffered
+Output Stream.          [8+7]
+4.a)  Discuss about input and output streams in Java with examples.
+b)  Explain about implementation of interfaces in Java.      [8+7]
+5.a)  What is an exception? Explain about exceptional handling in Java.
+b)  Explain about creation of threads in Java.       [8+7]
+6.a)  Discuss about creating user defined exceptions in detail.
+b)  Differentiate between thread-based multitasking and process-based multitasking. [8+7]
+7.a)  Define HashMap. Write a program that shows the use of HashMap class.
+b)  Explain about Calendar class and DateFormat class methods in detail.    [8+7]
+8. Explain the following:
+a) MVC architecture
+b) Anonymous inner classes
+c) Security issues in applets.                                               [5+5+5]
+---oo0oo---

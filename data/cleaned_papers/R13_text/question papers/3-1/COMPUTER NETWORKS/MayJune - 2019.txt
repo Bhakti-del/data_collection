@@ -1,0 +1,42 @@
+COMPUTER NETWORKS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) What are the advantages of layered protocol suites?     [2]
+b) Mention the comparison of fiber optics and copper wire.     [3]
+c) Define Gigabit Ethernet.         [2]
+d) Write about P-Persistent CSMA.        [3]
+e) Write short note on design issues of network layer.     [2]
+f) What are the approaches to apply on the congestion control?   [3]
+g) What is meant by Internetwork routing?      [2]
+h) Mention the differences between IPv4 and IPv6.     [3]
+i) Write short notes on TELNET.       [2]
+j) Write about client-server model in brief.      [3]
+PART - B
+2. Explain OSI reference models, and compare with TCP/IP reference model.    [10]
+OR
+3.a) Explain sliding window protocol with an illustration.
+b) Explain the Hamming Code with an example.     [4+6]
+4.  Explain the following:
+a) Ethernet MAC sub layer protocol.
+b) ALOHA protocol.         [5+5]
+OR
+5. Explain about the following devices:
+a) Hub
+b) Switches
+c) Router
+d) Gateway.            [10]
+6. Write in detail about Link -state routing algorithm a nd mention its advantages and
+disadvantages.              [10]
+OR
+7. What are the principles of congestion control? Explain it with virtual circuit subnets.
+[10]
+used paper 01-062019 PM
+8. Describe about flow Control and buffering in transport layer.      [10]
+OR
+9. Write in detail about the Internet control message protocol.       [10]
+10. How does the Remote procedure call works? Explain it.      [10]
+OR
+11. Write short notes on the following:
+a) HTTP
+b) DNS.          [5+5]
+used paper 01-062019 PM

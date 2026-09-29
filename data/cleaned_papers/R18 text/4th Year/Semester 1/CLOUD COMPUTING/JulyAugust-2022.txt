@@ -1,0 +1,17 @@
+CLOUD COMPUTING
+1.a) Differentiate between cluster computing and cloud computing.
+b) Explain in detail about optical and Nano computing.              [5+10]
+2. What is high performance computing? How to achieve it? Explain different technologi es
+used to achieve high performance computing.      [15]
+3.a) Define cloud computing? Explain, how Cloud computing is used as platform.
+b) What are the five essential characteristics of cloud computing? Discuss.              [5+10]
+4.  Discuss in detail about different deployment models of cloud.    [15]
+5.a) Explain about network connectivity in cloud computing.
+b) Discuss about applications in cloud.       [7+8]
+6.a) Discuss the phases involved in migrating a cloud.
+b) Explain how cloud applications are managed.      [7+8]
+7.a) Discuss in detail about characteristics, suitability, pros and cons of IaaS.
+b) Discuss about examples of IaaS providers and range of services they offer.            [10+5]
+8.a) Explain briefly about Captiva Cloud Toolkit.
+b) What is virtualization? Explain about virtualization services provided by SAP.      [5+10]
+---oo0oo---

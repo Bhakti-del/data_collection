@@ -1,0 +1,40 @@
+MULTIMEDIA AND RICH INTERNET APPLICATIONS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) What is HTTP?         [2]
+b) Explain about Dithering.        [3]
+c) What is MIDI?         [2]
+d) List out different coding of Images.       [3]
+e) What is web 2.0?         [2]
+f) Describe webtop.         [3]
+g) What are action scripts?        [2]
+h) What is Splash screen?        [3]
+i) What is the need for Dojo tool kit?       [2]
+j) What is need of AJAX?        [3]
+PART – B
+2.a) Explain various applications of multimedia.
+b) Describe color matching functions in detail.      [5+5]
+OR
+3.a) What is Gamma Correction?  Explain in detail.
+b) Discuss about spatial resolution.       [5+5]
+4.a) Explain about arithmetic coding in detail.
+b) Write about s- video, component and composite video.    [5+5]
+OR
+5.a) Discuss about Pulse Code Modulation.
+b) Explain the process of audio compression.      [5+5]
+6.a) Explain MPEG-1 video digital compression.
+b) What is Vocoder? Explain its types.       [5+5]
+OR
+7.a) Write about blogging in Rich internet applications.
+b) Explain monetization model of Rich internet applications.    [5+5]
+8.a) Explain different tools in Flash.
+b)  Write steps to convert a shape to symbol in Flash.     [5+5]
+OR
+9.a) Explain different skinning and themes in Flex 3.0.
+b)  Explain MXML components in Flex.       [5+5]
+10.a) Explain the features of AJAX.
+b)  How to create rich internet application using AJAX? Explain.   [5+5]
+OR
+11.a) Write about JSON.
+b)  Give steps for creating calendar application using DOJO tool kit.   [5+5]

@@ -1,0 +1,68 @@
+ENGINEERING MECHANICS
+and may have a, b as sub questions.
+PART – A
+1.a)      State and explain Varignon’s Theorem.      [2]
+b)      State the general algebraic conditions of equilibrium for concurrent-coplanar forces and
+concurrent - non-coplanar forces.       [3]
+c)      Define the term angle of repose.          [2]
+d)      A body of 500-N weight is resting on a rough horizontal surface. Find the magnitude of
+the pulling force acting on the body at an angle of 30° with the  horizontal, which will
+just make the body move. Take μ = 0.3.      [3]
+e)      What is the difference between the centre of gravity, centre of mass and centroid? [2]
+f)      State and prove the parallel axis theorem.                       [3]
+g)      Explain the procedure to find polar moment of inertia of masses.   [2]
+h)      What are the mass moments of inertia of a  uniform slender rod of length l when it is
+supported at its one of the end?        [3]
+i)       State principle of conservation of momentum and list its applications.  [2]
+j)       A 5-kg block drops from 2 m upon a spring whose modulus is 10, 000 N/m. What will
+be the speed of the block when the spring is deformed 100 mm?   [3]
+PART - B
+2.a)  What is a free body diagram? Explain with a suitable example.
+b) Two systems of forces are shown in figure 1. Are they equivalent?   [4+6]
+Figure 1
+OR
+3. The beam EF in figure 2 weighs 120 N/m and carries the 600 -N weight at its end. It is
+supported by a ball -and-socket joint at E and the cables AB and CD. Determine the
+tensions in AB and CD. Find the joint reactions at E. All dimensions are in cm. [10]
+Figure 2
+4. Determine the minimum angle at which a uniform ladder can be placed against  a wall
+without slipping under its own weight. The coefficient of friction for all  surfaces is 0.2.
+What will be this angle if both the walls are taken as smooth surfaces?  [10]
+OR
+5.  A 150 wedge has to be driven downwards for moving the block B of 750 N weight as
+shown in figure 3. If the angle of friction for all surfaces is 10 o, find the force P
+required to move the wedge.  What will be the value of P if friction on horizontal floor
+and vertical wall neglected? The coefficient of friction between the wedge and block
+remain same.          [10]
+Figure 3
+6.  A right circular cone of 300 mm height and a base of 300 mm diameter rest on the top
+of a right circular cylinder of the same radius and 300 mm height. Locate the centroid
+of the combined volume if the densities of the two are the same. What happens to the
+centroid if the material density of the cylinder is twice of that of the cone?  [10]
+OR
+7. Calculate the moment of inertia of the composite area shown in figure 4 about the two
+centroidal axes and its polar moment of inertia.     [10]
+Figure 4
+8. Using the integration approach, derive the mass moment of inertia of a rectangular plate
+about X -X axis pass ing through the CG of the plate.  Use this expression to find the
+mass moment of inertia about the base of the plate.     [10]
+OR
+9. Compute the moment of inertia of the cast-iron flywheel shown in figure 5. The density
+of cast iron is 7200 kg/m3. All dimensions are mm.     [10]
+Figure 5
+10.a) A link AB is moving in a vertical plane. At a certain instant, when the link is inclined at
+60° to the horizontal, the point A is moving horizontally at 5 m/s, while B is moving
+vertically upwards. Find the velocity of B.
+b)  A cylinder of radius 1 m rolls without slipping along a horizontal plane  AB. M is the
+contact point of the plane and the cylinder. N is the point on the other end of diameter
+passing through M. Find the velocity of point M and N. Its centre has uniform velocity
+of 20 m/s.            [5+5]
+OR
+11.a) A particle of mass 1 kg moves in a straight line under the influence of a  force which
+increases linearly with time at the rate of 60 N per sec. At time t = 0, the initial force
+may be taken as 50 N. Determine the acceleration and velocity of the particle 4 sec after
+it started from rest at the origin.
+b)  A bullet of mass 25 gm, moving horizontal with a velocity of 600 m/s  strikes a wooden
+block of mass 5 kg resting on a rough horizo ntal surface. The bullet after  striking the
+block remains buried in the block and both travels  together. Find the common velocity
+of bullet and block after impact.        [6+4]

@@ -1,0 +1,23 @@
+COMPUTATIONAL COMPLEXITY
+(Computer Science and Engineering)
+1.a) Differentiate between Class P and Class NP.
+b) What do you mean by polynomial run time algorithm? Explain.    [7+8]
+2.a) Explain the Reducibility with example.
+b) How do you calculate computational complexity? Discuss.    [8+7]
+3.a) Write the Quick sort algorithm? Analyze the time complexity in worst case.
+b) Explain about travelling sales person problem. Explain how it can be solved using Branch
+and Bound method. Show the steps and solution by taking any one example containing at
+least 5 cities and 10 ways to travel between them.                          [5+10]
+4.a) Explain matrix chain multiplication using an example.
+b) Explain Huffman coding with an example.         [8+7]
+5.a) How does digital fingerprinting algorithm work? Explain.
+b) List and explain the randomized algorithms with example.    [8+7]
+6.a) Discuss the advantages of randomized algorithm.
+b) Elaborate on De-Randomization Advanced Algorithms.    [8+7]
+7.a) Write a brief note on approximation algorithm.
+b) What is a Spanning tree? What are its applications? Explain.    [8+7]
+8.a) How elements are inserted and deleted in B-Trees? Explain.
+b) Construct an AVL tree with the following numbers: 25, 46, 13, 55, 15, 30, 58, 4, 6.
+Insert 50, 10 and 40, delete 25, 13 and 30 and rebalance the tree if necessary in each case.
+[8+7]
+---oo0oo---

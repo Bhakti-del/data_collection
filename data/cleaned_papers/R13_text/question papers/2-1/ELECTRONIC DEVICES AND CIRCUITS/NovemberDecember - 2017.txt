@@ -1,0 +1,60 @@
+ELECTRONIC DEVICES AND CIRCUITS
+PART- A
+1.a) For what voltage will the reverse current in p-n junction Germanium diode reach 90%
+of its saturation value at room temperature?      [2]
+b) Write a short note on Varactor diode.       [3]
+c) Derive the ripple factor for full wave rectifier.     [2]
+d) Explain voltage regulation using zener diode.     [3]
+e) Explain how transistor acts as an amplifier.      [2]
+f) Give the Comparisons between CB, CE, CC configurations.   [3]
+g) Define thermal runaway.        [2]
+h) Compare all the three biasing circuits.       [3]
+i) For a p-channel Silicon FET, with effective width ‘a’=2×10-4 cm and channel
+resistivity ρ =10 Ω. Find the pinch off voltage.     [2]
+j) Draw the circuit diagram of fixed bias arrangement of a JFET.   [3]
+PART-B
+2.a) Explain PN diode characteristics in forward bias and reverse bias regions.
+b) Find the width of the depletion layer in a germanium junction diode  which has the
+following specifications: Area A = 0.001 cm 2, σn = 1 mhos / cm, µ n = 3800 cm 2/sec,
+µp = 1800 cm2/sec.        [5+5]
+OR
+3.a) Explain tunnel diode operation with the help of energy band diagrams.
+b) Explain the static characteristics of SCR.     [5+5]
+4.a) A full wave rectifier circuit with C -type capacitor filter is to supply a D.C. Current of
+20 mA at 16V. If frequency is 50 Hz ripple allowed is 5%. Calculate:
+i) Required secondary voltage of the transformer.
+ii) Ratio of I peak/ Imax through diodes and the value of C required.
+b) With a neat circuit diagram and necessary wave forms explain the operat ion of half
+wave rectifier.         [5+5]
+OR
+5.a) An ac supply of 220V is applied to a half wave rectifier circuit through a  transformer
+with a turns ratio of 10:1. Assume the ideal diode. Find:
+i) dc output voltage    ii) PIV.
+b) Compare half wave, full wave and bridge rectifier circuits.   [5+5]
+6.a) Explain CE configuration with the help of input and output characteristics.
+b) A transistor is operated at a forward curren t of 2µA and with the collector open
+circuited. Calculate the junction voltages V C and VE, the collector to emitter voltage
+VCE assuming ICO = 2µA, IEO = 1.6µA and αN = 0.98.   [5+5]
+OR
+7.a) Draw and explain h-parameter model of BJT.
+b) Qualitatively explain the static V-I characteristics of UJT.   [5+5]
+8.a) Explain the need for biasing in electronic circuits . What are the factors affecting the
+stability factor.
+b) A transistor with β = 100 is to be used i n Common Emitter Configuration with
+collector to base bias. The collector circuit resistance is R C = 1kΩ and V CC = 10V.
+Assume VBE = 0.
+i) Choose RB so that the quiescent collector to emitter voltage is 4V.
+ii) Find the stability factor.       [5+5]
+OR
+9.a) Determine the quiescent currents and the collector to emitter voltage for a  Ge
+transistor with β = 50 in the self biasing arrangements. The circuit component values
+are VCC = 20V, RC = 2kΩ, Re = 0.1 kΩ, R1 = 100 kΩ and R2 = 5 kΩ. Find the stability
+factor S.
+b) Explain the terms Bias Stabilization and Bias Compensation.  [5+5]
+10.a) Derive the expression for the width of depletion region ‘W’ in the case of p -channel
+JFET.
+b) Explain the working of a de pletion type MOSFET with a neat construction diagram
+and its characteristics.        [5+5]
+OR
+11. Draw the circuit of source follower  Amplifier and derive the expressions for A I, AV,
+Ri and Ro.          [10]

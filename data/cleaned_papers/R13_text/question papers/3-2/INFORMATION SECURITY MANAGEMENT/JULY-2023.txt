@@ -1,0 +1,36 @@
+INFORMATION SECURITY MANAGEMENT
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a) Give various security vulnerabilities.       [2]
+b) Define information security.        [3]
+c) What is Network Security?          [2]
+d) List the functions of Information security.      [3]
+e) How to prevent Data leakage?       [2]
+f)      What is KPI?          [3]
+g)      List the key elements of Information security.     [2]
+h)      What is the necessity of Information security policy?    [3]
+i)       What are the types of accountability?       [2]
+j)       What is Emergency situation in risk analysis?     [3]
+PART - B
+2.a) List the computer security concerns.
+b) Discuss in detail about various types of Security attacks with neat diagrams. [5+5]
+OR
+3.a) Explain about Intruders in Information Security.
+b) Explain common vulnerabilities and Exposures.     [5+5]
+4. Write short notes on the key elements of networks.       [10]
+OR
+5. What are the characteristics of critical information? Explain them in detail.    [10]
+6.a) Explain briefly about External threats.
+b) Discuss the role of effective risk analysis in risk management.   [5+5]
+OR
+7. Explain in detail about Key performance indicators.       [10]
+used paper July/Aug-2023
+8. What are the various policies based on applications, user identity and Network Activity.
+[10]
+OR
+9. Explain the key elements and characteristics of security policies.      [10]
+10. Explain about the team responsibilities in emergency situation.     [10]
+OR
+11. Discuss the roles and responsibilities of Information security.     [10]
+used paper July/Aug-2023

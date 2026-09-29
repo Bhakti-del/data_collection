@@ -1,0 +1,44 @@
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Draw the block diagram of a communication system.    [2]
+b)      Explain how baseband transmission is different from broad band transmission?  [3]
+c)      Define amplitude modulation.          [2]
+d)      Write the advantages of digital modulation schemes.    [3]
+e)      Explain the operation of a bridge.       [2]
+f)      Explain the operation of a NIC.       [3]
+g)    Define numerical aperture.        [2]
+h)     Draw the block diagram representing the basic elements of a fiber optic communication
+system.                                                                            [3]
+i)      What is handoff?          [2]
+j)      Discuss common Zigbee network topologies.     [3]
+PART - B
+2. Write short notes on:
+a) Gain
+b) Attenuation
+c) Decibels.            [10]
+OR
+3.  Why modulation is used in communication circuits? Discuss.        [10]
+4.a)  Draw the block diagram of PCM system and explain.
+b)  Define PWM and explain the concept of PWM using relevant waveforms.   [5+5]
+OR
+5.a)  Explain the basic principle of frequency modulation. Also explain a method to generate
+FM signal.
+b)  Explain a method to demodulate AM signal.      [5+5]
+6.a)  Explain the operation of a paging system using a block diagram.
+b)  Classify computer networks and explain.      [5+5]
+OR
+7.  Discuss the topology, encoding and transmission media used in Ethernet LANs.   [10]
+used paper 16-12-2018PM
+8.a)  Explain the operation of telemetry, command and control subsystems of satellite.
+b)  Explain the operation of a GPS receiver using a block diagram.   [5+5]
+OR
+9.a)  Draw the general block diagram of an earth station and explain.
+b)  Explain single mode step index and multimode graded index fiber optic cables. [5+5]
+10.a)  Draw the block diagram of a RFID tag and explain.
+b)  Discuss GSM system in detail.       [5+5]
+OR
+11.a)  Discuss the basic forms of UWB wirel ess and also different types of UWB
+modulations.
+b)  Discuss WCDMA in detail.        [5+5]
+used paper 16-12-2018PM

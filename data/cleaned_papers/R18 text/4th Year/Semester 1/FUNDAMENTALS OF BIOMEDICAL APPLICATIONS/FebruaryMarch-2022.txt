@@ -1,0 +1,24 @@
+FUNDAMENTALS OF BIOMEDICAL APPLICATIONS
+1.a)  List the static characteristics of medical instruments and define them.
+b)  Define and derive the Nernst equation for membrane Resting potential.  [8+7]
+2.a)  Explain the generation of action potentials and refractory periods.
+b)  Describe the function of components of Medical Instrumentation system.            [10+5]
+3.a)  Explain the electrical conduction system of heart with a neat sketch.
+b)  What is meant by Electrocardiography? List the electrodes used for it and describe
+electrode placement for ECG.        [7+8]
+4.a)  Draw the ECG waveform and show the P, Q, R, S waves and explain their generation.
+b)  Explain the features of Ink-jet system and PMMC writing system.   [7+8]
+5.a)  Define Systolic and Diastolic pressures, enumerate the normal Blood pressure of healthy
+human being.
+b)  What are the Blood flow measuring methods? Explain the ultrasonic Blood flow
+measurement method.         [6+9]
+6.a)  How can you measure BP using Sphygmomanometer? Explain.
+b)  What is meant by Phonocardiography? Explain the significance of it.  [8+7]
+7.a)  What is the need  of Defibrillator? List the different types of  defibrillator and explain the
+block diagram of DC defibrillator with a neat diagram?
+b)  What is Electrotherapy and describe its applications?              [10+5]
+8.a)  What is EEG? Discuss the working of typical EEG recording Setup with neat sketch?
+b)  Explain the need of following        [7+8]
+(i) Pnemuotachography
+(ii) Ventillators
+--ooOoo--

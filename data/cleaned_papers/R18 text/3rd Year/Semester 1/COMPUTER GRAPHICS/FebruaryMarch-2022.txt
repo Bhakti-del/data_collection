@@ -1,0 +1,18 @@
+COMPUTER GRAPHICS
+1.a)    Discuss about midpoint circle algorithm with an example.
+b) Distinguish between raster scan and random scan systems.             [5+10]
+2.a) Derive the decision parameter used in Bresenham’s line drawing algorithm.
+b)  Write a short note on boundary fill algorithm.     [8+7]
+3.a)    Discuss about Sutherland –Hodgeman polygon clipping algorithm with an example.
+b) Explain about 2D viewing pipeline.       [9+6]
+4.a)    Explain 2- dimensional scaling and shear transformations with an example.
+b) Distinguish between window and view port.               [10+5]
+5.  Briefly explain about the following:
+a) Bezier curve
+b) B-Spline curve.         [7+8]
+6.a)  Explain about Hermite curve.
+b)  Write a short note on Polygon surfaces.      [8+7]
+7.a)  Briefly explain the characteristics of perspective projections.
+b)  Derive the transformation matrix for rotation about y-axis in 3D.   [7+8]
+8.    Discuss about the general purpose languages used for animation.         [15]
+used paper feb-22 jntu

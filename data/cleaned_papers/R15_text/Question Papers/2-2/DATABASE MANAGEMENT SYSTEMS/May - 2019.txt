@@ -1,0 +1,29 @@
+DATABASE MANAGEMENT SYSTEMS
+PART - A
+1.a) What is meant by data abstraction?          [2]
+b) Define the terms entity and attributes.          [3]
+c) Explain the selection and projection operations.        [2]
+d) Write brief notes on NULL values.           [3]
+e) Explain first normal form?            [2]
+f) Write short notes on inclusion dependencies.         [3]
+g) What is meant by atomicity?           [2]
+h) What is meant by recoverability?           [3]
+i) What are the clustered indexes?           [2]
+j) What is meant by linear hashing?       [3]
+PART - B
+2. Discuss about querying relational data.      [10]
+OR
+3. Describe the history of database systems.      [10]
+4. Explain the AND, OR and NOT logical connectives with examples.  [10]
+OR
+5. Discuss about complex integrity constraints in SQL.     [10]
+6. Explain about dependency preserving decomposition.     [10]
+OR
+7. Explain third normal form and fifth normal form.     [10]
+8. Discuss about time stamp based protocols.       [10]
+OR
+9. Discuss about remote backup systems.       [10]
+10. Explain about Dynamic index structure.      [10]
+OR
+11. Discuss about static hashing and extendable hashing.     [10]
+--ooOoo--

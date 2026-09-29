@@ -1,0 +1,29 @@
+NON-CONVENTIONAL ENERGY SOURCES
+1.a)  Explain the solar radiation on tilted surface.
+b)  Write a note on extraterrestrial and terrestrial solar radiation.   [7+8]
+2.a) What are the various instruments used for solar radiation measurement? Explain the
+working of Pyranometer with a neat sketch.
+b)  What is the need for alternate energy sources? Explain by considering solar energy.
+[8+7]
+3.a)  Explain the carnot cycle and its limitations.
+b)  Calculate the monthly average hourly radiatio n falling on a flat plate collector facing
+south (γ = 0) with a slope of 150, given the following data:
+Location : Chennai (130 00’ N) ;
+Month : October ;
+Ig = 2408 kJ/m2 – h ;  Id = 1073 kJ/m2 – h.
+Assume the ground reflectivity to be 0.2.      [8+7]
+4.a)  What is the principle of a fuel cell? Explain the main components of fuel cell and their
+functions.
+b)  Define and explain the figure of merit of a thermoelectric device.   [9+6]
+5.a)  Describe the solar pond used for solar energy conversion and storage.
+b)  Sketch and explain the single basin type tidal power plant operation.  [8+7]
+6.a)  Compare and contrast between the different types of thermodynamic cycles used for
+OTEC.
+b)  Discuss the economic analysis of a mini hydel power plant.              [8+7]
+7.a)   Explain the following operating  characteristics of wind mills: Cut -out speed, Betz
+limit.
+b) Explain briefly about the vertical axis wind mills with neat sketches.  [6+9]
+8.a)  Distinguish between Anaerobic digestion and Aerobic digestion.
+b)  Explain the main types of turbines that may be used for Geothermal energy conversion.
+[7+8]
+R18 USED PAPERSAUG/SEP-2021

@@ -1,0 +1,21 @@
+PRINCIPLES OF PROGRAMMING LANGUAGES
+1.a)  Describe the criteria of success for a good programming language.
+b) What is the difference between a phase and a pass of a compiler? Under what
+circumstances do a compiler have multiple phases?      [7+8]
+2.a)  Exception handling is very important, but often neglected by programming languages.
+Comment on it.
+b)  Give the attribute grammar for a simple assignment statement.
+c)  Write a denotation semantics mapping function for “for” statement in Ada.       [5+5+5]
+3.a)  Explain about static binding and dynamic binding with its relative merits and demerits.
+b)  What are the design issues of logically controlled loop statements? Explain briefly.
+[8+7]
+4.a)  What is meant by type compatibility? Explain with an example.
+b)  Discuss the design and implementation issues of pointer data types.   [7+8]
+5.a)  Describe pass-by-value and pass-by-result parameter passing methods with examples.
+b)  What are the distinct semantic models for formal parameters? Explain.   [8+7]
+6.  List and explain various functional characteristics of OOP in Small Talk and C++.  [15]
+7.  Explain exception propagation and exception handling in C++ with illustrative
+examples.             [15]
+8.a)  Write down the applications of logic programming.
+b)  Explain the pragmatics of scripting languages.      [7+8]
+---oo0oo---

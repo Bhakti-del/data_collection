@@ -1,0 +1,37 @@
+ELECTRONIC MEASURING INSTRUMENTS
+1.a) What is the type of response in electromechanical recorders? Derive the necessary
+Equations.
+b) A 153± 25% resistance is connected to a power supply source opera ting at 313V dc.
+What range of current would flow if the resistor varied over the range of  ±13% of its
+expected value? What is the range of error in the current?    [9+6]
+2.a) Explain the working of Sine wave generator that works in the fre quency range of
+20Hz-20KHz.
+b) With a neat block diagram, explain the working of generators that are used in transient
+response testing of ampifiers.        [8+7]
+3.a) With a neat diagram, explain how DC as well as AC current and voltage can be measured.
+b) The Lissajous pattern on a CRO is stationary and has five horizontal and three vertical
+tangencies. The frequency of the horizontal input is 1000Hz. Determine the frequency of
+vertical input.          [8+7]
+4.a) With a neat diagram, explain about the recorders that are well suited for low frequency AC
+Inputs obtained from quantities varying slowly at frequencies upto 100c/s, or in special
+cases upto 1000c/s.
+b) Explain how high frequency signals can be recorded as well as the data can be replayed
+almost indefinite number of times.       [6+9]
+5.a) With a neat diagram, explain about Piezoelectric transducer and also derive the expression
+For coupling coefficient.
+b) Explain how displacement can be measured using a neat diagram.   [8+7]
+6.a) What is the significance of repeatability and reproducibility?
+b) With a neat block diagram, explain the operation of generator which can generate any
+arbitrary wave.         [7+8]
+7.a) A series type ohmmeter is designed to operate with a 6V battery. The meter movement has
+an internal resistance of 2KΩ and requires a current of 120 μA for full scale deflection.
+The value of R1  is 49K.
+i) Assuming the battery voltage has fallen t o 5.9V, calculate the value of R 2 required to
+“0” the meter.
+ii) Under the condition mentioned in (i), an unknown resistance is connected to the meter,
+causing a 60% deflection. Calculate the value of the unknown resistance.
+b) A 500μA meter movement with an internal resistance of 800Ω is to be used in 0 -200mA
+current meter. Find the value of the required shunt.     [9+6]
+8.a) Name and explain various static characteristics of measuring systems.
+b) Write a short note on AF signal generator.      [8+7]
+--ooOoo--

@@ -1,0 +1,18 @@
+MULTIMEDIA AND RICH INTERNET APPLICATIONS
+(Computer Science and Engineering)
+1.a) Explain in detail about various color models in video.
+b) Define file format. Explain Windows BMP, Windows WMF, EXIF and HEIF formats.
+[7+8]
+2.a) Describe the structure of MIDI messages and MIDI 2.0.
+b) Explain loseless compression algorithms.      [7+8]
+3.a) Give an example of using XML and the DOM.
+b) Discuss about Web services, Mashups, widgets and gadgets.   [8+7]
+4.a) Explain about creating special effects with Flash.
+b) Explain in detail about ActionScript components.      [8+7]
+5.a) Describe “Raw” Ajax Example Using the XMLHttpRequest Object.
+b) Briefly describe creating a Full-Scale Ajax-Enabled application.   [8+7]
+6.a) Describe various software tools in multimedia.
+b) Discuss in detail about customizing Flex Builder 3.     [8+7]
+7.a) What are main steps of JPEG 2000 image compression? Explain.
+b) Give an overview of social Media Tagging.      [8+7]
+8. Discuss in detail about digitization of sound.      [15]

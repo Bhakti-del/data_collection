@@ -1,0 +1,21 @@
+DATA COMMUNICATION AND COMPUTER NETWORKS
+(R18-Information Technology; R16-Common to CSE, IT)
+1.  Explain the following:
+a) ATM
+b) Frame relay
+c) ISDN.                [5+5+5]
+2.a)  Describe ALOHA. Differentiate between pure Aloha and slotted Aloha.
+b)  Illustrate IEEE 802.11 frame format.       [8+7]
+3.  Illustrate any two unicast routing protocols and two multicast routing protocols.   [15]
+4.a)  Differentiate TCP and UDP protocols header formats.
+b)  Explain QoS in Switched Networks.       [8+7]
+5.  Illustrate DNS. How it is useful for mapping IP address? Explain.     [15]
+6.  Describe following:
+a) Tunneling
+b) Internetworking.         [7+8]
+7.  Illustrate ISO/OSI model with neat diagram and explain functionality of each layer.
+[15]
+8.a) Explain guided transmission media in brief.
+b)  Differentiate noiseless channels and noisy channels.     [7+8]
+R18/R16
+USED PAPER MARCH-2021

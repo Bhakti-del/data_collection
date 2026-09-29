@@ -1,0 +1,17 @@
+DESIGN PATTERNS
+1. Draw a diagram to show relationships among design patterns? How to select a design
+pattern? How to use a design pattern?      [15]
+2. Explain the following with respect to LEXI’s design:
+a) Establishing the user interface
+b) Supporting multiple Window systems.      [7+8]
+3. Discuss about creational patterns.       [15]
+4.a) Explain about sample code and uses of Bridge pattern.
+b) Discuss about implementation and related patterns of Composite pattern.  [8+7]
+5. Write and explain sample codes of Decorator and Flyweight patterns in detail. [15]
+6. Discuss in detail about Chain of Responsibility pattern.          [15]
+7. Describe applicability, collaborations and sample code of Memento and Strategy. [15]
+8. Explain the following:
+a) Alexander’s pattern languages
+b) History of design patterns
+c) A common design vocabulary.       [5+5+5]
+--ooOoo--

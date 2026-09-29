@@ -1,0 +1,121 @@
+MATHEMATICS – II
+and may have a, b as sub questions.
+PART – A
+1.a) State the conditions for the existence of Laplace transform of a function.  [2]
+b) State the convolution theorem for Laplace transforms.    [3]
+c) Show that
+( , ) ( , )m n n m  .        [2]
+d) Show that
+( 1) ( )n n n    .        [3]
+e) Evaluate
+24 /
+00
+x yxe dydx .        [2]
+f) Evaluate
+xy dxdy over the positive quadrant of the circle
+2 2 2 .x y a   [3]
+g) Show that
+2 .nnr nr R where R xi yj zk          [2]
+h)
+If where , arescalar fields is vector field,sho w that . 0.uF v u v and F F curlF  [3]
+i)  If
+23,F xyi y j evaluate
+.,F dR where C is the curve in the xy – plane
+22yx
+from (0,0) (1,2).to
+[2]
+j) Find the total work done by the force
+32F xyi yj zxk     in the moving particle
+around the circle
+22 4xy .        [3]
+PART - B
+2.a)    Find
+.Cos tL
+t
+
+
+
+b) Using convolution theorem find the inverse Laplace transform of
+))(( 2222
+2
+bsas
+s
+ .
+[5+5]
+OR
+3.a) Find the inverse Laplace transform of
+
+
+
+
+
+
+
+
+22
+22
+log2
+1
+as
+bs .
+b) Using Laplace transforms, solve:
+33 2 (0) 1 (0) 0ty y y e with y and y       .  [5+5]
+4.a)
+( ) ( )Show that ( , ) . ()
+mnmn mn  
+b)
+71Evaluate , . 22           [5+5]
+OR
+5.a)
+1
+0
+Evaluate sin in terms of Gamma functions.ax me x bx dx
+
+
+
+b) Evaluate
+[5+5]
+6.a)  By double integration find the area enclosed by the curves:
+2
+2
+3 4.2
+xy and y xx 
+b)  Find the volume enclosed by the cylinders
+2 2 2 2 2 .x y ax and z ax     [5+5]
+OR
+7.a)  By double integration find the whole area of the curve
+2 2 3 (2 ).a x y a y
+b)  Find the volume common to the cylinders
+2 2 2 2 2 2 .x y a and x z a      [5+5]
+8.a)  Show that
+22( ) ( 1) .n n ndiv grad r r n n r   
+b)  If r is the distance of a point (x,y,z) from the origin, prove that
+11 .0curl K grad grad K curlrr
+           
+where is the unit vector in the directionOZ.K
+[5+5]
+OR
+9.a) For a solenoidal vector
+F , show that
+4 .curl curl curl curl F F
+b)
+2 2 2If ( ) , find and determine n 0.nf x y z div grad f if div grad f     [5+5]
+10.a) Evaluate
+ˆ. where  18 -12 3
+S
+F n ds F zi j yk  and S is the portion of the plan e
+2x+3y+6z = -12 in the first octant.
+b) Verify the Greens Theorem for
+2(3 8 ) (4 6 )
+C
+x y dx y xy dy   
+where is the boundary of the region bounded by  0, 0 1.C x y and x y      [5+5]
+OR
+11.a) Verify the Stokes Theorem for
+( 2) ( 4)F y z i yz j xzk       where S is the surface
+of the cube
+0, 0, 0, 2, 2, 2x y z x y z      above the xy-plane.
+b)   Verify Divergence Stokes Theorem for
+2F yi xj z k    over the cylindrical region
+bounded by
+22 9, 0 2.x y z and z          [5+5]

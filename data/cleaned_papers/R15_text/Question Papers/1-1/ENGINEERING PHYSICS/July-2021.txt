@@ -1,0 +1,25 @@
+ENGINEERING PHYSICS
+1.a) Explain the formation of an ionic bond. Calcul ate the cohesive energy of Na Cl
+molecule.
+b) Mention the different kinds of crystal imperfections.     [7+8]
+2.a) What is the packing fraction? Ca lculate the packing fraction of SC, FCC
+and BCC lattices.
+b) Explain Bragg’s law for X -ray diffraction?  Explain Laue method of crystal
+structure analysis.         [7+8]
+3.a) Explain the concept of dual nature of light?  Describe Davison and Germer experiment to
+verify the dual nature of matter.
+b)  Derive an expression for density of available electron states between E & E+dE.    [7+8]
+4.a) What are the matter waves?  Explain in detail G.P. Thomson experiment to prove the
+existence of matter waves.
+b) Explain the origin of energy bands in solids?      [7+8]
+5.a) Define the terms of dipole moment a nd dielectric constant. Derive C lassius-
+Mossotti relation in dielectrics?
+b)  Explain the phenomenon of superconductivity and Meissner effect.   [7+8]
+6.a)  Distinguish between piezo and ferroelectric effects.
+b) Explain how ferrites are superior to ferromagnetic ma terials? Discuss hard and soft
+magnetic materials?                                                               [7+8]
+7.a) Distinguish in detail Fraunhoffer diffraction due to a single slit.
+b) Describe the construction and working of Ruby laser?                   [7+8]
+8.a) What is Hall effect? Explain. What are the uses of Hall Effect?
+b) What is top down approach and explain physical vapor deposition for synthesis of
+nanomaterials.          [7+8]

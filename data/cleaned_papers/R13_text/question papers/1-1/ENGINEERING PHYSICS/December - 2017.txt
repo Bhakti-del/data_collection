@@ -1,0 +1,52 @@
+ENGINEERING PHYSICS
+MIE, PTM, MSNT, AGE)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What is unit cell?        [2]
+b) What are the Miller indices? How they are obtained?    [3]
+c) Define de-Broglie’s hypothesis.        [2]
+d) What are the matter waves?        [3]
+e) Define Electric Susceptibility.      [2]
+f) Distinguish between Soft and Hard Magnetic Materials.    [3]
+g) Define interference.           [2]
+h) Explain Population Inversion.       [3]
+i) Define Time of Reverberation.      [2]
+j)       What are the nanomaterials?       [3]
+PART-B
+2.a) Describe seven crystal structures with diagrams.
+b) Derive an expression for packing factor of BCC crystals.
+c) Write notes on point defects.                             [3+4+3]
+OR
+3.a) Describe in detail the structure of Diamond.
+b) Calculate the ratio d100: d110: d111 for simple cubic structure.
+c) Write a note on Frenkel and Schottky Defects.                 [4+3+3]
+4.a) Describe Davisson and Germer’s Experiment.
+b) Explain Maxwell-Boltzmann distribution law.
+c) Derive an expression for effective mass of an electron.              [4+3+3]
+OR
+5.a) Explain Heisenberg’s Uncertainty Principle.
+b) Describe Kronig-Penny Model.
+c) Write a note on Phase space and Ensembles                [3+4+3]
+6.a) Describe the phenomenon of electronic polarization and obtain an expression for
+electronic polarizability.
+b) Explain Domain Theory of Ferro Magnetism on the basis of Hysteresis Curve.
+c) Write a note on Meissner Effect.                 [4+4+2]
+OR
+7.a) Derive an equation for Bohr Magneton.
+b) Explain Classification of Dia, Para and Ferro Magnetic Materials on the basis of
+Magnetic Moment.
+c) Distinguish between Type-I & Type-II Superconductors.              [3+4+3]
+8.a) Describe Newton rings experiment.
+b) Explain construction of Nicol prism.
+c) Derive an expression for acceptance angle and numerical aperture.             [3+3+4]
+OR
+9.a) What is Double refraction?
+b) Describe construction and working principle of Ruby laser system.
+c) Write the important applications of optical fibers.               [3+4+3]
+10.a) What is Hall effect?
+b) Describe construction and working principle of LED.
+c) Describe Sol-gel method for the preparation of nanomaterials.             [2+4+4]
+OR
+11.a) Discuss construction of Photo Diodes.
+b) Derive an expression for Sabine’s Formula for Reverberation Time.
+c) Explain the quantum confinement effects in nanomaterials.              [3+4+3]

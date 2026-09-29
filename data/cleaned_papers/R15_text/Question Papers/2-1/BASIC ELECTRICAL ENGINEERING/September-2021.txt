@@ -1,0 +1,27 @@
+BASIC ELECTRICAL ENGINEERING
+1.a) State and explain Maximum Power transfer theorem.
+b) Find the current in the resistors R 1 = 10Ω and R 2 = 20Ω connected in parallel across a
+voltage source. The supply current is 50 A. Also, find power across each resistance. [8+7]
+2. Using Super position theorem, find the current through the 20Ω resistor for the network
+shown below:          [15]
+3.a) Explain the terms with respect to Alternating Quantity:
+i) Instantaneous value and   ii) Time period.
+b) If the form factor of a current waveform is 2 and the amplitude factor is 2.5, find the
+average value of the current if the maximum value of the current is 500 A.  [8+7]
+4.a) Explain the terms with respect to Alternating Quantity:
+i) average value  ii) Root mean square value iii) Maximum value.
+b) A 230 V, 50 Hz voltage is applied to a coil L = 5 H and R = 2 Ω is in series with a
+capacitance C. What value must C have in order that the voltage across the coil is 400 V?
+[8+7]
+5.a) Derive the expression of emf induced in a transformer.
+b) Explain the working of transformer on  lagging power factor load with a neat phasor
+diagram.          [8+7]
+6.a) Explain the various constructional features to be considered for a single  phase
+transformer.
+b) In a 25 KVA, 2000/200 V transformer the iron and full load copper losses are 350 W
+and 400 W respectively. Find the efficiency at 0.8 power factor lagging at i) Full load and
+ii) Half load.          [7+8]
+7.a) Derive the emf equation of a dc generator.
+b) Explain the working of a 3-phase Induction Motor.     [7+8]
+8. Explain the working of Attraction type moving iron instrument with a neat sketch.   [15]
+Used Papers SEP 2021

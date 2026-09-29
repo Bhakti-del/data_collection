@@ -1,0 +1,38 @@
+SOFTWARE PROJECT MANAGEMENT
+PART- A
+1.a) What is late risk resolution?        [2]
+b) What are various cost estimation models?       [3]
+c)      What is roundtrip engineering?           [2]
+d)      What are the top five principles of a modern process?     [3]
+e)      Define transition phase.         [2]
+f)      Write the typical release description outline.       [3]
+g)      Define product release milestone.          [2]
+h)      Who are stakeholders? List them.        [3]
+i) Define rework and adaptability.        [2]
+j)       Describe early risk resolution.        [3]
+PART-B
+2.a) What are five necessary improvements in waterfall model? Explain.
+b)  Describe return on investments in different domains.    [5+5]
+OR
+3.a) Give industrial software metrics top 10 list.
+b)  Briefly explain pragmatic software cost estimation.     [5+5]
+4.a) How to improve software processes?
+b)  What are the principles of modern software management?    [5+5]
+OR
+5.a) Discuss about reuse with a neat diagram.
+b)  Describe transitioning to an iterative process.     [5+5]
+6. Explain about model-based architecture in a management perspective.  [10]
+OR
+7.a) Explain about construction phase.
+b)  Distinguish between implementation set and deployment set.   [7+3]
+8.a) What are default agendas for the life-cycle architecture milestone? Explain.
+b)  Discuss about the cost and schedule estimating process.    [5+5]
+OR
+9.a) What are the activities of software architecture team?
+b) Explain in detail about software change orders.     [5+5]
+10.a) What are the seven core metrics? Explain.
+b)  Give an example to distinguish small scale project and large scale project.  [7+3]
+OR
+11.a) What are the basic characteristics of a good metric? Explain.
+b) Give a common subsystem overview of CCPDS-R.     [4+6]
+--ooOoo—

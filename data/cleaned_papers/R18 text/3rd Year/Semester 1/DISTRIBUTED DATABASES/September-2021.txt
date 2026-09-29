@@ -1,0 +1,19 @@
+DISTRIBUTED DATABASES
+(Computer Science and Engineering)
+1.a)  Explain the design requirements and challenges for distributed systems.
+b)  Discuss how fragmented relation simplification is done.    [8+7]
+2.a)  Explain architectural model for distributed DBMS.
+b)  Write about different types of fragmentation in detail.    [7+8]
+3.a)  Explain the phases of query processing in distributed database.
+b)  Discuss how query optimization is useful in distributed databases.   [7+8]
+4.a)  Discuss different query optimization issues.
+b)  Explain query processing layers in distributed multi-DBMS.   [7+8]
+5.a)  Write concurrency control mechanisms with suitable examples.
+b)  Illustrate relaxed concurrency control.      [8+7]
+6.a)  Explain about deadlock management in distributed DBMS.
+b)  Elaborate on conservative timestamp method.     [8+7]
+7.a)  Distinguish between parallel and distributed database systems.
+b)  Write short note on fault-tolerance in distributed systems.    [8+7]
+8.a)  State various elements of Object oriented data model.
+b)  Analyze the comparison OODBMS and ORDBMS.      [7+8]
+USED PAPERSSEP-2021

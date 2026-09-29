@@ -1,0 +1,37 @@
+INFORMATION SECURITY MANAGEMENT
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Differentiate between direct attack and indirect attack.    [2]
+b) What are types of access controls?       [3]
+c) Define Policy.            [2]
+d) What are the status of information?       [3]
+e) What are internal control strategies with respect to personal security?   [2]
+f) Write about Risk Management.       [3]
+g) What are the guidelines followed for security standards?      [2]
+h) Discuss about Accountability.        [3]
+i) Define ISO 17799/BS7799 standard model.      [2]
+j) What is the role of proxy server in information security?    [3]
+PART - B
+2.a)  What are the approaches used for Information security?
+b)  Discuss about CVE.         [5+5]
+OR
+3.  Write about legal, ethical and performance issues related to information security.    [10]
+4.    Write about Key element and logical elements of Networks in detail.    [10]
+OR
+5  Write about the following functionalities
+a) IRP  b) DRP  c) BCP.           [3+3+4]
+6.  Discuss in detail about Strategies used in controlling the risk.     [10]
+OR
+7.a)  Explain the direct planning approach to mitigate the risk.
+b)  Explain why risk appetite varies from organization to organization.   [5+5]
+8.  Explain different types of Information security policies in detail.     [10]
+OR
+9.a)  Explain the features of NIST security model to the point.
+b)  Write a short note on security Frameworks.       [5+5]
+used paper 18-12-2017
+10.a)  Describe the various control devices.
+b) Discuss about security considerations for non employees.     [5+5]
+OR
+11.a)  How should a team respond to emergency situations. Explain.
+b)  What are the functions of Chief Information Security Officer?   [5+5]
+used paper 18-12-2017

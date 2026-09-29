@@ -1,0 +1,21 @@
+PRINCIPLES OF PROGRAMMING LANGUAGES
+1.a)  What are the various language evaluation criteria and the characteristics that affect
+them? Discuss.
+b)  Explain about various programming domains and their features.   [7+8]
+2.a)  Write BNF and EBNF versions of an expression grammar.
+b)  Explain in detail about attribute grammars with examples.    [8+7]
+3.a)  Distinguish between name type compatibility and structure type compatibility.
+b)  Discuss the design issues of multiple selection constructs.    [8+7]
+4.a)  What is a short -circuit evaluation? How does operand evaluation order interact with
+functional side effects?
+b)  Explain the design issues of subprograms and operations.    [7+8]
+5.a)  Write about parameterized abstract data types with an example in C++.
+b)  What are the language design requirements for a language that supports abstract data
+types?           [8+7]
+6.a)  Why were imperative features added to most dialects of LISP? Discuss.
+b)  Explain in detail about exception handling in Ada.     [7+8]
+7.a)  What are the applications of functional programming? Explain.
+b)   What are the features of Prolog? Discuss the basic elements of Prolog.  [7+8]
+8.a)  Write the key concepts of scripting languages and explain them.
+b)  Differentiate between procedural abstraction and data abstraction with examples.[7+8]
+USED PAPER MARCH-2021

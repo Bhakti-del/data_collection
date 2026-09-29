@@ -1,0 +1,13 @@
+ARTIFICIAL NEURAL NETWORKS
+1. Explain about error-correction learning.        [15]
+2. Discuss the rules for knowledge representation inside artificial network.     [15]
+3. Explain the Gauss-Newton method in detail.        [15]
+4.a) Differentiate between Perceptron and Bayes classifier.
+b) Illustrate the heuristics required for making the back -propagation algorithm perform
+better.           [7+8]
+5. Describe the selection of model in accordance with cross validation.    [15]
+6. Write the optimal brain surgeon algorithm and explain.      [15]
+7.  Describe the three essential processes involved in the formation of self -organizing
+map.             [15]
+8.   Describe the additive and related model of Neurodynamics.      [15]
+used paper jan-feb-2021

@@ -1,0 +1,18 @@
+WEB SERVICES
+(Computer Science and Engineering)
+1.a) What is distributed computing? Explain its importance and characteristics.
+b) Explain the role of J2EE in distributed computing.     [7+8]
+2.a) Write the challenges for using web services.
+b) Discuss about Web service communication model using RPC.   [7+8]
+3.a) Describe SOAP message structure in detail.
+b) Explain protocols for SOAP.        [8+7]
+4.a) Explain SOAP RPC implementation.
+b) Discuss SOAP message encoding mechanisms.     [8+7]
+5. Explain elements of Web Services Description Language (WSDL) and its tools.  [15]
+6.a) Describe the life cycle of web services.
+b) Explain WSDL limitation and advantages.      [7+8]
+7.a) Compare SOAP, WSDL and UDDI.
+b) Describe UDDI data structures.       [8+7]
+8.a) Write the challenges in creating web service interoperability.
+b) Explain XML signature syntax and implementation.     [7+8]
+---oo0oo---

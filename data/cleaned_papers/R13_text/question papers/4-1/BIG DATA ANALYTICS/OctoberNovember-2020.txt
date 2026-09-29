@@ -1,0 +1,16 @@
+BIG DATA ANALYTICS
+(Computer Science and Engineering)
+1. Discuss the  various constraints and influences that have an effect on data architecture
+design.           [15]
+2. Explain the steps involved in exporting job process in Amazon S3.   [15]
+3. What is data imputation? Explain techniques used for handling missing values in big data.
+[15]
+4. Describe Accenture knowledge management solution structure and report extraction.[15]
+5. Explain the four major categories of NoSQL databases with relevant products. [15]
+6. What is the need of data preprocessing? Briefly discuss various forms of data
+preprocessing.          [15]
+7. Explain the practical uses of machine learning and the steps followed in machine learning
+algorithm.          [15]
+8. Describe the basic characteristics of a visualization tool and support it should provide for a
+data scientist.          [15]
+--ooOoo—

@@ -1,0 +1,34 @@
+COMPUTER GRAPHICS
+PART- A
+1.a) Define Pixel Addressing.        [2]
+b) List out different Input and Output Devices.      [3]
+c) Differentiate between window and view port.      [2]
+d) Describe Reflection.         [3]
+e) Define Parallel Projection.        [2]
+f) Differentiate 2D and 3D Transformations.      [3]
+g) What are the polygon rendering methods?      [2]
+h) Explain the steps involved in phong shading algorithm.    [3]
+i) What is meant by scripting system?       [2]
+j) What are features of Morphing?       [3]
+PART-B
+2. Explain DDA Line generation algorithm with an example.    [10]
+OR
+3.a) Differentiate between Raster Scan and Random Scan Display Units.
+b) Explain about the beam penetration method.      [5+5]
+4. What are composite transformations? Describe the rotation and Reflections with suitable
+illustrations.          [10]
+OR
+5. Describe about Cohen Sutherland Line Clipping Algorithm with example.  [10]
+6. Explain the following
+a) Quadric Surfaces  b) 3D clipping.     [5+5]
+OR
+7. Describe different Design Techniques using Bezier Curves.    [10]
+8. Explain different Visible-Surface Detection Algorithms.    [10]
+OR
+9. Discuss different Illumination Models to calculate Light Intensities.   [10]
+10. Explain step by step design features to implement Animation.   [10]
+OR
+11. Write a program to implement motion of a bouncing ball using a downward gravitational
+force and ground plane friction force. Initially, the ball is to be projected into space with a
+given Velocity vector.         [10]
+---ooOoo—

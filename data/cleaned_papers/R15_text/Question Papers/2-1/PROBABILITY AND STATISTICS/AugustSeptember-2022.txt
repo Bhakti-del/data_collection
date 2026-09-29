@@ -1,0 +1,71 @@
+PROBABILITY AND STATISTICS
+1.a) Two dice are thrown and X is a random variable so that
+ ,X Sum a b where a and b are
+numbers appeared on the two dice . Find the probability distribution of X and hence
+compute its mean and standard deviation.
+b) If the probability density of a random variable x is given by
+   
+32 , 0 1
+0 , elsewhere
+k x xfx    
+Find the value k and the probability that the random variable takes on a value
+(i) greater than 3/4; (ii) between 1/3 and 2/3 .     [8+7]
+2.a) The probability that a certain kind of component will survive a shock test is 3/4. Find the
+probability that exactly 2 of the next 4 components tested survive.
+b) Find Moment Generating Function for normal distribution and hence find its mean  and
+variance.                                                                                                           [5+10]
+3.a) A two-dimensional random variable
+ ,XY have a joint probability mass function:
+ 
+2
+, , for 0 , 1 , 2 , 3 and 0 , 1.32
+xyP X x Y y x y     
+Find the marginal distributions
+of
+andXY .
+b) The joint probability density function of a two -dimensional random variable
+ ,XY is
+given by:
+ 
+2 , 0 1, 0, 0 , elsewhere
+x y xf x y    
+ , find the conditional density functions of
+given Y X x 
+and the conditional density functions of
+given X Y y  .  [8+7]
+4.a) Obtain the rank correlation coefficient for the following data :
+x 48 60 72 62 56 40 39 52 30
+y 62 78 65 70 38 54 60 32 31
+b) Find the regression line of
+y on
+x  for the following data:    [8+7]
+x
+1 2 3 4 5
+y
+2 5 3 8 7
+5.a) The means of two large samples of 1000 and 2000 members are 67·5 inches and 68·0
+inches respectively. Can the samples be regarded as drawn from the same population
+having standard deviation 2·5 inches? Test at 5% level of significance.
+b) Random samples of 400 men and 600 women were asked whether they would like to have
+a flyover near their residence. 200 men and 325 women were in favour of the proposal.
+Test the hypothesis that proportions of men and women in favour of the proposal, are same
+against that they are not at 5% level.            [8+7]
+6.a) Define the Snedecor’s F- distribution and write  its properties.
+b) The Edison Electric Institute has published figures on the number of kilowatt hours used
+annually by various home appliances. It is claimed that  a vacuum cleaner uses an average
+of 46 kilowatt hours per year. If a random sample of 12 homes included in a planned study
+indicates that vacuum cleaners use an average of 42 kilowatt hours per year with a standard
+deviation of 11.9 kilowatt hours, does t his suggest at the 0.05 level of significance that
+vacuum cleaners use, on average, less than 46 kilowatt hours annually? Assume the
+population of kilowatt hours to be normal.           [8+7]
+7.a) Explain briefly the main characteristics of Queuing system.
+b) A self -service canteen employs one cashier at its counter. 8 customers arrive per every
+10 minutes on an average. The cashier can serve on average one per unit. Assuming that
+the arrivals are Poisson and the service time distribution is exponential. Determine
+i) The average number of customers in the system
+ii) The average queue length
+iii) Average time a customer spends in the system
+iv) Average waiting time of each customer.            [8+7]
+8.a) Explain Stationary and non-stationary random process.
+b) Explain Markov process and Markov chain.            [7+8]
+---oo0oo---

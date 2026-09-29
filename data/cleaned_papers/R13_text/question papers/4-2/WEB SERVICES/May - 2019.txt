@@ -1,0 +1,38 @@
+WEB SERVICES
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What is RMI?          [2]
+b)      What are the benefits of using web services?      [3]
+c)      What is the use of SOAP fault?         [2]
+d)      What are the limitations of SOAP?       [3]
+e)      What is WSDL binding?        [2]
+f)       What is the purpose of the WSDL language in the web services standard?  [3]
+g)      What is UDDI?           [2]
+h)      What are the limitations of UDDI?       [3]
+i)       What are the goals of Cryptography       [2]
+j)       Explain the features of .NET?       [3]
+PART - B
+2.a) Explain the evolution of distributed computing.
+b) Discuss the role of J2EE and XML in distributed computing.   [5+5]
+OR
+3.a) What are web services? What are the major technical reasons for choosing web services
+over web applications?
+b) What are the key benefits and challenges associated with web services?  [5+5]
+4. Discuss the architecture and the importance of SOAP.    [10]
+OR
+5.a) Discuss about SOAP communication and messaging.
+b) Explain how a structure and an integer with a range check are encoded in SOAP? [5+5]
+6.a) What information does WSDL definition contain about the web service?
+b) Explain the anatomy of a WSDL definition document.    [5+5]
+OR
+7.a) Describe the steps of the Web Service life cycle with a neat diagram.
+b) Give a short note on WSDL tools.       [5+5]
+8. Explain the primary UDDI data structures.      [10]
+OR
+9.a) Describe the usage of UDDI in error recovery.
+b) Explain the publishing of information to a UDDI registry.    [5+5]
+10.a) Explain the challenges in Web Services Interoperability.
+b) Explain the creation of .NET client for an Axis web service.   [5+5]
+OR
+11. In detail, explain XML security frame work.      [10]

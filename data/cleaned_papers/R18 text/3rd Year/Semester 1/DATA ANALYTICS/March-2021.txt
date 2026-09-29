@@ -1,0 +1,20 @@
+DATA ANALYTICS
+1.a)  What are hazards? Explain potential sources of hazards in an organization.
+b)  What are model-based techniques? Explain.       [8+7]
+2.a)  Explain about analytics applications to various business domains.
+b)  Distinguish between supervised and unsupervised learning.     [8+7]
+3.a)  Describe measures of forecast accuracy.
+b)  Explain about direct visualization and hyperslice.     [8+7]
+4.a)  Why preprocess the data? Explain in detail.
+b)  Explain about variable rationalization with examples.     [8+7]
+5.a)  Explain in detail about need for business modeling.
+b) What is STL approach? Explain in detail.       [8+7]
+6.a)  What is wrong with linear regression? Explain logistic regression.
+b)  Discuss about dimensional stacking and tree-map.     [8+7]
+7.a)  Explain about various sources of data in detail.
+b)  Discuss in detail about visualizing complex data and relations.    [8+7]
+8.  Explain the following:
+a) Apache Spark
+b) Arima
+c) Data visualizations                [5+5+5]
+USED PAPER MARCH-2021

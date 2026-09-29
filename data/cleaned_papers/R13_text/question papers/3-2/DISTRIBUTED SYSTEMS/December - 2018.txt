@@ -1,0 +1,50 @@
+DISTRIBUTED SYSTEMS
+(Computer Science and Engineering)
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Give examples of applications where the use of mobile code is beneficial.    [2]
+b) List the three main software components that may fail when a client process invokes a
+method in a server object, giving an example of a failure in each case.     [3]
+c) Why is computer clock synchronization necessary?      [2]
+d) What reconfiguration would you expect to occur in the NTP synchronization subnet?
+[3]
+e) Write the characteristics of inter process communications.      [2]
+f) Give a brief note on remote procedure call.       [3]
+g) List the characteristics of file systems.       [2]
+h) What data must the NFS client module hold on behalf of each user level process?  [3]
+i) Write the comparisons of methods for concurrency control.     [2]
+j) Give a brief note on atomic commit protocols.     [3]
+PART - B
+2.a) What are the advantages and disadvantages of HTML, URLs and HTTP as core
+technologies for information browsing?
+b) Give five types of hardware resource and five types of data or software resource that
+can usefully be shared. Give examples of their sharing as it occurs in practice in
+distributed systems.           [5+5]
+OR
+3.a) Discuss the mobile and ubiquitous computing.
+b) With the help of neat diagram, explain the software and hardware service layers in
+distributed systems.          [5+5]
+4. Discuss the factors to be taken into account when deciding to which NTP Server a
+client should synchronize its clock.           [10]
+OR
+5.a) Devise a protocol for basic multicast over IP multicast.
+b) Is it possible to implement either a reliable or an unreliable failure detector using an
+unreliable communication channel?         [5+5]
+used paper 29-12-2018 AM
+6. Explain the de sign choices that are relevant to minimizing the amount of replay data
+held at a server. Compare the storage requirements when the RR and RRA protocol are
+used.                 [10]
+OR
+7. Discuss how a forwarding observer may be used to enhance the reliabi lity and
+performance of objects if interest in an event service.          [10]
+8. Explain in which respects DSM is suitable or unsuitable for client server systems.    [10]
+OR
+9. Why should UFIDs be unique across all possible file system? How is uniquen ess for
+UFIDs ensured? Explain.           [10]
+10.a) Discuss the concurrency control in distributed transactions.
+b) With the help of neat diagram, explain the flat and nested distributed transactions. [5+5]
+OR
+11. What are advantages and drawbacks of multi version timestamp ordering in comparison
+with ordinary timestamp ordering? Explain.          [10]
+---oo0oo—
+used paper 29-12-2018 AM

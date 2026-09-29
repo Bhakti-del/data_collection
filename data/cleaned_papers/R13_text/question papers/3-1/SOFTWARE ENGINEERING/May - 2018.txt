@@ -1,0 +1,42 @@
+SOFTWARE ENGINEERING
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What is Software Development Life Cycle?              [2]
+b)      Mention some of the factors to be considered during System modelling.     [3]
+c)      What is meant by Requirement management?              [2]
+d)      Differentiate between data flow diagram and state transition diagram.               [3]
+e)      List the principles of a software design.                                                        [2]
+f)       What are the quality parameters considered for effective modular design?   [3]
+g)      What is the role of cyclomatic complexity in software resting?       [2]
+h)      Define black box testing strategy?                            [3]
+i)      Distinguish between reactive and proactive risk management.                                [2]
+j)       Write short note on RMMM.                  [3]
+PART - B
+2.a)  What are the advantages of layered technology?
+b) Give CMMI levels and explain.         [5+5]
+OR
+3.a)  How does system engineering differ from software engineering? Also write brief notes
+on computer based system and system engineering hierarchy.
+b)  Explain in detail Evolutionary process model.     [5+5]
+4.a)  Why is traceability an important aspect  of requirement management? Why  context
+system models are useful for requirements validation?
+b)  Explain about the cardinality and modality with suitable example.   [5+5]
+OR
+5. Give an overview of various steps in requirements engineering process.    [10]
+6.a)  Write about architectural styles and patterns.
+b)  Explain interface analysis and interface design steps.    [5+5]
+OR
+7.a)  How a component is designed based on function ? Explain.
+b)  What are the golden rules for user interface design? Explain.   [5+5]
+used paper 14-05-2018
+8.a)  What are the strategic approaches to  software testing?
+b)  Discuss about art of debugging in detail.      [5+5]
+OR
+9.a)  What is software testing? Explain clearly the system testing.
+b)  What is meant by software quality? Explain the metrics for maintenance.  [5+5]
+10.a)   How risk is identified? Explain.
+b)  Discuss about software reviews.       [5+5]
+OR
+11.a) Discuss about Formal technical reviews.
+b)  What are the types of software risks?       [5+5]
+used paper 14-05-2018

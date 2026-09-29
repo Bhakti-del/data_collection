@@ -1,0 +1,43 @@
+EMBEDDED SYSTEMS
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Write major levels of abstraction in the design process of embedded system. [2]
+b)      List out the features of  8051.        [3]
+c)      Classify the instruction set of the 8051.      [2]
+d)      Discuss the advantages of assembly language.     [3]
+e)      Write about semaphore.        [2]
+f)       Define mailbox and pipe        [3]
+g)      Write the laboratory tools of the embedded system     [2]
+h)      Differentiate the host machine with the target machine.     [3]
+i)       How to organize the memory?       [2]
+j)       Classify the features of SHARC.       [3]
+PART - B
+2.a) Explain in detail about the embedded system design process.
+b) Explain the memory organization of 8051 in detail.     [5+5]
+OR
+3.a) Draw block diagram of 8051 and explain each block in detail.
+b) Discuss about complex systems and microprocessor.    [6+4]
+4.a) Briefly explain various programming tools and techniques.
+b) Explain the Logical Instructions in 8051 with examples.    [5+5]
+OR
+5.a) Explain how subroutines calls are executed in 8051.
+b) List and explain the arithmetic group instructions of 8051 microcontroller.  [5+5]
+6.a) Explain keyboard interface with microcontroller system and keyboard configurations.
+b) Explain in detail about multiple interrupts and how to priorities them?  [5+5]
+OR
+7.a) Write short notes on the following:
+i) Message queues
+ii) Timer Functions
+b) Write a detailed note on Task, task states with the help of an example.  [5+5]
+8.a) What are the several ways of getting software file into target system? Explain them.
+b) Explain about encapsulating semaphores and queues in detail.   [5+5]
+OR
+9.a) Explain the hard real-time scheduling considerations.
+b) Explain the linker and locators for embedded software?    [5+5]
+10.a) Explain the protocols of the embedded network system.
+b) Explain theory of operation and requirements in designing an Elevator controller. [5+5]
+OR
+11.a) Discuss about ARM with block diagram.
+b) Explain I2C bus structure with the help of bus architecture, state transmission  graph, byte
+format.           [5+5]

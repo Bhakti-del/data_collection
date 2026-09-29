@@ -1,0 +1,19 @@
+ARTIFICIAL INTELLIGENCE
+(Computer Science and Engineering)
+1.a) What are the characteristics of a problem?
+b) Explain about iterative deepening A* algorithm.     [6+9]
+2.a) Explain about Alpha-Beta Pruning.
+b) Write short on bounded look- ahead strategy.     [7+8]
+3. What is propositional logic? Explain its syntax and logical connectivities with examples.
+[15]
+4.a) Illustrate with the example that how the knowledge is represented by using semantic
+network.
+b) When the extended semantic nets are useful? Explain with the example.  [7+8]
+5. Define Expert system. How expert systems differ from traditional system? With the neat
+sketch explain the architecture of expert system.     [15]
+6. Explain the following with illustrations:
+a) Bayesian Belief Networks
+b) Dempster-Shafer Theory.        [7+8]
+7. What is machine learning? How the data is classified using decision trees?  [15]
+8.a) How the knowledge is represented through semantic web?
+b) Write about sentence analysis phases.      [7+8]

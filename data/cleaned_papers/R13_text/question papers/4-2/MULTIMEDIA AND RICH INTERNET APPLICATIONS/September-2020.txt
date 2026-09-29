@@ -1,0 +1,17 @@
+MULTIMEDIA AND RICH INTERNET APPLICATIONS
+1.a) Explain briefly about Hyper Text Transfer Protocol.
+b) Explain about Synchronized Multimedia Integration Language (SMIL).   [7+8]
+2.a) Discuss about Quantization and transmission of audio.
+b) Give and explain the Block diagram for JPEG encoder.    [8+7]
+3.a) What is H.263? Explain in detail.
+b) Illustrate a typical H.261 frame sequence and explain briefly.   [7+8]
+4.a) How  to create Visual effects and Multimedia using Flex3?
+b) How to create special effects with Adobe Flash?     [8+7]
+5.a) Discuss briefly about history of AJAX.
+b) How to create a full scale AJAX Enabled application?    [7+8]
+6.a) Write a short note on Hyper Text Markup Language.
+b) Discuss briefly about Various Multimedia Software Tools.    [7+8]
+7.a) Explain about Lossless JPEG Image compression.
+b) Explain in detail about Adaptive Huffman Coding.     [7+8]
+8.a) Explain different Layers of MPEG-1 Video Bit stream.
+b) Write short note on: i) XML ii) VoIP.      [7+8]

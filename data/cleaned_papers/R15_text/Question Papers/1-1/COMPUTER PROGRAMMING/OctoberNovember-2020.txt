@@ -1,0 +1,16 @@
+COMPUTER PROGRAMMING
+1. Explain the concept of precedence and associativety. Mention its role in eliminating the
+ambiguity while evaluating an expression.      [15]
+2.a) Define an array and write syntax and example for multi dimensional arrays.
+b) Give an example C program to show how an array can be passed to a function. [7+8]
+3. Write a C program that reads a sentence and prints frequency of each of the letter in a
+given sentence.         [15]
+4.a) Differentiate between text and binary files.
+b) Write a C program to copy the contents of one file to another.   [7+8]
+5. What is a linked list? Explain the insertion of new node into a single linked list at various
+possible locations.         [15]
+6. Write a C Program to print equivalent binary number of given decimal number. [15]
+7. Given a randomly ordered array of n elements determine the kth smallest element in the
+set.           [15]
+8. Explain the concept of pointers. A lso explain operations on pointers and array of
+pointers.          [15]

@@ -1,0 +1,39 @@
+MULTIMEDIA AND RICH INTERNET APPLICATIONS
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Explain RGB color model for CRT displays.      [2]
+b)      What are VRML specifics? Explain.       [3]
+c)      Explain about region-of-interest coding.      [2]
+d)      Discuss about the Zerotree data structure.      [3]
+e)      Explain about social bookmarking.       [2]
+f)      Describe linear predictive coding.       [3]
+g)      Describe MXML tags.          [2]
+h)      Explain about creating an advertisement banner with masking.   [3]
+i)       Describe parsing JSON data.        [2]
+j)       Describe exceptional handling.       [3]
+PART - B
+2.a) Explain about color lookup tables.
+b) Describe automatic authoring in multimedia.      [5+5]
+OR
+3.a) Give an overview of multimedia software tools.
+b) Explain about GIF file format.       [5+5]
+4.a) What are JPEG modes? Explain.
+b) Describe adaptive Huffman coding.       [5+5]
+OR
+5.a) Discuss about lossless predictive coding.
+b) Briefly explain about Discrete Cosine Transform.     [5+5]
+6.a) What is Web2.0? Explain content networks.
+b) Explain about supporting interlaced video.      [5+5]
+OR
+7.a) What are Web2.0 business models? Explain.
+b) Discuss about MPEG audio compression algorithm.     [5+5]
+8.a) Give an overview of action scripts in flash.
+b) What are layout strategies? Explain in detail.      [5+5]
+OR
+9.a) What MXML fundamentals? Explain in brief.
+b) What are states? Explain creating states using Flex Builders design view.  [5+5]
+10. Explain the following:
+a) Traditional Web applications
+b) Loading Dojo packages.        [5+5]
+OR
+11. Explain about creating a full-scale Ajax-enabled application.   [10]

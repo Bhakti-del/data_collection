@@ -1,0 +1,19 @@
+DISTRIBUTED SYSTEMS
+(Computer Science and Engineering)
+1.   Give five types of hardware resource and five types of data or software resource that
+can usefully be shared. Give examples of their sharing as it occurs in practice in
+distributed systems.           [15]
+2.  Provide three specific and contrasting examples of the increasing levels of
+heterogeneity experienced in contemporary distributed systems and brief them.   [15]
+3. Explain the snapshot algorithm of Chandy and Lamport.      [15]
+4.  Give an example execution of the ring -based algorithm to show that processes are not
+necessarily granted entry to the critical section in happened-before order.    [15]
+5.  State the multicast communication principles and techniques in detail.    [15]
+6.a)  Discuss the design issues and implementation of RPC in brief.
+b)  Evaluate the Case study: Sun RPC.        [7+8]
+7.a)  Discuss about name services and domain name services.
+b)  State the applications of directory services.      [8+7]
+8.a)  Explain how the two -phase commit protocol for nested transactions ensures that if the
+top-level transaction commits, all the right descendants are committed or aborted.
+b)  Explain how distributed deadlocks can be detected?     [8+7]
+R13 used paper feb/mar-2022 jntuh

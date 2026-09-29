@@ -1,0 +1,14 @@
+NEURAL NETWORKS AND DEEP LEARNING
+1. List and explain the various activation functions used in modeling of artificial neuron. Also
+explain their suitability with respect to applications.     [15]
+2. Describe the Characteristics of Continuous Hopfield memory and discuss how it can be used
+to solve Traveling salesman Problem.      [15]
+3. Explain the architecture and algorithm of full CPN with diagram.   [15]
+4. Give the Architecture of kohenen self-organizing and explain how it is used cluster the input
+vectors.          [15]
+5. Give an example of learning XOR function to explain a fully functioning feed  forward
+network.          [15]
+6. Explain in detail about the concept of gradient based learning.   [15]
+7. Write an early stopping meta-algorithm for determining the best amount of time to train.
+[15]
+8. Discuss the application of second-order methods to the training of deep networks. [15]

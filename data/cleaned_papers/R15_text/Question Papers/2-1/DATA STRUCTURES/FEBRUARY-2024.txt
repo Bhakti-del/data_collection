@@ -1,0 +1,48 @@
+DATA STRUCTURES
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART- A
+1.a) What is sparse matrix? Show array representation of a sparse matrix.  [2]
+b) What is amortized complexity? Discuss briefly.     [3]
+c) What is an ADT? Write stack ADT.             [2]
+d) What is Deque? Indicate how deque is represented in C.    [3]
+e) Define strictly binary tree. Give example.      [2]
+f) Explain adjacency matrix representation of a graph with example.   [3]
+g) What is Hash table?           [2]
+h) What is sorting? What is searching?       [3]
+i) Define AVL tree.         [2]
+j) What are splay trees?         [3]
+PART-B
+2.  Give the node structure to create a linked list of integers and write C functions to perform
+the following:
+a) Create a three node list with data 11, 22, and 33.
+b) Insert a node with data value 15 in between the nodes 11 and 22.
+c) Display the resulting singly linked list.                               [3+3+4]
+OR
+3.a) Explain different types of linked lists with diagram.
+b) Write a C program to insert a node into a doubly linked list.    [5+5]
+4.a) Discuss the various exceptional conditions that should be handled while using stacks.
+b) Convert the following postfix expressions to infix expressions:
+i) A B C D E / * - F / G + +
+ii) a b c d g / * + +.         [5+5]
+OR
+5.a) Define stack and write functions for operations over stack.
+b) Write a C program to reverse a string using stack.     [5+5]
+6. Explain insertion and deletion from a Max Heap with examples.   [10]
+OR
+7.a) Write a C program to implement BFS.
+b) Write C functions for the following tree traversals:
+i) In order ii) Pre order iii) Post order.      [5+5]
+8.a) Apply heap sort on the following list of elements:
+{14, 12, 9, 8, 7, 10, 18, 20, 30}
+b) What is hash function? Explain different hash functions with example.  [5+5]
+OR
+9.  Analyze input (371, 325, 163, 199, 344, 679, 989, 534, 448, 355) and the has h function is
+h(x) = x mod 10. Show the result using quadratic  probing and double hashing
+h2(x) = 7 – (x mod 7).         [10]
+10.a) Construct a b-tree of order 3 for the following:
+{5, 3, 21, 9, 1, 13, 2, 7, 10, 12, 4, 8}
+b) Explain about Red-Black trees.        [5+5]
+OR
+11.  Explain different types of AVL rotations with example.    [10]
+---oo0oo---

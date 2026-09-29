@@ -1,0 +1,65 @@
+DIGITAL LOGIC DESIGN
+(Computer Science and Engineering)
+PART- A
+1.a) Convert the hexadecimal member 68BE to binary and then from binary to octal number.
+[2]
+b) Write about error detecting and error minimizing codes with examples.   [3]
+c) Define pair, quad and octet with examples in K – maps.    [2]
+d) Explain SOP and POS of Boolean functions.      [3]
+e) Write the logic diagram and truth table of a Full – adder.      [2]
+f) What is an encoder? Write the truth table of a parity encoder.     [3]
+g) What are sequential circuits? Give some examples.      [2]
+h) Explain the working of a 4 – bit ripple counter with help of truth table.    [3]
+i) List various types of semiconductor memories and write their uses.    [2]
+j) What are programmable logic arrays? What are their applications?    [3]
+PART-B
+2.a) Explain various number systems used in digital logic design with examples and their
+representation with examples.
+b) Simplify the following Boolean functions to a minimum number of literals
+(i)
+  x y x y       (ii)
+xy x z yz         [5+5]
+OR
+3.a) Explain about signed binary number and Floating point repres entation of number system
+with examples and discuss their advantages.
+b) Express the Boolean function
+F A B C  in a sum of Minterms and write its truth table .
+[5+5]
+4.a) Explain the design procedure for 4 – variable K – map and discuss its simplification
+methods using prime implicants methods.
+b) Simplify the Boolean function using K- map method.    [5+5]
+F (A, B, C,D) = ∑ (0,1,2,4,5,6,8,9,12,13,14)
+OR
+5.a) Implement the following Boolean function with NAND gates after simplification
+F (A,B,C) = (1,2,3,4,5,7)
+b) Simplify the followi ng Boolean function in sum of products and product of sums
+F (A,B,C,D) = ∑(0,1,2,5,8,9,10)        [5+5]
+6.a) Design a combinational circuit hat converts a 4 -bit Gray code to a 4bit binary number
+Implement the circuit with XOR gates.
+b) Design a BCD to decimal decoder using the unused combinations of the BCD code as
+don’t care conditions.         [5+5]
+OR
+7.a) Explain the design procedure for constructing BCD adder – subtractor circuit using BCD
+adder and 9’s complementer block diagrams.
+b) Construct a 4 to 16 line decoder with five 2 – to -4 – line decoder with enable.    [5+5]
+8.a) Explain the state equation, state table and state diagrams of sequential circuit with block
+diagram.
+b) Draw the block diagram of a 4   bit synchronous Binary counter using J-K Flip-slops.
+[5+5]
+OR
+9.a) Explain the analysis of clocked sequential circuit using T Flip Flops with help of circuit
+diagram, state diagram and state table.
+b) Draw the block diagram of a 4 bit universal shift Register and explain its working with its
+function table.          [5+5]
+10.a) Explain about memory decoding and  address multiplexing in memories with the help of
+neat diagrams.
+b) Draw the logic diagram of a Programmable Logic Array with 3 inputs, 4 product terms
+and 2 outputs.          [5+5]
+OR
+11.a) Discuss various types of sequential programmable devices with block diagrams.
+b) Tabulate the PLA programming table for the following  Boolean functions and minimize
+the number of product terms.        [5+5]
+A(x,y,z)  = ∑(1,2,4,6)
+B(x,y,z)  = ∑(0,1,6,7)
+C(x,y,z)  = ∑(2,6)
+D(x,y,z)  = ∑(1,2,3,5,7)

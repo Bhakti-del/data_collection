@@ -1,0 +1,15 @@
+WEB SERVICES
+(Computer Science and Engineering)
+1.a) Explain the Core distributed computing technologies.
+b) Discuss the Web services Architecture and its characteristics.    [7+8]
+2. With the help of a neat diagram, explain the SOAP Message Structure.  [15]
+3.a) List and explain the various types of limitations of WSDL.
+b) Explain about web services life cycle.      [8+7]
+4. Explain the searching and deleting information in a UDDI Registry.  [15]
+5.a) Describe the XML security framework.
+b) Explain the significance of Dual signature.      [10+5]
+6. Explain the emergence of Web Services and Service-Oriented Architecture. [15]
+7.a) What is the SOAP web service in Java? Discuss.
+b) Give a brief note on Java and Axis.       [8+7]
+8. Discuss the WSDL in the world of Web Services.      [15]
+--oo0oo---

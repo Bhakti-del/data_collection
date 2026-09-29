@@ -1,0 +1,21 @@
+FUNDAMENTALS OF INTERNET OF THINGS
+1.a)  What are the main challenges in Internet of Things (IoT)?
+b)  What kind of information do Internet of Things (IoT) objects communicate?         [8+7]
+2.a)  How might wireless communications have an effect o n the development and
+implementation of the Internet of Things (IoT)? Explain.
+b)  Explain the protocol used to link the devices in IoT.        [8+7]
+3.a)  How data collection and analysis approaches differ in M2M and IOT?
+b)  Define ETSI M2M domains and High-level capabilities.                          [8+7]
+4.a)  Explain about interfacing an LED and switch with Arduino.
+b)  What is the difference between Sensors and Actuators? Explain with an example. [8+7]
+5.a)      Discuss in detail the use of embedded computing in the design of IoT Systems.
+b)  Explain in detail the Raspberry Pi interfaces.             [7+8]
+6.a)  What is the use of SPI and I2C interfaces on Raspberry pi?
+b)  Describe how SDN can be used at various levels of IOT.                                         [8+7]
+7.a)  Discuss the role of Data Analytics in Internet of Things (IoT).
+b)  Explain about various components and business model patterns in the Internet of
+Things.                                                                                                                     [10+5]
+8.      Explain the following:
+a) Cloud Platform for IoT/M2M Applications/Services
+b) Cloud Service Models.            [8+7]
+---oo0oo---

@@ -1,0 +1,41 @@
+COMPUTER ORGANIZATION AND ARCHITECTURE
+PART- A
+1.a) What is a register transfer language?       [1]
+b)  Define computer registers.        [1]
+c)  What is Micro-programmed control Unit?      [1]
+d)  List any two types of logical and bit manipulation instructions.   [1]
+e)  What is the purpose of data representation in computers?    [1]
+f)  Give an example of a real -world application that h eavily relies on floating -point
+arithmetic.          [1]
+g)  What is the purpose of data types in computer programming?   [1]
+h)  Why is cache memory faster than main memory?     [1]
+i)  List the key features of an array processor.      [1]
+j)  Define the term “RISC”.        [1]
+PART-B
+2.a) Give a detailed overview of digital computers, including their key characteristics and
+applications.
+b) Compare computer design with computer architecture.     [6+4]
+OR
+3.a) Describe the phases of instruction cycle.
+b) Discuss about arithmetic micro operations.      [5+5]
+4.  Explain the following terms.
+a) Design of control unit.
+b) Micro program example.        [5+5]
+OR
+5. Explain various addressing modes with examples.     [10]
+6. Justify the inclusion of a separate decimal arithmetic unit in modern computer
+architectures, citing real-world applications.      [10]
+OR
+7.a) Discuss the challenges associated with decimal arithmetic operations.
+b)  Discuss any common multiplication algorithm used in computer arithmetic.  [5+5]
+8.a) Differentiate between Main Memory and Auxiliary Memory.
+b) Explain the importance of memory hierarchy and its importance in data storage. [4+6]
+OR
+9.a)  Write short notes on programmed I/O mode of transfer.
+b)  Explain importance of the I /O Interface in ensuring effective communication
+between a computer system and external devices.     [5+5]
+10.a) Explain about Inter-processor communication and synchronization in multiprocessors.
+b) Differentiate between arithmetic pipeline and instruction pipeline.   [5+5]
+OR
+11.a)  State and explain the characteristics of multi-processors.
+b)  Explain RISC characteristics with its advantages     [5+5]

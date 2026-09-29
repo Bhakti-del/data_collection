@@ -1,0 +1,15 @@
+ADVANCED ALGORITHMS
+(Computer Science and Engineering)
+1.a) Solve the following recurrence equation using substitution method.
+T(n) = 4T(n/2)+n2
+b)  Write the applications of Dynamic Programming.     [8+7]
+2. Write a Randomized algorithm of Quick Sort and explain.    [15]
+3. Write an algorithm of Prim’s minimum cost spanning tree  and illustrate with an
+example.          [15]
+4. Find the max flow of the following graph:      [15]
+5. Explain how to solve the system of linear equations with an example.  [15]
+6. Explain about the Strassen’s Matrix multiplication.     [15]
+7. Write an algorithm of Rabin -Karp and also analyze the time complexity of the same .
+[15]
+8. Explain about the Approximation algorithm of Vertex cover problem  with an example.
+[15]

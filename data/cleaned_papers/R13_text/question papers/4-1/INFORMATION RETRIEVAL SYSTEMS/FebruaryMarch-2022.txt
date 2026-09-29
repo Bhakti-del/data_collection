@@ -1,0 +1,17 @@
+INFORMATION RETRIEVAL SYSTEMS
+1.a) What is vector space model? Explain its working principle.
+b) Write about similarity measures in detail.      [8+7]
+2.a) Describe non binary independence information retrieval model.
+b) Explain smoothing role in language model.      [8+7]
+3.a) Explain the role of relevance feed back in probabilistic information retrieval model.
+b) Give a detailed note on query expansion in relevance feedback.   [8+7]
+4.a) Explain hierarchical agglomerative document clustering.
+b) Describe five gram model with an example.      [7+8]
+5.a) Explain R-distance in semantic network.
+b) Explain syntactic parsing.        [8+7]
+6.a) Describe the phases in translating query.
+b) Write about cross language barrier in cross language information retrieval.  [7+8]
+7.a) Explain in detail about signature file and its creation.
+b)  Describe how signature file is useful in duplication detection.   [7+8]
+8.a) Explain preprocessing in information retrieval using SQL.
+b)  Describe relevance feedback in relational model.     [7+8]

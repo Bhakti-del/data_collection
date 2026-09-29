@@ -1,0 +1,20 @@
+DATABASE MANAGEMENT SYSTEMS
+1.a)  What is DBMS? Differentiate between file systems and DBMS.
+b)  Explain in brief about DDL and DML.      [8+7]
+2.a)  Discuss the additional features of ER model.
+b)  Explain integrity constraints over relations.      [9+6]
+3.  Comment on the expressive power of
+a) Domain relational calculus
+b) Relational algebra.         [8+7]
+4.a)  Explain aggregate operators with example queries.
+b)  What is null attribute? Explain its purpose.      [8+7]
+5.a)  What is decomposition? Discuss the problems related to decomposition.
+b)  Explain third normal form and BCNF.      [6+9]
+6.a)  What is meant by schema refinement? Explain schema refinement in database design.
+b)  Explain partial and transitive dependencies with an example.   [8+7]
+7.a)  What is lock? Explain various types of locks with an example.
+b)  Discuss the purpose of using remote backup systems.    [7+8]
+8.  Explain the following:
+a) ISAM
+b) File organization and indexing.       [8+7]
+---oo0oo---

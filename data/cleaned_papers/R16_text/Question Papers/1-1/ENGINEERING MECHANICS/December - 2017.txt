@@ -1,0 +1,76 @@
+ENGINEERING MECHANICS
+MSNT)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) State the theorem of varignon.       [2]
+b) Write the equations of equilibrium of a coplanar system of forces.   [3]
+c) Define rolling resistance.        [2]
+d) Define wedge and write the equilibrium conditions for ladder friction.  [3]
+e) Define centroid and centre of gravity of a area.     [2]
+f) Define principal axes and principal moment of inertia.    [3]
+g) Define radius of gyration and polar moment of inertia.    [2]
+h) Differentiate between “Mass moment of inertia” and “Area moment of inertia”. [3]
+i) Differentiate the kinematics and kinetics.           [2]
+j) State work-energy principle for Linear and angular motion of a rigid body.            [3]
+PART-B
+2.a) A 800N Cylinder is supported by the frame ABC, figure 1 which is hinged at A, and
+rests against wall AD. Determine the reactions at A, B, C and D.
+Figure: 1
+b) The body shown in figure 2 is acted upon by four forces. Determine the resultant.
+[5+5]
+Figure: 2
+OR
+3.a)  Concurrent forces 3P, 7P and 5P act respectively alo ng three directions, which are
+parallel to the side of an equilateral triangle taken in order. Determine the magnitude and
+direction of the resultant.
+b) What do you understand by resultant of a force system and which are the methods used
+for determining the resulting of coplanar concurrent force system? Four forces having
+magnitudes of 20N, 40N, 60N and 80N respectively, are acting along the four sides (1m
+each), of a square ABCD taken in order, as shown in figure  3. Determine the magnitude
+and direction of the resultant force.       [5+5]
+Figure: 3
+4.a) What is the characteristics of frictional force? Describe the laws of coulomb friction,
+explaining the concept of equilibrium of bodies involving dry friction.
+b) Two equal bodies A and B of weight „W‟ each are placed on a rough inclined plane. The
+bodies are connected by a light string. If μ A = 1/2 and μ B = 1/3, show that the bodies will
+be both on the point of motion when the plane is inclined at tan−1 (5/12).  [5+5]
+OR
+5.a) Explain the principles of operation of a screw-jack with a neat sketch.
+b) A body of weight 100N rests on a rough horizontal surface (μ = 0.3) and is acted upon by
+a force applied at an angle of 30 0 to the horizontal. What force is required to just cause
+the body to slide over the surface?       [5+5]
+6.a) Determine the distance of the center of gravity of a homogeneous truncated right circular
+cone from the plane of the base if the radius of the base is r1 the radius of the t op r2 and
+the altitude of the truncated portion h.
+b) Determine the mass moment of inertia of a solid right circular cylinder of uniform density
+with respect to its centroidal diameter the radius of the cylinder is R and its length is H.
+[5+5]
+OR
+7.a) Derive an expression to determine the moment of inertia of a semi circle about its
+diametric base.
+b) Determine the y coordinate of the centroid of a uniform triangular lamina as shown in
+Figure 4.          [5+5]
+Figure: 4
+8.  Derive the expression form mass moment of inertia of prism along three axes.  [10]
+OR
+9. Discuss about the expression for finding mass moment of inertia of a cylinder of radius R
+and height h about its base.         [10]
+10.a) A body moves along a straight line  and its acceleration „a‟ which varies with time „t‟ is
+given by a =6 -4t. Five seconds after the start of observation, the velocity is 18 m/s. The
+distance moved by the body 8 sec after the start of observation of motion from origin is
+75 m. Determine:
+i) The acceleration, velocity and distance from the origin at the start of observation.
+ii) T he time after the start of observation at which the velocity becomes zero and the
+distance travelled from the origin.
+b) A man weighing 90 kg stands in a boat so that he is 6 m from pier on the shore. He walks
+2.4 m in the boat toward the pier and then stops. How far from the pier will he be at the
+end of this time? The boat weighs 120 kg and there is assumed to be no friction between
+it and water.          [5+5]
+OR
+11.a) A vehicle accelerates a glider of 125 kg mass from rest to a speed of 50 km/hr.  Make
+calculations for the work done on the glider by the vehicle. What change would occur in
+the kinetic energy of the glider if subsequen tly its velocity reduces to 20 km/hr on the
+application of brakes?
+b) A stone is dropped into a well and falls vertically with constant acceleration
+g =9.81 m/s2. The sound of impact of the stone on t he bottom of the well is heard 6.5 sec
+after it is dropped. If the velocity of sound is 340 m/s, find the depth of the well. [5+5]

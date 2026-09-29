@@ -1,0 +1,39 @@
+SOFTWARE PROJECT MANAGEMENT
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      What are various cost estimation models?        [2]
+b)      What are the two basic steps in building a program? Explain them.   [3]
+c)      What are the top five principles of a modern process?       [2]
+d)      Explain the disadvantages of commercial components.    [3]
+e)      Write the typical release description outline.        [2]
+f)       What is meant by software architecture?      [3]
+g)      Define product release milestone.              [2]
+h)      Discuss about life cycle architecture milestones.     [3]
+i)       Define rework and adaptability.       [2]
+j)       What is meant by process discriminants?          [3]
+PART – B
+2.a)  Describe return on investments in different domains.
+b)  Briefly explain pragmatic software cost estimation.     [5+5]
+OR
+3.a)  Discuss the Waterfall Model with pros and cons.
+b)  Discuss the Conventional Software process model with pros and cons.  [5+5]
+4.  Discuss in detail about improving team effectiveness.     [10]
+OR
+5.a)  Discuss about reuse with a neat diagram.
+b)  What are the principles of modern software management?    [5+5]
+6.  Discuss about programmatic artifacts and engineering artifacts.      [10]
+OR
+7.a)  Distinguish between implementation set and deployment set.
+b)  Explain about construction phase.       [5+5]
+used paper July/Aug-2023
+8.a)  Discuss about the cost and schedule estimating process.
+b)  What are the activities of software architecture team?    [5+5]
+OR
+9.  Discuss about minor milestones and periodic status assessments.   [10]
+10.a)  Give an example to distinguish small scale project and large scale project.
+b)  What are the basic characteristics of a good metric? Explain.   [5+5]
+OR
+11.  Discuss about the software project management principles with respect to CCPDS-R case
+study.           [10]
+used paper July/Aug-2023

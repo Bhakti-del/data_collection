@@ -1,0 +1,42 @@
+INTRODUCTION TO ANALYTICS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      Define outlier.          [2]
+b)      Discuss about conditional statements in R.      [3]
+c)      State central limit theorem.        [2]
+d)    Give the importance and properties of normal distribution.    [3]
+e)      What is xlsx?          [2]
+f)      Differentiate SQL and NoSQL databases.      [3]
+g)     Define regression.           [2]
+h)     What is Pearson Correlation?        [3]
+i)      What is smart utility system?        [2]
+j)      What are the applications of business intelligence?     [3]
+PART – B
+2.a) Describe different data types in R.
+b) Explain for loop in R programming and how it is useful in data frame.  [5+5]
+OR
+3.a) Create  a matrix using rbind()  and cbind() and illustrate with examples.
+b) Write the importance of work management and prioritization.   [5+5]
+4.a) Describe summery(), fix(), str(), aggregate() and name() functions.
+b) What is random variable? Explain its categories.     [5+5]
+OR
+5.a) Explain the pros and cons of team work in analytics.
+b) Explain Normal probability distribution function in detail.    [5+5]
+6.a) Explain different packages to access Excel sheet from R.
+b) Write the steps to connect R to NoSQL data base.     [5+5]
+OR
+7.a) How will you execute R code from an Excel spreadsheet?
+b)  List and explain the classifications of NoSQL databases based on data model. [5+5]
+used paper July/Aug-2023
+8.a)   What is OLS regression? Write the assumptions of OLS regression.
+b)   What is ANOVA model? Explain it briefly.      [5+5]
+OR
+9.a)  What is residual plot and explain how to find residuals.
+b)   Give a note on Heteroscedasticity.       [5+5]
+10.a)  Discuss the stages of engineering design process.
+b)   Compare business analytics and organization decision-making processes.  [5+5]
+OR
+11.a) What is SMART? Explain in detail.
+b)   Explain the components of Business intelligence.     [5+5]
+used paper July/Aug-2023

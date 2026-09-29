@@ -1,0 +1,18 @@
+SCRIPTING LANGUAGES
+1.a)  Describe about lexical and syntactic structure of Ruby language.
+b)  How do we write CGI scripts using Ruby? Explain with simple CGI script? [7+8]
+2.a)  How do we do package management in Ruby using RubyGems?
+b)  Describe the usage of erb and eruby packages in Ruby.    [7+8]
+3.a) Write the steps for building our own extensions in Ruby.
+b)  Explain about different Ruby objects in C.       [7+8]
+4.a)  Write a Ruby programming for wrapping of C structures in Jukebox extension.
+b)  Explain about object creation and cloning of objects in Ruby.   [7+8]
+5.a)  Enumerate various characteristics of Scripting languages.
+b)  How do we create packages and modules in Perl?     [7+8]
+6.a)  Explain about different uses of web scripting languages.
+b)  Compare Lists with Hashes in Perl language.     [7+8]
+7.a)  Illustrate file status check codes available in Perl using a program.
+b)  Summarize the steps for creating Internet-aware applications in Perl.  [7+8]
+8.a)  Explain how global, upvar and uplevel behaves in TCL with examples?
+b)  Explain the list of available selection widgets in TK with examples.  [7+8]
+R18 USED PAPERSAUG/SEP-2021

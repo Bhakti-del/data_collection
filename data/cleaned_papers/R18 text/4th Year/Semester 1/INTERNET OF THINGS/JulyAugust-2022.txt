@@ -1,0 +1,21 @@
+INTERNET OF THINGS
+(Computer Science and Engineering)
+1.a) Define IoT. Explain the Characteristics of IoT.
+b) Explain the Physical Design of IoT.       [7+8]
+2.a) Illustrate the IoT Levels and Templates Domain-Specific IoTs.
+b) Explain the IoT Protocols.        [8+7]
+3.a) Explain the network function virtualization.
+b) Compare and contrast the M2M vs IoT applications.               [5+10]
+4. Write a short note on the following:
+a) NETOPEER
+b) SNMP          [7+8]
+5.a) Illustrate the Exception handling in Python.
+b) What are the features of Python?       [8+7]
+6. Explain the following:
+a) JSON
+b) XML          [7+8]
+7.a) Write the Python program with Raspberry PI with a focus on interfacing external gadgets.
+b) Explain the IoT Physical Devices and Endpoints.     [8+7]
+8.a) Explain the Python web application framework.
+b) Describe the Web server for IoT.       [8+7]
+--ooOoo--

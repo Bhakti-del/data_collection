@@ -1,0 +1,23 @@
+DESIGN AND ANALYSIS OF ALGORITHMS
+1. Show that the following equalities are correct:
+a) 5n2 - 6n = θ (n2)
+b) n! = O(nn)
+c) 2n22n + n log n = θ (n22n)
+d) n3 + 106n2 = θ (n3).                                  [4+4+4+3]
+2.a)  What are asymptotic notations? Explain with examples.
+b)  Write and explain quick sort algorithm with an example.     [8+7]
+3.a)  Write and explain find algorithm with collapsing rule.
+b)  Describe the general method of backtracking.      [8+7]
+4.a)  What are union and find operations? Explain with suitable examples.
+b)  Explain about graph coloring algorithm.       [8+7]
+5.a)  Solve the following 0/1 knapsack problem using dynamic programming
+n=3, (W1, W2, W3) = (2, 3, 3) (P1, P2, P3) =(1,2,4) and m=6.
+b)  Differentiate between dynamic programming and divide and conquer.   [8+7]
+6. Consider four elements a1 < a2 < a3 < a4 with q(1, 2, 3, 4) = (1/8, 3/16, 1/16, 1/16) and
+(p1, p2, p3, p4) = (1/4, 1/8, 1/16, 1/16). Construct the table of values of W  (i, j), R(i, j)
+and C(i, j) computed by the algorithm to compute the roots of optimal sub-tree.   [15]
+7.a)  Describe Greedy method control abstraction for the subset paradigm.
+b)  Write an algorithm of Greedy knapsack.       [8+7]
+8.a) Write a non-deterministic algorithm of sorting a list of elements in an array.
+b) Explain the applications of branch and bound.     [8+7]
+---oo0oo---

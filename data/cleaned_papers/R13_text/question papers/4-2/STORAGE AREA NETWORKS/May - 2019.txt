@@ -1,0 +1,35 @@
+STORAGE AREA NETWORKS
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What are the advantages of disk drive storage?     [2]
+b)      What are the benefits of storage networks on business applications?  [3]
+c)      What are the components of IP SAN?        [2]
+d)      Write a short note on RAID 0 .       [3]
+e)      Write a short note on unplanned outages.      [2]
+f)       Explain in brief about Business continuity.      [3]
+g) Write a short note on key management tasks in a data center?    [2]
+h) What are the key m etrics to monitor for different components in a storage
+infrastructure?          [3]
+i)       Explain the concept of Information security.      [2]
+j)       List the common threats in each domain.      [3]
+PART - B
+2. What are the solutions available for data storage? Explain in detail.   [10]
+OR
+3. Explain about the functionalities of the  core elements of a data center infrastructure. [10]
+4. Briefly explain the concept of RAID and its levels.     [10]
+OR
+5.a) Describe the storage system operations.
+b) Compare and contrast the integrated storage system and modular storage systems. [5+5]
+6. Identify the single points of failure in a storage infrastructure and also list solutions to
+mitigate these failures.        [10]
+OR
+7.a) Briefly explain about planned outages.
+b) Differentiate between business continuity and disaster recovery.   [5+5]
+8. Explain the replication technologies and their role in ensuring information availability and
+business continuity.         [10]
+OR
+9. Explain the architecture of backup/recovery.      [10]
+10.a) Explain the concept of Storage Virtualization.
+b) Explain about the critical security attributes for information systems.  [5+5]
+OR
+11. Briefly explain about file-level virtualization technology.    [10]

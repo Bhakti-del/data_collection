@@ -1,0 +1,43 @@
+OBJECT ORIENTED ANALYSIS AND DESIGN
+and may have a, b as sub questions.
+PART - A
+1.a)  What is a model? Why is it required during OOAD?                     [2]
+b)  What are the different phases of OOSDLC? Brief them.    [3]
+c)   In what way class diagram is different than object diagram?    [2]
+d)   Differentiate between Generalization, Aggregation and Composition.  [3]
+e)   What is the purpose of join and fork in activity diagrams?       [2]
+f)   Define usecase and explain the relationships between usecases.   [3]
+g)  State the differences between event and signal in state diagrams.   [2]
+h)  What is the purpose of component diagrams? Explain.    [3]
+i)   Write the significance of artifact diagrams.      [2]
+j)   Illustrate the differences between patterns and frameworks.    [3]
+PART - B
+2.a)   What are adornments in UML? Give suitable examples.
+b)   Explain the principles of modeling.       [5+5]
+OR
+3.a)  Explain the essential features of object oriented modeling.
+b)  Describe the conceptual model of the UML.      [5+5]
+4.a)  Why is it necessary to have a variety of diagrams in a model of a system?
+b)  Which UML diagrams give a static view and which give a dynamic view of a system?
+[5+5]
+OR
+5.a)  What is an interface? How is it represented in UML? Explain.
+b)  In what way do interfaces help in developing an object oriented system? Discuss. [5+5]
+6.  What are the common uses of use case diagrams? Consider any two modeling issues
+and draw relevant use case diagrams. Explain them in detail.     [10]
+OR
+7.a)  Describe the use of swim lanes in activity diagrams.
+b)  Differentiate between sequence and collaboration diagrams.    [5+5]
+used paper July/Aug-2023
+8.a)  Define the State, Event, Transition and give their representation in UML.
+b)  Enumerate the steps to model family of exceptions.      [5+5]
+OR
+9.   Specify the steps to model the following. Illustrate UML diagrams and explain.
+a) Modeling processes and devices.
+b) Modeling distribution of components.      [5+5]
+10.   What are the packages that can be developed for the unified library system? Explain
+them in detail.            [10]
+OR
+11.  Develop the use case and activity diagrams for unified library application and explain.
+[10]
+used paper July/Aug-2023

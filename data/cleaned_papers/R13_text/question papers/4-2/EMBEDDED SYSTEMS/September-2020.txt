@@ -1,0 +1,20 @@
+EMBEDDED SYSTEMS
+(Computer Science and Engineering)
+1.a) Briefly describe the distinction between requirements and specification.
+b) Explain the formalisms for system design.      [7+8]
+2.a) Explain the memory organization of 8051 in detail.
+b) Explain the operation of counters and timers in 8051.    [5+10]
+3.a) Explain the assembly language programming process.
+b) Explain the Data Transfer Instructions in 8051 with examples.   [5+10]
+4.a) What are the different logical instructions are available in 8051? Write their syntax.
+b) Write an assembly language program to 8-bit addition and subtraction.  [7+8]
+5.a) Explain about serial data communication modes in 8051.
+b) Draw and explain the A/D and D/A converters.     [7+8]
+6.a) Explain task scheduling mechanisms with an example.
+b) Explain how interrupt routines handled in RTOS Environment.   [8+7]
+7.a) Discuss Software development tools of embedded system.
+b) Write short notes on the following
+i) Testing on host machine
+ii) Laboratory tools.         [7+8]
+8.a) Discuss briefly about SHARC architecture.
+b) Write about Internet enabled systems.      [9+6]

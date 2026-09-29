@@ -1,0 +1,26 @@
+ENGINEERING PHYSICS
+1.a) Define basis, lattice parameters, unit cell.
+b) Describe seven crystal systems and their corresponding Bravias lattice.  [7+8]
+2.a) Explain bonding in solids briefly.
+b) Derive an expression for cohesive energy of general solids.    [7+8]
+3.a) Compare the properties of waves and particles.
+b) Derive an expression for energy of a particle in an infinite potential well.
+c) State and explain about Heisenberg’s uncertainty principle.           [5+5+5]
+4.a) Define Fermi level and derive an expression for Fermi energy.
+b) Compare Maxwell-Boltzman, Bose-Einstein and Fermi-Dirac statistics.  [7+8]
+5.a) Obtain expression for internal fields in the solids.
+b) Discuss about ferro-electricity in magnetic materials.
+c) The dielectric constant of helium gas at NTP is 1.0000684. Calculate the electronic
+polarisability of helium atoms if the gas contains 2.7 × 1025 atoms/m3.                [4+4+7]
+6.a) Define the terms permeability, magnetic moment and magnetic field induction.
+b) Explain origin of magnetic moment and based on magnetic moment explain the
+classification of magnetic materials.
+c) Compare and contrast soft and hard magnetic materials.           [4+7+4]
+7.a) Explain superposition of waves.
+b) Compare and contrast Fressnel and Fraunhofer diffractions.
+c) Derive an expression for interference in thin films by reflection.          [4+4+7]
+8.a) Obtain an expression of Sabine’s formula for reverberation time.
+b) Define phenomena of reverberation and reverberation time.
+c) A hall has a volume of 2500 m 3.  Its total absorption is equivalent to 100 m 2 of open
+windows.  If the hall is filled with audience who add another 80 m2 of open window, then
+what is the effect on the reverberation time?                [4+4+7]

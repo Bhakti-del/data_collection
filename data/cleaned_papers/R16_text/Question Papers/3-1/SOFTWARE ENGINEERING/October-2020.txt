@@ -1,0 +1,21 @@
+SOFTWARE ENGINEERING
+1.a)  What are specialized process models? Explain any one process model in detail.
+b)  What is CMMMI? Explain.        [8+7]
+2.a)  Discuss about the software requirements document with a neat diagram.
+b)  Describe the process of requirements management.     [8+7]
+3.a)  Distinguish between cohesion and coupling.
+b)  Define transaction flow. Explain transaction mapping in detail.   [7+8]
+4.a)  Discuss about the CK metrics suite in detail.
+b)  Define black-box testing. Explain black-box testing technique with example merits and
+demerits.           [7+8]
+5.  Explain the following:
+a) SQA activities
+b) Assessing risk impact.        [7+8]
+6.a)  Explain in detail about Spiral model.
+b)  What are software myths? Explain in detail.      [7+8]
+7.a)  Model the data processing that might take place in e -mail system. You should model
+the mail-sending and mail-receiving processing separately.
+b)  Who should be involved in a requirements review? Draw a process model showing how
+a requirements review can be organized.      [7+8]
+8.a)  Briefly explain about the design model at component level.
+b)  Write interface design steps? Explain the same.     [8+7]

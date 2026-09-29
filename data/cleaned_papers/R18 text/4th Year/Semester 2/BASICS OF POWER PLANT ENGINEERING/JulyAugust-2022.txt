@@ -1,0 +1,25 @@
+BASICS OF POWER PLANT ENGINEERING
+1.a) What are different methods used for collection of the dust before sending the flue gas
+through chimney? Explain them with suitable diagrams.
+b) Draw the layout of modern coal power plant and explain its working.  [8+7]
+2.a) Write a short note on binary cycles and cogeneration systems.
+b) Draw and explain the working of Rankine cycle.     [8+7]
+3.a) Draw the line diagram of gas turbine power plants and explain its components.
+b) Explain the closed cycle gas turbine used in the power plants.   [8+7]
+4.a) Explain in detail about integrated gasifier based combined cycle (IGCC) systems.
+b) What are the advantages, disadvantages and limitations of gas turbines?  [8+7]
+5.a) Explain the construction and working of nuclear power plant with a layout.
+b) With the help of a neat sketch, the construction working of a boiling water reactor (BWR).
+[8+7]
+6.a) Describe with the help of a neat sketch, the construction working of a pressurized water
+reactor. What are the advantages and disadvantages?
+b) List out various safety measures to be taken in nuclear power plants.  [8+7]
+7.a) Draw the line diagram and explain the working details of hydro power plant giving salient
+points.
+b) How to make use of the tides for power generation based on their capacities? Explain the
+principle of operation.         [8+7]
+8.a) What is the impact on the environment and human health for the effluents released from
+the thermal power plants? Explain how to control them.
+b) Explain the significance of: i) Load factor ii) Diver sity factor iii) Plant capacity factor
+iv) Plant use factor.         [8+7]
+---oo0oo---

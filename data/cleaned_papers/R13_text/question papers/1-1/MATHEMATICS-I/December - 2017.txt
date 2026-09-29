@@ -1,0 +1,207 @@
+MATHEMATICS-I
+AME, MIE, PTM, CEE, AGE)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Find the rank of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1211
+2312
+1121
+1211 .      [2]
+b) Find the nature of the quadratic form
+xyyx 222  .    [3]
+c) If
+cos , sinx r y r   then find the Jacobian
+, .,
+rJ xy
+
+      [2]
+d) State Rolle’s mean theorem and explain its geometrical interpretation.  [3]
+e) Evaluate
+
+2
+0
+53
+
+ dCosSin  using beta and gamma function.    [2]
+f) Evaluate
+1 2 3
+1 0 0
+( ) .x y z dxdydz
+
+         [3]
+g) Find P.I of
+xSinD 416
+1
+2           [2]
+h) Find the flow of the current in simple closed LR -circuit, initially the current is zero
+where
+ 4,2 RHL and source of the voltage
+0,)(  tetE t .     [3]
+i) Find
+
+
+
+
+
+52
+1
+2
+1
+ssL         [2]
+j) Let
+  ),()( sftfL   Prove that
+  
+
+ a
+sfaatfL 1)(     [3]
+PART-B
+2.a) If a,  b, c are distinct non -zero numbers , show that t he homogeneous system
+with coefficient matrix
+
+
+
+
+
+
+
+
+
+
+333
+22
+cba
+cba
+cba  has no non-trivial solution.
+b) Find the Eigen values and Eigen vectors of
+
+
+
+
+
+
+
+
+
+
+
+
+
+312
+132
+226 .   [5+5]
+OR
+3.a) Reduce the quadratic form
+yzzyx 2222 222  to canonical form and hence find the
+nature.
+b) Find the value of ‘k’ such that the rank of A is 3, where
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+399
+222
+1344
+0111
+k
+kA . [5+5]
+4.a) Examine the maxima and minima of
+4333 2223  yxxyx .
+b) Find the approximate value of
+5 245  by using Lagrange’s mean value theorem. [5+5]
+OR
+5.a) Find the volume of the largest rectangular parallelepiped that can be inscribed
+in the ellipsoid
+12
+2
+2
+2
+2
+2
+ c
+z
+b
+y
+a
+x .
+b) Verify Rolle’s theorem for
+
+
+
+
+
+
+)(log
+2
+bax
+abx on [a, b],
+0 ab .   [5+5]
+6.a) Define Beta function, Prove that
+0,0),,(),(  nmmnBnmB .
+b) Evaluate
+ 
+2
+0
+2 dxxx  using Beta and Gamma function.    [5+5]
+OR
+7. Evaluate
+
+R
+dxdyxy  where R is the region bounded by x -axis and x = 2a and the curve
+ayx 42  .          [10]
+8.a) Solve
+   dyxydxy  12 tan1 .
+b) Find the orthogonal trajectory of the family of cardioids
+0),cos1(  aar  . [5+5]
+OR
+9.a) Solve
+    xexyD 322 19  .
+b) Solve
+  TanaxyaD  22 .        [5+5]
+10.a) Find
+
+ 
+t
+tL 1 for
+0t .
+b) Solve the integral equation
+ 
+t
+duutufattf
+0
+)sin()()( ,
+0t .   [5+5]
+OR
+11.a) Evaluate
+0
+sintte dt t
+
+
+ .
+b)  Solve
+04  yy ,
+    60,10  yy   using Laplace transform.   [5+5]

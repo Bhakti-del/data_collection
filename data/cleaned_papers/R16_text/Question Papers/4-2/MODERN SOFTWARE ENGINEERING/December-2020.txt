@@ -1,0 +1,12 @@
+MODERN SOFTWARE ENGINEERING
+1. State and explain the need of Agile methodology process mode.   [15]
+2. Discuss about Practicing XP and Root cause analysis for extreme programming. [15]
+3. Explain about coding standards  and collective ownership in software process development
+model.           [15]
+4. Discuss the role of collaboration in software development , during iteration demo and
+reporting process.         [15]
+5. Discuss the significance of collective ownership. Explain the importance of Real customer
+involvement.          [15]
+6. Explain about Risk management and estimation.     [15]
+7. Discuss about spike solutions and Performance optimization.   [15]
+8. Explain about Incremental design and architecture.     [15]

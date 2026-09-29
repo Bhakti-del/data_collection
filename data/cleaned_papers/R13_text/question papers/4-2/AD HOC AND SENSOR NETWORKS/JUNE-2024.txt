@@ -1,0 +1,45 @@
+AD HOC AND SENSOR NETWORKS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)     Mention any two important characteristics of a Mobile ad hoc Network (Manet). [2]
+b)     State the main difference between topology-based and position-based Manet routing
+algorithms.          [3]
+c)  What is meant by geocast in Manets?       [2]
+d)      List the three issues of broadcast-storm problem.     [3]
+e)      State the mathematical relationship between sensing range and communications range of a
+sensor node.          [2]
+f)     What are the main components of a wireless sensor node?    [3]
+g)     What is the objective of CONFIDANT algorithm?     [2]
+h)     What is meant by secure routing in Manets?      [3]
+i)     Write the important features of TinyOS operating system.    [2]
+j)      What are the main differences between nesC and C?     [3]
+PART – B
+2.a)  Write about DSDV routing algorithm. Mention its pros and cons.
+b)  Differentiate AODV and DSR routing protocols.     [5+5]
+OR
+3.a)  What is meant by DREAM location service? Write about it.
+b)  Illustrate the mechanism of LAR (Location-Aided Routing) protocol.  [5+5]
+4.a)  Briefly write on the rebroadcasting design considerations: Jitter and RDT.
+b)  Give the algorithmic steps for MPR (Multi Point Relaying) algorithm.  [5+5]
+OR
+5.a)  What are the differences between tree-based and mesh-based multicast routing protocols?
+b)  Write about MGR geocast protocol for Manets.     [5+5]
+6.a)  Give the architecture used in Great Duck Island Application of sensor networks.
+b)  Draw the diagram for generalized architecture of wireless sensor network applications.[5+5]
+OR
+7.a)  Write about the SMAC, a MAC protocol for WSNs.
+b)  What is the objective of LEACH protocol? Explain it.    [5+5]
+Used Papers 2024
+8.a)  What are the characteristics a security solution for ad hoc networks should satisfy?
+b)  Illustrate how key agreement is achieved using Diffie-Hellman protocol.  [5+5]
+OR
+9.a)  Give the architectural diagram for IDS in ad hoc networks.
+b)  What is the need for enforcing cooperation in Manets? What are the approaches? [5+5]
+10.a)  What are the salient features of Network Simulator version 2 (NS2)?
+b)  Write about the methodology to be used to write code using nesC language. [5+5]
+OR
+11.  Write short notes on the following:
+a) TinyGALS
+b) TOSSIM.          [5+5]
+Used Papers 2024

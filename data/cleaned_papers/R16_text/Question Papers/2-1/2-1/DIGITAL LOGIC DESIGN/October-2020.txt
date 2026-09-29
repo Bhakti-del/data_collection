@@ -1,0 +1,30 @@
+DIGITAL LOGIC DESIGN
+1.a) What is Hamming code? How is the Hamming code word tested and corrected?
+b) Realize XOR function using AOI logic and NAND logic.    [8+7]
+2. Convert the following numbers into the corresponding bases.    [15]
+a)  (63)10 = (    )2
+b)  (281)8 = (    )10
+c)  (101010)2 = (    )8
+d)  (4B.56)16 = (      )2
+e)  (81)10 = (    )16
+3. Simplify the following Boolean expressions to minimum number of literals using
+Boolean algebra and then realize them using NAND gates:
+a)  A'C'+ABC+AC'+AB'
+b) A'B(D'+CD)+B(A+A'CD)               [15]
+4. Convert the following expression to Sum of Product form
+a) (A′+B+C) (A+B′+C′) (ABC)
+b) (A+B+C′) (A′+B′+C′) (A′+B+C)
+c) (A+B′+C)(A′+C)(A′B+C).        [15]
+5.a) Explain the operation of 3 to 8 line decoder with the help of a truth table.
+b) Implement the following logic function using an 8:1 MUX.
+F(x, y, z) = ∑m(0, 2, 3, 5)          [8+7]
+6.a) Compare between serial and parallel Adder.
+b) Draw the logic diagram of a 8-line to 1-line multiplexer and explain its working. [7+8]
+7. Explain the operation of following flip flops using its block diagrams and truth tables.
+What are their limitations?
+a) RS flip flop  b) JK flip flop.       [15]
+8.a) Implement the following Boolean function with PLA.
+F(A,B,C) = Σ m(1,5,6,7)
+b) Explain in brief, about logic construction of 32×4 ROM. Draw and explain the relevant
+logic diagram.          [8+7]
+---oo0oo---

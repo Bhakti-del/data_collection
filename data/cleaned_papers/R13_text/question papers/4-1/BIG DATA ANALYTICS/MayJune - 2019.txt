@@ -1,0 +1,32 @@
+BIG DATA ANALYTICS
+10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What are the sources of secondary data?      [2]
+b) Which source of Data is more reliable and Why?      [3]
+c) What are the two types of gaps in the data?      [2]
+d) Explain Kepner - Tregoe Approach?       [3]
+e) What are graph databases?        [2]
+f) Discuss the need for data pre-processing?      [3]
+g) What does the test data mean?       [2]
+h) Discuss the difference between classification and clustering?   [3]
+i) Define data presentation architecture.       [2]
+j) Why do we use data visualization?       [3]
+PART-B
+2. Explain the steps to show how design data architecture is used to manage the data analysis.
+[10]
+OR
+3. Discuss the various types of emergencies that may come across at the workplace. [10]
+4. Explain in detail about the benefits of using Spark, Scala and Impala.  [10]
+OR
+5. With a neat diagram explain the Knowledge management needs to deal with knowledge
+items.           [10]
+6. What are outliers and explain the process involved in detecting them?   [10]
+OR
+7. With the help of an example explain in detail about MapReduce technique. [10]
+8. Explain in detail about various types of machine learning algorithms.  [10]
+OR
+9. Give case studies to explain the practical uses of machine learning algorithms. [10]
+10. List out the insights out of the visualization tools. Explain.    [10]
+OR
+11. Write down steps involved in Data Visualization using InTableu tool. Explain. [10]
+--ooOoo--

@@ -1,0 +1,40 @@
+DATABASE MANAGEMENT SYSTEMS
+and may have a, b as sub questions.
+PART – A
+1.a)      Define logical data independence.       [2]
+b)      What is a view?         [3]
+c)      What is procedural DML?        [2]
+d)      What is an active database?        [3]
+e)      What are spurious tuples?                   [2]
+f)      What is transitive rule for functional dependency?     [3]
+g)      Define serializable schedule.        [2]
+h)      What is the motivation for concurrent transactions?     [3]
+i)      What is the use of cylinder on a disk?      [2]
+j)      List the drawbacks of ISAM indexing technique.      [3]
+PART – B
+2.   Explain the role of ER model in database design process with suitable examples. [10]
+OR
+3.  What is an integrity constraint? Explain enforcement of various integrity constraints in
+DBMS.          [10]
+4.  With suitable example expressions , illustrate various operators available in Relational
+Algebra.          [10]
+OR
+5.  Consider the following database schema to write queries in SQL.
+Student(Rollno, name, totalCredits)
+Course(Cno, cname, credits)
+Enroll(Rollno, Cno, Grade)
+a) Find students who scored grade A in DBMS
+b) Find the students enrolled for DBMS and CO
+c) Find the courses having enrollment less than 50.           [3+3+4]
+6.  What is redundancy? Explain the problems caused by redundancy.   [10]
+OR
+7.  Does third normal form ensure dependency preservation? Justify your answer with
+suitable examples.         [10]
+8.  Explain how time stamp based protocol ensures serializability of schedules. [10]
+OR
+9.  Demonstrate buffer management to support recovery techniques.   [10]
+10.  Describe the significance of multi level indexing and its influence on tree based
+indexing.          [10]
+OR
+11.  Make a comp arison of extendible hashing and linear hashing techniques as indexing
+structures.          [10]

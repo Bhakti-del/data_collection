@@ -1,0 +1,42 @@
+WEB SERVICES
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) What is web service?         [2]
+b) Write the advantages of distributed computing.     [3]
+c) Write the limitations of SOAP.       [2]
+d) Give the features not supported by SOAP.      [3]
+e) What is WSDL?         [2]
+f) Write the limitations of WSDL.       [3]
+g) What is SOA?           [2]
+h) Write the role of service discovery.       [3]
+i) What is JAXP?         [2]
+j) List the challenges of web service security.      [3]
+PART – B
+2.a) Explain architectural model of CORBA.
+b) Write the characteristics of web services.      [5+5]
+OR
+3.a) Explain layered architecture of J2EE application.
+b) Describe features of Message oriented Middleware.     [5+5]
+4.a) What is SOAP message and explain advantages  and disadvantages of SOAP.
+b) Explain SOAP communication models.      [5+5]
+OR
+5.a) Discuss the message structure of SOAP.
+b) Give a detailed note on encoding techniques of SOAP message.   [5+5]
+6.a) Write the life cycle of web service.
+b) Explain WSDL bindings.        [5+5]
+OR
+7.a) Compare SOAP Vs WSDL.
+b) List and explain WSDL tools.        [5+5]
+used paper July/Aug-2023
+8.a) Explain could services of UDDI.
+b)  Describe white, yellow and green pages of UDDI.     [5+5]
+OR
+9.a) Explain UDDI data model in detail.
+b)  Explain how do you search information in UDDI registry?    [5+5]
+10.a) Write the steps to create SOAP proxies.
+b)  Describe XML signature structure.       [5+5]
+OR
+11.a) Explain the steps to create a client for web service using .Net frame work.
+b)  Describe .NET frame work class library.      [5+5]
+used paper July/Aug-2023

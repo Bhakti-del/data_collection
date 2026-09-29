@@ -1,0 +1,36 @@
+CLOUD COMPUTING
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART- A
+1.a) Define Virtual machines.        [2]
+b) List the design objectives of the computer cluster.     [3]
+c) What is meant by cloud computing?       [2]
+d) Write the pros and cons of cloud computing.      [3]
+e) Define Software as a Service.        [2]
+f) Give a brief note enhancing Cloud Computing Environments using a cluster as a Service.
+[3]
+g) How does AWS cloud work?        [2]
+h) Write about the features of HPC clouds.      [3]
+i) How do you ensure data security in cloud computing?    [2]
+j) What is Composability in cloud computing?      [3]
+PART - B
+2.a) Elaborate the Computer Clusters for Scalable Parallel Computing.
+b) Discuss levels of virtualization implementation in detail.    [5+5]
+OR
+3.a) Explain the Distributed System Models with neat architectural diagrams.
+b) Illustrate the Virtual Machines Provisioning and Virtual Machine Migration Services.[5+5]
+4. Explain the Enterprise Cloud Computing Paradigm in detail.   [10]
+OR
+5.a) Give a brief note on Migrating into a Cloud.
+b) List and explain the benefits of cloud computing.     [5+5]
+6. Write down the importance of setting up cloud environments, in various scientific
+applications by illustrating day two case students.     [10]
+OR
+7. Discuss the Management of Virtual machines for Cloud Infrastructures.  [10]
+8. Explain the SLA Management in Cloud Computing.     [10]
+OR
+9. Elaborate the best practices in architecting cloud applications in the AWS cloud. [10]
+10. List and explain the common change management models.    [10]
+OR
+11. Give a brief note on legal issues in Cloud computing.    [10]
+---oo0oo---

@@ -1,0 +1,43 @@
+DESIGN AND ANALYSIS OF ALGORITHMS
+(Computer Science and Engineering)
+PART- A                                          (25 Marks)
+1.a) Explain the Big oh notation.       [2]
+b) Explain Binary search in brief.        [3]
+c) What are disjoint sets?       [2]
+d) What is spanning tree?        [3]
+e) State the travelling salesman problem.     [2]
+f) Write the applications of Dynamic programming.    [3]
+g) What is Hamiltonian cycle?       [2]
+h) Explain 8-queen problem.         [3]
+i)       What is NP-Complete?       [2]
+j) Explain non-deterministic algorithm.      [3]
+PART-B                                          (50 Marks)
+2.a) Describe the performance analysis of an algorithm in detail.
+b) Briefly explain merge sort algorithm with suitable example and derive its time
+complexity.         [5+5]
+OR
+3.a) Define time complexity. Describe different notations us ed to represent time
+complexities.
+b) Explain divide and conquer in detail.      [5+5]
+4.a) Write a nonrecursive algorithm for inorder traversal of a binary tree T.
+b) Explain AND/OR Graphs.       [5+5]
+OR
+5. Explain in detail about:
+a) Depth First Search
+b) Breadth First Search.       [5+5]
+6.a) Explain Optimal binary search tree.
+b) Explain the Prim’s algorithm with an example.    [5+5]
+OR
+7.a) Solve the following 0/1 Knapsack problem where P=(10, 5, 15, 7, 6, 18, 3),
+W=(2, 3, 5, 7, 1, 4, 1), C=15, n=7.
+b) Write an algorithm of all pairs shortest path problem.   [5+5]
+8.a) Explain in detail about backtracking.
+b) Explain the graph coloring with example.     [5+5]
+OR
+9.a) Briefly explain the Hamiltonian cycle using backtracking.
+b) Explain the FIFO Branch and Bound solution.    [5+5]
+10.a) Compare and contrast between NP-Hard and NP Complete.
+b) Briefly explain Cooks theorem.      [5+5]
+OR
+11.a) Explain the classes of P and NP.
+b) Write a non-deterministic Knapsack algorithm.    [5+5]

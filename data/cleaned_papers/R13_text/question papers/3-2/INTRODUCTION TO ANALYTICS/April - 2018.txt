@@ -1,0 +1,40 @@
+INTRODUCTION TO ANALYTICS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)  Define various data types.                                                                                         [2]
+b)  What are structured array? Give examples.                                                              [3]
+c)  Discuss about probability function.                                                                           [2]
+d)  Calculate clear statistics for random variables.                                                        [3]
+e)  Explain about SQL data types.                                                                                   [2]
+f)  Describe about R connector.                                                                                       [3]
+g)  Explain types of correlation.                                                                                     [2]
+h)  What is periodogram? Give example.                                                         [3]
+i) What are the problems related to a project?                                                               [2]
+j)  Explain Smart Utilities.                                                                                              [3]
+PART - B
+2.a)  Describe working of data sets with their syntax and examples.
+b) Discuss how R windows structure is useful to environment.               [5+5]
+OR
+3.a)  What are outliers combining datasets. Explain.
+b)  State about time management and work.                                                               [5+5]
+4.a)  Calculate probability for n*(n-1) functions.
+b)  Explain random variables.                                          [5+5]
+OR
+5.a)  Explain the clear summary about the probability and data.
+b)  Explain Teamwork communication and time management.    [5+5]
+6.   Write a program in SQL to evaluate the program “COMMAND”.                             [10]
+OR
+7.a)  Differentiate between data integrity and data manipulator.
+b)  How data base connector is used to R-integrity?     [5+5]
+used paper 27-04-2018
+8.a)  Differentiate between regression and correlated analysis.
+b)  Explain about Heteroscedasticity.        [5+5]
+OR
+9.a)  Distinguish between forecasting and regression.
+b)  Explain about model of multi regression system.      [5+5]
+10.a)  Explain about Automated mechanism design.
+b)  Write an optimality function for a close loop system.    [5+5]
+OR
+11.  Explain about Individual rationality (IR) constraints and Incentive  compatibility (IC)
+constraints.                                                           [10]
+used paper 27-04-2018

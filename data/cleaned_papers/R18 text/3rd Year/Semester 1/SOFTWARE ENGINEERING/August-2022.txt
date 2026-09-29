@@ -1,0 +1,19 @@
+SOFTWARE ENGINEERING
+1.a)  Explain CMMI model with a neat sketch.
+b)    Give an overview of unified process model.       [8+7]
+2.a)  Discuss in brief about the waterfall model.
+b)  Explain process patterns and process assessment.       [8+7]
+3.a)  Describe five desirable characteristics of a good software requirement specification
+document.
+b)  Give an overview of various system models.      [8+7]
+4.a)  Discuss about principal requirements engineering activities and their relationships.
+b)  Explain how a software requirements document is structured.    [8+7]
+5.a)  Write a short notes on data design.
+b)  Describe architectural styles and patterns.      [8+7]
+6. Explain the following diagrams:
+a) Class diagrams and sequence diagrams
+b) Collaboration diagrams and use case diagrams.     [8+7]
+7.a)  Describe strategic approach to software testing.
+b)  Explain Software quality and metrics for analysis model.    [8+7]
+8. Illustrate various Metrics for Process and Products.       [15]
+---oo0oo---

@@ -1,0 +1,60 @@
+ARTIFICIAL INTELLIGENCE
+(Computer Science and Engineering)
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What is Artificial Intelligence?       [2]
+b) Define state space search.        [3]
+c) What are the basic components in a semantic network?    [2]
+d) Represent the following sentences in predicate logic:
+i) Paris and Marseilles are both in France.
+ii) There is a country that borders both Iraq and Pakistan.
+iii) All countries that border Ecuador are in South America.    [3]
+e) Give an application of expert system in medicine.     [2]
+f) Give Baye’s rule and its uses.        [3]
+g) What do you mean by supervised learning? Give examples of supervised learning. [2]
+h) Give the schematics of a single layer perceptron.     [3]
+i) Give the applications of natural language processing.    [2]
+j) What is a syntax tree?         [3]
+PART-B
+2. Demonstrate Depth-First Iterative Deepening (DFID) algorithm with an example and list
+the advantages and disadvantages of DFID over depth-first search algorithm. [10]
+OR
+3.a) What do you mean by a contr ol strategy? Give an overview of various control strategies
+for search.
+b) Explain bounded-look ahead searching with an example.    [5+5]
+4.a) Give an overview of various knowledge representation approaches.
+b) Represent the following knowledge using a semantic network:   [5+5]
+Tom is a cat
+Tom caught a bird
+Tom is owned by John
+Tom is ginger in colour
+Cats like cream
+Cat is on the mat
+A cat is a mammal
+A bird is an animal
+All mammals are animals
+Mammals have fur
+OR
+5.a) Discuss how inference through inheritance can be achieved in a frame based knowledge
+representation.
+b) Give the rules of inference in propositional logic and explain natural deduction using an
+example.          [5+5]
+6.a) Give an overview of knowledge base and inference engine in expert systems.
+b) Distinguish among the following Truth Maintenance Systems: JTMS, ATMS and LTMS.
+[5+5]
+OR
+7.a) Give an overview of various types of expert system tools and criteria for selecting the
+right kind of tool.
+b) Give an overview of reasoning with uncertainty using Dempster-Shafer theory. [5+5]
+8. Explain how entropy and information gain are used in the construction of decision tree.
+[10]
+OR
+9. Give an overview of multi-layer perceptron algorithm in detail.   [10]
+10.a) What are the tasks involved in natural language processing? Explain.
+b) What is the purpose of a case grammar? Give an overview of knowledge representation
+using case grammars with examples.       [5+5]
+OR
+11.a) Describe Universal Networking Language for representing semantic knowledge.
+b) What is a semantic web? Give an example of a semantic web and list the applications of
+semantic web.          [5+5]
+--ooOoo--

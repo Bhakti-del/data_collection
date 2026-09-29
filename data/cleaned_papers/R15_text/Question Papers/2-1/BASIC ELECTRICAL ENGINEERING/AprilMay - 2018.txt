@@ -1,0 +1,59 @@
+BASIC ELECTRICAL ENGINEERING
+PART- A
+1.a) State and explain Ohm's law.           [2]
+b) 2 ohm, 4 ohm and 6 ohm resistors are connected in delta form, obtain its equivalent star
+connected network.          [3]
+c) Define the term average value of sinusoidal current wave.     [2]
+d) A series circuit has R=100 ohm and C=20 µF .At what frequency will the current lead the
+voltage by 300. Draw the corresponding phasor diagram.     [3]
+e) Write the principle of operation of a transformer on no-load condition.  [2]
+f) Obtain the emf equation of a transformer.       [3]
+g) A shunt generator supplied 500 A at 500 V. Calculate its generated emf if its armature
+and shunt field resistances are 0.02 and 125 ohms respectively.    [2]
+h) State different losses in a d.c machine.      [3]
+i) Mention the essential features of measuring instruments.     [2]
+j) Distinguish between moving iron and moving coil instruments.    [3]
+PART- B
+2.a) State and explain Thevenin's theorem.
+b) State and explain superposition theorem.      [5+5]
+OR
+3.a) State and explain Maximum power transfer theorem for AC circuits.
+b) Find the voltage across RL = 25 Ω in a circuit shown below using Thevinin’s Theorem.
+[5+5]
+4.a) A 35 H inductor connected in series with 5µF cpacitor and further this circuit is
+connected in parallel  with 3+j6 ohm impedance. Find (i) the supply current (ii) current in
+each branch (iii) supply power if the supply voltage is 𝑣 𝑡 = 50sin(2000𝑡 ).
+b) Obtain the form factor and peak factor of a sinusoidal voltage.   [5+5]
+OR
+5.a) Calculate the maximum value of the emf generated in a coil which is rotating at
+50 rev/sec in a uniform  magnetic field of 0.8 Wb/m 2. The coil is wound on a sq uare
+former having sides 5 cm length and is wound with 300 turns.
+b) A 23 ohm resistor connected in parallel  with 5H inductor and further this circuit is
+connected in series  with 3 µF capacitor. Find i) the voltage across each component
+ii) current in each branch iii) supply power if the supply voltage is v(t) = 10 sin(1000t ).
+[5+5]
+6.a) What is regulation of a transformer?  How it can be obtained from the OC and SC test.
+b) The primary and secondary windings of 30 kVA, 6000/230 V, 1 -ph tr ansformer have
+resistances of 10 ohms and 0.016 ohms respectively. The reactance of the transformer
+referred to the primary is 34 ohms. Calculate the primary voltage required to circulate full
+load current when the secondary is short circuited.     [5+5]
+OR
+7.a) Explain the working of transformer on lagging load condition.
+b) A 200/400 V , 50 Hz single phase transformer on test gave the following readings:
+OC (LV)   220 V,   0.8 A,    60 W
+SC (HV)  15 V,   15 A,    80 W.
+Find voltage regulation at 0.8 pf lagging at full load.     [5+5]
+8.a) Describe the principle of operation DC motor.
+b) A six pole machine has an armature with 100 slots and 8 conductors per slot and runs at
+1000 rpm, the flux per pole is 0.08 Wb. Determine the induced emf if winding i s wave
+connected winding.         [5+5]
+OR
+9.a) Explain the principle of operation of three phase induction motor.
+b) Calculate the flux per pole required for a four pole generator with 360 conductors
+generating 250 V at 1000 rpm, when armature is (i) lap  connected and (ii) wave
+connected.          [5+5]
+10. With a neat diagram explain the operation of moving coil permanent type instruments.
+[10]
+OR
+11. With a neat diagram explain the operation of attraction type moving iron instrument.
+[10]

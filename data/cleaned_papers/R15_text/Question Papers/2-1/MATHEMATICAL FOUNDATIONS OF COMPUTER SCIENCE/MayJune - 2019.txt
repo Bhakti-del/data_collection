@@ -1,0 +1,69 @@
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+carries 10 marks and may have a, b, c as sub questions.
+PART – A
+1.a) Write converse and inverse for the statement “If Sun rises in the east then 3*7=98”.
+[2]
+b) Express (PQ)
+  (P↔R) in terms of
+ ,
+ , ~ only.    [3]
+c) Define LUB and GLB of a lattice and give examples for each.      [2]
+d) Explain equivalence relation . Give suitable examples for a relation which is not
+equivalence relation.          [3]
+e) In how many ways can 6 boys and 5 girls sit in a row?    [2]
+f) Calculate the number of binary numbers with 9 one’s and 5 zero’s.   [3]
+g) Write the characteristic equation for the following recurrence relation
+an – 4an-4 = 0,  n > 4 and solve it.       [2]
+h) Find the generating function for the sequence A = {ar} where
+2,  if 0 < r < 3
+ar = 4,  if 4 < r < 5
+0,  if r > 6         [3]
+i) Give a general formula for Chromatic number of Cycle graph Cn.   [2]
+j) Find the Euler Path in the following graph 1.      [3]
+Graph: 1
+PART-B
+2.a) Obtain principal conjunctive normal form (PCNF) for the formula (~p → r)
+  (q ↔ p).
+b) Show that the following is inconsistent P→Q, R→S, P
+ R, ~ (Q
+ S).  [5+5]
+OR
+3.a) Using indirect proof , derive P → ~ S from P → Q
+  R , Q → ~ P, S → ~ R , P.
+b) Show that R → (S → Q), ~ P
+  R and S
+  P → Q.    [5+5]
+4.a) Explain properties of binary relations with examples.
+b) Draw the Hasse diagram for the partial ordering {(A,  B): A ≤ B} on the power set e (S)
+where S={a, b, c} and ≤ is subset relation.       [5+5]
+OR
+5.a) Draw the Hasse diagram for the divisibility on the set {1,2,3,6,12,24,36,48,96}.
+b) Define equivalence relation. Show that the relation equal on set of integers is equivalence
+relation.           [5+5]
+6.a) Write the 3-combinations and 3-permutations of {3.a, 2.b, 1.c, 3.d}.
+b) In how many ways can a committee of 5 teachers and 4 students be selected from
+9 teachers and 15 students such that teacher A refuses if student B is in the committee.
+[5+5]
+OR
+7.a) Find the number of non negative integral solution for the equation X 1+X2+X3+X4=50,
+where  X1 >= 2, X2 >= 4, X3 >= -3, X4 >= 7
+b) Expand the multinomial (X1+X2+X3+X4)4.       [5+5]
+8.a) Find the solution for the Fibonacci series an=an-1+an-2, n>2 and a0=1, a1=1.
+b) Using substitution method, find the solution for an=an-1+1/n(n-1) where a0=2.  [5+5]
+OR
+9.a) Solve the recurrence relation  an - 7an-1 + 16an-2 - 12an-3 = 0 for n
+ 3 with the initial
+conditions
+a0=1, a1=4, and a2=8.
+b) Find the solution for an - 3an-1 - 4an-2 = 0 for n
+ 2 and, a0 = a1 = 1.    [5+5]
+10.a) Find the degree of each region in the following planar graph 2.
+Graph: 2
+b) Show that the complete bi-partite graph K3, 3 is not planar graph.    [5+5]
+OR
+11.a) Find the dual of the following graph 3.
+Graph: 3
+b) Define spanning tree. Apply Prim’s algorithm to find minimum spanning tree on the
+following weighted graph 4.        [5+5]
+Graph: 4
+--ooOoo--

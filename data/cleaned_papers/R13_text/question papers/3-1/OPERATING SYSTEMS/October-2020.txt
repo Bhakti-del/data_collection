@@ -1,0 +1,28 @@
+OPERATING SYSTEMS
+----
+1.a)  What are the different types of operating systems? Explain them in detail.
+b)  What are the main characteristics of Real Time Operating System?   [8+7]
+2.a)  Describe in detail about computer system architecture.
+b)   What is a system call? Explain in detail the different types of system call.  [7+8]
+3.a)  List out the differences between preemptive and non-preemptive scheduling.
+b)  State and explain critical section problem with suitable examples.   [7+8]
+4.  Following is the snapshot of a CPU:
+Process   CPU Burst    Arrival Time
+P1           75                   0
+P2           40                  10
+P3           25                  10
+P4           20                  80
+P5           45                  85
+Draw the Gantt chart and calculate the turnaround time and waiting time of th e jobs for
+FCFS (First Come First Served), SJF (Shortest Job First), SRTF (Shortest Remaining
+Time First) and RR (Round Robin with time quantum 15) scheduling algorithms.   [15]
+5.a)  What is a Virtual Memory? Discuss the benefits of virtual memory technique.
+b)  Explain the concept of demand paging in detail.     [8+7]
+6.  What are the similarities and differences between a segment and a page? Which one is
+transparent and which one is translucent to the user and why?     [15]
+7.a)    Briefly explain about single-level, two-level and Tree-Structured directories.
+b)  Describe the disk performance parameters with examples.    [8+7]
+8.  Write short notes on:
+a) Capability based systems
+b) Language based protection.       [7+8]
+5

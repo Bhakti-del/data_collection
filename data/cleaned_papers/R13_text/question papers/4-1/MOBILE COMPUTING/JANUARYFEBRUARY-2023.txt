@@ -1,0 +1,38 @@
+MOBILE COMPUTING
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) What is meant by GSM?        [2]
+b) State the limitations of mobile computing.      [3]
+c) Write a short note on COA.          [2]
+d) List the disadvantages of FDMA.       [3]
+e) What are the disadvantages of hoarding?      [2]
+f) What is snooping TCP?        [3]
+g) What is selective tuning?        [2]
+h) Write a short note on pull-based mechanism.      [3]
+i) What is meant by mobile ad-hoc network?      [2]
+j) List the features of symbian OS.       [3]
+PART – B
+2.a) Describe the features of GSM.
+b) What is GPRS? How billing and charging is done in GPRS?   [5+5]
+OR
+3. Explain in detail the architecture reference model of mobile computing.  [10]
+4.a) Differentiate between TDMA and CDMA.
+b) Explain the IEEE 802.11 architecture with neat diagram.    [4+6]
+OR
+5. Explain the following.
+a) Route optimization.
+b) Location management.        [5+5]
+6.a) Describe the process of data recovery.
+b) Explain client-server computing for mobile computing and adaptation.  [5+5]
+OR
+7.a) Discuss the problems with traditional TCP in wireless environments.
+b) Compare different TCP enhancements.      [5+5]
+8. Explain in detail the classification of data delivery mechanisms.   [10]
+OR
+9. Explain in detail data synchronization process.     [10]
+10.a) State and explain the applications of a MANET.
+b) Give a brief summary on mobile agents.      [5+5]
+OR
+11.a) Draw and explain Bluetooth protocol architecture.
+b) Differentiate between Android and iOS.      [6+4]

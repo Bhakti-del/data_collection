@@ -1,0 +1,19 @@
+COMPUTER GRAPHICS
+(Computer Science and Engineering)
+1.a) List and explain the operating characteristics of LCDs.
+b) Explain a flood-fill algorithm to fill the interior of any specified area.   [8+7]
+2.a) Explain the mid-point circle generation algorithm.
+b) Describe various approaches used to represent polygon.    [8+7]
+3.a) What is the significance of 4-bit region code in Cohen-Sutherland algorithm?
+b) Derive the transformation matrix for reflection about y = x line.   [8+7]
+4.a) What is meant by homogeneous co-ordinate system. What is its significance?
+b) Write a short note on shear transformations in 2D.     [8+7]
+5.a) Write a short note on Bezier curves.
+b) Explain about 3 D composite transformations.     [8+7]
+6.a) Derive the matrices for rotations about three principal axis in 3-D graphics.
+b) Write a short note on specular reflection.      [8+7]
+7.a) What are the underlying concepts of the subdivision algorithm? Explain.
+b) Write a short note on BSP tree method.      [8+7]
+8.a) Discuss how the kinematic description are simulated in key frame system?
+b) Explain various methods used by various languages to control an animation.  [8+7]
+---oo0oo---

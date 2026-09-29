@@ -1,0 +1,57 @@
+ENGINEERING CHEMISTRY
+PTM, AGE)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a)  Write the Principle involved in Pitting corrosion.     [2]
+b) Define Conductivity and molar conductivity for the solution of an electrolyte. Discuss
+their variation with concentration.        [3]
+c) Explain the functionality of monomer with suitable examples.   [2]
+d) Explain the variation of Physical properties of polymer with their molecular weight by
+taking one example.            [3]
+e)  Sample of ground water has 150mg/L of Mg 2+. Calculate the hardness expressed in milli-
+equipments per litre.         [2]
+f) Write the disadvantages of zeolite process which is used to purify water.  [3]
+g) Write the differences between octane number and cetene number.   [2]
+h) Why should an ideal fuel have moderate ignition temperature?   [3]
+i) What is condensed phase rule equation? Explain the terms involved in it.  [2]
+j) Explain ‘Triple Point’ in a one compound system of phase diagram.  [3]
+PART- B
+2.a) Write the Chemical reaction of recharging the lead storage battery, highlighting all the
+materials that are involved during recharging.
+b) What is paint? Explain its constituents and functions.    [5+5]
+OR
+3.a)  What are reference electrodes? Describe the construction of Calomel electrode.
+b) Discuss the differences between Galvanizing and Tinning with neat diagrams.
+c) What is the principle involved in CH3OH-O2 fuel cell.            [4+4+2]
+4.a)  Write the structure o f Isotactic, Syndiotactic and Atactic forms by taking suitable
+example.
+b) Explain the chemical reactions involved in setting and hardening of cement.
+c) Write short notes on Vulcanization.               [3+4+3]
+OR
+5.a)  Differentiate Thermo plastics and Thermosetting plastics with suitable examples.
+b) Write the preparation properties and engineering applications of styrene rubber.
+c) Write the mechanism of Thin Film Lubrication.             [3+4+3]
+6.a)  Explain the Principle involved in the estimation of hardness  of water by EDTA method.
+b) What is Caustic Embrittlement ? Write the causes of it and explain the preventive
+methods.
+c) What are parameters for portable water?              [4+3+3]
+OR
+7.a) Explain principle and method of  purification of domestic water by Reverse Osmosis  and
+also write its significance.
+b) What is Calgon conditioning? Explain.
+c) Explain Chemical equations involved in Lime soda process.         [4+2+4]
+8.a) What is Cracking ? What are its objectives? Explain ‘Fixed bed catalytic cracking ’ with
+neat diagram.
+b) What is Dulong’s formula? How to calculate calorific value by Dulong’s method.[5+5]
+OR
+9.a) Explain how coal sample is analysed by ultimate method. Write its significance.
+b) What is synthetic petrol? With neat diagram explain how to prepare  synthetic petrol by
+Fischer-Tropsch’s process.        [5+5]
+10.a) What is phase diagram? Explain phase diagram of Iron-Carbon with respective to h eat
+treatment and cooling curves.
+b) Explain the classification, electrical and optical properties of colloids.  [5+5]
+OR
+11.a)  With neat phase diagram explain Lead-Silver two component system.
+b) Write short notes on:
+i) Langmuir adsorption isotherm.
+ii) Applications of Colloids.        [5+5]

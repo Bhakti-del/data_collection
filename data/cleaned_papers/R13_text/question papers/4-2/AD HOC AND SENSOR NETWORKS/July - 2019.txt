@@ -1,0 +1,34 @@
+ADHOC AND SENSOR NETWORKS
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      How routing algorithms are classified in MANETS?     [2]
+b)      List out the characteristics of mobile adhoc networks?    [3]
+c)      Define Multicasting?            [2]
+d)      How does the Hidden Terminal Problem affect TCP over multi-hop MANETs? [3]
+e)      Define Mica Mote         [2]
+f)       List down the applications of wireless sensor networks?    [3]
+g)      Illustrate the three categories of Sensor Network Hardware?                [2]
+h)      Discuss about cooperation in MANETS?      [3]
+i) Briefly explain component interface in nesC code.     [2]
+j)       What are the components of TinyOS?      [3]
+PART - B
+2. List and explain the applications in Mobile Ad Hoc Networks.   [10]
+OR
+3. Give an example to explain any one topology based routing protocol.  [10]
+4. Describe in impact of MAC layer and Network layer on TCP.   [10]
+OR
+5. Explain the drawback of the TCP exponential back-off algorithm in MANETS. [10]
+6. Explain clustering architecture of WSNs and the importance of the density of the WSN
+Network for the effective use in its applications.     [10]
+OR
+7. Describe in detail about Sensor -MAC protocol and its design trade -offs for energy
+consumption.          [10]
+8. What are the challenges of sensor network programming? Explain.   [10]
+OR
+9. Describe in detail the IDS Architecture for Adhoc and Sensor networks with neat sketch.
+[10]
+10. Describe TinyGAL programming model with its implementation details.    [10]
+OR
+11. Explain NS-2 simulator with its sensor network extensions. Compare Ns-2 simulator with
+its counter parts.           [10]

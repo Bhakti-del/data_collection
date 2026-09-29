@@ -1,0 +1,42 @@
+SOFTWARE PROJECT MANAGEMENT
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      What are the popular cost estimation models?     [2]
+b)      Present the results of conventional software project design reviews.  [3]
+c)      What is the use of McCabe complexity measure?     [2]
+d)      Discuss about reusing existing components.       [3]
+e)      Define an artifact.         [2]
+f)       Explain about management set.       [3]
+g)      What are second-level WBS elements?      [2]
+h)      Define the terms minor milestones and major milestones.     [3]
+i)       What are two major improvements in next generation cost models?   [2]
+j)       Define CCPDS-R artifacts.        [3]
+PART – B
+2.a) Explain about conventional software management performance.
+b) Describe ROI in different domains.        [5+5]
+OR
+3.a) What is SLOC? Explain the importance of SLOC.
+b) Explain about pragmatic software cost estimation.      [5+5]
+4.a) What are Five staffing principles? Explain in detail.
+b) Explain exponent parameters of COCOMO II model.     [5+5]
+OR
+5.a) Describe some dimensions of quality improvement.
+b) Explain about principles of modern software management.     [5+5]
+6.a) What are primary objectives of inception and elaboration phases? Explain.
+b) Describe artifact evolution over the life cycle.      [5+5]
+OR
+7.a) Explain in detail about transition phase.
+b) With a neat diagram, explain about artifact sequences across a typical life cycle.  [5+5]
+8.a) Describe default agendas for the life-cycle architecture milestone.
+b) Explain about planning guidelines for software projects.     [5+5]
+OR
+9.a) Discuss about periodic status assessments.
+b) Describe about process automation building blocks.      [5+5]
+10. Explain the following:
+a) Software metrics
+b) Quality indicators.         [5+5]
+OR
+11. Explain the following:
+a) Early risk resolution
+b) Modern software economics.       [5+5]

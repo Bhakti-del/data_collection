@@ -1,0 +1,42 @@
+COMPUTER PROGRAMMING
+AGE)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Give the list of basic data types in “C” language and explain.   [2]
+b) Distinguish between a keyword and a reserved word.    [3]
+c) Distinguish between a function declaration and definition.    [2]
+d) Give the list of preprocessor directives in “C” language.    [3]
+e) Why is the void pointer useful? When would you use it?    [2]
+f) Distinguish between calloc() and malloc() functions in “C” language.  [3]
+g) What are self-referential structures? Give an example.    [2]
+h) Give the syntax for bit-field declaration and explain.     [3]
+i) Distinguish between a stack and a queue.      [2]
+j) Give the applications of linked lists.       [3]
+PART-B
+2.a) Distinguish among „while‟, „do-while‟ and „for‟ statements in “C” language.
+b) Write a program that prints the binary equivalent of a decimal number.  [5+5]
+OR
+3.a) Demonstrate nested if-else statements in “C” language using an example.
+b) Demonstrate the usage of break and continue statements using an example. [5+5]
+4. Give an overview of storage classes in “C” language.    [10]
+OR
+5. Explain the following:
+a) Multi-dimensional arrays in “C”.
+b) Structured programming.        [5+5]
+6.a) Distinguish between a constant pointer and a pointer to constant.
+b) Write a “C” program to find length of a string and concatenation of two strings without
+using string handling functions.       [3+7]
+OR
+7. What is a function pointer? Give the syntax and applications of a function pointer.
+Demonstrate how to initialize function pointers and use them in the program. [10]
+8.a) Write a program to add two complex numbers by passing structure to a function.
+b) Demonstrate the following operations using examples:
+i) fwrite  ii) fseek       [5+5]
+OR
+9.a) Write a “C” program to find number of lines in a file.
+b) Give an overview of standard I/O in “C” language.     [5+5]
+10.a) Demonstrate bubble sorting using an example.
+b) Write a program to reverse a word using a stack.     [5+5]
+OR
+11.a) Write a program to demonstrate operations on a linked list.
+b) Write a program to demonstrate the operations on a queue.    [5+5]

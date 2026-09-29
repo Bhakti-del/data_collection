@@ -1,0 +1,47 @@
+DATA WAREHOUSING AND DATA MINING
+(Computer Science and Engineering)
+and may have a, b as sub questions
+PART – A
+1.a) Define OLAP Cube.         [2]
+b) List the main characteristics of a data warehouse.     [3]
+c) What is data mining?         [2]
+d) List out the main challenges in data mining.      [3]
+e) Write a short note on association rule learning.     [2]
+f) List the partition algorithms used for in association rule mining.   [3]
+g) How are classifiers evaluated?       [2]
+h) What are the advantages of using decision trees for classification?   [3]
+i) What is outlier detection?        [2]
+j) List the weaknesses of hierarchical clustering.     [3]
+PART – B
+2.a) Describe the logical (multi -dimensional) data modeling approach used in data
+Warehousing.
+b) State and explain the merits and demerits of using a data warehouse in an organization.
+[5+5]
+OR
+3.a) Differentiate between fully additive, semi -additive, and non -additive measures in a data
+warehouse.
+b) Explain the architecture of a data warehouse and its components.   [5+5]
+4.a) Discuss about the different approaches to handle missing data in data mining.
+b) Explain the concept of dimensionality reduction and its significance.  [5+5]
+OR
+5. Describe the various  techniques used for data cleaning  and data transformation in data
+mining? Provide examples.        [10]
+used paper July/Aug-2023
+6. Explain the following terms.
+a) Maximal frequent item set.
+b) Association Rule Generation.       [5+5]
+OR
+7. Explain the FP-Growth algorithm with any suitable example  and also d iscuss the
+advantages and limitations.        [10]
+8.a) Explain the general approaches to solving a classification problem.
+b) Describe the process of decision tree construction in classification.   [5+5]
+OR
+9. Compare and contrast the performance and characteristics of decision trees, Naive -Bayes
+classifier, and K-Nearest Neighbor (KNN) classification.    [10]
+10. Explain the following.
+a) Significance of clustering in various domains.
+b) Hierarchical clustering.        [5+5]
+OR
+11. Describe the Partitioning Around Medoids (PAM) algorithm and how it differs from
+K-means.          [10]
+used paper July/Aug-2023

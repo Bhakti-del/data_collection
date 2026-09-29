@@ -1,0 +1,18 @@
+ENTREPRENEUR RESOURCE PLANNING
+1.a) What are the major steps involved in reengineering process?
+b) Discuss the product life cycle management with illustration.   [8+7]
+2.a) How does data mining provide us inexpensive competitive knowledge?
+b) Brief on E-commerce and E-Business.      [8+7]
+3.a) What are master data and why are master data an important part of ERP?
+b) Discuss the challenges of ERP implementation.     [8+7]
+4.a) What are the set of activities at pre-implementation stage of ERP?
+b)  Describe the role of management consultants in firming up requirement of ERP.  [7+8]
+5. It is true that production planning can be carried out without an ERP system? If so, how
+do yo u think that ERP enables enhanced planning process with better advantages?
+Explain.          [15]
+6.a) What are the advantages of having CRM built on what is provided by ERP?
+b)  How does ERP enable purchasing efficiency in an organization?     [8+7]
+7.a) What are the strengths of ‘Oracle ERP software’?
+b)  What is the primary reason for growth of ERP market?     [7+8]
+8.a) What is Enterprise Application? What are its important benefits?
+b)  How can ERP enable better supply chain integration?      [8+7]

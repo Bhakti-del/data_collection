@@ -1,0 +1,52 @@
+MANAGEMENT SCIENCE
+and may have a, b as sub questions.
+PART – A
+1. Write short notes for the following:
+a) Concept of Organization        [2]
+b) Theory ‘X’          [3]
+c) Total Quality Management        [2]
+d) Product life cycle         [3]
+e) Placement           [2]
+f) Merit Rating         [3]
+g) Event in Networks           [2]
+h) Dummy activity         [3]
+i) Mission          [2]
+j) Value chain analysis        [3]
+PART – B
+2.a) What are the management functions? Discuss.
+b) Explain the various principles of Scientific Management.    [5+5]
+OR
+3.a) Illustrate Maslow’s theory of Motivation.
+b) What are the major styles of Leadership? Discuss the features of each style.  [5+5]
+4.a) What are the principles to be considered while designing a Plant Layout.
+b) Describe the methods of Production in detail.      [5+5]
+OR
+5.a) What is Economic Order Quantity? How do you determine it?
+b) Explain the functions of Marketing.       [5+5]
+6.a) What are the basic functions of Human Resource Manager?
+b) Write a note on Recruitment.         [5+5]
+OR
+7.a) Explain the following (i) Job description (ii) Job specification.
+b) What is a Grievance? What are the steps in handling a grievance in an organization?[5+5]
+Used Papers 2024
+8.a) What is Project Management? What are its characteristics?
+b) Identify the most common applications of Network analysis.    [5+5]
+OR
+9.a) Develop a network based on the following information.
+Activity  Immediate Predecessors
+A     -
+B       -
+C       A
+D       B
+E        C, D
+F        D
+G       E
+H       F
+b) What are the differences between PERT and CPM.      [5+5]
+10.a) Explain the characteristics of a Mission Statement.
+b) What is a Policy? What are its features of policies? Give an example.    [5+5]
+OR
+11.a) What are the internal factors to be examined to assess the strengths and weaknesses of an
+Organization?
+b) Briefly explain the steps in strategy formulation and implementation.   [5+5]
+Used Papers 2024

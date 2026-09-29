@@ -1,0 +1,21 @@
+AD-HOC AND SENSOR NETWORKS
+(Computer Science and Engineering)
+1.a) What is a Mobile Ad-hoc Network (Manet)? Specify its important characteristics.
+b) Distinguish the two routing algorithms for Manets-DSDV and AODV.     [7+8]
+2.a) Differentiate a Manet from other types of networks.
+b) Write about DREAM location service.       [7+8]
+3.a) Illustrate the Broadcast Storm Problem.
+b) Write about tree-based MAODV multicast protocol.     [7+8]
+4.a) Distinguish geocast from broadcast and multicast. Give the cl assification of geocast
+protocols.
+b) Explain ELFN protocol for addressing the TCP issues over ad-hoc links.   [7+8]
+5.a) Define Wireless Sensor, Wireless Sensor Node, Wireless Sensor Network. Mention the
+important applications of Wireless Sensor Networks.
+b) Write about LEACH protocol giving the formula for CH selection.    [7+8]
+6.a) Draw the diagram for functional components of a typical Wireless Sensor Node.
+b) Write about S-MAC protocol for Wireless Sensor Networks.    [7+8]
+7.a) Explain the Diffie–Hellman key agreement protocol in detail.
+b) Write about Secure routing in ad hoc networks.     [10+5]
+8.a) Write about TinyGALS programming model for ad hoc networks,
+b) Write about TOSSIM simulator.        [7+8]
+---oo0oo----

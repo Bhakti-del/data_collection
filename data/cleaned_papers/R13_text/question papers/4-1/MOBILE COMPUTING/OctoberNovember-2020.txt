@@ -1,0 +1,13 @@
+MOBILE COMPUTING
+(Computer Science and Engineering)
+1. Draw and explain the architecture of mobile computing.    [15]
+2.a) Differentiate between bearer services and tele services.
+b) Explain about the security services of GSM.      [7+8]
+3.a) What is near and far terminals effect? Give examples for each.
+b) What role does SDMA play? How it differes from CDMA, TDMA and FDMA? [7+8]
+4. Explain how the packet will be delivered to and from the mobile node.  [15]
+5. Explain with a neat diagram about snooping TCP.     [15]
+6. In detail, write about client-server computing and adaptation.   [15]
+7. Explain about Data dissemination mechanism.     [15]
+8. Explain about AoDV routing algorithm with an example.    [15]
+--ooOoo--

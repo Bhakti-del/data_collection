@@ -1,0 +1,32 @@
+COMPUTER NETWORKS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)  What is a guided transmission medium?                                                                  [2]
+b)  List out the seven layers of OSI model.                                                            [3]
+c)  Give various types of multiple-access protocol.                                              [2]
+d)  What is necessity of Mac sub-layer?                                  [3]
+e)  Write the principle of optimality.                                                                           [2]
+f)  What is admission Control and congestion control?         [3]
+g)  Define fragmentation.               [2]
+h)  What do you mean by tunneling?         [3]
+i)  What is the necessity of HTTP and FTP?                                                    [2]
+j)  Write a short note on the features of TCP.                      [3]
+PART - B
+2. List out the disadvantages of fiber optics over copper cable.               [10]
+OR
+3. Explain Error detecting using CRC codes with an example.                        [10]
+4. Write and explain Adaptive Tree walk protocol.                                    [10]
+OR
+5. Explain about spanning tree bridges.                                                        [10]
+6. With a suitable example explain DIJKSTRA’S shortest path Algorithm.     [10]
+OR
+7. Explain count to infinity problem with an example.                                     [10]
+8. Compare IPV4 and IPV6 Headers and explain how IPV6 Address is represented.    [10]
+OR
+9. Elaborate on Crash Recovery techniques in Transport Layer.                                  [10]
+10.  What are the services provided by the Internet transport protocol? Explain.       [10]
+OR
+11. Write short notes on                                                                                                   [10]
+a) HTTP                c) SSH
+b) FTP                  d) E-mail
+used paper 29-11-2018 Am

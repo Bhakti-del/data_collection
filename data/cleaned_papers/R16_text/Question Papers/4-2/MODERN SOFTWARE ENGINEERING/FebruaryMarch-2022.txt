@@ -1,0 +1,12 @@
+MODERN SOFTWARE ENGINEERING
+1. What is the need for adopting extreme programming? How to implement XP? [15]
+2. Define agile method and write the steps to build agile methods.   [15]
+3. List the members involved in extreme programming and write each member role. [15]
+4. Elaborate the organizational strategies to generate trust in agile process using XP
+program.          [15]
+5. Write short note on:
+a) Continuous integration  b) Collective ownership.   [7+8]
+6. Explain in detail about version control in agile software.    [15]
+7. Describe risk management plan in detail.      [15]
+8.a) Give the steps to create customer tests and explain in detail.
+b) Explain about performance optimization.      [7+8]

@@ -1,0 +1,42 @@
+ADHOC AND SENSOR NETWORKS
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a) Illustrate important characteristics of a MANET.                                            [2]
+b) Justify the statement “ MANETS are more prone to physical security threats than fixed
+cable networks”.         [3]
+c) Define Multicasting and Geo-casting         [2]
+d) Specify the reason for “TCP through  put is inversely proportional to the number of hops”.
+[3]
+e) How MAC protocols cope up with sensor network failures?    [2]
+f) Specify the need of High level Application layer support for specific applications of WSNs
+[3]
+g) What is the role of Trusted Third Party (TTP) in authentication?   [2]
+h) Illustrate the three categories of Sensor Network Hardware    [3]
+i) Illustrate the types of nesC code.       [2]
+j) Specify the components in node level simulators for a WSN.   [3]
+PART - B
+2. Specify the major differences between Topology -based routing and Position -based routing
+approaches with suitable example routing protocol in each category.  [10]
+OR
+3. Specify the working principles of the following QoS Routing Protocols.
+a) Core Extraction Distributed Ad hoc Routing (CEDAR)
+b)  Positional Attribute based Next-hop Determination Approach (PANDA) [5+5]
+4. Explain the functioning of the following Tree-based Multicast Routing Protocols
+a) AMRIS       b) MAODV    c) LAM         d)  LGT      [10]
+OR
+5. Describe in detail about Mobility-related solutions for TCP over Ad hoc networks.[10]
+6. Explain clustering architecture of WSNs and the importance of the density of the WSN
+Network for the effective use in its applications.      [10]
+OR
+7. Explain the operation of following WSN routing algorithms
+a)  Minimum Cost Forward Algorithm (MCFA)
+b)  Low-Energy Adaptive Clustering Hierarchy Algorithm (LEACH).  [5+5]
+8. Describe in detail the concept of N -party Diffie -Hellman key agreement used for key
+management.          [10]
+OR
+9. Discuss about Node-Level software platforms.     [10]
+10. Describe TinyGAL programming model with its implementation details.  [10]
+OR
+11. Compare and Contrast NS -2 simulator and TOSSM simulator in all aspects of their
+functionality for various applications.      [10]

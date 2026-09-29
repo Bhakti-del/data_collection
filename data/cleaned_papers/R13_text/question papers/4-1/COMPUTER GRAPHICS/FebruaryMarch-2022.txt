@@ -1,0 +1,20 @@
+COMPUTER GRAPHICS
+(Computer Science and Engineering)
+1.a)  Describe the overview of graphics systems.
+b)  Briefly explain the flood-fill algorithm.      [7+8]
+2.a)  Write a short note on raster-scan systems.
+b)  Briefly explain the mid-point circle algorithm.     [7+8]
+3.a)  Explain the two-dimensional viewing transformation pipeline with example.
+b)  Derive the resultant transformation matrix to rotate a given point about an arbitrary axis.
+[7+8]
+4.a) Explain briefly Cohen-Sutherland line clipping algorithm with suitable example.
+b) What is shearing? Explain in detail.       [10+5]
+5.a)  Explain an algorithm for the generation of B-spline.
+b)  Derive the composite transformation matrix to align an arbitr ary vector in 3-D space with
+the Z-axis.          [7+8]
+6.a)  Give an algorithm for the generation of Bezier curves.
+b)  Write a short note on Octrees.       [8+7]
+7.a) Explain the depth-sorting algorithm for visible surface detection.
+b) Describe different parameters which influence the surface illumination.  [8+7]
+8.a) Describe linear list notation of animation languages.
+b) Discuss about the general purpose languages used for animation.   [7+8]

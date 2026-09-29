@@ -1,0 +1,13 @@
+MOBILE COMPUTING
+1. With a neat diagram explain the Structure of GSM system.      [15]
+2.  Draw a neat diagram to explain the architecture of General Packet Radio Service
+(GPRS).            [15]
+3.  With a neat diagram explain the architecture of wireless IEEE LAN 802.11.   [15]
+4. What do you mean by Query processing? Explain the Query Processing architecture.
+[15]
+5. Explain the transport layer protocols for mobile networks.                  [15]
+6.  Explain the Classifications of Data Delivery Mechanisms.      [15]
+7. How to pass messages using Dynamic Source Routing algorithm? Explain with
+example.             [15]
+8. With a neat diagram explain the architecture of wireless application protocol.          [15]
+used paper jan-feb-2021

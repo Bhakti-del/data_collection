@@ -1,0 +1,40 @@
+SCRIPTING LANGUAGES
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What is the need of scripting languages?      [2]
+b)      List the PERL built-in functions to facilitate manipulation of hashes.   [3]
+c)      Why to use pack function of PERL?       [2]
+d)      Give the short-circuit syntax of PHP.       [3]
+e)      Write PHP code to create a combo box.      [2]
+f)      How to convert input into html entities?      [3]
+g)      How to associate a stream with a file?      [2]
+h)      Give the structure of a pure Tcl application.      [3]
+i)       Give the major applications of Python.      [2]
+j)       Compare Python with PHP.        [3]
+PART - B
+2.a) What is web scripting? Compare it with traditional scripting.
+b) List various scripting languages and compare them with Java.   [5+5]
+OR
+3. “PERL implements a very rich form of regular expressions.” Substantiate this statement
+with illustrative examples.        [10]
+4.a) Discuss the concept of typeglob.
+b) Write about FETCH, STORE methods for tied variables.    [5+5]
+OR
+5.a) List PHP type identifier functions.
+b) What is string interpolation?        [5+5]
+6. Discuss cross -site scripting and suggest data validation solutions that remedy this
+problem.          [10]
+OR
+7.a) What is the role of explode and md5 functions in PHP authentication?
+b) What is the content of CrackLib of PHP?      [5+5]
+8. Does Tcl support object oriented paradigm? Quote suitable code segments to support your
+answer.           [10]
+OR
+9.a) What kind of events can be handled in Tcl?
+b) Demonstrate the bind command use in Tk.      [5+5]
+10.a) Explain three intrinsic sequence types of Python.
+b) Does function call create namespaces in Python?      [5+5]
+OR
+11. What is an exception? Is it different from error? How Python handles exceptions? Explain
+with necessary code segments.       [10]

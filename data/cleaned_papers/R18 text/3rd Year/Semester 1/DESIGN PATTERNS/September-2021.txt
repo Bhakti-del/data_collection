@@ -1,0 +1,23 @@
+DESIGN PATTERNS
+----
+1.a)  Design patterns solve design problems? Explain in detail.
+b)  Write the general template used for describing the design patterns.   [8+7]
+2.a)  What is the role of design pattern in software industry?
+b)  Describe the criterions of design patterns.      [7+8]
+3.a)  Depict Lexi's user interface and discuss the seven problems.
+b)  Brief the responsibilities of glyphs.       [8+7]
+4.a)  Describe recursive composition of document structure.
+b)  What is Monoglyph? Discuss about Embellished object structure.   [7+8]
+5.a)  Why the singleton uses a special method to instantiate objects? Discuss.
+b)  Explain the consequences of the abstract factory pattern and bridge pattern. [7+8]
+6.a)  Discuss the implementation of factory method.
+b)  What are the various ways to parameterize a Graphic Tool by the class of product in
+creational patterns?         [9+6]
+7.a)  Draw the structure of façade design pattern. List the participants and applicati ons of
+façade design pattern.
+b)  What are the implementation issues of proxy pattern? Explain with sample code. [8+7]
+8.a)  Discuss about the structure and participants of state design pattern.
+b)  What is strategy pattern? Write the policy of st rategy. Explain the consequences of
+strategy pattern.          [7+8]
+RA
+USED PAPERSSEP-2021

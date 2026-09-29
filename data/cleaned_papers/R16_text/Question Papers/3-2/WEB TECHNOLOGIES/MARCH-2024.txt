@@ -1,0 +1,40 @@
+WEB TECHNOLOGIES
+and may have a, b as sub questions.
+PART – A
+1.a)      Write the syntax of do-while loop in PHP and state its functionality.  [2]
+b)     Differentiate between text files and binary files.     [3]
+c)      What is DTD?            [2]
+d)      What is the role of DOM?        [3]
+e)      What are cookies?         [2]
+f)      What is a servlet? What is the need of a servlet?     [3]
+g)      Write the advantages of JSP over Servlet.       [2]
+h)     Write about JSP Include Directive and its advantage.    [3]
+i)       Write down the scope of the local variables and global variables in Java script. [2]
+j)       Write about javaScript functions.       [3]
+PART – B
+2.a)  Explain PHP Array operations with suitable examples.
+b)  Write about PHP readfile() and  feof().       [6+4]
+OR
+3.a)  How do you achieve passing arguments by reference in PHP? Explain.
+b)  What is a PHP Session? How to start and print all session variable in PHP? [4+6]
+4.a)  Explain XML Schemas in detail.
+b)  Explain the basic tags and their purpose in XHTML.    [5+5]
+OR
+5.a)  Explain about SAX parsers in Java.
+b)  Write about XML elements and attributes.       [5+5]
+6.a)  Explain how Servlet works?
+b)  Explain the concept of handling Http Request and Responses.   [4+6]
+OR
+7.a)  Write a java code to connect to database using JDBC.
+b)  What is CGI? Draw its architecture diagram. Write the disadvantages of CGI. [5+5]
+Used paper March-2024
+8.a)  Write about JSP Scripting elements.
+b)  Explain JSP pagecontext and page implicit objects.      [5+5]
+OR
+9.a)  Explain the steps in connecting to database using JSP.
+b)  What is the use of beans in JSP?        [7+3]
+10.a)   Write a java script code to validate a simple login form.
+b) How to define a function and call it in JavaScript.       [5+5]
+OR
+11.  What is AJAX? How does it work? Write the steps to create Ajax example.   [10]
+Used paper March-2024

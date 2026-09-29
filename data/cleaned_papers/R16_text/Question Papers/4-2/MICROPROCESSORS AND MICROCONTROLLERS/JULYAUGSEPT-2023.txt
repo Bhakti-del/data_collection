@@ -1,0 +1,42 @@
+MICROPROCESSORS AND MICROCONTROLLERS
+and may have a, b as sub questions.
+PART – A
+1.a) What will happen if a label within a macro is not declared local?   [2]
+b) Discuss about the 8086 interrupt types.      [3]
+c) What are the Addressing Modes for a Micro Controller?    [2]
+d) How many ports are available in 8051 micro controller? What are they?  [3]
+e) What is SPI bus?         [2]
+f) Describe about LCD display of 8051 microcontroller.    [3]
+g) Differentiate ARM and Thumb instruction set features.    [2]
+h) Give different applications of ARM processors.     [3]
+i) List the registers used in OMAP Processor.      [2]
+j) Briefly discuss the pin diagram of CORTEX processor.    [3]
+PART – B
+2.a) Explain the register organization of 8086.
+b) Explain the physical memory organization of 8086 system.    [5+5]
+OR
+3.a) Discuss in detail the various signals of 8086.
+b) Write an 8086 assembly language program to sort an array of data in descending order.[5+5]
+4.a) Explain in detail about the special function register of 8051 in detail.
+b) Explain the instruction set of 8051.       [5+5]
+OR
+5.a) Write an ALP to multiply the given number 48H and 30H using 8051 microcontroller.
+b) Explain about the Timers of 8051 and the Registers used for 8051 Timers.  [5+5]
+6.a) With neat sketch , explain the function of external memory RAM and ROM with 8051
+microcontroller?
+b) Discuss in detail about RS232 interface.      [5+5]
+OR
+7.a) With neat sketch, explain the function of DAC with 8051 microcontroller?
+b) Explain in detail about USB communication interface.    [5+5]
+used paper July/Aug-2023
+8.a) With a neat diagram, explain the different general purpose registers of ARM processors.
+b) Mention about the program status register instructions in ARM processor.  [5+5]
+OR
+9.a) Write ARM data processing Instructions.
+b) Explain PSR Instructions with examples.      [5+5]
+10.a) Briefly discuss  about the interrupts in CORTEX processor.
+b) Design the block diagram for OMAP processor.      [5+5]
+OR
+11.a) Explain Memory processing and commands used in OMAP processor.
+b) Write a Simple Program using Instructions of CORTEX processor.   [5+5]
+used paper July/Aug-2023

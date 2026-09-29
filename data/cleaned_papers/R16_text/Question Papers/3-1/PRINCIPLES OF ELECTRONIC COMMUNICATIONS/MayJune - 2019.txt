@@ -1,0 +1,48 @@
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      The signal power at the input to a receiver is 6.2 nW and the noise power at the input to
+that receiver is 1.8 nW. Find SNR and SNRdB.                                                        [2]
+b)      Define modulation and classify?                                          [3]
+c)      Mention any two differences between ASK and FSK.    [2]
+d)      An FM wave is given by s(t)=20cos(8π×106t+9sin(2π×103t)). Calculate the frequency
+deviation, bandwidth, and power of FM wave.     [3]
+e)      Mention the advantages of LAN.                                   [2]
+f)       Discuss briefly about local loop in telephones.      [3]
+g)      What is trilateration principle?                    [2]
+h)      Mention the differences between LEDs and laser diodes with respect to performance
+characteristics.                                                                                       [3]
+i)       What are the functions of Mobile Station?          [2]
+j)       Discuss about infrared wireless technology.                 [3]
+PART - B
+2. Define the terms Gain, attenuation and decibels. And explain their importance  in
+communications, with examples.           [10]
+OR
+3.a) Illustrate electromagnetic spectrum and clearly indicate all the bands.
+b) A power amplifier with a 40 dB gain has an output power of 100 W. What is the input
+power in dBs and in normal units?                           [5+5]
+4.a)  Define PWM and explain the modulation process with neat diagram.
+b)  A sinusoidal modulating waveform of amplitude 5 V and a frequency of 2 KHz is
+applied to FM generator, which has a frequency sensitivity of 40 Hz/volt. Calculate the
+frequency deviation, modulation index, and bandwidth.    [6+4]
+OR
+5.a)  Define ASK and describe the modulation process with neat diagram.
+b)   Explain the frequency discrimination method of FM demodulation.                   [5+5]
+used paper 11-06-2019 PM
+6.a)  Explain about electronic telephones.
+b)  Describe Internet Telephony.                                                                     [5+5]
+OR
+7.a)  Discuss briefly about LAN hardware.
+b)  Discuss about Ethernet LANs in detail.                                                 [5+5]
+8.a)  Explain about satellite sub systems.
+b)  Describe the process for determining look angle.                                 [5+5]
+OR
+9.a)  Describe the operation and application of laser diodes.
+b)  Discuss the differences between the various types of optical detectors with respect to
+performance characteristics.                            [5+5]
+10. Draw and explain GSM architecture in detail.       [10]
+OR
+11.  Write short notes on the following.
+a) RFID communication
+b) UWB.          [5+5]
+used paper 11-06-2019 PM

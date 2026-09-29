@@ -1,0 +1,39 @@
+CLOUD COMPUTING
+(Computer Science and Engineering)
+carries  10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Describe computational grids.       [2]
+b) Explain any three services offered by cloud.      [3]
+c) Explain Storage virtualization.         [2]
+d) Explain high availability and data recovery.      [3]
+e) Explain Open nebula.         [2]
+f) What is lease scheduling?        [3]
+g) What are the business benefits of cloud computing?     [2]
+h) Explain Virtual administration in cloud.      [3]
+i) Explain data Interoperability in cloud.      [2]
+j) Explain software Vulnerability and Breaches in cloud.    [3]
+PART-B
+2.a) Elucidate Network threats and data integrity.
+b) Briefly explain the design principles of computer clusters.     [5+5]
+OR
+3.a) Explain system models for distributed and cloud computing.
+b) What are the design objectives of computer clusters?    [5+5]
+4.a) Describe various deployment models in cloud.
+b) Elucidate hardware virtualization.       [5+5]
+OR
+5.a) Explain the functions and types of Hypervisors.
+b) Describe the features, challenges and risks in cloud computing.   [5+5]
+6.a) Elucidate Amazon Elastic cloud computing.
+b) Explain the architecture of Eucalyptus.      [5+5]
+OR
+7. Explain the implementation of hybrid cloud.      [10]
+8.a) Explain a model for federal cloud computing.
+b) Explain the best practices to build an application on cloud.    [5+5]
+OR
+9.a) What are the External threats and Internal threats of virtualization infrastructure.
+b) Elucidate SLA management in cloud.      [5+5]
+10.a) Elicit the pros and cons of content level security.
+b) Distinguish Cloud Computing from outsourcing and provision of application services.
+[5+5]
+OR
+11. Elucidate Cloud service life cycle.        [10]

@@ -1,0 +1,39 @@
+MOBILE COMPUTING
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)  List out  the different types of logical channels that are used in GSM.         [2]
+b)      What are the characteristics of communication devices?    [3]
+c)      What are the drawbacks of FDMA?         [2]
+d)      What is tunneling?         [3]
+e)      What is meant by timeout freezing in mobile transport layer?   [2]
+f)       What are the advantages of hoarding data at the mobile device?   [3]
+g)      What is data synchronization?        [2]
+h)      Explain the functions of Pull based mechanisms in data delivery mechanisms. [3]
+i)       What are the features of WAP?       [2]
+j) What are the properties of MANET?       [3]
+PART - B
+2.  Explain the system architecture of GSM with neat sketch.         [10]
+OR
+3.  Explain the protocol architecture of DECT.         [10]
+4.a)   Describe about the MAC layer of IEEE 802.11.
+b)   Explain about the CDMA and about its versions.     [5+5]
+OR
+5.a)   What is the reason for the failure of MAC schemes in wireless networks. What is done
+in wired networks to avoid this effect?
+b)  Explain about the Dynamic Host Configuration Protocol.    [5+5]
+6.a)    What are the implications of traditional TCP on mobility? Di scuss any one strategy
+that attempts to increase TCP performance in wireless and mobile environment.
+b)   Explain about the data recovery process.      [5+5]
+OR
+7.a)   Explain the issues related to quality of service.
+b)  Explain the header format of Mobile TCP.      [5+5]
+8.a)   Explain about the broadcast models.
+b)  Explain about the Directory method in selective tuning technique.   [5+5]
+OR
+9.a)   Explain about the data synchronization protocol.
+b)  Explain about the classification of data delivery mechanisms.   [5+5]
+10.a)  Explain about the Wireless Session protocol of the session layer.
+b)  Explain about the MAC layer of Bluetooth.      [5+5]
+OR
+11.a)  Describe the architecture of Windows CE.
+b)  Explain the classification of routing algorithms.     [5+5]

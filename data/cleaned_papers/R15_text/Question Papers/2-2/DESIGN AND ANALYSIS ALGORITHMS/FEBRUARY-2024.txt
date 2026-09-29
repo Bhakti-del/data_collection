@@ -1,0 +1,57 @@
+DESIGN AND ANALYSIS OF ALGORITHMS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)      Define Omega notation.        [2]
+b)      Write control abstraction algorithm of divide and conquer method.    [3]
+c)      Write an algorithm of Simple Union.       [2]
+d)      Explain the properties of Biconnected components.      [3]
+e)      State the Principle of optimality.       [2]
+f)      Write the applications of Dynamic Programming.     [3]
+g)       Explain the properties of LC Branch and Bound.     [2]
+h)      Find the sum of subsets for the following set of integers by using fixed tuple method
+{5,10,15,20,18,12} for W = 30      [3]
+i)      Write a non-deterministic algorithm to sort an elements in an array.   [2]
+j)      What are the advantages of Non-deterministic algorithms?    [3]
+PART - B
+2.a)  Derive the time complexity of Strassen’s matrix multiplication.
+b) Explain about the Amortized analysis.      [5+5]
+OR
+3.a)  Solve the following recurrence equation.
+T(n) = 4T(n/2) + n2 , T(0) = 0
+b)   Explain about the Binary Search with an example.     [5+5]
+4.a) Describe about the Biconnected Components with an example.
+b) Write an algorithm of DFS and also analyze the time complexity of the same. [5+5]
+OR
+5.a)  Write an algorithm of AND/OR graph.
+b) Explain the binary tree traversal with an example.     [5+5]
+6. Design a three s tage system with device types D 1, D 2, D 3. The costs all Rs. 30,
+Rs.15 and Rs 20 respectively. T he cost of the system is to be no more than Rs.105. The
+reliability of each device type is 0.9, 0.8 and 0.5 respectively.   [10]
+OR
+7.a) Explain about the Job sequencing with deadlines.
+b) Write an algorithm of Greedy Knapsack problem  and also analyze the time complexity
+of the same.          [5+5]
+8. Solve the TSP problem having the following cost -matrix using branch -and-bound
+technique.          [10]
+0 10 15 20
+5 0 9 10
+6 13 0 12
+8 8 9 0
+
+
+
+
+
+
+OR
+9.a) Write an algorithm of  n -queens problem  and also analyze the time complexity of the
+same.
+b)       Explain about the sum of subsets problem with an example.   [5+5]
+10.a) Explain graph coloring problem is NP-Hard or NP- complete. Justify your answer.
+b) Write a non -deterministic algorithm of sum of subsets  problem and also analyze the
+time complexity of the same        [4+6]
+OR
+11.a) Write a non -deterministic algorithm of 0/1 Knapsack problem and also analyze the
+time complexity of the same.
+b)  Differentiate between Deterministic and non-deterministic algorithm.  [6+4]

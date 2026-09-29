@@ -1,0 +1,17 @@
+COMPUTER NETWORKS
+1.a)  Differentiate between TCP/IP reference model with ISO-OSI reference model.
+b)  What are the advantages of fiber optic cables? Explain with a neat sketch.        [8+7]
+2.   What are various types of Error Detection methods? Explain about Cyclic Redundancy
+Check Error Detection Method with suitable example.        [15]
+3.a)  Compare and contrast Pure ALOHA and Slotted ALOHA channel allocation Methods.
+b)  What are the advantages of using gateways?       [8+7]
+4.a)  Differentiate between learning bridges and spanning tree bridges.
+b)  Write short note on repeaters, hubs and switches.      [7+8]
+5.  How to find shortest path using Dijkstra algorithm? Explain with an example.         [15]
+6.a)  Explain about Hierarchical Routing with an example.
+b)  What is congestion? Explain about congestion control policies.    [8+7]
+7.   Explain about 3 -way handshake mechani sm for con nection establishment and
+connection release.                       [15]
+8.a)  Compare and contrast TCP and UDP Protocols.
+b)  Write short note on SSH protocol.       [7+8]
+used paper feb-22 jntu

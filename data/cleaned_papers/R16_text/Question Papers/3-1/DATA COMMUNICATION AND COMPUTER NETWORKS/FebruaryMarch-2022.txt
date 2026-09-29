@@ -1,0 +1,26 @@
+DATA COMMUNICATION AND COMPUTER NETWORKS
+1.a)  List and explain about various layers in TCP/IP model.
+b)  Discuss about Light wave transmission along with its limitations.    [7+8]
+2.a)  Give the Motivation for Layered Architecture Design of a Computer Network.
+b)  Categorize the Multiplexing techniques. Explain any technique  designed for digital
+signals.           [7+8]
+3.a)  Explain about various multiple access protocols.
+b)  Compare and contrast the Go-Back-N ARQ Protocol with Selective-Repeat ARQ. [7+8]
+4.a)  Apply the CRC method to detect an error/s if any, with the given data  word
+“1010011110”, divisior “10111” and  received codeword “10100111101100”. Give its
+correcting method.
+b) What is the purpose of CSMA/CD? Explain it.     [7+8]
+5.a)  If a router has 20 entries in its group table, should it send 20 different queries
+periodically or just one? Justify your answer.
+b)  List the transition strategies to move from IPv4 to IPv6. When is each strategy used?
+[8+7]
+6.a)  Distinguish between Distance Vector Routing and Link State Routing Protocols.
+b)  What is the format of IPv4 header? Describe the significance of each field.  [8+7]
+7.a)  Discuss about the TCP sliding window algorithm for Error control.
+b)  Categorize the Congestion control techniques. Explain in brief about any one category.
+[7+8]
+8.a)  Explain how FTP can be used to solve the problems in transferring the file from one
+system to another system.
+b)  Define Network Management. List and explain the functions of Network Management.
+[8+7]
+used paper feb-22 jntu

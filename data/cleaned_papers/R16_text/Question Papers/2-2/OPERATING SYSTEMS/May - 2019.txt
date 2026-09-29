@@ -1,0 +1,43 @@
+OPERATING SYSTEMS
+PART – A
+1.a) Define Operating systems. List the objectives of Operating System.   [2]
+b) Illustrate about device controller and drivers.      [3]
+c) What are the disadvantages of semaphore.      [2]
+d) What is a critical section? Give example.      [3]
+e) Compare internal and external fragmentation.     [2]
+f)  Explain first, best fit memory allocation techniques.     [3]
+g)  Define the terms seek time and rotational latency.     [2]
+h) What are the various file accessing methods?     [3]
+i) Explain safe, unsafe and deadlock state process.     [2]
+j) What are the conditions used in Banker’s algorithm?    [3]
+PART – B
+2.a) Explain different categories of system calls with suitable example.
+b) What are the functionalities of Operating Systems? Explain in detail.  [5+5]
+OR
+3.a) Explain features of Distributed Operating System.
+b) What are the various components of Operating System structure? And explain simple
+layered approach of Operating System in detail.     [5+5]
+4.a) Explain FIFO and Round Robbin CPU  scheduling algorithm. Why do we need?
+b)  With a neat sketch explain process state diagram.     [5+5]
+OR
+5.a) What are the criteria for evaluating the CPU scheduling algorithm?
+b) What is a process? Explain Process Control Block.     [5+5]
+6a) What is virtual memory? Discuss the benefits of virtual memory techniques.
+b)  What are the disadvantages of single contiguous memory allocation? Explain. [5+5]
+OR
+7.a) Consider the following page reference string
+1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6
+Determine how many page faults would occur for Optimal page replacement algorithm.
+Assume three frames are initially empty.
+b) Discuss the procedure for page fault in demand paging.    [5+5]
+8.a) Compare and Contrast Free space management and Swap space management.
+b)  Discuss the indexed file allocation method with an example.   [5+5]
+OR
+9.a) Discuss various types of Disk storage attachments.
+b) What are the objectives of file management system? Explain file system architecture.
+[5+5]
+10.a) Explain deadlock detection algorithm with an example.
+b) Explain the technique used to prevent the deadlock.      [5+5]
+OR
+11.a) Explain about deadlock conditions and Banker’s algorithm in detail.
+b)  Write the principles of protection? And explain the access matrix in detail.  [5+5]

@@ -1,0 +1,27 @@
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+1.a) Show that ( 𝑝→𝑟)∧(𝑞→𝑟)𝑎𝑛𝑑 (𝑝∨𝑞)→𝑟 are logically equivalent.
+b) Show that (∃𝑥)(𝑃(𝑥) ∧ 𝑄(𝑥)) ⟹ (∃𝑥)𝑃(𝑥) ∧ (∃𝑥)𝑄(𝑥). Is the converse true? [7+8]
+2. Obtain the PDNF and PCNF of the following formula.
+P
+  (~P (Q
+  (~QR)))        [15]
+3.a) Define the dual of a statement in a lattice L. Why does the principle apply to L?
+b) A function f:(Z x Z) → Z is defined as f(x,y) = 4x+5y. Prove that f is onto, but not
+one-to- one.          [7+8]
+4.a) Given S = {1,2,3,....,10}and a relation R on S where R = {<x, y> / x+y +10}, what are the
+properties of the relation R? Explain.
+b) Define Semi-groups and Monoids. Give examples and properties of each.  [8+7]
+5.a) State and prove multinomial theorem. Determine the coefficient of x3y3z2 in the   expansion
+of (2x – 3y + 5z)8.
+b)  How many ways are there to seat 10 boys and 10 girls around a circular table, if boys and
+girls seat alternatively.         [8+7]
+6.a) There are 35 students and 04 teachers. In how many ways every student shakes hand with
+other students and all the teachers?
+b) Prove that in a group of six people at least three must be mutual friends or at least three must
+be mutual strangers.         [8+7]
+7.a) Solve the following recurrence relations.
+an-5an-1+ 8an-2-4an-3= n2n
+b) Solve the recurrence relation by using substitution method
+an=an-1+1/n(n+1), a0=1        [7+8]
+8.a) Show that the complete graph K5 and complete bipartite graph K3,3 are not planar?
+b) Show that the following graphs are isomorphic.     [8+7]

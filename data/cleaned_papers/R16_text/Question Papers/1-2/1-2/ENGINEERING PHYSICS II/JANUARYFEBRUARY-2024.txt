@@ -1,0 +1,49 @@
+ENGINEERING PHYSICS - II
+and may have a, b as sub questions.
+PART – A
+1.a)      A photon has a wavelength of 500 nm. Calculate its energy.                       [2]
+b)      Calculate the energy levels of an electron in a one-dimensional box of length 2 nm.      [3]
+c)     What are applications of indirect band gas semiconductor?                      [2]
+d)      Why direct bandgap semiconductors are preferred in LEDs?          [3]
+e)      Calculate the electric field at a point P located at a distance o f 10 cm along the
+perpendicular bisector of an electric dipole with a length of 5 cm and a charge of ±10µC.
+[2]
+f)      Explain nature of BaTiO3.                [3]
+g)      A coil with a core of material X has a relative permeability of 500. If the coil without the
+core has an inductance of 2 mH, what is the inductance when the core is inserted?        [2]
+h)      What is magnetic susceptibility?              [3]
+i)       Calculate the surface-to-volume ratio for a nanocube with a side length of 50 nm?        [2]
+j)       What is a potential drawback of using the sol-gel process in nanomaterial synthesis?    [3]
+PART - B
+2.a)  What is the de-Broglie hypothesis, and how does it relate to the dual nature of matter?
+b) What is an E -K curve, and how does it describe the relationship between energy and
+momentum for electrons in solids?       [5+5]
+OR
+3.a) Describe the energy levels of a particle in a one-dimensional potential box.
+b) Discuss the qualitativ e aspects of the Kronig -Penny model in explaining electron
+behavior in a crystalline solid.       [5+5]
+4.a) How does doping affect the Fermi level in extrinsic semiconductors?
+b) Draw and explain the energy band diagram of a PN junction diode in equilibrium. [5+5]
+OR
+5.a)  Describe five applications of solar cells.
+b) Explain the I -V characteristics of a solar cell and how they are influenced by light
+intensity.          [5+5]
+6.a)  Compare electronic, ionic, and orientation polarizations.
+b)  What is pyroelectricity and how is it different from piezoelectricity?  [5+5]
+OR
+7.a) What is electronic polarization and how does it occur in materials?
+b) Explain the phenomenon of ferroelectricity and its significance.   [5+5]
+8.a) Describe the properties of antiferromagnetic materials.
+b)  How does temperature affect superconductivity?     [5+5]
+OR
+9.a) How do ferrimagnetic materials differ from other magnetic materials?
+b)  Classify materials into dia, para, and ferromagnetic types based on their magnetic
+moments.          [5+5]
+10.a) Describe the sol -gel process in bottom -up nanofabrication. What are its advantages and
+applications?
+b)  Discuss the principles of SEM and its applications.     [5+5]
+OR
+11.a) How do the electrical, mechanical,  and thermal properties of materials change at the
+nanoscale?
+b)  Explain how XRD is used in the characterization of nanomaterials and what information
+it provides?          [5+5]

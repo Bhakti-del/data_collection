@@ -1,0 +1,22 @@
+ELECTRIC DRIVES AND CONTROL
+1.a) Discuss the  concept of electric drive and its advantages.
+b) Give the classification of electric drives and explain them.    [7+8]
+2. What are the components of electric drives and discuss the role of each module in detail.
+[15]
+3.a) Explain the multi quadrant operation of a motor driving a load.
+b) Draw the closed loop block diagram of electric drive and explain it.  [8+7]
+4.a) How the moment of inertia of a rotating part is determined  in case of electric drive?
+b) Explain the concept of load equalization of an electric drive.   [8+7]
+5.a) Discuss the braking techniques of dc motor and explain them.
+b) A 220V, 21A, 1000 rpm dc shunt motor  draws armature current of 21  A on full load and
+runs at1000 rpm. If a resistance of 0.5 ohm is inserted in series with armature.  Determine
+speed at full load torque.        [8+7]
+6.a) Explain  the operation of single phase full converter fed dc motor.
+b) Using chopper circuit how the speed of dc motor is controlled.   [8+7]
+7.a) Explain the speed control of induction motor using stator variable voltage.
+b) Discuss the regenerative braking operation of induction motor.   [8+7]
+8. Write a short note on the following:
+a) Losses in electric drive systems
+b) Energy efficient operation of drives
+c) Maintenance of motors.        [5+5+5]
+--ooOoo--

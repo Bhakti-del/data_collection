@@ -1,0 +1,19 @@
+MICROPROCESSORS AND MICROCONTROLLERS
+(Computer Science and Engineering)
+1. Explain the various addressing modes of 8086 microprocessor with examples. [15]
+2.a)  Draw the read and write cycle timing diagrams of 8086 in minimum mode.
+b) Give the functionality of the following assembler directives of 8086 microprocessor:
+i) DW   ii) SEGMENT  iii) PROC and ENDP     iv) DUP   [10+5]
+3.a)  Discuss about TCON special function register with a diagram in 8051 microcontroller.
+b)  Write and explain different data transfer instructions of 8051.   [7+8]
+4.a)  Write an ALP to generate the 1kHz square wave form using mode 1 timer programming.
+b)  Discuss about I/O ports of 8051 microcontroller.     [7+8]
+5.a)  Draw the Internal RAM memory organization in 8051.
+b)  Draw the PIN diagram of RS-232 serial communication scheme and explain importance
+of each pin.          [5+10]
+6.a)  Write short notes on serial communication standards.
+b)  Explain the interfacing procedure of an 8-bit ADC with 8086 microprocessor. [5+10]
+7.a)  Define Pipeline? Explain the Five stage pipeline concept in ARM processor.
+b)  Explain the Thumb instructions of ARM processor.     [7+8]
+8. List the main features of OMAP processor. With a neat diagram, explain the architecture of
+OMAP processor.              [15]

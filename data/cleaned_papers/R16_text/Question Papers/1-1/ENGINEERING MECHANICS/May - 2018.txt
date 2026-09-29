@@ -1,0 +1,91 @@
+ENGINEERING MECHANICS
+MSNT)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Classify different types of system of forces.        [2]
+b) The cable exerts a tension of 2 kN on the ﬁxed bracket at A as shown in the figure  1.
+Write the vector expression for the tension T.        [3]
+Figure: 1
+c) Define the terms “coefficient of friction” and “angle of friction”.   [2]
+d) What is a wedge? Explain how the wedge is used to raise heavy loads.   [3]
+e) Write down the expression for the centroid of a quarter circle.     [2]
+f) State and prove Pappus theorem I.          [3]
+g) Define mass moment of inertia of a body about an axis.      [2]
+h) Determine the mass moment of inertia of a rectangular plate of size “a” × “b” and
+thickness “t” about its centroidal axes.        [3]
+i) State the D‟Alembert‟s principle for a particle.       [2]
+j) A force of 100 N acts on a body having a mass of 4 kg for 10 seconds. If the initial
+velocity of the body is 5 m/sec, determine the  acceleration produced in the direction of
+force and distance moved by the body in 10 seconds.       [3]
+PART-B
+2. Three cylinders are placed in a rectangular ditch as shown in figure 2. Neglecting friction,
+determine the reaction betw een cylinder A and the vertical wall. Weights of cylinders A,
+B, C are 75 N, 200 N 100N and Radius is 100 mm, 150 mm, 125 mm respectively.    [10]
+Figure: 2
+OR
+3.a) State and Prove Lami‟s Theorem.
+b) A 75 N vertical force is applied to the end of a bar 3 m long which is attached to a shaft at
+O as shown in figure 3. Determine:
+i) The moment of the 75 N force about O
+ii) The magnitude of the horizontal force applied at A which creates the same moment
+about O
+iii) The smallest force applied at A which creates the same moment about O
+iv) How far from the shaft at O a 200 N vertical force must act to create the same
+moment about O?            [4+6]
+Figure: 3
+4. Two identical p lanes AC and BC, inclined at 60 0 and 300 to the ho rizontal meet at C as
+shown in figure 4. A load of 1000 N rests on the inclined plane BC and is tied by a rope
+passing over a pulley to a block weighing W Newton and resting on the plane AC. If the
+coefficient of friction between the load and the plane BC is 0.28 and that between the
+block and the plane AC is 0.20, find the least and greatest values of W for the equilibrium
+of the system.                [10]
+Figure: 4
+OR
+5.a) Determine the magnitude and direction of the friction force acting on the 1 00-kg block
+shown in the figure  5 if, ﬁrst, P = 500 N and, second, P = 100 N are applied. The
+coefﬁcient of static friction is 0.20, and the coefﬁcient of kinetic friction is 0.17. The
+forces are applied with the block initially at rest.
+Figure: 5
+b) A screw jack has square threads of mean diameter 10 cm and pitch is 1.25 cm. Determine
+the force that must be applied at the end of 50 cm long lever, to raise and to lower the
+weight of 50kN. Find the efficiency of screw jack and determine whether it is self -
+locking or not? (Assume μ=0.2)           [5+5]
+6. A corner of radius 20 mm is cut off from a square plate of 40 mm side as shown in the
+figure 6. Find the moment of inertia of the remaining plate about its axes of symmetry.
+[10]
+Figure: 6
+OR
+7.a) With respect to the coordinate axes x and y, locate the centroid of the shaded area shown
+in the figure 7.
+Figure: 7
+b) A uniform wire is bent into the shape as shown in the figure  8. The straight segments lie
+in the X-Z plane and the line of 80 mm length makes an angle of 300 with the X-axis. The
+semi-circular segment is in the X-Y plane. Locate the centroid of the wire.       [5+5]
+Figure: 8
+8.a) Determine the mass moment of inertia of a uniform ring having radius „R‟ and thi ckness
+„t‟.
+b) Determine the mass moment of inertia of a solid cone of height „h‟ and base radius „r‟
+about its axis of rotation.           [5+5]
+OR
+9. A right circular cone made of steel has a height of 500 mm and a base diameter of
+600 mm. A hole 150 mm deep and 200 mm diameter is drilled from the centre of the
+base of the cone and filled with lead. Lead weighs 11400 kg /m3 and steel weighs
+7860 kg/m3. Determine the mass moment of inertia of the resulting solid w ith respect to
+its geometrical axis.                 [10]
+10.a) An engine of mass 50 tonnes pulls a train of mass of 250 tonnes up a gradient of 1 in 125
+with a uniform speed of 36 kmph. Find the power transmitted by the engine, if the
+tractive resistan ce is 60 Newton per tonnes. Also find the power transmitted by the
+engine, if the acceleration of the engine is 0.2 m/s2 up the gradient.
+b) Two bodies A and B of mass 80 kg and 20 kg are connected by a thread and move along
+a rough horizontal plane under the action of a force 400 N applied to the first body of
+mass 80 kg as shown in Figure  9. The coefficient of friction between the sliding surfaces
+of the bodies and the plane is 0.3. Determine the acceleration of the two bo dies and the
+tension in the thread, using D' Alembert‟s principle.          [5+5]
+Figure: 9
+OR
+11.a) The coil spring has a spring modulus k = 200N/mm. How much work must be done to
+compress it the first 30 mm from its free length and additional 20 mm from 30 to 50 mm.
+b) Two blocks weighing 100 N and 40 N are supported at the ends of a rope of negligible
+weight which is passing over a rough surface of pulley mounted on the horizontal axis.
+The pulley may be assumed as a solid disc with a weight of 50 N. Find the tension in two
+ropes and linear acceleration of the blocks.            [4+6]

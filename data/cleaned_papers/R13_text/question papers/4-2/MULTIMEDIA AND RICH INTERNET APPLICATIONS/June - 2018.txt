@@ -1,0 +1,39 @@
+MULTIMEDIA AND RICH INTERNET APPLICATIONS
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Explain 24-bit color images.        [2]
+b)      Discuss about Gamma correction.       [3]
+c)      Discuss about distortion measures.         [2]
+d)      Write basics of information theory.       [3]
+e)      What is temporal masking? Explain.       [2]
+f)       Explain about channel vocoder.       [3]
+g)      Write a brief note on Adobe Flash CS3      [2]
+h)      What are static controls? Explain.       [3]
+i)       Write history of Ajax.         [2]
+j)       Describe asynchronous requests in Dojo.      [3]
+PART - B
+2.a) What are graphics/image data types? Explain.
+b) Explain about CIE chromaticity diagram.      [5+5]
+OR
+3.a) What are color models in video? Explain.
+b) Discuss about macromedia flash.       [5+5]
+4.a) Explain about dictionary-based coding.
+b) Describe the structure of MIDI messages.      [5+5]
+OR
+5.a) Discuss about uniform scalar quantization.
+b) Explain about the JPEG-LS standard.       [5+5]
+6.a) Explain about Web services, mashups, widgets an gadgets.
+b) Distinguish between H.261 and H.263.      [5+5]
+OR
+7.a) Discuss about blogging and tagging.
+b) Explain about hybrid excitation vocoders.      [5+5]
+8.a) Explain about creating a website splash screen.
+b) What are CSS styles? Explain.       [5+5]
+OR
+9.a) Discuss about accessing ID3 information.
+b) Explain about creating composite components.     [5+5]
+10. Explain in detail about Ajax usage in XML and the DOM.    [10]
+OR
+11. Explain the following:
+a) XMLHttpRequest object properties and methods
+b) Rich Internet applications (RIAs) with Ajax.     [5+5]
