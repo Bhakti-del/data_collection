@@ -2,121 +2,69 @@
 
 ## 1. Project Directory Layout
 
-To coordinate 45 contributors across 9 teams without merge conflicts or data overlap, the project uses a strictly segregated directory hierarchy:
+The repository uses a segregated hierarchy to manage datasets, pipeline scripts, syllabus definitions, and documentation:
 
 ```text
 question-paper-predictor/
-├── README.md                                    # Main project overview and team roadmap
-├── problem_descrption_v1.md                     # Initial problem statement
-├── docs/                                        # Architecture & design specifications
-│   ├── dataset_design_and_fields.md             # The 10 decided fields & design decisions
-│   ├── data_crawling_and_sources.md             # Portal crawling & ingestion mechanisms
-│   ├── directory_structure_and_storage.md       # This file: Directory & naming rules
-│   └── syllabus_parsing_and_tagging_guide.md    # Strict syllabus extraction & taxonomy guide
+├── README.md                                    # Project overview
+├── docs/                                        # Architecture & onboarding guides
+│   ├── dataset_design_and_fields.md             # Confirmed 7-field schema specification
+│   ├── pipeline_architecture.md                 # End-to-end pipeline architecture & rules
+│   ├── subject_onboarding_guide.md              # Parallel execution SOP for team members
+│   ├── data_cleaning_guide.md                   # Text normalization, en-dash, and kerning rules
+│   └── setup_and_run.md                         # Pipeline execution guide
 │
-├── data/                                        # Data assets (gitignored for large binaries)
-│   ├── raw_pdfs/                                # Immutable raw PDF files downloaded from portal/drive
-│   │   ├── R13/
-│   │   ├── R15/
-│   │   ├── R16/
-│   │   ├── R18/
-│   │   │   ├── 1st_Year/
-│   │   │   ├── 2nd_Year/
-│   │   │   ├── 3rd_Year/
-│   │   │   └── 4th_Year/
-│   │   └── R22/
-│   │       ├── Question_paper/
-│   │       └── Syllabus/
-│   │
-│   ├── extracted_text/                          # Intermediate text files (PDF -> TXT)
-│   │   └── [Regulation]/[Subject]/
-│   │       └── [Exam_Session].txt               # Cleaned of watermarks, headers, and boilerplate
-│   │
-│   ├── syllabi_configs/                         # Master syllabus JSON files per subject
-│   │   └── [Regulation]/
-│   │       └── [Subject]_syllabus.json          # Parsed units, categories, and topic tags
-│   │
-│   └── processed_dataset/                       # Final structured tabular datasets
-│       ├── questions_master.csv                 # Master dataset with the 10 decided fields
-│       ├── questions_master.parquet             # High-performance columnar format for ML/Lean
-│       └── subject_registry.json                # Normalization dictionary for subject names/aliases
+├── data/                                        # Data assets
+│   ├── Java_Dataset.csv                         # Master verified dataset for Java (R22)
+│   ├── cleaned_papers/                          # Cleaned question paper text files
+│   ├── syllabi_configs/                         # Master syllabus JSON configs per subject
+│   │   └── R22/                                 # Official R22 syllabus JSON configs
+│   │       └── Java_syllabus.json
+│   └── processed_dataset/                       # Production tabular datasets
+│       ├── java_master.csv                      # Canonical master dataset
+│       ├── java_master_final.csv                # In-syllabus 454-row master
+│       └── java_unmatched_archive.csv           # Archived legacy out-of-syllabus questions
 │
-├── scripts/                                     # Automated pipeline tools
-│   ├── 01_crawler.py                            # Crawls JNTUH OSS portal
-│   ├── 02_pdf_to_text.py                        # Text extraction and noise removal
-│   ├── 03_parse_syllabus.py                     # Extracts units, categories, and topics from syllabus PDFs
-│   ├── 04_segment_questions.py                  # Splits text into atomic questions with marks
-│   └── 05_tag_and_export.py                     # Matches topic tags and exports final CSV
+├── scripts/                                     # Automated data collection pipeline tools
+│   ├── clean_papers.py                          # Boilerplate stripper and text regularizer
+│   ├── txt_to_csv.py                            # Question segmentation and mark extraction
+│   ├── local_llm_tagger.py                      # Local LLM syllabus & Bloom classifier (Ollama)
+│   └── extract_images.py                        # Diagram and equation extractor
 │
-├── engine/                                      # Lean 4 constraint solver & verification core
-└── ui/                                          # Elixir + Phoenix LiveView web dashboard
+├── syllabus/                                    # Raw syllabus references
+│   └── R22_CSE_Syllabus.md                      # Official JNTUH R22 CSE Syllabus
+│
+└── tools/                                       # Scraping and batch extraction tools
+    ├── pdf_to_txt.py                            # PDF to text converter
+    └── qpaper_scraper.py                        # Selenium-based crawler
 ```
 
 ---
 
 ## 2. File Naming Conventions
 
-### 2.1 Raw Question Paper PDFs
-Raw exam files must strictly follow this naming syntax:
+### 2.1 Cleaned Question Paper Text Files
+Cleaned exam text files are stored under:
 ```text
-[SubjectName]_[Year]_[Month]_[ExamType].pdf
+data/cleaned_papers/[Regulation]_[text]/Question Papers/[Year-Sem]/[SubjectName]/[ExamSession].txt
 ```
-* **Examples:**
-  - `DataStructures_2019_Nov_Regular.pdf`
-  - `DataStructures_2021_May_Supply.pdf`
-  - `DBMS_2022_Nov_Regular.pdf`
+* **Example:** `data/cleaned_papers/R16_text/Question Papers/2-1/2-1/OBJECT ORIENTED PROGRAMMING THROUGH JAVA/AprilMay - 2018.txt`
 
-* **Allowed Values:**
-  - `[Year]`: 4-digit calendar year (`2009` through `2024`).
-  - `[Month]`: `Nov` (for Winter/Odd Semester exams) or `May` (for Summer/Even Semester exams).
-  - `[ExamType]`: `Regular` or `Supply`.
-
-### 2.2 Intermediate Cleaned Text Files
-When a PDF is converted and cleaned of watermarks and university headers, it is stored as:
+### 2.2 Master Syllabus JSON Files
+Syllabus configuration files must be stored as:
 ```text
-data/extracted_text/[Regulation]/[SubjectName]/[Year]_[Month]_[ExamType].txt
+data/syllabi_configs/R22/[SubjectName]_syllabus.json
 ```
-
-### 2.3 Master Syllabus JSON Files
-Syllabus configs must be stored as:
-```text
-data/syllabi_configs/[Regulation]/[SubjectName]_syllabus.json
-```
-* **Example:** `data/syllabi_configs/R22/Data_Structures_syllabus.json`
+* **Example:** `data/syllabi_configs/R22/Java_syllabus.json`
 
 ---
 
-## 3. Data Flow Between Teams
+## 3. Data Processing Flow
 
 ```mermaid
 flowchart LR
-    subgraph RawLayer ["1. Raw Storage"]
-        RawPDF["data/raw_pdfs/<br/>[Regulation]/[Subject]/[Year]_[Month]_[Type].pdf"]
-    end
-
-    subgraph TextLayer ["2. Text Cleaning"]
-        CleanTXT["data/extracted_text/<br/>[Regulation]/[Subject]/[Year]_[Month]_[Type].txt"]
-    end
-
-    subgraph ConfigLayer ["3. Syllabus Config"]
-        SyllabusJSON["data/syllabi_configs/<br/>[Regulation]/[Subject]_syllabus.json"]
-    end
-
-    subgraph FinalLayer ["4. Structured Dataset"]
-        MasterCSV["data/processed_dataset/<br/>questions_master.csv (10 Fields)"]
-    end
-
-    RawPDF -->|Script 02: pdfplumber / pdftotext| CleanTXT
-    CleanTXT -->|Script 04: Regex Question Splitter| MasterCSV
-    SyllabusJSON -->|Script 05: Topic Tagger| MasterCSV
+    RawTXT["1. Raw Paper Text<br/>(data/cleaned_papers/)"] -->|scripts/clean_papers.py| CleanTXT["2. Clean Regularized Text"]
+    CleanTXT -->|scripts/txt_to_csv.py| Segmented["3. Atomic CSV (7 Columns)"]
+    SyllabusJSON["Syllabus Config<br/>(data/syllabi_configs/R22/)"] -->|scripts/local_llm_tagger.py| VerifiedCSV["4. LLM Verified Dataset<br/>(data/Java_Dataset.csv)"]
+    Segmented --> VerifiedCSV
 ```
-
----
-
-## 4. Git Versioning Guidelines
-
-To prevent the Git repository from becoming bloated:
-1. **Raw PDFs (`.pdf`):** Tracked externally on Google Drive (`Paper Prediction Dataset`). Kept in `.gitignore` on the Git repo.
-2. **Intermediate text dumps (`.txt`):** Kept in `.gitignore`.
-3. **Structured data (`.json`, `.csv`, `.parquet`):** **Tracked in Git** under `data/processed_dataset/` and `data/syllabi_configs/`.
-4. **Code & Documentation:** Tracked in Git under `scripts/`, `docs/`, `engine/`, and `ui/`.
