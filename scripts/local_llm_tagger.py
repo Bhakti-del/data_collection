@@ -13,9 +13,9 @@ from pathlib import Path
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL_NAME = "qwen2.5:3b"
 
-INPUT_CSV = Path("data/processed_dataset/java_master_final.csv")
-OUTPUT_CSV = Path("data/processed_dataset/java_master_llm_verified.csv")
-CHECKPOINT_FILE = Path("data/processed_dataset/.tagger_checkpoint.json")
+INPUT_CSV = Path("data/Java_Dataset.csv")
+OUTPUT_CSV = Path("data/Java_Dataset.csv")
+CHECKPOINT_FILE = Path("data/.tagger_checkpoint.json")
 
 # Structured syllabus units for maximum classification accuracy
 UNIT_STRUCTURE = {
@@ -169,13 +169,7 @@ def run():
         for r in rows:
             writer.writerow(r)
 
-    print(f"\nAll {total} questions verified and saved to: {OUTPUT_CSV.resolve()}")
-
-    # Sync to data/Java_Dataset.csv and data/processed_dataset/java_master.csv
-    import shutil
-    shutil.copy2(OUTPUT_CSV, "data/Java_Dataset.csv")
-    shutil.copy2(OUTPUT_CSV, "data/processed_dataset/java_master.csv")
-    print("Synchronized verified dataset to data/Java_Dataset.csv and data/processed_dataset/java_master.csv")
+    print(f"\nAll {total} questions verified and updated directly in: {OUTPUT_CSV.resolve()}")
 
     if CHECKPOINT_FILE.exists():
         CHECKPOINT_FILE.unlink()

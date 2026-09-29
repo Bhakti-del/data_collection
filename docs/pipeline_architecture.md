@@ -37,7 +37,7 @@ This document details the end-to-end ingestion, segmentation, normalization, and
      ┌─────┴─────────────────────────────────┐
      ▼                                       ▼
 [In-Syllabus Master Dataset]       [Legacy Archive Dataset]
-(data/Java_Dataset.csv)            (data/processed_dataset/java_unmatched_archive.csv)
+(data/Java_Dataset.csv)            (data/java_unmatched_archive.csv)
  • 100% R22 topics only             • Out-of-syllabus legacy topics
  • Used for R22 Prediction models   • JDBC, Servlets, Collections Framework
 ```

@@ -15,15 +15,12 @@ question-paper-predictor/
 │   └── setup_and_run.md                         # Pipeline execution guide
 │
 ├── data/                                        # Data assets
-│   ├── Java_Dataset.csv                         # Master verified dataset for Java (R22)
+│   ├── Java_Dataset.csv                         # Master finalized dataset for Java (454 rows)
+│   ├── java_unmatched_archive.csv               # Archived legacy out-of-syllabus questions
 │   ├── cleaned_papers/                          # Cleaned question paper text files
-│   ├── syllabi_configs/                         # Master syllabus JSON configs per subject
-│   │   └── R22/                                 # Official R22 syllabus JSON configs
-│   │       └── Java_syllabus.json
-│   └── processed_dataset/                       # Production tabular datasets
-│       ├── java_master.csv                      # Canonical master dataset
-│       ├── java_master_final.csv                # In-syllabus 454-row master
-│       └── java_unmatched_archive.csv           # Archived legacy out-of-syllabus questions
+│   └── syllabi_configs/                         # Master syllabus JSON configs per subject
+│       └── R22/                                 # Official R22 syllabus JSON configs
+│           └── Java_syllabus.json
 │
 ├── scripts/                                     # Automated data collection pipeline tools
 │   ├── clean_papers.py                          # Boilerplate stripper and text regularizer
