@@ -1,0 +1,44 @@
+ENGINEERING GRAPHICS
+(Computer Science and Engineering)
+1.a) A vertex of a hyperbola is 50 mm from its focus. Draw two parts of the  hyperbola, if the
+eccentricity is 3/2. Mark asymptotes and directrices.
+b) The distance between two towns is 250 km and is represented by a line of  length 50mm
+on a map. Construct a scale to read 600 km and indicate a distance of 530 km on it.[10+5]
+OR
+2. A circle of 40 mm diameter rolls along a straight line without slipping. Draw the curve
+traced by a point on the circumference for one and a half  revolutions of the circle. Name
+the curve. Draw a normal and tangent to the curve at a point 25 mm from the straight line.
+[15]
+3. A 100 mm long line PQ is inclined at 30° to the HP and 45° to the  VP. A point M lies on
+the line at a distance of 60 mm from the end P and has the front view 15 mm above the
+xy and top  view 25 mm below its front view. Draw the projections of the line and
+determine the traces.          [15]
+OR
+4. A triangular plane PQR h as its vertices P, Q and R at 40 mm, 60 mm and 20 mm  above
+the HP respectively, and 25 mm, 65 mm and 10 mm in front of the VP respectively. If the
+projectors of P and Q are 40 mm apart and those of Q and R are 50 mm apart, determine
+the true shape of the plane PQR.        [15]
+5.   A square pyramid of base side 45 mm and axis 70  mm is resting on its base in the HP
+with a side of base parallel to the VP. Draw its sectional top view, sectional side view and
+true shape of the section  when it is cut by a plane perpendicular to the VP, bisecting the
+axis and is inclined at 45° to the HP.         [15]
+OR
+6. Draw the projections of a cone, base 75 mm diameter and axis 100 mm long, lying on the
+ground on one of its generators with the axis parallel to the VP.     [15]
+7.  Figure 1 shows the front view of a truncated cylinder of diameter 50 mm resting on its
+base on the HP. Draw the development of its lateral surface.    [15]
+Figure 1
+OR
+8. A square prism of base side 60 mm is resting on its base on  the HP. It is  completely
+penetrated by another square prism of base side 40 mm, such that their axes are 10 mm
+apart. The axis of the penetrating prism is parallel to both H.P. and V.P., while the faces
+of both the prisms are  equally inclined to the V.P. Draw the projections of the
+combination and show lines of intersection.       [15]
+9.  Draw the front view, top view and side view of the part shown in figure 2.All dimensions
+are in mm only.          [15]
+Figure 2
+OR
+10.  Construct the isometric view of orthographic views  that are given in figure 3. All
+dimensions are in mm only.        [15]
+Figure 3
+--ooOoo--

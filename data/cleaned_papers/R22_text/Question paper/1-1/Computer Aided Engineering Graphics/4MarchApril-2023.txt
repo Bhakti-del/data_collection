@@ -1,0 +1,59 @@
+COMPUTER AIDED ENGINEERING GRAPHICS
+(Computer Science and Engineering)
+PART- A
+1.a)      What is diagonal scale?        [1]
+b)      What is a rectangular hyperbola?               [1]
+c)      What is a profile plane?           [1]
+d)      What is the difference between regular plane and irregular plane?           [1]
+e)      When do we get the true shape of a solid in side view?            [1]
+f)       What is meant by platonic solid?               [1]
+g)      In development of surfaces, we have to take all dimensions as true lengths – why? [1]
+h)      What type of solids can be accurately developed?             [1]
+i)       What is non-isometric plane?                [1]
+j)       Distinguish between isometric view and isometric projection.            [1]
+PART - B
+2.a)  Construct a diagonal scale 1/50, showing meters, decimeters and centimeters, to measure
+up to 5 meters. Mark a length 4. 68 m on it.
+b) A coin of 40 mm diameter rolls over a horizontal table without slipping. A point on the
+circumference of the coin is in contact with the table surface in the beginning and after
+one complete revolution. Draw the path traced by the point. Draw a tangent and normal
+at a point 25 mm from the table.       [5+5]
+OR
+3.a) Draw A parabola with the distance between directrix and focus as 60 mm. Draw normal
+and tangent at any point on the curve.
+b) Construct a diagonal scale of RF = 1/6250 to read up to 1 km and to read meters on it.
+Show a length of 653 meters on it.       [5+5]
+4.  A line AB inclined at 30 0 to the HP has its ends A and B, 25 mm and 60 mm behind the
+VP, respectively. The length of the top view is 65 mm and its VT is 15 mm below the
+HP. Draw the projections of the line and locate its HT. Also, determine the true length of
+the line AB and true inclination of the line with VP.     [10]
+OR
+5. The end A of diameter AB of a circle is in HP and the end B is in VP. The diameter AB,
+50 mm long is inclined at 300 to HP and at 600 to VP respectively. Draw the projections
+of the circle.          [10]
+6. A cube of 70 mm long edges has its vertical faces equally inclined to the VP. It is cut by
+an auxiliary inclined plane in such a way that the true shape of the cut part is a regular
+hexagon. Determine the inclination of the cutting plane with the HP. Draw front view,
+sectional top view, and true shape of the section.      [10]
+OR
+7. A hexagonal prism of side of base 35 mm and axis length 55 mm rests with its base on
+the HP such that two of the vertical surfaces are perpendicular to VP. It is cut by a plane
+inclined at 500 to HP and perpendicular to VP, and passing through a point on the axis at
+a distance of 15 mm from the top. Draw its front view, sectional top view, and the true
+shape of section.          [10]
+8.  A cone of base diameter 40 mm and slant height 60 mm is kept on the ground on its base.
+An AIP inclined at 45° to the HP cuts the cone through the midpoint of the axis, and the
+top portion is removed. Draw the development of the remaining portion of cone. [10]
+OR
+9. A cylinder of 50 mm base diameter and axis 70 mm long rests on its base in the HP. A
+square cutout of 35 mm side is drilled through the cylinder such that the axis of cutout is
+perpendicular to the axis of the cylinder. The center of the cutout is 35 mm above HP and
+15 mm away from the axis of cylinder. Two faces of the cutout are equally inclined to
+HP. Develop the lateral surfaces.       [10]
+10.  Draw the front view, top view, and side view of the object shown in Figure.1. [10]
+Figure.1
+OR
+11.  The front and top views of an object are shown in Figure.2. Draw its isometric projection.
+[10]
+Figure.2
+---ooOoo—

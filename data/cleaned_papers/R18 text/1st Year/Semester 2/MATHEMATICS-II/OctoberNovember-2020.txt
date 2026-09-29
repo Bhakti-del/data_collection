@@ -1,0 +1,56 @@
+MATHEMATICS-II
+1.a) Solve the D.E
+2 20xp yp x    for p.
+b) The temperature of the hot body reduces from 120 0C to 80 0C in 12 minutes. Find when
+the temperature will be reduced to 40 0C if the temperature of the surrounding air is 30 0C.
+[7+8]
+2.a) Solve the differential equation
+3.dy y xdx x
+b) The number of bacterial in a culture doubled in 2 hrs. When it will be tripled? [7+8]
+3.a) Solve the D.E
+   
+2 3 2 2cos 2 3 2 xD D y x e    
+b) Solve the D.E
+ 
+2
+2 ( 2) 3 4.x y x y y x            [7+8]
+4.a) Solve the D.E
+ 
+2 2 44 cosD y x x  
+b) Solve the D.E
+2 3 5 cos(log )x y xy y x x         [7+8]
+5. Evaluate
+22
+0
+axa
+ax
+y dx dy
+
+
+  by change of order of integration.    [15]
+6.a) Evaluate
+1
+22
+0
+a
+y x y
+x dx dy
+xy   by changing into polar co-ordinates.
+b) Evaluate
+22( )/sin θπ/2
+0 0 0
+θ
+a r aa
+r dr d dz
+
+         [7+8]
+7. Find the constants ‘a’ and ‘b’ such that the surfaces
+25 2 9 0x yz x    and
+23 4ax y bz
+cuts orthogonally at (1,-1, 2).
+[15]
+8. Verify stoke’s theorem to evaluate
+()
+c
+y dx z dy x dz  where c is the curve of
+intersection of the sphere x2 + y2 + z2 = a2 and x + z = a.    [15]

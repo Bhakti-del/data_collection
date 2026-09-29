@@ -1,0 +1,20 @@
+SOFTWARE ENGINEERING
+1.a)  Describe the various software myths.
+b)  Explain the overview of unified process model.      [7+8]
+2.a)  Explain in detail about evolutionary process model.
+b)  What are the advantages of layered technology?     [8+7]
+3.a)  Describe the structure of Software Requirements document.
+b)  Briefly explain about Context models.      [7+8]
+4.a)  Explain the differences between functional requirements and non -functional
+requirements.
+b)  Briefly explain about structured methods.      [7+8]
+5.a) Briefly explain about interface analysis and interface design steps.
+b)  Write a short note on class diagrams.       [8+7]
+6.a)  Write a short note on component diagrams.
+b)  Explain the process of creating models and the factors that should be considered when
+building models.         [7+8]
+7.a)  What are the metrics for Analysis Model? Explain.
+b)  Write a short note on system testing.       [8+7]
+8.a)  Describe about formal technical reviews.
+b)  Explain the methods for Risk Identification.      [7+8]
+used paper feb-22 jntu

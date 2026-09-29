@@ -1,0 +1,16 @@
+INTERNET OF THINGS
+(Computer Science and Engineering)
+1.a) Explain the Physical Design of IoT.
+b) Discuss the Wireless Sensor Networks.      [8+7]
+2.a) Give a brief note on IoT communication models.
+b) Describe the IoT Communication APIs IoT enabaled Technologies.   [8+7]
+3. With the help of a neat diagram, explain the M2M architecture.   [15]
+4.a) Difference between the SDN and NFV for IoT.
+b) Explain the network function virtualization.      [8+7]
+5. Write short notes on the following:
+a) URLLib  b) SMTPLib         [8+7]
+6. Describe the XML and HTTP Lib in detail.      [15]
+7. List and explain the interfaces are available with Raspberry Pi.   [15]
+8.a) Elaborate on the Amazon web services for IoT.
+b) Explain the Microsoft Azure IoT Hub.      [8+7]
+---oo0oo---

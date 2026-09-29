@@ -1,0 +1,41 @@
+INFORMATION SECURITY
+(Computer Science and Engineering)
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Specify the components of encryption algorithm.     [2]
+b)      Mention the drawback of Steganography.      [3]
+c)      Specify the applications of the public key cryptosystem.    [2]
+d)      Specify the design criteria of block cipher.      [3]
+e)      What is meant by Kerberos?        [2]
+f)       What is the role of compression function in hash function?    [3]
+g)      What are the benefits of IP Security?       [2]
+h)      Explain the digital signature service provided by PGP.    [3]
+i)       What are the limitations firewall?       [2]
+j)       Discuss about virtual electrons.       [3]
+PART - B
+2.a)  List and explain different types of Security Attacks.
+b)  Discuss about Network security model with neat illustration.    [5+5]
+OR
+3.a)  Explain the playfair cipher with example.
+b)  Explain the transposition technique.        [5+5]
+4.a)  With a neat block diagram explain the single round of DES algorithm.
+b)  Discuss about various cipher block modes of operation.     [5+5]
+OR
+5.a)  Explain RSA algorithm.
+b)  In a RSA system, it is given that p = 11, q = 13, e = 7 and M = 5, Find ciphertext C and
+also M from decryption.        [5+5]
+6.a)  Give the general format of X.509 certificate.
+b)  Give the design objectives for HMAC.      [5+5]
+OR
+7.a)  Give the requirements that must be met by authentication.
+b)  Discuss about Secure Hash Algorithm (SHA).     [5+5]
+8.a)  What do you mean by Security Association? Specify the parameters that identify the
+Security Association.
+b)  Explain the IP security architecture.       [5+5]
+OR
+9.  Explain PGP Message generation and PGP message reception techniques.    [10]
+10.a)  Discuss about the attacks on Packet Filtering Firewall.
+b)  Discuss in detail about the Distributed Intrusion Detection.    [5+5]
+OR
+11.  Describe the following:
+SET operation, SET features, Dual signature and payment processing.    [10]

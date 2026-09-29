@@ -1,0 +1,38 @@
+INFORMATION SECURITY ASSESSMENTS AND AUDITS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) Define information security.        [2]
+b) Explain the ethics of an information security auditor.      [3]
+c) What is mean by Pre-Audit checklist?      [2]
+d) Explain the web application security auditing.      [3]
+e) What is the role of vulnerability management?     [2]
+f) What is the purpose of countermeasures? Explain.      [3]
+g) What is meant by residual risk?       [2]
+h) Explain the risk acceptance.         [3]
+i) What is an example of configuration management?     [2]
+j) What is the main objective of configuration management in testing?  [3]
+PART - B
+2.a) Write the importance of Information Security performance metrics.
+b) Discuss the various functions of infrastructure and network.    [5+5]
+OR
+3.a) Discuss the legal, ethical and professional issues related to  Information Security.
+b) Illustrate security server and storage devices in detail.    [5+5]
+4. Discuss the social engineering security auditing.      [10]
+OR
+5.a) Explain about the IDS security auditing.
+b) Describe the firewall security audit.        [5+5]
+6. Explain the human based social engineering.      [10]
+OR
+7.a) Discuss the threat management.
+b) Elaborate the computer based social engineering.     [5+5]
+8. List and explain the types of the vulnerability assessment.    [10]
+OR
+9. Explain the information security risk assessment.        [10]
+10.a) How do you perform configuration testing? Explain.
+b) Explain the functions of software configuration management.    [5+5]
+OR
+11. Describe the development of configuration control policies.     [10]
+used paper July/Aug-2023
+---oo0oo---
+used paper July/Aug-2023

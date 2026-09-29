@@ -1,0 +1,37 @@
+COMPUTER GRAPHICS
+and may have a, b as sub questions.
+PART - A
+1.a) How does video display work?       [2]
+b) Explain the architecture of a raster-graphics system with a display processor. [3]
+c) How to perform general pivot point rotation and general fixed point scaling?  [2]
+d) Discuss the composite transforms.       [3]
+e) Briefly describe the sweep representation of 3D objects.    [2]
+f) List the types of 3D object representation.      [3]
+g) How wireframe displays might be generated with the various visible-surface detection
+methods?          [2]
+h) What are the advantages of Backface detection method?    [3]
+i) What is animation in computer graphics PDF?     [2]
+j) Give a brief note on raster animation.       [3]
+PART – B
+2.a) Describe the Scan line polygon fill algorithm.
+b) Explain the random scan systems.       [5+5]
+OR
+3.a) List and explain the application areas of Computer Graphics.
+b) What are Graphic primitives? Mention some typical graphic primitives that a package
+may provide.          [5+5]
+4. Explain the Cohen-Sutherland line clipping algorithm with an example.    [10]
+OR
+5. Derive the 2D transformation matrix for rotation about an arbitrary point.    [10]
+6. Explain the 3D reflection and shear transformations.       [10]
+OR
+7. Derive the transformation matrix for Hermite Curve.      [10]
+8. Write a program to display the visible surfaces of a convex polyhedron using the BSP -
+tree method.            [10]
+OR
+9. Illustrate the two image spac e methods that are used to deal with visible surface
+detection.             [10]
+10.a) Explain the computer animation languages.
+b) Give a brief note on keyframe systems.      [5+5]
+OR
+11. Explain the general computer animation functions in detail.      [10]
+---oo0oo---

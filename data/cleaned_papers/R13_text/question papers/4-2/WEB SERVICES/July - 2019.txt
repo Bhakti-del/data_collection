@@ -1,0 +1,35 @@
+WEB SERVICES
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What are the goals of SOA?       [2]
+b)      List out the technical benefits of SOA.     [3]
+c)      What are the main uses of header in a SOAP message?   [2]
+d)      Give an example of Structure type in SOAP encoding styles.  [3]
+e)      What is the role of WSDL?       [2]
+f)      Discuss about Web Service Life Cycle.     [3]
+g)      What is the use of UDDI data structure  <businessEntity>?   [2]
+h)      Differentiate between public and private UDDI registries.   [3]
+i)       What is the purpose of SOAP Proxies?     [2]
+j)       What are the challenges in creating Web Services Interoperability?  [3]
+PART - B
+2.a) Explain about operational Model of Web Services.
+b) Briefly discuss about Core Distributed Computing Technologies.   [5+5]
+OR
+3.a) What is a web service? Define and explain the operational model of web services.
+b) Explain the web service architecture and its characteristics.    [5+5]
+4. What are the main components of SOAP message? Explain each of them using examples .
+[10]
+OR
+5.a) Explain the SOAP encoding.
+b) Give a short note on Java and Axis.       [5+5]
+6. List out various WSDL tools and discuss each of their functionalities.  [10]
+OR
+7. Briefly discuss about different components of a WSDL document, using examples.[10]
+8. List and explain various APIs used for communicating with a UDDI registry. [10]
+OR
+9. Give briefly the programming steps for:
+a) Publishing and  b) Searching in UDDI.     [5+5]
+10. What are different means of ensuring Interoperability? Briefly discuss each of them.[10]
+OR
+11. Explain in detail various components of Microsoft .Net Framework.  [10]

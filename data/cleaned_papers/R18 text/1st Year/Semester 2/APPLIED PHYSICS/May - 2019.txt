@@ -1,0 +1,75 @@
+APPLIED PHYSICS
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What is Photo-electric effect. Give the Einstein’s equation.  [2]
+b) What are donors and acceptors? Give two examples of each. [2]
+c) What are direct and Indirect band gap semiconductors       [2]
+d)      Explain Population Inversion and how is it achieved?             [2]
+e) State the Faraday’s Law.                                                  [2]
+f) Give the Born’s interpretation of wave function.              [3]
+g) Explain the concept of Hall effect.     [3]
+h) Give three differences between semiconductor laser and LED. [3]
+i) Explain the construction of optical fiber.                          [3]
+j) Derive the relation between B̅ , H̅  and M̅                                      [3]
+PART-B
+2.a) Derive an expression  for the wavelength λ of the matter waves.
+b) Describe a experiment to verify the existence of matter waves.
+c) For an electron in a one -dimensional infinite potential well of width 1A 0, calculate the
+energy separation between the two lowest energy levels  and also calculate the frequency
+and wavelength of the photon corresponding to a transition between these two levels.
+[10]
+OR
+3.a) Explain Heisenberg’s Uncertainty principle.
+b) Using the Heisenberg’s Uncertainty principle explain why electron cannot exist in the
+nucleus of radius 10-14m.
+c) Show that the particle trapped in a potential box possesses discrete energy levels. [10]
+4.a) What are intrinsic and extrinsic semiconductors?
+b) Distinguish between N-type and P-type semiconductors with an example.
+c) A rectangular plate of a semiconductor has dimensions 2.0 cm along y direction, 1.0 mm
+along z-direction.  Hall probes are attached on its two surfaces parallel to x z plane and a
+magnetic field of 1.0 tesla is applied along z -direction.  A current of 3.0 mA is set up
+along the x direction.  Calculate the hall voltage measured by the probes, if the hall
+coefficient of the material is 3 .66  10–4m3/C.  Also, calculate the charge carrier
+concentration.          [10]
+OR
+5.a) The conductivity of N -type Germanium semiconductor is 39 Ω -1m-1. If the mobility of
+electrons in Germanium is 0.39 m2V-1s-1, then find the concentration of the donor atoms.
+b) Define Fermi level. Where does a Fermi level exist in a Intrinsic semiconductor, P -type
+semiconductor and N- type semiconductor at moderate temperature?
+c) Explain the working for a Common Base PNP transistor with a suitable circuit diagram.
+[10]
+6.a) What is a photodetector? Explain the principle of photodetection in semiconductors.
+b) When 3 × 1011 photons each with wavelength of 0.85µm are incident on a photodiode, on
+average 1.2 × 1011 electrons are generated. Determine the quantum efficiency and
+responsivity.
+c) What is a solar cell? Explain with a neat diagram. Define the efficiency and fill factor.
+[10]
+OR
+7.a) Explain the construction and working of a LED.
+b) What are the major differences between PIN and Avalanche photodiode?
+c) A silicon photodiode has quantum efficiency of 65%  with photon energy 1.5 ×10-19 J. Its
+band gap energy is 0.67eV. Calculate:
+i) Responsivity (R)
+ii) Incident power required to obtain a photo current 2.5 µA (Po)?.   [10]
+8.a) Explain the construction, principle and working of Ruby laser.
+b) A He-Ne gas laser of wavelength 6328 Å has an output power of 2.3 mW. How many
+photons are emitted each minute when it is operated?
+c) Explain about the different modes that are propagated through step -index and graded -
+index fiber?          [10]
+OR
+9.a) Elaborate the various applications of laser in the field of medicine and military.
+b) Discuss the concept of Acceptance angle and Acceptance cone of a fiber. D erive a
+relation between acceptance angle and the refractive indices of core and cladding
+materials.
+c)  The numerical aperture of an optical fiber is 0.5 and core refractive ind ex 1.54.  i) Find
+refractive index of cladding; ii) Calculate the change in core cladding refractive index
+per unit refractive index of the core.       [10]
+10.a) What is dielectric polarization? Describe briefly types of polarizations.
+b) Derive Clausius-Mosotti relation for a cubic dielectric structure.
+c) Write notes on ferroelectricity and piezoelectricity.     [10]
+OR
+11.a) Derive a relation between electric polarization and electric susceptibility of the dielectric
+medium.
+b) Describe dielectric displacement, dielectric loss, dielectric strength.
+c) Describe the Hysteresis loop of ferromagnets.  How can it be used to distinguish between
+hard and soft magnetic materials?       [10]

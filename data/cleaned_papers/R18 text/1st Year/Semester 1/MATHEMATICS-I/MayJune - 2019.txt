@@ -1,0 +1,148 @@
+MATHEMATICS-I
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) If A is orthogonal matrix, prove that AT  and A-1are also orthogonal.   [2]
+b) Find the Eigen values of A2, if A=
+
+
+
+
+
+
+
+
+
+
+100
+120
+021 .     [2]
+c) State Cauchy’s integral test.        [2]
+d) State Rolle’s theorem.         [2]
+e) State Euler’s theorem for homogeneous function in x and y.    [2]
+f) State the conditions when the system of non homogenous equations AX=B will have
+i) unique solution ii) Infinite no of solutions   iii) No solution.   [3]
+g) Prove that the Eigen values of a skew- Hermitian matrix are purely imaginary or zero.
+[3]
+h) State Leibnitz test.          [3]
+i) Evaluate
+3 7
+0
+.xe x dx
+
+          [3]
+j) Find
+),,(
+),,(
+zyx
+wvu
+
+ , if
+zzandyxvzyxu  , .    [3]
+PART- B
+2. Using Gauss Seidel method solve 25x + 2y + 2z = 69, 2x + 10y + z = 63, x + y +z = 43.
+[10]
+OR
+3. Solve the system of equations x – y + 2z = 4, 3x + y + 4 z = 6, x + y + z = 1 using Gauss
+elimination method.         [10]
+4.  Find Eigen values and Eigen vectors of
+
+
+
+
+
+
+
+
+
+
+
+
+
+121
+211
+112 .    [10]
+OR
+5.  Find Eigen values and Eigen vectors of
+6 2 2
+2 3 1
+2 1 3
+
+
+  .    [10]
+6.a) Test the convergence of the series
+
+
+
+
+0 )!3(
+)!1(!
+n n
+nn .
+b) Find the radius of convergence of the series
+
+
+ 0
+4
+33
+1n
+n
+n
+xn .    [5+5]
+OR
+7.  Does the series
+
+
+ 
+
+0 2 1
+)1(
+n
+n
+n  converge absolutely, conditionally or diverge? [10]
+8.a) Expand tan-1x  in powers of (x-1) using Maclaurin’s theorem.
+b) Find the volume of the solid that results when the region enclosed by the curves xy = 1,
+x -  axis and x = 1 rotated about x – axis.      [5+5]
+OR
+9.a) Verify Cauchy mean value theorem for the functions ex  and e –x in the interval (a,b).
+b) Evaluate
+dxex x
+
+
+
+0
+4 2  Beta and Gamma.      [5+5]
+10.a) If u = log
+
+
+
+
+
+
+
+
+yx
+yx 22  prove that x
+x
+u
+
+ + y
+y
+u
+
+  = 1.
+b) If x + y + z = u, y + z = uv, z = uvw, then evaluate
+),,(
+),,(
+wvu
+zyx
+
+ .   [5+5]
+OR
+11.a) Show that U =
+zex y cosh2  , V =
+zex y sinh2  , w =
+zxyzxyzyx  222 are
+functionally dependent. If dependent find the relationship between them.
+b) Find the maximum of
+222 zyx   such that 2x+3y+z=14 using Lagrange’s multiplier
+method.          [5+5]

@@ -1,0 +1,44 @@
+MATHEMATICAL METHODS
+1.a) From the data find number of students who obtained marks between 40 and 45.
+Marks 30-40 40-50 50-60 60-70 70-80
+Number of students 31 42 51 35 31
+b) Using Lagrange’s interpolation, find the interpolating polynomial for the data:     [8+7]
+X 0 1 3
+F(X) 1 3 55
+2.a) Using the least square method fit a straight line for the following data:
+X -1 0 1 2
+Y(X) 1 0 1 4
+b) Using the least square approximation fit a quadratic polynomial for the data:      [8+7]
+X 0 1 2
+Y(X) 1 6 17
+3.a) Using the Newton Raphson Method, find the cube root of 12.
+b) Solve the following system by Gauss-Seidel method:
+3210 4321  xxxx
+15102 4321  xxxx
+27210 4321  xxxx
+9102 4321  xxxx
+[8+7]
+4.a) The velocity V(km/min) of a moped which starts from rest is given a t fixed intervals of
+the time T(min) as follows:
+T 2 4 6 8 10 12 14 16 18 20
+V 10 18 25 29 32 20 11 5 2 0
+Using the 1/3 Simpson’s rule estimate the distance covered in 20 minutes.
+b) Using 4th order Runge Kutta Method, with h =0.1 find y(0.1) from y = y - x with y(0) = 2.
+[8+7]
+5. Expand
+( ) sin ,   0 2f x x x x     as a Fourier series.          [15]
+6. A tightly stretched string of length has its ends fastened at x=0 and x=L. The mid- point of
+the string is them taken to height h and then released from rest in that position. Find the
+expression for the displacement of the string at any point at any time.        [15]
+7. A bar of 10 cms lo ng with insulated sides has its ends A and B maintained at temperature
+50 0C and 100 0C respectively until the steady state conditions prevail. The temperature at
+A is suddenly raised to 90  0C and at the same time that at B is reduced to 60  0C. Find the
+temperature distribution in the bar at any point at any time.           [15]
+8. Verify the Stroke’s theorem for
+22( ) 2F x y i xyj  
+taken around the rectangle bounded
+by the lines
+xa ,
+0y , and
+yb .             [15]
+--ooOoo--

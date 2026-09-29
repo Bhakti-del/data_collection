@@ -1,0 +1,33 @@
+BASIC ELECTRICAL ENGINEERING
+1.a) State and explain the Kirchhoff’s laws.
+b) By applying Kirchhoff’s law s, determine the current through all the elements in the
+circuit  as shown in the figure 1.       [6+9]
+Figure: 1
+2.a) State and explain Thevenin’s theorem.
+b)  Using superposition theorem , determine the current through 3 ohm resistor shown in
+following figure 2 (All resistance are in ohms).     [7+8]
+Figure: 2
+3.a) Define the  following terms:
+i) Cycle    ii) Amplitude
+iii) R.M.S value and    iv) Average value of an alternating quantity.
+b) A coil having a resistance of 10 ohms and an inductance of 0.2H is connected in series
+with a 100×10-6 F capacitor across a 230V, 50Hz, determine
+i) The active and reactive components of the current and power.
+ii) The voltage across the coil, Draw the phasor diagram.    [6+9]
+4.a)  What are the advantages of polyphase system?
+b) Determine the line and phase current of the load,  when a delta connected balanced load
+with an impedance of ( 25+j15) ohms is connected to 2 30V, three phase balanced supply
+in positive sequence.         [6+9]
+5.a) Develop the equivalent circuit of a single phase transformer.
+b) A 220/440 V single phase transformer has 1000 turns on primary. The maximum flux
+density in the core is 1.2 Wb/m 2. Calculate the number of turns on secondary, area of
+cross section and maximum flux in the core.      [6+9]
+6.a) Explain the different 3-phase transformers connections with neat diagram.
+b) The core of a 100 kVA, 11000/550V, 50 Hz, single phase core type transformer has a
+cross section of 20cm × 20 cm. Determine  i) the number of H.V. and L.V turns per phase
+and ii) the e.m.f. per turn, if the maximum core density is 1.3 tesla.   [8+7]
+7.a)  Explain the speed control of 3-phase induction motor.
+b) A 6-pole, 100 HP, 3 -phase, 440-V, 50Hz induction motor has a slip of 5% on full load.
+Calculate the speed of the motor?       [9+6]
+8.a) Describe the miniature circuit breaker with neat diagrams.
+b) Explain different types of wires used in electrical wiring.    [7+8]

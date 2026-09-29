@@ -1,0 +1,18 @@
+NATURAL LANGUAGE PROCESSING
+(Computer Science and Engineering)
+1.a) List and explain the challenges of morphological models.
+b) Discuss the importance and goals of Natural Language Processing.   [7+8]
+2.a) Elaborate the Models for Ambiguity Resolution in Parsing.
+b) With the help of a neat diagram, explain the Representation of Syntactic Structure.
+[8+7]
+3. Explain the Word Sense Systems in detail.                               [15]
+4.a) Difference between predicate and Predicator.
+b) Write a short note on Meaning Representation Systems.    [8+7]
+5.a) Elaborate the Multilingual and Cross-lingual Language Modeling.
+b) Illustrate the Discourse Cohesion and Structure.     [8+7]
+6. Explain the performance of approaches in Structure of Documents.     [15]
+7. Describe the Cohesion and Reference Resolution.       [15]
+8. Explain the following:
+a) Semantic Parsing with Execution
+b) Language Model Adaptation       [7+8]
+USED PAPER MARCH-2021

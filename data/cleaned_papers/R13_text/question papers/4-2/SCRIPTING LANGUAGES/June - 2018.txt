@@ -1,0 +1,39 @@
+SCRIPTING LANGUAGES
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a) What do you mean by web scripting?       [2]
+b) Give the syntax for Names and values in PERL.     [3]
+c) What is the need of pack and upack in PERL?     [2]
+d) What are the function libraries in PHP?      [3]
+e) Define Mcrypt package.        [2]
+f) What are web forms?         [3]
+g)      What are the uses of sources in Tcl?       [2]
+h)      What is uplevel command in Tcl?       [3]
+i)       How to give command line arguments in Python?     [2]
+j)       What are the different modes in which a file can be opened in Python?  [3]
+PART - B
+2.a) Explain the origin of scripting and  today’s scripting issues.
+b) What are the uses of scripting? Explain.      [5+5]
+OR
+3.a) What are regular expressions? Explain about pattern matching, substitution operators in
+PERL.
+b) Explain in detail about lists and hashes in PERL with required examples.  [5+5]
+4.a) Explain the data structures used in PERL scripts.
+b) Explain how to create an interface to operating system in PERL.   [5+5]
+OR
+5.a) Write about how to output the data to a browser in PHP with an example.
+b) Write a short notes on string interpolation and arrays  in PHP.   [5+5]
+6.a) Compare and explain various PHP authentication methodologies.
+b) What is the procedure for sending email using PHP? Explain with an example. [5+5]
+OR
+7. Explain in detail how to build web sites for the world in PHP with an example. [10]
+8.a) Discuss about input and output operations in Tcl.
+b) Using an example explain how to create event driven program in Tcl.  [5+5]
+OR
+9.a) Discuss various security issues to be handled in Tcl.
+b) Explain event handling and binding in Tk.      [5+5]
+10.a) Explain how to create modules in Python using an example.
+b) How are exception are handled in Python?       [5+5]
+OR
+11. Explain in detail with an example how to create a web application in Python.   [10]

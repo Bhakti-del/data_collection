@@ -1,0 +1,23 @@
+COMPUTER NETWORKS
+1.a) Discuss about guided and unguided transmission media.
+b) Draw a basic block diagram of ARQ and explain Selective Repeat ARQ Method.[7+8]
+2.a)  Write short notes on the following:
+(i) Client server model (ii) Peer to Peer (iii) Interfaces and services (iv) Protocols
+b)  Explain one bit sliding window protocol. Give the advantages and disadvantages of
+one-bit sliding window protocol?              [8+7]
+3.a) Explain collision-free protocols.
+b) Compare and contrast between Transparent and Source routing bridges.   [7+8]
+4.a) Discuss about the assumptions in case of dynamic channel allocation in LANs and
+WANs?
+b) What are the different types of networking / internetworking devices?    [8+7]
+5.a) What is non- adaptive routing. Explain any two non- adaptive routing algorithms.
+b) Differentiate between open loop and closed loop congestion control.      [8+7]
+6.a) Explain link state routing in detail.
+b) Explain about Dijkstra’s shortest path routing algorithm with example.  [7+8]
+7.   What is Logical address and Physical address in computer networks? Why a mapping
+from logical address to physical address and vice versa is required? Explain the
+protocols which perform it.           [15]
+8.a) Explain the http request and response methods.
+b) Explain TCP connection management modeling.     [7+8]
+---oo0oo---
+USED PAPERSSEP-2021

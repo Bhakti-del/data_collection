@@ -1,0 +1,21 @@
+SOFTWARE ENGINEERING
+(Computer Science and Engineering)
+1.a)  Explain various phases in incremental process model.
+b)  What are process patterns? Explain.        [8+7]
+2.a)  Briefly explain about spiral process model.
+b)  Discuss about a process framework of software engineering.    [8+7]
+3.a)  Discuss about the functional and non-functional requirement.
+b)  Describe the requirements elicitation and analysis  phases of the requirements
+engineering process.          [8+7]
+4.a)  Distinguish between functional and non-functional requirements.
+b)  Explain about object models in detail.      [8+7]
+5.a)  Explain the fundamentals concepts of design process.
+b)  Summarize the architectural styles and patterns.      [8+7]
+6.a)  Describe task analysis and modeling in user interface design.
+b)  Discuss concepts of cohesion and coupling.       [8+7]
+7.a)  Explain about test strategies for object-oriented software.
+b)  What are function-based metrics? Explain.       [8+7]
+8. Explain the following:
+a) Risk projection
+b) Software reviews.          [8+7]
+---oo0oo---

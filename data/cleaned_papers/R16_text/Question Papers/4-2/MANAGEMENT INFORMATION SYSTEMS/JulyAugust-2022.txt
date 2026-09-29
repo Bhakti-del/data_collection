@@ -1,0 +1,25 @@
+MANAGEMENT INFORMATION SYSTEM
+1.a) What do you understand by a System? Discuss the characteristics of a system.
+b) Explain why ‘Feedback’ and ‘Control’ are considered as the ‘Key System
+Concepts’?          [8+7]
+2.a) Discuss in detail the various types of Information Systems.
+b) Brief on system development life cycle.      [8+7]
+3.a) What do you understand by systems vulnerability and abuse? Explain with examples.
+b) Discuss the various types of vulnerability.      [8+7]
+4.a) What is the purpose of Information System Audit? How do you audit information
+systems? Explain.
+b)  What do you understand by Audit risk? Discuss the types of audit strategies in brief.
+[8+7]
+5.a) Discuss the methodology for selecting suitable platform for ERP?
+b) What are the elements of an Integrated Management System  (IMS)? And write the
+benefits of IMS.         [8+7]
+6. With the help of a diagram , explain the processes/activities of Finance and Accounting
+systems management module of ERP package. How this module helps in improving  on
+profitability and controlling the costs of an enterprise? Discuss.   [15]
+7.a) Why do you think ERP is the backbone of e -Business? Discuss with suitable
+examples.
+b) How does ERP help in reducing costs and improving quality? Explain with
+examples.           [8+7]
+8.a) What do you understand by ERP implantation life cycle? Explain.
+b) Discuss the various ERP implementation Strategies in brief.    [8+7]
+---oo0oo---

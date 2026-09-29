@@ -1,0 +1,20 @@
+WEB TECHNOLOGIES
+(Computer Science and Engineering)
+1.a)  List and explain the control structures used in PHP.
+b)  List and explain the operators used in PHP.      [7+8]
+2.a)  Explain about the file operations in PHP.
+b)  How to list the directories in PHP?       [7+8]
+3.a)  Explain XML schema languages.
+b) Write a short note on DOM.        [7+8]
+4.a)  Explain in detail how XML data is parsed with an example.
+b)  What is a ‘XML Parser’?        [7+8]
+5.a)  What are the advantages of Servlets over CGI.
+b)  What is a ‘servlet’? Explain the life cycle of a servlet with an example servlet program.
+[7+8]
+6.a)  Demonstrate the use of cookies in servlets with an example.
+b)  Mention two web servers that support CGI programming.    [7+8]
+7.a)  Describe the anatomy of a JSP page.
+b)   Write a in brief about JSP Declarations.      [7+8]
+8.a)   What is JavaScript? What are the features of JavaScript?
+b)   Write a JavaScript to display whether given number is a prime or not.  [7+8]
+used paper feb-22 jntu

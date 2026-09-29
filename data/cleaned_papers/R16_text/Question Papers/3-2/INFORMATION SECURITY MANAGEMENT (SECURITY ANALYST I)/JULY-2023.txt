@@ -1,0 +1,42 @@
+INFORMATION SECURITY MANAGEMENT
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)   Define Information Security.         [2]
+b)   Differentiate between Direct and Indirect attacks.     [3]
+c)   What is Network Security?        [2]
+d) What is integrity?         [3]
+e)   What are the Logical Elements of Network?      [2]
+f)   What is the utility of Information?       [3]
+g)  Define Enterprise Information Security Policy.     [2]
+h)  Define Security audit.         [3]
+i)   What are the security procedures?       [2]
+j)   Write the role of Security Engineers.       [3]
+PART – B
+2.a)  Discuss about Threats.
+b)  What are the differences between Denial of Service Attack and a Distributed Denial of
+Service attack?         [5+5]
+OR
+3.a) What is computer security concerns?
+b) Explain about common vulnerabilities and exposures.    [5+5]
+4.  Discuss about different logical key elements of Networks.         [10]
+OR
+5.  Briefly discuss about:
+a) Characteristics of critical information
+b) Information States.         [5+5]
+6.a)  What are various types of networks and host based security software’s?
+b)  Write short notes on Syslog Security.       [5+5]
+OR
+7.a)  What are the security objectives of key management policy?
+b)  Write short notes on Kerberos.       [5+5]
+used paper July/Aug-2023
+8.a)  What is the necessity of Information Security Policy?
+b)  List out the key elements and characteristics of Information Security Policy. [5+5]
+OR
+9.a)  Explain about on Interdependencies in Audit Trial.
+b)  Discuss about Logical Security Audit.      [5+5]
+10.  Define Information Security Governance. Who is plan for it in the organization?   [10]
+OR
+11.  What is Risk Analysis Process? Explain the steps how team responding to emer gency
+Situation.            [10]
+used paper July/Aug-2023

@@ -1,0 +1,42 @@
+DISTRIBUTED SYSTEMS
+(Computer Science and Engineering)
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Define and explain about the distributed systems.     [2]
+b)      What is mean by resource sharing? Explain.      [3]
+c)      Present a note on external synchronization.        [2]
+d)      Write about election algorithm.       [3]
+e)      Differentiate unicast and multicast communication.     [2]
+f)       Write a short note on group communication.      [3]
+g)     Discuss about distributed shared memory.      [2]
+h)      What are the requirements of the distributed file systems?    [3]
+i)       What is deadlock? Explain.        [2]
+j)       Write about two phase locking.       [3]
+PART - B
+2.a)  Explain about architectural elements.
+b)  Write a short notes on characteristics of distributed systems.   [5+5]
+OR
+3.  Explain in brief about system models of distributed systems.     [10]
+4.a)  Discuss about distributed mutual exclusion.
+b)  Discuss about consensus and related problems.     [5+5]
+OR
+5.a)  Explain about clocks, events and process states.
+b)  Discuss about global states.        [5+5]
+6.a)  Discuss about the API  for the Internet protocols.
+b)  Explain about IPC in UNIX.        [5+5]
+OR
+7.a)  Discuss about communication between distributed objects.
+b)   What is a Remote Procedure Call(RPC)? Explain.     [5+5]
+used paper 27-04-2018
+8.a)  Explain about Andrew file system.
+b)  Explain about design and implementation issues of distributed shared memory. [5+5]
+OR
+9. Explain the following.
+a) Directory services.
+b) Release consistency in distributed shared memory.    [5+5]
+10.a)  What is mean by atomic commit protocols? Explain.
+b)   Discuss about timestamp ordering.       [5+5]
+OR
+11.a)  Discuss about concurrency control in distributed transactions.
+b)  Explain about flat and nested distributed transactions.    [5+5]
+used paper 27-04-2018

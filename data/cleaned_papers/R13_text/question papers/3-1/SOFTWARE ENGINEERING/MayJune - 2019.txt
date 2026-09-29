@@ -1,0 +1,41 @@
+SOFTWARE ENGINEERING
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Define software engineering.        [2]
+b) List evolutionary process models.       [3]
+c) Differentiate between user requirement and system requirement.   [2]
+d) List the various types of feasibility studies.      [3]
+e) What are the goals of the design process?      [2]
+f) Define software architecture.        [3]
+g) What is meant by smoke testing?       [2]
+h) List the metrics for source code.       [3]
+i) Give the different categories of risks.       [2]
+j) What is meant by software review?       [3]
+PART - B
+2. Discuss managers myths about software development and their effect on the
+practitioners performance as well as on overall outcome.      [10]
+OR
+3. What is software p rocess? What is need of software process improvement? Discuss
+capability maturity models.          [10]
+4. “The functional requirements specification of a system should be both complete and
+consistent”. Substantiate this statement with relevant examples.     [10]
+OR
+5.a) Draw a context level model for a web-based food- ordering system such as “Swiggy”.
+b) Discuss the main characteristics of data model for requirement engineering. [5+5]
+6. How to translate the analysis model into the design model? Expla in with an example
+scenario.            [10]
+OR
+7.a) Explain how to map data flow into a software architecture?
+b) Explain the design of class based components.     [5+5]
+used paper 04-06-2019 PM
+8.a) Discuss the process of debugging.
+b) What is the need of beta testing?       [5+5]
+OR
+9.a) Explain the metrics for software quality.
+b) Explain about the test strategies for connectional software.    [5+5]
+10.a) Elaborate on risk projection steps.
+b) Provide the format of risk information sheet.      [5+5]
+OR
+11. Explain the activities of software quality assurance group to assist the software team in
+achieving high quality.          [10]
+used paper 04-06-2019 PM

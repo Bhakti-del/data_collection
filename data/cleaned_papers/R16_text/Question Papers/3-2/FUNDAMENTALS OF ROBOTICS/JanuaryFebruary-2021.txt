@@ -1,0 +1,18 @@
+FUNDAMENTALS OF ROBOTICS
+(Computer Science and Engineering)
+1.a)  Classify the robot anatomy according to its geometrical configurations.
+b)  Discuss about the working and range of any two tactile sensor.   [7+8]
+2.a)  Describe the dynamic characteristics of a robotic arm.
+b)  What principle is followed for a torque sensor?     [8+7]
+3.a)  Discuss about gear and rack method of actuating the gripper.
+b)  What aspects are considered in gripper selection and design?   [7+8]
+4.a)  What are the advantages and disadvantages of actuating a magnetic gripper.
+b)  How the physical support is provided for the end effector?    [7+8]
+5.  Formulate the differential kinematic equations for planar serial robot.    [15]
+6.  Describe the DH method to provide the solution of forward and inverse kinematic
+problem of any standard robot. Assume the joint rotations according to the standard
+robot chosen.             [15]
+7.  Express the calculations involved in computing corrected torque control.    [15]
+8. How lead through programming methods and teach pendant methods are useful in robot
+applications.            [15]
+used paper jan-feb-2021

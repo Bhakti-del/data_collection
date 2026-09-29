@@ -1,0 +1,17 @@
+INFORMATION SECURITY
+(Computer Science and Engineering)
+1.a)  What is steganography? Discuss possible types of security attacks.
+b)  Discuss various security mechanisms.      [7+8]
+2.  Explain AES algorithm with suitable examples. Discuss its advantages and limitations.
+[15]
+3.a)  Write a short note on knapsack algorithm.
+b)  Discuss HMAC and CMAC.        [7+8]
+4.a)  Write a short note on Pretty Good Privacy.
+b)  Discuss in detail about combining security associations.    [7+8]
+5.a)  Discuss in detail about Transport Layer Security.
+b)  Write a short note on Secure Inter-branch Payment Transactions.   [7+8]
+6.a)  What is asymmetric key cryptography? Discuss its advantages and limitations.
+b)  Explain various substitution techniques with suitable examples.   [7+8]
+7. What are various Block cipher modes of operation? Discuss in detail.    [15]
+8.  What are Kerberos? Discuss in detail with suitable diagrams.     [15]
+used paper feb/mar-2022 jntuh

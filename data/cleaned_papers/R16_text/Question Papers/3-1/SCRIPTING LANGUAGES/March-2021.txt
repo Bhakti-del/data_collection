@@ -1,0 +1,15 @@
+SCRIPTING LANGUAGES
+1.a) Write the procedure for searching a file and directory.
+b) Discuss the File System of the Linux.      [7+8]
+2. Give a brief note on zipping and unzipping concepts.      [15]
+3.a) Explain the Network file system.
+b) Describe the Network information Services.      [8+7]
+4. List and explain the tools used in Linux networking.       [15]
+5.a) Write a short note on References and Subroutines in Perl.
+b) Discuss the Files and Data in Perl Scripting.      [7+8]
+6. With the help of examples, explain pattern and regular expressions in Perl.    [15]
+7. Compare scripting languages . Among TCL, TK and Perl which one is better suitable
+for web application? Why?          [15]
+8. Write about exception handling in python in detail with a snippet of code.    [15]
+---oo0oo---
+USED PAPER MARCH-2021

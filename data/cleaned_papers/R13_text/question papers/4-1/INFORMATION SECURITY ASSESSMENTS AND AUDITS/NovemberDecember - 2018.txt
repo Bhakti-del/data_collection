@@ -1,0 +1,33 @@
+INFORMATION SECURITY ASSESSMENTS AND AUDITS
+(Computer Science and Engineering)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Make a comparison between the White -box and Grey -box Information security
+methodologies.         [2]
+b) Give a note on Servers and Storage devices.      [3]
+c) Write a short on IDS Security Auditing.      [2]
+d) Discuss the Firewall Security Audit.       [3]
+e) What is Vulnerability Management?       [2]
+f) Explain the Social Media Countermeasures.      [3]
+g) Write the Vulnerability Assessment Reports.      [2]
+h) Give a note on Residual Risk.        [3]
+i) What is the classification of Configuration Management.    [2]
+j) Give some examples for Configuration control policies.    [3]
+PART – B
+2. List and explain the Common Issues and Variances of Performance Metrics. [10]
+OR
+3. Discuss the Phases of Information Security Audit and Strategies.   [10]
+4. Briefly explain the Social Engineering Security Auditing.    [10]
+OR
+5. Describe the Information Security Audit Deliverable and Writing Report.  [10]
+6. Give a brief note on Human-based Social Engineering.    [10]
+OR
+7. Write short notes on the following:
+a) Vulnerability Scanning b) Testing c) Threat management.  [10]
+8. List and explain the Types of Vulnerability Assessment.    [10]
+OR
+9. Explain the Chara cteristics of a Good Vulnerability Assessment Solutions
+and considerations.         [10]
+10. Briefly explain the Configuration Management in detail.     [10]
+OR
+11. Discuss the Configuration Management Requirements-Plan-Control.  [10]

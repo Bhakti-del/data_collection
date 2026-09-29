@@ -1,0 +1,32 @@
+SOFTWARE PROJECT MANAGEMENT
+carries 10 marks and may have a, b, c as sub questions.
+PART – A
+1.a) What is ROI? Discuss it in different domains.     [2]
+b) What are the two basic steps in building a program? Explain them.   [3]
+c) What are the five characteristics of a successful object oriented project?  [2]
+d) Explain the disadvantages of commercial components.    [3]
+e) Explain a typical release specification outline.     [2]
+f) What is meant by software architecture?      [3]
+g) Discuss about life cycle architecture milestones.     [2]
+h) Discuss about default distribution of effort and schedule by phase.   [3]
+i) What is meant by process discriminants?      [2]
+j) Write brief notes on process maturity.      [3]
+PART – B
+2. Discuss about conventional software project management with its pros and cons. [10]
+OR
+3. Explain about pragmatic software cost estimation model.    [10]
+4. What are the various approaches for reducing software product size? Explain them.[10]
+OR
+5. Discuss in detail about improving team effectiveness.    [10]
+6. Explain a typical business case outline and a typical software development plan outline.
+[10]
+OR
+7. Discuss about programmatic artifacts and engineering artifacts.   [10]
+8. What is meant by workflows of the process? Discuss about iteration workflows? [10]
+OR
+9. Discuss about minor milestones and periodic status assessments.   [10]
+10. Explain about pragmatic software metrics.      [10]
+OR
+11. Discuss about the software project management principles with respect to CCPDS-R case
+study.           [10]
+--ooOoo--

@@ -1,0 +1,35 @@
+STORAGE AREA NETWORKS
+PART - A
+1.a) What are the major physical components of a disk drive?    [2]
+b) What are the solutions available for data storage?     [3]
+c) Explain RAID 0?           [2]
+d) What are the components of FC-SAN?      [3]
+e) Write a short note on RPO?        [2]
+f) Explain about RTO?         [3]
+g) Explain the concept of replication technologies?     [2]
+h) Write a short note on Business continuity?      [3]
+i) Explain the concept of Virtualization?      [2]
+j) What are the security attributes for information systems?    [3]
+PART - B
+2. Explain about Hardware and software components of the host environment. [10]
+OR
+3.a) What are the challenges in data storage and data management?
+b) Write a short note on Disk drive.       [5+5]
+4.a) Explain the concept of RAID.
+b) Compare and contrast the Integrated and Modular Storage Systems.  [5+5]
+OR
+5.a) Write a short note IP-SAN.
+b) What are the benefits of different networked storage options?   [5+5]
+6.a) List the reasons for unplanned outages.
+b) Differentiate between business continuity and disaster recovery.   [5+5]
+OR
+7. Describe single points of failure in a storage infrastructure and list solutions  to mitigate
+these failures.          [10]
+8. Briefly explain about the replication technologies and their role in ensuring
+information availability and business continuity.     [10]
+OR
+9. Explain the different backup topologies.      [10]
+10. Describe the File-level virtualization technologies and their processes.  [10]
+OR
+11. What is Storage Security Domain? List and analyzes the common threats in each
+domain.          [10]

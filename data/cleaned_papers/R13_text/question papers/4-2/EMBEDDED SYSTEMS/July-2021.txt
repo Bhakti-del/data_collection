@@ -1,0 +1,18 @@
+EMBEDDED SYSTEMS
+(Computer Science and Engineering)
+1. Explain the five levels of abstraction from top level to bottom level in the design process of
+an embedded system.         [15]
+2. With a neat internal diagrams, describe all the input/output ports of 8051 C. [15]
+3. With one example for each, explain the following instructions by giving syntaxes:
+a) Data transfer instructions  b) Arithmetic instructions.   [8+7]
+4. Draw the block schematic of DAC 0808 interfaced to 8051 at port P1 and write an 8051
+program to generate square wave as well as triangular wave.   [15]
+5. Discuss the following with respect to RTOS:
+a) Semaphores  b) Message Queues.      [8+7]
+6.a) Explain different debugging techniques.
+b) List out the features of ARM architecture.      [8+7]
+7. What is the criterion used to select the time quantum in case of round -robin scheduling
+algorithm? Explain it with a suitable example.     [15]
+8.a) Explain the basic concepts of I2C bus protocol.
+b) Explain the general purpose registers in SHARC programming model.  [8+7]
+--ooOoo--

@@ -1,0 +1,46 @@
+SEMANTIC WEB AND SOCIAL NETWORKS
+(Computer Science and Engineering)
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Define web.          [2]
+b)      Give the limitations of today’s web.       [3]
+c)      What is XQUEY?         [2]
+d)      What is the use of reification mechanism in RDF?     [3]
+e)      Give modus tollens rule with an example.      [2]
+f)       How is knowledge base different from database?     [3]
+g)      What is the role of SOAP in web services?      [2]
+h)      Give OWL-S process ontology.       [3]
+i)       What is Jaccard coefficient?        [2]
+j)       What influence does social science has on social network analysis?   [3]
+PART - B
+2. Make a comparison of industrial revolution and information revolution. Explain the
+significance of web in information revolution.     [10]
+OR
+3. What are the objectives of semantic web? Discuss briefly the role software agents and
+inference engines in semantic web.       [10]
+4.a) Can XML replace HTML? Justify your answer.
+b) With illustrations explain inheritance in RDF.     [5+5]
+OR
+5.a) What are the requirements of ontology language?
+b) Discuss Learning Source Description tool for ontology mapping.   [5+5]
+6.a) Quote examples for monotonic rules and non monotonic rules. How are they used in
+semantic web?
+b) Discuss descriptive logic for semantic web.      [5+5]
+OR
+7. What is a web service? Is it different from web application? What is the need of
+semantic technology for web services? Discuss semantic web services.  [10]
+8.a) Give the functional description parameters of Service Profile.
+b) Why is process ontology control is still an area under significant development? [5+5]
+OR
+9.a) What is a sociogram? Why is it required?
+b) Why electronic discussion networks become important source for social network
+analysis?          [5+5]
+10. How do blogs and online communities provide data and help in social network
+analysis? Can this data help predictions? Justify your answer.    [10]
+OR
+11. Explain the following features of Elmo scutter:
+a) Blacklisting
+b) Whitelisting
+c) Filtering
+d) Persistence
+e) Logging.          [10]

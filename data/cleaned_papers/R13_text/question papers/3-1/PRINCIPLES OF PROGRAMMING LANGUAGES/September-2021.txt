@@ -1,0 +1,23 @@
+PRINCIPLES OF PROGRAMMING LANGUAGES
+(Computer Science and Engineering)
+1.a)  What are the factors that influence the basic design of programming languages?
+b)  What are the advantages and disadvantages of implementing a language with pure
+interpreter and with a compiler?       [8+7]
+2.a)  In what way do operational semantics differ from denotational semantics?
+b)  Write a denotation al semantics mapping function for “for” statement in Ada and Java.
+[7+8]
+3.a)  Discuss the design and evaluation of enumeration and subrange types with relevant
+examples.
+b)  Discuss about guarded commands.       [8+7]
+4.a)  Discuss various types of assignment statements.
+b)  Explain the situation where multiple selection using if const ruct is more efficient than
+switch-case construct.         [7+8]
+5.a)  What are the distinct semantic models for formal parameters. Explain.
+b)  Explain about co-routines with examples.      [7+8]
+6.a)  Describe the deep-access method of implementing dynamic scoping.
+b)  Give a detailed note on pass -by-value and pass -by-result parameter passing methods.
+[8+7]
+7.a)  What is meant by subprogram level concurrency? Explain.
+b)  Write a brief note on Java threads.       [8+7]
+8.  Explain about storage control and types of binding supported by Python.    [15]
+USED PAPERSSEP-2021

@@ -1,0 +1,38 @@
+OPERATING SYSTEMS
+and may have a, b as sub questions.
+PART – A
+1.a)      What is a system software? How is it different from an application software? [2]
+b)      Draw the layered architecture of an operating system and explain various components
+of it.           [3]
+c)      What is meant by context switch?       [2]
+d)      Distinguish between ordinary pipes and named pipes.    [3]
+e)      What is demand paging?        [2]
+f)      Compare LRU page replacement algorithm with optimal page replacement algorithm.
+[3]
+g)      What are magnetic disks?        [2]
+h) List and explain various file open access modes.     [3]
+i)      What are the goals of protection?       [2]
+j)      What are capability based systems?       [3]
+PART – B
+2.  Explain different types of operating system structures.    [10]
+OR
+3.  What is a system call? What are different types of system calls? Explain them. [10]
+4.a) Define the term scheduler. Explain briefly about long term, medium term, and short
+term schedulers with proper diagram.
+b)  What is process control block? Explain various fields in it.    [5+5]
+OR
+5.  How to implement synchronization between the processes using semaphores? Explain
+with an illustrative example.        [10]
+6.a)  What is meant by thrashing? Explain various methods to overcome thrashing.
+b)  Explain various frame allocation methods using examples.    [5+5]
+OR
+7.  Using FIFO, LRU and optimal page replacement algorithms on following reference
+string.
+1,2,3,2,1,2,3,4,5,3,6,7,4,3,5.
+Compute the number of page faults for the frame size of 3 and 4.   [10]
+8.  Explain FCFS and SSTF disk scheduling algorithms using examples.  [10]
+OR
+9.  Explain about file system mounting and file sharing.     [10]
+10.  Explain banker’s algorithm for deadlock avoidance with an example.  [10]
+OR
+11.  Explain the implementation of access matrix in detail.    [10]

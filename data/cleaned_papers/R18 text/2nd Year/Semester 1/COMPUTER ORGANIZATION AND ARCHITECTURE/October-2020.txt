@@ -1,0 +1,19 @@
+COMPUTER ORGANIZATION AND ARCHITECTURE
+(Computer Science and Engineering)
+1.a)      Draw the bus system for four registers and explain.
+b)     An 8-bit register contains the binary value 10011100. What is the register value after an
+Arithmetic Shift Right? Starting from the initial number 10011100, determine the register
+value after an arithmetic Shift Left, and state whether there is an overflow.  [7+8]
+2. Draw block diagram of a control memory and the associated hardware needed for
+selecting the next micro instruction address.               [15]
+3. Perform the arithmetic operation (+42)+( -13) and ( -42)-(-13) in binary using signed 2’s
+complement representation for negative numbers.               [15]
+4.a) Differentiate between Isolated I/O and memory-mapped I/O.
+b)  Explain programmed-I/O in detail.       [8+7]
+5.a) Write the major characteristics of RISC processors.
+b)  Draw a space -time diagram for a four -segment pipeline showing the time it takes to
+process six tasks and explain.        [7+8]
+6.a) Draw the flowchart for instruction cycle and explain.
+b) Explain the following instructions: BUN, ISZ, BSA, LDA, STA.   [7+8]
+7. Explain various Data Manipulation instructions with examples.             [15]
+8. With an example, explain Booth Multiplication algorithm.             [15]

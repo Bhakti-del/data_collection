@@ -1,0 +1,43 @@
+DATA STRUCTURES
+and may have a, b as sub questions.
+PART - A
+1.a) Describe the role of space complexity and time complexity in measuring the
+performance of a program.        [2]
+b) Differentiate between recursive and iterative algorithms.    [3]
+c) List the applications of stack.          [2]
+d) Differentiate Stack and Queue.       [3]
+e) Define a full binary tree and complete binary tree.     [2]
+f) List the applications of Trees.        [3]
+g) Define Hashing.           [2]
+h) State different types of collision resolving techniques.    [3]
+i) Compare binary tree and binary search tree.      [2]
+j) Write the properties of B-Trees.       [3]
+PART - B
+2. Discuss various the asymptotic notations used for best case , average case and worst
+case analysis of algorithms.          [10]
+OR
+3.         Write a program to insert an element in between two nodes in a double linked list.   [10]
+4.a) Explain the procedure to evaluate postfix expression.
+b) Convert the following expression A + (B * C) - ((D * E + F) / G) into postfix form.
+[5+5]
+OR
+5. Implement a Circular queue of integer of user specified size and write the functions for
+initialize(), enque() and deque().         [10]
+6.a)  Discuss representation of binary tree.
+b)  Explain DFS graphs traversal algorithms with suitable example.   [5+5]
+OR
+7.a) Explain with an example how to delete an element from maxheap.
+b) Construct max heap for 150, 80, 40, 30, 10, 70, 110, 100, 20, 90, 60, 50 , 120, 140, 130.
+[5+5]
+8.a) Explain Binary search with example.
+b)  Explain the different hashing functions with an example.    [5+5]
+OR
+9.a) State and explain radix sort with an example.
+b)  Apply heap sort on list of elements 14, 12, 9, 8,7,10,18,20,30.   [5+5]
+10.a) Explain the insertion operation on AVL trees.
+b)  Insert the following sequence of elements into an AVL tree, starting with an empty
+space: 10, 20, 15, 25, 30, 16, 18, 19 and delete 30 in the AVL tree that you got. [5+5]
+OR
+11.a) Explain Splay trees with example.
+b)  Construct a B-tree of order 3 with the following elements
+25,10,20,30,80,40,50,60,82,70,90,85,93.      [5+5]

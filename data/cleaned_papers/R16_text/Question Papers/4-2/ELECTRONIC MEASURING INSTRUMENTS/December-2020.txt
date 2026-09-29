@@ -1,0 +1,11 @@
+ELECTRONIC MEASURING INSTRUMENTS
+1. Explain the terms accuracy and precision and describe the necessarily of each terms.[15]
+2. Describe the important characteristics of instruments that are totally electrical and
+electronic in nature.         [15]
+3. With a neat diagram, explain the principle operation of sweep frequency generator.[15]
+4. Draw a simple circuit of frequency modulating an AF signal generator and explain its
+operation.          [15]
+5. With neat sketches, explain the operation of True RMS Voltmeters.  [15]
+6. Draw the block diagram of an CRO and explain briefly its major system.  [15]
+7. Describe the principle of working and circuit diagram of galvano metric recorders.[15]
+8. Explain the working principle of piezoelectric transducer with neat sketches. [15]

@@ -1,0 +1,52 @@
+DIGITAL LOGIC DESIGN
+and may have a, b as sub questions.
+PART – A
+1.a) Convert (10110)2 to Gray code and (110101)G to binary number.         [2]
+b) What is Floating point number representation and give examples?           [3]
+c) What are universal gates and why they are called as universal gates?   [2]
+d) Draw a four variable Karnaugh map and List its simplification methods.  [3]
+e) What is a multiplexer? What is the function of a multiplexer's select input?  [2]
+f) Can more than one decoder output be activated at one time? Justify your answer? [3]
+g) What is a flip-flop? Write the logic diagram of J-K flip-flop List all the pins. [2]
+h) Write the difference between synchronous and asynchronous sequential circuits.   [3]
+i) What are shift micro operations and what are the different types.            [2]
+j) Explain about sequential programmable logic devices.                                          [3]
+PART – B
+2.a) Convert the following i) (53.625)10 to ( ? )2  ii) (3FD)16 to ( ? )2  iii) (A69.8)16 to ( ? )10
+b) Perform the decimal subtraction in 8-4-2-1 BCD using 9's complement
+i) Subtract 79 from 26                   ii) Subtract 748 from 983.    [6+4]
+OR
+3.a) Explain in detail about Weighted, non w eighted, Error minimizing and, error detecting and
+error correcting codes with examples.
+b) Check whether the received code 10101100 is correctly received or not if even parity is
+used.           [6+4]
+4.a) Convert the given Boolean function into standard sum of Minterms form. F = x'y+y'z+xz.
+b) Simplify the following Boolean function using K-Map method in (i) SOP form (ii) POS
+form  F(A, B, C, D)= Σ(0, 6, 8, 13, 14); Σ d (2, 4,10)     [4+6]
+OR
+5.a) Reduce using mapping the follo wing expression and implement the real minimal expression
+in Universal logic. F= m (0, 2, 4, 6, 7, 8, 10, 12, 13, 15)
+b) Reduce the following expression using k-map f =  π M (1, 4, 5, 11, 12, 14) .d (6, 7, 15).[5+5]
+6.a) Explain the full adder and Full  Subtractor with the help of a neat logic diagram and truth
+table.
+b) Design a 4:16 decoder with basic gates with control inputs and enable inputs. [5+5]
+OR
+7.a) Draw and explain the 8×1 MUX. and 3/8 decoder.
+b) Explain with neat sketches the working of 4 bit Priority encoder and a 4 bit  magnitude
+comparator.          [5+5]
+8.a) What is Race condition and explain about the operation of clocked RS flip flop and D flip -
+flop.
+b) Design a 4 bit shift left register and shift right using D flip-flops flip flops.  [5+5]
+OR
+9.a) Write the differences between synchronous and Asynchronous Counters.
+b) Explain the operation of the 4-bit asynchronous counter with a J-K flip-flops and draw its
+state diagram.          [4+6]
+10.a) Explain the logic implementation of a 32 × 4 bit ROM using decoder of a suitable size.
+b) What do you mean by register transfer? Explain in detail. Also discuss three state bus buffer.
+[5+5]
+OR
+11.a) With a neat diagram explain in detail about two dimensional memory decoding scheme.
+b) A combinational circuit is defined by the functions:
+F1= 𝑚 (3, 5, 7) F2 = 𝑚( 4,5,7)
+Implement the circuit with a PLA having 3 inputs, 3 product terms and two outputs.
+[4+6]

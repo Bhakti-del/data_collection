@@ -1,0 +1,37 @@
+ARTIFICIAL INTELLIGENCE
+(Computer Science and Engineering)
+PART- A
+1.a) What are the functionalities of an agent system?     [2]
+b) How can we avoid ridge and plateau in hill climbing?    [3]
+c) What are limitations in using Propositional Logic to represent the knowledge base?
+[2]
+d)  Represent the following sentence in Predicate form : “All the children like sweet”.
+[3]
+e) Compare Expert system with Traditional system.     [2]
+f) State and define conditional probability.      [3]
+g) Define supervised learning and unsupervised learning.    [2]
+h)      Differentiate ANN with Biological NN.      [3]
+i) What is semantic web?        [2]
+j) What is the importance of Parser?       [3]
+PART-B
+2.a) What are sub-areas of AI?
+b) Explain a simple approach to play Tic-Tac-Toe problem.    [5+5]
+OR
+3. Discuss about different Heuristic Search Techniques.    [10]
+4. What is Resolution? Explain resolution in propositional logic with illustration. [10]
+OR
+5.a) Differentiate between Procedural and Declarative Knowledge.
+b) Describe about Forward Chaining System.      [5+5]
+6. Explain Rule based system Architecture with neat diagram.    [10]
+OR
+7. Describe the following:
+a) Dempster-Shafer Theory     b) Certainty Factor Theory.   [5+5]
+8. Explain Inductive Learning and Deductive Learning with example.   [10]
+OR
+9.a) Explain design issues of Artificial Neural Networks.
+b) Discuss about Recurrent Networks with example.     [5+5]
+10.a) What is Parsing? Derive a parse tree for the sentence “Bill loves the frog”.
+b) Write about semantic analysis in NLP.      [5+5]
+OR
+11. Explain in detail about several components of the Natural Language Processing. [10]
+--ooOoo—

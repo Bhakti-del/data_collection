@@ -1,0 +1,18 @@
+DATABASE MANAGEMENT SYSTEMS
+1. What is E-R Model? Draw an E-R Diagram for any Banking system.  [15]
+2.a) What is Trigger? How to implement Triggers in SQL?
+b) What is the difference between tuple relation calculus and domain relation calculus?
+[7+8]
+3. What is normalization? What are the conditions required for a relation to be in 3NF and
+BCNF. What is the difference between 3NF and BCNF explain with example. [15]
+4.  Describe the steps in crash recovery ARIES algorithm.    [15]
+5.a) What is indexing? Explain B+ index with example.
+b) Discuss the relationship between Extendible and Linear Hashing.    [7+8]
+6.a) Explain the following:
+i) Database Users        ii)  Database Administrator.
+b) Distinguish between super key, Candidate key, Primary Key for a relation with examples.
+[8+7]
+7. Define the terms primary key foreign key, and check constraints. How are these
+expressed in SQL?          [15]
+8.a) What are the applications of DBMS?
+b) List all DDL and DML commands with suitable examples.    [7+8]

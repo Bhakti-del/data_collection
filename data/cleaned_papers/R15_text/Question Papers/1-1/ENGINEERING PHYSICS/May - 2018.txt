@@ -1,0 +1,55 @@
+ENGINEERING PHYSICS
+PTM, CEE, MSNT)
+question carries 10 marks and may have a, b, c as sub questions.
+PART-A
+1.a) Define Coordination number and Packing factor.      [2]
+b) Sketch the (100), (110) and (111) planes in a simple Cubic structure.  [3]
+c) Define Fermi Energy.         [2]
+d) State the Bloch theorem.         [3]
+e) Define the Dielectric constant of a material.      [2]
+f) Explain the nature of superconductor in the magnetic field.    [3]
+g) What is diffraction grating?         [2]
+h) An optical fiber having refractive indices of 1.6 and 1.59 for core and cladding
+respectively is placed in water of refractive index 1.33. Find the Numerical Aperture of
+the fiber.            [3]
+i) Write is the significance of Surface to Volume ratio in nanomaterials.   [2]
+j) A hall with volume 6000 m 3 has reverberation time 1.2 sec. Find the total absorption in
+the hall.           [3]
+PART-B
+2.a) Distinguish between Ionic, Covalent and Metallic bonds in solids.
+b) Obtain the expression for the inter planar spacing of the orthogonal crystal system.
+[5+5]
+OR
+3.a) Describe the crystal structure of diamond.
+b) State the Bragg’s law of X -ray diffraction. Discuss the Laue method of X -ray diffraction
+for the determination of crystal structure.      [4+6]
+4.a) What are Matter waves? How they are different from electromagnetic waves.
+b) Formulate Schroedinger’s Time Independent wave equations for a particle in one
+dimensional infinite square well potential and obtain the expression for its energy values.
+[3+7]
+OR
+5.a) Distinguish between Maxwell – Boltzmann, Bose Einstein and Fermi – Dirac
+distributions.
+b) Draw E -K curves for an electron in periodic potential and explain how it leads to
+formation of energy bands in solids.       [6+4]
+6.a) What is density of polarization? Obtain a relation between polarization density and
+electric displacement vector.
+b) Define electronic polarization. Derive an expression for electronic polarizability.  [3+7]
+OR
+7.a) Distinguish between dia, para, ferro, antiferro and ferri magnetic materials.
+b) Write two applications of ferrimagnetic materials.
+c) What are type I and type II super conductors.               [5+2+3]
+8.a) Explain the phenomenon of interference in reflected ligh t from a thin film. Obtain the
+condition for maxima and minima.
+b) How this phenomenon is used to reduce the heating effect of sun light from the roof of a
+building.           [8+2]
+OR
+9.a) Write down the characteristics of Laser light.
+b)  Describe the construction and working of He-Ne laser with suitable diagrams.  [2+8]
+10.a) What are direct and indirect band gap semiconductors?
+b) State and explain the Hall-effect and derive the expression for Hall coefficient.
+c) The Hall coefficient of specimen is 3.66×10-4 m3/coul. Find the number of charge carriers
+present per unit volume of the specimen.                 [3+5+2]
+OR
+11.a) Derive an expression for the concentration of electrons in an intrinsic semiconductor.
+b) Describe the Sol-Gel method of preparation of Nanomaterials.   [5+5]

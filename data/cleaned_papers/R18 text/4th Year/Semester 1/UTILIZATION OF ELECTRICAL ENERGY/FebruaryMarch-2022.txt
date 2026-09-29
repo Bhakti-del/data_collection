@@ -1,0 +1,20 @@
+UTILIZATION OF ELECTRICAL ENERGY
+(Computer Science and Engineering)
+1.a) State various methods of Electric heating and explain dielectric heating.
+b) Discuss essential requirements of good heating element.    [8+7]
+2. Discuss the principle of wo rking of resistance heating and induction heating  with neat
+sketches.          [15]
+3. Explain the principle of electrolysis and electroplating.    [15]
+4. Discuss the procedure of metal extraction, metal processing and electromagnetic stirs.
+[15]
+5.a) A room with an area  of 6 × 9 m is illuminat ed by ten 80 -W lamps. The lumi nous
+efficiency of the lamp is 80 lumens/W and the coefficient of utilization is 0.65. Find the
+average illumination.
+b) Explain the working of S.V lamp with a neat sketch.     [6+9]
+6.a) The flux emitted by 100 -W lamp is 1,400 lumens placed in a frosted globe of 40 cm
+diameter and gives uniform brightness of 250 milli -lumens/m2 in all directions. Calculate
+the candel power of the globe and the percentage of light absorbed by the globe.
+b) Explain the concept of flood lighting.      [8+7]
+7. Explain different methods of electric traction.     [15]
+8. Explain double battery parallel block system and coach wiring.   [15]
+--ooOoo--

@@ -1,0 +1,35 @@
+DATA STRUCTURES
+CSE(N), AI&DS, AI&ML, CSD)
+and may have a, b as sub questions.
+PART – A
+1.a)    Give examples for stack.        [2]
+b)    How to construct a queue using stacks?      [3]
+c)    What is a skip list?         [2]
+d)    List the drawbacks of open addressing.      [3]
+e)    What does the color notate in red-black tree?      [2]
+f)     What operations are performed on Splay trees?     [3]
+g)     What is a max heap?         [2]
+h)     Give example for adjacency list of a graph.      [3]
+i)      Define trie.          [2]
+j)     What are the merits and demerits of brute force method for pattern matching?  [3]
+PART – B
+2.  Write and explain algorithms for Push and pop operations of stack using linked list.[10]
+OR
+3.a)  Describe the conditions of overflow and underflow in a queue.
+b)  Discuss the applications of queues.       [5+5]
+4.a)  Demonstrate skip list representation of a dictionary.
+b)  How to perform reassign operation on a dictionary.     [5+5]
+OR
+5.  Explain the algorithm for implementing quadratic probing on a hash table.    [10]
+6.a)  Illustrate search operation on binary search tree.
+b)  Discuss the importance of height balanced trees for searching.   [5+5]
+OR
+7.a)  With suitable examples, illustrate right-left rotation on AVL tree.
+b)  Differentiate between splay tree and red-black tree.     [5+5]
+8.  Make a comparison of breadth first search and depth first search for a graph.   [10]
+OR
+9.  Write an algorithm for merge sort and explain with a suitable example.    [10]
+10.  Describe the Knuth-Morris-Pratt algorithm for pattern matching.     [10]
+OR
+11. “A compressed trie is an advanced version of the standard trie.” Support or oppose this
+statement with necessary explanation.        [10]

@@ -1,0 +1,20 @@
+STORAGE AREA NETWORKS
+(Computer Science and Engineering)
+1.a) “The increasing criticality of information to the businesses has amplified  the challenges in
+protecting and managing the data.” Substantiate this statement.
+b) What factors have contributed to the growth of digital data?    [8+7]
+2.a) Describe the evolution of storage architectures.
+b) Explain the key characteristics of data centre elements.    [8+7]
+3.a) Compare the merits and demerits of software and hardware RAID.
+b) Describe the components of an intelligent storage system with a suitable diagram.[7+8]
+4.a) Discuss implementation of storage area network.
+b) Elucidate data transmission in Fibre Channel Arbitrated Loop.   [8+7]
+5.a) Describe the factors that affect information availability.
+b) Explain the strategies to meet RPO and RTO targets.    [7+8]
+6.a) Explain business continuity planning life cycle.
+b) Emphasize the enhancements in the infrastructure to mitigate single points of failures.[8+7]
+7.a) Three basic topologies are used in a backup environment. Describe them.
+b) Discuss SAN based remote replication.      [7+8]
+8.a) What are the various forms of virtualization existing in Industry? Briefly explain them.
+b) Illustrate the critical security attributes for information systems.    [8+7]
+---oo0oo---

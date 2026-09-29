@@ -1,0 +1,34 @@
+INFORMATION SECURITY MANAGEMENT (SECURITY ANALYST-I)
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What is the Role of a security analyst in information technology?   [2]
+b)      Explain how is a virus different from a Trojan horse?    [3]
+c)      What is Communications Security (COMSEC)?       [2]
+d)      What are the Elements of information security?     [3]
+e)      What is Sensitive data in companies and organizations?    [2]
+f)       What is Data leakage? How does occurs?      [3]
+g)      List the COBIT Maturity Model scale measurements.      [2]
+h)      Give the two types of basic security policies.      [3]
+i)       Describe the information and data security team structure.     [2]
+j)       What are the responsibilities of Security Steering Co mmittee in the information
+security?          [3]
+PART - B
+2.a)  Depending on virus "residence",  classify viruses.
+b)  What type of information must or should be protected?    [5+5]
+OR
+3.  What are the types of attack?           [10]
+4.a) What are Information states? Explain.
+b)  What are basic information security concepts?     [5+5]
+OR
+5.a)  What Barriers to Effective Communication.
+b)  What are the implications of not meeting commitments on individuals and
+organization?          [5+5]
+6.  What technological means can be employed for enhancing DLP?     [10]
+OR
+7.  What are potential damage and adverse consequences of a data leakage incident?   [10]
+8.  What are the key elements of information security policies?         [10]
+OR
+9.  Explain concepts in the COSO framework.        [10]
+10.     What are the responsibilities of CEO or Executive Management?     [10]
+OR
+11.    What are the responsibilities of Security Analyst in the information security?    [10]

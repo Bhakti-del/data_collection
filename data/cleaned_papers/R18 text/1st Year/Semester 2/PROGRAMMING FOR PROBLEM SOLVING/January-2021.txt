@@ -1,0 +1,15 @@
+PROGRAMMING FOR PROBLEM SOLVING
+1. Explain about various Arithmetic operators available in C language with examples.
+[15]
+2. What is an array? Explain the one dimensional array with suitable example program.
+[15]
+3.a) Explain about fseek() and ftell().
+b) Write the differences between structure and union with examples.   [8+7]
+4.a) Explain the call-by-value and call-by-reference parameter passing methods.
+b) Write about the following functions:
+i) malloc( )  ii) calloc       [7+8]
+5. Write and explain the algorithm for finding minimum and maximum numbers of a given
+set.           [15]
+6. Explain switch statement. Explain its usage with a sample C program.  [15]
+7. Explain the enumerated data type with an example program.   [15]
+8. Describe about the various preprocessor commands used in C.   [15]

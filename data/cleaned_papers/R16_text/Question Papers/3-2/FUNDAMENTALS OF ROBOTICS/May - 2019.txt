@@ -1,0 +1,45 @@
+FUNDAMENTALS OF ROBOTICS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What controlled systems are involved in a robotic industry.    [2]
+b)      What are the different notation scheme in designing the robot configurations. [3]
+c)      How tools can be used as end effectors.        [2]
+d)      How the linkage actuation determines the finger opening and closing activity. [3]
+e)      What is homogeneous transformation matrix?     [2]
+f)       The x and y position of the end of the arm in world space by defining a for link 1 and
+another for link 2 of a 2 DOF arm in inverse transformation.   [3]
+g)      How the interaction control is used to control the robot motions.   [2]
+h)      Briefly explain the blending scheme in trajectory planning.    [3]
+i)       What is the function of VAL in robot textual language?    [2]
+j)       What is the meant by training the vision system.     [3]
+PART - B
+2.a)  Differentiate serial and parallel manipulator.
+b)  Explain the constructional features and range of any two proximity sensors. [5+5]
+OR
+3.a)  How the correct accuracy, repeatability and resolution enhance the properties
+performed by a robot.
+b)  Explain the principle for potentiometer and encoder as position sensors.  [5+5]
+4.a)  What is physical constriction method of finger design.
+b)  State the principle adopted in vacuum cup gripper and its applications.  [5+5]
+OR
+5.a)  Analyze the gripper force to be used in various linkage mechanisms.
+b)  How the grippers are selected based on the applications.    [5+5]
+6.a)  What are the three basic rules on the basis of which DH matrix is established.
+b)  Determine the rotation matrix that represents a rotation of 60 0 about OZ axis, followed
+by rotation of 300 about OY axis, followed by rotation of 450 about OX axis. [5+5]
+OR
+7.  Express the inverse transform technique for Euler angles solution upto inconsistent
+solution.            [10]
+used paper 18-05-19 PM
+8.   Formulate joint trajectories in 5 cubic trajectory segments with time varying from 0 to 1
+units with appropriate cubic spline functions.       [10]
+OR
+9.a)  Explain the cubic polynomial fit via point for a smooth trajectory.
+b)  How the servo system is established for robotic control.    [5+5]
+10.a)  Describe the various parameter s considered in image data reduction and feature
+extraction in machine vision.
+b)  Explain how the end effector and sensor commands are executed?   [5+5]
+OR
+11.a)  How the robot language is structured?
+b)  What are the various motion commands used for robot’s movement?  [5+5]
+used paper 18-05-19 PM

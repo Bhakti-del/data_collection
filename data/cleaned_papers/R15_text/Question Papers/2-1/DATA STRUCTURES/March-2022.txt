@@ -1,0 +1,22 @@
+DATA STRUCTURES
+1.a) Explain the concept of asymptotic notations, indicating the normally used notations.
+b) List out any two applications of linked list and two advantages of doubly linked lists over
+singly linked list.         [8+7]
+2.a) Explain the insertion and deletion operations in doubly lined list.
+b) What are the properties of sparse matrix?      [12+3]
+3.a)   With an example, explain the operations performed on stacks.
+b) What are the applications of stack?       [10+5]
+4.a)  Explain various operations that are performed on queue with suitable algorithms.
+b) Explain about Deque.         [10+5]
+5.a)   Construct the binary tree whose following traversals are given:
+inorder : DFEIHBAJCNOMK
+postorder: FIHEDBJONMKCA
+b) Give the difference between tree and graph.       [11+4]
+6.a) Define Max-heap. Write Max-Heapify algorithm that maintain max-heap property.
+b) Explain about threaded binary tree.       [10+5]
+7.a)   Construct the open hash table and c losed hash table for the input: 30, 20, 56, 75, 31, 19
+using the hash function h(k)= k mod 11.
+b) Explain about insertion sort with an example.     [9+6]
+8.a)   Discuss Knuth Morries Pratt (KMP) algorithm. Compute whether the pattern
+P=10100111 is present in the string T=1001010100111 or not.
+b) Discuss about splay trees.        [10+5]

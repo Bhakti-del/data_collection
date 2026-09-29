@@ -1,0 +1,50 @@
+DISTRIBUTED SYSTEMS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)      What is Ubiquitous computing?       [2]
+b)      Briefly discuss about mobile agents.       [3]
+c)      Define happened-before relation.       [2]
+d)      What is the difference between broadcast and multicast?    [3]
+e)      Describe the components of datagram packet.     [2]
+f)      What is marshalling and unmarshalling?      [3]
+g)     What is file group and file group identifier?      [2]
+h)     What is causal consistency and processor consistency?    [3]
+i)      What are conflict operations? Give example.      [2]
+j)      Differentiate flat and nested transactions.      [3]
+PART - B
+2.a)  Describe briefly about the following.
+i) WWW
+ii) HTTP
+iii) Web Services
+b)  Discuss significant factors affecting interacting processes in a distributed system. [5+5]
+OR
+3.a)  How the failures are handled in distributed systems?
+b)  Explain about omission failures and timing failures.     [5+5]
+4.a)  Write and explain ‘snapshot’ algorithm.
+b)  How mutual exclusion is achieved using the central server algorithm and ring based
+algorithm.          [5+5]
+OR
+5.a)  Write an algorithm for reliable multicasting. Explain the role hold -back queue in
+reliable multicasting.
+b)  Explain ISIS algorithm used for multicasting.     [5+5]
+used paper July/Aug-2023
+6.a)  Discuss in detail about TCP stream communication.
+b)  How RMI is achieved in JAVA? Explain.      [5+5]
+OR
+7.a)  Write about request-reply protocol used in client-server communication.
+b)  What are the characteristics of event-based systems? Explain in detail.  [5+5]
+8.a)  Explain the operations of Andrew File System.
+b)  How the naming resolution is implemented in distributed systems?   [5+5]
+OR
+9.a)  What are the requirements of release consistency? How these requirements are
+achieved in distributed shared memory?
+b)  With a neat diagram, explain about write-update in distributed shared memory. [5+5]
+10.a)  Define shared and exclusive lock. How these locks are implemented?
+b)  Give brief notes on:
+i) Deadlock prevention
+ii) Deadlock detection.        [5+5]
+OR
+11.a)  Write and explain timestamp ordering algorithm.
+b)  Explain two-phase commit protocol.       [5+5]
+used paper July/Aug-2023

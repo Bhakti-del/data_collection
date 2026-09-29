@@ -1,0 +1,18 @@
+PRINCIPLES OF COMPUTER COMMUNICATIONS AND NETWORKS
+1.a)  What is computer communication and explain the role of networking in it.
+b)  Explain the telephone system and data communications concepts.   [7+8]
+2. Write a short note on following with examples:
+a) Network Addressing
+b) Routing
+c) Reliability.                [5+5+5]
+3. Explain the communication service methods and data transmission modes.    [15]
+4. Explain the speed and capacity of a communication channel.      [15]
+5.a)  Discuss about the bandwidth and data rate in communication.
+b)  Why are digital signals better than analog signals? Explain.    [8+7]
+6. Compare analog and digital communication and give which is the best for data
+communication and why. Elaborate.         [15]
+7.a)  Explain about the wireless communications.
+b)  Discuss the data link layer and its applications in detail.    [8+7]
+8.a)  What is repeater and explain the role of repeater in networking.
+b)  Compare and contrast Switches and Routers.      [7+8]
+used paper jan-feb-2021

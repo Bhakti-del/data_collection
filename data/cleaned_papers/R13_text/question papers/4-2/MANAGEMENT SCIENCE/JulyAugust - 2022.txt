@@ -1,0 +1,33 @@
+MANAGEMENT SCIENCE
+1.a) Elucidate Fayol’s principle of management. Examine its relevance in contemp orary
+situations.
+b) Examine the functions of management.      [10+5]
+2.a) Briefly explain Theory X and Theory Y.
+b) What is decentralisation? What is the essential requirement for effective decentralisation?
+[10+5]
+3.a) What are the assumptions in deriving the formula for EOQ? With the usual notation, derive
+the formula for EOQ.
+b) What are the records used for receipt and issue of materials in stores? Briefly explain them.
+[10+5]
+4.a) Explain in detail the various stages of product life cycle , and the appropriate marketing
+strategy at each of these stages in general.
+b) Describe the methods of production with illustration.    [10+5]
+5.a) How do you evaluate a job, using ‘factor comparison’ method?
+b) What are the various stages of capability maturiy model? Breifly explain.   [7+8]
+6.a) What is the reason for transferring people in organization?
+b) What is merit rating? What are its objectives? How frequently is to be carried out?[5+10]
+7. A project is made up of 8 jobs as follows:
+Job  Duration in days Job  Duration in days
+A 30 E 8
+B 36 F 23
+C 16 G 18
+D 14 H 20
+The following sequential relationship apply:
+a) A precedes all other jobs except B and C , b) G must follow D,
+c) H must follow E and B,                 d) E must follow B.
+i) Draw an arrow diagram for the project. ii) Find the minimum duration of the project.
+iii) What job lies on the critical path?  iv) What is the latest starting time of job C?
+[15]
+8.a) Briefly discuss the steps in corporate planning process.
+b) What is balanced score card, and bench marking?     [8+7]
+---oo0oo---

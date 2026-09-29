@@ -1,0 +1,44 @@
+COMPUTER NETWORKS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Write the advantages of optical fiber over twisted-pair and coaxial cables.   [2]
+b)      What are the advantages of having layered architecture?    [3]
+c)      Briefly explain the difference between switch and router.    [2]
+d)      Sketch the Manchester encoding for the bit stream: 0001110101.    [3]
+e)      Give the advantages of hierarchical routing.                                         [2]
+f)      Differences between CO and CL.            [3]
+g)      Explain DHCP.           [2]
+h)      What are the functions of ICMP?        [3]
+i)       What is the architecture of WWW?       [2]
+j)       Explain the differences between POP3 and IMAP.     [3]
+PART - B
+2.a) Compare and contrast the OSI and TCP/IP reference models.
+b) What are the different types of error detection methods? Explain the CRC error
+detection technique using generator polynomial x4+x3+1 and data 11100011. [5+5]
+OR
+3.a) Discuss about the various transmission media available at the physical layer.
+b) Explain about GBN Sliding Window Protocol.               [5+5]
+4.a) Explain the differences between the switching methods.
+b) Elucidate the CSMA schemes.                                        [5+5]
+OR
+5.a) Illustrate the frame structure of IEEE 802.3.
+b) Give a detail note on the ALOHA protocols.      [5+5]
+6.a) Elucidate Distance Vector Routing Algorithm with example.
+b) Describe the problem and solutions associated with distance vector routing.     [5+5]
+OR
+7.a) Explain the general principles of congestion control.
+b) Describe congestion control in datagram subnets.     [5+5]
+used paper 22-11-2017
+8.a) Elucidate the special IP addresses used in internet.
+b) Discuss the significance and the operation of NAT.     [5+5]
+OR
+9.a) Illustrate the connection establishment and release in transport layer.
+b) How crash recovery is managed at the transport layer?    [5+5]
+10.a) Explain Real-time transport protocol.
+b) When user clicks a hyperlink, what are the steps that occur between the user’s click and
+the page being displayed?            [5+5]
+OR
+11.  Write short notes on the following:         [10]
+(a) MIME   (b) Audio compression  (c) DNS  (d) Voice over IP.
+---oo0oo---
+used paper 22-11-2017

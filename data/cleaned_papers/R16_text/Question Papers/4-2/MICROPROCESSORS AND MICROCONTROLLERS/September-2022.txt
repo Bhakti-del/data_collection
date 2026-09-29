@@ -1,0 +1,24 @@
+MICROPROCESSORS AND MICROCONTROLLERS
+1.a) With a neat block diagram, explain the architecture of 8086 microprocessor.
+b) What are assembler directives? List some of the assembler directives and explain?
+[10+5]
+2.a) Explain the operation of 8086 in its minimum mode with timing diagram.
+b) Write an assembly language program to move a block of 10KB of data from 35000H
+location to 25000H location.        [10+5]
+3.a) Explain in detail about the memory organization of 8051 memory controller.
+b) Draw the 8051 port diagram, explain various I/O ports of 8051.   [8+7]
+4.a) Explain the TMOD function register and its timer modes of operations.
+b) Explain the addressing modes of 8051 with an example for each.   [8+7]
+5.a) Draw the block schematic of DAC interfaced to 8051 at port P1 and write an 8051 program
+to generate sine wave.
+b) Explain the different steps to receive data serially using 8051.   [10+5]
+6.a) How to interface an LCD display with microcontroller? Explain h ow to display a
+character using LCD display.
+b) What is serial communication? How is this achieved with 8051 using RS232 standards?
+[8+7]
+7.a) With an example each, explain the Thumb data processing instructions.
+b) Draw and explain current program status register of ARM processor.  [10+5]
+8.a) With the help of a neat block diagram , explain the architecture of ARM cortex M3
+processor.
+b) Explain the register organization of cortex M3.     [10+5]
+---oo0oo---

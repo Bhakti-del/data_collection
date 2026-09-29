@@ -1,0 +1,45 @@
+WEB SERVICES
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a) Discuss the various building blocks of web services architecture.   [2]
+b) Explain the web services operational model.      [3]
+c) What is the importance of Faultcode element in SOAP fault?   [2]
+d) Define deserialization.        [3]
+e) Discuss the limitations of WSDL.        [2]
+f) What are the various functionalities provided by WSDL tools?   [3]
+g) Explain SOA in brief.           [2]
+h) Differentiate between public and private UDDI registries.    [3]
+i) What are digital signatures?        [2]
+j) Define non-repudiation and integrity.       [3]
+PART - B
+2. Briefly explain the following:
+a) Simple Object Access Protocol.
+b) Web Service Description Language
+c) Universal Description, Discovery and Integration.    [10]
+OR
+3. Explain the role of J2EE and XML in distributed computing.   [10]
+4. Explain how SOAP encoding is done for the following with examples:
+a) Structure types
+b) Multiple references in Arrays
+c) Enumeration.         [10]
+OR
+5. Explain how SOAP web services are developed using java with an example. [10]
+6. Explain how SOAP binding is done in WSDL with an example.   [10]
+OR
+7. Briefly explain the various structural elements of a WSDL document with an example.
+[10]
+8.a) Discuss the various UDDI specifications.
+b) Explain the various UDDI data structures.      [5+5]
+OR
+9. Explain the following functions in Publishing API:
+a) save_xx
+b) delete_xx          [5+5]
+10.a) Explain how is interoperability achieved in web services.
+b) Explain the steps involved in creating a java client for a web service.  [5+5]
+OR
+11. Write short notes on:
+a) Symmetric ciphers.
+b) Asymmetric ciphers.
+c) Digital certificates.
+d) XML encryption.         [10]

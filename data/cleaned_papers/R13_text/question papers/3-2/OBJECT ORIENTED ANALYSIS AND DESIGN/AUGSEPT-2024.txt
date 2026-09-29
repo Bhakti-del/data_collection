@@ -1,0 +1,39 @@
+OBJECT ORIENTED ANALYSIS AND DESIGN
+and may have a, b as sub questions.
+PART – A
+1.a)    What is a model?         [2]
+b)    Give example for dependency relationship.      [3]
+c)     What is an association class?        [2]
+d)     What are the modeling techniques of package?      [3]
+e)      What is a swim lane?         [2]
+f)      What are the different kinds of actions against a message?      [3]
+g)      What is an event?         [2]
+h)      How are threads represented in UML diagram?     [3]
+i)       List artifacts pertaining to elaboration phase.      [2]
+j)       What type of components are used in unified library applications?   [3]
+PART – B
+2.  Describe the UML (4+1 view) architecture for a software product development.   [10]
+OR
+3.a)  What are structural things in UML? Explain with suitable diagram.
+b)  Differentiate between collaboration and use case.     [5+5]
+4.a)  Discuss the adornments for generalization relationship.
+b)  Demonstrate the use of types and roles in class diagram.    [5+5]
+OR
+5.  Construct a class diagram and object diagram for school admission system.   [10]
+6.a)  Contrast procedural and nested flow of control.
+b)  Draw sequence diagrams for a basic flow and an exceptional flow for money tr ansfer
+using a UPI app.         [5+5]
+OR
+7.  Describe the common modeling techniques of use case diagrams with suitable
+diagrams.            [10]
+used paper Aug-2024
+8.a)  Explain capturing time and space details in a UML diagram.
+b)  Illustrate history state and composite states.      [5+5]
+OR
+9.a)  Demonstrate modeling physical aspects of an object-oriented system.
+b)  What are the common modeling techniques of deployment diagram?  [5+5]
+10.a)  Differentiate between patterns and frameworks.
+b)  With an example, describe the importance of artifact diagrams.   [5+5]
+OR
+11.  Demonstrate design view and implementation views of unified library application.  [10]
+used paper Aug-2024

@@ -1,0 +1,47 @@
+PRINCIPLES OF PROGRAMMING LANGUAGES
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)      Define parse tree and provide an example.            [2]
+b)      Give an example of ambiguous grammer.                 [3]
+c)      What do you mean by short-circuit evaluation?       [2]
+d)      What is an associative array?        [3]
+e)  Define sub program.         [2]
+f)      What are the design issues of sub-programs?      [3]
+g)      What is a semaphore?           [2]
+h)      Define concurrency. State the need for concurrency.     [3]
+i)       What are the features of Haskell?       [2]
+j)       Compare functional languages and procedural languages.    [3]
+PART - B
+2.a) A programming language can be compiled or interpreted. Give relative advantages and
+disadvantages of compilation and interpretation. Give examples of compiled and
+interpreted languages.
+b) In what way do operational semantics differ from denotational semantics? Explain.
+[5+5]
+OR
+3.a) List and explain the reasons for studying concepts of programming languages.
+b) What purpose do predicates serve in attribute grammar? Give illustrations.  [5+5]
+4.a)  Define Data Type. Explain in detail various primitive data types.
+b) Explain the compound statements.
+c) Difference between pointer and references.                       [4+3+3]
+OR
+5.a) Discuss the variable initialization and variable definition.
+b) Explain the design issues for all the iterative control statements.   [5+5]
+6.a) Give an overview of relational and problem expressions.
+b) Discuss the scope and lifetime of the variable.     [5+5]
+Used Papers March-2024
+OR
+7.a)  Discuss the design issues of subprograms.
+b) What do you mean by local referencing environment? Explain.   [5+5]
+8.a) Explain how Binary semaphore provides the solution to the competition
+synchronization problem with example pseudo-code.
+b) What is exception handling? Explain exception handling in Java.    [5+5]
+OR
+9.a) Give an overview of Java threading.
+b) What are the basic elements of prolog? Explain.     [5+5]
+10.a) Write down the features of functional and imperative languages.
+b) Explain bindings and scope in python.      [5+5]
+OR
+11.a) Explain the fundamentals of Functional Programming language.
+b) List and explain the common characteristics of the scripting languages.  [5+5]
+Used Papers March-2024

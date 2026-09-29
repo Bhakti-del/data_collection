@@ -1,0 +1,30 @@
+ENGINEERING PHYSICS
+1.a) Obtain an expression for the packing factor of FCC structure.
+b) List various types of bonding in solids with suitable examples.
+c) A cr ystal of BCC structure has atomic radius 1.2 A 0. Find the volume of its
+unit cell.         [4+4+7]
+2.a) Explain Braggs law of X-Ray diffraction.
+b) Distinguish between Frenkel and Schottky defects.
+c) Copper has FCC structure with latt ice constant 0.36nm.  Calculate the
+interplanar spacing for (3 2 1) plane.      [4+4+7]
+3.a) Derive an expression for the de-Broglie wavelength of an electron.
+b) Derive time independent Schrödinger’s wave equation for a free particle.
+c) Calculate the de Broglie wavelength of an electron of energy 100 eV. [4+4+7]
+4.a) Explain Bose-Einstein distribution.
+b) Discuss the salient features of Kronig-Penny model of a crystal.
+c) Explain the concept of effective mass of an electron.   [4+4+7]
+5.a) Describe different types of polarization mechanisms.
+b) What is meant by local field in dielectrics and how it is calculated for a cubic
+structure?
+c) Mention few applications of dielectric materials.    [4+4+7]
+6.a) How are superconductors classified based on their behavior in the magnetic
+field?
+b) Define magnetic moment. Explain the origin of magnetic moment at the atomic level.
+c) Explain Meissner effect.               [4+4+7]
+7.a) How do you obtain circular rings in the Newton rings experiment?
+b) Explain Fraunhofer diffraction due to single slit.
+c) Describe the construction and working of Nicol prism.   [4+4+7]
+8.a) Derive an expression for the density of holes in an intrinsic semiconductor.
+b) What is the Hall Effect? O btain an expression for Hall co -efficient for n-type
+of semiconductor.
+c) Mention the factors affecting the acoustics of buildings.   [4+4+7]

@@ -1,0 +1,50 @@
+JAVA PROGRAMMING
+PART- A
+1.a) What is the difference between a class and an object?    [2]
+b) Why reserved words are not used in variable name.     [3]
+c) What is an abstract class?        [2]
+d) What is the difference between implicit and explicit import state ment? Which one takes
+less time for compilation.        [3]
+e) What is Daemon Thread?        [2]
+f) How many catch blocks and finally blocks can we use with try blocks? Why. [3]
+g) Write about the string Tokenizer.       [2]
+h) What is collection in Java? Differentiate between Vector and ArrayList.   [3]
+i) What is adapter class?         [2]
+j) In what way JButton is better than Button Class explain with an example?  [3]
+PART-B
+2.a) What are the fundamental characteristics of OOPs?
+b)  Write a program to compute division by 2 without using any arithmetic operator. [5+5]
+OR
+3.a) Write a program to illustrate a copy constructor so that a string may be  duplicated into
+another variable either by assignment or copying.
+b) Explain the enumerated data types with an example.     [5+5]
+4.a) Write a program which has an abstract class Solid and implements Cylinder, Cone and
+Sphere by inheriting from solid to find surface area and volume.
+b) Discuss the various levels of access protection for packages and their implications. [5+5]
+OR
+5.a) Discuss how java handles overridden methods. In short, how base class member
+functions can be invoked in a derived class if the derived class also has a member
+function with the same name.
+b) Explain with an example how multiple inheritance is achieved in Java.  [5+5]
+6.a) Write a program that counts the number of characters, words and lines in a file. Use
+exceptions to check whether the file you are reading exists or not. Take file name as  a
+command line argument.
+b) Explain the life cycle of a Thread.       [5+5]
+OR
+7.a) Write a simple Timer that can periodically print a timeout message.
+b) What happens when a raised exception is not caught by any catch block ? Explain with an
+example.          [5+5]
+8.a) Explain the different types of JDBC drivers.
+b) Write a program to display the bytes of a file in reverse sequence. Provide the name  of
+the file as a command line argument. (Use RandomAccessFile).   [5+5]
+OR
+9.a) Write a program to illustrate the use of hash table  class for storing and retrieving
+employee records.
+b) How can we open and read a text file in java? Explain your answer with an example
+JAVA program.         [5+5]
+10.a) Write a program to  display the month names by JList an d display the Days by
+JComboBox.
+b) Explain how the parameters are passing to an applet.    [5+5]
+OR
+11.a) Write a simple calculator applet that can handle basic math functions.
+b) Explain about the Hierarchy for the swing components.    [5+5]

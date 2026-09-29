@@ -1,0 +1,49 @@
+ENGINEERING PHYSICS-I
+question carries 10 marks and may have a, b, c as sub questions.
+Part- A
+1.a)  Define interference.               [2]
+b)  What is diffraction         [3]
+c)  Explain the phenomenon of polarization of light.       [2]
+d)  Explain spontaneous emission.       [3]
+e)  Write any two applications of optical fiber.      [2]
+f)  What is optical fiber? Explain basic principle of optical fiber   [3]
+g)  Define Space lattice.           [2]
+h)  Distinguish between unit cell and primitive cell.      [3]
+i)  What are the conditions to occur diffraction due to X-rays?     [2]
+j)   Define Burger’s vector.         [3]
+Part-B
+2.a) Discuss interference in thin film due to transmitted light.
+b) Write a note on Newton’s ring experiment.
+c) What is Coherence?          [4+4+2]
+OR
+3.a) Write a note on division of amplitude.
+b) Distinction between Fresnel and Fraunhofer diffraction.
+c) Discuss diffraction due to N- silts.       [3+3+4]
+4.a) Explain Malus law.
+b) What is double refraction?
+c) Explain the terms population and population inversion.    [3+3+4]
+OR
+5.a) Explain Quarter wave plate.
+b) With neat diagram explain working principle of Ruby laser system.
+c) Write any two applications of lasers.       [3+5+2]
+6.a) With neat diagram explain construction of optical fiber.
+b) Derive an expression for Acceptance angle.
+c) Derive an equation for Numerical aperture.      [4+3+3]
+OR
+7.a) Explain how Step index optical fibers are classified.
+b) Write a note on graded index optical fiber.
+c) What are the medical applications of optical fiber?     [4+4+2]
+8.a) With neat diagram explain types of crystal systems.
+b) Define crystal plane.
+c) Discuss construction of Diamond structure.      [4+2+4]
+OR
+9.a) What are the Bravais lattices?
+b) What are the Miller indices?
+c) Derive an expression for inter planner spacing of orthogonal crystal system.[4+3+3]
+10.a) Derive an equation for Bragg’s law.
+b) Discuss powder method.
+c) Explain vacancy defect.        [4+4+2]
+OR
+11.a) Discuss Laue method.
+b) What is Frenkel defect?
+c) Write a note on Schottky defect.       [4+3+3]

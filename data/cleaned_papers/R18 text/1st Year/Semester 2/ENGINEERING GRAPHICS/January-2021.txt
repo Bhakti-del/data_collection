@@ -1,0 +1,25 @@
+ENGINEERING GRAPHICS
+(Computer Science and Engineering)
+1.a) Draw a vernier scale of R.F. = 5 to read 1/ 5 cm and 1/25 cm and to measure up to 5 cm.
+Mark on the scale distances of 2.12 cm and 4.29 cm.
+b) The major axis of an ellipse is 150 mm long and the minor axis is 100 mm long. Find the
+foci and draw the ellipse. Draw a tangent to the ellipse at a  point on it 25 mm above the
+major axis.                   [10+15]
+2. A hexagonal plate of side 20 mm rests in the HP on one of its sides inclined at 45 0 to the
+VP. The surface of the plate makes an angle of 30 0 with the HP. Draw the front and top
+views of the plate.         [25]
+3. The point A of a line AB is in HP and 60 mm in front of VP. The point B is in VP and
+40 mm above HP. The distance between projectors is 70 mm. Draw the projections of the
+line and find the true length and inclinations.      [25]
+4. A pentagonal pyramid, having side of base 30 mm and axis 90 mm long, is resting on its
+base with one of its base edges parallel, nearer, and 15 mm away from VP. It is cut by a
+plane perpendicular to HP, inclined at 40 0 to VP, and 10 mm a way from the axis. Draw
+the sectional top view and front view. Also draw the true shape of the section. [25]
+5. A lamp shade is formed by cutting a cone of base 144 mm diameter and 174 mm height
+by a horizontal plane at a distance of 72 mm from the apex a nd by another plane inclined
+at 300 to HP and passing through one extremity of the base. Draw the development of the
+lamp shade.          [25]
+6. A cube of 30 mm side rests centrally on the top of a cylindrical slab of 50 mm diameter
+base and 40 mm hei ght lying on the ground. The axis of both solids are in the same
+straight line, and the base sides of the cube are equally inclined to the V.P. Draw the
+isometric projection of the solid.        [25]

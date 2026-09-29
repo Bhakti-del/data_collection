@@ -1,0 +1,31 @@
+BASIC ELECTRICAL ENGINEERING
+1.a) Describe different types of active elements and passive elements in the circuit analysis.
+b) By using the mesh analysis determine the loop currents in circuit shown in figure 1.
+[8+7]
+Figure 1
+2.a) With relevant diagrams, explain about sinusoidal response of series RC circuit.
+b) For the periodic wave form shown in the following figure 2, determine average and rms
+values.         [7+8]
+Figure 2
+3.a) Derive the condition for saving of a copper in a single-phase auto transformer.
+b) A 10 KVA, 500/250 V single phase transformer has its maximum efficiency of 94%
+when delivering 90% of its rated output at unity pf. Estimate its eff iciency when
+delivering its full load output at pf of 0.8 lagging.      [8+7]
+4.a) Explain the torque slip characteristics of 3-ϕ Induction motor.
+b) Write about construction and working of synchronous generators.    [8+7]
+5.a) Compare Fuse with Circuit breaker.
+b) What are various types of Batteries available? Explain important characteristics of
+Batteries.                    [5+10]
+6.a) Prove that superposition theorem not valid for power responses.
+b) Obtain Thevenin’s equivalent circuit for the network shown in figure 3.   [8+7]
+Figure 3
+7.a) Derive and explain rotating magnetic field in a three-phase induction motor.
+b) A 25 KVA single phase transformer has 250 turns on the primary and 40 turns on the
+secondary winding. The primary is c onnected to 1500 V, 50  Hz mains. Calculate
+(i) primary and secondary currents on full load (ii) secondary emf (iii) maximum flux in
+the core.           [8+7]
+8.a) Define power factor, apparent power, active power and reactive power.
+b) The impedances of parallel circuit are Z 1= (4+j6) ohms and Z 2 = (12-j8) ohms. If the
+applied voltage is 220  V, find (i) current and power factor of each branch (ii) overall
+current (iii) power consumed by each impedance. Draw the phasor diagram.  [8+7]
+--ooOoo--

@@ -1,0 +1,53 @@
+SCRIPTING LANGUAGES
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) What is swap area in Linux file system and also mention size of swap area in the Linux
+OS?           [2]
+b) List the standard symbols used to crea te various permissions in Linux . Give suitable
+examples.          [3]
+c) What is ftp? What is its usage in Linux?      [2]
+d) Differentiate between the hard mount and soft mount in NFS.   [3]
+e) What is the purpose of gmtime() function?      [2]
+f) What are some arguments that are used frequently in Perl and what do they mean? [3]
+g) What is the use of TK layout widgets?      [2]
+h) List the available Mega widgets in TK applications?     [3]
+i) What is a list? How lists differ from tuples?      [2]
+j) How is memory managed in Python?       [3]
+PART - B
+2.a) Explain the following commands with examples:
+i) Creating a Directory
+ii) Copying a file from one directory to another
+iii) Moving the files between Directories
+iv) Deleting a Directory and a File.
+b) What is kernel and explain its functions in detail.     [6+4]
+OR
+3.a) Sketch the neat diagram of Linux file system? Explain various directories organized in
+hierarchical structure?
+b) How do you perform search operation to find the fi les that were crated last week in the
+JNTUH directory?         [7+3]
+4.a) Enumerate the configuration of DNS in Linux.
+b) Explain in detail about Dynamic host configuration protocol.   [5+5]
+OR
+5.a) What are the configuration files in NFS of Linux os?
+b) Explain about various options used in /etc/exports file.    [3+7]
+used paper 16-12-2018PM
+6.a) Explain Perl. When do you use Perl for programming? What are the advantages of
+programming in Perl?
+b)  What are the logical operators used for small scale operatio ns? Explain them briefly.
+[5+5]
+OR
+7.a) Explain the arguments for Perl Interpreter.
+b)  Explain the following:
+i) Subroutine ii) Perl one-liner iii) iValue      [4+6]
+8.a) Write a TCL Program  to  remove duplicates in the given list?
+b) List the options and available functions for creating an image in TK?  [5+5]
+OR
+9.a) Explain  how  global, upvar and uplevel behaves in TCL with examples?
+b) Explain the list of available selection widgets with examples?   [5+5]
+10.a) Explain in detail about control flow tools in python.
+b) Explain about methods in Lists of Python with appropriate examples.  [5+5]
+OR
+11.a) Define error and exception. Distinguish the differences between them,
+b) Explain the features of python over ot her program ming languages.  Introduction to
+Python, using the Python Interpreter.        [5+5]
+used paper 16-12-2018PM

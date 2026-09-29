@@ -1,0 +1,33 @@
+SOFTWARE PROJECT MANAGEMENT
+10 marks and may have a, b, c as sub questions.
+PART – A
+1.a) What is meant by late risk resolution?      [2]
+b) Explain about requirements driven functional decomposition.   [3]
+c) Discuss the advantages of commercial components.     [2]
+d) What is meant by round trip engineering?      [3]
+e) What the phases of the life-cycle process? Explain.     [2]
+f) Write brief notes on construction phase.      [3]
+g) Discuss about initial operational capability milestone.    [2]
+h) Write brief notes on major milestones.      [3]
+i) What are the basic parameters of an earned value system?    [2]
+j) Write brief notes on metrics automation.      [3]
+PART – B
+2. Explain the waterfall model in large -scale system approach. Discuss five necessary
+improvements for this.        [10]
+OR
+3. Explain the progress profile of conventional software project.   [10]
+4. What are the key practices that improve over all software quality? Explain them. [10]
+OR
+5. Explain the top five principles of modern process.      [10]
+6. Describe the primary objectives, essential activities and primary evaluation criteria of
+elaboration phase.         [10]
+OR
+7. What is meant by artifact sets? Discuss about the engineering sets.   [10]
+8. Explain the conventional WBS issues and evolution of planning fidelity in the WBS over
+the life cycle.          [10]
+OR
+9. With a neat diagram explain the default roles in a software line of business organization.
+[10]
+10. Explain about seven core metrics.       [10]
+OR
+11. Discuss in detail about life cycle expectations.     [10]

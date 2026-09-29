@@ -1,0 +1,22 @@
+OPERATING SYSTEMS
+1. What are system calls? Explain about the various types of systems calls used in OS .
+[15]
+2.a) Explain about the services of operating system.
+b) Explain the O.S Structure.        [8+7]
+3. Consider Five processes P1 to P5 arrived at same time. They have estimated running time
+10,2,6,8 and 4 seconds respectively. Their priorities are 3,2,5,4 and 1 respectively with 5
+being highest priority. Find the average turn around time and averag e waiting time for
+Round Robin(q=3) and priority scheduling algorithm.    [15]
+4. What is Semaphore? Give the implementation of producer-consumer problem using
+Semaphore.             [15]
+5.a) Explain the concept of segmentation for memory management.
+b) Explain the steps involved for handling the page fault.    [8+7]
+6.a) What is fragmentation? Explain the difference between internal and external
+fragmentation.
+b) Explain about the structure of Page Table.      [8+7]
+7. Consider the following disk queen with requests for I/O to blocks on cylinders
+98,183,37,122,14,124,65,67 in that order, using FCFS, SCAN algorithms of the disk head
+is initially at cylinder 53,  find the total head movement in cylinders. Also provide the
+necessary diagram to show the head movement for the above queue.  [15]
+8. What do you mean by deadlock avoidance? Explain the use of Banker’s algorithm for
+deadlock avoidance with illustration.       [15]

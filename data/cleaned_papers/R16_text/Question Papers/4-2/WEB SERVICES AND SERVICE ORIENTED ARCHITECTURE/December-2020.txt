@@ -1,0 +1,13 @@
+WEB SERVICES AND SERVICE ORIENTED ARCHITECTURE
+(Computer Science and Engineering)
+1. Describe the architecture of CORBA and distinct advantages of it over a traditional client -
+server application model.        [15]
+2. Explain the importance and key advantages of distributed computing.  [15]
+3. Discuss the key design requirements of the web services architecture.  [15]
+4. “WSDL definition document consists of seven key structural elements ”. Explain their
+usage with suitable examples.        [15]
+5. Demonstrate usage of XLST to transform documents.    [15]
+6. Describe service oriented architecture development life cycle.   [15]
+7. Discuss the UDDI usage model and UDDI data structures.    [15]
+8. Explain the security threats for Web services and discuss briefly the counter measures.
+[15]

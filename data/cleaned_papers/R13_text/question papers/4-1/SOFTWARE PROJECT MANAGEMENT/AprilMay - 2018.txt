@@ -1,0 +1,38 @@
+SOFTWARE PROJECT MANAGEMENT
+marks and may have a, b, c as sub questions.
+PART- A
+1.a) What do you mean by the Size of the end product?      [2]
+b) List any 3 attributes for Good software cost estimate.    [3]
+c) List any Two characteristics of successful object-oriented project.   [2]
+d) Describe the Principle of Job matching.      [3]
+e) What do you mean by Production Stage?      [2]
+f) Write about Primary Objectives of Construction Phase.    [3]
+g) Write about Project Review Authority (PRA).     [2]
+h) Describe about Software Engineering Process Authority (SEPA).   [3]
+i) Write down the cost estimation relationship in Ada COCOMO.   [2]
+j) Write about Metric based scheduling and management.    [3]
+PART-B
+2.a) Discuss the conventional software management performance.
+b) Write about the predominant cost estimation process.    [5+5]
+OR
+3. Explain in detail about Pragmatic Software Cost estimation.    [10]
+4.a) How to achieve quality of a software?
+b) List and explain Boehm Principles of staffing for a Software Project.  [5+5]
+OR
+5. List and explain about various modern process approaches for solving conventional
+problems.          [10]
+6.a) Explain in detail about Transition Phase.
+b) Describe about Life-Cycle evolution of the artifact sets.    [5+5]
+OR
+7. Explain in detail about Artifacts Sets.       [10]
+8.a) Give the default agendas for the life-cycle architecture milestones.
+b) Describe the default roles in a software line-of-business organization.  [5+5]
+OR
+9. Explain in detail about Pragmatic Planning.       [10]
+10.a) List and explain Seven Core Metrics in Software Project.
+b) Describe about various priorities for tailoring the process framework.  [5+5]
+OR
+11.a) Briefly discuss some key differences in the process primitives for varying levels of
+stakeholder cohesion.
+b) Write about differences in artifacts between small and large projects.  [5+5]
+--ooOoo--

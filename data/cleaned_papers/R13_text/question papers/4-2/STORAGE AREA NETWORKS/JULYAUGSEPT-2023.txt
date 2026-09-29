@@ -1,0 +1,39 @@
+STORAGE AREA NETWORKS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      What are the benefits of storage networks on business applications?  [2]
+b)      What are the challenges in data storage and data management?   [3]
+c)      Write the benefits of the different networked storage options.   [2]
+d)      Discuss about  RAID 0+1.        [3]
+e)      Explain about business continuity.       [2]
+f)      What are the reasons for planned outages?      [3]
+g)      Explain about SAN based backup topology.      [2]
+h)      Discuss about Network-based Remote Replication.     [3]
+i)       What is a storage virtualization?       [2]
+j)       What are the key characteristics of a data center?     [3]
+PART – B
+2. Explain the major physical components of a disk drive and their functions.  [10]
+OR
+3. What are the limitations of server-centric IT architecture? How to overcome? Explain.[10]
+4.a) Explain  about SAN Connectivity.
+b) Explain the topologies of FC-SAN.       [5+5]
+OR
+5. Explain the following RAID levels with necessary block diagrams
+a)  RAID 3      b) RAID 5.        [5+5]
+6.a) Explain the reasons for unplanned outages.
+b) Write a short note on RTO.        [5+5]
+OR
+7. What are the single points of failure in a storage infrastructure and also list solutions to
+mitigate these failures?        [10]
+used paper July/Aug-2023
+8.a) Discuss about LAN based backup topology.
+b) Write a short note on Storage Array-based Remote Replication.   [5+5]
+OR
+9.a) Explain about the Direct- attached Backup topology.
+b) Write a short note on three-Site -based Remote Replication.    [5+5]
+10.a) List and Analyze the common threats in storage security domain.
+b) Briefly explain about the critical security attributes for information systems. [5+5]
+OR
+11. Explain about block-level virtualization technologies and processes.  [10]
+used paper July/Aug-2023

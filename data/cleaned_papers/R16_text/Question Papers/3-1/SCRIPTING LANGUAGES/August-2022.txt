@@ -1,0 +1,23 @@
+SCRIPTING LANGUAGES
+1.a) How to extract files from a .tar.gz and .tar.bz2 files on Linux system? List and explain
+the utilities used with various options associated with them.
+b) Draw the architecture of Linux operating system and explain various components in it.
+[7+8]
+2. Explain the functionality and usage with various options of the following commands:
+a) wc b) ls c) cp d) mv e) cat         [15]
+3. What is the purpose of FTP protocol? Explain its usage and functionality in detail along
+with the commands and options available.         [15]
+4. Explain h ow Network File System allows hosts for remote operations? Explain the
+fundamental concepts and working of NFS.         [15]
+5. Explain the following control statements with an example script in Perl:     [15]
+a) while b) until  c) for  d) foreach
+6.a) What is a regular expression? Explain various regular expressions and pattern  matching
+operators in PERL.
+b) Explain with an example how to create and use references in PERL.   [8+7]
+7. How the following operations on Tcl lists are implemented? Explain briefly.
+a) Creating lists
+b) Getting list elements
+c) Sorting lists.               [5+5+5]
+8.a) Demonstrate the concept of recursive functions in python.
+b)  How does a set data structure differ from a list data structure? Explain how to create
+and use them in python scripts.        [7+8]

@@ -1,0 +1,55 @@
+OPERATING SYSTEMS
+and may have a, b as sub questions.
+PART - A
+1.a)      Draw the Layered structure of Operating system.     [2]
+b)      Differentiate between multi programming and multi-processing.    [3]
+c)     How are processes managed in LINUX?      [2]
+d)      Describe the differences between preemptive scheduler and non -preemptive scheduler.
+[3]
+e)      Under what circumstances do page faults occurs?     [2]
+f)      What is the purpose of paging the page tables?     [3]
+g)     Describe about File Allocation Table.        [2]
+h)      Mention two important functions of Virtual File System (VFS) Layer.  [3]
+i)       What is deadlock? What is starvation? How do they differ from each other? [2]
+j)      Write down the principles of protection.      [3]
+PART - B
+2.a)   Define operating system goals from user's view and system's view.
+b)  Explain different categories of System calls with suitable examples.  [5+5]
+OR
+3.a)  Define Essential properties of Distributed Operating Systems.
+b)  Explain about the structure of operating system.     [5+5]
+4.     Explain RR and SJF scheduling algorithm with illustrations.        [10]
+OR
+5.  What is a monitor? Explain how dinning philosopher’s problem is solved using monitors
+with example pseudo code.          [10]
+6.a) What is paging? Explain the hardware support given for paging.
+b)  Differentiate Internal Fragmentation and External Fragmentation.   [5+5]
+OR
+7.   Consider the following page reference strings:
+1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6.
+How many page faults would occur for the following replacement algorithm, assuming
+three, four frames? Remember that all frames are ini tially empty, so your first unique
+pages will cost one fault each.
+a) LRU replacement
+b) Optimal replacement.        [5+5]
+8.a)    Explain in detail about different File Allocation methods..
+b)   Explain in detail about file system structure and implementation.   [5+5]
+OR
+9.a)  Explain the various methods for free-space management.
+b)  Suppose that a disk drive has 5,000 cylinders, numbered 0 to 4999. The drive is currently
+serving a request at cylinder 143, and the previous request was at cylinder 125. The queue
+of pending requests, in FIFO order, is: 86, 1470, 913, 1774, 948, 1509, 1022, 1750, 130.
+Starting from the current head position, what is the total distance (in cylinders) that the
+disk arm moves to satisfy all the pending requests for each of the  SSTF disk scheduling
+algorithms?          [5+5]
+10.   Consider a system with three processes and four resources. Resource R1 and R3 with one
+instance, R2 with two instance, process P1 holding an instance of R2 and waiting for R1,
+process P2 is holding an instance of R1 and R2 and waiting for R3, process P3 is holding
+an instance of R3.
+a) Draw resource allocation graph to the given system.
+b) Is it possible to apply the Resource allocation graph algorithm to avoid deadlock?
+Explain.          [5+5]
+OR
+11.a)   What is meant by authentication? Why simple password protection is the most common
+authentication scheme in use today?
+b)   Discuss about revocation of access rights.      [5+5]

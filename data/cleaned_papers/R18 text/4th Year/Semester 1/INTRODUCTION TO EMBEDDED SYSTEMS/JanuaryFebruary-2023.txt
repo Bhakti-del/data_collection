@@ -1,0 +1,35 @@
+INTRODUCTION TO EMBEDDED SYSTEMS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) List some examples of third and fourth generation embedded systems.  [2]
+b) Give some important applications of embedded systems.    [3]
+c) What is the purpose watchdog timer?       [2]
+d) Write the advantages of PLD.          [3]
+e) What is assembly language programming?      [2]
+f) Write the limitations of high level language based development.   [3]
+g) What is the process life cycle?       [2]
+h) What are the merits and demerits of sleep & wakeup mechanism based mutual exclusion?
+[3]
+i) What is monitor programming?       [2]
+j) Give the differences between Intel Hex and Motorola Hex file format.  [3]
+PART – B
+2. Explain the various purposes of embedded systems with illustrative examples. [10]
+OR
+3. What is operational quality attribute? Explain the important operational quality attributes to be
+considered in any embedded system design.      [10]
+4. What are the different types of memories used in Embedded System design? Explain the role
+of each.          [10]
+OR
+5. Explain the role of reset circuit and real time clock in embedded system design. [10]
+6. Explain the different Embedded Firmware Design Approaches in detail.  [10]
+OR
+7. What is a pointer in embedded C programming? Explain the different arithmetic and relational
+operations supported by pointers.        [10]
+8. Explain the commonly used thread standards for thread creation and management by different
+operating systems.         [10]
+OR
+9. Explain the various task synchronization techniques.     [10]
+10. Explain the different tools used for hardware debugging.    [10]
+OR
+11. Explain the Boundary Scan based hardware debugging in detail.   [10]

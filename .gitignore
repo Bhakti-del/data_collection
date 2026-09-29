@@ -1,0 +1,29 @@
+# Python / Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Large PDF binaries & temporary text dumps
+data/raw_pdfs/*
+!data/raw_pdfs/.gitkeep
+data/extracted_text/*
+!data/extracted_text/.gitkeep
+
+# Elixir / Phoenix build artifacts
+_build/
+deps/
+*.beam
+.fetch
+
+# Lean build artifacts
+.lake/
+lake-packages/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

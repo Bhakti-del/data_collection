@@ -1,0 +1,42 @@
+AD-HOC AND SENSOR NETWORKS
+and may have a, b as sub questions.
+PART – A
+1.a) State two design challenges of a Manet.      [2]
+b)      List the important characteristics of a Manet.      [3]
+c)      State the role of jitter in any broadcast protocol for Manet.    [2]
+d)      Define and illustrate flooding mechanism.      [3]
+e)      State the applications of geo-cast routing.      [2]
+f)      State the reasons for poor performance of TCP over ad hoc links.   [3]
+g)      Write the formula in LEACH protocol for CH selection.    [2]
+h)     Define-Sensor, Sensor Node and Sensor Network.     [3]
+i)      What is meant by data aggregation in sensor applications?    [2]
+j)      Write about COUGAR, sensor database system.     [3]
+PART – B
+2.a) Write about any one location service algorithm for position-based routing in Manets.
+b) Illustrate any one forwarding strategy for position-based routing in Manets. [5+5]
+OR
+3.a) State the merits and demerits of proactive and reactive routing protocols for Manets.
+b) Illustrate the working of ZRP, Zone-based Routing Protocol.   [5+5]
+4.a) What is meant by Broadcast Storm Problem in Manet routing? Illustrate with an example.
+b) Differentiate the tree-based and mesh-based multicast schemes for Manets. [5+5]
+OR
+5.a) Explain the tree-based multicast scheme for Manets, AMRIS.
+b) Write the algorithmic steps for MPR (Multi -Point Relaying) protocol for  Manet
+broadcasting.          [5+5]
+6.a) Giving a neat sketch, write about Mesh-based Geocast Routing (MGR) protocol.
+b) Explain the ELFN protocol for TCP over ad hoc links.    [5+5]
+OR
+7.a) What is meant by anycast? Explain the GeoTORA protocol making use of anycast.
+b) Explain how COPAS addresses the unfairness issue of TCP in ad hoc environment.[5+5]
+8.a) Giving a architectural diagram, write about Great Duck Island application of wireless sensor
+networks.
+b) Explain how data dissemi nation in sensor networks is achieved using Directed Diffusion
+algorithm.          [5+5]
+OR
+9.a) Explain the differences between TEEN and APTEEN protocols in WSNs.
+b) Explain the distinction of PEGASIS protocol over LEACH.    [5+5]
+10.a) Explain how dynamic nature of WSN is addressed with adaptation concept?
+b) Write about query processing in wireless sensor networks.     [5+5]
+OR
+11.a) With the help of an architectural diagram, write about any one sensor database system.
+b) Write about in-network processing in sensor applications emphasizing its merits. [5+5]

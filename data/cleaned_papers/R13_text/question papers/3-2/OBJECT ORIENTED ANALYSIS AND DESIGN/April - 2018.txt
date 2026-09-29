@@ -1,0 +1,49 @@
+OBJECT ORIENTED ANALYSIS AND DESIGN
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)    What is the importance of modeling?                                                                         [2]
+b)    Explain w hy object oriented a pproach is preferable wh en compared to other
+approaches?                                                                                                               [3]
+c)    What is visibility of an element owned by a package?                 [2]
+d)    What are the steps to model simple collaborations of class diagram?  [3]
+e)    Distinguish between activity and action state in UML.                          [2]
+f)     Explain briefly about usecase flow of events.                                                           [3]
+g)    Discuss how to depict iterated and broadcast messages in interaction diagrams.  [2]
+h)    What are the properties of a well structured component diagrams?                         [3]
+i)     Enumerate steps to model concrete instances in UML.                                            [2]
+j)     What is node? How to organize nodes in UML?     [3]
+PART - B
+2.a)  Write about structural things of UML vocabulary. Give UML notation.
+b)  What are principles of modelling? Explain.      [5+5]
+OR
+3.  Explain briefly about following terms:
+a) Stereotypes
+b) Tagged Values
+c) Constraints                           [3+3+4]
+4.a)  What is a class diagram? What are the common properties and uses of class diagrams?
+b)  With reference to class diagrams, enumerate the steps to forward engineer.  [5+5]
+OR
+5.a)  Enumerate steps to model vocabulary of a system.
+b)  Enumerate steps to model distribution of responsibilities in a system.  [5+5]
+used paper 25-04-2018
+6.a)  What is meant by usecase? Explain about use case description with an example.
+b)  State and explain the common modeling techniques of usecase diagrams.  [5+5]
+OR
+7.a)  Explain about forking and joining concepts in activity diagram with an example.
+b)  Draw swimlane flowchart for fin ancial accounting template and customize it to show
+your processes and procedures.       [5+5]
+8.a)  How will you model distribution of objects.
+b)  What is an event? What are different types of events?       [5+5]
+OR
+9.a)  Enumerate the steps in modeling timing constraints. Illustrate with a UML diagram.
+b)  Consider an object diagram that models the distribution of certain objects in  a real time
+system. Draw the diagram and explain briefly.     [5+5]
+10.a)  Draw an use case diagram for hospital in formation system aimed at collecting and
+storing complete information pertaining to the patients.
+b)  Draw sequence diagram for hospital information system.    [5+5]
+OR
+11.a)  Draw a diagram that show set of nodes and their relations for library manag ement
+system.
+b)  Explain briefly about boundary, control and entity classes. Give suitable examples.
+[5+5]
+used paper 25-04-2018

@@ -1,0 +1,39 @@
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Define VPN server.         [2]
+b)      How to identify the unauthorized devices?      [3]
+c)      Define troubleshooting.          [2]
+d)      Explain connectivity network and device network.     [3]
+e)      List out different types of data backup.      [2]
+f)       Explain about security policy for back procedures.     [3]
+g)      Define log correlation.        [2]
+h)      Explain about computer security logs.      [3]
+i)       Define network reconnaissance incidents.      [2]
+j)       How to prevent and stop a DoS incident?      [3]
+PART - B
+2.a) Explain how we can test the traffic and filtering devices.
+b) What are the different types of configuring modes?     [5+5]
+OR
+3.a) How to configuring bastion Host?
+b) Explain about privilege mode.       [5+5]
+4.a) Write a short note on Introduction of trouble schooting.
+b) Discuss briefly about systems.       [5+5]
+OR
+5.a) Explain about troubleshooting of device network.
+b) Write short note on modems.        [5+5]
+6.a) Explain about the response of information security incident management.
+b) Explain about incident response process.      [5+5]
+OR
+7.a) What are the techniques of data backup?
+b) How to develop the effective data backup strategy and plan?   [5+5]
+8.a) How to configure windows logs?
+b) Explain about log management functions.      [5+5]
+OR
+9.a) Explain about time synchronization.
+b) Explain briefly about NTP.        [5+5]
+10.a) How to handle the network scanning security incidents?
+b) Explain plan network attacks and security incidents.     [5+5]
+OR
+11.a) Explain incident handling preparation and prevention.
+b) How to detect malicious code?        [5+5]

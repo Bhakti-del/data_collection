@@ -1,0 +1,55 @@
+INDUSTRIAL MANAGEMENT
+and may have a, b as sub questions.
+PART – A
+1.a)      What are the key components of Taylor’s Scientific Management Theory?  [2]
+b)     List any six principles of management.      [3]
+c)      Explain the differences between line organization, line and staff organization. [2]
+d)      Define departmentation and decentralization.     [3]
+e)      Define mass production.        [2]
+f)      Describe the product design process and its key stages.    [3]
+g)      Define work measurement.        [2]
+h)      What are the key steps involved in conducting a work study?   [3]
+i)      Define job evaluation.         [2]
+j)       What are the different methods of job evaluation?     [3]
+PART – B
+2.  Explain the difference b etween McGregor’s Theory X and Theory Y in terms of
+assumptions about employee behavior.        [10]
+OR
+3.  Evaluate the applicability of Herzberg’s Two -Factor Theory of Motivation in today’s
+dynamic work environments, considering its strengths and limitations.    [10]
+4.  How does a matrix organization differ from a committee organization in terms of
+structure and decision-making processes?        [10]
+OR
+5.  How would you apply the concept of a virtual organization to enhance collaboration
+and flexibility within a geographically dispersed team?      [10]
+6.  Explain the differences between job production, batch production, and mass production
+systems.            [10]
+OR
+7.  Assess the challenges and benefits of implementing a lean production system in a
+traditional mass production facility, considering factors such as cultural change and
+resource allocation.           [10]
+used paper Aug-2024
+8.a)  Define work study and its primary objectives.
+b)  How does work measurement differ from method study?    [5+5]
+OR
+9.a)  Evaluate the effectiveness of work sampling as a method for estimating workloads and
+identifying process bottlenecks within a healthcare setting.
+b) Differentiate between variables and attributes control charts.   [5+5]
+10.  How does the classificati on method in job evaluation categorize jobs based on
+predetermined factors or criteria?         [10]
+OR
+11.a)  Define PERT and CPM and explain their significance in project management.
+b)  Consider a software development project with the following activities:
+Activity Optimistic Time (days) Most Likely Time (days) Pessimistic Time (days)
+A 4 6 8
+B 5 7 9
+C 3 5 7
+D 6 8 10
+E 2 4 6
+F 4 6 8
+Assuming activities are independent, calculate:
+i) Expected time for each activity
+ii) Variance for each activity
+iii) Expected project duration
+iv) Probability that the project will be completed within 24 days.   [5+5]
+used paper Aug-2024

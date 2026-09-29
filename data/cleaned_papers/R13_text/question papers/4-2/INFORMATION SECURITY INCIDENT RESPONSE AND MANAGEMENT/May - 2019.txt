@@ -1,0 +1,34 @@
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a) How to test the traffic filtering devices?      [2]
+b) What is  Bastion Host?        [3]
+c) What is troubleshooting of network communication?       [2]
+d) What is troubleshooting of connectivity?       [3]
+e) What is the need for incident response?      [2]
+f) How to identify an incident?        [3]
+g) What is Security information event management?     [2]
+h) Write about the logon types supported by Windows.     [3]
+i) How to Mitigate the effects of the  DDOS attack?     [2]
+j) What are the preparation steps that can be taken for prevention from malicious code
+incidents?          [3]
+PART - B
+2. Write about network slowdowns.       [10]
+OR
+3. Discuss about configuration of routers.      [10]
+4. Explain about troubleshooting of device network.        [10]
+OR
+5. Write a note on methodology of trouble shooting.       [10]
+6.a) What are the requirements of incident response plan?
+b) Discuss about tool kit, systems and instrumentation th at may be useful in an incident
+response.           [5+5]
+OR
+7. Explain the steps in Incident Response Process.     [10]
+8. Describe common log management infrastructure functions.      [10]
+OR
+9. Write about the Knowledge required to perform the job of an Information Security Analyst
+effectively.          [10]
+10. Explain the key aspects useful in determining malicious code detection.  [10]
+OR
+11. Discuss about Containment strategy for malicious code incidents.   [10]

@@ -1,0 +1,36 @@
+SOFT COMPUTING
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Define best first search.       [2]
+b) Discuss briefly about means end analysis.     [3]
+c) Define associative memory networks.        [2]
+d) Write the basic mathematical model for Artificial neural network.  [3]
+e) Explain maxnet.        [2]
+f) Describe the concept of Self organization features maps.   [3]
+g) Define Fuzzification.          [2]
+h) Write a short notes on Fuzzy relations.     [3]
+i) Explain Fuzzy states.        [2]
+j) Illustrate about internet search technique.      [3]
+PART-B
+2. Explain constraint satisfaction problem by taking 8 queens problem as an example. [10]
+OR
+3.  Explain unification algorithm used for reasoning under predicate logic with an example.
+[10]
+4. Compare and contrast between Artificial and Biological Neural Networks.  [10]
+OR
+5.  Discuss algorithm for storage of conf irmation in Hop field network. Explain recall
+algorithm.          [10]
+6.  Explain in detail about the concept of Fixed Weight competitive nets.  [10]
+OR
+7. Explain the architectures of Counter-Propagation Networks and their training algorithms.
+[10]
+8.  Differentiate fuzzy set from classical set and name the properties of classical (crisp) sets.
+[10]
+OR
+9. Explain in detail about Tolerance and equivalence relations in Fuzzy sets.  [10]
+10.  With an example show how genetic algorithms are used to build fuzzy logic control
+systems.          [10]
+OR
+11. Give an example to explain how approximate  reasoning is performed in Fuzzy decision
+making.          [10]
+---ooOoo—

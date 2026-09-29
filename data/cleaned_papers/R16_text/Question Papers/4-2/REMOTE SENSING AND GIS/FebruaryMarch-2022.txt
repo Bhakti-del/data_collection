@@ -1,0 +1,14 @@
+REMOTE SENSING AND GIS
+1. Write and explain the types of aerial photograph.     [15]
+2. Explain in detail  application of Aer ial photo interpretation along with fundamentals of
+stereoscopy.          [15]
+3. Describe various elements of visual interpretation techniques.   [15]
+4. Discuss different components of Geographic Information Systems.   [15]
+5. Define map projection. Explain various types of Map Projections.   [15]
+6. Write comparison between vector and raster data structures.    [15]
+7. Explain briefly the types of raster data along with representation of raster data. [15]
+8. Write a note on the following
+a) Field data
+b) Remote sensing data
+c) Meta data.          [5+5+5]
+--ooOoo--

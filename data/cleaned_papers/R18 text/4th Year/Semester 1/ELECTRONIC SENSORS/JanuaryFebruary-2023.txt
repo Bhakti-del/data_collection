@@ -1,0 +1,37 @@
+ELECTRONIC SENSORS
+and may have a, b as sub questions.
+PART – A
+1.a)      What is an active and passive transducer?      [2]
+b)      What are the advantages and disadvantages of an electrical transducer?  [3]
+c)      How is temperature range calculated using a thermocouple sensor?   [2]
+d)      What are the three important aspects of a radiation thermometer?   [3]
+e)      What is a Hall effect sensor?        [2]
+f)      Explain Lorentz Force.        [3]
+g)      Define cell constant. Mention the SI unit of cell constant.    [2]
+h)      List two differences between electrochemical cell and electrolytic cell.  [3]
+i)      Classify the sensors based on application.      [2]
+j)      Discuss the parameters considered during selection of sensors.   [3]
+PART – B
+2. What is meant characterization of a sensor? Explain briefly about mechanical and
+thermal characterization of a sensor.       [10]
+OR
+3. What are the semiconductor strain gauges? Explain them in detail.   [10]
+4.a) Describe the principle of spectroscopic thermometry.
+b) Define noise thermometer. Explain various schemes of noise thermometry.  [5+5]
+OR
+5.a) Describe Dielectric Constant and Refractive Index thermo sensors.
+b) Write short notes on helium low temperature thermometer.    [5+5]
+6. Write a short note on Angular Movement Transducers and Semiconductor Magneto
+resistors.          [10]
+OR
+7.a) Discuss the working of Synchros.
+b) Explain Inductance Current Sensor.       [5+5]
+8.a) Discuss the working of electro ceramics in Gas media.
+b) What is Liquid Junction?        [5+5]
+OR
+9.a) Explain the Fibre optic sensors.
+b) Discuss about Nuclear radiation sensors.      [5+5]
+10. Explain the Sensors for environmental monitoring and aerospace sensors in detail. [10]
+OR
+11. Describe with the help of diagram, how the primary sensors are being integrated with
+signal processing ensembles.        [10]

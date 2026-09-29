@@ -1,0 +1,43 @@
+DATABASE SECURITY
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      Define database inference with an example.      [2]
+b)      What is the difference between Take rule and Grant Rule?    [3]
+c)      Define the data confidentiality.       [2]
+d)      Describe access Matrix Models.       [3]
+e)      What is Modularity?         [2]
+f)      Write about design pattern.        [3]
+g)      What is the usage of frame-based system?      [2]
+h)      Write the properties of object oriented data base.     [3]
+i)       What does Jajodia model represent?       [2]
+j)       List out some attributes of Orion model.      [3]
+PART – B
+2.a)   Explain database vulnerability with a neat diagram.
+b)   Describe Take-Grant protection model in detail.     [5+5]
+OR
+3.a) What is PN model? Write its features and advantages?
+b) Write in detail about Acten model.          [5+5]
+4.a)  Explain about Memory Protection, what is the need of MPU and MMU.
+b)  List out four gates of Operating System Security and explain in detail.     [5+5]
+OR
+5.a)  Explain control mechanism for resource protection.
+b)  Describe Lattice model for the flow control.      [5+5]
+6.a)  Describe  the statistical concepts in database protection.
+b)  Compare logical inference Vs statistical inference in the context of data base protection.
+[5+5]
+OR
+7.a)  Explain different types of attacks on data base.
+b)  What is IDES system? Explain its functionality related to data base security. [5+5]
+used paper July/Aug-2023
+8.a)  Discuss about multilevel database management system in detail.
+b)   Elaborate SORION protection model in detail.     [5+5]
+OR
+9.a)  Explain the security policy of MLS/ODBMS.
+b)  Describe the trusted computing base security policy in detail.   [5+5]
+10.a)  Explain the ORION architecture in detail with a neat diagram.
+b)  What is the need of protection for active databases? Explain in detail.  [5+5]
+OR
+11.a)  Discuss about real-time security system in detail.
+b)  Explain the Jajodia model and its advantages.     [5+5]
+used paper July/Aug-2023

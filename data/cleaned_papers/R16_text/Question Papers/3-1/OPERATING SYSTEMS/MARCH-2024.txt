@@ -1,0 +1,49 @@
+OPERATING SYSTEMS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      Define an operating system.        [2]
+b)      What are the objectives of OS?       [3]
+c)      Distinguish between a process and a thread.       [2]
+d)      What is critical section?        [3]
+e)      Define thrashing.         [2]
+f)      What is meant by paging and segmentation?      [3]
+g)      Write about file sharing.          [2]
+h)      What is the purpose of unlink()?       [3]
+i)       What is mutual exclusion?        [2]
+j)       What is wait-for-graph?        [3]
+PART – B
+2.a) Explain various operating system services.
+b)  Draw and explain the layered architecture of an operating system.   [5+5]
+OR
+3.a)  Write about operating system role in storage management and security.
+b) What is a system program? Give some examples.       [6+4]
+4.  Perform preemptive and non -preemptive SJF scheduling on following data and
+compute average waiting time and average turnaround time.     [10]
+Process ID Arrival time  Burst time
+P01 0 4
+P02 1 5
+P03 3 7
+P04 5 1
+P05 6 9
+OR
+5.a)  Distinguish between unnamed pipes and named pipes.
+b)  List and explain various scheduling criteria.      [5+5]
+RA
+Used Papers March-2024
+6.  Explain various memory allocation techniques with clear illustrations.    [10]
+OR
+7.  Simulate FIFO, LRU and optimal page replacement algorithms on following reference
+string and compute the number of page faults for a frame size of 3 and assuming the
+frame is initially empty.            [10]
+1,2,3,1,5,6,7,2,3,4,2,4,6,7,2,3,4,1
+8.  List and explain various file directory structures.       [10]
+OR
+9.a)  Distinguish between SCAN and C-SCAN disk scheduling algorithms.
+b)  Explain about file system mounting.       [5+5]
+10.a)  What are the principles of protection?
+b)  What are the various deadlock prevention strategies? Explain them.    [4+6]
+OR
+11.a)  What is protection? What are the goals of protection?
+b)  What are various methods for recovering from deadlock? Explain.    [4+6]
+Used Papers March-2024

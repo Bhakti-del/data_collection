@@ -1,0 +1,40 @@
+SENSORS AND TRANSDUCERS
+and may have a, b as sub questions.
+PART – A
+1.a) What is the purpose of measurement?      [2]
+b) List the types of instrumental error.       [3]
+c) What is dynamic error?        [2]
+d) What is repeatability?         [3]
+e) Define  the permittivity.        [2]
+f) Write the working principle of proving ring.      [3]
+g) What is the principle of capacitive transducer?     [2]
+h) What are the applications of LVDT?       [3]
+i) Give any applications of smart sensors.      [2]
+j) Define Hall Effect.         [3]
+PART – B
+2.a) What are the three categories of systematic errors in the instrument and explain in detail.
+b) Draw the block diagram of measuring system.     [5+5]
+OR
+3.a) Compare the between accuracy and precision.
+b) Explain the basic requirements of a sensor.      [5+5]
+4. Write the equations of various mathematical model of transducer, explain with diagram in
+detail.            [10]
+OR
+5. Discuss in detail the various static and dynamic characteristics of a measurement system.
+[10]
+6.a) Explain the working of strain gauge.
+b) Explain the working of load cell.       [5+5]
+OR
+7. Explain about thermistors materials and its Constructions and Characteristics. [10]
+used paper July/Aug-2023
+8.a) Compare the self-inductive transducer and mutual inductive transducers.
+b) Explain the principle of RVDT with suitable diagram.    [5+5]
+OR
+9.a) Discuss about variable air gap type capacitive transducer with its diagram.
+b) Write the working principle of capacitor microphone.    [5+5]
+10.a) What is MEMS? Explain the advantages, disadvantages and applications of MEMS.
+b) Discuss about construction and working of digital transducers.   [5+5]
+OR
+11.a) Explain the construction and working of film sensors with neat sketch.
+b) Describe the working of piezoelectric transducer.      [5+5]
+used paper July/Aug-2023

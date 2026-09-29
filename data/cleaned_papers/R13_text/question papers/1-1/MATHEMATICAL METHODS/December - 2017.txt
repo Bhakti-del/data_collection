@@ -1,0 +1,105 @@
+MATHEMATICAL METHODS
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Prove that
+     
+1log 1 log 1 sin .h          [2]
+b) If
+2
+1 , 15, 30, 110, 55o i i i i iy a a x x y x y x         then find
+1.a   [3]
+c) Find square root of a number N by Newton-Raphson method.     [2]
+d) Find first approximation of
+y x y if
+ 01y  by picards method.  [3]
+e) Express f(x) = x as a Fourier Series in
+ ,.       [2]
+f) Prove that
+   1 ,pF f ax F aa
+   where
+ Fp = Fourier transform of f(x). [3]
+g) Eliminate arbitrary function from
+ 
+2 2 2 .z f x y z         [2]
+h) Find the general solution of
+1.pq       [3]
+i) If
+2 3 23x y y z   find grad
+  at (1, -2, -1).      [2]
+j) Find the curl of the vector
+2 2 23 ( ) .xyzi x yj xz y z k       [3]
+PART-B
+2.a) Find f(2.5) using Newton’s forward formula from the following table.
+b) Using Lagranges interpolation formula, find y(10) from the following table.
+[5+5]
+OR
+3.a) Fit a second degree polynomial to the following data by the method of least squares.
+b) Find the parabola of the form
+2y ax bx c    passing through the points ( -1, 2), (0, 1)
+and (1, 4).          [5+5]
+x 0 1 2 3 4 5 6
+y 0 1 16 81 256 625 1296
+x 5 6 9 11
+y 12 13 14 16
+x 0 1 2 3 4
+y 1 1.8 1.3 2.5 6.3
+4.a) Find a root of the equation
+cos 0xx using bisection method correct to two decimals
+places.
+b) Find
+ 6f  from the following data
+[5+5]
+OR
+5.a) Find y(0.1) and y(0.2) using R -K fourth order formula given that
+2y x y  and
+y(0) = 1.
+b) Use Milne’s method to find y(0.8) and y(1.0) from
+ 
+21 , 0 0,y y y   if
+1 2 30.2027, 0.4228, 0.6841.y y y         [5+5]
+6. Find the Fourier series of
+  sin , .f x x x x    Hence deduce that
+ 1 1 1 1 ...... 2 .1.3 3.5 5.7 4            [10]
+OR
+7.a) Using Fourier integral show that
+22
+0
+2 cos , ( 0).ax axe d a a
+ 
+
+ 
+b) Find
+1
+2 .1
+s
+sF s
+           [5+5]
+8.a) Solve
+2uu uxt
+   where u(x, 0) = 6.e-3x.
+b) If a string of length l is initially at rest in equilibrium position and each of its points is
+given the velocity
+3Sin ,o
+xV l
+  find the displacement
+ ,.y x t    [5+5]
+OR
+9. An infinitely long plane uniform plate is bounded by two parallel edges and an end at
+right angles to them. The breadth is π. This end is maintained at a temperature
+ou  at all
+points and the other edges are at zero temperature. Determine the temperature at any
+point of the plate in the steady state.       [10]
+10. Show that
+3ˆ. 2s
+F nds  where
+24F zi y j yzk   
+  and S is the surface of the cube
+bounded by the planes x = 0, x = 1, y = 0, y = 1, z = 0, z = 1.    [10]
+OR
+11. Verify Stoke’s theorem for
+   
+22 4 3 2F x y i xyj xz z k       over the surface of
+hemisphere
+2 2 2 16x y z    above the xoy plane.     [10]
+x 0 2 3 4 7 9
+f(x) 4 26 58 112 466 922

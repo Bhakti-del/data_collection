@@ -1,0 +1,92 @@
+MATHEMATICS – II
+and may have a, b as sub questions.
+PART – A
+1.a)      Find the Laplace transform of the function 𝑓(𝑡) =  𝑡2.    [2]
+b)      Find the Laplace transform of (
+𝑠𝑖𝑛3𝑡
+𝑡 ) .      [3]
+c)      Find the value of
+ 1 .2          [2]
+d)      Express ∫
+𝑑𝑥
+√9−𝑥2
+3
+0  in terms of Beta functions.      [3]
+e)      Evaluate ∫ ∫ 𝑟𝑑𝑟𝑑𝜃
+𝑎𝑠𝑖𝑛𝜃
+0 .
+𝜋
+0  What is the region of integration?   [2]
+f)      Find the area between two curves 𝑦 = 𝑥; 𝑦 =  𝑥2.     [3]
+g)      Define Solenoidal and Irrotational of a vector.     [2]
+h)      Find the angle between two surfaces 𝑥2 + 𝑦2 + 𝑧2 = 9 ; 𝑥2 + 𝑦2 − 𝑧 − 3 = 0 at (2,-1,2).
+[3]
+i)      Find the work done in moving a particle by the force field 𝐹̅ =  3𝑥2𝑖 + 𝑗 + 𝑧𝑘̅ along the
+straight line from (0,0,0) to (2,1,3).       [2]
+j)       If 𝐹̅ = (2𝑥2 − 3𝑧)𝑖 − 2𝑥𝑦𝑗 − 4𝑥𝑘̅ then evaluate ∫(∇  × 𝐹̅) 𝑑𝑣 over v, where v is the
+closed region bounded by 𝑥 = 0, 𝑦 = 0, 𝑧 = 0, 2𝑥 + 2𝑦 + 𝑧 = 4.   [3]
+PART - B
+2.a)  Use Laplace transform to prove that ∫
+𝑠𝑖𝑛𝑡
+𝑡 𝑑𝑡 =
+𝜋
+4
+∞
+0 .
+b) Find 𝐿−1 [
+𝑠
+(𝑠+1)2(𝑠2+1)] .        [5+5]
+OR
+3. Solve by using Laplace transforms 𝑦′′(𝑡) + 5𝑦′(𝑡) + 6𝑦(𝑡) = 𝑡 with 𝑦(0) = 1  and
+𝑦′(0) = 1.          [10]
+4.a) Evaluate ∫ 𝑥3(2𝑎𝑥 − 𝑥2)
+3 2⁄  𝑑𝑥
+2𝑎
+0 .
+b) Evaluate ∫ sin 𝑥2𝑑𝑥
+∞
+0 .         [5+5]
+OR
+5.a)  Show that ∫
+𝑥𝑚−1+ 𝑥𝑛−1
+(1+𝑥)𝑚+𝑛  𝑑𝑥 =  𝛽(𝑚, 𝑛).
+1
+0
+b) Express ∫ 𝑠𝑖𝑛5𝜃 𝑐𝑜𝑠
+7
+2
+𝜋
+2
+0 𝜃 𝑑𝜃 in terms of Beta and Gamma functions and hence evaluate.
+[5+5]
+6. Change the order of integration and hence evaluate the double integral ∫ ∫ 𝑑𝑦𝑑𝑥.
+2√𝑎𝑥
+𝑥2
+4𝑎
+4𝑎
+0
+[10]
+OR
+7. Find the volume of the tetrahedron bounded by the planes 𝑥 = 0, 𝑦 = 0, 𝑧 = 0 and
+𝑥
+𝑎 +
+𝑦
+𝑏 +
+𝑧
+𝑐 = 1 using triple integration.      [10]
+8.a) Prove that ∇(𝑟𝑛) = 𝑛𝑟𝑛−2𝑟̅.
+b)  Find constants a, b, c so that the vector,
+𝐴̅ = (𝑥 + 2𝑦 + 𝑎𝑧)𝑖 + (𝑏𝑥 − 3𝑦 − 𝑧)𝑗 + (4𝑥 + 𝑐𝑦 + 2𝑧)𝑘̅ is irrotational. Also find 𝜑
+such that 𝐴̅ = ∇𝜑.         [5+5]
+OR
+9.a) Prove that ∇ (∇.
+𝑟̅
+𝑟) =  −
+2
+𝑟3 𝑟̅.
+b)  Prove that ∇2(𝑟𝑛) = 𝑛𝑟𝑛−2(𝑛 + 1).        [5+5]
+10. Verify Gauss Divergence theorem for 𝐹̅ =  𝑥3𝑖 + 𝑦3𝑗 + 𝑧3𝑘̅  taken over the cube bounded
+by 𝑥 = 0, 𝑥 = 𝑎, 𝑦 = 0, 𝑦 = 𝑎, 𝑧 = 0, 𝑧 = 𝑎.      [10]
+OR
+11. Verify Stokes theorem for 𝐹̅ = (𝑦 − 𝑧 + 2)𝑖 + (𝑦𝑧 + 4)𝑗 − 𝑥𝑧𝑘̅ where S is the surface of
+the cube 𝑥 = 0, 𝑦 = 0, 𝑧 = 0, 𝑥 = 2, 𝑦 = 2, 𝑧 = 2 above the xy-plane.  [10]

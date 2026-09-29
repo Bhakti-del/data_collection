@@ -1,0 +1,20 @@
+DATA COMMUNICATION AND COMPUTER NETWORKS
+----
+1.a) Describe in detail about the concept of data transmission and its terminology with
+necessary example.
+b) Explain about ISO-OSI reference model with a neat sketch.      [7+8]
+2.a) Summarize circuit switching technology implementation in Telephone networks.
+b) Write short note on Multiplexing.       [8+7]
+3.a) Explain why collision is an issue in a random -access protocol but  not in controlled
+access or channelizing protocols?
+b) Brief in detail about collision avoidance in Wi‐Fi (802.11).    [7+8]
+4. With the neat sketches, formulate and explain the working principle of CRC with  an
+example.            [15]
+5. Define and describe Classful Addressing and Classless Addressing.     [15]
+6.a) How would you demonstrate the challenges in inter-domain routing?
+b) With a neat diagram explain distance vector routing protocol.   [7+8]
+7. How is congestion controlled? Explain in detail about congestion control mechanisms
+in transport layer.           [15]
+8.a) Explain Telnet in detail.
+b)  Illustrate the role of POP3 in electronic mail applications. Explain in detail. [7+8]
+USED PAPERSSEP-2021

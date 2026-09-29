@@ -1,0 +1,19 @@
+DISTRIBUTED SYSTEMS
+1.a) Explain the challenges in distributed systems.
+b) Explain the generations of distributed systems.     [7+8]
+2.a) Explain about communication distributed objects.
+b) Explain remote procedure call (RPC).      [8+7]
+3.a) Explain the core operating system components and their responsibilities.
+b) Enumerate the differences between thread and a process. Explain the thread scheduling.
+[7+8]
+4.a) Explain the requirements of a distributed file system.
+b) Explain the flat file service operations.      [7+8]
+5.a) Explain the functional and non-functional requirements of peer-to-peer middleware.
+b) Give a short note on message routing infrastructure: PASTRY.   [8+7]
+6. What is distributed mutual exclusion? Explain any one algorithm to implement mutual
+exclusion.          [15]
+7.a) What is a transaction? Explain nested transactions.
+b) Explain about the communication in two-phase commit protocol.   [7+8]
+8.a) Explain the passive (primary-backup) model for fault tolerance.
+b) Explain in which respects DSM is suitable or unsuitable for client-server systems. [7+8]
+---oo0oo---

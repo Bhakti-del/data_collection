@@ -1,0 +1,40 @@
+INFORMATION RETRIEVAL SYSTEMS
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Define Precision and recall.        [2]
+b) Write a short note on probabilistic Retrieval.      [3]
+c) Write a short note on clustering.       [2]
+d) Explain briefly Thesaurus retrieval utility.         [3]
+e) Define Semantic network.        [2]
+f) Write a short note on parsing.        [3]
+g) What is query processing?          [2]
+h) Write a short note on pattern matching.      [3]
+i) Discuss about relevance ranking       [2]
+j) Write a short note on SIRE approach       [3]
+PART-B
+2. Explain in detail about Probabilistic model and briefly describe Simple term weights with
+an  example.          [10]
+OR
+3. Explain how query is generated using language models with a neat example. [10]
+4. Explain in detail about Regression analysis with an example and list out its advantages.
+[10]
+OR
+5.a) Write a short note on hierarchal agglomerative clustering.
+b) Explain in detail how clustering technique is used for generating Thesaurus. [5+5]
+6.a) Explain how parsing of single terms is performed in information retrieval.
+b) Explain in detail about K-Distance measure.       [5+5]
+OR
+7.a) Explain how syntactic parsing is carried out for complex phrases.
+b) Write a short note on crossing the language barrier in information retrieval. [5+5]
+8.a) Explain in detail how shingles are used to determine similarity between different
+duplicates.
+b) Write a short note on inverted index.       [5+5]
+OR
+9.a) Explain in detail how can we improve efficiency of an index compression.
+b) Explain in detail about duplicate elimination.     [5+5]
+10.a) Explain in detail about centralized information retrieval system model.
+b) Explain in detail about page rank calculation.     [5+5]
+OR
+11. Explain how relational DBMS can be extended in order to include information retrieval
+functionality using historical Progression approaches.    [10]
+--ooOoo--

@@ -1,0 +1,118 @@
+PROBABILITY AND STATISTICS
+PART- A
+1.a) If probability density function
+ 
+3, 0 3
+0,
+Kx xfx
+elsewhere
+ 
+ . Find the value of K.
+[2]
+b) If X is a continuous random variable whose probability density function is given
+by
+,0 1
+( ) 2 ,1 2
+0,  elsewhere
+xx
+f x x x
+
+   
+ Find the moment generating function  [3]
+c) If the tw o coefficients of regression are 0.4 and 0.9, then find the coefficient of
+correlation.         [2]
+d) The Joint Probability distribution of X and Y is
+Find the Marginal probabilities for x.     [3]
+e) Define Null hypothesis.       [2]
+f) If the  sample number is 500 and the standard deviation is 15, then find the
+maximum error with 99% confidence.     [3]
+g) Define the Expected queue length.      [2]
+h) If
+4, 8, 2, 3and 0.3xyx y r      then find the regression line of y on x. [3]
+i) Define the State space.       [2]
+j) Write the properties of a Transition Probability matrix.   [3]
+Y
+
+X
+
+0 1 2 Total
+0 3/28 9/28 3/28 15/28
+1 3/14 3/14 0 12/28
+2 1/28 0 0 1/28
+Total 10/28 15/28 3/28 1
+PART-B
+2.a) An insurance agent accepts policies of 5 men all of identical age and in good
+health. The probability that a man of this age will be alive 30 years is
+2
+3 . Find the
+probability that in 30 years. (i) all five men (ii) at  least one man will alive.
+b) In a test on electrical bulbs, it was found that the life of a particular make was
+normally distributed with an average life of 2040 hours and S.D of 4 0 hrs.
+Estimate the number of bulbs likely to burn formore than 2140.  [5+5]
+OR
+3.a) Given that P(x=2)=45p(x=6)-3p(x=4) for a Poisson variate X. Find:
+i) P(x>1)  ii) P(x<3).
+b) Suppose the weights of 500 male students are normally distributed with mean
+
+=150 with a standard deviation of 15. Find the number of students whose
+weights are i)Between 140 and 165 ii)  More than 170.   [5+5]
+4. The joint probability density function is given by
+  , 0 1,1 55
+0,
+x Ky x yfx
+elsewhere
+     
+
+. Find:
+a) The value of K
+b) Marginal probability density function for X
+c) Marginal probability density function for Y
+d) P(X + Y > 3).        [10]
+OR
+5. Calculate the coefficient of rank correlation:     [10]
+6. The following figures refer to the observations in independent samples.
+Analyze whether the samples have been drawn from the populations of equal
+means.          [10]
+OR
+x 68 64 75 50 64 80 75 40 55 64
+y 62 58 68 45 81 60 68 48 50 70
+Sample-I 25 30 28 34 24 20 13 32 22 38
+Sample-II 40 34 22 20 31 40 30 23 36 17
+7. A survey of 400 families with 5 children each revealed the following distribution.
+Is this result with the hypothesis that male births are equally probable?    [10]
+No. of boys 0 1 2 3 4 5
+No. of families 25 60 110 113 62 30
+8. Consider a box office ticket window being manned by a single individual
+customers arrive to purchase tickets according to a poisson process. The arrival
+rate is 30 per hour. The mean service rate is 90 seconds. Find
+a) Expected queue length.
+b) Expected waiting time in the system
+c) Expected waiting time in the queue.     [10]
+OR
+9. The milk plant at a city distributes its products by trucks, loaded at the loading
+dock. It was its own fleet of trucks plus trucks of a private tra nsport company.
+The trucks arrive at the interval of 20 minutes. The service time is 4 minutes.
+Find:
+a) The probability that there are more than or equal to 4 trucks in the queue
+b) The waiting time of a truck in the queue.
+c) The variance of queue length.
+d) The probability that the waiting time will exeeds 10 minutes  [10]
+10.a) Define i) Transient state      ii) recurrent state.
+b) Find the equilibrium vector of
+0.25 0.75
+0.5 0.5
+
+      [5+5]
+OR
+11. If the transition probability matrix of a Marcov chain is
+0.1 0.2 0.7
+0.2 0.2 0.6
+0.6 0.1 0.3
+
+
+
+
+Find a)
+31[ 1/ 0]P X X  b)
+30[ 1/ 0]P X X  c)
+30[ 2/ 1].P X X  [10]

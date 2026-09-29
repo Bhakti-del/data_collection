@@ -1,0 +1,80 @@
+MATHEMATICS-III
+MSNT)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Let X denotes the number of heads in a single toss of 4 fair coins. Determine
+(1 3)PX           [2]
+b) Define moment generating function of a random variable.    [3]
+c) Define central limit theorem.        [2]
+d) A random sample of size 100 has a standard deviation of 5. What can you say about
+maximum error with 95% confidence?      [3]
+e) Define Type I and Type II errors.       [2]
+f) Explain one way classification of ANOVA.       [3]
+g) Establish an iterative formula for computing
+N by Newton Raphson method. [2]
+h) Construct normal equations for fit a straight line by method of least squares. [3]
+i) Write Simpsons 1/3rd and 3/8th rule formulas.     [2]
+j) Given
+y xy with
+(0) 1y  . Find y(0.2) with h = 0.1 by Euler’s method.  [3]
+PART-B
+2.a) A sample of 4 items is selected at random from a box containing  12 items of which 5 are
+defective. Find the expected number of defective items.
+b) In a normal distribution, 7% of the items are under 35 and 89% are under 63. Determine
+the mean and variance of the distribution.      [5+5]
+OR
+3.a) Let the continuous random variable X have the probability density function,
+32 / , if 1()
+0, other wise
+xxfx   
+ . Find F(x).
+b) A discrete random variable X has the mean 6 and variance 2. If it is assumed that the
+distribution is Binomial find the probability that
+57 x .    [5+5]
+4.a) A random sample of size 100 is taken from an infinite population having  mean µ=76
+and the variance σ 2= 256. What is the probability that mean of the sample will be
+between 75 and 78?
+b)  Assuming that σ = 20.0, how large a random sample be taken to assert with probability
+0.95 that the sample mean will not differ from the true mean by more than 3.0 points?
+[5+5]
+OR
+5.a) A normal population has a mean of 0.1 and standard deviation of 2.1. Find the probability
+that mean of a sample of size 900 will be negative.
+b) Find 95% confidence limits for the mean of a normality distributed population from
+which the following sample was taken 15, 17, 10, 18, 16, 9, 7, 11, 13, 14.  [5+5]
+6.a) In a random sample of 60 workers, the average time taken by them to get to work is
+33.8 minutes with a standard deviation of 6.1 minutes. Can we reject the null hypothesis
+µ =32.6 minutes i n favour of alternative null hypothesis µ > 32.6 at α = 0.025 level of
+significance.
+b) The mean life of a sample of 10 electric bulbs was found to be 1456 hours with S.D. of
+423 hours. A second sample of 17 bulbs chosen from a different batch showed a mean
+life of 1280 hours with S.D. of 398 hours. Is there a significant difference between the
+means of two batches?        [5+5]
+OR
+7. The following are the number of typing mistak es made in f our successive weeks by four
+typists working for a publishing company.
+Typist I 13 16 12 14
+Typist II 14 16 11 19
+Typist III 13 18 16 14
+Typist IV 18 10 14 15
+Using ANOVA, test at 0.05 level of significance whether the difference among the four
+sample means can be attributed to chance.      [10]
+8.a) Find a real root of
+cos 0xxe x  using Newton-Raphson method.
+b) Fit a least square parabola curve to the following data:    [5+5]
+x 0 1 2 3 4 5 6
+y 1.4 2.8 2.4 2.9 3.6 4.0 4.1
+OR
+9.a) Find the root of the equation
+2 log 7xx  which lies between 3.5 and 4 by regula -falsi
+method.
+b) Solve the following system of equations by Gauss-Seidel method
+1 2 3 1 2 3 1 2 38 8, 2 9 12, 7 2 4x x x x x x x x x             [5+5]
+10. Find
+(0.1) and (0.2)yy  using 4 th order Runge – Kutta method given that
+2, (0) 1y xy y y   .         [10]
+OR
+11. Solve the equation
+2y x y  subject to the condition
+(0) 1y   by Picard’s method.
+[10]

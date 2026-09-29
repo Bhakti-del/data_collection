@@ -1,0 +1,17 @@
+INFORMATION SECURITY ASSESSMENTS AND AUDITS
+(Computer Science and Engineering)
+1. Explain in detail about various Information Security Methodologies.  [15]
+2.a) Explain in detail about Firewall Security Audit.
+b) Write a detailed note on Result Retention.      [7+8]
+3.a) Explain in detail the Information Security Vulnerabilities.
+b) Write a detailed note on Vulnerability Scanning.     [8+7]
+4.a) Write a detailed note on Information Security Risk Assessment.
+b) Explain the process of choosing a right tool for Vulnerability Assessment.  [7+8]
+5. Discuss the detailed steps involved in Development of Configuration Control Policies.[15]
+6.a) Write a detailed note on Ethics of an Information Security Auditor.
+b) List out the common issues and variances of Performance Metrics.   [7+8]
+7.a) Write a detailed note on Internal Network Security Audit.
+b) Explain in detail the Post Auditing Actions.      [8+7]
+8.a) Write a detailed note on Social Media Countermeasures.
+b) Explain in detail about Threat Management.      [8+7]
+--ooOoo--

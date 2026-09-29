@@ -1,0 +1,17 @@
+COMPUTER ORGANIZATION
+(Computer Science and Engineering)
+1. What is addressing mode? List and explain the different addressing modes.   [15]
+2.a)  Discuss conditional branch instructions with examples.
+b)  What are status bits? Explain with block diagram of 8 -bit ALU with a 4 -bit status
+register.          [7+8]
+3.  What is Asynchronous data transfer? Explain different data transfer methods.   [15]
+4.a)  Explain DMA controller with the block diagram.
+b)  Explain IOP of a computer with two processors.     [8+7]
+5. Describe the design of a 1024 × 8 RAM with the help of 128 × 8 RAM chips and
+512 × 8 ROM chips.           [15]
+6. Define Mapping. Explain briefly the mapping procedures used in organization of cache
+memory.            [15]
+7.   State and explain the different instruction formats of 8086.      [15]
+8.a)  Draw and discuss the CPU pin diagram of 8086.
+b)  Draw and discuss the Flag register of 8086 in brief.     [8+7]
+---oo0oo---

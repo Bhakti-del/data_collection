@@ -1,0 +1,22 @@
+COMPILER DESIGN
+(Computer Science and Engineering)
+1.a)  What is LEX? Explain in brief about the different sections of LEX Program.
+b)  Differentiate between a compiler and an interpreter.                         [10+5]
+2.a) Define a Compiler. Explain in brief about the types of lexical errors with example.
+b)  Explain in brief about compiler construction tools.     [7+8]
+3. Construct CLR Parsing table for the grammar:       [15]
+S→L = R ¦ R
+L→ * R ¦ id
+R→L
+4.  Demonstrate various conflicts raised in shift-reduce parsers with an example.   [15]
+5.a)  Construct an annotated parse tree for 3*4+5.
+b) Translate the expression –(a+b)*(c+d)+(a+b+c) in to quadruple, triple and indirect
+triple.
+c) What are attributed grammars? Give an example.                                 [4+6+5]
+6.   Define Symbol table. Explain about the data structures used for Symbol table.   [15]
+7. Define code generator. Discuss about Instruction Selection and Register allocation. [15]
+8.a) Explain in brief about different Principal sources of optimization techniques
+with suitable examples.
+b) What is a Flow Graph? Explain how a given program can be converted in to a Flow
+graph.           [7+8]
+---oo0oo---

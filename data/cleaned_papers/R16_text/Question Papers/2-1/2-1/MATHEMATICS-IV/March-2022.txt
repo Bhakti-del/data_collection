@@ -1,0 +1,91 @@
+MATHEMATICS – IV
+1.a) Find the analytic function whose real part is e
+x (x sin y-y cos y)
+b) Find the value of ‘a’ if cosax sinhy is harmonic.      [8+7]
+2.a) Evaluate
+3( 1)z
+C
+dz
+ez    where C is
+z =2
+b) Find the poles and the residues at each pole of
+2
+1
+( 2)
+z
+zz
+
+
+[7+8]
+3. Evaluate Using Residue theorem
+2
+42
+( 2)
+( 10 9)C
+z z dz
+zz
+
+  where
+2z     [15]
+4. Expand
+1
+( 1)( 2)zz  about:
+a)
+1z    b)
+12 z   c)
+2z               [5+5+5]
+5.a) Find the image of 1 < x < 2 under the transformation w = ez.
+b) Find the bilinear mapping which maps the points z = 1, i,-1 into
+ , -i, 0.   [7+8]
+6.a) Obtain the Fourier series for the function
+   
+ 
+0,
+2 , 2
+x infx x in
+
+  
+ 
+b) Find the fourier transform of
+1 | |,  if | | 1() 0, | | 1
+xxfx if x
+   and hence evaluate
+2
+2
+0
+sin s dss
+
+
+[7+8]
+7.a) Obtain a cosine series for the function
+,0 2()
+, 2
+xx
+fx
+xx
+
+
+ 
+   
+b) Find the fourier sine transform of
+||xe  and hence evaluate
+2
+0
+sin
+1
+x mx dxx
+
+
+[7+8]
+8. Solve the boundary value problem
+2
+tt xxu a u
+0 , 0x l t    with
+(0, ) 0ut  ,
+( , ) 0u l t 
+( ,0) 0ux 
+and ,
+ 
+3,0 sint
+xux l
+        [15]

@@ -1,0 +1,15 @@
+MICROPROCESSORS AND MICROCONTROLLERS
+(Computer Science and Engineering)
+1.a) Describe the Register organization of 8086µp .
+b) Explain the necessity of segment memory in 8086 µp.    [9+6]
+2. Explain the available addressing modes of 8086 with suitable examples.  [15]
+3. Draw and explain the architecture of 8051 µc.     [15]
+4.a) Discuss the I/O ports of 8051 with neat sketches.
+b) Explain the operations of DPTR and PC Registers.     [9+6]
+5.a) Write ALP for serial communication interrupt of 8051 with suitable example.
+b) Explain each bit operation of SCON SFR.      [8+7]
+6.a) Draw and explain the interfacing of ADC with 8051.
+b) Draw and explain the interfacing of LCD with 8051.    [8+7]
+7.a) Explain the register organization of ARM.
+b) Discuss the software interrupt instruction with suitable example.   [8+7]
+8. Describe the OMAP processor Architecture.      [15]

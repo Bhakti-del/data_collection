@@ -1,0 +1,20 @@
+ENGINEERING DRAWING
+1. The distance between Bombay and Poona is 180 Km. a passenger train covers this
+distance in 6 hours. Construct a plain scale to time upto a single minute. The R.F.  of the
+scale is 1/200000. Find the distance covered by the train in 36 minutes.  [25]
+2. A circle of 50  mm diameter rolls on a horizontal line for a half revolution and then on a
+vertical line for another half revolution. Draw the curve traced out by a point P on the
+circumference of the circle.        [25]
+3. A line AB, 65 mm long has its end A 20 mm above the H.P. and 25 mm in front of the
+V.P. The end B is 40 mm above the H.P. and 65 mm in front of the V.P.  Draw the
+projections of AB and show its inclinations with the H.P. and the V.P.  [25]
+4. Draw the projections of a regular pentagon of  40 mm side, having its surface
+inclined at 300 to the H.P. and a side parallel to the H.P. and inclined at an angle  of 60 0
+to the V.P.          [25]
+5. A square pyramid, base 50 mm side and axis 75 mm long, is resting on the H.P. on one of
+its triangular faces, the top view of the axis making an angle of 30 0 with the V.P. It is cut
+by a horizontal section plane, the V.T of which intersects the axis at a point 6 mm from
+the base. Draw the front view, sectional top view and the development of the sectioned
+pyramid.           [25]
+6. Draw the isometric view of following casting  as shown in figure . All dimensions are in
+mm.           [25]

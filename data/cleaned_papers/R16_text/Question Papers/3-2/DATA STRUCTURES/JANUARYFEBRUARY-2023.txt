@@ -1,0 +1,40 @@
+DATA STRUCTURES
+and may have a, b as sub questions.
+PART – A
+1.a) What is the need of  asymptotic notation?                       [2]
+b)     Compare data type with data structure.      [3]
+c)      In which situations a stack is preferred over a queue?    [2]
+d)      What are the challenges in implementing circular queue?    [3]
+e)      What is a max heap? Give an example.      [2]
+f)      List the applications of threaded binary tree.      [3]
+g)      What are the limitations of binary search?      [2]
+h)      How can a heap be used in sorting?       [3]
+i)       What is a trie? Give example.        [2]
+j)       What is the significance of colours in red-black tree?    [3]
+PART – B
+2.a)  How to compute best case complexity of an algorithm? Give illustration.
+b)  Write an algorithm to find largest of three given numbers and perform its analysis.[5+5]
+OR
+3. Write an algorithm to concatenate two single linked list and explain it by tracing with
+appropriate input.           [10]
+4.a)  Demonstrate usage of stack in converting an infix expression into a postfix expression.
+b)  How to implement queue using stacks? Give your justification.   [5+5]
+OR
+5. Write a C program to create a double ended queue using arrays and perform insertion
+and deletion operations.          [10]
+6.a)  Explain the properties of binary tree.
+b)  Write a program to implement max priority queue.     [5+5]
+OR
+7.a)  Which graph representation approach is preferred in programming? Justify your
+answer.
+b)  Make a comparison of breadth first search and depth first search traversals. [5+5]
+8.a)  How to handle collisions in hashing? Explain with an example.
+b)  Compare the algorithm complexities of linear search and binary search.  [5+5]
+OR
+9.  Sort the following numbers using radix sort, explain each pass.     [10]
+3423 1238 9017 7756 5487 9836 2567 1100
+10.  With suitable example , demonstrate insertion and deletion operations on a binary
+search tree.             [10]
+OR
+11.a)  Illustrate different types of rotations used for AVL trees.
+b)  Write the steps of Knuth-Morris-Pratt algorithm for pattern matching.  [5+5]

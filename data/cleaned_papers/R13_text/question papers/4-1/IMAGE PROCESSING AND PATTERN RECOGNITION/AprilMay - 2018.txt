@@ -1,0 +1,45 @@
+IMAGE PROCESSING AND PATTERN RECOGNITION
+(Computer Science and Engineering)
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Define Histogram                                                                                [2]
+b) Differentiate linear spatial filter and nonlinear spatial filter            [3]
+c) List out the properties of the second derivative around an edge      [2]
+d) What is data redundancy? Explain three basic data redundancy?       [3]
+e) What is the need for compression?                                                     [2]
+f) What are the operations performed by error free compression?              [3]
+g) Define shape numbers                                                                             [2]
+h) Define compactness.                                                                           [3]
+i) What is pattern class?                                                                           [2]
+j) What are the applications of pattern recognition?                              [3]
+PART-B
+2.a) Explain the principle of sampling and quantization. Discuss the effect of increasing the
+i) Sampling   frequency   ii) Quantization levels on image
+b) Explain image enhancement in the frequency domain.    [5+5]
+OR
+3.a) Explain the various sharpening filters used in spatial domain.
+b) Explain Homomorphic filtering in detail.      [5+5]
+4.a) Discuss in detail about Hit or Miss Transform
+b) Explain the operations i) Opening and Closing  ii) Dilation and Erosion.  [5+5]
+OR
+5.a) Explain the concept o f thresholding in image segmentation and write its merits and
+demerits.
+b) Briefly discuss about the segmentation techniques that are based on finding the regions
+directly.          [5+5]
+6.a) Discuss in detail about digital image watermarking
+b) Explain about Lossy compression.       [5+5]
+OR
+7.a) Differentiate between lossless and lossy compression and explain transform coding system
+with a neat diagram
+b) Explain Lossless predictive coding.       [5+5]
+8.a) What are the principal components of description? Explain.
+b) Explain the regional descriptors in image representation.    [5+5]
+OR
+9.a) What are chain codes? Discuss the demerits of chain codes
+b) State the various polygonal approximation methods.     [5+5]
+10.a) With a neat diagram explain a simple automatic pattern recognition method.
+b) Explain the pattern and pattern classes in object recognition.   [5+5]
+OR
+11.a) With necessary equations explain about K-Means clustering.
+b) Discuss the fundamental problems encountered in pattern recognition system. [5+5]
+--ooOoo--

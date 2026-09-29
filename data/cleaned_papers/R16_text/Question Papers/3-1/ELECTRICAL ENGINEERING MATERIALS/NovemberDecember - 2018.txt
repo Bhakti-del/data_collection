@@ -1,0 +1,45 @@
+ELECTRICAL ENGINEERING MATERIALS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) Enumerate characteristics of dielectrics with respect to their valance band.   [2]
+b) What is meant by orientation polarization?           [3]
+c) Steel is ferromagnetic but is not a magnet in the absence of magnetic field why? [2]
+d) What are the special purpose magnetic materials?                [3]
+e) What is meant by Bridgman method of semiconductor growth?                          [2]
+f) Write the most fitting semiconducting materials for solar cells.                        [3]
+g) Give the applications of brass and bronze as a low resistivity material?   [2]
+h) How do the lightly loaded contacts differ from heavily loaded contacts?   [3]
+i) What is meant by impregnation of the material?      [2]
+j) What is the effect of temperature on the insulating property of transformer oil?   [3]
+PART - B
+2.a)  What do you mean by dielectric loss? Explain loss factor, how do you calculate the loss
+factor.
+b)  Explain structure and properties of Barium T itanate as a promising ferroelectric
+material.           [5+5]
+OR
+3.a)  Explain how do you find out breakdown strength of solid dielectric material.
+b)  Briefly describe the significance of pyroelectric effect on pyroelectric devices.   [5+5]
+4.a)  Explain the phe nomenon of magnetic anisotropy and d iscuss its im portance for
+magnetic materials.
+b)  Explain the concept of cast and cermet permanent magnets and use of such magnet .
+[5+5]
+OR
+5.a)  Distinguish between  soft magnetic material  and hard magnetic material.
+b)  What are the different f actors effecting permeability and hysteresis in magnetic
+materials?           [5+5]
+6.  Discuss in detail, the stepwise methodology to manufacture the silicon wafer.   [10]
+OR
+7.  Write the most suitable semiconducting materials for integrated circuit and describe
+structure of LSI.           [10]
+used paper 16-12-2018PM
+8.a)  What are the materials used for stranded conductors and write their composition.
+b)  Explain in brief characteristic features of thermocouple materials.   [5+5]
+OR
+9.   What are the properties of gaseous insulating materials and describe moisturizing effect
+on these materials?             [10]
+10.a)  Describe the composition of radioactive materials and also its applications.
+b)  Describe the properties and applications of mineral oils.     [5+5]
+OR
+11.  With the help of suitable diagrams, describe stepwise , the method of galvanization of
+materials.             [10]
+used paper 16-12-2018PM

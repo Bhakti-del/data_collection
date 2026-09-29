@@ -1,0 +1,17 @@
+DISTRIBUTED DATABASES
+(Computer Science and Engineering)
+1.a)  Explain the various problem areas in DDBS environment.
+b)  Discuss the distributed database design issues.     [8+7]
+2.a)  Explain in brief about vertical fragmentation.
+b)  Explain in brief architectural models for distributed DBMS.    [7+8]
+3.a)  Discuss the problems in query optimization in DDBs.
+b)  Discuss the objectives of query processing.      [8+7]
+4.  Explain any two distributed query optimization algorithms in brief.     [15]
+5.a)  Explain various types of transactions.
+b)  Explain the concept of serializability.       [7+8]
+6.  Explain in detail about time-stamp based concurrency control algorithm.     [15]
+7.a)  Discuss the failures in distributed DBMS.
+b)  Explain distributed reliability protocols.      [7+8]
+8.a)  Discuss the architectural issues in distributed object DBMS.
+b)  Explain in brief about distributed object storage.     [8+7]
+used paper feb-22 jntu

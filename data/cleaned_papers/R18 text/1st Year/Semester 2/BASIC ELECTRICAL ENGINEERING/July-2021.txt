@@ -1,0 +1,21 @@
+BASIC ELECTRICAL ENGINEERING
+1.a) State and explain superposition theorem.
+b) Find the transient current flowing in the circuit shown in figure 1 if the switch is closed at
+t = 0+.            [7+8]
+Figure: 1
+2.a) How do you find out thevenin’s voltage?
+b) Find the current ‘i’ in the circuit shown in figure 2.                [6+9]
+Figure: 2
+3.a) Obtain the resonant frequency of R -L-C series circuit excited by sinusoidal voltage
+source?
+b) Find the impedance of the following circuit shown in figure 3.    [8+7]
+Figure: 3
+4.a) Derive the expression for the active power in a series RL circuit  excited by sinusoidal
+source.
+b) What is the relationship between line and phase quantities in star c onnected three phase
+systems?          [7+8]
+5. Obtain the equivalent circuit of a transformer.     [15]
+6.a) What are the applications of auto transformer?
+b) Define regulation of a transformer? State different losses of a transformer.  [6+9]
+7.  Explain the working of a synchronous generator.     [15]
+8. What is the purpose of earthing? Explain any one type of earthing.   [15]

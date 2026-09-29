@@ -1,0 +1,50 @@
+ENGINEERING CHEMISTRY
+and may have a, b as sub questions.
+PART - A
+1.a)      What are Waterline and Pitting corrosion?                     [2]
+b)      Describe the Quinhydrone electrode and write its applications.   [3]
+c)      Define Cloud and pour point. Give its significance.        [2]
+d)      What is compounding of plastic? Explain the Injection molding method.   [3]
+e)      Write the causes and preventive method for Caustic embrittlement.   [2]
+f)      Explain the Reverse osmosis  process of softening of sea water.   [3]
+g)      Define calorific value. Write its different units.     [2]
+h)      Briefly explain the Bergius process of synthesizing petrol.    [3]
+i)       What are Micelles? Give examples.       [2]
+j)       What is adsorption? Distinguish between physical and chemisorption.        [3]
+PART - B
+2.a)  Write the construction and working of Glass electrode. Write its application.
+b) What is metallic coating? Discuss the process of Galvanizing and Tinning.         [5+5]
+OR
+3.a) Write the construction, charging and discharging reactions of Lead-Acid battery
+b) What is Electroless plating? Explain the Electroless plating of Nickel in detail. [5+5]
+4.a) Write the synthesis, Properties and applications of  Bakelite and Dacron.
+b) Write the chemical vapour deposition method of preparation of Nanoparticles. [5+5]
+OR
+5.a)      What is Portland Cement? Write the composition.
+b)      What are Carbon Nanotubes? Mention its applications.            [5+5]
+6.a)    What is Potable water? Write the Specifications and Steps involved in treatment of
+potable Water.
+b) Distinguish between Zeolite process and ion –exchange water softening methods. [5+5]
+OR
+7.a) Discuss the Lime soda process of softening of hard water along with the reactions
+involved.
+b)   A sample of water showed the following analysis Mg (HCO3)2 = 2.92 mg/l,
+CaCl2= 4.44 mg/l, mg/l, MgCl2 = 95 mg/l, and CaSO 4 = 1.36 mg/l.  Calculate the
+Temporary and permanent hardness in the sample.     [5+5]
+8. Explain the analysis of Flue gases by Orsat’s apparatus and write its significance. [10]
+OR
+9.a)   What is Refining of Crude oil? What are the important fractions obtained from the
+Fractional distillation column?
+b)  Calculate gross and net calorific value of gaseous fuel from the following data obtained
+from calorimeter experiment. Volume of gaseous fuel burnt at STP is 0.1m 3. Weight of
+the water used for cooling is 35kg. Temperature of the inlet water 26.00 C, temperature of
+outlet water is 400 C. weight of the water produced by steam condensation 0.03 kg, Latent
+heat of steam 587k.cal/kg.         [5+5]
+10.a) Differentiate between lyophilic and lyophobic colloids with examples.
+b)  Deduce the expression F+P=C+2 and explain the terms involved with suitable
+illustrations and the significance of the terms involved.           [5+5]
+OR
+11.a) Discuss the salient features of phase diagram of Lead-silver system.
+b) Briefly explain Langmuir’s theory adsorption? Deduce an expression for Langmuir’s
+Unimolecular adsorption isotherm.
+c)  Write short note on Tyndal effect.              [4+3+3]

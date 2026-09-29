@@ -1,0 +1,24 @@
+NON-CONVENTIONAL POWER GENERATION
+1.a) With a neat sketch, explain the working principle of Pyranometer.
+b) Define the following terms:
+i) Altitude angle
+ii) Incident angle
+iii) Zenith angle.         [8+7]
+2.a) With the help of a neat sketch, explain the working of solar air heating system.
+b) What are the advantages and disadvantages of concentrating collectors over flat plate
+collectors?          [8+7]
+3.a) Explain with diagram, how a Photovoltaic cell works.
+b) What are the advantages and disadvantages of solar photovoltaic energy conversion?
+[8+7]
+4.a) Define fill factor and explain the voltage-current characteristics of a solar cell.
+b) Discuss the method of MPPT system.      [8+7]
+5.a) Describe the main consideration for selecting a site for wind generator.
+b) Derive an expression for the total power of a wind stream.                        [8+7]
+6.a) Compare horizontal and vertical axis windmill.
+b) Explain with neat sketch, the working of a wind energy conversion system with main
+components.          [7+8]
+7.a) Explain the constructional detail and working of KVIC biogas plant.
+b) Describe a hot dry rock geothermal resource power plant.    [8+7]
+8.a) With a neat sketch, explain the principle of open cycle OTEC system.
+b) What are the advantages and disadvantages of a fuel cell?    [8+7]
+---oo0oo---

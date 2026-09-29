@@ -1,0 +1,48 @@
+COMPILER DESIGN
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)     Define regular expression.        [2]
+b)      Define linker and loader and explain briefly.      [3]
+c)      Define ambiguous grammar.           [2]
+d)      Compare SLR, CLR and LACR.       [3]
+e)      What is coercion?         [2]
+f)       How to find evaluation order for SDD’s?                             [3]
+g)      What are the limitations of static allocation?      [2]
+h)      Write the fields and uses of symbol table.      [3]
+i)       What is common sub-expression elimination? Explain.    [2]
+j)       What are induction variables? What is induction variable elimination?  [3]
+PART - B
+2.a)  Explain the procedure to convert regular expression to Finite automata.
+b)  Explain various phases in the construction of compiler with a neat sketch.  [5+5]
+OR
+3.a)  What is the functionality of preprocessing and input buffering?
+b)  Explain compiler construction tools.       [5+5]
+4.a)  What is left recursion? Describe the algorithm used for eliminating left recursion?
+b)  Eliminate left recursion in the following:       [5+5]
+EE+T|T, TT*F|F, F(E)|id
+OR
+5.a)    What is ambiguous grammar? Show that following grammar is ambiguous or not.
+A → A + A | A − A | A * A | a
+b)    Verify whether the following grammar is LL(1) or not?             [5+5]
+E  E + T | T
+T  T* F / F
+F  (F) |a|b.
+used paper 19-05-2019 PM
+6.a)  What are three address codes? Explain different types of representations of thr ee
+address code.
+b) Write three codes for x:=A[y, z]       [5+5]
+OR
+7.a)  What is type checker? Explain the specification of a simple type checker.
+b)  Explain translation schema for array elements.     [5+5]
+8.a)  Explain about Heap management.
+b)  Define reference counting. What is the role of reference counting in garbage collection?
+[5+5]
+OR
+9.a)  Give the detailed description on DAG.
+b)  Explain different methods for register allocation and assignment.   [5+5]
+10.a)  Explain redundancy elimination techniques.
+b)  Write the principal sources of optimization.      [5+5]
+OR
+11.a)  Explain loop optimization technique with example.
+b)   Explain constant propagation with example.      [5+5]
+used paper 19-05-2019 PM

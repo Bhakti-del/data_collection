@@ -1,0 +1,52 @@
+COMPILER DESIGN
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)  Define lexeme, token, pattern.                   [2]
+b)  Construct the transition diagram for relational operators in 'C'.              [3]
+c)   What is meant by goto function in LR parser? Give an example.                              [2]
+d)   For the grammar S ->0S1 | 01.  Indicate the handle in each of the following right -
+sentential forms: i) 000111  ii) 00S11      [3]
+e)  Write SDTs for the Boolean expression grammar                    [2]
+f)   List the properties of a Memory manager for efficient usage of memory.      [3]
+g)  What is a DAG?                     [2]
+h)  Define flow graph and provide an example.                                                  [3]
+i)  What is machine dependent optimization?      [2]
+j)  How would you calculate the cost of an instruction with an example?             [3]
+PART - B
+2.a)  Explain the various phases of a compiler. Show th e translations for an assignment
+statement position=initial+rate *60, clearly indicate the output of each phase.
+b)  Explain the concept of bootstrapping in the context of compilation, discussing its
+significance and potential challenges.      [5+5]
+OR
+3.a)  Construct recursive descent parsing for the following grammar.
+b) Construct predictive parsing table for the following grammar:
+S → (L) | a L → L, S |S
+Check whether the string (𝑎, ((𝑎 , 𝑎), (𝑎 , 𝑎))) belongs to that language or not. [5+5]
+4.a)  Explain shift-reduce parsing with stack implementation.
+b)  Build LR(1) parser and check the validity of the input stri ng “id+id*id” by the LR(1)
+parser for the given grammar
+E E+T/T, TT*F/F, F (E)/id      [5+5]
+Used Papers March-2024
+OR
+5.a)  Discuss the challenges associated with error recovery in parsing.
+b)  Construct an LALR parsing table for the following grammar:   [5+5]
+6.a)  For the grammar below: E → E + T | T, T → num .num | num Give an SDD to
+determine the type of each term T and expression E.
+b)  Write the translation scheme for type checking of function declaration.  [5+5]
+OR
+7.a)   Explain tree structured symbol tables.
+b)  Explain in detail, the strategy for reducing fragmentation in heap memory.  [5+5]
+8.a)  Discuss about principal sources of optimization with example.
+b)  Write a short note on following optimizations concepts:
+i) Frequency reduction      ii) Folding.      [5+5]
+OR
+9.a)  Generate the flow-graphs for the following expressions:
+b)  Explain about common sub expression elimination with an example.  [5+5]
+10.a)  Discuss the issues in code generation.
+b)  Discuss about register allocation and assignment in target code generation.  [5+5]
+OR
+11.a)  What is peephole optimization? How can it be performed? Give its role in code
+generation.
+b)  Write an algorithm for generating code from DAG with an example.   [5+5]
+Used Papers March-2024

@@ -1,0 +1,78 @@
+MATHEMATICS - III
+((Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM,
+CEE, MSNT)
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Find the mean and variance of the probability distribution having pdf ,
+𝑓 𝑥 = 𝑒−𝑥, 𝑥 > 0.            [2]
+b) A fair coin is tossed until a head or consecutive five tails occurs . Find the discrete
+probability distribution.         [3]
+c) Write the conditions of validity of 2-test.       [2]
+d) Construct sampling distribution of means for the population 3, 7, 11, 15 by drawing
+samples of size two without replacement. Determine i)  ii)  iii) Sampling distribution
+of means.          [3]
+e) Discuss types of errors of the test of hypothesis.     [2]
+f) Give the graphical interpretation of the bisection method.    [3]
+g)  Write the iterative formula for finding
+3 N using method of false position. [2]
+h) Explain briefly about method of least square.     [3]
+i) Derive Trapezoidal rule for computing integral  𝑓 𝑥 𝑑𝑥
+𝑏
+𝑎 .    [2]
+j) What are the limitations of Taylor’s series method?     [3]
+PART-B
+2.a) Let (x) = 3x2, when 0  x  1 be the probability density function of a continuous random
+variable X. Determine a and b such that
+i) P(Xa) = P(X>a)    ii) P(X>b) = 0.05.
+b) Probability density function of a random variable X is
+𝑓 𝑥 =
+1
+2 𝑠𝑖𝑛𝑥, 0 ≤  𝑥 ≤ 𝜋
+0,         𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
+.
+Find the mean, mode and median of the distribution.    [5+5]
+OR
+3.a) A die is cast until 6 appears. What is the probability that it must be cast more than
+5 times?
+b) The marks obtained in mathematics by 1000 students is normally distr ibuted with mean
+78% and standard deviation 11%. Determine:
+i) What was the highest mark obtained by the lowest 25% students?
+ii) Within what limit did the middle 90% of the student lie?    [5+5]
+4.a) Explain why the larger variance is placed in the numerator of the statistic F. Discuss the
+application of F-test in testing if two variances are homogenous.
+b) A sample of 11 rats from a central population had an average blood viscosity of 3.92 with
+a standard deviation of 0.61. Estimate the 95% confiden ce limits for the mean blood
+viscosity of the population.        [5+5]
+OR
+5.a) The mean voltage of a battery is 15 and standard deviation 0.2. Find the probability that
+four such batteries connected in series will have a combined voltage of 60.8 or more
+volts.
+b) Discuss critical region and level of significance with example.   [5+5]
+6.a) Suppose the diameter of motor shafts in a lot have a mean of 0.249 inches and standard
+deviation if 0.003 inches. The inner diameter of bearings in another lot have a mea n of
+0.255 inches and standard deviation of 0.002 inches. If a shaft and bearing are selected at
+random, find the probability that the shaft will not fit inside the bearing. Assume that
+both dimensions are normally distributed.
+b) A sample of 400 items is t aken from a normal population whose mean is 4 and
+variance 4. If the sample mean is 4.45, can the samples be regarded as a simple sample?
+[5+5]
+OR
+7. In a sample of 600 students of a certain college 400 are found to use ball pens. In another
+college from a sample of 900 students 450 were found to use ball pens. Test whether two
+colleges are significantly different with respect to the habit of using ball pens? [10]
+8. Estimate 𝑦 at 𝑥 = 5 by fitting a least squares curve of the form 𝑦 =
+𝑏
+𝑥(𝑥−𝑎) to the
+following data          [10]
+𝑥 3.6 4.8 6.0 7.2 8.4 9.6 10.8
+𝑦 0.83 0.31 0.17 0.10 0.07 0.05 0.04
+OR
+9. Show that the Gauss-Seidel methods diverge for solving the system of equations
+2x + 3y + z = -1; 3x + 2y + 2z = 1; x + 2y + 2z = 6.     [10]
+10. Find the successive approximate solution of the differential equation y = y, y(0) = 1 by
+Picard’s method and compare it with exact solution.     [10]
+OR
+11. Use Runge-Kutta method of order four to find 𝑦 when 𝑥 = 0.6 in steps of 0.2 given that
+𝑑𝑦
+𝑑𝑥 = 1 + 𝑦2, 𝑦 0 = 0.        [10]
+--ooOoo--

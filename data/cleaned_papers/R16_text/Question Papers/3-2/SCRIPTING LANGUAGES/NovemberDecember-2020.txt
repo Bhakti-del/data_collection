@@ -1,0 +1,19 @@
+SCRIPTING LANGUAGES
+(Computer Science and Engineering)
+1.a) Describe the uses of scripting languages.
+b) Outline the features of visual scripting.       [7+8]
+2. Describe the operating system interface facilities that are common to both Windows
+and UNIX implementations of PERL.         [15]
+3. With an example PHP script, explain how to create and validate a simple form.       [15]
+4.a) Explain briefly about the following commands:
+i) eval   ii) exec
+b)  Explain about Perl toolkits. Mention how it is different from TCL/TK.           [5+10]
+5. Describe in detail on building small and efficient python web systems.     [15]
+6.a) List and explain various operators available in PERL.
+b) Define Hash. How to create and implement hashes in PERL? Explain.   [7+8]
+7.a) How to embed PHP code into your web pages directly?
+b) Explain the following control structures in PHP:      [7+8]
+i) for ii) foreach iii) while iv) do-while
+8. Explain in detail about how to implement authentication via a PHP script using hard-
+coded and data-based methods.          [15]
+RA

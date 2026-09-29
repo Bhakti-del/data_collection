@@ -1,0 +1,44 @@
+ELECTRICAL ENGINEERING MATERIALS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Give and explain in brief the broad classification of materials.   [2]
+b)      Explain the term Dielectric Constant.       [3]
+c)      List the classification of magnetic materials.        [2]
+d)      What do you mean by Curie point and give its significance?   [3]
+e)      What are majority carriers and minority carriers?     [2]
+f)       Distinguish between conductors, Insulators and Semiconductors.   [3]
+g)      Distinguish between Linear and non linear conductors.    [2]
+h)      List the different materials used for resistors.      [3]
+i)       List the applications of mineral oils.       [2]
+j)       What do you mean by impregnation of materials?     [3]
+PART - B
+2.  What do you mean by Dielectric loss and explain it’s Significance along with the
+factors affecting it?           [10]
+OR
+3.a)  Explain the electric conductivity of gaseous Dielectric and their break down
+mechanism.
+b)  List the applications of Dielectric materials in detail.    [5+5]
+4.a)  What do you mean by ageing of magnets?
+b)  Which materials are called as Special purpose mater ials and why they are called So?
+[5+5]
+OR
+5.  Explain the significance of magnetization curve  and what information can be retrieved
+from its Characteristics.          [10]
+6.a)  Explain about Electron Energy and Energy band Theory.
+b)  Distinguish between Intrinsic Semiconductors and Extrinsic Semiconductors. [5+5]
+OR
+7.a)  List and explain the different applications of Semiconductors in detail.
+b)  Explain the basic operation of a PNP Transistor.     [5+5]
+used paper 11-06-2019 PM
+8.a)  Explain the requirements of materials of high conductivity.
+b)  Distinguish between hard and Soft Solders in detail.     [5+5]
+OR
+9.a)  List and explain the factors that depend on the Fusing Current.
+b)  Explain about Solid, liquid and gaseous insulating materials and give an example and
+application of each type.        [5+5]
+10.a)  What are Refractory materials and give its applications?
+b)  List the properties of mineral oils.       [5+5]
+OR
+11.a) Explain the procedure for testing of transformer oil as per the ISI Standards.
+b)  What do you mean by galvanization and what for it is used in materials?  [5+5]
+used paper 11-06-2019 PM

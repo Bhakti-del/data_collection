@@ -1,0 +1,23 @@
+CHEMISTRY
+1.a) Write an account on linear combination of atomic orbital’s.
+b) Describe energy level diagram for N2 and O2 and specify their magnetic property. [7+8]
+2.a) What are the postulates of crystal field theory.
+b) Write a note on band structure of solids.      [7+8]
+3.a) Discuss about priming and foaming and caustic embrittlement of boiler water treatment.
+b) A water sample had the data: Mg(HCO 3)2=16.8mg/L, CaCO3=20ppm,
+MgCl2=19mg/L, MgSO4=24 Mg/L,  NaOH=10 ppm.  Calculate temporary, permanent
+and total hardness of water.        [7+8]
+4.a) Describe the steps involved in the treatment of domestic water.
+b) Calculate total and temporary hardness of water containing
+Ca2+= 60 mg/L, Mg2+= 36 mg/L, HCO3
+-=122 mg/L , Silica=100mg/L.  [7+8]
+5.a) What is electrode potential ? What are the factors affecting electrode potential. Write the
+constructions and working of glass electrode.
+b) What is galvanic corrosion? Give about corrosion control methods.   [7+8]
+6.a) What are primary and secondary cells? Give examples. Give the construction and
+working of lithium ion battery.
+b) What are the factors affecting rate of corrosion by metal.    [7+8]
+7.a) How HBr adds on to propene? Give the mechanism. Explain Markownikoff’s rule.
+b) Write about absolute configuration. Give examples.     [7+8]
+8.a) Write the quantitative applications of UV-visible spectrophotometry.
+b) How do you identify –OH,-CHO, COOH, NH2 groups in I.R spectroscopy? [7+8]

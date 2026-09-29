@@ -1,0 +1,18 @@
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA
+1.a) What are the primitive data types available in Java? Explain.
+b) What is composition in Java? How is it different from inheritance?    [7+8]
+2.a) Write a detailed note on Java Virtual Machine.
+b) What is meant by data abstraction? Briefly explain.     [7+8]
+3.a) Discuss the similarities between interfaces and classes.
+b) How to design and implement an interface? Explain.    [8+7]
+4.a) Write a Java program to show the use of File Input Stream.
+b) Discuss about File Output Stream with an example.     [8+7]
+5.a) What is an Exception? How is an Exception handled in JAVA? Give example.
+b) Distinguish between thread based and process based multitasking.   [8+7]
+6.a) Explain the thread based preemptive multitasking with example.
+b) Write about built-in exceptions in java.      [8+7]
+7.a) Give overview of collections framework.
+b) Explain Date and Scanner classes in detail.      [7+8]
+8.a) Explain the process of passing parameters to Applets.
+b) Write a program to implement the keyboard events in Java.    [7+8]
+---oo0oo---

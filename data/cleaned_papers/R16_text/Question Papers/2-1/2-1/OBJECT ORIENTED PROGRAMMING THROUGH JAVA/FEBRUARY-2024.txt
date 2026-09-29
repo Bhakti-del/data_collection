@@ -1,0 +1,53 @@
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) Identify the differences between Classes and Instances.    [2]
+b) Explain the need of Constructors?        [3]
+c)      Discuss the concept of Packages.       [2]
+d)      Describe the generics with examples.       [3]
+e)      Explain the need of Multithreading.       [2]
+f)      List the thread priorities with examples.      [3]
+g)     Write a short note on String Tokenizer.      [2]
+h)      Explain the Collection algorithms.       [3]
+i)      Explore GUI Programming with Swing.      [2]
+j)      Describe the Event Handling in detail.      [3]
+PART – B
+2.a)  Can you demonstrate how the principles of object -oriented thinking can be applied to
+solve a real-world problem?
+b)  Using Java, can you implement a practical example of method overriding to
+demonstrate polymorphic behavior?       [5+5]
+OR
+3.a)  Can you create a multilevel class hierarchy in Java to model a system with different
+levels of abstraction?
+b)  Given a scenario, can you propose a solution that leverages Java's inheritance concepts
+to optimize code structure?        [5+5]
+4.  Write a Program to demonstrate how to create a package and use it in another class.[10]
+OR
+5.a)  Give an Example to demonstrate the extension of interfaces in Java.
+b)  Demonstrate Enumerations and Auto Boxing in Java.    [5+5]
+6.a) Analyze the impact of not using exception handling in a program. How does it affect
+the overall program flow and user experience?
+b)  Analyze the advantages and disadvantages of thread -based multitasking compared to
+process-based multitasking. In what scenarios is one more suitable than the other? [5+5]
+OR
+7.a)  Evaluate the role of throw, throws, and finally in exception handling. How do these
+constructs contribute to robust error management in a program?
+b)  Evaluate the use of wait() and notify() for inter -thread communication. How do these
+mechanisms contribute to effective coordination between threads?   [5+5]
+8.  Analyze the use of utility classes in complex data processing scenarios. How can these
+classes contribute to code readability and maintainability, and are there any trade -offs
+associated with their usage?        [10]
+OR
+9.a)  Critically eva luate the design choices made in the definition of collection interfaces.
+How do these choices contribute to the flexibility and extensibility of the Collections
+Framework?
+b)  Analyze the impact of using for -each loops on code readability and maintainabi lity.
+How does this alternative contribute to or hinder the expressiveness of the code? [5+5]
+10.  Propose a comprehensive comparison between AWT and Swing, considering not only
+their limitations but also their strengths. Formulate recommendations for situatio ns
+where AWT might still be preferable.       [10]
+OR
+11.  Synthesize a strategy for handling simultaneous mouse and keyboard events in a Swing
+application. Propose solutions for scenarios where efficient handling of multiple input
+sources is crucial.         [10]

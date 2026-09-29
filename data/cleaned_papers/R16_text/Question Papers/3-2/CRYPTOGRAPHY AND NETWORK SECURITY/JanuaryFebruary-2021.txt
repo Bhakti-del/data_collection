@@ -1,0 +1,12 @@
+CRYPTOGRAPHY AND NETWORK SECURITY
+1. What is need of security and explain different types of attacks and security services.
+[15]
+2. What is block cipher? Give a detailed note on block cipher modes of operations.   [15]
+3. Discuss substitution techniques for encryption and decryption and explain with
+examples.            [15]
+4. Explain Diffe-Hellman key exchange algorithm in detail.      [15]
+5. Explain SHA algorithm in detail.         [15]
+6. Write a note on Kerberos and format of the X.509 certificate.     [15]
+7. Elaborate the operations of secure socket layer.       [15]
+8. What is PGP? Write the services provided by PGP.       [15]
+used paper jan-feb-2021

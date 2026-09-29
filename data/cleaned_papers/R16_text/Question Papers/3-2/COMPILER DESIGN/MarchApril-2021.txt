@@ -1,0 +1,22 @@
+COMPILER DESIGN
+1.  How to design and implement a lexical analyzer? Explain with an example.   [15]
+2.  Discuss the phases of a compiler indicating the inputs and outputs of each phase  in
+translating the statement “amount = principle + rate * 36.0”.     [15]
+3.  Test whether the grammar is LL(1) or not and construct a predictive parsing table for
+it?
+S→AaAb|BaBa|a|b
+A→€
+b→€              [15]
+4. Construct the LR(0) items for the following grammar:
+S→ L=R|R
+L→*R|id
+R→L
+Check whether the above grammar is LR(0) grammar or not.     [15]
+5. State and explain the syntax directed translation scheme for the desk calculator give the
+parse tree and the translation for the string (7 + 4) * 249/3 + 26.     [15]
+6. What is intermediate code representation? Explain quadruples, triples and indirect
+triples with an example.          [15]
+7.  Explain various storage allocation strategies with an example.     [15]
+8.a) Construct a DAG for the expression: a+a*(b-c)+(b-c)*d.
+b) Explain various notations used in data flow analysis.    [7+8]
+USED PAPERS J/A-2021

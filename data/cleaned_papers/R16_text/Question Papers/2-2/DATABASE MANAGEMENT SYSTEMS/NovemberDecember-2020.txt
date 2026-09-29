@@ -1,0 +1,21 @@
+DATABASE MANAGEMENT SYSTEMS
+1. Explain how to build an ER model for university with entities department, instructor,
+student, and class. Instructors and students belong to one department only. Instructors and
+students related to a class with many to many relations. Assume suitable attributes.
+Explain how the ER model can be translated into relations.    [15]
+2.a) Describe the set operations of relational algebra, including union (U), set difference ( -),
+and cross-product (X). For each, what can you say about the cardinality of their input and
+output tables.
+b) Explain the Triggers.         [10+5]
+3.a) Define Functional Dependency. State and prove Arm strong’s inference rules.
+b) Explain 2NF and 3NF Normal forms with examples.    [8+7]
+4.a) Discus the Remote Backup systems.
+b) Explain the time stamp based protocols.      [7+8]
+5.a) How is data organized in a hash-based index? When would you use a hash-based index?
+b) Explain the difference between the hash indexes and B+ tree indexes.  [7+8]
+6.a) Give a brief note on the History of Database Systems.
+b) Discuss the Database Users and Administrators.     [7+8]
+7.a) Define the relation. Differentiate between the relational schema and a relation instance.
+b) Give a tuple relational calculus expression to find the maximum value in relation r (A).
+[8+7]
+8. List and explain the Properties of Decompositions.     [15]

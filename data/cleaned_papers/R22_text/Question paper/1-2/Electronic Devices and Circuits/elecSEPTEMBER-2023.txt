@@ -1,0 +1,56 @@
+ELECTRONIC DEVICES AND CIRCUITS
+PART- A
+1.a) What is diffusion length (L)?           [1]
+b) Define Cut-in voltage. Give the cut-in voltage of Si and Ge diodes.      [1]
+c) Classify clipper circuits based on the connection of the active device. Mention their uses.
+[1]
+d) State Clamping Circuit Theorem.          [1]
+e)   Show that (1/α) – (1/β) = 1.            [1]
+f)  Mention different modes of operation of BJT.        [1]
+g) Define pinch off voltage?           [1]
+h)  List the classification of FETs.          [1]
+i) Draw the symbols of Schottky Diode and Photo diode.       [1]
+j) List the applications of SCR.           [1]
+PART - B
+2.a)  Explain the temperature dependence of VI characteristics of PN junction diode.
+b) Explain break down mechanisms in semiconductor diodes.    [5+5]
+OR
+3.a) In a typical n-type semiconductor, the Fermi level lies 0.5 eV below the conduction band
+at 300K. Find its new position when temperature in increased to 600K.
+b) A Diode operating at 300 K at a forward voltage of 0.4V carries a current of 10 mA when
+voltage is changed to 0.42 V the current becomes thrice. Calculate the value of reverse
+leakage current andηfor the diode (Assume V T = 26 mv).    [4+6]
+4.a) Explain half-wave rectifier and derive its ripple factor expression.
+b)  An AC supply of 230 V is applied to a half-wave rectifier circuit through transformer of
+turns ration 5:1. Assume the diode is an ideal one. The load resistance is 300Ω. Find:
+i) DC output voltage
+ii) PIV
+iii) Maximum and average values of power delivered to the load.   [5+5]
+OR
+5.a)  Give the circuit of different types of shunt clippers and explain their operation with the
+help of their transfer characteristics.
+b)  Explain the principle of clamping and discuss the effect of source impedance, shunt
+resistance and cut in voltage.        [5+5]
+6.a)  Compare the typical characteristics of CE, CB and CC configuration.
+b)  Calculate the values of I E,β dc andα dc for a transistor with I C=12.427µA, I B=200mA,
+ICBO=7µA. Also determine the new level of IC which will result from reducing IB to 150µA.
+[5+5]
+OR
+7.a) Explain the working of NPN and PNP transistor.
+b) With necessary circuit and waveform, explain the switching characteristics of a transistor
+in detail.          [5+5]
+8.a) Explain the working of a P channel JFET and draw the VI characteristics of it.
+b)  Explain with the help of neat diagrams, the structure of an N-channel MOSFET and its
+Volt-ampere characteristics.  In what ways it is different from a bipolar transistor. [5+5]
+OR
+9.a) Explain the performance of FET as a voltage variable resistor.
+b)  Define and explain the three parameters of a JFET give the relation between them.[5+5]
+10.a) Design and draw a Zener regulator circuit to meet the following specifications Load
+voltage= 8 V, Input Voltage =30V, Load Current = 0-50mA, Izmin = 5mA, Pz = 1Watts.
+b)  Explain Varactor Diode with its characteristics and list the applications.  [5+5]
+OR
+11.a) With neat energy band diagrams, explain the operation and characteristics of Tunnel Diode.
+b)  A Zener voltage Regulator circuit is to maintain constant voltage at 60 V, over a current
+range from 5 to 50 mA. The input supply voltage is 200V. Determine the value of resistance
+R to be connected in the circuit for voltage regulation from load current I L = 0 mA to
+IL max, the maximum possible value of IL. What is the value of ILmax?  [5+5]

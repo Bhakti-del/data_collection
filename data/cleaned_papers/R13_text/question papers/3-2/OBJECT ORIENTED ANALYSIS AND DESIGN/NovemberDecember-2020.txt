@@ -1,0 +1,17 @@
+OBJECT ORIENTED ANALYSIS AND DESIGN
+1.   What is the structure of a good object -oriented architecture? What artifacts should the
+project create? Who should create them? How should they be measured?    [15]
+2.a) Describe the importance of modeling.
+b)  What are the principles of modeling? Explain.     [7+8]
+3.a)  How to model the distribution of responsibilities in a system?
+b)  Explain about association relationship and its adornments.    [7+8]
+4.a)  How to model different views of a system? Explain.
+b)  Explain about modeling a logical database schema.     [7+8]
+5.a)  Explain object flow in activity diagram with an example.
+b)  How to model behavior of an element?      [8+7]
+6.a)  How to model flows of control by time ordering? Illustrate with an example.
+b)  Draw use case diagram for airline reservation system application.   [7+8]
+7.a)  Explain about modeling inter process communication.
+b)  Discuss about deployment diagrams.       [8+7]
+8.a)  Explain about design patterns.
+b)  Draw the sequence diagram for the unified library application.   [7+8]

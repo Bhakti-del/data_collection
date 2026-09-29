@@ -1,0 +1,11 @@
+DATA STRUCTURES
+1.a) Discuss in brief about single linked list.
+b) Write a C program to convert infix to postfix expression.    [7+8]
+2. What are different methods of collision resolution in hashing? Explain in brief. [15]
+3.a) Discuss in detail about red-black trees.
+b) Explain briefly about binary search trees.      [7+8]
+4. How a graph is traversed using depth first search? Explain with example.  [15]
+5. Explain the process of heap sort with example.     [15]
+6. Explain in brief about tries with example.      [15]
+7. Compare and contrast different sorting methods.     [15]
+8. Explain in detail about skip lists in data structures.     [15]

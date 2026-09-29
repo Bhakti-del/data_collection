@@ -1,0 +1,21 @@
+ELECTRONIC SENSORS
+1.a) What is a strain gauge? Explain the operation of Strain gauge.
+b) Briefly define and explain all the static characteristics of transducers.  [8+7]
+2.a) Derive an expression for sensitivity of a piezo-resistive crystal subjected to a strain.
+b) Explain in detail about Linearity and sensitivity of a sensor.    [8+7]
+3.a) What is the principle of gas thermometric sensors? Briefly explain about gas thermometric
+sensors.
+b) Define thermal sensor. Classify various temperature sensors.   [10+5]
+4.a) Explain in detail about the magnetic thermometer.
+b) Explain the working principle of nuclear quadrupole resonance thermometer. [8+7]
+5.a) Explain the principle of operation of anisotropic magneto resistive (AMR) sensors.
+b) Define Hall Effect, draw and explain the Hall Effect sensor.    [8+7]
+6.a) With a neat sketch explain the functioning of Eddy current transducer.
+b) Explain in detail about the construction and working principle of synchros.  [8+7]
+7.a) What are the commonly used photoresistor materials? Discuss their spectral ranges and
+usable resistance ratio ranges.
+b) Describe the basic construction and working of an electro chemical cell.  [8+7]
+8.a) Describe the concept of smart sensors? Explain the essential elements of a “Smart sensor”
+unit with a neat diagram.
+b) Describe the technique of computing air speed on aircraft by measuring the static pressure,
+total pressure and temperature.       [8+7]

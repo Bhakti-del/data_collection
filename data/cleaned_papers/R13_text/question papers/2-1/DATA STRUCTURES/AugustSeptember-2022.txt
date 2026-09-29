@@ -1,0 +1,24 @@
+DATA STRUCTURES
+1.a) Write applications of single linked list to represent polynomial expressions.
+b) Explain sparse matrix representation using array with an example. Discuss the advantages
+and disadvantages of the method.       [7+8]
+2.a) Explain the basic operations of queue with pseudo code.
+b) Write an algorithm to insert and delete a key from circular queue.   [7+8]
+3.a) Construct max heap for the following:
+140, 80, 30, 20, 10, 40, 30, 60, 100, 70, 160, 50, 130, 110, 120
+b) Discuss representation of Graph using arrays and linked list.   [7+8]
+4.a) State and explain insertion sort with example.
+b) Define hashing. Explain various types of collision resolution techniques in hashing.
+[7+8]
+5.a) What is a binary  search tree? Write an algorithm for inserting and deleting a node in a
+binary search tree.
+b) Write a short note on AVL trees and RED Black trees.    [7+8]
+6.a) Show how to reverse a single linked list.
+b) List various operations of linked list a nd explain how to insert a node anywhere in the
+single linked list.         [7+8]
+7.a) Explain the procedure to convert infix expression to postfix expression with the following
+expression: ((A –(B+C) * D) / (E+F))
+b) Write an algorithm for evaluati ng a postfix expression using stack. Evaluate the
+following postfix notation 123*+5-       [7+8]
+8.a) Explain in-order traversal of threaded binary tree with an example.
+b) Write in-order, pre-order and post-order traversal of a binary tree.   [7+8]

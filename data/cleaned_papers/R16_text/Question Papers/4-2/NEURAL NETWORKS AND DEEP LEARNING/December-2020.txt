@@ -1,0 +1,10 @@
+NEURAL NETWORKS AND DEEP LEARNING
+1. Discuss a few tasks that can be performed by a back propagation network.  [15]
+2. Explain the algorithm of BAM with its Architecture.    [15]
+3. Explain the two phases of training in full CPN with diagram.   [15]
+4. Explain the algorithm needed to propagate information in a network while
+implementing SOM stimulator.       [15]
+5. Illustrate in detail about the historical trends in deep learning.   [15]
+6. Describe an example to explain the concept of back propagation in deep learning. [15]
+7. Illustrate the concept of semi supervised learning in detail.     [15]
+8. Explain the steps involved in AdaGrad algorithm for convex optimization.  [15]

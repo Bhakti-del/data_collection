@@ -1,0 +1,43 @@
+MODERN SOFTWARE ENGINEERING
+and may have a, b as sub questions.
+PART – A
+1.a) Why Agile development?        [2]
+b) What do meant by Root-Cause Analysis?      [3]
+c) What is Osmotic Communication?       [2]
+d) Mention the guidelines to create a Coding Standard.     [3]
+e) What is the purpose of Version Control System?     [2]
+f) Give the importance of Collective Code Ownership.     [3]
+g) List the important characteristics of Stories.      [2]
+h) How to make Release Commitment?       [3]
+i) Define Spike Solutions.        [2]
+j) Name some Test Driven Development tools.      [3]
+PART – B
+2.a) List the advantages of Extreme Programming.
+b) How to Conduct an Iteration Retrospective? Discuss.    [5+5]
+OR
+3.a) Discuss briefly about the role of Onsite Customers in building the software by XP team.
+b) Explain the Process Improvement Charts for Informative Workspace with examples.[5+5]
+4.a) What are Stand-Up Meetings? Give the critics on a Daily Stand-Up Meeting.
+b) How to understand the Goals and Frustrations of Customers and End-users? [5+5]
+OR
+5.a) Discuss the strategies for Generating Trust in a XP team.
+b) How does a Design model can be used to solve the Language problem between Programmers
+and Domain experts?         [5+5]
+Used Papers 2024
+6.a) “No Bugs” depends on the Support and Structure of all of XP. Give your comment on the
+statement.
+b) What is meant by Documentation? Discuss the various types of it.   [5+5]
+OR
+7. Explain the process of Continuous Integration and its practices.   [10]
+8.a) Discuss on key things to Create a Vision statement.
+b) Explain how Iteration Planning does provide Structure to the team’s Daily Activities.[5+5]
+OR
+9.a) Discuss in detail about Adaptive planning and Organizational Culture.
+b) How to make Consistent Estimates? How to improve Velocity?   [5+5]
+10.a) Illustrate the creation of Customer Tests using the describe, demonstrate, develop processes.
+b) Discuss on the usage of Risk-Driven Architecture.     [5+5]
+OR
+11.a) Define Refactoring. How it enables programmers to improve Code Quality without changing
+its behavior?
+b) Discuss how Hard data can be used to drive Optimization efforts.   [5+5]
+Used Papers 2024

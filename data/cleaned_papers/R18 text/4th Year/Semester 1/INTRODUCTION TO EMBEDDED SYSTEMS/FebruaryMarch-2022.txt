@@ -1,0 +1,13 @@
+INTRODUCTION TO EMBEDDED SYSTEMS
+(Computer Science and Engineering)
+1. Explain the different characteristics of embedded systems in details.  [15]
+2. Explain the various purposes of embedded systems with illustrative examples. [15]
+3.a) What is memory shadowing? What are its advantages?
+b) Explain the role of watch dog timer in embedded system design.   [7+8]
+4. Discuss on-board and external communication interfaces in detail.   [15]
+5. Explain the ‘high level language’ based embedded firmware development. Write its
+advantages.           [15]
+6. Explain the different Embedded Firmware Design Approaches.   [15]
+7. Discuss various activities involved in the creation of process and threads.  [15]
+8. Explain the role of Integrated Development Environment (IDE) for Embedded Software
+Development.          [15]

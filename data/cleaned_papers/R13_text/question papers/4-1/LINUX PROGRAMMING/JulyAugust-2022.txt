@@ -1,0 +1,24 @@
+LINUX PROGRAMMING
+(Computer Science and Engineering)
+1.a) Write a detail note on shell meta characters and shell commands available in Bash.
+b) Explain briefly about various backup utilities and disk utilities with few options.   [8+7]
+2.a) List and explain various string and mathematical functions available in awk with  examples
+for each.
+b) Write an awk script to print the first n prime numbers into a file.   [8+7]
+3.a) What is meant by file mode creation? How to set it for a process?
+b) Demonstrate various file mode constants available for chmod function.   [6+9]
+4.a) Write about stat( ), fstat( ) and lstat( ) system calls. Explain how these three differ with
+each other.
+b) Demonstrate with a sample code, various system calls used to copy the content of one file
+to another file.          [8+7]
+5.a) Differentiate between fork() and exec() system calls.
+b) Describe the UNIX kernel support for a process. Show the related data structures with a
+neat diagram.            [8+7]
+6.a) What are the signals that are not ignored or blocked? Explain the reason behind it with an
+example.
+b) What is the need of exec() system calls? Explain with an illustrative example.  [8+7]
+7.a) Compare the IPC functionality provided by Pipes, FIFOs and Message Queues.
+b)  Explain various fields of ipc_perm structure.       [6+9]
+8. Explain briefly about the following socket APIs with clear syntax and example:   [15]
+a) socket() b) bind() c) listen() d) accept()
+--ooOoo--

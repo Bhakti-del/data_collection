@@ -1,0 +1,44 @@
+INFORMATION SECURITY
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)   What are the possible attacks on computers?      [2]
+b)   Differentiate between encryption and decryption.     [3]
+c)   What is differential cryptanalysis?             [2]
+d)   Explain Blowfish algorithm in brief.         [3]
+e)    Define Message Authentication code.        [2]
+f)    What is the function of TGS Server in Kerberos?        [3]
+g)    What are different approaches to Public-key Management?     [2]
+h)    List the different encryption and authentication algorithms used for AH and ESP
+protocols.          [3]
+i)     What is Secure Socket Layer?            [2]
+j)     What are the limitations of firewalls? Explain.         [3]
+PART - B
+2.a)  Explain various security services and mechanisms.
+b)  Discuss about symmetric and asymmetric key cryptography.   [5+5]
+OR
+3.a)  Explain the basic model for network security.
+b)  List and explain substitution and transposition techniques in brief.   [5+5]
+4.a)  Differentiate between the symmetric block ciphers and symmetric stream ciphers.
+b)  Explain the process encryption and decryption in Elliptic curve cryptography. [5+5]
+OR
+5.a)   What are the principles of public key cryptosystems? Discuss.
+b) Explain Diffie-Hellman Key Exchange in Elliptic curve cryptography.  [5+5]
+6.a)  Explain about X.509 authentication service.
+b)  What are the approaches used for Digital Signatures based on Public Key Encryption?
+Discuss.          [5+5]
+OR
+7.a)  Discuss in detail about whirlpool algorithm.
+b)  With a neat sketch, explain the concept of Secured Hash Algorithm (SHA). [5+5]
+8.   Draw the IP security authentication header and explain the functions of each field.   [10]
+OR
+9.a)  What are the five principal services provided by PGP? Explain.
+b)  How the messages are generated and transmitted in Pretty Good Privacy (PGP)
+protocol? Explain.         [5+5]
+10.a)  What are the steps involved in performing Secure Inter-branch Payment Transactions?
+Explain.
+b)  Discuss in detail about various password management techniques.   [5+5]
+OR
+11.a)  What are the various virus counter measures? Discuss.
+b)  List the characteristics of a good firewall implementation . How is circuit gateway
+different from application gateway?       [5+5]

@@ -1,0 +1,28 @@
+ANALOG AND DIGITAL ELECTRONICS
+1.a) Discuss the differen t types of junction breakdown s that can occur in a reverse  biased
+diode.
+b) Explain operation of diode in forward bias and reverse bias condition. Draw V -I
+characteristics of diode.        [8+7]
+2.a) Explain about the full -wave center -tap rectifier with L section filters and also draw
+suitable diagram and waveforms.
+b)  Write a short note on diffusion capacitance and diode switching times.  [8+7]
+3.a) With neat diagrams and necessary equations, explain the effect of coupling capacitor
+and bypass capacitor on the performance of an amplifier at low-frequencies?
+b) Explain how self-biasing can be done in a BJT with relevant sketches and waveforms?
+[8+7]
+4.a) Write equations of voltage gain, current gain, Input impedance and Output impedance
+of CE amplifier.
+b) Explain how transistor acts as an amplifier?                [10+5]
+5.a) Bring out the differences between BJT and FET. Compare the three configurations of
+JFET amplifiers.
+b) With the help of a neat schematic, explain the functioning of a common drain amplifier.
+[8+7]
+6.a) Define the De Morgan Laws with suitable example.
+b) Implement the basic logic gates by using modified DTL gates, HTL and TTL gates.
+[6+9]
+7.a) Explain the function of a Encoder with necessary diagrams and discuss its applications.
+b) Design the 4-bit binary Adder-Subtractor with suitable diagram.    [6+9]
+8.a) Give the design of 3 bit Ring counter and explain its operation with waveforms. Also
+give the applications of ring counter.
+b) Obtain the characteristic equations of D and T flip flops.    [9+6]
+---oo0oo---

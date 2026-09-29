@@ -1,0 +1,81 @@
+UTILIZATION OF ELECTRICAL ENERGY
+and may have a, b as sub questions.
+PART – A
+1.a) What are the causes of failure of heating element?      [2]
+b) What is dielectric heating? Explain its applications.     [3]
+c) In the arc welding, What is the order of temperature of the arc produced?   [2]
+d) How Seam welding will be implemented in industrial applications than Spot welding.
+Compare the both welding with suitable description.      [3]
+e) A surface inclined at an angle 400 to the rays is kept 6 m away from 150 candle power lamp.
+Find the average intensity of illumination on the surface.     [2]
+f) Define Solid angle and Space height ratio with respect to illumination.   [3]
+g) Give the advantages and disadvantages of electric traction over other types of traction
+systems.           [2]
+h) Assume Kakatiya past passenger train is running at an average speed of 42 kmph between
+stations situated 2.6 km apart. Train accelerates at 3.4 kmphps and retards at 2 kmphps. Find
+its maximum speed assuming simplified trapezoidal speed time curve.   [3]
+i) State the need for double battery parallel block system used in electric fraction. [2]
+j) Elaborate the coaching wiring used in electric fraction.    [3]
+PART – B
+2.a) Describe briefly the methods of direct and indirect resistance heating and list the applications
+of these two methods?
+b) A20-kW, 230-V, and single-phase resistance oven employs nickel-chrome strip 25-mm thick
+is used, for its heating elements. If the wire temperature is not to exceed 1,200 0C and the
+temperature of the charge is to be 7000C. Calculate the width and length of the wire. Assume
+the radiating efficiency as 0.6 and emissivity as 0.9. Determine also the temperature of the
+wire when the charge is cold         [5+5]
+OR
+3.a) How will you control most efficiently the heat of resistance furnace? What advantages does
+graphite electrode process over carbon electrode?
+b) State the advantages of electrically produced heat by means of arc furnaces. Distinguish
+between the direct and indirect type of arc furnaces with applications    [5+5]
+4.a) Discuss the comparison between Resistance and Arc Welding with salient points.
+b) How would you describe the Electrolysis process with neat circuit diagram in Electric
+welding?           [5+5]
+OR
+5.a) Inference between Carbon Arc welding and Metal Arc welding methods with neat diagrams.
+Also give their applications.
+b) How would you describe Electric arc welding with neat sketch?    [5+5]
+6.a) The luminous intensity of a lamp is 600 CP. Find the flux given out. Also find the flux in the
+hemisphere containing the source of light and zero above the horizontal.
+b) Analyze the factors which required for proper illumination to the following:
+i) Street lighting
+ii) Factory lighting
+iii) Flood lighting.            [5+5]
+OR
+7.a) State the laws of illumination. Explain the laws with the help of suitable diagrams, and derive
+an equation of the same.
+b) An illumination on the plane of 220 lux is required in a room 86 m×20 m in size. The lamps
+are required to be hung 3.8 m above the surface. Assuming a suitable space -height ratio, a
+utilization factor of 0.76, a lamp efficiency of 42 lumens per watt and a depreciation factor
+of 1.55, Estimate the number of lamps, rating of each lamp and also dispose the lamps in the
+room.              [5+5]
+8.a) Derive expression for the distance traveled by an electric train using tra pezoidal speed-time
+curve?
+b) An electric train weighing 250 tonnes runs a uniform up gradient of 1% with the following
+speed-time curve:
+i) Uniform acceleration of 2.3 kmphps for 45 sec
+ii) Constant speed of 2.1 kmphps for 34 sec
+iii) Coasting for 32 sec
+iv) Braking at 2.9 kmphps to rest
+v) Stop at station 22 sec
+If the tractive resistant is 44 N/tonne, rotational inertia effect 10% of dead weight and overall
+efficiency of transmission and motor is 78%.
+Determine
+i) Schedule speed
+ii) Specific energy consumption
+iii) Total energy consumption
+iv) Distance between two stations.        [5+5]
+OR
+9.a) What are the different methods of approximation of speed -Time curves? Derive expression
+for distance travelled using quadrilateral approximation method of V (t) curve.
+b) A train has a schedule speed of 30kmph over a level track. Distance between stations being
+1km. Station stopping time is 20 seconds. Assuming braking retardation of 3 kmphps and
+maximum speed 25 percentage greater than average speed, calculate acceleration required to
+run the service.          [5+5]
+10. With the help of neat diagram, explain the method to obtain unidirectional polarity in train
+lighting.                 [10]
+OR
+11. Explain the special requirements of a train lighting.
+[5+5]
+--ooOoo--

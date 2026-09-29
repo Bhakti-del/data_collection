@@ -1,0 +1,20 @@
+CONCURRENT PROGRAMMING
+(Computer Science and Engineering)
+1.a)  Write Lock one algorithm for two thread problem and give its disadvantages.
+b)  Examine lock two algorithm for two threads problem.    [7+8]
+2.a)  Explain Peterson Algorithm for achieving mutual exclusion.
+b)  Prove that Bakery algorithm is dead lock free.     [7+8]
+3.a)  Develop lock based queue and explain.
+b)  Write about linearliazability, compositional linearliazability and non blocking property.
+[7+8]
+4.a) Compare and Contrast concurrent Vs Sequential object.
+b) Analyze synchronized block and locks in Java.     [7+8]
+5.a) Discuss about wait free consensus protocol.
+b) Elaborate compare set operation.       [7+8]
+6.a) Propose lock free universal algorithm.
+b) Compare test-and-set (TAS), test-and-test-and-set (TTAS) operations.  [7+8]
+7.a) Compare coarse grained Vs fine grained synchronization.
+b)  Explain how do you represent sets with linked list and illustrate with examples. [7+8]
+8.a) Elaborate back off stack with example.
+b)  Construct unbounded lock free queue.      [7+8]
+R18 USED PAPERSAUG/SEP-2021

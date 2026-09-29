@@ -1,0 +1,29 @@
+DIGITAL LOGIC DESIGN
+(Computer Science and Engineering)
+1.a) Write about error detecting codes and error correcting codes used in digital systems.
+b) Convert (i) 68BE 16 to Binary and then Octal (ii) Convert  34510 to binary and
+hexadecimal.            [8+7]
+2.a) Describe the basic theorems and properties  of Boolean algebra.
+b) Express the following function in sum of minterms and product of maxterms.
+F (A,B,C,D) = B′ D + A′ D + BD       [9+6]
+3. Implement the following Boolean function F, together with the don’t care conditions d,
+using no more than two NOR gates
+F (A,B,C,D) = ∑ (0, 1,2,9,11)
+d (A,B,C,D) = ∑ (8,10,14,15)
+Assume that both the normal and complement inputs are available.   [15]
+4. Simplify the following Boolean functions, using a four variable Karnaugh map method
+and implement the simplified function using NOR gates
+F( A,B,C,D) = ∑(2,4,5,6,7,10,13,15)       [15]
+5.a) Discuss the analysis and design procedure and draw the logic diagram of a 4 bit BCD
+subtractor.
+b) Implement the following  Boolean function with a multiplexer
+F (A,B,C,D) = ∑ (0, 1,3,4,8,9,15)       [9+6]
+6. Design a combinational circuit that converts a 4 bit gray code to 4 bit binary converter
+using XOR gates and explain its operation with examples.    [15]
+7.a) When did race condition occurs in asynchronous sequential circuits? Explain the
+noncritical and critical race conditions.
+b) Draw the logic diagram of a 4bit binary ripple down counter using flip -flops that trigger
+on the negative edge of the clock and explain its operation with truth table and timing
+diagram.          [6+9]
+8.a) Explain the memory hierarchy  in terms of  nature, capacity, access times.
+b)  Explain in detail about sequential memories with examples.    [6+9]

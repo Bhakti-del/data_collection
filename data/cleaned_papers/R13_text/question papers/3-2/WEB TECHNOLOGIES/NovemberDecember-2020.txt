@@ -1,0 +1,14 @@
+WEB TECHNOLOGIES
+1.  Explain five predefined and functions in PHP with an example.       [15]
+2.  Write a PHP code to validate the form consisting of a username, password and email
+fields.             [15]
+3.  How is XML defined? Write down the XML syntax and structure rules. What is DTD?
+Discuss its applications.          [15]
+4.  Write a well form schema in XML for the payroll system of any organization.   [15]
+5.  What are the requirements for CGI proces s? Illustrate the CGI working with a sample
+script.             [15]
+6.  With a neat diagram explain the lifecycle of a servlet.      [15]
+7.  Explain the procedure of how JSP is used to generate dynamic data using an example .
+[15]
+8.  What is Document object model? Discuss five DOM methods used with JavaScript.
+[15]

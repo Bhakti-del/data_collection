@@ -1,0 +1,35 @@
+PREDICTIVE ANALYTICS
+marks and may have a, b, c as sub questions.
+PART - A
+1.a) How to impute missing Data in R?       [2]
+b) List out various steps and techniques in analytics.     [3]
+c) Write the logistic regression and its components.     [2]
+d) What is data visualization? Why do we use data visualization?   [3]
+e) List the advantages of Decision tree.       [2]
+f) Write the Importance of Knowledge, Skills & Competence (KSC)   [3]
+g) Define Time series? What are the components of time series?   [2]
+h) What is forecast error and give its uses.      [3]
+i) Define peer review.         [2]
+j) What is Documentation? List different types of document preparation tools. [3]
+PART - B
+2.a) What is the Need for Business Modeling? State applications of modelling in business.
+b) Explain about variable rationalization and Model Building.    [5+5]
+OR
+3.a) What do you mean by predictive analytics and what are its uses in business?
+b) Discuss about Missing Imputations.       [5+5]
+4. Explain about Regression, classification and Decision trees.    [10]
+OR
+5.a) What is model theory and model fit statistics.
+b) Discuss the Hosmer Lemeshow Test and Error / confusion matrix.   [5+5]
+6. What do you mean by objective segmentation? Explain.    [10]
+OR
+7. Briefly, explain the Training & development of Knowledge, skills and competence.[10]
+8. Write a short note on Time series and STL approach.    [10]
+OR
+9. Explain the extraction of features from the generated model as height, Average, Energy
+etc. and analyze for prediction.       [10]
+10.a) Give a brief note on technical report and minutes of meetings.
+b) Discuss about Accessing and updating the corporate knowledge base.  [5+5]
+OR
+11. Explain about understanding the structure of a document.    [10]
+--ooOoo--

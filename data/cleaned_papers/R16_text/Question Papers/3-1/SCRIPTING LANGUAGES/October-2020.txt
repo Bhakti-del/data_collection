@@ -1,0 +1,17 @@
+SCRIPTING LANGUAGES
+1.a) What are the advantages and disadvantages of Linux OS?
+b) Discuss various commands used for file management.     [7+8]
+2.a) Explain the basic functionality of Linux kernel.
+b) Describe the structure of Linux file system and various entries of it.   [7+8]
+3. Discuss about the following commands in Linux:       [15]
+a) netstat b) finger c) traceroute d) rlogin e) telnet
+4. What is Domain Naming Service? How DNS works? Explain in detail.     [15]
+5.a) Differentiate between lists and Hashes.
+b) Write a subroutine that calculates the sum of numbers in a list.    [7+8]
+6. Explain various loops and decision making statements available in Perl with an
+illustrative example.           [15]
+7.a) How a list data structure differs from an array data structure in TCL?
+b)  List and explain various operations performed on a list data structure.   [7+8]
+8.a) What do you mean by classes? How they differ from dictionaries?
+b)  How is operator overloading coded in a Python class? Explain with an illustration.[7+8]
+R16  R16

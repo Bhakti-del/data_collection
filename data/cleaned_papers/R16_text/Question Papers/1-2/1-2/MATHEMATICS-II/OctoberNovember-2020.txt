@@ -1,0 +1,76 @@
+MATHEMATICS-II
+1. Using Laplace transforms solve y'' – 2y' + y = et with y = 2,
+dt
+dy  = -1 at t = 0.     [15]
+2.a) Find
+1 cos tL t
+
+
+b) Find
+   
+1
+2 211
+sL
+ss
+
+
+
+ 
+[7+8]
+3.a) Evaluate
+62
+0
+.xx e dx
+
+
+
+b)  Prove that
+11 2
+4400
+.
+4211
+x dx dx
+xx
+
+       [7+8]
+4.a)  Evaluate
+72
+5 2
+0
+sin cos . d
+
+
+b) Evaluate
+1
+7 5 14
+0
+(1 ) .x x dx          [7+8]
+5.a) Calculate
+3r drdθ over the area included between the circles r = 2sinθ and
+r = 4sinθ.
+b) Change the order of integration and then evaluate
+ 
+
+
+
+1
+2
+23
+42
+x
+xx
+dydx .     [7+8]
+6. Find the volume bounded by the parabol oid x2 + y2 = az, the cylinder x 2 + y2 = 2ay and
+the plane z = 0 (a>0).         [15]
+7.a)  Evaluate i)
+)53.( 322 kxyzjxyix   and ii)
+2 2 2[( ) (3 ) ( ) ]xyz i x y j xz y z k     at the
+point (1,2,3).
+b) Find the directional derivative of the function
+22 4xzyzx   at
+(1, 2, 1)  in the
+direction of
+2i j k .        [8+7]
+8. Verify Divergence theorem for
+F (x2 – yz) i+(y 2 – zx) j+(z 2 – xy)k, taken over the
+rectangular parallelepiped 0  x  a, 0  y  b, 0  z  c.    [15]

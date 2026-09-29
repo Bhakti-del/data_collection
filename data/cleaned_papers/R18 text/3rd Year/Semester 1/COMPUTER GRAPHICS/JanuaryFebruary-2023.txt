@@ -1,0 +1,40 @@
+COMPUTER GRAPHICS
+and may have a, b as sub questions.
+PART – A
+1.a)      Explain applications for large screen displays.     [2]
+b)      Write a short note on video-display device.      [3]
+c)      What is viewing functions?          [2]
+d)      Explain the 2 D transformation matrix for Translation.    [3]
+e)      What is the role of parametric functions in curve generation?   [2]
+f)      Write an algorithm for the generation of B-spline?     [3]
+g)      Derive the transformation matrix for rotation about y-axis in 3D.   [2]
+h)      Derive the matrix form for the Translation operation in 3-D graphics.  [3]
+i)       Write about depth-sort algorithm.       [2]
+j)       What are the steps in design of animation sequence?     [3]
+PART – B
+2.a)  What are the steps involved in DDA algorithm for line drawing.
+b)  Write a short note on boundary-fill algorithm.     [5+5]
+OR
+3.a)  Briefly explain about mid-point ellipse algorithms with example.
+b)  Discuss about raster-scan systems.       [5+5]
+4.a)  Describe the Cohen-Sutherland algorithm.
+b)  What is reflection? Discuss with example?      [5+5]
+OR
+5.a)  Explain the stages in viewing pipeline in 2-D graphics.
+b)  Derive mathematically the transformation that rotates an object point 0 0 anti-clockwise
+about the origin. What the matrix representation for this rotation.   [5+5]
+6.a)  Write a short note on Hermite curve.
+b)  Discuss about quadric surfaces.       [5+5]
+OR
+7.a)  Write a short note on Bezier curve.
+b)  Discuss about polygon rendering methods.      [5+5]
+8.a)  Derive the matrix form for Rotation in 3-D graphics.
+b)  Explain about the approaches followed for clipping in 3-D space.   [5+5]
+OR
+9.a)  Briefly explain about 3-D composite transformations.
+b)  Write a short note on shear transformations in 3-D.     [5+5]
+10.a)  Discuss about the graphical languages followed to achieve animation.
+b)  Explain in detail about depth-buffer algorithm.     [5+5]
+OR
+11.a) Describe linear list notation of animation languages.
+b)  Write a short note on BSP-trees.       [5+5]

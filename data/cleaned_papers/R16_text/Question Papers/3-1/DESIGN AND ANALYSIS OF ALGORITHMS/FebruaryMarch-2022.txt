@@ -1,0 +1,15 @@
+DESIGN AND ANALYSIS OF ALGORITHMS
+----
+1.a) Give Strassen’s matrix multiplication algorithm and derive the time complexity.
+b) Illustrate with an example the working of quick sort.    [7+8]
+2.a) Explain  various asymptotic notations for algorithm analysis.
+b) Derive the time complexity of binary search.      [7+8]
+3. Give the solution to the 8-queens problem using backtracking.     [15]
+4. Explain the solution to the graph coloring problem using backtracking.    [15]
+5. Explain the Single source shortest path problem with an example.     [15]
+6. What is the need for generating a spanning tree? Explain an algorithm for generating
+spanning tree.            [15]
+7. Discuss the time and space complexity of Dynamic Programming traveling sales person
+algorithm.            [15]
+8. Explain the LC branch and bound algorithm.        [15]
+used paper feb-22 jntu

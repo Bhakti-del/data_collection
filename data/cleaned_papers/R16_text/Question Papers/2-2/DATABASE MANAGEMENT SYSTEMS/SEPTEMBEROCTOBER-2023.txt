@@ -1,0 +1,44 @@
+DATABASE MANAGEMENT SYSTEMS
+and may have a, b as sub questions.
+PART – A
+1.a)     Define data independence.        [2]
+b)     Illustrate class hierarchies in ER model.      [3]
+c)     What is an active database?        [2]
+d)     Give the basic form of SQL query.       [3]
+e)      Define functional dependency.       [2]
+f)      List Armstrong’s inference rules.       [3]
+g)      What is an intention lock?        [2]
+h)      Give failure classification.        [3]
+i)      What is a heap file?         [2]
+j)      What is multi-level indexing?        [3]
+PART – B
+2.a) What are the functionalities and responsibilities of database administrator?
+b) Compare database system with information retrieval system.   [5+5]
+OR
+3. What is an integr ity constraint? Explain various types of integrity constraints and their
+enforcement by DBMS.        [10]
+4. Consider the following database schema to write queries in Relational Algebra:
+Supplier( sno, sname, city)
+Parts( Pid, name, color)
+Supply(sno, pid, price)
+a) Find the names of the parts supplied by Hyderabadi suppliers.
+b) Find the names of the suppliers who supply Blue colored blenders.
+c) Find the names of the suppliers who supply Grills for cheapest price.  [10]
+OR
+5.a) Demonstrate the use of aggregate operators in SQL.
+b) What is a nested query? What are its advantages? Explain with an example. [10]
+6. Discuss the problems caused due to redundancy and suggest mechanisms to reduce
+redundancy.          [10]
+OR
+7.a) Compare and contrast 3NF with BCNF.
+b) With examples, explain the properties of decomposition.    [4+6]
+8.a) Compare two phase locking protocol with time stamp based protocol for concurrency
+control.
+b) Explain time-stamp based protocol for concurrency control.    [5+5]
+OR
+9.a) How to implement transaction atomicity?
+b) Demonstrate redo and undo operations in recovery algorithm.   [4+6]
+10.a)  How does data get stored on a magnetic disk? Explain with a suitable diagram.
+b) Explain search operation of a B+ tree with an illustrative example.   [5+5]
+OR
+11.  Describe extendible hashing as a dynamic indexing structure with necessary data. [10]

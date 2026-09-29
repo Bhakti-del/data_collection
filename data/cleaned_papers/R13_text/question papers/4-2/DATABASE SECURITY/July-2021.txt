@@ -1,0 +1,25 @@
+DATABASE SECURITY
+(Computer Science and Engineering)
+1.a) Discuss various security threats to a database and explain the protection requirements for a
+database with suitable examples.
+b) Define inference channel and discuss inference channels in a database system. [7+8]
+2.a) Explain Take-grant model as an extension of access matrix model.
+b) Illustrate the use of dynamic graph and static graph in Acten model.     [8+7]
+3.a) Compare the advantages of Biba model with Bell-LaPadula model.
+b) What is meant by polyinstantiation? With examples describe polyinstantiated tuples and
+polyinstantiated elements.           [7+8]
+4.a) Contrast implicit and explicit flow to an object in lattice model.
+b) Compare the security features of UNIX with OS/400 system.      [8+7]
+5.a) Which security model has been integrated into Xenix operating system? Explain the
+interpretation of this model in secure Xenix.
+b) How are logical objects and dynamic objects are handled in database security? Give
+examples.               [8+7]
+6.a) Illustrate statistical database queries and describe the architecture of statistical security
+management facility for securing statistical database.
+b) List the basic elements of intrusion detection system.    [8+7]
+7.a) What is a frame based system? Describe the security threats to this system.
+b) Explain the concepts of semantic inheritance and security inheritance in object oriented
+database system.            [8+7]
+8. What is an active database? What are its special feat ures? Does multilevel secure model
+suits active databases? Justify your answer with necessary scenarios.  [15]
+--ooOoo--

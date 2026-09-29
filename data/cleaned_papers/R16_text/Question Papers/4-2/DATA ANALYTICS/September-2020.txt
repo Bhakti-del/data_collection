@@ -1,0 +1,14 @@
+DATA ANALYTICS
+1. Explain in detail about Data pre-processing and Data processing.   [15]
+2. How to manage data which comes from various sources by ensuring data quality? Explain
+with real time example.        [15]
+3. Explain the applications of analytics in detail.     [15]
+4.a) Provide examples for the following types of data: nominal, ordinal, categorical, continuous,
+discrete.
+b) Briefly describe application of modeling in business.    [8+7]
+5. Make a comparison of ordinal least squares meth od and maximum likelihood estimation
+method with suitable example data.       [15]
+6.a) Describe Hosmer Lemeshow Test for goodness of fit for logistic regression models.
+b) What is the role of sigmoid function in regression models? Give illustrations. [8+7]
+7. Explain CHAID algorithm for classification and also discuss its limitations.  [15]
+8. Describe the steps involved in data visualization in Tableau.   [15]

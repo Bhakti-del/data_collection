@@ -1,0 +1,19 @@
+DATABASE SECURITY
+(Computer Science and Engineering)
+1.a) List and explain the Problems in Databases Security.
+b) Write the differences between the Acten Model and PN Model.     [8+7]
+2.a) Explain the Access Matrix Model in detail.
+b) Illustrate the Bussolati and Martella's Model for Distributed databases.            [10+5]
+3.a) List and explain the Security Functionalities in Some Operating Systems.
+b) Discuss the Trusted Computer System Evaluation Criteria.               [10+5]
+4.a) Elaborate on the Lattice Model for the Flow Control.
+b) Describe the Memory Protection Resource.       [8+7]
+5.a) Explain the types of intrusion detection systems.
+b) Discuss the DBMS Design Security Package.      [7+8]
+6.a) Illustrate the secure operating system design.
+b) Explain the Methodological Approach to Security Software Design.   [7+8]
+7.a) Discuss the Model for the Protection of Frame-Based Systems.
+b) Illustrate the Model for the Protection of Object-Oriented Systems.    [7+8]
+8.a) Explain the Orion 2.0 Architecture.
+b) Discuss RETISS system.         [7+8]
+--ooOoo--

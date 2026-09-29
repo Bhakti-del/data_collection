@@ -1,0 +1,19 @@
+MACHINE LEARNING
+(Computer Science and Engineering)
+1.a)  Define Well-Posed problem. Illustrate any four examples for Well-Posed problems.
+b)  What do you mean by Candidate elimination? Explain.    [7+8]
+2.a)  What are the concepts of learning as search? Discuss.
+b)  Discuss the appropriate problems for decision tree learning.    [8+7]
+3.a)  Contrast the hypothesis space search in ID3 and candidate elimination algorithm.
+b)  Explain the Back propagation learning algorithm and its limitations.  [7+8]
+4.a)  How a multi layered  network learns using a gradient descent algorithm? Discuss.
+b)  Explain the methods for comparing the accuracy of two hypotheses.  [8+7]
+5.a)  State Bayes theorem. Illustrate Bayes theorem with an example.
+b)  Describe the mistake bound model of learning.     [8+7]
+6.a)  Explain Gibs algorithm with an example.
+b)  State and explain the Minimum Description Length Principle.   [8+7]
+7.a)  Discuss about Hypothesis space search in genetic algorithms.
+b)  Write the basic algorithm for learning sets of First-Order Rules.   [8+7]
+8.a)  Discuss Explanation-Based learning of search control knowledge.
+b)  Explain the inductive analytical approaches to learning.    [8+7]
+R18 USED PAPERSAUG/SEP-2021

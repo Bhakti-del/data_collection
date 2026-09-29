@@ -1,0 +1,13 @@
+ADVANCED OPERATING SYSTEMS
+1.a) List Characteristics of distributed operating system..
+b) Compare message communication model Vs remote procedure call.  [7+8]
+2. Discuss vector clocks and compare with logical clocks.      [15]
+3. Explain Lamport’s algorithm for ensure mutual exclusion in distributed systems.   [15]
+4. Explain about Raymonds Heuristic algorithm.       [15]
+5. Write edge chasing and global state detection algorithms for deadlock detection in
+distributed operating system.          [15]
+6. Describe about the Hierarchical deadlock detection algorithm.     [15]
+7. Write the design issues in implementing of multi processor system and explain its
+architecture.            [15]
+8. Explain sender initiated load distributing algorithm in detail.     [15]
+USED PAPER MARCH-2021

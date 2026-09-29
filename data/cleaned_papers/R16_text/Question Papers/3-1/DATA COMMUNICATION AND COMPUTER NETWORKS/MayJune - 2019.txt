@@ -1,0 +1,48 @@
+DATA COMMUNICATION AND COMPUTER NETWORKS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) List out the topologies used in networks.      [2]
+b) Differentiate circuit switched networks and datagram networks.     [3]
+c)      Explain flow control.         [2]
+d)      Describe the differences between PPP and HDLC.     [3]
+e)      Differentiate broadcasting and flooding.      [2]
+f)       Define tunneling.          [3]
+g)      Differentiate between TCP and UDP.       [2]
+h)      Why three way handshake is used in TCP.      [3]
+i)       What is the use of FTP?        [2]
+j)      What is the header format of HTTP reply message?     [3]
+PART - B
+2.a)   Explain the ATM reference model and describe the functions performed by each layer.
+b)  What are the advantages and disadvantages of ring topology?   [5+5]
+OR
+3.a) Elicit types of transmission media with their merits and demerits.
+b)  Describe the characteristics of layered architecture.      [5+5]
+4.a) What are the different types of error detection methods? Explain the CRC error
+detection technique using generator polynomial x4+x3+1 and data 11100011.
+b)  Explain the CSMA schemes with diagrams.       [5+5]
+OR
+5.a)  Elucidate PCF and DCF in 802.11 format.
+b)  A very heavily loaded 1  km long, 10 -Mbps token ring has propagation speed of
+200m/μsec. Fifty stations are uniformly spaced around the ring. Data frames are
+256-bits, including 32 bits of overload. Acknowledgements are piggybacked onto the
+data frames and are included as spare bits within the data frames and are effectively
+free. The token is 8 bits. Is the effective data rate of this higher or lower than the
+effective data rate of a 10-Mbps CSMA/CD NETWORK?    [5+5]
+used paper 08-06-2019 PM
+6.a)  Differentiate DVR and OSPF.
+b) How count to infinity problem is resolved in DVR.     [5+5]
+OR
+7.a)  Explain ARP an RARP with examples.
+b)  What is purpose of ICMP? Explain its messages in detail.     [5+5]
+8.a) Explain the features and applications of UDP.
+b)  Elucidate congestion control in datagram subnets.     [5+5]
+OR
+9.a)  Elucidate the congestion prevention policies.
+b)  Explain the TCP header fields in detail.      [5+5]
+10.a)  What is an Electronic mail? Explain the two scenarios of architecture of E-Mail.
+b)  Explain the architecture of WWW. Discuss client and server side functionality of this
+architecture.          [5+5]
+OR
+11.a)  What is SNMP? Briefly discuss the SNMP model components.
+b)  What is the use of DNS? Explain how it works?     [5+5]
+used paper 08-06-2019 PM

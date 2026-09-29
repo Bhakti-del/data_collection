@@ -1,0 +1,58 @@
+ELECTRONIC MEASURING INSTRUMENTS
+and may have a, b as sub questions.
+PART – A
+1.a)      Explain the process of calibration.       [2]
+b)      Define sensitivity. Calculate the sensitivity of a 200 μA meter movement which is to be
+used as a dc voltmeter.        [3]
+c)      Define the function of wave analyser.        [2]
+d)      Describe the fixed AF oscillator and variable AF oscillator.    [3]
+e)      Describe the operation of an ohmmeter.      [2]
+f)       Compare and contrast DC current meters and DC voltmeters.   [3]
+g)      What is the basic operating principle of digital tape recording?     [2]
+h)      Describe the functionalities of a curve tracer in electronic measuring instruments. [3]
+i)       What are the various characteristics of a transducer?    [2]
+j)       Explain how an electrical transducer can be used to find the unknown pressure of a liquid.
+[3]
+PART – B
+2.a) A temperature sensor is known to have an accuracy of ±0.5 0C and a precision of ±0.2 0C.
+Determine the r ange within which the actual temperature lies with 95% confidence,
+considering both accuracy and precision.
+b) Explain different types of errors that occur in measurements.   [5+5]
+OR
+3.a) A D’Arsonval movement with a full scale deflection current of 50 μA and internal
+resistance of  500Ω is to be converted into a multirange voltmeter.  Define the value of
+multiplier required for 0 -20v, 0-50v, 0-100v.
+b) Explain the construction of multi-range voltmeter and Range extension DC voltmeter.[5+5]
+4.a) An arbitrary waveform generator has a sample rate of 1 MS/s and 12-bit vertical resolution.
+Determine the maximum frequency that can be accurately represented in the generated
+waveform.
+b) Discuss in detail about RF signal generator operation.    [4+6]
+Used Papers 2024
+OR
+5.a) Design a square wave generator with an adjustable frequency ranging from 1 Hz to 1 kHz
+and an amplitude of 5 V peak -to-peak. Include the circuit diagram and explain the role of
+each component in generating the square waveform.
+b) With a neat diagram, discuss the operation of a pulse generator.   [6+4]
+6.a) Discuss the design and functioning of AC voltmeters and current meters.
+b) Explain with a diagram how frequency and phase can be measured using a Lissajous
+method.          [6+4]
+OR
+7.a) Draw the block diagram of a general purpose oscilloscope  (CRO) and explain function of
+each block in detail.
+b) An AC voltmeter is designed to measure RMS voltages up to 250V at 50 Hz. Calculate the
+peak voltage and peak-to-peak voltage that this voltmeter can accurately measure.[6+4]
+8.a) Explain the FM method of magnetic tape recording and explain its advantages and
+disadvantages.
+b) Describe the closed-loop operation and the benefits of using servo transducers for accurate
+and reliable recordings.        [5+5]
+OR
+9.a) Explain the working principle of an X-Y plotter used in electronic measuring instruments.
+b) Describe the pen driving mechanisms employed in galvanometric recorders. [5+5]
+10.a) With a neat sketch, explain the operation of LVDT.
+b) Explain the piezoelectric effect and its utilization in piezoelectric transducers for measuring
+pressure, acceleration, and vibration.       [5+5]
+OR
+11.a) Describe the operation of digital temperature sensing systems,  and list it’s advantages over
+analog methods.
+b) Explain in detail about the resistive transducer with respective potentiometer. [5+5]
+Used Papers 2024

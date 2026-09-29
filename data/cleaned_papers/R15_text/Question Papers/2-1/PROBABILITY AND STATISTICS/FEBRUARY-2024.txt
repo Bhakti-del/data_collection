@@ -1,0 +1,81 @@
+PROBABILITY AND STATISTICS
+and may have a, b as sub questions.
+PART - A
+1.a)      Define a random variable and discuss the various  types of random variables with
+examples in each case.        [2]
+b)      Discuss the area property of normal distribution in detail.     [3]
+c)      Define the joint probability density function.       [2]
+d)      Discuss various types of correlation.        [3]
+e)      Define Type-I error and type-II error.       [2]
+f)      Define the point estimation and interval estimation.      [3]
+g)      Describe the probability distribution of queue length.     [2]
+h)      Explain the basic probabilistic queuing models.      [3]
+i)       What is a transition diagram?        [2]
+j)       Find the unique fixed probability vector of the matrix
+0.3 0.7
+0.5 0.5A  .  [3]
+PART - B
+2.  Let X denotes the minimum of the two numbers that appear when a pair of dice is
+thrown once. Determine the
+(a) Discrete probability distribution
+(b) Expectation and
+(c) Variance.                [4+3+3]
+OR
+3. Define normal distribution and hence find its mean and variance.   [10]
+4. The probabilities of random variables X and Y are given below. Find ( a) the value of K
+and (b) the joint distribution function and marginal distribution functions and plot these.
+[10]
+X Y - 1 0 1
+0
+3
+18
+2
+18
+3
+18
+1
+1
+18
+18
+K
+1
+18
+2
+2
+18
+1
+18
+2
+18
+OR
+5.  Find the regression lines of y on x and x on y to the following data:   [10]
+x 65 63 67 64 68 62 70 66 68 67 69 71
+y 68 66 68 65 69 66 68 65 71 67 68 70
+6. Two horses A and B were tested according to the time (in seconds) to run a particular
+track with the following results. Test whether the two horses have the same running
+capacity?          [10]
+Horse A 28 30 32 33 33 29 34
+Horse B 29 30 30 24 27 29 --
+OR
+7.         Fit a Poisson distribution to the following data and test for goodness of fit at 0.05 level
+of significance.          [10]
+x: 0 1 2 3 4
+f: 419 352 154 56 19
+8.a) Describe the customer’s behavior in a queuing system.
+b)  Establish the probability distribution formula for pure death process.  [5+5]
+OR
+9. The arrival rate of customers at a railway ticket window follows Poisson distribution
+with a mean of 50 per hour. The service rate of a window clerk also follows Poisson
+distribution with a mean of 70 per hour. Find
+(a) The probability of having zero customers in the system
+(b) Average number of waiting customers in the system
+(c)  Average number of waiting customers in the queue
+(d) Average waiting time of customer in the system
+(e) Average waiting time of customer in the queue.     [10]
+10.a) Describe the states of Markov process.
+b)  Show that the non-zero vector e = [2, 5, 0, 1] is the probability vector.  [5+5]
+OR
+11. A student tries to take admission in only three colleges A, B and C. First day he goes to
+A, second day to B and third day to C. He never goes to some college in two
+continuous days, but if he goes either B or C, then the next day he is twice as likely to
+go to college A. Find out how often, in the long run he tries to go to each college? [10]

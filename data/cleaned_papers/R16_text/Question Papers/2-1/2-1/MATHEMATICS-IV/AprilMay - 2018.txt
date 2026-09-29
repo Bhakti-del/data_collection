@@ -1,0 +1,136 @@
+MATHEMATICS – IV
+PART- A
+1.a) Show that 𝑢 =
+𝑥
+𝑥 2+𝑦 2 is harmonic                                                                                 [2]
+b) Write Cauchy-Riemann equations in polar form.                  [3]
+c) Expand 𝑓 𝑧 = 𝑠𝑖𝑛𝑧 in Taylor’s series about 𝑧 =
+𝜋
+4        [2]
+d) Find residue of 𝑓 𝑧 =
+𝑧
+𝑧 2+1   at its poles                                                                     [3]
+e) Find image of the circle  𝑧 = 2 under the transformation 𝑤 = 𝑧 + 3 + 2𝑖                [2]
+f) Determine the region of w -plane into which the region is mapped by the
+transformation 𝑤 = 𝑧2 𝑧 − 1 = 2.          [3]
+g) Find the value  𝑏𝑛  of the Fourier series of the function𝑓 𝑥 = 𝑥2 − 2, when −2 ≤ 𝑥 ≤ 2
+[2]
+h) Find the Fourier sine transformation of 2𝑒−5𝑥 + 5𝑒−2𝑥        [3]
+i) Classify the equation 3
+𝜕 2𝑢
+𝜕𝑥 2 + 6
+𝜕 2𝑢
+𝜕𝑥 2 + 4
+𝜕 2𝑢
+𝜕𝑥𝜕𝑦 − 2
+𝜕𝑢
+𝜕𝑥 +
+𝜕𝑢
+𝜕𝑦 − 4 = 0                  [2]
+j)  Write the one dimensional Heat equation in steady state.                                          [3]
+PART-B
+2.a) Discuss the continuity of
+ 
+     
+   
+22
+2 , , 0,0,
+0, , 0,0
+xy x y xyxyf x y
+xy
+  
+ 
+b) Construct the analytic function 𝑓 𝑧 , whose real part is
+cosxey .   [5+5]
+OR
+3.a) If 𝑓 𝑧 = 𝑢 + 𝑖𝑣 is an analytic function of 𝑧 and if 𝑢 − 𝑣 = 𝑒𝑥(𝑐𝑜𝑠𝑦 − 𝑠𝑖𝑛𝑦) find f(z) in
+terms of z
+b) if 𝑢(𝑥, 𝑦) and v(x, y) are harmonic functions in a region R, Prove that the function
+𝜕𝑢
+𝜕𝑦 −
+𝜕𝑣
+𝜕𝑥 + 𝑖
+𝜕𝑢
+𝜕𝑥 +
+𝜕𝑣
+𝜕𝑦  is an analytic function.                                         [5+5]
+4.a) Evaluate
+   
+222
+c
+x y dx y x dy   where c is the boundary of the first quadrant of the
+circle  𝑥2 + 𝑦2 = 4
+b) Evaluate
+ 
+8
+1
+4c
+dzzz  , where c is the circle 𝑧 = 2.                                            [5+5]
+OR
+5.a) Obtain the expansion for 𝑠𝑖𝑛
+1
+𝑧−1    which is valid in 1 <  𝑧 < ∞
+b) Evaluate
+ 
+ 
+2
+83
+21
+4c
+z dz
+z z z
+
+ over a unit circle C.      [5+5]
+6. Prove that
+𝑠𝑖𝑛 2𝜃
+𝑎+𝑏 𝑐𝑜𝑠𝜃 𝑑𝜃 =
+2𝜋
+𝑏 2  𝑎 −  𝑎2 − 𝑏2
+2𝜋
+0 , 𝑎 > 𝑏 > 0   [10]
+OR
+7. Find the bilinear transformation that maps the points 1,  i, -1 into the points 2, i,  -2
+respectively.                      [10]
+8.a) Obtain the Fourier series for the function
+xxf sin)(   in (-π, π)
+b) Find Fourier Sine transformation of 𝑒− 𝑥  and hence evaluate
+𝑥 sin (𝛼𝑥 )
+1+𝑥 2
+∞
+0  𝑑𝑥    [5+5]
+OR
+9.a) Find the Half range cosine series for
+)2()( xxxf  in
+20  x
+b) Find the inverse Fourier sine transform of
+p
+epF
+ap
+s
+
+)(              [5+5]
+10. Show that the differential equation
+𝜕𝑢
+𝜕𝑡 = 𝛼2
+𝜕 2𝑢
+𝜕𝑥 2    for the conduction of heat along a rod
+Without radiation, subject to the following conditions:
+a) u is not infinite for 𝑡 → ∞
+b)
+𝜕𝑢
+𝜕𝑥 = 0  𝑓𝑜𝑟 𝑥 = 0 𝑎𝑛𝑑 𝑥 = 𝑙
+c) 𝑢 = 𝑙𝑥 − 𝑥2 𝑓𝑜𝑟 𝑡 = 0 𝑎𝑛𝑑 𝑥 = 𝑙.               [10]
+OR
+11.a) Solve by the method of separation of variables
+𝜕 2𝑧
+𝜕𝑥 2 − 2
+𝜕𝑧
+𝜕𝑥 +
+𝜕𝑧
+𝜕𝑦 = 0
+b) Solve by the method of separation of variables    4
+𝜕𝑢
+𝜕𝑥 +
+𝜕𝑢
+𝜕𝑦 = 3𝑢, given that
+𝑢 = 3𝑒−𝑦 − 𝑒−5𝑦  when 𝑥 = 0.      [5+5]

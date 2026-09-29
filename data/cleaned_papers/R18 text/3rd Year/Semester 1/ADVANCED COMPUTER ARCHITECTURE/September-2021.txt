@@ -1,0 +1,24 @@
+ADVANCED COMPUTER ARCHITECTURE
+(Computer Science and Engineering)
+1.a)  Differentiate between implicit parallelism and explicit parallelism.
+b)  Apply the fine grain, coarse grain and show the program graph before and after grain
+packing.           [7+8]
+2.a) Justify the effects of instruction set, compiler technology, CPU implementation and
+control in terms of program length, clock rate, and effective CPI.
+b)  Compare and contrast software parallelism and hardware parallelism.  [8+7]
+3.a)  Analyze the characteristics of parallel algorithms which are machine implementable.
+b)  Construct t he architecture of a very long instruction word (VLIW) processor and its
+pipeline operations.         [7+8]
+4.a)  Illustrate with an example Amdahl’s law for a fixed workload.
+b)  Compare CISC and RISC scalar processors and write a detailed note on each. [7+8]
+5.a) Analyze the instruction execution phases of instruction pipeline design.
+b)  Explain the cache addressing models.      [8+7]
+6.a)  Distinguish between sequential consistency model and weak consistency model.
+b)  Discuss the dynamic pipeline with feedforward and feedback connections for any two
+different functions.         [7+8]
+7.a)  Compare and contrast write-through cache and write-back cache.
+b)  Differentiate C-Access memory organization, S- Access memory organization and C/S-
+Access memory organization.        [7+8]
+8.a) Discuss the fine grain parallelism in detail.
+b)  Explain the multithreading issues and solutions.     [7+8]
+USED PAPERSSEP-2021

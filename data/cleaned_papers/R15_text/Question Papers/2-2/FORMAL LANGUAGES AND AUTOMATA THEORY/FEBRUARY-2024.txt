@@ -1,0 +1,69 @@
+FORMAL LANGUAGES AND AUTOMATA THEORY
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART - A
+1.a)      How to check acceptance of string by finite automata?     [2]
+b)      What are the differences between DFA & NFA?                 [3]
+c)      Write the regular expression for the L={w €{0,1}* | w has no pair of consecutive zeros.
+[2]
+d)      What is context free language? Give example.                             [3]
+e)      Remove Null production from the following grammar
+S → ASA | aB | b
+A →B
+B → b | ∈                                                                    [2]
+f)      What are the components of a Push Down Automata?                                                [3]
+g)      When do you say that a Turing Machine accepts a string?                                          [2]
+h)      What is Turing machine halting problem?                           [3]
+i)       Write about Universal TM.                                                      [2]
+j)       Give example problems of type NP-Complete.                                                           [3]
+PART - B
+2.a)  What is Automata? Explain classification of Automata.
+b)  Design a DFA for language  every 00 is immediately followed by 1 over {0, 1}*. [5+5]
+OR
+3.a) Construct DFA for the given NFA.
+b)  Construct Mealy machine corresponding to Moore machine.
+[5+5]
+4.a)  Construct an equivalent FA for the given regular expression (0+1)*(00+11)(0+1)*
+b)  Explain the Pumping Lemma for regular sets. Show that L={aP| p is a prime }is not
+regular.          [5+5]
+OR
+5.a)  Construct the regular grammar for the following FA.
+b)   Explain about derivation and parse trees? Construct the string 11001010 from the
+Leftmost and Rightmost derivation.
+S1B/0A
+A1/1S/0AA
+B0/0S/1BB.          [5+5]
+6.a)  Simplify the following context free grammar. (Here, Ʌ stands for epsilon (ϵ)).
+STU|V
+TaTb|Ʌ
+UcU| Ʌ
+VaVc|W
+WbW| Ʌ.
+b)  Convert the following grammar into Greibach normal form.
+SAA/a
+ASS/b.          [5+5]
+OR
+7.a)   What is deterministic Push Down Automata? D raw and explain a deterministic PDA
+for accepting { anbn   | n>1}.
+b)  Construct a CFG equivalent to the following PDA.
+PDA={(p, q), (0, 1), δ, p, q, (Z, X)}, where p is initial state, q is final state.
+δ is defined as
+δ(p,0,Z)=(p,XZ)
+δ(p,0,X)=(p,XX)
+δ(p,1,X)=(q,ϵ)
+δ(p,1,X)=(p,ϵ)
+δ(p,ϵ,Z)=(p,ϵ).          [5+5]
+8.a) Explain the general structure of multi ta pe and non -deterministic Turing machines and
+Show that these are equivalent to basic Turing machines.
+b)  Construct a Turing machine which multiplies two unary numbers.   [5+5]
+OR
+9.a) Write about Churches hypothesis and Computable function in Turing Machines with an
+example.
+b)  Describe the recursively enumerable languages.     [5+5]
+10.a) Discuss in brief about Turing reducibility.
+b)  Discuss the concept of decidability and un decidability of the context of formal
+languages.           [5+5]
+OR
+11.a) What is satisfiability problem? How Cook’s t heorem helps in deciding the NP
+completeness of problem.
+b)  What is NP Problem? Explain with Travelling Sales person problem.  [5+5]

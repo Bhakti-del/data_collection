@@ -1,0 +1,47 @@
+PREDICTIVE ANALYTICS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a) Define predictive analytics.        [2]
+b) What is a data dictionary? What is its role in analytics?    [3]
+c) What is the need of tree pruning?       [2]
+d) Define gini index.         [3]
+e) What is meant by supervised learning?      [2]
+f) Provide the Learning and Development policy of Genpact.    [3]
+g) What is seasonal variation in time-series data?     [2]
+h) List any six commercially available tools for ETL.     [3]
+i) What is meant by documentation?       [2]
+j) Give the structure of technical report.       [3]
+PART – B
+2. What is a model? What is the significance of modeling? Discuss the application of
+modeling in business.         [10]
+OR
+3. Briefly explain various types of regressions with suitable case studies.  [10]
+4. Make a comparison of ordinary least square method and maximum likelihood estimation
+with examples.         [10]
+OR
+5. Construct a decision tree for the following data using CART algorithm.  [10]
+RID Profession Age Income Buys
+Laptop
+1 Student 21 5000 yes
+2 Clerk 23 10000 yes
+3 Professor 27 45000 yes
+4 Professor 52 95000 no
+5 Student 21 10000 yes
+6 Clerk 45 12000 no
+used paper July/Aug-2023
+6. Discuss the tools and approaches for building decision trees in supervised learning.[10]
+OR
+7.a) Develop personal development plan for systematic learning for the individuals.
+b) Elaborate training need analysis.       [5+5]
+8. Differentiate between ARMA and ARIMA approaches for time -series data analysis. Quote
+suitable examples.         [10]
+OR
+9. Explain every step of extract, transformation and Load process in detail with illustrations.
+[10]
+10. Discuss the scope of the document and format of the document.   [10]
+OR
+11.a) Elaborate the steps in creating a client report.
+b) What to capture in minutes of a meeting? Discuss the important tips for preparing MoM.
+[5+5]
+used paper July/Aug-2023

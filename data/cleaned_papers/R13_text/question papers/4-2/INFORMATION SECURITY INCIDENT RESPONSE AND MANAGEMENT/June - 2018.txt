@@ -1,0 +1,34 @@
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT
+marks and may have a, b, c as sub questions.
+PART - A
+1.a) What is a banner?         [2]
+b) Explain EXEC/ROM/User EXEC.       [3]
+c) What are the troubles occur in network communication?    [2]
+d) Discuss the troubles of Device Network.      [3]
+e) What are the types of data backup?       [2]
+f)       What do you mean by incident management?     [3]
+g) Write about NTP?           [2]
+h) What are the contents of windows log?      [3]
+i) What are network attacks?        [2]
+j) What do you mean by containment strategy?      [3]
+PART - B
+2.a) What are design principles of Firewall?
+b) Explain advantages and disadvantages of Packet filtering firewall.   [5+5]
+OR
+3. List the different types of Configuring modes. Explain them.   [10]
+4. State and explain what are the methodologies of trouble shooting.   [10]
+OR
+5. Briefly Discuss about network Slowdowns.      [10]
+6. What are the roles and responsibilities of incident response?   [10]
+OR
+7. Discuss security policies for backup procedure.     [10]
+8.a) Explain about centralized logging and architecture.
+b) Discuss about computer security logs.      [5+5]
+OR
+9.a) What are the challenges of log management?
+b) Describe time synchronization? Explain about NIST.    [5+5]
+10.a) Explain evidence gathering and handling.
+b) How to detect DoS attack?        [5+5]
+OR
+11.a) Describe network reconnaissance incidents.
+b) Explain incident handling preparation and prevention.    [5+5]

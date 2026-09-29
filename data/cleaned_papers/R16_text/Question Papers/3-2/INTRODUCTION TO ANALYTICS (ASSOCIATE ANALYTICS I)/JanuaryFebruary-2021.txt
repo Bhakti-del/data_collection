@@ -1,0 +1,15 @@
+INTRODUCTION TO ANALYTICS (ASSOCIATE ANALYTICS -I)
+(Computer Science and Engineering)
+1. Explain about the various Data types used in R.       [15]
+2.a)  How time management helps for improvement of a business.
+b)  Explain work prioritization.        [7+8]
+3.a)  Explain central limit theorem.
+b) Give an account on probability distribution.      [7+8]
+4. With an example case study explain the importance of team work.     [15]
+5. Write the steps and explain the steps to connect R to NOSQL with an example.      [15]
+6. For university student database, read the R database and write it to a file using data
+frames.             [15]
+7. Describe with an example ANOVA.         [15]
+8. Give an account on data collection strategies for analysis. List each of its importance
+and demerits.            [15]
+used paper jan-feb-2021

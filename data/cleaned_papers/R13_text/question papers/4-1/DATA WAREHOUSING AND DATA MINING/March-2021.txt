@@ -1,0 +1,40 @@
+DATA WAREHOUSING AND DATA MINING
+(Computer Science and Engineering)
+1.a) Explain the Data warehouse  architecture and  its components
+b) Explain star schema with an example.       [7+8]
+2.a) Explain the  OLAP operations  in the  multi dimensional model.
+b) Briefly   outline   how   to compute   the dissimilarity   between objects described by the
+following:
+i) Nominal attributes
+ii) Asymmetric  binary  attributes
+iii) Numeric  attributes
+iv) Term-frequency  vectors.        [7+8]
+3.a) State the need  of  Data  Cleaning .What  are  the  issues  that  have  to  be  addressed  during
+Data  integration. Why   Data transformation   is   essential   in the   process of   Knowledge
+Discovery.
+b) Describe   the   issues   and   challenges of Data   Mining Systems.   [7+8]
+4. Define Association Rule miming . Explain FP -Growth algorithm  with suitable  illustration.
+Explain the pros and cons of Apriori algorithm.       [15]
+5. Apply a Naive -Bayes   classification for   the given training tuples in the table below.
+[15]
+Customer
+id
+Gender Car type Shirt  size Class
+1 M FAMILY SMALL C0
+2 M SPORTS LARGE C0
+3 M SPORTS EXTRA LARGE C0
+4 M SPORTS EXTRA LARGE C0
+5 M FAMILY LARGE C0
+6 M FAMILY EXTRA  LARGE C1
+7 M FAMILY MEDIUM C1
+8 F LUXURY MEDIUM C1
+9 F LUXURY MEDIUM C1
+10 F LUXURY MEDIUM C1
+6.a) Write the basic algorithm for inducing a decision tree from training tuples. And also  explain
+it.
+b) What is “Over FIT”? Explain about the disadvantages of an over fitted DE-CISION TREE.
+With an example explain the use of Tree -Pruning.                [7+8]
+7.a) Explain  PAM algorithms.
+b) Explain K-means algorithm.        [7+8]
+8. Discuss various Hierarchical clustering methods.  (Agglomerative, divisive, Chameleon and
+BIRCH).               [15]

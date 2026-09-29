@@ -1,0 +1,14 @@
+PREDICTIVE ANALYTICS
+(Computer Science and Engineering)
+1. State applications of modeling in business.       [15]
+2. Describe the following:
+a) Least square estimation.
+b) Variable Rationalization.        [7+8]
+3. Give a detail note on overfitting.       [15]
+4. Explain about multiple decision trees.       [15]
+5. List and explain the different methods used by the organization to review skills and
+knowledge.          [15]
+6. Briefly explain the Pruning and complexity in detail.     [15]
+7. Explain the STL approach in detail.        [15]
+8. Describe the intellectual property and copyrights in detail.     [15]
+---oo0oo---

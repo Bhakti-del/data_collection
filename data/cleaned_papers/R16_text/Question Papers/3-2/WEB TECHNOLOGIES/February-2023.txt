@@ -1,0 +1,38 @@
+WEB TECHNOLOGIES
+and may have a, b as sub questions.
+PART – A
+1.a)      How to define a function in PHP?       [2]
+b)      Explain the structure of PHP script with an example.    [3]
+c)      What is the need of parsers in Java?          [2]
+d)      Explain the naming rules in XML.       [3]
+e)      What is a Servlet?         [2]
+f)      Explain the features of XHTML.       [3]
+g)      What are Java Beans?           [2]
+h)      Explain JSP directives.        [3]
+i)       What is the purpose of ‘this’ operator in Java Script?    [2]
+j)       Explain the features of Java Script.       [3]
+PART – B
+2.a)  Explain different types of arrays used in PHP with examples.
+b)  How to read data from web forms in PHP? Explain.     [5+5]
+OR
+3.a)  Explain database connectivity in PHP with reference to MYSQL.
+b)   Discuss about the following file operations: opening and closing in PHP.  [5+5]
+4.a)  What is XML schema? State its purpose and its advantages over DTD.
+b)  What are the XML namespaces and illustrate with a code snippet  how are they
+declared?          [5+5]
+OR
+5.  In detail, explain the DOM parsers in JAVA with code snippets and illustrations.   [10]
+6.a)  Develop a servlet to handle HTTP POST request.
+b)  Explain the Servlet API.        [5+5]
+OR
+7.a)  Explain about using cookies and sessions.
+b)  Discuss the process of connecting to a database using JDBC in servlets.   [5+5]
+8.a)  Explain the components of a JSP page.
+b)  Discuss various implicit objects in JSP.      [5+5]
+OR
+9.a)  Explain the creation and usage of Java Beans in a JSP page.
+b)  Explain the database connectivity in JSP.      [5+5]
+10.a)  Explain the control structures used in Java Script.
+b)  Discuss about event handlers in Java Script.      [5+5]
+OR
+11.  With an example, explain what is an Ajax application and its implementation.    [10]

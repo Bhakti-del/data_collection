@@ -1,0 +1,24 @@
+DATABASE MANAGEMENT SYSTEMS
+1. With a neat diagram explain the database architecture and its components.       [15]
+2. Construct an Entity -Relationship diagram for a multi -specialty hospital management
+system. Quote your assumptions and list the requirements considered by you for
+conceptual database design for the above system.          [15]
+3.a) Differentiate between nested query and correlated query.
+b)  What is a trigger? Discuss its types.              [8+7]
+4.  Consider the following schema to write queries in Relational Algebra:
+Sailor(sid, sname, age, rating)
+Boats(bid, bname, bcolor)
+Reserves(sid,bid,day)
+a) Find the sailors who have reserved a boat with id 126.
+b) Find the names and colors of the boats reserved by “Ramu”.
+c) Find the sailors who have reserved atleast two boats.                  [5+5+5]
+5.   Discuss the problems caused by redundancy. How to handle these problems in database
+management systems?                     [15]
+6.a)  Differentiate between 3NF and BCNF.
+b)  Give an account of multi valued dependencies.            [7+8]
+7.a)   Does two phase locking protocol ensure conflict serializability? Justify your answer with
+suitable examples.
+b) Explain multiple granularity locking.                 [8+7]
+8.   Write a note on the following:
+a) ISAM
+b) Linear hashing.              [7+8]

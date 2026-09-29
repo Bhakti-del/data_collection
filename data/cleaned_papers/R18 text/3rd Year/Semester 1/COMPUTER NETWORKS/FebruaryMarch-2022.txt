@@ -1,0 +1,22 @@
+COMPUTER NETWORKS
+(Computer Science and Engineering)
+1.a)  Compare OSI and TCP/IP reference model.
+b)  Explain about various transmission media in physical layer with a neat sketch.  [7+8]
+2.a)  What is the purpose of CSMA CD? And Explain it.
+b)  Write and explain about various multiple access protocols.    [7+8]
+3.  Explain the functions of following devices:
+a) Hub
+b) Bridge
+c) Router
+d) Gateway.                       [4+4+3+4]
+4.a)  Write briefly about Congestion control in datagram subnets.
+b)  What is internetworking? List out the internetworking devices.    [7+8]
+5.   Demonstrate how to make routing table using distance vector routing and list down the
+limitations.            [15]
+6.a)  What are the services provided by transport layer to the upper layers?
+b)  Explain the connection establishment and release in transport layer.   [7+8]
+7.a)  What is DNS? What are the services provided by DNS?
+b)  How Streaming of audio and video can be done?                           [7+8]
+8.a)  How would you summarize the concepts of E-mail, its architecture and services?
+b)  Elaborate on SNMP with an example.      [7+8]
+used paper feb-22 jntu

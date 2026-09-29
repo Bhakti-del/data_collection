@@ -1,0 +1,42 @@
+LINUX PROGRAMMING
+(Computer Science and Engineering)
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What are the responsibilities of a kernel?       [2]
+b) Mention the functionality of the following commands: grep, uniq, sort.  [3]
+c) Define the terms: root directory, home directory, parent directory.     [2]
+d) Differentiate between advisory locking and mandatory locking.   [3]
+e) Name the advantages of vfork( ) over fork( ) system call.    [2]
+f)       Discuss kill( ) and raise( ) system calls briefly.     [3]
+g)      Give the limitations of using pipes.         [2]
+h)      Compare named pipe FIFO and unnamed Pipes.     [3]
+i)       Write down the differences between stream sockets and datagram socket.  [2]
+j) Explain the system call used to destroy a shared memory segment.   [3]
+PART-B
+2.a) Write an awk script to find the smallest integer of 10 integers.
+b) Explain various process utilities in LINUX with clear syntax, few options and example.
+[5+5]
+OR
+3.a) With an example script explain the differences between ‘for’ and ‘foreach’ statements.
+b) Explain how debugging can be done in a shell script.    [5+5]
+4. Discuss the need and importance of fcntl( ) system call with its relative merits and
+drawbacks.          [10]
+OR
+5. Write the syntax of the following system calls and explain with an example code.
+a) rewinddir( ) b) seekdir( )         [5+5]
+6.a) What is a zombie process and explain how it may manifest itself?
+b) Mention the similarities and dissimilarities in between a child process and its parent
+process.           [5+5]
+OR
+7.a) Explain various exit statuses with an example program.
+b) What are the signals that are not ignored or blocked? Explain the reason behind it. [5+5]
+8. Describe various APIs used to implement client/server communication between two
+unrelated processes in a system using FIFOs with an illustrative example code. [10]
+OR
+9.a) Give the description of various fields in the permission structure of IPC.
+b) Describe the operations of semop( ) with a sample C program.   [5+5]
+10. How a shared memory model implemented to achieve IPC? Explain briefly.  [10]
+OR
+11. Explain briefly about the following socket APIs with clear syntax:
+a) socket( )   b) bind( )      [5+5]
+--ooOoo--

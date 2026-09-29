@@ -1,0 +1,42 @@
+COMPUTER PROGRAMMING
+CEE, AGE)
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Distinguish between variables and constants. Give example.   [2]
+b) Explain the difference between break, goto and continue statements.  [3]
+c) What are the storage classes in C?       [2]
+d) Write a C program to interchange two values.     [3]
+e) Give the syntax of calloc function.       [2]
+f) What is a dangling Pointer? How it is different from normal Pointer?  [3]
+g) Write the array applications.          [2]
+h) Distinguish between text and binary files.      [3]
+i) Write brief notes on unions.        [2]
+j) What are the operations performed in linked lists?     [3]
+PART-B
+2. State and explain various identifiers in C program. And also discuss about operator
+precedence in expression evaluation with a suitable example.                  [10]
+OR
+3.a) Write and explain the structure of C program.
+b)  Write a program to print prime numbers up to a given number ‘n’.                             [5+5]
+4.a)  In what way a recursive function differs from non-recursive functions? Explain.
+b) With the help of flowchart and example program explain the while loop.                   [5+5]
+OR
+5.a) Define a function for determining whether a given character is a vowel or not.
+b)  Write the program for multiplication of two matrices?             [5+5]
+6.a) Discuss the programming applications of pointers.
+b) Explain the role of pointers in inter function communication.                            [5+5]
+OR
+7.a) Illustrate the character input/output functions with suitable examples.
+b)  What are the string manipulation functions? Explain any three of them.      [5+5]
+8.a) What is the main reason for using structure? What special keyword is used in defining a
+structure? Illustrate with example.
+b)  Demonstrate how one structure can be copied to another of the same type.        [5+5]
+OR
+9.a)  How to read from and write to a file? Explain with examples.
+b)  What is file? Explain about the Input and output functions of files.        [5+5]
+10.  Sort the following 10 elements using bubble sort technique.  Write the algorithm for the
+same.                   [10]
+85   53   96   35   27   87   37   12   90   23
+OR
+11.a) Give brief description about storage representation on queues.
+b) Write a program to implement stack using arrays.         [5+5]

@@ -1,0 +1,15 @@
+NEURAL NETWORKS AND DEEP LEARNING
+1.a) Distinguish between a biological and artificial neuron.
+b) Give an overview of various types of neuron connection architectures.  [7+8]
+2.a) Explain the architecture of discrete Hopfield network.
+b) Explain architecture of a back-propagation network.     [7+8]
+3. Explain the architecture and training of Hamming network.    [15]
+4. Explain the architecture and training of learning vector quantization.  [15]
+5. Discuss in detail about hidden units.       [15]
+6. What is a feed -forward network? Explain gr adient-based learning in a feed forward
+network.          [15]
+7.a) Explain multi table learning.
+b) Explain bagging and various ensemble methods.     [7+8]
+8.a) What are the challenges in neural network optimization? Explain.
+b) What are various implementations available for large-scale deep learning?  [7+8]
+---oo0oo---

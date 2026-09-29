@@ -1,0 +1,38 @@
+IMAGE PROCESSING AND PATTERN RECOGNITION
+(Computer Science and Engineering)
+carries 10 marks and may have a, b, c as sub questions.
+Part- A (25 Marks)
+1.a) What is meant by  m- connectivity?       [2]
+b) What are different sources for degradation of image?    [3]
+c) Write a mask for gradient operation.       [2]
+d) Which  morphological operation is equivalent of logic AND operation.      [3]
+e) What is fidelity in image processing?               [2]
+f) Compare statistical and spatial compression of image.            [3]
+g) What is meant by representation in an image?             [2]
+h) List the principle components of  descriptors.     [3]
+i) What are the applications of pattern recognition?                                       [2]
+j) How are patterns classified based on likelihood function?    [3]
+Part-B (50 Marks)
+2. What is histogram? Explain the method of histogram equalization and how histogram is
+used to enhance the image?        [10]
+OR
+3.a) Explain how sharpening low pass filter is used in image processing?
+b) What are the limitations of inverse filter while using for image restoration? [5+5]
+4. Explain the following morphological operations on an image:
+a)  Dilation    b) Erosion   c) Opening   d) Closing   e) Hit or miss  [10]
+OR
+5. Explain the region based segmentation methods and also write the necessary conditions.
+[10]
+6.a) How  are image compression methods classified? Explain them.
+b) Explain how contour coding is used for image compression?   [5+5]
+OR
+7. Explain how predictive codes are used for both lossy and lossless image compression?
+[10]
+8. How are skeltons used to represent image and explain with neat diagrams.  [10]
+OR
+9. Why are descriptors used in image processing? Explain boundary descriptors. [10]
+10.a) Explain basic concepts of  pattern recognition  with suitable examples.
+b) Draw a simple pattern recognition model and explain it.    [5+5]
+OR
+11. Write k-means algorithm and explain how it is used in pattern recognition.  [10]
+--ooOoo--

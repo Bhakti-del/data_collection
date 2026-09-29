@@ -1,0 +1,54 @@
+DATA STRUCTURES
+PART- A
+1.a) Define a single linked list?        [1]
+b) What are the applications of the queue?        [1]
+c) Define Rehashing?         [1]
+d) What is a skip list?         [1]
+e)   Define Binary search tree?        [1]
+f)  What is the need of rotations in red-black tree?     [1]
+g) List out the external sorting techniques.      [1]
+h)  Define a graph.         [1]
+i) Define a trie.          [1]
+j) List out the applications of tries.       [1]
+PART-B
+2.a) Write an algorithm for Insertion and Deletion operations in a Singly Linked List.
+b) Explain Push and Pop operations of a stack using array representations.  [5+5]
+OR
+3.a) The following numbers 10, 20, 50, 30, 90, 60 (Top) are present in a stack of size 10.
+Perform the following operations in sequence. pop(), push(30), push(40), pop(),
+push (60), pop(), pop(), pop() What is the peek element at last? Draw and explain it?
+b) Convert the following infix expression into postfix expression:
+A + B – C * D * E / F – G.        [5+5]
+4.a) What is a Dictionary?
+b) Write an algorithm for insertion and deletion operations of a skip list.  [5+5]
+OR
+5.a) Insert the following list of elements into the hash table by using Quadratic probing (size
+of Hash table is 13: 65, 34, 79, 114, 26, 85, 55, 89, 22, 98.
+b) Explain briefly about double hashing and extendible hashing techniques.  [4+6]
+6.a) Write an algorithm to delete an element from the binary search tree and provide an
+example.
+b) In an initially empty AVL tree insert the following keys: DEC, JAN, APR,MAR, JUL,
+AUG, OCT, FEB, NOV. Draw AVL tree after every insertion and apply rotations
+wherever is necessary?        [5+5]
+OR
+7.a) Discuss the importance of height balanced trees for searching.
+b) Insert the following list of elements from the Red- Black tree 12, 30, 36, 18, 25, 9, 4, 2,
+17, 14, 20, 47. Delete the elements 18, 2 and 30 from the Red-Black tree and draw the
+final tree diagram.          [5+5]
+8.a) Consider five cities: (i) New Delhi, (ii) Mumbai, (iii) Chennai, (iv) Bangalore, and
+(v) Kolkata, and a list of flights that connect these cities as   shown in the following
+table. Use the given information to construct a graph? Also represent the graph using
+adjacency matrix and adjacency list
+b)  Write and explain depth-first search traversal algorithm with an example.  [5+5]
+OR
+9.a) Write and perform heap sort algorithm for (10 15 6 2 25 18 16 2 20 4) .
+b)  Explain BFS algorithm with example.      [5+5]
+10.a) Write an algorithm of Standard Trie.
+b)    Solve the Knuth Morris-Pratt algorithm for the following:
+Example: Text: HEREISASIMPLEEXAMPLE
+Pattern: EXAMPLE.                    [5+5]
+OR
+11.a) “A compressed trie is an advanced version of the standard trie.” Support or oppose this
+statement with necessary explanation.
+b)  Explain the features that distinguish between Boyer Moore algorithm from the
+conventional algorithms.        [5+5]

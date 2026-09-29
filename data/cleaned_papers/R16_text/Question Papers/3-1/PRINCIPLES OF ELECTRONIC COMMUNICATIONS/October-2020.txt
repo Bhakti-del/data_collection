@@ -1,0 +1,30 @@
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS
+1.a)  A c ommunication system has five stages, with gains of 12, 245, 68, 231, and 9 dB.
+What is the overall gain?
+b)  Explain the frequency range and applications of UHF, SHF and EHF.  [7+8]
+2.a)  A power amplifier has an input of 90 mV across 10 kΩ. The output is 7.8 V across
+an 8-Ωspeaker. What is the power gain, in decibels? You must compute the input and
+output power levels first.
+b)  A signal travels a distan ce of 75 ft in the time it takes to complete 1 cycle. What is
+its frequency?
+c)  A television signal occupies a 6 -MHz bandwidth. If the low -frequency limit of
+channel 2 is 54 MHz, what is the upper-frequency limit?          [6+4+5]
+3.a)  Determine the modulation index and bandwidth for FM and PM signals for a
+modulating signal 5 cos 30000 π t angle modulates a carrier A cos2π fct. Assume
+Kδ =Kp = 15 KHz/volt.
+b)  Compare PAM with PWM.        [8+7]
+4.a) Draw the QPSK transmitter and explain each block.
+b)  Discuss the oversampling and under sampling operating and state their advantage s and
+disadvantages.          [8+7]
+5.a)  Discuss the Signal flow in a VoIP system.
+b)  Illustrate the diagrams of LANs arranged according to the three basic topologies: star,
+ring, and bus.          [7+8]
+6.a)  Explain the paging systems.
+b)  An office with 20 PCs is to be wired so that any computer can communicate with any
+other. How many interconnecting wires (or links, L) are needed?
+c)  Discuss the Ethernet frame format.                                                         [6+4+5]
+7.a)  Explain two types of optical transmitter components and their main operating
+characteristics.
+b)  Discuss the advantages and disadvantages of satellite communications.  [7+8]
+8.a)  Detail notes about GSM – system overview, physical and logical channels.
+b)  Explain why IEEE 802.16 is a MAN technology.     [8+7]

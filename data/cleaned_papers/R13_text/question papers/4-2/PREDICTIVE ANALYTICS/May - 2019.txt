@@ -1,0 +1,40 @@
+PREDICTIVE ANALYTICS
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Why Data Analytics is  required?       [2]
+b)      Explain Briefly about Blue Property.       [3]
+c)      Define Supervised Learning.          [2]
+d)      Discuss about Model Theory.        [3]
+e)      What is meant by Over fitting ?       [2]
+f)       Briefly discuss about Training and Development.     [3]
+g)      Define Arima Model.           [2]
+h)      What is meant by Prediction?        [3]
+i)       What is meant by Technical Report?       [2]
+j)       Write about Standard Operating Procedures for documentation.   [3]
+PART - B
+2. Explain in detail about types of Data and Variables and various Data Modeling
+Techniques.              [10]
+OR
+3. Explain in detail about different Regres sion Concepts and Least Square Estimation
+method.                 [10]
+4.a) Write in detail about Regression vs Segmentation.
+b) Discuss about Analytics applications to various Business Domains.   [5+5]
+OR
+5.a) Explain Classification and give suitable example.
+b) Write about Multiple Decision Trees.       [5+5]
+6.a) Write the differences between Supervised vs Unsupervised Learning methods.
+b) Write in detail about Pruning and Complexity.     [5+5]
+OR
+7.a) Discuss in detail with suitable examples about Knowledge Skills and competences.
+b) Explain about Record Keeping.       [6+4]
+8.a) Explain various Time Series Methods with examples.
+b) Describe STL Approach.        [5+5]
+OR
+9.a) Discuss about various Measures of Forecast Accuracies.
+b) Explain about Feature Extraction.       [5+5]
+10.a) Define Purpose and Scope of Documents.
+b) Discuss briefly any one Case Study related to Understanding structure of Documents.
+[5+5]
+OR
+11. Explain in detail about Intellectual Property and Copy Rights with suitable example.
+[10]

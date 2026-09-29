@@ -1,0 +1,21 @@
+DATA STRUCTURES
+1.a) Distinguish between circular linked list and doubly linked list by giving one example for
+each.
+b) Write a C function for deleting an integer element from the singly linked list of integer
+elements. Assume that the singly linked list of integers is already created.    [7+8]
+2.a) Write a C function for inserting an integer element into a circular queue of integers.
+Assume array representation for the circular queue.
+b) Convert the following infix expression into postfix form a+b*c-e/f .  [8+7]
+3. Write a non recursive procedure for the inorder and post order traversal of a binary tree.
+Assume that the binary tree of elements is already created.    [15]
+4.a) Write heap sort algorithm for sorting a list of integers in ascending order.
+b) What is the time complexity of heap sort in the worst case?    [8+7]
+5.a) Compare the performance of AVL tree with binary search tree.
+b) Write the Knuth-Morris-Pratt pattern matching algorithm.     [8+7]
+6.a) Explain with an example any one method used for representing sparse matrix.
+b) Write a C function for concatenating two singly linked linear lists of characters.  Assume
+that the two singly linked lists of characters are already created.   [7+8]
+7. Write a C program to implement stack using singly linked list.   [15]
+8.a) Explain with an example the adjacency matrix representation of a graph also mention its
+complexities.
+b) Write a recursive procedure for the DFS of a graph.     [8+7]

@@ -1,0 +1,44 @@
+MODERN SOFTWARE ENGINEERING
+and may have a, b as sub questions.
+PART – A
+1.a) What is mute mapping? Explain.       [2]
+b) How to find the root-cause? When should we conduct root-cause analysis?   [3]
+c) What is Horizontal market software? Explain.          [2]
+d) Real customer involvement is necessary in software development-Discuss.  [3]
+e) What do you mean by sandbox in version control?     [2]
+f) What is the purpose of work in progress documentation?    [3]
+g) What is the significance of story cards?      [2]
+h) How to track the iterations? Explain.       [3]
+i) What are called end to end tests?       [2]
+j) How to use TDD when developing a user interface?     [3]
+PART – B
+2.a) With a neat sketch, explain XP life cycle and compare it with traditional life cycles.
+b) Discuss about the prerequisites and the recommendations to be followed to practice XP.
+[5+5]
+OR
+3.a) What are the challenges involved in applying XP to an existing project?
+b) What is retrospective? What are its ty pes? Explain how to conduct iteration retrospective.
+[5+5]
+4.a) What are the team strategies used for generating trust in your XP team? Discuss.
+b) What is Stand-up meeting? How to hold a daily stand-up meetings? Explain. [5+5]
+OR
+5.a) What is custom software development? Explain different types of custom developments.
+b) What is the purpose of Ubiquitous Language? Discuss.    [5+5]
+6.a) What do you mean by collective code ownership? Explain how it works.
+b) What are the techniques used by XP to generate fewer defects? Discuss.  [5+5]
+OR
+7.a) Discuss the issues involved in continuous integration.
+b) How does testers’ work fit into “done done”? Discuss.    [5+5]
+used paper July/Aug-2023
+8.a) How to make a Release Commitment? Discuss the issues involved in it.
+b) Discuss about iteration time box and iteration schedule management.  [5+5]
+OR
+9.a) How to deal with the long iteration planning sessions? Explain.
+b) How to introduce slack between iterations? How to reduce the need for slack? Discuss.
+[5+5]
+10.a) Explain Test Driven Development cycle and elaborate its steps.
+b) What is Exploratory testing? Discuss about the tools used by exploratory testers. [5+5]
+OR
+11.a) Write a detailed note on Testing Tools.
+b) Explain the risk-driven architecture with a neat sketch.    [5+5]
+used paper July/Aug-2023

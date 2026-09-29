@@ -1,0 +1,27 @@
+FORMAL LANGUAGES AND AUTOMATA THEORY
+1.a) Define Finite Automata. Explain about the model of Finite Automata.
+b) Design a NFA for the following language L={0101n where n>0}.   [7+8]
+2.a) Construct Minimum state Automata for the following DFA.
+* denotes final state
+Δ  0 1
+
+q1 q2 q3
+q2 q3 q5
+*q3 q4 q3
+q4 q3  q5
+*q5 q2  q5
+b) Explain in detail about Melay and Moore Machines.     [8+7]
+3.a) Construct Finite Automata for the regular Expression 1(01+10)*00?
+b) Explain about the Closure Properties of Regular sets.    [8+7]
+4.a) Show that L={a2n/n<0} is Regular.
+b) Construct a NFA equivalent to the regular expression 10(0+11)0*1.  [7+8]
+5.a) Construct a PDA for L={wcwR /w
+(0+1)*}
+b) Explain in brief about decision properties of context free languages.  [7+8]
+6.a) Define Turing Machine. Explain about the Model of Turing Machine.
+b) Obtain the Chomsky normal of the following grammar EE+T/T, Ta/CE. [7+8]
+7.a) Construct Turing machine for the languages containing the set of all strings of balanced
+paranthesis?
+b) Discuss in brief about “church hypothesis”.      [8+7]
+8.a) What is decidability? Explain in brief about any two undecidable problems.
+b) Explain about Universal Turing Machine.      [8+7]

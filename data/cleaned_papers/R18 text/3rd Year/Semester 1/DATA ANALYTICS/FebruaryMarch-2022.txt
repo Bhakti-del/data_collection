@@ -1,0 +1,15 @@
+DATA ANALYTICS
+1.  Market researchers have used four  experimental designs  for generating primary data.
+Describe them in detail.          [15]
+2.  Explain about data quality and data preprocessing.       [15]
+3.  Demonstrate th e various steps involved in data analytics and discuss the tools and
+environment needed for analytics.         [15]
+4.  Explain how data imputation can be performed.        [15]
+5.a)  Discuss the best unbiased linear estimator property of regression.
+b)  Demonstrate ordinary least square estimation.     [7+8]
+6.   Elucidate analytical applications to various business domains.     [15]
+7.a)  What is ETL? List the commercially available ETL tools.
+b)  Demonstrate ARIMA for time series data.      [7+8]
+8.      How to perform v isualization of the data using a hierarchical partitioning into
+subspaces? Explain with examples.         [15]
+used paper feb-22 jntu

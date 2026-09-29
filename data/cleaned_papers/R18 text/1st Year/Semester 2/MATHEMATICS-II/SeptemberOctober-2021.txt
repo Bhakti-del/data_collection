@@ -1,0 +1,53 @@
+MATHEMATICS-II
+1.a) Solve  the differential equation  𝑐𝑜𝑠𝑥 + 𝑦𝑠𝑖𝑛𝑥 𝑑𝑥 − 𝑐𝑜𝑠𝑥𝑑𝑦 = 0.
+b) If air is maintained at 20 0C and temperature of the body cools from 80 0C to 60 0C in
+10 minutes. Find the temperature of the body after 30 minutes.   [7+8]
+2.a) Solve  the differential equation 2𝑥𝑦𝑑𝑦 −  𝑥2 − 𝑦2 + 1 𝑑𝑥 = 0.
+b) Bacteria in a culture grows  exponentially so that the initial number has doubled in three
+hours. How many times the initial number will be present after 9 hours?  [7+8]
+3.a)  Solve the differential equation  𝐷2 + 2𝐷 + 1 𝑦 = 𝑒𝑥𝑠𝑖𝑛𝑥.
+b) Solve the differential equation  𝐷2 + 1 𝑦 = 𝑠𝑖𝑛2𝑥 using method of Variation of
+parameters.           [7+8]
+4.a) Solve the differential equation  𝐷2 + 1 𝑦 = 𝑥𝑐𝑜𝑠𝑥.
+b) Solve the differential equation  𝐷2 + 4𝐷 + 4 𝑦 = 𝑥2𝑒−2𝑥 .    [7+8]
+5.a) Evaluate
+22()
+R
+x y dx dy  where R is the region bounded by x = 0, y = 0, x + y = 1 in
+first quadrant.
+b) Evaluate
+2 2 22
+2
+422
+00 2
+a x yax xa
+zax x
+z dz dy dx
+
+
+    by change into polar co-ordinates.  [8+7]
+6.a) Evaluate
+/2
+(1 cos )
+.
+a
+a a
+r dr d
+
+
+
+b) Evaluate
+ 
+2 2 2x y z dx dy dz  taken over the volume enclosed by the sphere
+x2 + y2 + z2 = 1 by transforming into spherical co-ordinates.    [7+8]
+7.a) Prove that
+   22 1. nnr n n r   
+b) Prove that
+nrr  is solenoidal if
+3.n       [7+8]
+8. Evaluate
+.
+S
+F n ds  where
+23F zi xj y z k   and s is the surface x2 + y2 = 16 included
+in the first octant between z = 0 and z = 5.      [15]

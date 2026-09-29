@@ -1,0 +1,40 @@
+BASIC ELECTRICAL ENGINEERING
+1. Find the power supplied by different  sources using KCL and  KVL equations in the
+following given circuit shown in figure 1.      [15]
+Figure: 1
+2. Find the Theveni n’s equivalent with respect to the terminals ‘a -b’ for the circuit in the
+following figure 2.         [15]
+Figure: 2
+3.a) What is the phasor diagram, draw the phasor diagrams of RL  parallel circuit under steady
+state conditions?
+b) Two loads in parallel are supplied by a single phase 230 V, 50-Hz supply:
+Load A: 10 kVA at 0.8 power factor leading
+Load B: 15 kW at 0.8 power factor lagging
+Find the real power, reactive power and line current drawn from the supply by the
+combined load.         [7+8]
+4.a) A coil having an inductance of 2 H is connected in series with a resistance of 10 Ω and a
+capacitor of 50 µF. The whole combination is connected to a 200 V variable frequency
+supply. Determine  i) the resonant frequency, ii) th e current in the circuit at resonance
+iii) corresponding voltage developed across the capacitor.
+b) A balanced delta -connected load with a per -phase impedance of (12 + j9) Ω is supplied
+by a 400 V, 50 Hz three -phase source, determine phase voltage, line voltage and currents
+in each phase.          [7+8]
+5.a) Discuss various losses occurred in a single phase transformer.
+b) The parameters of approximate equivalent circuit of a 4 kVA 200/400 V, 50 Hz single
+phase transformer are
+ 15.0pR ,
+ 37.0pX ,
+ 6000R  and
+ 3000X
+When rated voltage of 200 V is applied to the primary, a current of 10 A at lagging power
+factor of 0.8 flows in the secondary winding. Calculate i) the current in the primary, Ip
+ii) terminal voltage at the secondary side.      [8+7]
+6.a)  Describe the operation of auto transformer? How does the current flow in different parts
+of its winding?
+b) What are the distinguished features of Y-Y and ∆-Y three phase transformers?  [8+7]
+7.a) Explain various speed control methods of separately excited dc motor.
+b) Describe briefly the construction and working of any single phase induction motor.
+[8+7]
+8.a) Describe the PVC cables of different types and their sizes which are used for low voltage
+ratings?
+b) What are the important features of ELCB, where it is used for protection?   [8+7]

@@ -1,0 +1,22 @@
+ENGINEERING GRAPHICS
+1. Construct a diagonal scale of RF = 1:3200000 to show km and long enough to measure
+up to 400kms. Show distances of 257km and 333km on your scale.   [25]
+2.  A Roller of 50mm diameter rolls on a straight line without slip in the initial position of a
+diameter PQ of the circle is parallel to the line on which it rolls. Draw the locus of the
+point P for one complete revolution of the roller. Name the curve. Draw the tangent and
+normal at any point on the curve.       [25]
+3. A straight line PQ has the end P at 15 mm above the H.P. and 60 mm in front of the V.P.,
+and the end Q is 45 mm above the H.P. and 10 mm in front of the V.P. If the end
+projectors are 55 mm apart, draw the projections of the line. Determine its true length and
+true inclination with the principal planes.      [25]
+4.  A hexagonal prism, having a base with a 25 mm side and a 70 mm long axis is resting on
+a corner of its base in the H.P. and axis inclined at 60 0
+to the H.P. and parallel to the V.P.
+It is cut by a horizontal section plane which divides the prism into two equal halves.
+Draw its sectional top view.         [25]
+5. A cone of diameter of base 50mm and axis 60mm long, is resting on its base on HP.
+Draw the projections, development of the cone and show on it, the shortest path traced
+by a point, starting from a point on the circumference of the base of the cone, moving
+around it and reaching the same point.        [25]
+6.  Draw the following views of the block. All dimensions are in mm.             [10+15]
+a)  Front view   b) Top view.

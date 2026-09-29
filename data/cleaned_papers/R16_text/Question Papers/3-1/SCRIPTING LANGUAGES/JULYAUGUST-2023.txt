@@ -1,0 +1,51 @@
+SCRIPTING LANGUAGES
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      List and explain the Directory Commands in Linux.     [2]
+b)      What are the permissions for File Access in UNIX?        [3]
+c)      Write the functions of DHCP Protocol.      [2]
+d)      What is DNS? Explain.          [3]
+e)      How Debugging is done in PERL?       [2]
+f)      Describe the implementation of Subroutines in PERL.    [3]
+g)      Write a short note on Tk-visual toolkits.                                 [2]
+h)      Discuss about namespaces in TCL.        [3]
+i)      Mention the use of few Standard Libraries in Python.    [2]
+j)      Give examples for while loop structures in Python.     [3]
+PART – B
+2.a)   Illustrate the types of System Calls in Unix.
+b)  Explain the following System calls:
+(i) open()   (ii) seek()   (iii) read()   (iv) fork() [5+5]
+OR
+3.a)  Differentiate between a Process and a Program.
+b)  Explain various process control commands and their options with examples.  [5+5]
+4.a)  Discuss about the three states of TCP connection establishment and termination.
+b)  Construct a program to illustrate bind(), listen() and accept() system calls.  [5+5]
+OR
+5. Briefly explain the following Networking tools:
+a) ping  b) finger  c) netstat  d) tracepath   e) host                 [10]
+used paper July/Aug-2023
+6.a)  Explain the concept of modules and objects in Perl.
+b)  Write a Perl program that reads a file containing city and country as records and creates
+a hash of arrays containing countries as key and cities as values.
+For example for the input
+{Delhi: India, Hyderabad: India, New York: USA, Chicago:USA},
+the program is required to create hash table
+{India: [Delhi, Hyderabad], USA: [New York, Chicago]}    [5+5]
+OR
+7.a)  Explain various built-in operators and pattern matching statements in PERL.
+b)  Distinguish the following control statements of Perl.
+i) While and until
+ii) Next and last.          [5+5]
+8.a)  Analyse the use of procedures and scope in TCL with suitable examples.
+b)  Discuss about the nuts and bolts of TCL Internet Programming.    [5+5]
+OR
+9.a)  Discuss in detail about the variables and data structures in TCL
+b)  Illustrate the use of eval, source, exec and uplevel commands in TCL with suitable
+examples.           [5+5]
+10.a) Compare Python Lists, Tuples and Dictionary.
+b)  Write a Python program to output the greatest of three given numbers.                   [5+5]
+OR
+11.a) Explain how to handle an exception using try except block with the help of  a program?
+b) Construct a Python script to create a user defined exception.     [5+5]
+used paper July/Aug-2023

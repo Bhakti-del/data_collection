@@ -1,0 +1,43 @@
+DATA STRUCTURES
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      Write recursive algorithm to find factorial of a number.    [2]
+b)      What is the space complexity of a program to insert an element into singly linked list?
+[3]
+c)      What are the applications of stack?          [2]
+d)      Convert the given infix expression to prefix and postfix expressions:
+a+b/(c*d/(e-f))         [3]
+e)      What are properties of binary trees?       [2]
+f)      Give an example for graph representation with adjacency matrix and adjacency list.
+[3]
+g)      How time complexity of binary search is less than linear search?   [2]
+h)      What are the advantages and disadvantages of static hashing?   [3]
+i)       What are splay trees? Give an example.      [2]
+j)       What are the properties of an AVL Tree?      [3]
+PART – B
+2.  What are singly linked lists? Write an algorithm for insertion and deletion operations in
+singly linked lists.           [10]
+OR
+3.a) Write an algorithm to multiply two matrices of n × m order and explain.
+b) What is a recursive algorithm? Write down the recursive  algorithm to generate ‘n’
+Fibonacci series.         [5+5]
+4.a)  Write an algorithm to evaluate a postfix expression.
+b) Explain the basic operations performed on a stack.     [5+5]
+OR
+5.  What are Circular queues? Write an algorithm  to perform insertion and deletion
+operations on circular queue.          [10]
+6.  What are binary tree traversals? Explain with examples and also state their applications.
+[10]
+OR
+7.  What is max heap? Write an algorithm  to perform insertion and deletion operations
+from max heap.           [10]
+used paper Aug-2024
+8.  Explain selection sort method.         [10]
+OR
+9.  With an algorithm and example, explain binary search technique.     [10]
+10.  What are AVL trees? Write the pseudcode to perform insert and delete operations on
+AVL trees and explain.          [10]
+OR
+11.  Explain insert and delete operations on B trees with example.     [10]
+used paper Aug-2024

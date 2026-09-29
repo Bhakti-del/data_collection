@@ -1,0 +1,41 @@
+WEB TECHNOLOGIES
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a)    How do you reverse a string in PHP without using any built in functions?   [2]
+b)   What are the storage engines used by MySQL?     [3]
+c)    What is Document Object Model?            [2]
+d)    How does one link external style sheet in a XHTML document?   [3]
+e)    Write the purpose of cookies.            [2]
+f)    What is session tracking? Explain.       [3]
+g)    List down the advantages of Java beans.           [2]
+h)    How JSP page is compiled?           [3]
+i)      What is the scope of variables in java script?       [2]
+j)     How the keyword „new‟ is used to create objects in java script?   [3]
+PART - B
+2.a)  Discuss about various functions used in PHP with examples.
+b)  Write PHP code to create a login page for a web application.   [5+5]
+OR
+3.a)  Discuss about various types of PHP interpreters.
+b)  Write a program in PHP to find out length of the string “This is my first program”.
+[5+5]
+4.a)  Explain about XML core tags and flow control tags.
+b)  Show how an XML schema can be created.      [5+5]
+OR
+5.a)  Explain the advantages of XML schemas over DTDs.
+b)  Differentiate between DOM and SAX parsers in java.    [5+5]
+6.a)  What is CGI? List the CGI environmental variables.
+b)  Explain the life cycle of a Servlet with a neat sketch.    [5+5]
+OR
+7.a)  Discuss the process of deploying a web application.
+b)  How to handle http request and responses? Explain.     [5+5]
+8.a)  Write about the components of JSP and explain.
+b)  How to connect database connection through JSP? Illustrate with example.  [5+5]
+OR
+9.a)  Write in brief about JSP tag extensions and libraries.
+b)  How to create and make use of beans in JSP pages? Demonstrate with example. [5+5]
+10.a)  Explain about objects, methods and events in java scripts.
+b)  Write a java script to change text color of HTML elements.    [5+5]
+OR
+11.a)  What is the functioning of the java script keyword „this‟ and „dot‟ operator? Explain.
+b)  Write a java script to validate a form consisting of a hall ticket number as username and
+mobile number as password. Also navigate to another web page after validation. [5+5]

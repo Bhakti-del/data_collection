@@ -1,0 +1,50 @@
+COMPUTER GRAPHICS
+carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Describe the working of raster scan Systems.     [2]
+b) How do we represent polygon using polygon table, edge table and vertex table? Explain
+with an example.          [3]
+c) Define Shear transformation.        [2]
+d) What are the limitations of sutherland hodggman algorithm?   [3]
+e) Define Clipping.         [2]
+f) What are the properties of Bezier curve?      [3]
+g) What are the limitations of octree method?       [2]
+h) Discuss BSPtree methods.         [3]
+i) What is the use of key frame system?       [2]
+j) How is animation sequence constructed using kinematic or dynamic descriptions? [3]
+PART-B
+2.a) Consider a raster display system with resolution of 800 by 400. How many pixels could be
+accessed per seco nd by a display controller that refreshes the screen at the rate of 120
+frames per second?
+b) Describe briefly Bresenham’s circle drawing algorithm with an example. Why do we
+prefer incremental algorithm over DDA?      [5+5]
+OR
+3.a) Some of the line -generation algorithms will not draw 450 lines properly. Why? Can you
+suggest modifications that will correct this flaw?
+b) Using midpoint ellipse algorithm, generate poin ts on the ellipse with center as origin,
+major axis 8 units and minor axis 6 units.       [5+5]
+4.a) Find reflections of point (5, 6 ) with respect to a line y = x and find the corresponding
+transformation matrix.
+b) Explain the steps involved in Sutherland-Hodge man algorithm.    [5+5]
+OR
+5.a) Explain about the midpoint sub division line clipping algorithm.
+b) What is the need of homogeneous coordinates? Gi ve the homogeneous coordinates for
+translation, rotation and scaling.        [5+5]
+6.a) How are periodic B-spline curves different from non-periodic B-spline curves?
+b) Given control points (20,100), (50,100), (6 0,120) and (110,150). Calculate coordinates of
+any four points lying on the corresponding Beizer curve.    [5+5]
+OR
+7.a) Derive the transformation matrix for Hermite curve.
+b) Derive the transformation matrix for rotation about an x-axis in 3D.  [5+5]
+8.a) Discuss in brief about 3D shear transformations.
+b) Derive the matrix form for the rotation about z- axis in 3-D space.   [5+5]
+OR
+9.a) What are the steps involved in depth buffer algorithm?
+b) Explain about the Back Face detection algorithm. Wh at are the limitations of the Back
+Face detection method?         [5+5]
+10.a) What are key frames? Explain its importance.
+b) Explain in brief about computer animation functions.    [5+5]
+OR
+11.a) What is morphing? How is a shape converted into another shape by morphing?
+b) Describe the techniques to achieve the simple animation effects.   [5+5]
+--ooOoo--

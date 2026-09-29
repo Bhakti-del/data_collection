@@ -1,0 +1,45 @@
+ADVANCED ALGORITHMS
+(Computer Science and Engineering)
+and may have a, b as sub questions.
+PART – A
+1.a)      Explain the best case analysis of  heap sort.      [2]
+b)      Define Principle of optimality.       [3]
+c)      Write the general method of Greedy Approach.     [2]
+d)      What is the need of Topological Sorting?      [3]
+e)      Define Zero-one principle.        [2]
+f)       How can you solve systems of linear equations by substitution?   [3]
+g)      Define pattern in string.        [2]
+h)      Write the steps of the Naive String Matching Algorithm.     [3]
+i)       Define the word “Polynomial time”.       [2]
+j)       Why the NP-complete problems are significant?     [3]
+PART – B
+2.a) Explain the worst case analysis of quick sort with example.
+b) Write the role of Algorithms in computing.      [5+5]
+OR
+3.a) What is min heap? Explain heap sort strategy with example.
+b) Explain the concept of chain matrix multiplication using dynamic programming. [5+5]
+4.a) Apply a variable-length Huffman coding strategy on this frequency character count table.
+Character A B C D E F Total
+Frequency 45 13 12 16 9 5 100
+b) Write the minimum cost spanning tree prim’s algorithm.     [5+5]
+OR
+5.a) Find the Minimum  cost spanning tree using Kruskal’s  algorithm  for the given graph.
+b)  Write the advantages of Maximum Flow algorithm.     [5+5]
+used paper July/Aug-2023
+6.a) Evaluate the time complexity of Strassen's Matrix Multiplication.
+b) Explain the concept of Bitonic Sorting Network.     [5+5]
+OR
+7.a) Write the application area of Sorting Network.
+b) How to find the Inverse of a 3 × 3 Matrix?      [5+5]
+8.a) Explain the major steps in Knuth-Morris-Pratt Algorithm.
+b) Compare and contrast deterministic and non deterministic finite automata.  [5+5]
+OR
+9.a) Write the brute force algorithm for string pattern matching.
+b) How many spurious hits  does the Rabin -Karp matcher encounters in Text
+T = 31415926535.......,      for string matching, working module q = 11.  [5+5]
+10.a) What is Travelling Sales person problem? Explain with neat sketch.
+b) Explain P, NP and NP-Hard classes with suitable examples.    [5+5]
+OR
+11.a) Explain the strategy to prove that a problem is NP-Hard.
+b) What are approximation algorithms? Explain.     [5+5]
+used paper July/Aug-2023

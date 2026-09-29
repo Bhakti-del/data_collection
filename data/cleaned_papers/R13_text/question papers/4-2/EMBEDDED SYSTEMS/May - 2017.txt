@@ -1,0 +1,41 @@
+EMBEDDED SYSTEMS
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      What is an embedded system?       [2]
+b)      Explain the different applications of embedded system.    [3]
+c)      What are the advantages of Assembly language?       [2]
+d)      Explain signed subtraction with example.      [3]
+e)      Define task and Task state.        [2]
+f)      What is meant by concurrency of task execution in real time system?  [3]
+g)      What is the necessity of RTOS?       [2]
+h)      Explain difference applications of queues.      [3]
+i)       Write the specifications of SHARC.       [2]
+j)       What is network’s importance in embedded system?    [3]
+PART - B
+2.a) Explain the challenges in embedded computing system design.
+b) Explain how to interface external memory to 8051?     [5+5]
+OR
+3. With neat sketch, explain the architecture of 8051 microcontroller.   [10]
+4. Write a subroutine which checks the content of 20H. If it is a positive number, the
+subroutine. Find its two’s complement and store it in same location and returns. [10]
+OR
+5.a) Explain the different types of bit-level and byte-level jump instructions in 8051.
+b) Classify the arithmetic operations and explain any five.    [5+5]
+6.a) Explain how interfacing can be done for A/D converter to 8051.
+b) Explain how serial data communication will be done in 8051?   [5+5]
+OR
+7.a) Write about message queue management function calls in RTOS.
+b) Explain Interrupt Routines in an RTOS Environment.    [5+5]
+8.a) Explain with an example how semaphores solve the shared data problem.
+b) Discuss various methods adopted to reduce power consumption in embedded applications.
+[5+5]
+OR
+9.a) Explain the differences between a ‘Host Computer System’ and a ‘Target System’ in
+terms of their hardware and software.
+b) Why are most designers use FOSS tools in embedded system development? Discuss.
+[5+5]
+10. Explain block diagram of ARM architecture with neat diagram.    [10]
+OR
+11. Explain the operat ion of the CAN bus at the physical layer and data link layer with the
+help of CAN data frame format diagram.      [10]

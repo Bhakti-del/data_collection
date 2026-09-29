@@ -1,0 +1,17 @@
+NETWORK PROGRAMMING
+1.a) Write the syntax for readn() and writen() functions and explain its usage.
+b)  List and explain various byte manipulation functions with clear syntax.     [6+9]
+2. Explain the following elementary socket functions with neat syntax and example:
+a) socket() b) bind() c) connect() d) listen() e) accept()    [15]
+3. Write down the programs for TCP echo server and TCP echo client. Explain the function
+that echos data on a socket and the function for client processing loop.     [15]
+4.a) Describe signal-driven I/O model and Asynchronous I/O model with neat diagrams.
+b) Give the syntax of select() function and describe its basic functionality.   [9+6]
+5. List and explain various IPv4 and IPv6 socket options.       [15]
+6.a) Give a detailed syntax and explanation of recvmsg() and sendmsg() functions and
+summarize various I/O flags of it.
+b) Give the basic functionality of fcntl() function.      [9+6]
+7. Explain the following functions with an illustrative example code:
+a) gethostbyname()  b) gethostbyaddr()     [8+7]
+8. Give an overview of the traceroute program to determine IP datagrams path from our
+host to other destination with an illustrative program and flowchart.     [15]

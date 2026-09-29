@@ -1,0 +1,21 @@
+MACHINE LEARNING
+(Computer science and Engineering)
+1.a)  Discuss about the basic Decision Tree Learning algorithm.
+b)  Briefly explain the need of Inductive Bias in decision Tree Learning.                 [7+8]
+2.a)  Explain the Find-S: Finding a Maximally Specific Hypothesis in detail.
+b) Explain the issues in decision tree learning.                          [10+5]
+3.a)  Present the Backpropagation algorithm for feedforward networks and explain each step
+in it.
+b) Explain how to estimate hypothesis accuracy.     [9+6]
+4.a)  Define the terms estimation bias and confidence intervals.
+b)  Discuss the central limit theorem for deriving confidence intervals in detail.
+c) Explain the representation of neural networks.                                 [5+5+5]
+5.a)  Design the Brute Force Bayesian concept learning algorithm and elaborate.
+b)  Explain the Mistake Bound for the Halving Algorithm.                                       [8+7]
+6.a)  Explain the Maximum Likelihood Hypotheses for predicting probabilities.
+b)  Elaborate the Locally Weighted Linear Regression.                                              [8+7]
+7.a)  Explain the Q–learning with suitable example.
+b) Explain about the hypothesis space search.                                [8+7]
+8.a) Discuss about the Explanation-based Learning of Search Control Knowledge.
+b) Explain how to initialize the hypothesis by using prior knowledge.        [8+7]
+R18 used paper feb/mar-2022 jntuh

@@ -1,0 +1,24 @@
+COMPILER DESIGN
+(Computer Science and Engineering)
+----
+1.a) List out different phases of compiler and explain each phase role in compilation process
+b) Explain the bootstrapping.        [8+7]
+2.a) Write a note on complier construction tools.
+b) Construct recursive descendent parsing table for following grammar.  [7+8]
+EE+T/T
+TTF/F
+FF*/a/b
+3.a) What is LALR parser? Explain LALR parsing algorithm.
+b) Write a note on YACC.        [8+7]
+4.a) What is shift reduce parser? Explain conflicts in shift reduce parser.
+b) Write LR parsing algorithm.        [7+8]
+5.a) Explain various different intermediate code forms.
+b) Write intermediate code for assignment statement and case statement.  [7+8]
+6.a) What is syntax d irected translation schem and write syntax directed  schem for while
+statement.
+b) Explain different formants of symbol table.      [8+7]
+7.a) Explain, how dead code elimination is done and illustrate with example.
+b)  Explain optimization of basic blocks.       [7+8]
+8.a) Write the issues in design of code generation.
+b)  Write the steps for constructing DAG for register allocation.   [7+8]
+USED PAPERSSEP-2021

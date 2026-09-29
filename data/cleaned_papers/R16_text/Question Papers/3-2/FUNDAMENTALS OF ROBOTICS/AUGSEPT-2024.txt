@@ -1,0 +1,31 @@
+FUNDAMENTALS OF ROBOTICS
+and may have a, b as sub questions.
+PART – A
+1.a)      Outline the introduction of robotics.       [2]
+b)      Define accuracy and repeatability.       [3]
+c)      Label the mechanisms for actuation.       [2]
+d)      List the considerations in gripper selection.      [3]
+e)      Define kinematics.         [2]
+f)      What is the significance of homogenous transformation matrix?   [3]
+g)      Label steps involved in trajectory planning.      [2]
+h)      Outline computed torque control.                      [3]
+i)       List the applications of robot vision.       [2]
+j)       What is the significance of Lead through programming method?   [3]
+PART – B
+2.  Explain the classification of robotics with respect to geom etrical configuration
+(Anatomy) and controlled system.         [10]
+OR
+3.  Analyze position sensors and velocity sensors in detail.      [10]
+4.  Summarize the working of mechanical Gripper.       [10]
+OR
+5.  Explain operating principle of magnetic gripper.       [10]
+6.  Compare direct and inverse kinematics for industrial robots.     [10]
+OR
+7.  Evaluate differential kinematics for planar serial robots.      [10]
+8.  Analyze interaction control and rigid body mechanics.      [10]
+OR
+9.  Explain control architecture with position, path velocity, and force control systems.[10]
+10.  Describe the programming of robots and vision System.       [10]
+OR
+11.  Explain Teach pendent and textual programming language of VAL in detail.   [10]
+used paper Aug-2024

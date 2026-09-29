@@ -1,0 +1,41 @@
+ENGINEERING PHYSICS
+PTM, AGE)
+10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) What is Ionic Bond?                                                                [2]
+b) What is Hydrogen Bond?                                                             [3]
+c) Write two important properties of Matter Waves.     [2]
+d) What is the main difference between Micro Canonical and Canonical Ensembles?  [3]
+e) What is Polarizability?           [2]
+f) What is the Magnetization?           [3]
+g) Write applications of lasers.        [2]
+h) Define Numerical Aperture.          [3]
+i) Explain about top down approach for synthesis of nanomaterials.      [2]
+j) What is Sabine’s Formula? Explain.       [3]
+PART-B
+2.a) What is packing fraction?  Deduce packing factor for BCC structure.
+b) Write notes on Frenkel and Schottky defects with diagrams.    [5+5]
+OR
+3.a) Explain with suitable examples the  covalent and metallic type of bondings in solids.
+b) Write a note with neat diagram of Structure of Diamond.    [5+5]
+4.a) Derive an expression for  Schrödinger’s Time Independent Wave Equation.
+b) Describe Concept of Effective Mass of an Electron.     [5+5]
+OR
+5.a) Write an essay on Davisson and Germer’s Experiment.
+b) Explain Origin of Energy Band Formation in Solids.    [5+5]
+6.a) Derive an expression for electronic polarizability in terms of the  radius of the atom.
+b) Write short notes on piezoelectricity.       [5+5]
+OR
+7.a) Write notes on Type -I and Type-II Superconductors along with the applications of
+Superconductors.
+b) Discuss about Meissner Effect.       [5+5]
+8.a) Discuss about Diffraction grating experiment with the help of diagram.
+b) Write short notes on Nicol prism.       [5+5]
+OR
+9.a) Write an essay on construction and working of  Helium-Neon Laser.
+b) What is the importance of the Attenuation in Optical Fibers?    [5+5]
+10.a) Write an essay on  Chemical Vapour Deposition.
+b) Discuss about Solar cell, LED and Photo Diodes.     [5+5]
+OR
+11.a) What are the factors affecting the architectural acoustics and suggest their remedies.
+b) Write notes on Quantum Confinement.      [5+5]

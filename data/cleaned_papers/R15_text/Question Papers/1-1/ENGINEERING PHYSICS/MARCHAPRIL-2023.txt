@@ -1,0 +1,46 @@
+ENGINEERING PHYSICS
+and may have a, b as sub questions.
+PART - A
+1.a)      What is meant by crystal structure?                             [2]
+b)      Draw the following planes of cubic structure (112), (101), (200).   [3]
+c)      What is the physical significance of wave function?     [2]
+d)      What explains E- K curve?        [3]
+e)      Define piezoelectricity and pyroelectricity.      [2]
+f)      Explain the Permeability in magnetism.      [3]
+g)      What are the characteristics of laser radiation?     [2]
+h)      Mention the different types of losses in optical fiber.    [3]
+i)       Mention the applications of Hall Effect.                  [2]
+j)      Why nonmaterial’s exhibiting different properties?     [3]
+PART - B
+2.a)  Derive an expression for the cohesive energy of an ionic crystal.
+b)       Explain the Laue method of crystal structure analysis.     [5+5]
+OR
+3.a) Explain the formati on of an ionic bond. Calculate the cohesive energy of Nacl
+molecule.
+b) Mention the different kinds of crystal imperfections.     [5+5]
+4.a) Show that the energies of a particle in a potential box are quantized.
+b) Discuss the Kronig-Penny model for the motion of an electron in a periodic potential.
+[5+5]
+OR
+5.a) What are the matter waves? Explain in detail Thomson experiment to prove the
+existence of matter waves.
+b) Explain the origin of energy bands in solids.       [5+5]
+6.a) Explain electronic polarization. Derive an expression for electronic polarizability.
+b) Explain in detail domain theory of ferromagnetism.      [5+5]
+OR
+7.a) Distinguish between piezo and ferroelectric effects.
+b) Explain how ferrites are superior to ferromagnetic materials . Discuss hard and
+soft magnetic materials.         [4+6]
+8.a) Discuss about the Newton rings experiment and deduce the equations for the diameters
+of dark and bright fringes.
+b)  Sketch the ray propagation in different types of optical fibers.   [6+4]
+OR
+9.a) Distinguish between the spontaneous and stimulated emission processes of light.
+b)  With necessary energy level diagram, explain the working of a Ruby laser.  [5+5]
+10.a) Drive an expression for the density of holes in intrinsic semiconductors.
+b) Explain how the PN junction diode is formed and the rectifying action of PN diode.
+[5+5]
+OR
+11.a) Explain what are  the factors  are  affecting the architectural acoustics, and mention  the
+difficulties are overcome.
+b) Explain the chemical vapor deposition method to synthesis the nonmaterials.   [5+5]

@@ -1,0 +1,39 @@
+REMOTE SENSING AND GIS
+and may have a, b as sub questions.
+PART – A
+1.a)   Define Scale in Aerial photograph.                                    [2]
+b)   Demonstrate Height measurement of vertical photograph.                      [3]
+c)    What is Resolution?                  [2]
+d)   Illustrate Indian Satellites Characteristics.                                   [3]
+e)   Define GIS.                                       [2]
+f)    What is Data Analysis?               [3]
+g)   List Topology and its importance.              [2]
+h)   Outline Topology rules.               [3]
+i)  Summarize Remote Sensing data.               [2]
+j)   Compare Raster and Vector data.                          [3]
+PART – B
+2.a)  Identify the Fundamentals of Stereoscopy.
+b)  List Principles of Photogrammetry in detail.      [5+5]
+OR
+3.a)  Develop Geometry of vertical aerial photograph in Photogrammetry.
+b)   Utilize Fiducial Points Importance in Photogrammetry.    [5+5]
+4.a)  Explain Basic Concept of Remote sensing.
+b)  Interpret Remote sensing Data collection.      [5+5]
+OR
+5.a)  Build Energy interactions with Atmosphere and with earth surface features.
+b)  Organize Introduction to Digital data.      [5+5]
+6.a)  Elaborate GIS Operations.
+b)  Discuss Coordinate systems and Geographic Coordinate System.   [5+5]
+OR
+7.a)  Interpret Geospatial Data.
+b) Evaluate Data display and Attribute Data Exploration.    [5+5]
+8.a)  Explain Coverage and its Data structure.
+b)  Appraise Vector Data Model with neat figure.     [5+5]
+OR
+9.a)  Explain about Classes and their Relationship.
+b)  Discuss about Representation of simple features.     [5+5]
+10.a)  Elaborate Data Editing and its need in GIS.
+b)  Explain about Scanning and its limitations.      [5+5]
+OR
+11.a)  Construct Field Data and Text data.
+b)  Discuss about Metadata along with its advantages.     [5+5]

@@ -1,0 +1,46 @@
+ENGINEERING GRAPHICS
+1.a) Draw the hyperbola passing through the point P, assuming its asymptotes make an angle
+of 700 with each other. The point P is 40mm away from one asymptote and 45mm from
+the other.
+b) A circle having a 50 mm diameter rolls within a circle with a 150 mm diameter with
+internal contact. Draw the locus of a point lying on the circumference of the rolling circle
+for its complete turn. Name the curve.       [7+8]
+OR
+2.a) Draw the hyperbola when the focus and the vertex are 25 mm apart. Consider eccentricity
+as 3/2. Draw a tangent and normal to the curve at a point that is 35 mm from the focus.
+b) Draw the locus of a point P moving so that the ratio of the distance from a fixed point F
+to its distance from a fixed straight line is 0.75. Point P is at a distance of 70mm from the
+straight line. Also, draw the tangent and normal to the curve.    [7+8]
+3.  A straight line AB is 80 mm long. It is inclined at 45 0 to the HP and its top view  is
+inclined at 600 to XY line. The end A of the line, which is farthest from VP is on the HP
+and 65 mm behind the VP. Draw the projections of AB and find its true inclination in
+relation to the VP if the line is in the third quadrant.     [15]
+OR
+4. A circular plane of diameter 50 mm is resting on HP having a point on the circumference
+of the base with its surface inclined at 450
+to VP and 300
+to HP. Draw its projections.
+[15]
+5.  A pentagonal pyramid of 25 mm edge of base and 60 mm he ight is resting on the corner
+of its base on H.P. and the slant edge containing that corner is inclined at 45 0 with H.P.
+Draw the projections of the solid, when its axis makes an angle of 300 with V.P.  [15]
+OR
+6.  A cylinder of base diameter 50 mm and axi s 70 mm has a point of its base circle in the
+V.P. Its axis is inclined at 300 to the V.P. and 450 to the H.P. Draw its projections. [15]
+7. A pentagonal prism of base 30 mm side and 60 mm height is resting on the base in HP
+such that one of the rectangul ar face is parallel to the VP. It is cut by a plane
+perpendicular to VP and 60 0 inclined to HP and bisecting the axis of the solid. Draw
+development of lateral surface of the bottom part of the solid.   [15]
+OR
+8. A square prism having a base with a 40  mm side and a 60 mm long axis rests on its base
+on H.P. such that one of the vertical faces makes an angle of 300 with V.P. A section
+plane perpendicular to the V.P. inclined at 450 to the H.P. and passing through the axis at
+a point 20 mm from its top end cuts the prism. Draw its front view, sectional top view.
+[15]
+9.  Draw the orthographic projections of the part shown in figure 1.
+a) Front view b) Top view c) Side view. All dimensions are in mm.   [15]
+Figure 1
+OR
+10. Draw the isometric view of the following figure 2.  All dimensions are in mm. [15]
+Figure 2
+--ooOoo--

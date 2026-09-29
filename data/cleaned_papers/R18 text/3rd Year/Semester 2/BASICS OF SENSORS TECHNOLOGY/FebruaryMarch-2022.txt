@@ -1,0 +1,26 @@
+BASICS OF SENSORS TECHNOLOGY
+1.a) With a neat block diagram , explain the general input output configuration of
+measurement system.
+b) What is a sensor? Classify different types of sensors and give applications of it. [8+7]
+2.a) Explain how Eddy current sensors are used for analog determination of distance and/or
+position of electrically conductive objects.
+b)  What are variable capacitive sensors? Explain the function of a capacitive sensor in a
+robot end effectors.         [8+7]
+3.a) With a neat diagram , explain in detail about the bridge circuit to provide cold junction
+compensation.
+b)  What is potentiometer and explain about the resistive potentiometers in detail? [8+7]
+4.a) What is meant by Piezoelectric effect? Explain properties of piezoelectric material.
+b) Explain the magneto elastic load cell with corresponding block diagram.   [8+7]
+5.a) With a neat diagram, explain the working principle of Stroboscope.
+b) Explain the method of density measurement using Strain gauge load cell.   [8+7]
+6.a) With a neat diagram, explain in detail about Rotating Vane Consistency Meter.
+b) Explain in detail about differential pressure densitometer.    [8+7]
+7.a) With a neat diagram, explain in detail about capillary viscometer.
+b)  Explain in detail about capacitor microphones.     [8+7]
+8.a) With a neat sketch illustrate any two methods used for calibration of flow meters using
+liquids.
+b) Write a short note on:
+i) Calibration of sensors
+ii) Variable frequency drive.         [8+7]
+--ooOoo--
+R18 used paper feb/mar-2022 jntuh

@@ -1,0 +1,25 @@
+ENGINEERING DRAWING
+(Computer Science and Engineering)
+1.a) A circle of 50 mm diameter rolls inside another fixed circle of radius 80 mm. Draw
+the hypocycloid for the point P on the rolling circle, which is at the contact point of the
+fixed and rolling circles.
+b) Construct a diagonal scale of RF = (1/4000) to show meters and long enough to measure
+500 meters. Indicate on this a length of 374 meters.              [12+13]
+2. Draw the projections of a circle of 50 mm diameter w hen its plane is equally inclined to
+the HP and VP. One end of a diameter of the circle touches the HP while the other
+end touches the VP.             [25]
+3. A pentagonal prism of 30 mm base side and height 50 mm is standing on the HP on its
+base, with one side of base perpendicular to VP. This prism is cut by a section plane 40 0
+inclined to HP through mid -point of the axis. Draw the front view, sectional top view,
+and sectional side view. Draw also the true shape of the section.       [25]
+4. A cube of side 30 mm rests on its base in the HP with a vertical face inclined at 30 0 to the
+VP. It is cut by a plane perpendicular to the VP and inclined at 50 0 to the HP, and the top
+portion of cube is removed.  The plane bisects the axis of the cube. Draw the
+development of the frustum of the cube.             [25]
+5. A rectangular prism 40 × 30 × 15 mm rests on the ground on one of its ends with one of
+the longest edges touching the PP and one of the shortest edges receding to the left at
+angle of 40 0 to the PP. The nearest vertical edge is 15 mm to the left of the station point
+which is at a distance of 55 mm in front of the PP and 30 mm above the ground. Draw the
+perspective view of the prism.           [25]
+6. Three views of a so lid are shown in the figure below. Draw the isometric projection
+of the solid. All dimensions are in mm.              [25]

@@ -1,0 +1,41 @@
+SEMANTIC WEB AND SOCIAL NETWORKS
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Why intelligent ubiquitous devices improve productivity?    [2]
+b)      Explain about the WWW.        [3]
+c)      Describe ontology sharing and merging.      [2]
+d)      What are unique features of UML?       [3]
+e)      Explain about semantic Web services.      [2]
+f)      Explain about Monotonic and Nonmonotonic Rules.     [3]
+g)      Describe electronic discussion networks.      [2]
+h)      What is network analysis? Explain.       [3]
+i)       Define Sesame Repository.        [2]
+j)       Explain about GraphUtil.        [3]
+PART - B
+2.a) Discuss how the number of nodes on the Web creates computational complexity that limits
+the ability to develop logic proof systems.
+b) Explain about artificial intelligence and machine intelligence.   [5+5]
+OR
+3.a) Discuss about the logic on the semantic Web.
+b) What are limitations of semantic Web? Describe the next generation Web.  [5+5]
+4. Explain in detail about RDF and RDF schema.     [10]
+OR
+5.a) Discuss about ontology engineering in detail.
+b) What is OWL? Explain in detail.       [5+5]
+6.a) Discuss in detail about RDF inference engine.
+b) What are semantic Web applications? Explain.     [5+5]
+OR
+7.a) Explain in detail about inference engines.
+b) Describe semantic search and e-learning.       [5+5]
+8.a) What are semantic methods? Explain.
+b) What’s wrong with the Web? Explain.      [5+5]
+OR
+9.a) Discuss about technology adoption in detail.
+b) Explain in detail about semantic search technology.     [5+5]
+10. Explain in detail about Web based networks.      [10]
+OR
+11. Explain the following:
+a) Blogs
+b) Online communities.        [5+5]
+--ooOoo--

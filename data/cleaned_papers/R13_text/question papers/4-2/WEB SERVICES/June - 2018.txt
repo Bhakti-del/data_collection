@@ -1,0 +1,40 @@
+WEB SERVICES
+(Computer Science and Engineering)
+marks and may have a, b, c as sub questions.
+PART - A
+1.a)      Define web services.         [2]
+b)      Discuss the advantages of distributed computing.     [3]
+c)      What is the importance of Faultactor element in SOAP fault?   [2]
+d)      Define serialization.         [3]
+e)      Define extensibility elements.        [2]
+f) How can one create java code from an existing WSDL?    [3]
+g)      Define service discovery.          [2]
+h)      What are the different ways of interacting with a UDDI service registry?  [3]
+i)       Define rapid-fire cryptography.        [2]
+j) Differentiate between symmetric and asymmetric algorithms.   [3]
+PART - B
+2. Briefly explain the core web services standards.     [10]
+OR
+3. Explain in detail the process steps involved in implementing Web Services. [10]
+4. Explain the various elements in a SOAP message (request and response) with an example.
+[10]
+OR
+5. Briefly explain the SOAP message exchange model with an example.  [10]
+6.a) Explain the life cycle of web service.
+b) Briefly explain the following elements of a WSDL document with an example:
+i) Message
+ii) Service          [5+5]
+OR
+7.a) Discuss the various types of operations supported by WSDL.
+b) What are the limitations of WSDL?       [5+5]
+8.a) Discuss the uses of UDDI registry.
+b) How do UDDI registries support categorization? Explain.    [5+5]
+OR
+9. Explain briefly the following functions in Inquiry API with example code snippets-
+a) find_xx
+b) get_xx.          [5+5]
+10.a) What are the challenges in creating web services interoperability.
+b) Explain the steps involved in creating a .NET client for an axis web service. [5+5]
+OR
+11.a) Discuss the various challenges in securing web services.
+b) What is XML encryption? Briefly explain.      [5+5]

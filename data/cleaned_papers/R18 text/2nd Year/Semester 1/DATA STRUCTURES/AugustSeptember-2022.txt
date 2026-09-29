@@ -1,0 +1,37 @@
+DATA STRUCTURES
+CSE(IOT), CSE(N))
+1.a)  The following numbers  10, 20, 50, 30, 90, 60 (Top) are present in a stack of size 10.
+Perform the following operations in sequenc e. pop(), push(30), push(40), pop(),
+push (60), pop(), pop(), pop() What is the peek element at last? Draw and explain it.
+b)  Implement a queue data structure using Single Linked list.    [8+7]
+2.a)  The Professor Lilly is very strict in class room. S he never gives the attendance to those
+who are coming last in her class. Write a function to help Professor to delete the last
+Occurrence of a student from the list.
+b)  Implement a stack data structure using Single Linked list.    [8+7]
+3.a)  Explain how Insertion, Deletion and Search is done in skip lists with example.
+b)  What is the expected number of probes for both successful and unsuccessful searches
+in a linear probing table with load factor 0.25?     [7+8]
+4.a)  Given the input (4371, 1323, 6173, 4199, 4344, 9679, 19891), a fixed table size of 10,
+and a hash function H(X) = X mod 10, show the resulting quadratic probing hash table.
+b)  Outline Double Hashing with an example.      [8+7]
+5.a)  In an initially empty AVL tree insert the following keys: DEC, JAN, APR,MAR, JUL,
+AUG, OCT, FEB, NOV. Draw AVL tree after every insertion and apply rotations
+where ever necessary.
+b)  Briefly discuss about different cases of imbalance that might be caused by a red -black
+tree insertion and corresponding methods to rebalance the tree.   [7+8]
+6.a)  Construct Splay tree with the following node values: 18, 10, 5, 28, 13, 25,
+42,3,56,2,68,1,90. And perform normal splaying at nodes 1 and at node 90.
+b)  Explain insertion operation with following numbers into Red Black tree
+45, 10, 8, 9, 34, 35, 12, 60, 90.       [7+8]
+7.a)  Assume a list containing 4500 re cords is to be sorted using a computer with internal
+memory capable of sorting at most 750 records at a time and input list is maintained on
+a disk that has block length of 250 records. For this scenario explain how external
+sorting may be performed to accomplish the task.
+b)  Compare BFS and DFS with suitable examples.     [8+7]
+8.a)  Solve the Boyer-Moore algorithm for the following Example:
+Text: ABCABCDABABCDABCDABDE
+Pattern: ABCDABD
+b)  Solve the Knuth Morris-Pratt algorithm for the following Example:
+Text: HEREISASIMPLEEXAMPLE
+Pattern: EXAMPLE           [8+7]
+---oo0oo---

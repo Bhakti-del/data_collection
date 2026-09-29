@@ -1,0 +1,40 @@
+OPERATING SYSTEMS
+and may have a, b as sub questions.
+PART - A
+1.a)      Define system call.         [2]
+b)      What are the OS features required for multiprogramming?    [3]
+c)      Define scheduler.           [2]
+d)      Differentiate preemptive and non-preemptive scheduling.    [3]
+e)      How does the system detect thrashing?      [2]
+f)      Define external fragmentation.        [3]
+g)      What are the Access methods available?        [2]
+h)      Differentiate between file and directory.       [3]
+i)       Define deadlock.         [2]
+j)       “If there is a cycle in the resource allocation graph, it may or may not be in deadlock
+state”. Justify the statement.        [3]
+PART - B
+2.a)   What is operating system? Explain multiprogramming and time sharing systems.
+b)  What are the differences between loosely coupled and tightly coupled system? [5+5]
+OR
+3.a)  Explain different operations performed by the operating system.
+b)  What are the ma jor activities of an operating system with regard to file management?
+Explain them briefly with their supporting system calls.     [5+5]
+4.a)  What is a process? Discuss various states of a process with the help of a process state
+transition diagram.
+b)  Distinguish between CPU bounded and I/O bounded processes.    [5+5]
+OR
+5.  What is Semaphore? Explain producer consumer problem using semaphore.      [10]
+6.a)  Explain about Paging.
+b)  What is virtual memory? Discuss the benefits of virtual memory techniques. [5+5]
+OR
+7. Discuss about page replacement algorithms with example.      [10]
+used paper July/Aug-2023
+8.a)  Explain the issues in designing a file system.
+b)  Explain about the file system mounting.      [5+5]
+OR
+9.  Explain about the disk scheduling algorithms.       [10]
+10.  Explain deadlock detection with suitable example.       [10]
+OR
+11.a)  Explain about Deadlock Avoidance.
+b)  Explain how to recovery from deadlock.      [5+5]
+used paper July/Aug-2023

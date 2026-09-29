@@ -1,0 +1,46 @@
+OPERATING SYSTEMS
+and may have a, b as sub questions.
+PART – A
+1.a) Define an operating system.        [2]
+b)  What services do operating systems provide?     [3]
+c)  Define process synchronization.       [2]
+d)  What is the purpose of monitors in synchronization?     [3]
+e)  Define the term “thrashing”.        [2]
+f)  How is the allocation of frames determined in a virtual memory environment? [3]
+g)  Define the term "free-space management".      [2]
+h)  What is the role of directory implementation in storage management?  [3]
+i)  What is a deadlock in a system?       [2]
+j)  Write the three conditions that characterize a deadlock.    [3]
+PART – B
+2.a)  Compare the user view and the system view of an operating system.
+b)  Explore the computer system organization, providing examples to illustrate their roles
+in system functionality.        [5+5]
+OR
+3.a)  Explain different computing environments and how they impact operating system
+design  and functionality.
+b)  Discuss about memory management in operating systems.    [6+4]
+4.a)  Describe the functions of the Process Control Block in process management.
+b)  Explore the operations on processes in Unix, focusing  on fork(), exec(), wait(), and
+exit().           [5+5]
+OR
+5.  Compare and contrast different scheduling criteria used in process scheduling. [10]
+6.a)  Describe the various types of memory management strategies.
+b)  Explain the concept IA-32 paging.       [6+4]
+OR
+7.a)  Analyze the copy -on-write mechanism and its advantages in opti mizing memory
+operations.
+b)  Differentiate between virtual addresses and physical addresses.   [6+4]
+8.a)  Explain how does file sharing enhance collaboration and resource utilization in a file
+system.
+b)  Describe different types of allocation methods.     [5+5]
+OR
+9.a)  Discuss the efficiency and performance considera tions in file system design and
+implementation.
+b)  Explain the components and functions of disk structure in storage management. [5+5]
+10.a)  Explain the principles of protection.
+b)  Discuss recovery strategies from deadlock. How can a system recover from a deadlock
+situation?          [4+6]
+OR
+11.  Briefly explain the following terms.
+a) Capability-based systems.
+b) System Protection.         [5+5]

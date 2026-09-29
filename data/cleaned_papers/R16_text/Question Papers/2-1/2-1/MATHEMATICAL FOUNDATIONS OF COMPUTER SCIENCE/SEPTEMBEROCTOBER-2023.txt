@@ -1,0 +1,86 @@
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+and may have a, b as sub questions.
+PART – A
+1.a) Express A ↔ B in terms of the connectives {˄, ¬}.                                               [2]
+b) Prove that 𝑝 ˅ (𝑞 ˄ 𝑟) ↔ [(𝑝 ˅ 𝑞) ˄ (𝑝 ˅ 𝑟)] is a tautology.                                      [3]
+c) Suppose R and S are binary relations on a set A. If R and S are reflexive, is R ⋂ S reflexive?
+[2]
+d) In a group of 100 students, 72 students can speak English and 43 students can speak Hindi.
+Based on these data, answer the following:
+Find the number of students who can speak both English and Hindi.   [3]
+e) How many 3-letter words can be formed from the letters of the word ‘‘HAPPY’’? [2]
+f) In how many ways can 14 people be partitioned i nto 7 teams where in some order 2 teams
+have 3 members each, 3 teams have 2 each, and 2 teams have 1 member each?  [3]
+g) Write a generating function for a r, when ar is the number of ways of selecting r balls from
+3 red balls, 5 blue balls and 7 white balls.       [2]
+h) Let 𝑎𝑟 denotes the number of ways to select r balls from 20 garnet balls, 20 gold balls, 30
+green balls, and 30 blue balls with the constraints that the number of garnet balls is not equal
+to 2, the number of gold balls is no t 3, the number of green balls is not 4, and the number of
+blue balls is not 5. Determine the generating function 𝑎𝑟.    [3]
+i) Give an example of two non -directed graphs with 4 vertices and 2 edges that are not
+isomorphic.          [2]
+j) Give an example of a graph which is Hamiltonian but not Eulerian.   [3]
+PART – B
+2.a) Show that R → S is logically derived from the premises P → (Q → S), ¬R ˅ P and Q.
+b) Obtain the principal conjunctive normal form and principal disjunctive normal form of
+(¬P → R) ˄ (Q ↔ P) by using equivalences.      [5+5]
+OR
+3.a) Show that (¬𝑄 ˄ (𝑃 → 𝑄)) → ¬𝑃.
+b) Show that the following premises are inconsistent.
+i)  If Jack misses many classes through illness, then he fails high school.
+ii) If Jack fails high school, then he is uneducated.
+iii) If Jack reads a lot of books, then he is not uneducated.
+iv) Jack misses many classes through illness and reads a lot of books.  [5+5]
+4.a) Show that the function 𝑓: 𝑄 → 𝑄 defined by 𝑓(𝑥) = 2𝑥 + 3 is both one-one and onto. Here,
+𝑄 is the set of all rational numbers.
+b) State and prove Demorgan’s law.       [5+5]
+OR
+5.a) Prove that in every lattice distributive inequalities are true.
+b) If (A, R) is a partially ordered set then show that the set (A, R -1) is also a partially ordered
+set, where R-1 = {(b, a) /(a, b) ∈ R}.       [5+5]
+6.a) Find the number of integers between 1 and 250 that are divisible by any of the integers 2,  3,
+5 and 7.
+b) There are six men and  five women in a room. Find the number of ways four persons can be
+drawn from the room if (i) they can be male or female, (ii) two must be men and two women
+and (iii) they must all be of the same sex.      [5+5]
+OR
+7.a) Prove that [𝐶(𝑛, 0) + 𝐶(𝑛, 1) + ⋯ + 𝐶(𝑛, 𝑛)]2 = 𝐶(2𝑛, 0) + 𝐶(2𝑛, 1) + ⋯ + 𝐶(2𝑛, 2𝑛).
+b) How many arrangements are there of the letters a, b, c, d, e, and f with either a before b, or b
+before c, or c before d? (By “before” , we mean anywhere before, not just immediately
+before).          [5+5]
+8.a) In (1 + 𝑋5 + 𝑋9)10 find
+i) the coefficient of 𝑋23.
+ii) the coefficient of 𝑋32.
+b) Find a recurrence relation for the number of n -digit ternary sequences that have an even
+number of 0’s.          [6+4]
+OR
+9.a) Solve the following recurrence relation by substitution.
+i) 𝑎𝑛 = 𝑎𝑛−1 +  n   where a0 = 2
+ii) 𝑎𝑛 = 𝑎𝑛−1 +  3n  where a0 = 1.
+b) Solve the recurrence relation using generating functions.    [5+5]
+𝑎𝑛 − 9𝑎𝑛−1 + 20𝑎𝑛−2 = 0 for n ≥ 2 and a0 = -3, a1 = -10
+10.a) Prove that the number of odd degree vertices in any graph is even.
+b) Define isomorphism between two graphs. Are the simple graphs with the following
+adjacency matrices isomorphic?       [5+5]
+[
+0 1 0 0 0 1
+1 0 1 0 1 0
+0 1 0 1 0 1
+0 0 1 0 1 0
+0 1 0 1 0 1
+1 0 1 0 1 0]
+[
+0 1 0 0 0 1
+1 0 1 0 0 1
+0 1 0 1 1 0
+0 0 1 0 1 0
+0 0 1 1 0 1
+1 1 0 0 1 0]
+OR
+11.a) Give a proof of Euler’s formula by using induction on the number of edges.
+b) Determine the chromatic number of
+i) a bipartite graph,
+ii) a wheel with 8 vertices 𝑊8,
+iii) a complete graph 𝐾𝑛,
+iv) a cycle graph 𝐶𝑛 where n is odd,
+v) a cycle graph 𝐶𝑛 where n is even.       [5+5]

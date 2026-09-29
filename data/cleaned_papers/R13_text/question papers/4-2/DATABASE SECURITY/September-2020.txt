@@ -1,0 +1,16 @@
+DATABASE SECURITY
+(Computer Science and Engineering)
+1.a) What are the  challenges to implement security in databases?
+b) Discuss about Hartson model for data base security.     [7+8]
+2.a) What is PN model? Write its features and advantages.
+b) Write about Acten model.        [7+8]
+3. Explain control mechanisms for resource protection.     [15]
+4. What is Bell-La Padula’s model and write its limitations and features?  [15]
+5.a) Compare logical inference Vs statistical inference.
+b) Write different aspects to design secure DBMS package.    [7+8]
+6.a) Explain design concepts for security software.
+b) Write a note on IDES system.        [7+8]
+7.a) What is frame based system? Explain its characteristics.
+b) Describe the model for protecting frame based system.    [7+8]
+8.a) What is an active data base? Write its features.
+b) Explain how security is provided in active databases.    [7+8]

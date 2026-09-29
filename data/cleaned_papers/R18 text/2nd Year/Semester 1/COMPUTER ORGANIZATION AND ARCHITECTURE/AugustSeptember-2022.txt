@@ -1,0 +1,19 @@
+COMPUTER ORGANIZATION AND ARCHITECTURE
+1.a)  What is the difference between Computer Organization and Computer Architecture?
+b)  Write a short note on instruction code format.     [8+7]
+2.a)  Explain the format of Register reference instructions and their functionalities.
+b)  Draw and explain the flowchart for interrupt cycle.     [8+7]
+3.a)  Define the following terms:
+i) Control memory ii) Address sequencing
+b)  Explain about the microinstruction format with neat sketch.    [8+7]
+4.a)  Explain about various addressing modes.
+b)  Briefly explain about General purpose registers and Flag registers.   [7+8]
+5.a)  Explain the flow chart for addition operation with sign-magnitude data.
+b)  Perform (-25) + (-10) in binary with negative numbers in 2’s complement.  [8+7]
+6.a)  Explain the Booth’s algorithm for signed multiplication.
+b)  Draw the flowchart for floating point division.     [8+7]
+7.a)  Explain the block diagram of I/O interface.
+b)  Write a short note on Cache memory.      [8+7]
+8.a)  Explain about instruction pipelining with an example.
+b)  Discuss about the serial arbitration technique.     [8+7]
+---oo0oo---

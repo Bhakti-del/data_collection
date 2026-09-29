@@ -1,0 +1,141 @@
+MATHEMATICS - I
+and may have a, b as sub questions.
+PART - A
+1.a)      Using Cayley - Hamilton theorem find inverse for
+14 .23A     [2]
+b)       Define Index and Signature of a canonical form.     [3]
+c)      State Lagrange’s mean value theorem.        [2]
+d)    In polar coordinates, if
+cos , sinx r y r 
+then show that
+ 
+ 
+, .,
+xy rr 
+    [3]
+e)      Write the relation between beta and gamma functions.    [2]
+f)      Express
+1
+0
+(1 )m n px x dx  in terms of gamma function     [3]
+g)      Write the laws of natural growth and decay in mathematical form.   [2]
+h)      Find the particular integral of
+ 
+22 1.D y x      [3]
+i)       State any two properties of Laplace transform.     [2]
+j)       Find the Laplace transform of
+   
+21 1 .t u t      [3]
+PART - B
+2.a)  Prove that
+   
+   
+111122
+111122
+ii
+A
+ii
+   
+
+   is a unitary and find
+1.A
+b) Find the rank of the matrix
+1 3 4 3
+3 9 2 3
+1 3 4 1
+
+
+
+   by reducing it to the normal form. [5+5]
+OR
+3.a)  Test for consistency and solve
+5 3 7 4,3 26 2 9,7 2 10 5.x y z x y z x y z        
+b) Reduce the quadratic form
+1 2 1 3 2 32 2 2x x x x x x   into a sum of sq uares by an
+orthogonal transformation and also discuss its nature.                [5+5]
+4.a) Verify Rolle’s theorem for
+  2 68f x x x    in
+ 2,4 .
+b) If
+3 2 , 2u x y z v x y z       and
+ 2,w x x y z    show that they are functionally
+related, and find the relation.        [5+5]
+OR
+5.a)  Find the maximum and minimum values of
+3 2 2 23 15 15 72 .x xy x y x   
+b) A rectangular box open at top is to have volume of 32 cubic ft. Find the dimensions of
+the box requiring least material for its construction.     [5+5]
+6.a)  Prove that
+/2
+0
+tan . 2d
+
+ 
+b)  Express
+1 11
+0
+(1 )
+()
+mn
+mn
+xx dx
+a bx
+
+
+
+  as a beta function.      [5+5]
+OR
+7.a) Find by the double integration, the area lying insi de the circle
+sinra    and outside
+the Cardioid
+ 1 cos .ra 
+b) Find the volume of the ellipsoid
+2 2 2
+222 1.x y z
+aaa
+        [5+5]
+8.a) A body kept in air with temperature
+025 C cools from
+0140 C to
+080 C in 20 minutes.
+Find when the body cools down to
+030 .C
+b)   Find the orthogonal trajectories of the family of curves
+cos .nnr a n    [5+5]
+OR
+9.a) Solve
+ 
+2 1 sin sin 2 .D y x x
+b)  If a voltage of
+20cos5t
+is applied to a series circuit consisting of 10 ohm resistor and
+2 henry inductor, determine the current at any time t.    [5+5]
+10.a) Find the Laplace transform of
+0
+sin .
+t
+t te dt t
+
+
+b)  Find the
+  ,L f t  where
+   cos , 33 .
+0, 3
+t if t
+ft
+if t
+
+
+ 
+     [5+5]
+OR
+11.a) Apply convolution theorem to find the inverse Laplace transforms of
+ 
+2
+1 .
+4ss 
+b)  Solve
+ 
+2 2 5 sin , tD D y e t    given that
+   0 0, 0 1yy   using Laplace
+transforms.          [5+5]

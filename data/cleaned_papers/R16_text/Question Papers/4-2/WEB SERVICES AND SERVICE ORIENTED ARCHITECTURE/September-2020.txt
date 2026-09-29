@@ -1,0 +1,20 @@
+WEB SERVICES AND SERVICE ORIENTED ARCHITECTURE
+(Computer Science and Engineering)
+1.a) Elaborate the role of J2EE in distributed computing.
+b) Discuss various challenges of Distributed Computing.    [8+7]
+2.a) Explain in detail about different Layers of SOA.
+b) Name and briefly describe each of the types of Web Services.   [8+7]
+3.a) How can you use WSDL to create client stubs? Illustrate with an example.
+b) List and explain basic steps for implementing web services.    [7+8]
+4.a) Explain in detail about Characteristics of web services.
+b) Illustrate the process of communicating between a proxy and a Web service. [7+8]
+5.a) Describe the concept of Polymorphism in XML.Illustrate with an example.
+b) Elaborate various advantages and disadvantages of SOAP.    [8+7]
+6.a) Describe the UDDI data structures and their interrelationships in UML
+b) Discuss about Asymmetric-key cryptography.     [7+8]
+7.a) Explain why it is useful to have various UDDI deployment variants. Briefly describe two
+important private UDDI variants.
+b) Describe in detail about UDDI usage model.      [10+5]
+8.a) Explain in detail about Circuit-level gateway.
+b) Explain about Secure Sockets Layer (SSL).      [7+8]
+--ooOoo---

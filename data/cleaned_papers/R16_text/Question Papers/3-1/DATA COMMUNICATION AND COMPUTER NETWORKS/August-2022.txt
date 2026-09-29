@@ -1,0 +1,18 @@
+DATA COMMUNICATION AND COMPUTER NETWORKS
+1.a)  What is connection? Explain different types of connections.
+b)  Discuss the features and principles of OSI reference model diagram.  [7+8]
+2.  Explain in detail different types of transmission media with neat sketches.    [15]
+3.  Explain the following terms.
+a) ALOHA.
+b) Architecture of IEEE 802.11       [7+8]
+4.a)  Compare and contrast a random access protocol with a controlled access protocol.
+b)  What is hamming code? Explain its purpose.      [9+6]
+5.a)  Differentiate between physical and logical addressing.
+b)  What is internetworking? Explain its types.      [7+8]
+6.a)  Discuss the applications of tunneling.
+b)  Differentiate between unicast, broadcast and multicast streams.   [6+9]
+7.a)  Briefly explain about process to process delivery.
+b) What is congestion control? Explain.       [8+7]
+8.a)  Differentiate between FTP and SMTP.
+b)  What is an Electronic Mail (E-Mail)? Discuss the advantages of it.   [7+8]
+---oo0oo---

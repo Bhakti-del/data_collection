@@ -1,0 +1,18 @@
+COMPUTER GRAPHICS
+1.a) Discuss in detail Bressman’s Algorithm.
+b) Find the coordinates of pixels that lie on line segment having end points (5,8) and (2,4).
+[7+8]
+2.a) Write a note on various kinds of video display devices.
+b) Write boundary filling algorithm.       [8+7]
+3.a) Discuss the stages involved in 2D view transformation pipeline.
+b) Write polygon clipping algorithm.       [8+7]
+4.a) Explain Cohen Sutherland algorithm.
+b) Explain composite transformation for translation, scaling and rotation.  [7+8]
+5.a) Explain 3D viewing in detail.
+b) Derive the transformation matrix for Bezier curve.     [7+8]
+6. Derive the transformation matrix for rotation about an arbitrary axis.    [15]
+7.a)  Explain classification of visibility surface detection algorithms.
+b)   Explain about constant-intensity shading algorithm.     [8+7]
+8.a) Explain about the computer animation languages.
+b) Explain about the key frame system.       [7+8]
+USED PAPER MARCH-2021

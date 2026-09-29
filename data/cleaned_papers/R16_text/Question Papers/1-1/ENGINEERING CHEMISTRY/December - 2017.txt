@@ -1,0 +1,53 @@
+ENGINEERING CHEMISTRY
+question carries 10 marks and may have a, b, c as sub questions.
+PART- A
+1.a) Write various units of hardness and the relationship between them.   [2]
+b) Write short notes on Caustic Embrittlement.      [3]
+c) What is the role of salt bridge in constitution of an electrochemical cell?  [2]
+d) Write down the cell reaction of methanol-oxygen fuel cell and its applications. [3]
+e) What is functionality of a monomer? What is its significance in polymer chemistry?
+[2]
+f) What is tacticity? How polymers are classified based on tacticity of polymers? [3]
+g) Describe the composition and applications of LPG.       [2]
+h) Define Gross and Net calorific values of a fuel and their units.    [3]
+i) What are the characteristics of a good refractory?     [2]
+j) What is viscosity index of a lubricant? Explain.     [3]
+PART-B
+2.a) What is mean by Defluoridation of water? Give an account about Nalgonda technique.
+b) Write a brief note on “Reverse Osmosis”.
+c) Calculate the T otal hardness of a water sample which shows following analysis:
+Ca(HCO3)2 = 4.86 mg/L; Mg(HCO 3)2 = 5.84 mg/L; CaSO 4 = 6.8 mg/L and
+MgSO4 = 8.4 mg/L.                  [4+3+3]
+OR
+3.a)  What are the steps involved in the treatment of Potable water? Explain.
+b) Explain the Ion-Exchange method of purification of hard water.   [6+4]
+4.a) Describe the construction and functioning of Ni -Cd battery with relevant chemical
+reactions involved in the charging and discharging.
+b) What is reference ele ctrode? Explain the constru ction and working principle of calomel
+electrode with a neat diagram.
+c) What is Nernst equation? What are its applications?                 [4+4+2]
+OR
+5.a) Describe the Working principle of lead acid battery with relevan t chemical reactions
+involved during charging and discharging processes.
+b) Write an account on lithium ion batteries.      [5+5]
+6.a) Describe the method s of preparation and Engineering applications of Dacron and Poly
+vinyl chloride.
+b) Write short note on polylactic acid and polyvinyl alcohol.
+c) Give an account on FRP’s.                             [4+4+2]
+OR
+7.a)  Discuss about free radical chain and step -growth polymerization with appropriate
+examples.
+b) Describe the preparation, properties and applications of butyl rubber and thiokol rubber.
+[6+4]
+8.a) Give an account of Ultimate analysis of coal and state its significance.
+b) Write short on cetane rating.              [6+4]
+OR
+9.a) Give an account about production of gasoline from crude oil.
+b) What is cracking? Explain Moving Bed catalytic cracking in detail.            [5+5]
+10.a) Write a short note on flash and fire point of a lubricant.
+b) What is lubrication? Explain boundary lubrication briefly.
+c) What are the advantages of composites?               [5+3+2]
+OR
+11.a)  Write the chemical reactions that are taking place during the setting of cement.
+b) What are extreme pressure additives? Why these additives are used for lubrication.
+c)  What is role of gypsum in the manufacturing of cement?                        [4+3+3]

@@ -1,0 +1,16 @@
+COMPUTER FORENSICS
+(Computer Science and Engineering)
+1.a) Explain the types of Computer Evidence Service.
+b) Discuss the benefits of professional forensics methodology.    [7+8]
+2.a) Explain the rules of collecting electronic evidence.
+b) Explain the step-by-step procedure for the collection of the evidence.  [7+8]
+3. Describe Computer Forensics analysis and validation.    [15]
+4.a) Explain the role of e-mail in investigation.
+b) Explain acquisition procedures for mobile devices.     [7+8]
+5. Explain computer forensics analysis in Microsoft Windows.    [15]
+6.a) Describe the types of law enforcement computer forensic technology.
+b) Explain the various obstacles in backing up applications.    [7+8]
+7.a) Explain the computer evidence processing steps.
+b) Explain how authenticode works with VeriSign digital ids.    [7+8]
+8.a) Describe processing law enforcement crime scenes.
+b) Explain seizing and storing digital evidence at the scene.    [7+8]

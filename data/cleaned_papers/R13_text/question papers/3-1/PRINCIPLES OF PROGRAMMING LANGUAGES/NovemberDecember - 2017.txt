@@ -1,0 +1,46 @@
+PRINCIPLES OF PROGRAMMING LANGUAGES
+(Computer Science and Engineering)
+10 marks and may have a, b, c as sub questions.
+PART - A
+1.a) List the principal phases of compilation.      [2]
+b) Explain the features of denotational semantics.     [3]
+c) Explain about guarded commands.       [2]
+d) Differentiate between user defined and primitive data types with an example. [3]
+e) Explain about the local referencing environments.     [2]
+f) Explain the design issues for functions.      [3]
+g) Explain the parts of smalltalk class.       [2]
+h) Distinguish between Competitive Synchronization and Cooperation synchronization.
+[3]
+i) What is the type inferencing used in ML.      [2]
+j) What are the applications of functional programming languages.   [3]
+PART - B
+2.a) Distinguish between ambiguous grammer and attribute grammar with an example.
+b)  Construct the parse tree for the simple statement.     [5+5]
+A := B * (A + C)
+OR
+3.a)  Explain about the preconditions and postconditions of a given statement mean in
+axiomatic semantics.
+b)  Describe the important factors influencing the writability of a language.  [5+5]
+4.a)  Describe about the pointers in FORTRAN 90, Ada, pascal with an example.
+b)  Write the syntax and semantic rule of an  attribute grammer for simple assignment
+statements.          [5+5]
+OR
+5.a)  Explain about the control structures with an example.
+b)  Explain the different types of Union with an example.    [5+5]
+6. Explain the different parameter passing methods with an example.     [10]
+OR
+7.a)  What is an overloaded subprogram explain with an example.
+b)  What are the characteristics of co -routine feature? List the languages which allow
+coroutines.          [5+5]
+used paper 29-11-2017
+8.a)  What is semaphore. Explain the different types of semaphores.
+b)  Explain the design issues of an exception handling system.    [5+5]
+OR
+9.a)  Explain about the data abstraction for SIMULA 67.
+b)  Explain how to handle the exceptions in C++.     [5+5]
+10.a)  Write a function that computes the sum of numbers using vectors in LISP.
+b)  Explain the different types of data types used in Python.    [5+5]
+OR
+11.a)  Explain how to handle exceptions in Java with an example.
+b)  Explain about the fundamentals of functional programming  languages.  [5+5]
+used paper 29-11-2017

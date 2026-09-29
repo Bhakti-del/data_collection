@@ -1,0 +1,11 @@
+BIG DATA ANALYTICS
+(Computer Science and Engineering)
+1.a) Give an overview of various sources of data
+b) What are the properties of big data?       [8+7]
+2. Write short notes on AWS cloud.       [15]
+3. How Hadoop streaming is suitable with text processing explain?   [15]
+4. Discuss administering Hadoop with its checking point process diagram.  [15]
+5. Explain how E-Commerce is Using Big Data to Improve Business?   [15]
+6. Define Z-Score, explain how z-score detects outliers.    [15]
+7. Explain decision trees with example.       [15]
+8. Define visualization. Discuss the methods to prepare the data for visualization.  [15]

@@ -1,0 +1,30 @@
+RENEWABLE ENERGY SOURCES
+1.a)  With neat and necessary diagram , explain the working principle of Multiple -Blade
+Turbines.
+b)  Discuss in detail about demand side Management Optio ns of renewable energy
+systems.          [8+7]
+2.a) Classify different types of winds and their effects  of the Wind on Nature.
+b)  Derive the expression for wind power per swept area is equal to  0.25V3.   [8+7]
+3.a)  Along with the constructional features, explain principle of operation of Solid Oxide
+Fuel Cell.
+b)  Write short notes on Practical determination of the equivalent model parameters of fuel
+cells.           [8+7]
+4.a)  Discuss in detail about the practical issues related to Fuel Cell Stacking.
+b)  Draw the Equivalent model of a PV panel with identical cells in series and discuss.
+[8+7]
+5.a)  Explain the principle of operation of Induction Generator.
+b)  Write short notes on the mathematical description of the self-excitation process of IG.
+[8+7]
+6. Discuss about the following Speed and Voltage Control of Induction Generators:
+a) Variable-Speed Grid Connection
+b) Control by the Load Versus Control by the Source.    [7+8]
+7.a)  With neat diagram, explain the Constructional Features of the Lead–Acid Batteries and
+Battery Charge–Discharge Cycles.
+b)  Discuss in detail about Double -Layer Ultra capacitors  and High -Energy Ultra
+capacitors.          [7+8]
+8.a)  Draw the Interconnection system, functional schematic diagram of multiple RES and
+explain in detail about each component in it.
+b)  Discuss about the issues that should be examined to ensure that the area electrical
+power system and alternative energy systems integrate in a safe and reliable manner.
+[8+7]
+---oo0oo---
