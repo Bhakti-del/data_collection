@@ -1,0 +1,75 @@
+Code No: 155AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, January/February - 2023 
+ADVANCED OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+     and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)  What is a distributed operating system?      [2] 
+   b)  List the advantages and disadvantages of distributed operating systems.  [3] 
+   c)  What is meant by data migration?       [2] 
+   d)  Write a short note on distributed mutual exclusion.     [3] 
+   e)  What is distributed deadlock?        [2] 
+   f)  Discuss the various issues of deadlock detection in the distributed systems.  [3] 
+   g)  What is multiprocessor?        [2] 
+   h)  What is the difference between process and thread?     [3] 
+   i)  List the advantages of using distributed shared memory.    [2] 
+   j)  Write the key issues in task migration.      [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a)  With a neat sketch, explain workstation-server model.     
+   b)  Differentiate between blocking and non-blocking primitives.   [6+4] 
+OR 
+3.a)  Describe the issues in distributed operating systems.      
+   b)  Write short notes on RPC.        [5+5] 
+  
+4.  Write the Ricart-Agrawala algorithm and illustrate with an example.    [10] 
+OR 
+5.  Write Raymond’s Heuristic algorithm and illustrate with an example.    [10] 
+ 
+6.  Classify the various hierarchical deadlock detection algorithms and briefly explain 
+them.             [10] 
+OR 
+7.  Classify the various centralized deadlock detection algorithms and briefly explain them.
+             [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+ 
+8.a)  Mention and brief the various design issues of distributed file systems.   
+   b)  Draw and briefly explain architecture for distributed file systems.   [5+5] 
+OR 
+9.a)  Describe the structure of multiprocessor operating system.     
+   b)  Give a brief summary on process synchronization.     [5+5] 
+ 
+10.  Explain the following terms: 
+      a) Architecture of a distributed shared memory 
+      b) Requirements for load distributing.      [5+5] 
+OR 
+11.a)  Discuss the design issues of distributed shared memory.     
+     b)  Write migration algorithm for implementing distributed shared memory.  [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

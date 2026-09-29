@@ -1,0 +1,92 @@
+Code No: 151AF 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, March/April - 2023 
+  CHEMISTRY  
+(Common to EEE, CSE, IT, CSIT, ITE, CE(SE), CSE(CS), CSE(DS), CSE(N), CSD) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 mar ks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define the term ligand. Give examples.                                                           [2]         
+   b)      Calculate the bond order N2.        [3] 
+   c)      What is calgon conditioning? Write the reaction involved.    [2] 
+   d)      How many grams of FeSO4 dissolved per litre gives 210.5 ppm of hardness. [3] 
+   e)      Give two factors affecting the rate of corrosion.     [2] 
+   f)      What is electro less plating? Explain briefly.      [3]       
+   g)      How is aspirin synthesized? Write its applications.     [2]       
+   h)     What is  optical activity? Write the number of E nantiomers possible for L actic Acid.
+            [3] 
+   i)     What is the role of TMS(Tetramethylsilane) in NMR spectroscopy?  [2] 
+   j)     Methane does not absorb IR radiations. Why?     [3] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  Explain the crystal field splitting of d-orbital’s in Square planar complexes. 
+   b) Draw and explain the 𝜋 − molecular orbital’s of Benzene molecule.  [5+5] 
+OR 
+3.a) What is Crystal Field Theory? Write the salient features of CFT. 
+b)   Discuss the crystal field splitting of d-orbital’s in tetrahedral complexe.  [5+5] 
+  
+4.a) Write the causes and effects and preventive methods for caustic Embrittlement in                 
+boiler feed water. 
+b) Write the principle involved in Reverse osmosis? Explain the desalination of Brackish               
+water by Reverse Osmosis method.        [5+5] 
+OR 
+5.a)  What are the specification of Potable water ? Write two methods of d isinfection of 
+Drinking water. 
+   b) A water sample on analysis gave the following data. 
+           CaSO4 = 60 mg/l,   Mg (HCO3)2 = 74 mg/l, CaCl2 = 24 mg/l, NaCl = 5mg/l, MgCl2=     
+           20mg/l. Calculate Temporary, Permanent and Total hardness in degree Clark units. 
+            [5+5]
+  
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+ 
+6.a)  Explain with a neat diagram the construction and working of Calomel electrode. 
+b)  What is cathodic  protection? Discuss the sacrificial anodic method of protection of               
+metals.           [5+5] 
+OR 
+7.a)   Describe the construction and working of Lithium ion battery. 
+b)    Write the mechanism of electrochemical corrosion by taking the example r usting of 
+iron.           [5+5] 
+ 
+8.a) Explain the terms : Geometrical isomerism and Diastereomers with examples. 
+   b) Discuss the mechanism of Markownikoff and anti Markownikoff’s addition reaction of     
+            HBr to propene.         [5+5] 
+ OR 
+9.a) What is Grignard reagent? Discuss the mechanism of addition of Grignard reagent to              
+on carbonyl compounds. 
+   b)  Discuss the reduction of carbonyl compounds by using LiAlH4 and NaBH4 reagents.
+            [5+5] 
+ 
+10.a)  Write the principle of UV -Visible spectroscopy. What type of compounds absorb             
+UV- radiations? Give examples. 
+     b)   Write the stretching frequencies of the following functional groups in IR spectroscopy. 
+          i) R-CHO       ii) R-CH2NH2                iii) R--OH       [5+5] 
+OR 
+11.a)   How do you distin guish the following compounds, cis-stilbene and Trans stilbene                
+   Compounds by UV spectroscopy: 
+     b)  Write the principle of H 1NMR spectroscopy. Write the important application of NMR 
+spectroscopy.          [5+5] 
+ 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+JNTUH Used papers 2023
+

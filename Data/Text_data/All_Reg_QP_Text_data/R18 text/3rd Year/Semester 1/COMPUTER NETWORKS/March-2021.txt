@@ -1,0 +1,44 @@
+Code No: 155AN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2021 
+COMPUTER NETWORKS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Explain the functionality of each layer in OSI reference model.     
+   b)  Discuss about Internet standards.        [8+7] 
+ 
+2.a)  Explain about various transmission media in physical layer with a neat sketch.   
+   b)  What are the responsibilities of Presentation layer and Session layer of OSI model?
+            [8+7]   
+ 
+3.a)  Write about CSMA and CSMA/CD in detail.       
+   b)  Explain how slotted ALOHA solves the problem of Channel allocation.   [8+7] 
+ 
+4.a)  What are the design issues of Data Link Layer? Explain.      
+   b)  Explain in detail about the Simplex Stop and Wait protocol.    [8+7] 
+ 
+5.a)  Describe the General principles of Congestion Control.      
+b)  The major problem with distance vector algorithm is ‘ count to infinity’. How exchange    
+of complete path from router to destination instead of delay, helps in solving count to 
+infinity problem.          [8+7] 
+ 
+6.a) Explain about Hierarchical routing algorithm. 
+   b) Explain about QoS in Network layer.       [7+8]
+   
+7.a)  Explain in brief about TCP connection establishment and Release.     
+   b)  Describe in brief about TCP segment Header.      [8+7] 
+ 
+8.a)  Write short notes on Electronic Mail.       
+   b)  How DNS service maps domain names to IP addresses? Give an example.  [8+7]
+  
+ 
+ 
+---ooOoo--- 
+ R18 
+15-03-2021 AM
+USED PAPER MARCH-2021
+

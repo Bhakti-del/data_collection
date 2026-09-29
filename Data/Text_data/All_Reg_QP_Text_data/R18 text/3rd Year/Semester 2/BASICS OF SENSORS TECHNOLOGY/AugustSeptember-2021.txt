@@ -1,0 +1,33 @@
+Code No: 156DK 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August/September - 2021 
+ BASICS OF SENSORS TECHNOLOGY 
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - -  
+ 
+1.  Explain how Eddy current sensors are used for analog determination of distance and/or 
+position of electrically conductive objects.      [15] 
+  
+2. Discuss in detail about the working of resistance strain gauge.   [15] 
+    
+3. Explain in detail about practical thermocouple laws.     [15] 
+  
+4. What is piezoelectric? Explain in detail about the working of piezoelectric sensor with 
+its equivalent circuit.         [15] 
+    
+5. Explain how to measure rotational velocity using stroboscopic methods.  [15] 
+  
+6.  Explain the method of density measurement using Strain gauge load cell.  [15] 
+   
+7. Explain different methods of measuring consistency.    [15] 
+ 
+8.  Explain in detail about the interfacing of pressure sensor.        [15] 
+  
+ 
+ 
+---ooOoo--- 
+ R18 USED PAPERSAUG/SEP-2021
+

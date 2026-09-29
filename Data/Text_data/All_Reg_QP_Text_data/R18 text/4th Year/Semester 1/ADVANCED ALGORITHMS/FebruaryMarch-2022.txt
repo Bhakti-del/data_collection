@@ -1,0 +1,44 @@
+Code No: 157AC 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+ADVANCED ALGORITHMS         
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer Any Five Questions 
+All Questions carry equal marks 
+- - - 
+ 
+1.a) Write an algorithm of OBST. 
+   b) Derive the time complexity of quick sort in an average case.   [7+8] 
+    
+2.a) What is the running time of HEAPSORT on an array A of length n that is already sorted in 
+increasing order? What about decreasing order? 
+   b)  Use the substitution method to solve the following recurrence relation T(n) = 3T(n/2)+n. 
+            [8+7] 
+  
+3.a) Write an algorithm of Activity selection algorithm. 
+   b) Explain about Topological sorting.       [8+7] 
+ 
+4.a) State and explain Prim’s algorithm with an example.     
+   b) Write an algorithm of single source shortest path.     [8+7] 
+ 
+5.a) Illustrate the zero-one principle  with an example. Prove that an n-input sorting network  
+must cont ain at least one comparator between the ith and ( i + 1 ) st lines for all                           
+i = 1, 2, . . . , n - 1.           
+   b) Explain about Comparision Network.      [7+8] 
+ 
+6.a) Derive the strassen’s matrix multiplication. 
+   b) Explain the applications of merging networks.     [10+5]   
+ 
+7. Write an algorithm of Rabin-Karp and also illustrate with an example.  [15] 
+ 
+8.a) What is the vertex-cover problem ? Give  an example of a graph for which APPROX -
+VERTEX-COVER always yields a suboptimal solution. 
+b) Illustrate an Algorithm tha t computes the traveling -salesman problem with triangle 
+inequality.          [8+7] 
+ 
+ 
+---ooOoo--- 
+ R18 
+JNTUH Used Papers Feb 2022
+

@@ -1,0 +1,67 @@
+Code No: 157AC 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+ADVANCED ALGORITHMS         
+(Computer Science and Engineering) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Show the outcome of different passes for sorting the following sequence of data using quick sort 
+algorithm choose the first element as pivot. 8, 11, 3, 15, 6, 9, 12, 39.    
+   b) What is dynamic programming ? How can you solve the problem  of matrix  chain 
+multiplication using dynamic programming explains in detail with example? [7+8] 
+ 
+2.a) Solve the following recurrence relation to give a tight upper bound using substitution 
+method. 
+ T(n) = 4T(n/2)+n           
+    b) Determine Longest Common Subsequence (LCS) for input Sequences “ABCDGH” and 
+“AEDFHR” using Dynamic programming .                [7+8] 
+ 
+3.a) We have a set of n jobs to execute, each of which takes unit time. At a  y time T = 1, 2…., 
+we can execute exactly one  jobs. Job i earns us a profit gi  0 if and only if it  is executed 
+not later than the time d1. Develop a greedy algorithm to solve the above problem . Run your 
+algorithm for n=4 and the following values:-  
+     
+i 1 2 3 4 
+gi 50 10 15 30 
+di 2 2 1 2 7 
+    b) Discuss about the algorithm and pseudo code to find minimum spanning tree using  Prim’s 
+algorithm?          [8+7] 
+ 
+4.a) What is an optimal Huffman code for the following set of frequencies, based on the first 8 
+Fibonacci numbers? a:1 b:1 c:2 d:3 e:5 f:8 g:13 h:21     
+   b) Solve the following instance of the single source shortest path problem with vertex ‘a’ as the 
+source.            [7+8] 
+ 
+5.a) Explain in detail about Bitonic Sorting Network?      
+   b) Explain in detail the implementation of Strassen' s Matrix Multiplication with an example?
+            [7+8] 
+ 
+ R18 
+JNTUH Used Papers
+
+6.a) Let n be an exact power of 2. Show how to construct an  n-input, n-output comparison 
+network of depth lg  n in which the top output wire always carries the minimum input value 
+and the bottom output wire always carries the maximum input value.    
+   b) Illustrate LUP-Decomposition in detail?      [8+7] 
+ 
+7.a) Show the comparisons the naive string matcher makes for the pattern  P = 0001 in the 
+text T = 000010001010001         
+   b) Construct the stri ng-matching automat ion for the pattern  P = aabab and illustrate its 
+operation on the text string T = aaababaabaababaab.      [7+8] 
+ 
+8.a) Show that an algorithm that makes at most a constant number of calls to polynomial -time 
+subroutines runs in polynomial t ime, but that a polynomial number of calls to polynomial -
+time subroutines may result in an exponential-time algorithm justify?   
+   b) Professor Nixon proposes the following heuristic to solve the vertex -cover problem. 
+Repeatedly select a vertex of highest  degree, and remove all of its incident edges. Give an 
+example to show that the professor's heuristic does not have a ratio bound of 2.      
+            [7+8] 
+ 
+ 
+ 
+---oo0oo--- 
+JNTUH Used Papers
+

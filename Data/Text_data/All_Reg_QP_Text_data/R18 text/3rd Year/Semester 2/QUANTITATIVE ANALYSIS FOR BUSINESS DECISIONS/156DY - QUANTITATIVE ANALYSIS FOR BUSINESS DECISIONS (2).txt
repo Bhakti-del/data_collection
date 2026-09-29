@@ -1,0 +1,96 @@
+ 
+ 
+Code No: 156DY                                
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August - 2022 
+QUANTITATIVE ANALYSIS FOR BUSINESS DECISIONS 
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Elaborate on the various techniques for solving problems in Operations Research.   
+   b) Describe the nature and scope of OR.                                      [10+5] 
+                                                                                                                   
+2.a) Ampere Electric Company produces two products P1 and P2.  Products are produced and 
+sold on a weekly basis. The weekly production cannot exc eed 25 for product P 1 and 35 
+for product P2 because of limited available facilities. The company employs total of 60 
+workers. Product P1  requires 2 man -weeks of labour, while P 2 requires one man week 
+of labour. Profit margin on P 1 is Rs.60 and on P 2 is Rs. 40. Formulate a linear 
+programming problem with the above information and solve for maximum profit 
+graphically.                                                                     
+   b) Explain duality principle with an illustration.              [10+5] 
+ 
+3.a)  A firm manufacturing a single product has three plants I, II and III. They have produced 
+60, 35 and 40 units respectively during this month. The firm had made a commitment to 
+sell 22 units to customer A,45 units to customer B, 20 units to customer C,  18 units to 
+customer D and 30 units to customer E. Find the minimum possible transportation cost 
+of shifting the manufactured product to the five customers. The net unit cost of 
+transporting from the three plants to the five customers is given below:   
+Plant 
+ 
+ Customer A B C D 
+I 4 1 3 4 
+II 2 3 2 3 
+III 3 5 2 4 
+   b) Write brief on application of transportation on model in OR.            [10+5] 
+                                                                                               
+4.a)  A depar tmental head has four subordinates and four tasks to be performed. The 
+subordinates differ in efficiency and the tasks differ in their intrinsic difficulty. His 
+estimates of the times that each man would take to perform each task is given below in 
+the matrix:  
+                                                                     Tasks 
+                                      I                                II                      III                          IV 
+Subordinates  A                    8 26 17 11 
+                       B  13 28  4 26 
+                       C 38 19 18 15 
+                       D 19 26 24 10 
+    
+How should the tasks be allocated to subordinates so as to minimize the total hours? 
+  b) Examine the importance of assignment model in OR.                                            [10+5] 
+  
+ R18 
+jntuh used paperaug-2022
+
+ 
+ 
+ 
+ 
+ 
+5.a) What is group replacement policy? Explain the rule s governing group replacement 
+policy.                                   
+   b) What are situations which make the replacement of items necessary?   [9+6] 
+ 
+6.a) A manual stamper currently valued at Rs.1000 is expected to last two years and costs 
+Rs.4000 per year to operate. An automatic stamper which can be purchased at Rs.3000 
+will last four years and can be operated at an annual cost of Rs.3000. If  money carries a 
+rate of interest of 10 per cent per annum, determine which stamper should be 
+purchased.          
+   b) How do you describe the need of group replacement of low-cost items?           [10+5] 
+ 
+7.   Solve the following 3 × 5 game using dominance property.      [15] 
+ 
+Player A 
+strategy 
+                                         Player   B strategy      
+ 1 2 3 4 5 
+I 6 15 30 21 6 
+II 3 3 6 6 4 
+III 12 12 24 36 3 
+                                                                                                 
+8. A repair shop attended by a single mechanic has an average of four customers an hour 
+who bring small appliances for repair. The mechanic inspects them for defects and 
+takes six minutes on an average. Arrivals are Poisson and service rate has  the 
+exponential distribution. You are required to  
+a) Find the proportion of time during which there is no customer in the shop. 
+b) Find the probability of finding at least one customer in the shop. 
+c) What is the average number of customers in the system? 
+d) Find the average time a customer spent by a customer in the shop including service.                                                                      
+              [15]  
+  
+ 
+        
+---oo0oo--- 
+jntuh used paperaug-2022
+

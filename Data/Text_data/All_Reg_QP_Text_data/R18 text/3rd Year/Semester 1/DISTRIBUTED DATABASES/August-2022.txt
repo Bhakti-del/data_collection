@@ -1,0 +1,46 @@
+ 
+Code No: 155AY 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August - 2022 
+DISTRIBUTED DATABASES 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Define Distributed DBMS? Discuss problem areas in DDBS environment. 
+   b)  What is transparency in DDBMS? Explain Layers of transparency in DDBMS. [8+7] 
+ 
+2.a)  Explain Client Server architecture for Distributed DBMS. 
+   b)  What is allocation? List and explain the information requirements during allocation.
+           [8+7] 
+ 
+3.a)  Draw and explain query processing in centralized system. 
+   b)  Write a short note on Phases of Distributed Query Processing.   [8+7] 
+ 
+4.a)  Explain objectives of Query Processing. 
+   b)  Discuss Query Optimization in brief.       [6+9] 
+ 
+5.a)  Explain View management. How it is carried out in centralized and distributed DBMS? 
+   b)  Define a transaction. Discuss the ACID properties of a transaction.   [7+8] 
+ 
+6.a)  Compare locking -based and timestamp -based concurrency control protocols with the 
+help of examples. 
+   b) Explain serializable schedules with the help of example.    [8+7] 
+ 
+7.a)  What are parallel execution problems? Explain. 
+   b)  Explain the reliability concept and majors.      [8+7] 
+ 
+8.a)  Write short notes on object migration. 
+   b)  Describe in detail cache consistency and object identifier management in object              
+management.          [6+9] 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ R18 
+jntuh used paper aug-2022
+

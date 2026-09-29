@@ -1,0 +1,40 @@
+Code No: 157AW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+CLOUD COMPUTING        
+(Common to CSE, IT) 
+Time: 3 Hours                            Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.  In detail, explain the following computing paradigms 
+a) Mobile Computing 
+b) Cluster Computing.         [7+8] 
+  
+2.a) Explain the need and features of cloud computing. 
+   b)  Enumerate the differences between nano computing and optical computing. [8+7] 
+  
+3.a)  Explain cloud computing with perspective as a platform. 
+   b)  Discuss about the four cloud deployment models.     [7+8] 
+  
+4.a)  Explain the principles of cloud computing. 
+   b)  Explain the service-platform-infrastructure (SPI) model of the cloud.  [7+8] 
+ 
+5. With a neat diagram, explain the components in the anatomy of the cloud.  [15] 
+    
+6.a) Explain the different phases of cloud migration.  
+   b)  Discuss about network connectivity in cloud computing.    [8+7] 
+  
+7.a)  What is Software-as-a-Service (SaaS)? Explain the characteristics of SaaS. 
+   b)  Explain the pros and cons of IaaS.       [8+7] 
+  
+8. Write Short notes on: 
+a) SAP HANA Cloud Platform 
+b) VMware.           [7+8] 
+  
+ 
+ 
+---ooOoo--- 
+ R18 JNTUH Used Papers Feb 2022
+

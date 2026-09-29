@@ -1,0 +1,40 @@
+Code No: 153AB  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, October - 2020 
+ANALOG AND DIGITAL ELECTRONICS  
+(Common to CSE, IT) 
+Time: 2 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Define Diffusion capacitance? Also derive the expression for CD? 
+   b) Draw and explain the V-I characteristics of a tunnel diode?    [8+7] 
+ 
+2.a) What is LED? Explain the construction of LED in brief? 
+   b) Explain the working of a full wave rectifier with necessary waveforms?  [7+8] 
+  
+3.a)  Explain the input and output characteristics of common base configuration. 
+   b)  Explain thermal run away and thermal stability.     [8+7] 
+ 
+4. Analyse CE-CE amplifier interms of gains and Impedances.    [15] 
+ 
+5.a)  Draw and explain the CS amplifier with current source load. 
+   b)  Explain the small signal MOSFET circuit model.     [8+7] 
+ 
+6.a)  Explain ECL gate and write the advantages and disadvantages. 
+   b)  Draw CMOS NOT gate and then explain the same.     [8+7] 
+ 
+7. Simplify the following Boolean function using Quine – McClusky method. 
+  F(A, B, C, D) = ⅀ m (0, 2, 3, 6, 7, 8, 10, 12, 13)    [15] 
+ 
+8.a)  What is state assignment? Explain with a suitable example? 
+   b) Realize D and T flip flops using Jk flip flops.     [8+7] 
+  
+ 
+ 
+---ooOoo--- 
+R18 
+ 
+JNTUH USED 12-10-2020 AM
+

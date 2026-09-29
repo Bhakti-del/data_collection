@@ -1,0 +1,43 @@
+Code No: 155BV 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+INFORMATION RETRIEVAL SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+---- 
+  
+1.a) List and explain the Data Warehouses.   
+b) Discuss the relationship between information retrival systems and  database 
+management systems.         [7+8] 
+ 
+2.a) Difference between the concep t of a “Digital Library” and an Information Retrieval 
+System.  
+   b) Give a brief note on Browse Capabilities.      [8+7] 
+   
+3. List and explain the various search algorithms on the PAT tree.     [15] 
+ 
+4.a) With the help of a neat diagram, explain the Hidden Markov Models.  
+b) Explain the similarities between term stemming algorithms and n -grams. Describe how 
+they affect precision and recall.       [7+8] 
+   
+5. What is automatic indexing? List and explain the various types of automatic indexing.
+              [15] 
+ 
+6. Discuss the hypertext linkages and natural languages.       [15] 
+  
+7. Explain the Selective Dissemination of Information Search.      [15] 
+ 
+8.a) Illustrate the Software Text Search Algorithms.  
+   b) Give a brief note on Hardware Text Search Systems.    [7+8] 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+ R18 
+USED PAPERSSEP-2021
+

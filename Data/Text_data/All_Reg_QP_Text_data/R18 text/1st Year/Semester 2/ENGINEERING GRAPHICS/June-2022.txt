@@ -1,0 +1,72 @@
+ 
+ 
+ 
+Code No: 152AG       
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, June - 2022  
+ ENGINEERING GRAPHICS 
+(Computer Science and Engineering) 
+Time: 3 Hours                                   Max. Marks: 75 
+Answer any three questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Draw a parabola if the distance of the focus from the directrix is 60 mm.   
+   b) A circle of diameter 40  mm rolls inside another circle of radius 60 mm. Draw 
+the hypocycloid traced by a point on the rolling circle initially in contact with the 
+directing circle for one revolution.                [10+15] 
+ 
+2.a) A line AB, 50 mm long, has its end A at 40 mm above the HP and 20 mm in front of 
+the VP. The end B is closer to the HP but away from the VP. Draw the projections of the 
+line if it is inclined to the HP at 300 and to the VP at 450.     
+   b) A rectangle ABCD of size 30 mm × 20 mm is inclined to the HP at 30 0. Its shorter side 
+AB is parallel  to the HP and inclined at 45 0 to the VP. Draw the projections of the 
+rectangle.                   [10+15] 
+ 
+3.a) A triangular prism, 40 mm side of base and 60 mm length of axis, has its axis 
+perpendicular to the VP. Draw the projections if one of the recta ngular faces is parallel to 
+the HP and 20 mm above the HP.        
+   b) A cone of base 60 mm diameter and height 80 mm is resting on a point on the  
+circumference of base on the HP with its apex 55 mm above the HP. Draw its projections 
+if its axis is inclined at 450 to the VP.                 [10+15] 
+    
+4. A vertical square prism with a 60 mm base side and an 80 mm axis length, is 
+completely penetrated by a horizontal square prism with a 40 mm side base and a  
+100 mm axis length such that their  axes bisect each other. The faces of both the prisms 
+are equally inclined to the VP. Draw the three views of the solids showing LOI.     [25] 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contd… 
+ 
+R18 
+JNTUH Used Papers June 22
+
+ 
+ 
+5. Draw (a) Front view ( b) Top view and ( c) side view of the isometric view given in the 
+figure 1 (All dimensions are in mm).            [25] 
+ 
+Figure 1 
+ 
+6. Figure 2 below shows the FV and T V of the object. Draw its isometric view.  (All 
+dimensions are in mm).              [25] 
+ 
+ 
+Figure 2 
+--ooOoo-- 
+JNTUH Used Papers June 22
+

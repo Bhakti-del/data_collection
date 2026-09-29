@@ -1,0 +1,114 @@
+Code No: 156DV  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+INDUSTRIAL MANAGEMENT 
+(Common to CE, EEE, ME, ECE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+(25 Marks) 
+ 
+1.a)  What is scientific management?       [2] 
+b)  Elaborate on the evolution of management thought and its relevance in today’s scenario 
+in brief.          [3] 
+   c)  Are virtual and boundary-less organization structures the same? Comment.  [2] 
+   d)  Define organization as a structure. Why is it important? Explain in brief.  [3] 
+   e)  What are the objectives of good layout?      [2] 
+   f)  What is value analysis? Explain the different stages in value analysis.  [3] 
+   g)  Define work sampling with an example.      [2] 
+   h)  What types of control charts are required to control the processes in real world 
+situations?          [3] 
+   i)  What is the purpose of job evaluation? State its benefits.    [2] 
+   j)  Discuss the tools and techniques of project management.    [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a)  Discuss the nature, importance and characteristics of Management. 
+   b)  What is leadership? What are the various leadership styles? Explain in brief. [5+5] 
+OR 
+3.a)  Illustrate the social responsibility of management towards different organizations. 
+   b)  Discuss Douglas McGregor’s Theory X and Theory Y in detail.   [5+5] 
+  
+4.a)  Write an essay on the types of organization structures. 
+   b)  A steel manufacturing company has the following main jobs 
+i) Manufacturing ii) Finance iii) Marketing  iv) Personnel 
+v) Research and development 
+Which type of organizational structure will you choose for this type of a company and 
+why? Explain the concept of that organization and state any four advantages of it. [5+5] 
+OR 
+5.a)  Discuss about lean and flat organization structure. State its merits and applications. 
+   b)  Explain in brief i) Line and staff organization ii) Virtual Organization.  [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+6.a)  Briefly explain the Alfred weber’s plant location theory. 
+b)  What facilities would influence (both favorable and unfavorable) the location decisions 
+in the case of the following: i) city/urban sites, ii) sub -urban sites, and                                
+iii) rural/countryside sites.        [5+5] 
+OR 
+7.a)  Explain FAST diagram. Enumerate the advantages with examples. 
+   b)  Discuss the steps of RPW method for line balancing.    [5+5] 
+  
+8.a)  Explain, how use of work study leads to higher productivity in a manufacturing unit. 
+b)  Why the job is divided into elements? State the general rules to be followed while 
+breaking the job into elements.       [5+5] 
+OR 
+9.a)  Write a short note on acceptance sampling plans. 
+b)  A manufacturer receives large batches of components daily and dec ides to institute an 
+acceptance sampling scheme. Three possible plans are considered, each of which 
+requires a sample of 30 components to be tested: 
+Plan A: Accept the batch if no non-conforming components are found, otherwise reject. 
+Plan B: Accept the ba tch if not more than one non -conforming components are found, 
+otherwise reject. Find:  
+i) For each plan, calculate the probability of accepting a batch containing 2% and 8% 
+non-conforming. 
+ii) Sketch the operating characteristic curve of each plan on the same axes.  [4+6] 
+ 
+10.a)  With a suitable case study, explain the factor comparison method. Also state its 
+advantages and disadvantages. 
+     b)  Distinguish between factor comparison method and point method in job evaluation.
+             [5+5] 
+OR 
+11.a)  What is PERT? Define optimistic time, pessimistic time and most likely time.  
+b)  In a transmission line project, the normal estimate and the 'crash' estimate are as given 
+below: 
+Activity 
+Normal Estimate Crash Estimate 
+Time 
+(Weeks) 
+Direct cost for the 
+activity (Rs. lakhs) 
+Time 
+(Weeks) 
+Direct cost for the 
+activity (Rs. lakhs) 
+1-2 12 1 9 2.5 
+2-3 4 -- 3 0.4 
+2-4 20 -- 20 -- 
+3-5 20 5 14 6.5 
+3-6 8 -- 4 0.2 
+3-7 8 -- 4 0.2 
+4-7 8 0.5 4 1.0 
+6-7 8 0.4 5 1.0 
+7-8 12 3 9 4.0 
+8-9 4 0.1 1 0.5 
+Indirect costs: Rs. 35,000 per week 
+i) Draw the project network. Find out the critical path and its duration. 
+ii) Calculate the cost slope of various activities. 
+iii) Crash the project to 43 weeks and calculate the total cost.   [3+7] 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

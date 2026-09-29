@@ -1,0 +1,45 @@
+Code No: 157DJ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+REAL TIME SYSTEMS          
+(Common to CSE, IT) 
+Time: 3 Hours                            Max. Marks: 75 
+Answer Any Five Questions   
+All Questions carry equal marks 
+- - - 
+ 
+ 
+1.a) Give the correct syntax of read() and write() system calls and explain.  
+b) Write a C program to copy the content of one file to another file using relevant system 
+calls.            [7+8] 
+  
+2.a) Discuss the various status flags and file modes associated with an open( ) and  creat( ) 
+system calls.  
+   b) Write the syntax of exec() family of system calls and explain any two of them.  [7+8] 
+ 
+3.a)  How the priority based preemptive based scheduling is different from the round -robin 
+scheduling? Explain briefly.  
+b) Give a detail note on various parameters, states and data structures associated with a task 
+in ROTS.           [7+8] 
+  
+4.a) Describe the key characteristics of an Real Time Operating System.  
+   b) What is a Message Queue? Explain various message queue operations.   [7+8]  
+ 
+5.a) Explain various operations that can be performed on a pipe.  
+b) What is an event register? List and give the description of various entries in event  control 
+block.            [7+8] 
+  
+6.a) Give a detail note on file-system component and remote procedure call component.  
+   b) Explain briefly about Port-Mapped I/O, Memory-Mapped I/O and DMA.   [7+8] 
+ 
+7.a) State the need of Programmable Interval Timer. Explain the steps in servicing the timer 
+ interrupt.  
+   b)  Describe the model for implementing a soft timer handling facility.   [7+8] 
+ 
+8. How to schedule tasks in MicroC/OS-II? Explain in detail with an illustration.  [15]   
+ 
+ 
+---ooOoo--- 
+ R18 
+JNTUH Used Papers Feb 2022
+

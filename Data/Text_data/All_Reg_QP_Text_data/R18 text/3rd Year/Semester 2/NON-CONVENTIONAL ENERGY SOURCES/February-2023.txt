@@ -1,0 +1,82 @@
+ 
+Code No: 156DX     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+NON-CONVENTIONAL ENERGY SOURCES 
+(Common to CE, EEE, ME, ECE, CSE, IT, MMT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is the function of sunshine recorder?      [2] 
+   b)      Explain the information included in solar radiation data.    [3] 
+   c)      Give the classification of concentrating collectors.     [2] 
+   d)      Explain (i) Peltier effect and (ii) Thomson effect.     [3] 
+   e)      Define latent heat.         [2] 
+   f)      What is solar distillation? Explain.       [3] 
+   g)     Define power coefficient of a wind power.      [2] 
+   h)      What are the factors affecting the nature of wind?     [3] 
+   i)      What are the applications of biogas?       [2] 
+   j)      What are the possible sources of geothermal pollution?    [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.  Explain the procedure of estimating solar radiation on tilted surfaces.     [10] 
+OR 
+3.  Define and explain the following terms:  
+a) Altitude angle  
+b) Incident angle  
+c) Zenith angle  
+d) Solar Azimuth angle  
+e) Hour angle.                                         [10] 
+                                                      
+4.   What are the main components of a flat plate solar collector? Explain the function of 
+each component. State its advantages and disadvantages.       [10]   
+OR 
+5.a)  What is a fuel cell ? Explain the working pri nciple of a fuel cell with respect o H 2 – O2 
+cell. 
+   b)  What are the materials for MHD generators? State the requirements for these materials.  
+                                                                                                                                   [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+6.a)  What are the main applications of solar pond? Explain in brief. 
+   b)  Classify the methods of solar energy storage. Give brief explanation of each one. [5+5] 
+OR 
+7.a)  What is the basic principle of Ocean Thermal Energy Conversion (OTEC)? Explain. 
+   b)  Explain various methods of tidal power generation with neat sketches.    [5+5] 
+ 
+8.  Discuss the design considerations of Horizontal axis windmills.      [10] 
+OR 
+9.a)  Derive the expression for power developed due to wind. 
+b)  Wind at 1 standard atmospheric pressure and 15 0C temperature has a velocity of            
+15 m/s. The turbine has diameter of 125 m and its operating speed is 45 r.p.m at 
+maximum efficiency.  Calculate (i) total power density in the wind stream (ii ) the 
+maximum obtainable power density, assuming η = 40%  (iii) total power produced in 
+KW and (iv) the torque and axial thrust.         [4+6] 
+ 
+10. Explain different types of Bio gas digesters.          [10] 
+OR 
+11.a)  What are the main applications of geothermal energy? Explain in brief. 
+     b)  Give a brief note on prospects of geothermal energy in context to India.   [4+6] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

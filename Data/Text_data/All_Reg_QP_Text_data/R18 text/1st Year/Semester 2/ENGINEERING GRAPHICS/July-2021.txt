@@ -1,0 +1,41 @@
+ 
+ 
+Code No: 152AG       
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year II Semester Examinations, July/ August - 2021 
+ENGINEERING GRAPHICS 
+(Common to CSE, ITE) 
+Time: 3 Hours                                     Max. Marks: 75 
+Answer any three questions 
+All questions carry equal marks 
+- - - 
+1.a) Construct a diagonal scale of RF = 1/32 showing yards, feet and inches and to measure 
+ up to 4 yards.  
+  b) Construct an ellipse when the distance of the focus from the directrix is equal to 80 mm 
+ and eccentricity is 3/5.                 [10+15] 
+ 
+2.  Draw the projections of a line AB, 90 mm long, its midpoint M being 50 mm above the 
+ HP and 40 mm in front of the VP. The end A is 20 mm above the HP and 10 mm in front 
+ of the VP. Find inclinations of the line with the HP and VP.    [25] 
+ 
+3.  A hexagonal pyramid, base 25 mm side and axis 50 mm long, has an edge of its base on 
+ the ground. Its axis is inclined at 30 0 to the ground and parallel to the VP. Draw its 
+ projections.          [25] 
+ 
+4.  A conical shape vertical chimney of 60 m base diameter joins a roof sloping at an angle 
+ of 35 0 with the horizontal. The shortest portion over the roof is 25 m. Determine the 
+ shape of the s heet metal from which the chimne y can be fabricated.  Take appropriate 
+ scale.           [25] 
+ 
+5.  Draw an equilateral triangle of 75 mm side and inscribe a circle in it. Draw the 
+ projections of the figure, when its plane is vertical and inclined at 300 and one of the sides 
+ of the triangle is inclined at 450 to the HP.       [25] 
+ 
+6. Draw the a) Front view   b) Top view of the figure. All dimensions are in mm.     [10+15] 
+ 
+ 
+---ooOoo--- 
+R18 
+JNTUH USed JUL/Aug-21
+JNTUH Used Jul/Aug-21
+

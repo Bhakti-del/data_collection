@@ -1,0 +1,69 @@
+Code No: 156BW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+MOBILE APPLICATION DEVELOPMENT 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define Android Tools.        [2] 
+   b)      How Activity Lifecycle will work.       [3] 
+   c)      Define Android User Interface.       [2] 
+   d)      List UI Components.         [3] 
+   e)      What are Broadcast Receivers?       [2] 
+   f)      Define Intents and Broadcasts.       [3] 
+   g)      How to read data from files?          [2] 
+   h)      Define Persistent Storage.        [3] 
+   i)       How to retrieve the data from table in SQLite?     [2] 
+   j)       How to create table in SQLite database?      [3] 
+ 
+PART – B  
+(50 Marks) 
+  
+2.a) Explain installing and running applications on Android Studio.  
+   b) Analyze the types of Android applications.      [5+5] 
+OR 
+3.a) Classify the resources for different devices and languages. 
+   b) Elaborate Android Application Lifecycle.      [5+5] 
+  
+4. Explain about Linear, Relative, Grid and Table Layouts.      [10]    
+OR 
+5. Explain event handling with some examples.        [10] 
+ 
+6.a) How to launch activities by using intents? Explain in detail. 
+   b) Determine Passing data to Intents.       [5+5] 
+OR 
+7. What do you mean by Android Toasts? How to display Toast in Android? Explain in 
+detail.              [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+8. Explain Persistent Storage using application specific folders and files.  [10] 
+OR 
+9. Explain saving and retrieving data using Shared Preference.    [10] 
+    
+10. How to create SQLite database in Android? Explain with an example.  [10] 
+OR 
+11. What is content provider? How can use content provider in Android? Illustrate with an 
+example.          [10] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

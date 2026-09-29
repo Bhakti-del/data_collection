@@ -1,0 +1,53 @@
+ 
+ 
+Code No: 156CW     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August - 2022 
+SOFTWARE TESTING METHODOLOGIES 
+(Common to CSE, IT) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  To what extent can testing be used to validate that the program is fit for its purpose?                      
+ Discuss and explain various dichotomies. 
+   b)  Explain various consequences of bugs. What are the remedies  for test bugs? Explain.
+            [7+8] 
+ 
+2.a)  State and explain various path selection rules for path testing. 
+   b)  What is the purpose of testing? Discuss the principles of test case design.  [7+8] 
+ 
+3.a)  What are the transaction flows? Explain their complications. 
+   b)  Discuss the following strategies of data flow testing with suitable examples: 
+i) All-predicate-uses (APU) strategy 
+ii) All-computational (ACU) strategy.      [7+8] 
+ 
+4.a)  What is meant by Data -flow testing? Compare the path flow and data-flow testing                    
+ strategies. 
+   b)  What is meant by a nice domain? Give an example for nice two -dimensional domains.
+            [8+7] 
+ 
+5.a)  How can we check the consistency and completeness in the decision tables? Explain. 
+   b)  Define path product, path expression and path sum. Give examples for these. [7+8] 
+ 
+6.a)  Define decision table and explain don’t care and impossible terms. 
+   b)  Explain test case design and sketch KV charts of three and four variables.  [7+8] 
+ 
+7.a)  What are principles of state testing? Explain its advantages and disadvantages. 
+   b)  Differentiate between good state graphs and bad state graphs.   [8+7] 
+ 
+8.a)  Write an algorithm for Node Reduction and illustrate the applications of it. 
+   b)  Define graph matrices and evaluate graph matrix with pictorial graph.  [8+7] 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+ 
+ 
+ R18 
+jntuh used paperaug-2022
+

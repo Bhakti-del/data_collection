@@ -1,0 +1,1229 @@
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+1 
+ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech. I Year COURSE STRUCTURE & SYLLABUS (R18 Regulations) 
+ 
+Common for ECE, EIE (Old Branches) and 
+CSE (AI & ML), CSE (IoT), & ECM – These three Branches are from AY 2020-21.  
+AI and ML, AI & DS – These Two Branches are from AY 2021-22. 
+ 
+ 
+I YEAR I SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1 MA101BS Mathematics – I 3 1 0 4 
+2 AP102BS Applied Physics 3 1 0 4 
+3 CS103ES Programming for Problem Solving   3 1 0 4 
+4 ME104ES Engineering Graphics 1 0 4 3 
+5 AP105BS Applied Physics Lab 0 0 3 1.5 
+6 CS106ES Programming for Problem Solving Lab 0 0 3 1.5 
+7 *MC109ES Environmental Science 3 0 0 0 
+  Induction Programme     
+  Total Credits 13 3 10 18 
+ 
+I YEAR II SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1 MA201BS Mathematics – II 3 1 0 4 
+2 CH202BS Chemistry 3 1 0 4 
+3 EE203ES Basic Electrical Engineering 3 0 0 3 
+4 ME205ES Engineering Workshop 1 0 3 2.5 
+5 EN205HS English 2 0 0 2 
+6 CH206BS Engineering Chemistry Lab 0 0 3 1.5 
+7 EN207HS English Language and Communication Skills Lab 0 0 2 1 
+8 EE208ES Basic Electrical Engineering Lab 0 0 2 1 
+  Total Credits 12 2 10 19 
+ 
+*MC – Mandatory Course – Satisfied/Unsatisfied 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+2 
+ 
+MA101BS: MATHEMATICS - I 
+ 
+B.Tech. I Year I Sem.                                                      L    T    P   C 
+                               3    1    0    4 
+ 
+Course Objectives: To learn 
+ Types of matrices and their properties. 
+ Concept of a rank of the matrix and applying this concept to know the consistency and solving 
+the system of linear equations. 
+ Concept of Eigen values and eigenvectors and to reduce the quadratic form to canonical form. 
+ Concept of Sequence. 
+ Concept of nature of the series. 
+ Geometrical approach to the mean value theorems and their application to the mathematical 
+problems 
+ Evaluation of surface areas and volumes of revolutions of curves. 
+ Evaluation of improper integrals using Beta and Gamma functions. 
+ Partial differentiation, concept of total derivative 
+ Finding maxima and minima of function of two and three variables. 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ Write the matrix representation of a set of linear equations and to analyse the solution of the 
+system of equations 
+ Find the Eigen values and Eigen vectors  
+ Reduce the quadratic form to canonical form using orthogonal transformations. 
+ Analyse the nature of sequence and series. 
+ Solve the applications on the mean value theorems. 
+ Evaluate the improper integrals using Beta and Gamma functions 
+ Find the extreme values of functions of two variables with/ without constraints. 
+ 
+UNIT - I: Matrices 
+Matrices: Types of Matrices, Symmetric; Hermitian; Skew -symmetric; Skew -Hermitian; orthogonal 
+matrices; Unitary Matrices; rank of a matrix by Echelon form and Normal form, Inverse of Non-singular 
+matrices by Gauss-Jordan method; System of linear equations; solving system of Homogeneous and 
+Non-Homogeneous equations. Gauss elimination method; Gauss Seidel Iteration Method. 
+ 
+UNIT - II: Eigen values and Eigen vectors 
+Linear T ransformation and Orthogonal Transformation: Eigen values and Eigenvectors and their 
+properties: Diagonalization of a matrix; Cayley-Hamilton Theorem (without proof); finding inverse and 
+power of a matrix by Cayley-Hamilton Theorem; Quadratic forms and Nature of the Quadratic Forms; 
+Reduction of Quadratic form to canonical forms by Orthogonal Transformation 
+ 
+UNIT - III: Sequences & Series 
+Sequence: Definition of a Sequence, limit; Convergent, Divergent and Oscillatory sequences.  
+Series: Convergent, Divergent and Oscillatory Series; Series of positive terms; Comparison test, p-test, 
+D-Alembert’s ratio test; Raabe’s test; Cauchy’s Integral test; Cauchy’s root test; logarithmic test. 
+Alternating series: Leibnitz test; Alternating Convergent series: Absolute an d Conditionally 
+Convergence. 
+ 
+UNIT - IV: Calculus 
+Mean value theorems: Rolle’s theorem, Lagrange’s Mean value theorem with their Geometrical 
+Interpretation and applications, Cauchy’s Mean value Theorem. Taylor’s Series. 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+3 
+ 
+Applications of definite integrals to evaluate surface areas and volumes of revolutions of curves (Only 
+in Cartesian coordinates), Definition of Improper Integral: Beta and Gamma functions and their 
+applications. 
+ 
+UNIT - V: Multivariable calculus (Partial Differentiation and applications) 
+Definitions of Limit and continuity. 
+Partial Differentiation; Euler’s Theorem; Total derivative; Jacobian; Functional dependence & 
+independence, Maxima and minima of functions of two variables and three variables using method of 
+Lagrange multipliers. 
+ 
+TEXT BOOKS: 
+1. B.S. Grewal, Higher Engineering Mathematics, Khanna Publishers, 36th Edition, 2010 
+2. Erwin kreyszig, Advanced Engineering Mathematics, 9th Edition, John Wiley & Sons, 2006. 
+3. G.B. Thomas and R.L. Finney, Calculus and Analytic geometry, 9 th Edition, Pearson, Reprint, 
+2002. 
+ 
+REFERENCE BOOKS: 
+1. N.P. Bali and Manish Goyal, A text book of Engineering Mathematics, Laxmi Publications, 
+Reprint, 2008. 
+2. Ramana B.V., Higher Engineering Mathematics, Tata McGraw Hill New Delhi, 11 th Reprint, 
+2010. 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+4 
+ 
+AP102BS/AP202BS: APPLIED PHYSICS 
+ 
+B.Tech. I Year I Sem.                                                      L    T    P   C 
+                               3     1    0    4 
+Course Objectives: 
+ Students will demonstrate skills in scientific inquiry, problem solving and laboratory techniques. 
+ Students will be able to demonstrate competency and understanding of the concepts found in 
+Quantum Mechanics, Fiber optics and lasers, Semiconductor physics and Electromagnetic 
+theory and a broad base of knowledge in physics. 
+ The graduates will be able to solve non-traditional problems that potentially draw on knowledge 
+in multiple areas of physics. 
+ To study applications in engineering like memory devices, transformer core and electromagnetic 
+machinery. 
+ 
+Course Outcomes: Upon graduation: 
+ The student would be able to learn the fundamental concepts on Quantum behaviour of matter 
+in its micro state. 
+ The knowledge of fundamentals of Semiconductor physics, Optoelectronics, Lasers and fibre 
+optics enable the students to apply to various systems like communications, solar cell, photo cells 
+and so on. 
+ Design, characterization and study of properties of material help the students to prepare new 
+materials for various engineering applications. 
+ The course also helps the students to be exposed to the phenom ena of electromagnetism and 
+also to have exposure on magnetic materials and dielectric materials. 
+ 
+UNIT - I: Quantum Mechanics 
+Introduction to quantum physics, Black body radiation, Planck’s law, Photoelectric effect, Compton 
+effect, de-Broglie’s hypothesis, Wave-particle duality, Davisson and Germer experiment, Heisenberg’s 
+Uncertainty principle, Born’s interpretation of the wave function, Schrodinger’s time independent wave 
+equation, Particle in one dimensional box. 
+ 
+UNIT - II: Semiconductor Physics 
+Intrinsic and Extrinsic semiconductors, Dependence of Fermi level on carrier -concentration and 
+temperature, Carrier generation and recombination, Carrier transport: diffusion and drift, Hall effect, p-
+n junction diode, Zener diode and their V -I Characteristics,  Bipolar Junction Transistor (BJT): 
+Construction, Principle of operation. 
+ 
+UNIT - III: Optoelectronics 
+Radiative and non -radiative recombination mechanisms in semiconductors, LED and semiconductor 
+lasers: Device structure, Materials, Characteristics and figures of merit, Semiconductor photodetectors: 
+Solar cell, PIN and Avalanche and their structure, Materials, working principle and Characteristics. 
+UNIT - IV: Lasers and Fibre Optics 
+Lasers: Introduction to interaction of radiation with matter, Coherence, Principle and working of Laser, 
+Population inversion, Pumping, Types of Lasers: Ruby laser, Carbon dioxide (CO2) laser, He-Ne laser, 
+Applications of laser. Fibre Optics: Introduction, Optical fibre as a dielectric wave guide, Total internal 
+reflection, Acceptance angle, Acceptance cone and Numerical aperture, Step and Graded index fibres, 
+Losses associated with optical fibres, Applications of optical fibres. 
+ 
+UNIT - V: Electromagnetism and Magnetic Properties of Materials 
+Laws of electrostatics, Electric cur rent and the continuity equation, Ampere’s and Faraday’s laws, 
+Maxwell’s equations, Polarisation, Permittivity and Dielectric constant, Internal fields in a solid,  
+Clausius-Mossotti equation, Ferroelectrics and Piezoelectrics. Magnetisation, permeability a nd 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+5 
+ 
+susceptibility, Classification of magnetic materials, Ferromagnetism and ferromagnetic domains, 
+Hysteresis, Applications of magnetic materials. 
+ 
+TEXT BOOKS: 
+1. Engineering Physics, B. K. Pandey, S. Chaturvedi - Cengage Learning. 
+2. Halliday and Resnick, Physics - Wiley. 
+3. A textbook of Engineering Physics, Dr. M. N. Avadhanulu, Dr. P.G. Kshirsagar - S. Chand  
+ 
+REFERENCE BOOKS: 
+1. Richard Robinett, Quantum Mechanics 
+2. J. Singh, Semiconductor Optoelectronics: Physics and Technology, Mc Graw-Hill inc. (1995). 
+3. Online Course: “Optoelectronic Materials and Devices” by Monica Katiyar and Deepak Guptha 
+on NPTEL 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+6 
+ 
+CS103ES/CS203ES: PROGRAMMING FOR PROBLEM SOLVING 
+ 
+B.Tech. I Year I Sem.                                                        L    T    P   C 
+                                 3     1    0    4 
+Course Objectives: 
+  To learn the fundamentals of computers. 
+  To understand the various steps in program development. 
+  To learn the syntax and semantics of C programming language. 
+  To learn the usage of structured programming approach in solving problems. 
+ 
+Course Outcomes: The student will learn 
+ To write algorithms and to draw flowcharts for solving problems. 
+ To convert the algorithms/flowcharts to C programs. 
+ To code and test a given logic in C programming language. 
+ To decompose a problem into functions and to develop modular reusable code. 
+ To use arrays, pointers, strings and structures to write C programs. 
+ Searching and sorting problems. 
+ 
+UNIT - I: Introduction to Programming 
+Introduction to components of a computer system: disks, primary and secondary memory, processor, 
+operating system, compilers, creating, compiling and executing a program etc., Number systems 
+Introduction to Algorithms: steps to solve logical and numerical problems. Representation of 
+Algorithm, Flowchart/Pseudo code with examples, Program design and structured programming 
+Introduction to C Programming Language: variables (with data types and space requirements), Syntax 
+and Logical Errors in compilation, object and executable code , Operators, expressions and  
+precedence, Expression evaluation, Storage classes (auto, extern, static and register), type conversion, 
+The main method and command line arguments 
+Bitwise operations: Bitwise AND, OR, XOR and NOT operators 
+Conditional Branching and Loops:  Writing and eva luation of conditionals and consequent branching 
+with if, if-else, switch-case, ternary operator, goto, Iteration with for, while, do-while loops 
+I/O: Simple input and output with scanf and printf, formatted I/O, Introduction to stdin, stdout and stderr. 
+Command line arguments 
+ 
+UNIT - II: Arrays, Strings, Structures and Pointers: 
+Arrays: one and two dimensional arrays, creating, accessing and manipulating elements of arrays 
+Strings: Introduction to strings, handling strings as array of characters, basic string functions available 
+in C (strlen, strcat, strcpy, strstr etc.), arrays of strings 
+Structures: Defining structures, initializing structures, unions, Array of structures 
+Pointers: Idea of pointers, Defining pointers, Pointers to Arrays and Structures, Use of Pointers in self-
+referential structures, usage of self referential structures in linked list (no implementation) 
+Enumeration data type 
+ 
+UNIT - III: Pre-processor and File handling in C: 
+Preprocessor: Commonly used Preprocessor commands like include, define, undef, if, ifdef, ifndef 
+Files: Text and Binary files, Creating and Reading and writing text and binary files, Appending data to 
+existing files, Writing and reading structures using binary files, Random access using fseek, ftell and 
+rewind functions.  
+ 
+UNIT - IV: Function and Dynamic Memory Allocation: 
+Functions: Designing structured programs, Declaring a function, Signature of a function, Parameters 
+and return type of a function,  passing parameters to functions, call by value, Passing arrays to 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+7 
+ 
+functions, passing pointers to functions, idea of call by reference, Some C standard functions and 
+libraries 
+Recursion: Simple programs, such as Finding Factorial, Fibonacci series etc., Limitations of Recursive 
+functions 
+Dynamic memory allocation: Allocating and freeing memory, Allocating memory for arrays of different 
+data types 
+ 
+UNIT - V: Introduction to Algorithms: 
+Algorithms for finding roots of a quadratic equations, finding minimum and maximum numbers of a given 
+set, finding if a number is prime number, etc. 
+Basic searching in an array of elements (linear and binary search techniques),  
+Basic algorithms to sort array of elements (Bubble, Insertion and Selection sort algorithms),  
+Basic concept of order of complexity through the example programs 
+  
+TEXT BOOKS: 
+1. Byron Gottfried, Schaum’s Outline of Programming with C, McGraw-Hill 
+2. B.A. Forouzan and R.F. Gilberg C Programming and Data Structures, Cengage Learning, (3rd 
+Edition) 
+ 
+REFERENCE BOOKS: 
+1. Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Prentice 
+2. Hall of India 
+3. R.G. Dromey, How to solve it by Computer, Pearson (16th Impression) 
+4. Programming in C, Stephen G. Kochan, Fourth Edition, Pearson Education. 
+5. Herbert Schildt, C: The Complete Reference, Mc Graw Hill, 4th Edition 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+8 
+ 
+ME104ES/ME204ES: ENGINEERING GRAPHICS 
+ 
+B.Tech. I Year I Sem.                                                      L    T    P   C 
+                               1     0    4    3 
+ 
+Pre-requisites: Nil 
+Course objectives: 
+ To provide basic concepts in engineering drawing. 
+ To impart knowledge about standard principles of orthographic projection of objects. 
+ To draw sectional views and pictorial views of solids. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Preparing working drawings to communicate the ideas and information. 
+ Read, understand and interpret engineering drawings. 
+ 
+UNIT – I 
+Introduction to Engineering Drawing: Principles of Engineering Graphics and their Significance, 
+Conic Sections including the Rectangular Hyperbola – General method only. Cycloid, Epicycloid and 
+Hypocycloid, Scales – Plain & Diagonal. 
+ 
+UNIT- II 
+Orthographic Projections: Principles of Orthographic Projections – Conventions – Projections of 
+Points and Lines, Projections of Plane regular geometric figures.— Auxiliary Planes. 
+ 
+UNIT – III 
+Projections of Regular Solids – Auxiliary Views - Sections or Sectional views of Right Regular Solids – 
+Prism, Cylinder, Pyramid, Cone – Auxiliary views – Sections of Sphere 
+ 
+UNIT – IV 
+Development of Surfaces of Right Regular Solids – Prism, Cylinder, Pyramid and Cone,  
+Intersection of Solids: Intersection of – Prism vs Prism- Cylinder Vs Cylinder 
+ 
+UNIT – V 
+Isometric Projections:  Principles of Isometric Projection – Isometric Scale – Isometric Views –
+Conventions – Isometric Views of Lines, Plane F igures, Simple and Compound Solids – Isometric 
+Projection of objects having non- isometric lines. Isometric Projection of Spherical Parts. Conversion of 
+Isometric Views to Orthographic Views and Vice-versa –Conventions 
+ 
+Introduction to CAD: (For Internal Evaluation Weightage only): 
+Introduction to CAD Software Package Commands  - Free Hand Sketches of 2D  - Creation of 2D 
+Sketches by CAD Package  
+ 
+TEXT BOOKS:  
+1. Engineering Drawing N.D. Bhatt / Charotar 
+2. Engineering Drawing / N. S. Parthasarathy and Vela Murali/ Oxford 
+ 
+REFERENCE BOOKS: 
+1. Engineering Drawing / Basant Agrawal and McAgrawal/ McGraw Hill 
+2. Engineering Drawing/ M. B. Shah, B.C. Rane / Pearson. 
+3. Computer Aided Engineering Drawing – K Balaveera Reddy et al – CBS Publishers 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+9 
+ 
+AP105BS/AP205BS: APPLIED PHYSICS LAB 
+ 
+B.Tech. I Year I Sem.                                                      L    T    P   C 
+                               0     0   3   1.5 
+ 
+List of Experiments: 
+ 
+1. Energy gap of P-N junction diode:  
+To determine the energy gap of a semiconductor diode. 
+ 
+2. Solar Cell: 
+To study the V-I Characteristics of solar cell. 
+ 
+3. Light emitting diode: 
+Plot V-I and P-I characteristics of light emitting diode. 
+ 
+4. Stewart – Gee’s experiment: 
+Determination of magnetic field along the axis of a current carrying coil. 
+ 
+5. Hall effect: 
+To determine Hall co-efficient of a given semiconductor. 
+ 
+6. Photoelectric effect: 
+To determine work function of a given material. 
+ 
+7. LASER: 
+To study the characteristics of LASER sources. 
+ 
+8. Optical fibre: 
+To determine the bending losses of Optical fibres. 
+ 
+9. LCR Circuit: 
+To determine the Quality factor of LCR Circuit. 
+ 
+10. R-C Circuit: 
+To determine the time constant of R-C circuit. 
+ 
+Note: Any 8 experiments are to be performed 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+10 
+ 
+CS106ES/CS206ES: PROGRAMMING FOR PROBLEM SOLVING LAB 
+ 
+B.Tech. I Year I Sem.                                                      L    T    P   C 
+                               0     0   3   1.5 
+ 
+[Note:The programs may be executed using any available Open Source/ Freely available IDE 
+Some of the Tools available are:  
+CodeLite: https://codelite.org/ 
+Code::Blocks: http://www.codeblocks.org/ 
+DevCpp : http://www.bloodshed.net/devcpp.html 
+Eclipse: http://www.eclipse.org 
+This list is not exhaustive and is NOT in any order of preference] 
+ 
+Course Objectives: The students will learn the following:  
+ To work with an IDE to create, edit, compile, run and debug programs  
+ To analyze the various steps in program development.  
+ To develop programs to solve basic problems by understanding basic concepts in C like 
+operators, control statements etc.  
+ To develop modular, reusable and readable C Programs u sing the concepts like functions, 
+arrays etc. 
+ To Write programs using the Dynamic Memory Allocation concept.  
+ To create, read from and write to text and binary files 
+ 
+Course Outcomes: The candidate is expected to be able to: 
+ formulate the algorithms for simple problems 
+ translate given algorithms to a working and correct program 
+ correct syntax errors as reported by the compilers 
+ identify and correct logical errors encountered during execution 
+ represent and manipulate data with arrays, strings and structures 
+ use pointers of different types 
+ create, read and write to and from simple text and binary files 
+ modularize the code with functions so that they can be reused 
+ 
+Practice sessions: 
+a. Write a simple program that prints the results of  all the operators available in C (including pre/ 
+post increment , bitwise and/or/not , etc.).  Read required operand values from standard input. 
+b. Write a simple program that converts one given data type to another using auto conversion and 
+casting. Take the values form standard input.  
+ 
+Simple numeric problems: 
+a. Write a program for fiend the max and min from the three numbers.  
+b. Write the program for the simple, compound interest.  
+c. Write program  that declares Class awarded for a given percentage of marks,  where mark 
+<40%= Failed, 40% to  <60% = Second class, 60% to <70%=First class, >= 70% = Distinction. 
+Read percentage from standard input. 
+d. Write a program that prints a multiplication table for a given number and the number of rows in 
+the table. For example, for a number 5 and rows = 3, the output should be: 
+e. 5 x 1 = 5 
+f. 5 x 2 = 10 
+g. 5 x 3 = 15 
+h. Write a program that shows the binary equivalent of a given positive number between 0 to 255. 
+ 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+11 
+ 
+Expression Evaluation: 
+a. A building has 10 floors with a floor height of 3 meters each. A ball is dropped f rom the top of 
+the building. Find the time taken by the ball to reach each floor. (Use the formula s = ut+(1/2)at^2  
+where u and a are the initial velocity in m/sec (= 0) and acceleration in m/sec^2 (= 9.8 m/s^2)).  
+b. Write a C program, which takes two integer operands and one operator from the user, performs 
+the operation and then prints the result. (Consider the operators +, -,*, /, % and use Switch 
+Statement)  
+c. Write a program that finds if a given number is a prime number 
+d. Write a C program to find the sum of individual digits of a positive integer and test given number 
+is palindrome.  
+e. A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 
+and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write 
+a C program to generate the first n terms of the sequence.  
+f. Write a C program to generate all the prime numbers between 1 and n, where n is a value 
+supplied by the user.  
+g. Write a C program to find the roots of a Quadratic equation.  
+h. Write a C program to calculate the following, where x is a fractional value. 
+i. 1-x/2 +x^2/4-x^3/6  
+j. Write a C program to read in two numbers, x and n, and then compute the sum of this geometric 
+progression: 1+x+x^2+x^3+………….+x^n. For example: if n is 3 and x is 5, then the program 
+computes 1+5+25+125.  
+ 
+Arrays and Pointers and Functions: 
+a. Write a C program to find the minimum, maximum and average in an array of integers.  
+b. Write a functions to compute mean, variance, Standard Deviation, sorting of n elements in 
+single dimension array.  
+c. Write a C program that uses functions to perform the following:  
+d. Addition of Two Matrices  
+e. ii. Multiplication of Two Matrices  
+f. iii. Transpose of a matrix with memory dynamically allocated for the new matrix as row  and 
+column counts may not be same. 
+g. Write C programs that use both recursive and non-recursive functions  
+h. To find the factorial of a given integer.  
+i. ii. To find the GCD (greatest common divisor) of two given integers. 
+j. iii. To find x^n  
+k. Write a program for reading elements using pointer i nto array and display the values using 
+array.  
+l. Write a program for display values reverse order from array using pointer.  
+m. Write a program through pointer variable to sum of n elements from array. 
+ 
+Files: 
+a. Write a C program to display the contents of a file to standard output device. 
+b. Write a C program which copies one file to another, replacing all lowercase characters with their 
+uppercase equivalents. 
+c. Write a C program to count the number of times a character occurs in a text file. The file name 
+and the character are supplied as command line arguments.  
+d. Write a C program that does the following: 
+It should first create a binary file and store 10 integers, where the file name and 10 values are 
+given in the command line. (hint: convert the strings using atoi function) 
+Now the program asks for an index and a value from the user and the value at that index should 
+be changed to the new value in the file. (hint: use fseek function) 
+The program should then read all 10 values and print them back. 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+12 
+ 
+e. Write a C program to merge two files into a third file (i.e., the contents of the firs t file  followed 
+by those of the second are put in the third file). 
+ 
+Strings:  
+a. Write a C program to convert a Roman numeral ranging from I to L to its decimal equivalent.  
+b. Write a C program that converts a number ranging from 1 to 50 to Roman equivalent 
+c. Write a C program that uses functions to perform the following operations:  
+d. To insert a sub-string in to a given main string from a given position.  
+e. ii. To delete n Characters from a given position in a given string.  
+f. Write a C program to determine if the given string is a palindrome or not (Spelled same in both 
+directions with or without a meaning like madam, civic, noon, abcba, etc.) 
+g. Write a C program that displays the position of a character ch in the string S or – 1 if S doesn‘t 
+contain ch.  
+h. Write a C program to count the lines, words and characters in a given text.  
+ 
+Miscellaneous:  
+a. Write a menu driven C program that allows a user to enter n numbers and then choose between 
+finding the smallest, largest, sum, or average. The menu and all the choices are to be functions. 
+Use a switch statement to determine what action to take. Display an error message if an invalid 
+choice is entered. 
+ 
+b. Write a C program to construct a pyramid of numbers as follows:  
+1  
+1 2  
+1 2 3  
+*  
+* *  
+* * *  
+1  
+2 3  
+4 5 6  
+1  
+2 2  
+3 3 3  
+4 4 4 4  
+*  
+* *  
+* * *  
+* *  
+* 
+ 
+Sorting and Searching: 
+a. Write a C program that uses non recursive function to search for a Key value in a given  
+b. list of integers using linear search method. 
+c. Write a C program that uses non recursive function to search for a Key value in a given  
+d. sorted list of integers using binary search method. 
+e. Write a C program that implements the Bubble sort method to sort a given list of  
+f. integers in ascending order. 
+g. Write a C program that sorts the given array of integers using selection sort in descending order 
+h. Write a C program that sorts the given array of integers using insertion sort in ascending order 
+i. Write a C program that sorts a given array of names 
+ 
+Suggested Reference Books for solving the problems: 
+i. Byron Gottfried, Schaum’s Outline of Programming with C, McGraw-Hill 
+ii. B.A. Forouzan and R.F. Gilberg C Programming and Data Structures, Cengage Learning, (3rd 
+Edition) 
+iii. Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Prentice 
+iv. Hall of India 
+v. R.G. Dromey, How to solve it by Computer, Pearson (16th Impression) 
+vi. Programming in C, Stephen G. Kochan, Fourth Edition, Pearson Education. 
+vii. Herbert Schildt, C: The Complete Reference, Mc Graw Hill, 4th Edition 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+13 
+ 
+*MC109ES/*MC209ES: ENVIRONMENTAL SCIENCE 
+B.Tech. I Year I Sem.                                                      L    T    P   C 
+                               3     0    0    0 
+Course Objectives: 
+ Understanding the importance of ecological balance for sustainable development. 
+ Understanding the impacts of developmental activities and mitigation measures. 
+ Understanding the environmental policies and regulations  
+ 
+Course Outcomes:  
+ Based on this course, the Engineering graduate will understand /evaluate / develop 
+technologies on the basis of ecological principles and environmental regulations which in turn 
+helps in sustainable development 
+ 
+UNIT - I  
+Ecosystems: Definition, Scope, and Importance of ecosystem. Classification, structure, and function 
+of an ecosystem, Food chains, food webs, and ecological pyramids. Flow of energy, Biogeochemical 
+cycles, Bioaccumulation, Biomagnification, ecosystem value, services and carrying capacity, Field 
+visits. 
+ 
+UNIT - II   
+Natural Resources: Classification of Resources:  Living and Non -Living resources, water 
+resources: use and over utilization of surface and ground water, floods and droughts, Dams: benefits 
+and problems. Mineral resources: use and exploitation, environmental effects of extracting and using 
+mineral resources, Land resources: Forest resources, Energy resources: growing energy needs, 
+renewable and non-renewable energy sources, use of alternate energy source, case studies.  
+ 
+UNIT - III  
+Biodiversity And Biotic Resources: Introduction, Definition, genetic, spec ies and ecosystem 
+diversity. Value of biodiversity; consumptive use, productive use, social, ethical, aesthetic and optional 
+values. India as a mega diversity nation, Hot spots of biodiversity. Field visit. Threats to biodive rsity: 
+habitat loss, poaching of wildlife, man-wildlife conflicts; conservation of biodiversity: In-Situ and Ex-situ 
+conservation.  National Biodiversity act.  
+ 
+UNIT - IV  
+Environmental Pollution and Control Technologies: Environmental Pollution:  Classification of 
+pollution, Air Pollution: Primary and secondary pollutants, Automobile and Industrial pollution, Ambient 
+air quality standards. Water pollution:  Sources and types of pollution, drinking water quality standards. 
+Soil Pollution: Sources and types, Impacts of modern agriculture, degradation of soil. Noise Pollution: 
+Sources and Health hazards, standards, Solid waste:  Municipal Solid Waste management, 
+composition and characteristics of e -Waste and its management. Pollution control technologies:   
+Wastewater Treatment methods: Primary, secondary and Tertiary.  
+Overview of air pollution control technologies, Concepts of bioremediation. Global Environmental 
+Issues and Global Efforts: Climate change and impacts on human environment. Ozone depletion and 
+Ozone depleting substances (ODS). D eforestation and desertification.  International conventions / 
+Protocols: Earth summit, Kyoto protocol, and Montréal Protocol. NAPCC-GoI Initiatives. 
+ 
+UNIT - V  
+Environmental Policy, Legislation & EIA: Environmental Protection act, Legal aspects Air Act- 1981, 
+Water Act, Forest Act, Wild life Act, Municipal solid waste management and handling rules, biomedical 
+waste management and handling rules, hazardous waste management and handling rules. EIA: EIA 
+structure, methods of baseline data acquisition. Overview on Impacts of air, water, biological and Socio-
+economical aspects. Strategies for risk assessment, Concepts of Environmental Management Plan 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+14 
+ 
+(EMP). Towards Sustainable Future: Concept of Sustainable Development Goals, Population and its 
+explosion, Crazy Consumerism, Environmental Education, Urban Sprawl, Human health, 
+Environmental Ethics, Concept of Green Building, Ecological Foot Print, Life Cycle assessment (LCA), 
+Low carbon life style. 
+ 
+TEXT BOOKS: 
+1 Textbook of Environmental Studies for Undergraduate C ourses by Erach Bharucha for 
+University Grants Commission. 
+2 Environmental Studies by R. Rajagopalan, Oxford University Press. 
+ 
+REFERENCE BOOKS: 
+1. Environmental Science: towards a sustainable future by Richard T. Wright. 2008 PHL Learning 
+Private Ltd. New Delhi. 
+2. Environmental Engineering and science by Gilbert M. Masters and Wendell P. Ela. 2008 PHI 
+Learning Pvt. Ltd.  
+3. Environmental Science by Daniel B. Botkin & Edward A. Keller, Wiley INDIA edition. 
+4. Environmental Studies by Anubha Kaushik, 4th Edition, New age international publishers. 
+5. Text book of Environmental Science and Technology - Dr. M. Anji Reddy 2007, BS Publications. 
+6. Introduction to Environmental Science by Y. Anjaneyulu, BS. Publications. 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+15 
+ 
+MA201BS: MATHEMATICS - II 
+ 
+B.Tech. I Year II Sem.                                                      L    T    P   C 
+                               3     1    0    4 
+ 
+Course Objectives: To learn 
+ Methods of solving the differential equations of first and higher order. 
+ Evaluation of multiple integrals and their applications 
+ The physical quantities involved in engineering field related to vector valued functions 
+ The basic properties of vector valued functions and their applications to line, surface and volume 
+integrals 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ Identify whether the given differential equation of first order is exact or not 
+ Solve higher differential equation and apply the concept of differential equation to real world 
+problems 
+ Evaluate the multiple integrals and apply the concept to find areas, volumes, centre of mass and 
+Gravity for cubes, sphere and rectangular parallelopiped 
+ Evaluate the line, surface and volume integrals and converting them from one to another 
+ 
+UNIT - I: First Order ODE 
+Exact, linear and Bernoulli’s equations; Applications: Newton’s law of cooling, Law of natural growth 
+and decay; Equations not of first degree: equations solvable for p, equations solvable for y, equations 
+solvable for x and Clairaut’s type. 
+ 
+UNIT - II: Ordinary Differential Equations of Higher Order 
+Second order linear differential equations with constant coefficients: Non -Homogeneous terms of the 
+type ݁௔௫, sinݔܽ, cosݔܽ,  polynomials in ݔ ,݁ ௔௫ܸ(ݔ) and ݔ ܸ(ݔ)method of variation of parameters; 
+Equations reducible to linear ODE with constant coefficients: Legendre’s equation, Cauchy -Euler 
+equation. 
+ 
+UNIT - III: Multivariable Calculus (Integration) 
+Evaluation of Double Integrals (Cartesian and polar coordinates); change of order of integration (on ly 
+Cartesian form); Evaluation of Triple Integrals: Change of variables (Cartesian to polar) for double and 
+(Cartesian to Spherical and Cylindrical polar coordinates) for triple integrals.  
+Applications: Areas (by double integrals) and volumes (by double integrals and triple integrals), Centre 
+of mass and Gravity (constant and variable densities) by double and triple integrals (applications 
+involving cubes, sphere and rectangular parallelopiped). 
+ 
+UNIT - IV: Vector Differentiation 
+Vector point functions and scalar point functions. Gradient, Divergence and Curl. Directional derivatives, 
+Tangent plane and normal line. Vector Identities. Scalar potential functions. Solenoidal and Irrotational 
+vectors. 
+ 
+UNIT - V: Vector Integration 
+Line, Surface and Volume Integrals. Theorems of Green, Gauss and Stokes (without proofs) and their 
+applications.  
+ 
+TEXT BOOKS: 
+1. B.S. Grewal, Higher Engineering Mathematics, Khanna Publishers, 36th Edition, 2010 
+2. Erwin kreyszig, Advanced Engineering Mathematics, 9th Edition, John Wiley & Sons, 2006 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+16 
+ 
+3. G.B. Thomas and R.L. Finney, Calculus and Analytic geometry, 9 th Edition, Pearson, Reprint, 
+2002. 
+ 
+REFERENCE BOOKS: 
+1. Paras Ram, Engineering Mathematics, 2nd Edition, CBS Publishes 
+2. S. L. Ross, Differential Equations, 3rd Ed., Wiley India, 1984. 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+17 
+ 
+CH102BS/CH202BS: CHEMISTRY 
+ 
+B.Tech. I Year II Sem.                                                      L    T    P   C 
+                               3    1    0    4 
+Course Objectives: 
+ To bring adaptability to the concepts of chemistry and to acquire the required skills to become a 
+perfect engineer. 
+ To impart the basic knowledge of atomic, molecular and electronic modifications which makes 
+the student to understand the technology based on them. 
+ To acquire the knowledge of electrochemistry, corrosion and water treatment which are essential 
+for the Engineers and in industry. 
+ To acquire the skills pertaining to spectroscopy and to apply them for medical and other fields. 
+ To impart the knowledge of stereochemistry and synthetic aspects useful for understanding 
+reaction pathways   
+ 
+Course Outcomes: The basic concepts included in this course will help the student to gain: 
+ The knowledge of atomic, molecular and electronic changes, band theory related to conductivity. 
+ The required principles and concepts of electroch emistry, corrosion and in understanding the 
+problem of water and its treatments. 
+ The required skills to get clear concepts on basic spectroscopy and application to medical and 
+other fields. 
+ The knowledge of configurational and conformational analysis of mo lecules and reaction 
+mechanisms. 
+ 
+UNIT - I:   
+Molecular structure and Theories of Bonding: Atomic and Molecular orbitals. Linear Combination of 
+Atomic Orbitals (LCAO), molecular orbitals of diatomic molecules, molecular orbital energy level 
+diagrams of N2, O2 and F2 molecules.  π molecular orbitals of butadiene and benzene. 
+Crystal Field Theory (CFT):  Salient Features of CFT – Crystal Field Splitting of transition metal ion d- 
+orbitals in Tetrahedral, Octahedral and square planar geometries. Band structure of solids and effect of 
+doping on conductance. 
+ 
+UNIT - II:  
+Water and its treatment: Introduction – hardness of water – Causes of hardness - Types of hardness: 
+temporary and permanent – expression and units of hardness – Estimation of hardness of water by  
+complexometric  method. Potable water and its specifications. Steps involved in treatment of  water – 
+Disinfection of water by chlorination and ozonization. Boiler feed water and its treatment – Calgon 
+conditioning, Phosphate conditioning and Colloidal co nditioning. External treatment of water – Ion 
+exchange process. Desalination of water – Reverse osmosis. Numerical problems. 
+ 
+UNIT - III:  
+Electrochemistry and corrosion: Electro chemical cells – electrode potential, standard electrode 
+potential, types of electrodes – calomel, Quinhydrone and glass electrode. Nernst equation 
+Determination of pH of a solution by using quinhydrone and glass electrode. Electrochemical series and 
+its applications.  Numerical problems. Potentiometric titrations. Batteries – Primary (Lithium cell) and 
+secondary batteries (Lead – acid storage battery and Lithium ion battery). 
+Causes and effects of corrosion – theories of chemical and electrochemical corrosion – mechanism of 
+electrochemical corrosion, Types of corrosion: Galvanic, w ater-line and pitting corrosion. Factors 
+affecting rate of corrosion, Corrosion control methods - Cathodic protection – Sacrificial anode and 
+impressed current cathodic methods.  Surface coatings – metallic coatings – methods of application.  
+Electroless plating of Nickel. 
+ 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+18 
+ 
+UNIT - IV:  
+Stereochemistry, Reaction Mechanism and synthesis of drug molecules: Introduction to 
+representation of 3-dimensional structures, Structural and stereoisomers, configurations, symmetry and 
+chirality.  Enantiomers, diastereomers , optical activity and Absolute configuration. Conformation 
+alanalysis of n- butane. 
+Substitution reactions: Nucleophilic substitution reactions: Mechanism of S N1, S N2 reactions. 
+Electrophilic and nucleophilic  addition  reactions: Addition of HBr to prope ne.  Markownikoff and anti 
+Markownikoff’s additions. Grignard additions on carbonyl compounds. Elimination reactions: Dehydro 
+halogenation of alkylhalides. Saytzeff rule. Oxidation reactions: Oxidation of alcohols using KMnO4 and 
+chromic acid.  
+Reduction reactions: reduction of carbonyl compounds using LiAlH4 & NaBH4. Hydroboration of olefins. 
+Structure, synthesis and pharmaceutical applications of Paracetamol and Aspirin. 
+ 
+UNIT - V:  
+Spectroscopic techniques and applications: Principles of spectroscopy, se lection rules and 
+applications of electronic spectroscopy. vibrational and rotational spectroscopy. Basic concepts of 
+Nuclear magnetic resonance Spectroscopy, chemical shift. Introduction to Magnetic resonance 
+imaging. 
+ 
+TEXT BOOKS: 
+1. Physical Chemistry, by P.W. Atkins 
+2. Engineering Chemistry by P.C.Jain & M.Jain; Dhanpat Rai Publishing Company (P) Ltd., New 
+Delhi. 
+3. Fundamentals of Molecular Spectroscopy, by C.N. Banwell 
+4. Organic Chemistry: Structure and Function by K.P.C. Volhardt and N.E.Schore, 5th Edition. 
+5. University Chemistry, by B.M. Mahan, Pearson IV Edition. 
+6. Engineering Chemistry (NPTEL Web-book), by B.L. Tembe, Kamaluddin and M.S. Krishnan 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+19 
+ 
+EE103ES/EE203ES: BASIC ELECTRICAL ENGINEERING  
+ 
+B.Tech. I Year I Sem.                                                      L    T    P   C 
+                               3     0    0    3 
+Course Objectives: 
+ To introduce the concepts of electrical circuits and its components 
+ To understand magnetic circuits, DC circuits and AC single phase & three phase circuits  
+ To study and understand the different types of DC/AC machines and Transformers. 
+ To import the knowledge of various electrical installations. 
+ To introduce the concept of power, power factor and its improvement. 
+ 
+Course Outcomes: 
+ To analyze and solve electrical circuits using network laws and theorems. 
+ To understand and analyze basic Electric and Magnetic circuits 
+ To study the working principles of Electrical Machines 
+ To introduce components of Low Voltage Electrical Installations 
+ 
+UNIT-I: D.C. Circuits  
+Electrical circuit elements (R, L and C), voltage and current sources, KVL&KCL, analysis of simple 
+circuits with dc excitation. Superposition, Thevenin and Norton Theorems.  
+Time-domain analysis of first-order RL and RC circuits. 
+ 
+UNIT-II: A.C. Circuits  
+Representation of sinusoidal waveforms, peak and rms values, phasor representation, real power, 
+reactive power, apparent power, power factor, Analysis of single -phase ac circuits consisting of R, L, 
+C, RL, RC, RLC combinations (series and parallel), resonance in series R-L-C circuit. 
+Three-phase balanced circuits, voltage and current relations in star and delta connections. 
+ 
+UNIT-III: Transformers  
+Ideal and practical transformer, equivalent circuit, losses in transformers, regulation and efficien cy. 
+Auto-transformer and three-phase transformer connections. 
+ 
+UNIT-IV: Electrical Machines  
+Generation of rotating magnetic fields, Construction and working of a three -phase induction motor, 
+Significance of torque-slip characteristic. Loss components and efficiency, starting a nd speed control 
+of induction motor. Single -phase induction motor. Construction, working, torque -speed characteristic 
+and speed control of separately excited dc motor.  
+Construction and working of synchronous generators. 
+ 
+UNIT-V: Electrical Installations 
+Components of LT Switchgear: Switch Fuse Unit (SFU), MCB, ELCB, MCCB, Types of Wires and 
+Cables, Earthing. Types of Batteries, Important Characteristics for Batteries. Elementary calculatio ns 
+for energy consumption, power factor improvement and battery backup. 
+ 
+TEXT BOOKS/ REFERENCE BOOKS: 
+1. Basic Electrical Engineering - D.P. Kothari and I.J. Nagrath, 3rd edition 2010, Tata McGraw 
+Hill. 
+2. D.C. Kulshreshtha, “Basic Electrical Engineering”, McGraw Hill, 2009. 
+3. L.S. Bobrow, Fundamentals of Electrical Engineering”, Oxford University Press, 2011 
+4. Electrical and Electronics Technology, E. Hughes, 10th Edition, Pearson, 2010 
+5. Electrical Engineering Fundamentals, Vincent Deltoro, Second Edition, Prentice Hall India, 
+1989.  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+20 
+ 
+ME105ES/ME205ES: ENGINEERING WORKSHOP 
+ 
+B.Tech. I Year II Sem.                                                      L    T    P   C 
+                               1     0   3   2.5 
+ 
+Pre-requisites: Practical skill 
+ 
+Course Objectives: 
+ To Study of different hand operated power tools, uses and their demonstration. 
+ To gain a good basic working knowledge required for the production of various engineering 
+products. 
+ To provide hands on experience about use of different engineering materials, tools, 
+equipments and processes those are common in the engineering field. 
+ To develop a right attitude, team working, precision and safety at work place. 
+ It explains the construction, function, use and application of different working tools, equipment 
+and machines. 
+ To study commonly used carpentry joints. 
+ To have practical exposure to various welding and joining processes. 
+ Identify and use marking out tools, hand tools, measuring equipment and to work to 
+prescribed tolerances. 
+ 
+Course Outcomes: At the end of the course, the student will be able to:  
+ Study and practice on machine tools and their operations  
+ Practice on manufacturing of components using workshop trades including pluming, fitting, 
+carpentry, foundry, house wiring and welding. 
+ Identify and apply suitable tools for different trades of Engineering processes including 
+drilling, material removing, measuring, chiseling. 
+ Apply basic electrical engineering knowledge for house wiring practice. 
+ 
+1. TRADES FOR EXERCISES: 
+At least two exercises from each trade: 
+I. Carpentry – (T-Lap Joint, Dovetail Joint, Mortise & Tenon Joint) 
+II. Fitting – (V-Fit, Dovetail Fit & Semi-circular fit) 
+III. Tin-Smithy – (Square Tin, Rectangular Tray & Conical Funnel) 
+IV. Foundry – (Preparation of Green Sand Mould using Single Piece and Split Pattern) 
+V. Welding Practice – (Arc Welding & Gas Welding) 
+VI. House-wiring – (Parallel & Series, Two-way Switch and Tube Light) 
+VII. Black Smithy – (Round to Square, Fan Hook and S-Hook) 
+ 
+2. TRADES FOR DEMONSTRATION & EXPOSURE: 
+Plumbing, Machine Shop, Metal Cutting (Water Plasma), Power tools in construction and Wood 
+Working 
+ 
+TEXT BOOKS: 
+1. Workshop Practice /B. L. Juneja / Cengage 
+2. Workshop Manual / K. Venugopal / Anuradha. 
+ 
+REFERENCE BOOKS: 
+1. Work shop Manual - P. Kannaiah/ K. L. Narayana/ SciTech  
+2. Workshop Manual / Venkat Reddy/ BSP 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+21 
+ 
+EN105HS/EN205HS: ENGLISH 
+ 
+B.Tech. I Year II Sem.                                                      L    T    P   C 
+                               2     0    0    2 
+INTRODUCTION 
+In view of the growing importance of English as a tool for global communication and the consequent 
+emphasis on training students to acquire language skills, the syllabus of English has been designed to 
+develop linguistic, communicative and critical thinking competencies of Engineering students.  
+ 
+In English classes, the focus should be on the skills development in the areas of vocabulary, grammar, 
+reading and writing. For this, the teachers should use the prescribed text for detailed study. The 
+students should be encouraged to read the texts leading to reading comprehension and different 
+passages may be given for practice in the class. Th e time should be utilized for working out the 
+exercises given after each excerpt, and also for supplementing the exercises with authentic material s 
+of a similar kind, for example, newspaper articles, advertisements, promotional material etc. The focus 
+in this syllabus is on skill development, fostering ideas and practice of language skills in various contexts 
+and cultures. 
+ 
+Learning Objectives: The course will help to 
+ Improve the language proficiency of students in English with an emphasis on Vocabulary, 
+Grammar, Reading and Writing skills. 
+ Equip students to study academic subjects more effectively and critically using the theoretical 
+and practical components of English syllabus.  
+ Develop study skills and communication skills in formal and informal situations.  
+ 
+Course Outcomes: Students should be able to 
+ Use English Language effectively in spoken and written forms. 
+ Comprehend the given texts and respond appropriately. 
+ Communicate confidently in various contexts and different cultures. 
+ Acquire basic proficiency in English including reading and listening comprehension, writing 
+and speaking skills. 
+ 
+SYLLABUS 
+UNIT –I  
+‘The Raman Effect’ from the prescribed textbook ‘English for Engineers’ published by 
+Cambridge University Press. 
+Vocabulary Building: The Concept of Word Formation --The Use of Prefixes and Suffixes.  
+Grammar: Identifying Common Errors in Writing with Reference to Articles and Prepositions. 
+Reading: Reading and Its Importance- Techniques for Effective Reading. 
+Basic Writing Skills: Sentence Structures -Use of Phrases and Clauses in Sentences- Importance of 
+Proper Punctuation- Techniques for writing precisely – Paragraph writing – Types, Structures and 
+Features of a Paragraph - Creating Coherence-Organizing Principles of Paragraphs in Documents. 
+ 
+UNIT –II  
+‘Ancient Architecture in India’ from the prescribed textbook ‘English for Engineers’ published 
+by Cambridge University Press. 
+Vocabulary: Synonyms and Antonyms. 
+Grammar: Identifying Common Errors in Writing with Reference to Noun-pronoun Agreement and  
+Subject-verb Agreement. 
+Reading: Improving Comprehension Skills – Techniques for Good Comprehension  
+Writing: Format of a Formal Letter -Writing Formal Letters E.g.., Letter of Complaint, Letter of 
+Requisition, Job Application with Resume. 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+22 
+ 
+ 
+UNIT –III  
+‘Blue Jeans’ from the prescribed textbook ‘English for Engineers’ published by Cambridge 
+University Press. 
+Vocabulary: Acquaintance with Prefixes and Suffixes from Foreign Languages in English to form 
+Derivatives-Words from Foreign Languages and their Use in English.  
+Grammar: Identifying Common Errors in Writing with Reference to Misplaced Modifiers and Tenses. 
+Reading: Sub-skills of Reading- Skimming and Scanning 
+Writing: Nature and Style of Sensible Writing- Defining- Describing Objects, Places and Events – 
+Classifying- Providing Examples or Evidence 
+ 
+UNIT –IV  
+‘What Should You Be Eating’ from the prescribed textbook ‘English for Engineers’ published by 
+Cambridge University Press. 
+Vocabulary: Standard Abbreviations in English 
+Grammar: Redundancies and Clichés in Oral and Written Communication. 
+Reading:  Comprehension- Intensive Reading and Extensive Reading  
+Writing: Writing Practices--Writing Introduction and Conclusion - Essay Writing-Précis Writing. 
+ 
+UNIT –V  
+‘How a Chinese Billionaire Built Her Fortune’ fr om the prescribed textbook ‘English for 
+Engineers’ published by Cambridge University Press. 
+Vocabulary: Technical Vocabulary and their usage 
+Grammar: Common Errors in English 
+Reading: Reading Comprehension-Exercises for Practice 
+Writing: Technical Reports- Introduction – Characteristics of a Report – Categories of 
+Reports   
+Formats- Structure of Reports (Manuscript Format) -Types of Reports - Writing aReport. 
+ 
+TEXTBOOK: 
+1. Sudarshana, N.P. and Savitha, C. (2018). English for Engineers. Cambridge University Press. 
+ 
+REFERENCE BOOKS: 
+1. Swan, M. (2016). Practical English Usage. Oxford University Press.  
+2. Kumar, S and Lata, P. (2018). Communication Skills. Oxford University Press.  
+3. Wood, F.T. (2007). Remedial English Grammar. Macmillan. 
+4. Zinsser, William. (2001). On Writing Well. Harper Resource Book.  
+5. Hamp-Lyons, L. (2006). Study Writing. Cambridge University Press.  
+6. Exercises in Spoken English.  Parts I –III. CIEFL, Hyderabad. Oxford University Press. 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+23 
+ 
+CH106BS/CH206ES: ENGINEERING CHEMISTRY LAB 
+ 
+B.Tech. I Year II Sem.                                                      L    T    P   C 
+                               0    0    3   1.5 
+ 
+Course Objectives:  The course consists of experiments related to the principles of chemistry required 
+for engineering student. The student will learn: 
+ Estimation of hardness and chloride content in water to check its suitability for drinking purpose. 
+ To determine the rate constant of reactions from concentrations as an function of time. 
+ The measurement of physical properties like adsorption and viscosity. 
+ To synthesize the drug molecules and check the purity of organic molecules by thin layer 
+chromatographic (TLC) technique.   
+ 
+Course Outcomes: The experiments will make the student gain skills on: 
+ Determination of parameters like hardness and chloride content in water. 
+ Estimation of rate constant of a reaction from concentration – time relationships. 
+ Determination of physical properties like adsorption and viscosity. 
+ Calculation of Rf values of some organic molecules by TLC technique. 
+ 
+List of Experiments: 
+1. Determination of total hardness of water by complexometric method using EDTA 
+2. Determination of chloride content of water by Argentometry 
+3. Estimation of an HCl by Conductometric titrations 
+4. Estimation of Acetic acid by Conductometric titrations 
+5. Estimation of HCl by Potentiometric titrations 
+6. Estimation of Fe2+ by Potentiometry using KMnO4 
+7. Determination of rate constant of acid catalysed hydrolysis of methyl acetate 
+8. Synthesis of Aspirin and Paracetamol  
+9. Thin layer chromatography calculation of Rf values. eg ortho and para nitro phenols 
+10. Determination of acid value of coconut oil  
+11. Verification of freundlich adsorption isotherm-adsorption of acetic acid on charcoal  
+12. Determination of viscosity of castor oil and ground nut oil by using Ostwald’s viscometer. 
+13. Determination of partition coefficient of acetic acid between n-butanol and water. 
+14. Determination of surface tension of a give liquid using stalagmometer. 
+ 
+REFERENCE BOOKS:  
+1. Senior practical physical chemistry, B.D. Khosla, A. Gulati and V. Garg (R. Chand & Co., Delhi) 
+2. An introduction to practical chemistry, K.K. Sharma and D. S. Sharma (Vikas publishing, N. Delhi) 
+3. Vogel’s text book of practical organic chemistry 5th edition 
+4. Text book on Experiments and calculations in Engineering chemistry – S.S. Dara 
+ 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+24 
+ 
+EN107HS/EN207HS: ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB 
+ 
+B.Tech. I Year II Sem.                                                      L    T    P   C 
+                               0     0    2    1 
+ 
+The Language Lab focuses on the production and practice of sounds of language and familiarizes the 
+students with the use of English in everyday situations both in formal and informal contexts.  
+ 
+Course Objectives: 
+ To facilitate computer -assisted multi -media instruction enabling individualized and 
+independent language learning   
+ To sensitize students to the nuances of English speech sounds, word accent, intonation 
+and rhythm  
+ To bring about a consistent accent and intelligibility in students’ pronunciation of 
+English by providing an opportunity for practice in speaking 
+ To improve the fluency of students in spoken English and neutralize their mother 
+tongue influence 
+ To train students to use language appropriately for public speaking and interviews 
+Learning Outcomes: Students will be able to attain 
+ Better understanding of nuances of English language through audio- visual experience and 
+group activities 
+ Neutralization of accent for intelligibility 
+ Speaking skills with clarity and confidence which in turn enhances their employability 
+skills 
+ 
+Syllabus 
+English Language and Communication Skills Lab (ELCS) shall have two parts: 
+a. Computer Assisted Language Learning (CALL) Lab 
+b. Interactive Communication Skills (ICS) Lab 
+ 
+Listening Skills 
+ Objectives 
+1. To enable students develop their listening skills so that they may appreciate its role in the LSRW 
+skills approach to language and improve their pronunciation 
+2. To equip students with necessary training in listening so that they can comprehend the speech 
+of people of different backgrounds and regions  
+ 
+Students should be given practice in listening to the sounds of the language, to be able to recognize 
+them and find the distinction between different sounds, to be able to mark stress and recognize and 
+use the right intonation in sentences. 
+ Listening for general content 
+ Listening to fill up information  
+ Intensive listening 
+ Listening for specific information 
+ 
+Speaking Skills 
+Objectives 
+1. To involve students in speaking activities in various contexts 
+2. To enable students express themselves fluently and appropriately in social and prof essional 
+contexts 
+• Oral practice: Just A Minute (JAM) Sessions 
+• Describing objects/situations/people 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+25 
+ 
+• Role play – Individual/Group activities  
+ 
+ The following course content is prescribed for the English Language and Communication Skills 
+Lab based on Unit-6 of AICTE Model Curriculum 2018 for B.Tech First English. As the syllabus is 
+very limited, it is required to prepare teaching/learning materials by the teachers collectively in 
+the form of handouts based on the needs of the students in their respective colleges for effective 
+teaching/learning and timesaving in the Lab) 
+ 
+Exercise – I  
+CALL Lab:  
+Understand: Listening Skill- Its importance – Purpose- Process- Types- Barriers of Listening. 
+Practice: Introduction to Phonetics – Speech Sounds – Vowels and Consonants.    
+ICS Lab:  
+Understand: Communication at Work Place- Spoken vs. Written language. 
+ Practice: Ice-Breaking Activity and JAM Session- Situational Dialogues – Greetings – Taking Leave – 
+Introducing Oneself and Others. 
+ 
+Exercise – II 
+CALL Lab:  
+Understand: Structure of Syllables – Word Stress and Rhythm – Weak Forms and Strong Forms in 
+Context. 
+Practice: Basic Rules of Word Accent - Stress Shift - Weak Forms and Strong Forms in Context.  
+ICS Lab:  
+Understand: Features of Good Conversation – Non-verbal Communication. 
+Practice:  Situational Dialogues – Role-Play- Expressions in Various Situations –Making Requests and 
+Seeking Permissions - Telephone Etiquette. 
+ 
+Exercise - III 
+CALL Lab:  
+Understand:  Intonation-Errors in Pronunciation-the Influence of Mother Tongue (MTI).  
+Practice: Common Indian Variants in Pronunciation  – Differences in British and American 
+Pronunciation. 
+ICS Lab:  
+Understand: How to make Formal Presentations. 
+Practice: Formal Presentations. 
+ 
+Exercise – IV 
+CALL Lab:  
+Understand: Listening for General Details. 
+Practice: Listening Comprehension Tests. 
+ICS Lab:  
+Understand: Public Speaking – Exposure to Structured Talks. 
+Practice: Making a Short Speech – Extempore.  
+ 
+Exercise – V 
+CALL Lab:  
+Understand: Listening for Specific Details. 
+Practice: Listening Comprehension Tests. 
+ICS Lab:  
+Understand:  Interview Skills. 
+Practice:   Mock Interviews. 
+                                                                         ************** 
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+26 
+ 
+ 
+Minimum Requirement of infrastructural facilities for ELCS Lab: 
+1. Computer Assisted Language Learning (CALL) Lab:  
+The Computer Assisted Language Learning Lab has to accommodate 40 students with 40 systems, 
+with one Master Console, LAN facility and English language learning software for self - study by 
+students. 
+ 
+System Requirement (Hardware component): 
+Computer network with LAN facility (minimum 40 systems with multimedia) with the following 
+specifications: 
+i) Computers with Suitable Configuration 
+ii) High Fidelity Headphones 
+2. Interactive Communication Skills (ICS) Lab:  
+The Interactive Communication Skills Lab: A Spacious room with movable chairs and audio-visual 
+aids with a Public-Address System, a LCD and a projector etc. 
+  
+
+R18 B.Tech. I Year Syllabus  JNTU HYDERABAD 
+27 
+ 
+EE108ES/EE208ES: BASIC ELECTRICAL ENGINEERING LAB 
+ 
+B.Tech. I Year II Sem.                                                      L    T    P   C 
+                               0     0    2    1 
+ 
+Course Objectives:  
+ To analyze a given network by applying various electrical laws and network theorems 
+ To know the response of electrical circuits for different excitations  
+ To calculate, measure and know the relation between basic electrical parameters. 
+ To analyze the performance characteristics of DC and AC electrical machines 
+ 
+Course Outcomes: 
+ Get an exposure to basic electrical laws.  
+ Understand the response of different types of electrical circuits to different excitations.  
+ Understand the measurement, calculation and relation between the basic electrical parameters   
+ Understand the basic characteristics of transformers and electrical machines.  
+ 
+List of experiments/demonstrations: 
+1. Verification of Ohms Law 
+2. Verification of KVL and KCL 
+3. Transient Response of Series RL and RC circuits using DC excitation 
+4. Transient Response of RLC Series circuit using DC excitation 
+5. Resonance in series RLC circuit 
+6. Calculations and Verification of Impedance and Current of RL, RC and RLC series circuits 
+7. Measurement of Voltage, Current and Real Power in primary and Secondary Circuits of a 
+Single-Phase Transformer 
+8. Load Test on Single Phase Transformer (Calculate Efficiency and Regulation) 
+9. Three Phase Transformer: Verification of Relationship between Voltages and Currents (Star-
+Delta, Delta-Delta, Delta-star, Star-Star) 
+10. Measurement of Active and Reactive Power in a balanced Three-phase circuit 
+11. Performance Characteristics of a Separately/Self Excited DC Shunt/Compound Motor 
+12. Torque-Speed Characteristics of a Separately/Self Excited DC Shunt/Compound Motor 
+13. Performance Characteristics of a Three-phase Induction Motor 
+14. Torque-Speed Characteristics of a Three-phase Induction Motor 
+15. No-Load Characteristics of a Three-phase Alternator 
+  
+

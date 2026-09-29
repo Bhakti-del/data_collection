@@ -1,0 +1,48 @@
+Code No: 156AN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August/September - 2021 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Write and explain randomized quick sort algorithm. 
+   b)  Discuss about Big oh O, Omega Ω and Theta θ notations with examples.   [8+7] 
+ 
+2.a)  Using Merge sort, sort the following elements: 
+                 310, 285, 179, 652, 351, 423, 861, 254, 450, 520 
+   b)  Analyze the computing time complexity of binary search algorithm.   [7+8] 
+  
+3.a)  Show that depth first search can be used to find the connected components of an               
+ undirected graph. 
+   b)  Write an algorithm of n-queen’s problem and explain.     [8+7] 
+ 
+4.  Suppose we start with n sets, each containing a distinct element. 
+            a) Show that if u unions are performed, then no set contains more than u+1 elements. 
+b) Show that at most n  – 1 unions can be performed before the number of sets           
+becomes 1. 
+c) Show that if fewer than (n/2) unions are performed, then at least one set with a single 
+element in it remains.                                     [5+5+5] 
+ 
+5.a)  Solve the following 0/1 Knapsack Problem using dynamic programming 
+                n=4, m=30, (w1,w2,w3,w4) = (10,15,6,9) and (p1, p2, p3, p4) = (2,5,8,1). 
+   b)  Explain the concept of the traveling salesperson problem.     [7+8] 
+ 
+6.  Use the function OBST to compute w(i,j), r(i,j),  and c(i,j), 0 ≤ i < j ≤ 4, for the 
+identifier set  (a1,  a2, a3, a4) = (do, if, int, while) with p(1  : 4) = (3, 3, 1, 1) and 
+q(0:4)=(2,3,1,1,1). Using the r(i,j)’s construct the optimal binary search tree.   [15] 
+ 
+7.a)  Explain the general method of Greedy method. 
+   b)  Write and explain the Kruskal’s algorithm with an illustrative example.  [7+8] 
+ 
+8.a)  Explain with respect to branch and bound 0/1 knapsack problem. 
+   b)  Discuss in detail about the classes of NP-hard and NP-complete.    [7+8] 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ R18 USED PAPERSAUG/SEP-2021
+

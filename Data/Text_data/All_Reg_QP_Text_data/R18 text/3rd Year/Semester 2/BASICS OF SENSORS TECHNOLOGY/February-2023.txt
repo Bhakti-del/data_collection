@@ -1,0 +1,73 @@
+ 
+Code No: 156DK     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+BASICS OF SENSORS TECHNOLOGY 
+(Common to ECE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      State the working principle of Sensors.      [2] 
+   b)      Classify different types of sensors.       [3] 
+   c)      What is the Piezoelectric effect?       [2] 
+   d)      Write the applications of thermocouples.      [3] 
+   e)      Define relative velocity.        [2] 
+   f)      Write the applications of gyroscopes.       [3] 
+   g)     List the Different Methods of measuring consistency and Viscosity.   [2] 
+   h)      Give specific gravity scales used in Petroleum Industries.    [3] 
+   i)       What is a master sensor?        [2] 
+   j)       Briefly explain the Variable Frequency Drive.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Differentiate between thermistor and resistance temperature detector. 
+   b)  Explain how capacitance can be used for sensing.     [5+5] 
+OR 
+3.a)  Explain the operation of LVDT with a neat sketch. 
+   b)  Enumerate the different cases of Eddy current sensors.    [5+5] 
+  
+4.a)  Formulate the working principle of the piezoelectric sensor with an illustrative diagram. 
+b)  A piezoelectric sensor has C = 500 pF. The sensor leakage resistance is 10GΩ. The 
+amplifier input is 5MΩ. Compute the lower corner frequency.   [6+4] 
+OR 
+5.a)  Explain the Laws of Thermocouples. 
+   b)  Discuss the cold junction compensation in thermocouples circuits.   [6+4] 
+ 
+6.  Discuss the various methods to measure rotational velocity.      [10] 
+OR 
+7.  Explain the density measurement using the strain gauge load cell method and the 
+buoyancy method.           [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+8.  Draw and explain the industrial consistency meter to measure the consistency.    [10] 
+OR 
+9.  Explain how level meters and microphones are helpful in measuring sound.   [10] 
+ 
+10.  Explain the interfacing of the density sensor.        [10] 
+OR 
+11.  With a neat sketch, explain the interfacing of the viscosity sensor.     [10] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

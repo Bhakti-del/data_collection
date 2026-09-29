@@ -1,0 +1,75 @@
+ 
+ 
+Code No: 152AG 
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, May - 2019 
+ ENGINEERING GRAPHICS 
+(Computer Science and Engineering) 
+Time: 3 hours               Max Marks: 75 
+Answer all five questions 
+All questions carry equal marks 
+- - - 
+1.a) The distance between the centers of two drilled holes which are 0.8 m apart is shown by a 
+ line of 2 cm on the drawing. Construct a scale to read up to 5 m. Show on the scale a 
+ length of 2.3 m.  
+   b) A stone thrown from the ground level reaches a maximum height of 20 m and falls on the 
+ ground at a distance of 35 m from the point of projection. Trace the path of the stone. 
+            [7+8] 
+OR 
+2. Draw a hypocycloid whose diameter of rolling circle is 60 mm and the diame ter of the 
+ base circle is 180 mm. Draw a tangent and normal at any point on the curve. If the 
+ diameter of the base circle is reduced to 120 mm what will be the curve?  Construct at 
+ least two points on the new curve       [15]  
+      
+3.a) A point 40 mm above xy line is the plan  view of three points A, B and C. The point A is 
+ 20 mm above, the point B is 30 mm below and the point C is on the HP. Determine the 
+ projections of A, B and C.  
+   b) Draw the projections of a line 70 m long having one of its ends lying both in the HP and 
+ the VP. The other end is 40 mm above the HP and 35 mm in front of the VP. Find the 
+ inclinations of the line with the HP and the VP.     [7+8] 
+OR 
+4. A triangular lamina having sides 40 mm, 60 mm and 80 mm is held in such a way that the 
+ smallest side is parallel to the HP and perpendicular to the VP. The plane of the lamina is 
+ inclined at 600 to the HP. Draw the projections of the lamina.   [15] 
+ 
+5. A cylinder of base 30 mm diameter and axis 45 mm long is resting on a point of its  base 
+ on HP so that the axis is inclined at 30 0 with HP. Draw the projections of the cylinder 
+ when the top view of the axis is inclined at 450 with xy.      [15]  
+OR 
+6. A square pyramid base 40 mm side and axis 60 mm long has its base on the HP and base 
+ edges equally inclined to the VP. It is cut by a section plane inclined at 30 0 to the HP  
+ perpendicular to VP and bisecting the axis. Draw its sectional views and true shape of the 
+ section.           [15]  
+       
+7. A lamp shape is formed by cutting a cone of 70 mm diameter and 90 m m height by a 
+ horizontal cutting plane at a distance of 36 mm from the apex and another cutting plane 
+ inclined at 30 degree to HP, passing through the lower left corner of the base. Draw the 
+ development of the shade.        [15]  
+OR 
+8. A square prism of base side 60 mm rests on one of its ends on the HP with the base sides 
+ equally inclined to the VP. It is penetrated fully by another square prism of base side        
+ 45 mm with the base side equally inclined to the HP. The axes intersect at right angles . 
+ The axis of the penetrating prism is parallel to both the HP and the VP. Draw the 
+ projections of the prisms and show the lines of intersection.    [15]  
+       
+ 
+R18 
+JNTUH USED 21-05-2019PM
+
+ 
+ 
+ 
+9. A waste paper basket is in the form of a hollow inverted frustum of a square pyramid.  
+ The upper end is a square of 100 mm side; the lower end is a square of 70 mm and the 
+ depth is 120 mm. Draw its isometric projection.     [15]  
+OR 
+10. The following figure shows the tool post slide of a lathe machine. Draw the front view, 
+ side view and the top view of the object.  All the dimensions are in mm only. [15]  
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 21-05-2019PM
+

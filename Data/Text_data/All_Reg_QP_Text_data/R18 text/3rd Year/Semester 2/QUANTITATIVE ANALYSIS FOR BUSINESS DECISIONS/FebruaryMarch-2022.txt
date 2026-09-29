@@ -1,0 +1,50 @@
+Code No: 156DY 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ B. Tech III Year II Semester Examinations, February/March - 2022 
+QUANTITATIVE ANALYSIS FOR BUSINESS DECISIONS 
+(Common to CE, CSE, IT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Briefly explain the different Techniques of OR. Where are they applied? 
+   b) Brief on the solution methodology of simplex algorithm.    [8+7] 
+ 
+2.a) What are the advantages of OR? 
+   b) How did OR develop in India and where are they being applied now?  [8+7] 
+ 
+3.a) What is a Transportation Problem and brief on the application of the transportation 
+model. 
+b) Briefly explain the steps involved in solving the Vogel’s Approximation Method 
+(VAM).          [8+7] 
+ 
+4.a) What is an Assignment Problem? What are its Objectives and Characteristics? 
+   b) Solve the following Assignment Problem Efficiency Matrix:   [8+7] 
+ 
+ B1 B2 B3 B4 
+A1 60 65 70 55 
+A2 70 60 55 65 
+A3 65 60 75 70 
+A4 50 55 60 80 
+ 
+5.a) What is Minimax Regret Criterion? Give a hypothetical example of the same.  
+   b) What are the situations that make group replacement of low-cost items?  [8+7] 
+ 
+6. At a Sales Counter manned by a single person, customers arrive according to 
+Poisson distribution, at a mean rate of 20 per hour and the time required to service a  
+customer is expected to follow Exponential   Distribution   with   a   mean   rate   of  
+120 seconds. Find the Average Waiting Time of a customer in the System an d in the  
+Queue.             [15] 
+ 
+7.a) What is a Q-System? What are its basics elements? Explain the same briefly. 
+   b) Explain the solution methods of games without saddle point.   [8+7] 
+ 
+8.a) What is Coefficient of Optimism (Hurwitz Criterion) in Decision-Making under 
+Uncertainty? Briefly explain the same. 
+   b) Explain the nature, scope of simulation and brief on types of simulation.  [8+7] 
+ 
+---ooOoo--- 
+ 
+R18 used paper feb/mar-2022 jntuh
+

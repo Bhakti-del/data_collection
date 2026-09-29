@@ -1,0 +1,45 @@
+Code No: 155CK  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, February - 2022 
+NATURAL LANGUAGE PROCESSING 
+(Computer Science and Engineering) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Explain in detail about some early NLP Systems. 
+   b)  List and explain the issues and challenges of NLP System in detail.   [8+7] 
+ 
+2.a)  Discuss in detail about Complexity approaches of NLP Systems. 
+   b)  What are the measures used to find the performances of the NLP Methods.  [8+7] 
+ 
+3.a)  Consider the following training set and implement Bi-gram model to calculate the 
+probability of given test sentence. 
+Training Set: I am a human 
+            I am not a robot 
+I I live in Hyderabad 
+Test Sentence: I I am not 
+   b)  What are the Limitations in syntax parsing?       [8+7] 
+ 
+4.a)  Give all possible parse trees for the sentence, Stolen painting found by tree. 
+   b)   Explain any one Parsing Algorithm with the help of an example.   [8+7] 
+ 
+5.a)  State the types of references used in discourse analysis. 
+   b)  Describe in detail about word sense disambiguation with an example.  [8+7] 
+ 
+6.a)  Give example to explain the concept of predicate argument structure. 
+   b)   What are System paradigms in predicates?  Explain.     [8+7] 
+ 
+7.a)  Explain Anaphora Resolution with the help of an example. 
+   b)  What kind of predicate structure are used for language modelling?   [8+7] 
+  
+8.a)  Discuss in detail about the concept of Cohesion Structure.  
+   b)  List out popular lexical resources used in the processing of natural language text.   [8+7] 
+                  
+ 
+ 
+---ooOoo--- 
+ R18 
+used paper feb-22 jntu
+

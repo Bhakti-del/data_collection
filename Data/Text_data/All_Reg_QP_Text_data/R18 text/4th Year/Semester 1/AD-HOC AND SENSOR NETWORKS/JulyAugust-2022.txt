@@ -1,0 +1,40 @@
+Code No: 157AA 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+AD-HOC AND SENSOR NETWORKS 
+(Computer Science and Engineering)        
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Distinguish a Mobile ad hoc Network (Manet) from other types of networks.  
+   b) List and explain the important characteristics of a Manet.     [7+8] 
+ 
+2.a) Explain the advantages and disadvantages of DSDV algorithm.  
+   b) What are temporal and spatial resolutions in DREAM location service?   [7+8] 
+ 
+3.a) Illustrate the broadcast storm problem in ad hoc networks.  
+   b) Explain the taxonomy of broadcast routing protocols.     [7+8] 
+ 
+4.a) Explain the pros and cons of tree-based and mesh-based multicast solutions.  
+   b) Explain the mechanism in any hybrid multicast protocol for Manets.  [7+8] 
+ 
+5.a) What is the significance of geocast routing in Manet applications? Give the taxonomy of 
+geocast protocols.   
+   b) Illustrate the concept in Mesh-based Geocast Routing (MGR) protocol.   [7+8] 
+ 
+6.a) List and brief the reasons for poor performance of TCP over ad hoc network.  
+   b) Explain how the problem of TCP unfairness problem is addressed.    [7+8] 
+ 
+7.a) Draw the diagram for functional components of a typical wireless sensor node.  
+   b) Briefly write about the spectrum of applications of wireless sensor networks.  [7+8] 
+ 
+8. Write about the following in wireless sensor networks:  
+a) Distributed query processing 
+b) In-network processing.        [7+8] 
+ 
+---oo0oo--- 
+ R18 
+JNTUH Used Papers
+

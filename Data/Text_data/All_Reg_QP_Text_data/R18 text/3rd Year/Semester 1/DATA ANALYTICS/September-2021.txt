@@ -1,0 +1,37 @@
+ Code No: 155AT 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+DATA ANALYTICS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+---- 
+ 
+1. Explain about various constraints and influences that will affect data architecture 
+design.             [15] 
+ 
+2. Briefly describe various sources of data like sensors, signals, GPS in data management.
+                [15] 
+ 
+3.  Discuss various data analytics techniques with examples.      [15] 
+ 
+4. Enumerate your views and observations on different data modelling techniques.   [15] 
+ 
+5.  Test for the ‘least square estimation’ with appropriate case study.     [15] 
+ 
+6. ‘Logistic regression is an example of non -linear regression’ prove the statement with 
+suitable case study and experiment.         [15] 
+ 
+7. Briefly construct the following decision tree algorithms. 
+ a) CART    
+b) C4.5            [8+7] 
+ 
+8.  Interpret on ‘pixel-oriented visualization’ with example.        [15] 
+ 
+ 
+---ooOoo--- 
+ 
+ R18 
+USED PAPERSSEP-2021
+

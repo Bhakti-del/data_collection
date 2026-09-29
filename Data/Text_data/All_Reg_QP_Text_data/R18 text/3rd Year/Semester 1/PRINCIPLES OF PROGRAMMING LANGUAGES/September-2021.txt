@@ -1,0 +1,45 @@
+Code No: 155CX  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+PRINCIPLES OF PROGRAMMING LANGUAGES 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+---- 
+ 
+1.a)  What are the potential benefits of studying programming language concepts? 
+   b)   Explain the process of compilation with neat flow diagram.    [7+8] 
+ 
+2.a)  Explain the characteristics of writability of a programming language. 
+   b)  Prove that the following grammar is ambiguous:     [7+8] 
+  <S><A> 
+  <A><A>+<A>|<id> 
+  <id>a|b|c 
+  
+3.a)  Write the process of implementing pointer and reference types. 
+   b)  Discuss about different assignment statements.     [8+7] 
+ 
+4.a)  How stack dynamic variables differs with heap dynamic variables? 
+   b)  Explain the design issues of multiple selection constructs.    [8+7] 
+ 
+5.a)  Describe the following parameter passing mechanisms. 
+ i) Pass-by-value-result 
+ ii) Pass-by-Reference 
+   b)  In what way coroutines different from conventional subprograms?   [8+7] 
+ 
+6.a)  Describe the deep-access method of implementing dynamic scoping. 
+   b)  What is parameterized ADT? How Java supports parameterized ADT?  [8+7] 
+ 
+7.a)  How Ada supports concurrency? Explain. 
+   b)  Define Thread. How thread synchronization is achieved in C#?   [7+8] 
+ 
+8.a)  Explain about fact and rule statements of Prolog. 
+   b)  Write a procedure in Python to find the greatest common divisor of two numbers. [7+8] 
+   
+ 
+ 
+---ooOoo--- 
+ R18 
+USED PAPERSSEP-2021
+

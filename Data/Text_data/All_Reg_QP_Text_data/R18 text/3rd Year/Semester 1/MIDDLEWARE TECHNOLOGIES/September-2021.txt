@@ -1,0 +1,45 @@
+Code No: 155SM 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+MIDDLEWARE TECHNOLOGIES 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Explain the evolution of corporate computing models from centralized and distributed 
+computing.            [15] 
+ 
+2.a)  Discuss the benefits provided by CORBA object request broker. 
+   b)  Contrast ORB and remote procedure call.          [7+8] 
+ 
+3.a)  Describe the different services provided by CORBA as per OMG standards. 
+   b)  List the object oriented programming features of C# language.       [8+7] 
+ 
+4.  Discuss the need of the following .NET predefined attributes: 
+a) Obsolete   
+b) Serializable   
+c) SeriveContract  
+d) DllImport            [15] 
+    
+5.  How can a client find an object in the namespace created by server? Explain with an 
+example.              [15] 
+ 
+6.a)  Demonstrate the usage of CORBA trader 101. 
+   b)  What types of services are provided by Java to Java Beans? Explain.    [7+8] 
+ 
+7.a)  Compare compile time and run time Java Beans. 
+b)  “CORBA components are JavaBeans++.” Substantiate this st atement with appropriate 
+examples.             [7+8] 
+ 
+8.a)  What Enterprise Java Beans can expect from their containers? 
+   b)  Describe the EJB client/server development process with a necessary diagram. [7+8] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ RA 
+USED PAPERSSEP-2021
+

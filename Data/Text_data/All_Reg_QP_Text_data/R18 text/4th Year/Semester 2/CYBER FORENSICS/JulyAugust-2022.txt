@@ -1,0 +1,34 @@
+Code No: 158AQ        
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+CYBER FORENSICS 
+(Common to CSE, IT) 
+Time: 3 Hours         Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What is the computer roles in crimes? 
+   b) What are the activities in initial response?      [7+8] 
+ 
+2. Explain about the digital forensics.       [15] 
+ 
+3. Explain about initial response and volatile data collection from windows system. [15] 
+ 
+4. Explain the forensic duplication tool requirements.     [15] 
+ 
+5.a) Explain the validation of forensic data. 
+   b) What are the procedures for network forensics?     [8+7] 
+ 
+6.a) What are the computer forensic software tools? 
+   b) Explain the role of the client-server in e-mail.     [8+7] 
+ 
+7. Explain about the mobile device forensics.      [15]  
+ 
+8. How to examine NTFS disks?       [15] 
+ 
+---oo0oo--- 
+R18 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+
