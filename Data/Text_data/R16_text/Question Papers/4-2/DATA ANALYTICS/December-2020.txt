@@ -1,0 +1,30 @@
+Code No:  138BJ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, December - 2020 
+DATA ANALYTICS  
+(Common to CSE, IT) 
+Time: 2 Hours                                      Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1. With an example, explain how the outliers are detected in a given data.  [15] 
+  
+2. With a neat diagram, explain the elements of design data architecture.  [15] 
+  
+3. Discuss about the tools used to perform data analytics.    [15] 
+  
+4. Explain about various data modeling techniques in brief.    [15] 
+    
+5. Determine the purpose of least square estimation in regression with an example.  [15] 
+  
+6. Explain the analytics application of modeling in business.    [15] 
+ 
+7. Explain the concept of pruning and complexity in tree building.   [15] 
+ 
+8. Elaborate in detail about Icon-Based Visualization Techniques.   [15] 
+  
+ 
+---ooOoo--- 
+ R16 
+

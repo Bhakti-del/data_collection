@@ -1,0 +1,66 @@
+Code No: 117EE  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+LINUX PROGRAMMING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                            Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is a Shell?         [2]  
+   b)      Explain briefly about Sed-Scripts.       [3] 
+   c)      What is a File?           [2] 
+   d) What is a Hard Link?         [3] 
+   e) Explain briefly about Abort Function.      [2]  
+   f) What is a Process?         [3]  
+   g) Define IPC.            [2]  
+   h)      Discuss briefly about “popen” library function.     [3]  
+   i) What is Shared Memory?        [2] 
+   j) Explain briefly about “setsockopt” system call.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  List out File Handling Utilities. 
+   b)  Discuss in detail about System commands in awk.     [5+5] 
+OR 
+3.a)  Enumerate Text processing utilities and Backup utilities. 
+   b)  Explain in detail about various control structures in Shell Programming.  [5+5] 
+  
+4.a)  Write a detailed note on Kernel Support for Files. 
+   b) What is a Directory? Explain in detail about Scanning Directories.   [5+5] 
+OR 
+5.a) Explain in detail about File Permissions and File Ownership commands. 
+   b)  How do we obtain Current Working Directory? Explain Directory Contents. [5+5] 
+ 
+ R13 
+JNTUH Used papers 2023
+
+6.a)  Discuss Layout of a C program image in Main Memory. 
+   b)  Explain in detail about Signal generation and handling.    [5+5] 
+OR 
+7.a)  Explain in detail about Kernel support for Process. 
+   b)  Differentiate between Reliable and Unreliable Signals.    [5+5] 
+ 
+8.  What is a Pipe? Explain in detail about differences between unnamed and named Pipes. 
+            [10] 
+OR 
+9.  What is a Semaphore? Explain in detail about APIs for Semaphores.  [10] 
+    
+10.a)  Discuss in detail about Kernel support for Shared Memory. 
+     b)  Explain in detail about Single Server-Client connection with an example.  [5+5] 
+OR 
+11.a)  Discuss about IPC over a Network. 
+     b)  Explain in detail about Berkeley Sockets.      [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

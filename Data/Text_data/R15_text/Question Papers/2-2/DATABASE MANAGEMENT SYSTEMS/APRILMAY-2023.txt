@@ -1,0 +1,84 @@
+ 
+Code No: 124CQ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, April/May - 2023 
+DATABASE MANAGEMENT SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+ 
+1.a) Distinguish between super key and  Candidate key.     [2] 
+   b) How do you represent the following in E-R model?     
+ i) Week entity set   ii) Role        iii) Strong entity set  [3] 
+   c) What are various Domain constraints SQL?      [2] 
+   d) Explain tuple relational calculus.       [3] 
+   e) Define functional dependencies with example.     [2] 
+   f) What are the conditions for 2NF with example?      [3] 
+   g) Explain about durability of transaction.      [2] 
+   h) Explain about the multiple granularity.      [3] 
+   i) What is the order of B+ tree?        [2] 
+   j) What is difference between Indexing and hashing?     [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) What are the goals and advantages of DBMS? 
+   b) Develop an E-R Diagram for any Banking enterprise system.   [5+5] 
+OR 
+3.a)  What are the functions of Database Administrator? 
+   b) What is data model? Explain Relational Model and E-R model.   [5+5] 
+ 
+4.a) What are NULL values? Are they supported in relational model ? How do they eff ect 
+the meaning of queries? Can primary key fields of table contain null values? 
+   b) What is the difference between tuple relation calculus and domain relation calculus?
+            [5+5] 
+OR 
+5.a) What aggregate operators does SQL support ? Explain. 
+   b) Explain how to implement triggers in SQL.      [5+5] 
+ 
+ 
+ 
+R15 
+JNTUH Used papers 2023
+
+ 
+6.a) Explain about the Functional dependency and  Multivalued dependency. 
+   b)  What are the conditions required for a relation to be in 3NF and 4NF? Explain. [5+5] 
+OR 
+7.a) Explain about the lossless join and dependency preserving with examples. 
+b) Compute the closer of the following set of functional dependencies for a relation 
+scheme. R(A,B,C,D,E,F,G,H),  F={AB C, A DE, B F,FGH}. List out the 
+candidate keys of R.         [5+5] 
+ 
+8.a) Explain Multiple granularity locking approach and how does it works. 
+   b) What is log file?  Explain the following log based recovery schemes: 
+ i) Deferred data base modification ii) immediate data base modification.  [5+5]  
+OR 
+9.a) Show that the two phase locking pro tocol ensur e the conflict serializability and that        
+ transactions can be serialized according to their locks.  
+   b) Explain about remote backup systems.      [5+5] 
+ 
+10.a) How does ISAM handles insert and delete operations? Explain. 
+b) Discuss the rel ationship between Extendible and Linear Hashing. What are their 
+relative merits and demerits?        [5+5] 
+OR 
+11.a) What is indexing? Explain the cluster index, primary and secondary indexes with       
+ examples. 
+    b) Differentiate between tree based and Hash based indexes.    [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

@@ -1,0 +1,42 @@
+ 
+Code No: 135CH   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+FUNDAMENTALS OF MECHANICAL ENGINEERING 
+(Common to CE, EEE, CSE, MIE) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Explain the significance of heat transfer, work transfer and internal energy. 
+   b) State and explain the first law of thermodynamics.     [8+7] 
+ 
+2. Explain in detail the reasons for ozone depletion and suggest some remedies to mitigate 
+the effect of global warming.           [15] 
+  
+3. Explain the following terms:  
+ a) Specific volume 
+b) Dryness fraction of steam 
+c) Steam calorimeters.               [5+5+5] 
+ 
+4. Explain adiabatic process and Poly-tropic processes and discuss their applications.  [15] 
+ 
+5. Explain how do you d escribe the thermal efficiency of Rankine cycle  and derive its 
+equation from P-V and T-S diagrams.         [15] 
+ 
+6. Explain the working principle of four- stroke Diesel engines with a suitable diagram.
+              [15] 
+ 
+7.a) Explain the working of vapor absorption refrigeration system with the help of a neat 
+sketch. 
+   b) Explain the working of centrifugal pumps with their characteristics.  [8+7] 
+ 
+8.a) Explain the construction and applications of universal couplings. 
+   b) How does the shoe and disc brake work? Explain.      [8+7] 
+  
+ 
+---ooOoo--- 
+ R16 
+USED PAPERSSEP-2021
+

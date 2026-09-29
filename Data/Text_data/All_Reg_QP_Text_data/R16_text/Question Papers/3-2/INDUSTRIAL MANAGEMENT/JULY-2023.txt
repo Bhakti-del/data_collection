@@ -1,0 +1,80 @@
+Code No: 136FF   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, July - 2023 
+INDUSTRIAL MANAGEMENT 
+(Common to CE, EEE, ME, ECE, CSE, MIE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Describe the leadership styles.        [2]       
+   b)      Brief the Fayol’s principles of Management.      [3] 
+   c)     Discuss the merits of inverted pyramid structure.       [2] 
+   d)      What are the characteristics of virtual organization?     [3] 
+   e)      What are the characteristics of Process layouts?      [2] 
+   f)      Explain about fast diagram for identification of location of plant.   [3] 
+   g)      Define Standard time for a work.       [2] 
+   h)      Explain the procedure involved for drawing c chart.     [3] 
+   i)       Describe the characteristics of point method.      [2] 
+   j)       Discuss the various slacks associated with CPM.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  State and explain various functions  of management. 
+   b)  According to Maslow’s Theory, what are the human needs and explain.  [5+5]   
+OR 
+3.a)  State and explain Dou McGregor’ Theory X and Theory Y. 
+   b)  State and explain social responsibilities of Management.    [5+5] 
+  
+4.a)  Explain characteristics of Line and Staff organization. State its limitations.   
+   b)     Explain characteristics of lean and flat organization and state it merits and demerits.
+             [5+5] 
+OR 
+5.a) State and explain the characteristics of functional organization. 
+   b) State the characteristics of matrix organization and state its merits and demerits. [5+5] 
+ 
+6.a)   State the phases involved in product design process and process selection process. 
+   b)    State the characteristics of product layout.      [5+5] 
+OR 
+7.a)     State  location factors to be considered  in the selection of site . Explain by considering           
+ some example.  
+   b)  Define Value. And state various types of values.     [5+5] 
+  
+ R16 
+used paper July/Aug-2023
+
+8.a)   Explain various steps involved in establishing standard time using work sampling.  
+   b)    Explain working of double sampling method. N=1000, n1=50, c1 = 3  n2= 75 c2=2.[5+5] 
+OR 
+9.a)   Explain steps involved in Time study in establishing standard time.  
+   b)   Explain the steps involved in p charts.      [5+5] 
+ 
+10.a)  Explain the following methods of Job evolution I Simple routing method and factor          
+comparison method. 
+     b)   Steps involved in finding probability of completing the project in PERT.  [5+5]   
+OR 
+11. The  data  pertaining  to  a  project  with  the  duration  of  activities  in  days,  and  the  
+associated  costs  in  Rupees  are  shown  in  the  Table  below.  If  the  indirect  cost  is  
+Rs.50  per  day,  find  the  most  economic al  schedule  for  completing  the  project  
+within  the  minimum  possible  time.         [10] 
+ 
+Activity Normal  basis Crash  basis 
+Events Name Duration Cost Duration Cost 
+1 - 2 A 11 600 8 900 
+1 - 3 B 6 500 4 760 
+1 - 4 C 8 900 4 1500 
+3 - 2 D 4 800 3 930 
+3 - 4 E 7 1100 3 1800 
+2 - 5 F 10 700 5 1600 
+4 - 5 G 9 1400 6 2000 
+ 
+---ooOoo--- 
+used paper July/Aug-2023
+

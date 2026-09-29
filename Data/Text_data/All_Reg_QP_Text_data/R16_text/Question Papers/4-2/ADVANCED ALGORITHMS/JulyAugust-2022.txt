@@ -1,0 +1,45 @@
+Code No: 138AC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+ ADVANCED ALGORITHMS 
+ (Computer Science and Engineering) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the algorithm of quick sort with an example. 
+   b) Write an algorithm of Longest Common Subsequence.    [7+8]  
+ 
+2.a) Write an algorithm of Optimal Binary Search Tree. 
+   b) Sort the following list of elements by using randomized heap sort.   [8+7] 
+  54, 89, 20, 77, 10, 46, 92, 36  
+ 
+3.a) Write an algorithm of Kruskal’s minimum cost spanning tree. 
+   b) Explain about Amortized Analysis.       [8+7] 
+ 
+4.a) Explain about the activity selection problem with an example. 
+   b) Write an algorithm of Max Flow problem.      [7+8] 
+ 
+5.a) Derive the time complexity of Strassen’s Matrix multiplication. 
+   b) Explain about the Zero – one principle.      [8+7] 
+ 
+6. Explain about the merging networks with an example.    [15] 
+ 
+7.a) Apply the Rabin - karp algorithm for the following text and pattern and Illustrate the  
+intermediate steps 
+    text = 314593671028  
+pattern = 67  
+b) Write an algorithm of Naïve String Pattern and also find the time complexity of the             
+same.           [7+8]  
+ 
+8.a) Explain about the NP - Complete and also explain any one NP -Complete problem with an 
+example. 
+   b) Explain about the Travelling Sales Person problem by using an approximation algorithm. 
+            [7+8] 
+ 
+---oo0oo---  
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

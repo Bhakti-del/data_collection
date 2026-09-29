@@ -1,0 +1,158 @@
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                     Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 mark s               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      State objectives of information security audit.     [2]  
+   b)      Write about Storage devices.        [3] 
+   c)      What is mean by result analysis?       [2] 
+   d)      Write characteristics of firewall security audit.     [3] 
+   e)      What are challenges in remediation?       [2]  
+   f)      Write short notes on threats.        [3]  
+   g)      Define vulnerability assessment.       [2]  
+   h)      What are the steps for risk assessment?      [3]  
+   i)       List limitations of configuration management.     [2] 
+   j)       What are the typical components of testing configuration?    [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Discuss in detail about Phases of Information Security Audit and Strategies. 
+   b) Illustrate Ethics of an Information Security Auditor.     [5+5] 
+OR 
+3.a) Compare black box and white box information security methodologies. 
+   b) Describe in detail about the Infrastructure, Networks and Communication routes. [5+5] 
+  
+4.a) Elaborate implementations issues regarding internal and external security Audit. 
+   b) State the benefits and objectives of information security audit.   [5+5] 
+OR 
+5.a) Explain the system-level, application level and user information security audit. 
+   b) Define Pre-Audit checklist? Explain post auditing actions.    [5+5] 
+ 
+6.a) Explain the concept of Computer-based Social Engineering in vulnerability Management. 
+   b) Discuss vulnerabilities in information security.     [5+5] 
+OR 
+7.a) Discuss in detail about vulnerability scanning. 
+   b) What are the steps included in developing vulnerability testing policies?  [5+5] 
+ 
+R13 
+JNTUH Used papers 2023
+
+8.a) Compare the quantitative and qualitative information security  risk assessment approaches. 
+   b) With neat diagram, explain the risk management hierarchy.    [5+5] 
+OR 
+9.a) Write the notes on Vulnerability Assessment Reports – Tools. 
+   b) Explain Characteristics of a Good Vulnerability Assessment Solutions and Considerations. 
+            [5+5] 
+ 
+10. Explain about Configuration Management Requirements.    [10] 
+OR 
+11. Write about Development of configuration Control Policies.   [10] 
+       
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Code No: 127JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, 2023 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ ( ) 
+Time: 3 Hours                Max. Marks: 75 
+R15 
+JNTUH Used papers 2023
+
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What are the security objectives information security methodologies. [2]  
+   b)      Summarize the information security strategies.    [3] 
+   c)      What is mean by Pre-Audit checklist?     [2] 
+   d)      Write objectives of Web application security auditing.   [3] 
+   e)      Define Vulnerability testing?       [2]   
+   f)       Write short notes on threat management.     [3]   
+   g)      What is Residual Risk?         [2]   
+   h)      What are the major limitations of Good Vulnerability Assessment?  [3]   
+   i)       Summarize the major considerations for Configuration Control Policies. [2] 
+   j)       What is the need for Plan-Control?      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+Unit-I 
+2.a) Write importance of Information Security performance metrics 
+   b) Discuss the various functions of infrastructure and network? 
+OR 
+3.a) Discuss the legal, ethical and professional issues related to  Information Security. 
+   b) Illustrate security server and storage devices in detail. 
+  
+Unit-II 
+4.a) What are the various functions of IDS technologies in security auditing? 
+   b) Define Result Analysis? Write about the concept of Information Standard Formats? 
+OR 
+5.a) Explain in detail about the concept of social engineering security auditing. 
+   b) Write short note on application firewalls. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unit-III 
+6.a) Describe in detail about the Information Security Vulnerabilities. 
+JNTUH Used papers 2023
+
+   b) Explain in detail about the stages of Vulnerability analysis. 
+OR 
+7.a) Discuss the concept of Human-based Social Engineering in vulnerability Management. 
+   b) Elaborate the importance of remediation in vulnerability Management. 
+ 
+Unit-IV 
+8.a) List and discuss the different risk assessment approaches? 
+   b) Discuss the important implementation issues for information security assessment systems. 
+OR 
+9.a) Define classification?  Explain the types of Types of Vulnerability Assessment. 
+   b) Write the notes on Vulnerability Risk acceptance. 
+ 
+Unit-V 
+10. Describe in detail about the Testing Configuration Management. 
+      
+OR 
+11. Explain various criteria used by the system to determine configuration reviews? 
+  
+       
+  
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

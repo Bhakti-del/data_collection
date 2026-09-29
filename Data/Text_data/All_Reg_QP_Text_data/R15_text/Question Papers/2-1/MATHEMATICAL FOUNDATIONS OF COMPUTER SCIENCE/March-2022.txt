@@ -1,0 +1,46 @@
+Code No: 123BN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, March - 2022 
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+(Common to CSE, IT) 
+Time: 3 Hours                                 Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Show that ( 𝑝→𝑟)∧(𝑞→𝑟)𝑎𝑛𝑑 (𝑝∨𝑞)→𝑟 are logically equivalent. 
+   b) What are the negations of the statements ∀𝑥 (𝑥2 > 𝑥) 𝑎𝑛𝑑 ∃𝑥 (𝑥2 = 2)?  [7+8] 
+ 
+2.a) Show that the following statements a re logically equivalent without using truth table.   
+ (PQ) ∧ (PR) ↔P(Q∧R)? 
+   b) Without constructing the truth tables, obtain the principle disjunctive normal form of  
+(¬𝑝 → 𝑟) ∧ (𝑞 ↔ 𝑟)         [8+7] 
+ 
+3.a) If R and S are reflexive, symmetric and tr ansitive, show that R∩S is also reflexive, 
+symmetric and transitive. 
+   b) Show that intersection of any two subgroups of a group G is also a sub group of G.[7+8]  
+ 
+4.a) Let A = {1, 2, 3, 4, 5}, R ={(1, 1), (1, 2), (2, 1), (2, 2), (3, 3), (3, 4),  
+(4, 3), (4,4), (5, 5)} and S = {(1, 1), (2, 2), (3, 3), (4, 4), (5, 4), (4, 5), (5, 5)}.  
+Find the smallest-equivalence relation containing R and S and compute the partition of A 
+that it produces. 
+   b) Let L be lattice. Then prove that a˄b = a if and only if a˅b = b.   [7+8] 
+ 
+5.a) Explain Multinomial theorem with an example. 
+b) In how many ways can six boys and four girls be arranged in straight line so that no two 
+girls are sit together.         [7+8] 
+ 
+6.a) State and prove the binomial theorem. 
+   b) List the applications of Binomial and Multinomial coefficients.   [7+8] 
+ 
+7.a) Solve the recurrence relation a n + an-1 - 8 a n-2 - 12 a n-3 =0 for n >= 3,  given that a 0 =1,               
+a1 =5, a2 =1. 
+   b) Discuss different applications of recurrence relations in computer science.  [9+6] 
+ 
+8. Define Isomorphism. Establish an isomorphism for the following the graphs. [15] 
+ 
+ 
+---ooOoo--- 
+R15 
+JNTUH Usedpapers March 2022
+

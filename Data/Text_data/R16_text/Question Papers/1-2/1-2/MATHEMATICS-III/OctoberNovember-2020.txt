@@ -1,0 +1,56 @@
+Code No: 132AC             
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year II Semester Examinations, November/December - 2020  
+MATHEMATICS-III 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM, CEE, 
+MSNT) 
+Time: 2 hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+1. Derive the formula for finding the mean of the binomial distribution.  [15] 
+ 
+2. Find the moment generating function of 𝑓 𝑥 =  
+1
+8 3𝑐𝑥 ,𝑥 = 0, 1, 2, 3  and hence find its 
+mean and variance.         [15] 
+ 
+3.a) The mean of certain normal population is equal to the standard error of the mean of the 
+samples of 64 from that distribution. Find the probability that the mean of the sample size 
+36 will be negative. 
+  b) Distinguish between the point estimation and interval estimation.   [7+8] 
+ 
+4.a) In 1950 in India the mean life expectancy was 50 years. If the life expectancies from          
+a random sample of 11 persons are 58.2, 56.6, 54.2, 50.4, 44.2, 61.9, 57.5, 53.4, 49.7, 55.4, 
+57.0. Does it confirm the expected view? 
+   b) If the sample of size 36 is taken and the mean and standard deviation of samples are                
+ 50 and  6. Find the probability that x lies between 48 and 51.   [7+8] 
+ 
+5.a) A random sample of 500 pineapples was taken from a large consignment and 65 were 
+found to be bad. Show that the S.E. of the proportion of bad ones in a sample of this size is 
+0.015 and deduce that the percentage of bad pineapples in the consignment almost certainly 
+lies between 8.5 and 17.5. 
+  b) Discuss various types of alternative hypothesis with suitable example.  [7+8] 
+ 
+6.a) A machine runs on an average of 125 hours/year. A random sample of 49 machines has an 
+annual average use of  126.9 hours with standard deviation 8.4 hours. Does this suggest 
+believing that machines are used on the average more than 125 hours annually at 5% level 
+of significance? 
+b) The average marks scored by 32 boys is 72 with a standard deviation of 8. While t hat for 
+36 girls is 70 with a standard deviation of 6. Does this indicate that the boys perform better 
+than girls at level of significance 0.05?      [7+8] 
+ 
+7. Find the root of the equation 3𝑥− 1 +𝑠𝑖𝑛𝑥 = 0 by iteration method.  [15] 
+ 
+8. Solve 
+ 
+2 , 0 1dy x x y ydx   
+ 
+for y(0.1) using Runge kutta method.   [15]  
+ 
+ 
+---ooOoo--- 
+ 
+R16 
+JNTUH USED PAPERS OCT/NOV 2020
+

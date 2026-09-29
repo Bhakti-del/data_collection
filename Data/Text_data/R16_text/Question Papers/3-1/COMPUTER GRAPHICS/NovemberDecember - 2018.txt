@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 135BY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, November/December - 2018 
+ COMPUTER GRAPHICS 
+(Common to CE, CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      List some of the input devices.       [2] 
+   b)      Write the drawbacks of scan line algorithm.      [3] 
+   c)      Write the properties of homogeneous coordinates.     [2] 
+   d)      Explain about 3D shear transformation.      [3] 
+   e)      What is quadratic surface?         [2] 
+   f)       Write the applications of Bezier splines.      [3] 
+   g)     What is transparency?         [2] 
+   h)      What are the advantages of back face detection method?    [3] 
+   i)       What are the applications of computer animation?     [2] 
+   j)       Explain about direct motion specification.      [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) Explain DDA scan algorithm in detail. 
+   b) Compare raster scan system and random scan system.    [5+5] 
+OR 
+3.a) Write midpoint ellipse drawing algorithm. 
+   b) Explain in detail the working principle of cathode ray tube.     [5+5] 
+  
+4.a) Write Sutherland Hodgeman algorithm. 
+   b) Prove that two rotation matrices are commute R1R2 = R2R1.    [5+5] 
+OR 
+5.a) Write Cyrus-beck line clipping algorithm. 
+   b) Explain about composite transformation.      [5+5] 
+  
+6.a)  Explain 3D composite transformations for scaling, rotation. 
+   b) Derive the transformation matrix for Hermite curve.     [5+5] 
+OR 
+7.a) Compare parallel and perspective projections. 
+   b) Explain Bezier curves in detail.       [5+5] 
+   
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper 16-12-2018PM
+
+ 
+ 
+ 
+ 
+8.a) Explain z-buffering method for hidden surface detection. 
+   b)  Explain about the specular reflection and the phong model.    [5+5] 
+OR 
+9.a) Explain about gourmand shading algorithm. 
+   b) Give a note on octree method for visible surface detection.    [5+5] 
+ 
+10.a) Describe method to create image using iterated functions. 
+     b)  Explain raster animation in detail.       [5+5] 
+OR 
+11.a) Explain key frame system in detail. 
+     b)  Explain about the design of animation sequences.     [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+used paper 16-12-2018PM
+

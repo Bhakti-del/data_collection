@@ -1,0 +1,83 @@
+Code No:  181AP 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, September - 2023 
+ PROGRAMMING FOR PROBLEM SOLVING 
+(Common to CSE, IT, CSIT, CE(SE), CSE(CS), CSE(AI&ML), CSE(DS), CSE(IOT), 
+AI&DS, AI&ML, CSD)  
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub-questions from all units 
+carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 marks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+(10 Marks) 
+ 
+1.a)  What is compiler?         [1] 
+   b)  Give one example for syntax error.       [1] 
+   c)  Define the enumeration data type in C.      [1] 
+   d)  What is a two-dimensional array?       [1] 
+   e)  How do you define a macro using the preprocessor?     [1] 
+   f)  How do you append data to an existing file in C?     [1] 
+   g)  What is recursion?         [1] 
+   h)  What is the signature of a function?       [1] 
+   i)  What is the key difference between linear search and binary search?  [1] 
+   j) What is the time complexity of selection sort?     [1] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  Differentiate between object code and executable code in the context of compiling a 
+ program.            
+   b)  Discuss the different storage classes in C programming.    [5+5] 
+OR 
+3.a)  Discuss the different types of loops in C programming.     
+   b)  How can you pass command line arguments to a C program? Provide a step-by-step 
+ explanation.          [5+5] 
+  
+4.a)  Differentiate between a null-terminated string and a fixed-length string.    
+   b)  Discuss the concept of a union and how it differs from a structure.   [5+5] 
+OR 
+5.  Discuss the significance of pointers in programming and provide examples of their 
+practical usage in manipulating data.       [10] 
+  
+R22
+JNTUH USED PAPERS-2023
+
+ 
+ 
+6.a)  Compare and contrast text files and binary files in terms of their structure and usage. 
+b)  Write a C program to read a text file line by line and display its contents on the console.
+           [5+5]  
+OR 
+7.a)  Describe the purpose of conditional compilation directives like #ifdef, #ifndef, and 
+#endif  in C.           
+   b)  Write a C program to read a text file and count the number of lines in it.   [5+5] 
+  
+8.a)  Explain the process of freeing memory in C. What happens if memory is not freed after 
+ allocation?            
+   b)  Discuss the limitations of recursive functions. What factors should be considered before 
+ using recursion?         [5+5] 
+OR 
+9.  Describe the concept of passing parameters to functions in C with example programs.
+            [10] 
+  
+10.a)  Write an algorithm for binary search and implement with an example.    
+     b)  Define Big O notation and explain its significance in analyzing algorithm efficiency. 
+[5+5] 
+OR 
+11.  Explain the bubble sort algorithm step by step with an example.   [10] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+JNTUH USED PAPERS-2023
+

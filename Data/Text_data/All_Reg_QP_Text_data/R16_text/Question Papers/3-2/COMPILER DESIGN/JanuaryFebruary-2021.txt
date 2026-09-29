@@ -1,0 +1,41 @@
+Code No: 136AQ   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester (Special) Examinations, January/February - 2021 
+COMPILER DESIGN 
+(Common to CSE, IT) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Give the structure of a compiler and explain various phases of compilation.    [15] 
+ 
+2. Compute Firsts and Follows and construct LL(1) parser table for the following 
+grammar after eliminating ambiguity.         
+ R → R + R, R → R * R, R → R / R, R → (R),  R → id.      [15] 
+ 
+3.a) How are inherited attributes differ from synthesized attributes?  
+   b) Construct the SDD to convert infix notation to postfix notation.             [5+10] 
+ 
+4.a) What is a type checker? Give the specification of a simple type checker.  
+   b) Write the quadruples, triples and indirect triples for the expression:   [7+8] 
+a * b  – (c – d) + b *  a – (c – d ) 
+ 
+5. Explain various storage allocation strategies and also mention their merits and demerits.   
+               [15] 
+ 
+6.a) What is a Basic Block? How to construct a Basic block?  
+   b) Explain Peephole optimization with an illustrative example.    [7+8] 
+ 
+7. Explain the principal sources of code optimization with merits and demerits of each.  
+  [15] 
+ 
+8. Explain the following: 
+ a) Basic elements of Data-Flow Analysis.  
+ b) Register Allocation.         [8+7] 
+ 
+ 
+---ooOoo--- 
+ R16 
+used paper jan-feb-2021
+

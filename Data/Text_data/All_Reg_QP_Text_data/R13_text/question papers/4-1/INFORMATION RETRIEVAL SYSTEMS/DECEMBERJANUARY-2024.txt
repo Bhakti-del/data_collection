@@ -1,0 +1,65 @@
+Code No: 117DX      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, December-2023/January-2024 
+INFORMATION RETRIEVAL SYSTEMS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+ 
+1.a) Define Smoothing.           [2] 
+   b) Explain the following terms with examples i) tfij  ii) dfj  iii) idfj       [3] 
+   c) What do you mean by Thesauri?              [2] 
+   d) What is the use of N-gram in retrieval?       [3] 
+   e) Define parsing.         [2] 
+   f) Discuss semantic networks.         [3] 
+   g) How to improve IRS efficiency?       [2] 
+   h) Define Inverted Index Modifications.       [3] 
+   i) How to Preprocess semi-structured test?      [2] 
+   j) Explain about the term Index.        [3] 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2. Find the similarity coefficient and similarity measures of vector space model for the 
+ following query 
+QUERY: “march health awareness”  
+D1: “the Health Observances for March”  
+D2: “the Health oriented Calendar” 
+D3: “the Awareness News for March Awareness”     [10] 
+OR 
+3. Explain Non-Binary Independence model with an example that satisfies your statement. 
+            [10] 
+ 
+4. Explain the partial Query Expansion with different sort orders.   [10] 
+OR 
+5. Explain about Hierarchical Agglomerative Clustering and its methods.  [10] 
+ 
+6. What is Distance measure? Explain any two types in it.    [10] 
+OR 
+7. Explain the concept of choosing translations with its approaches.   [10] 
+ 
+R13 
+
+8. Explain Fixed Length Index Compression with a suitable example.   [10] 
+OR 
+9. Explain about the Throughput-optimized Compression and Block-addressing compressed 
+ indexes.          [10] 
+ 
+10. What is Boolean Retrieval? Explain with example.     [10] 
+OR 
+11. Explain in detail about Web Search.       [10] 
+ 
+  
+ 
+--ooOoo— 
+ 
+ 
+ 
+ 
+

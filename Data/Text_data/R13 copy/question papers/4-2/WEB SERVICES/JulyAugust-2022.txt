@@ -1,0 +1,39 @@
+Code No: 118FD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+WEB SERVICES 
+ (Computer Science and Engineering) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What is distributed computing? Explain its importance and characteristics. 
+   b) Explain the role of J2EE in distributed computing.     [7+8] 
+  
+2.a) Write the challenges for using web services. 
+   b) Discuss about Web service communication model using RPC.   [7+8] 
+ 
+3.a) Describe SOAP message structure in detail. 
+   b) Explain protocols for SOAP.        [8+7] 
+ 
+4.a) Explain SOAP RPC implementation. 
+   b) Discuss SOAP message encoding mechanisms.     [8+7] 
+ 
+5. Explain elements of Web Services Description Language (WSDL) and its tools.  [15] 
+ 
+6.a) Describe the life cycle of web services. 
+   b) Explain WSDL limitation and advantages.      [7+8] 
+ 
+7.a) Compare SOAP, WSDL and UDDI. 
+   b) Describe UDDI data structures.       [8+7] 
+ 
+8.a) Write the challenges in creating web service interoperability. 
+   b) Explain XML signature syntax and implementation.     [7+8] 
+ 
+---oo0oo--- 
+ 
+R13 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

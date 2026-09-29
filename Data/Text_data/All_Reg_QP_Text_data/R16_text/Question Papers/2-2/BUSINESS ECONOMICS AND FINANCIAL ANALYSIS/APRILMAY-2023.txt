@@ -1,0 +1,167 @@
+Code No: 134AG  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, April/May-2023 
+BUSINESS ECONOMICS AND FINANCIAL ANALYSIS  
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, ETM, MMT, AE, MIE, PTM) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each quest ion carries 10 marks                
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+1.a)     What is inflation? Distinguish between demand-pull and cost-push inflation. [2] 
+   b)      Discuss the merits and demerits of sole proprietorship.      [3] 
+   c)      Differentiate between movement along a demand curve and shift in the demand curve.
+            [2] 
+   d)      Explain, briefly, the survey method of demand forecasting.     [3] 
+   e)      Define the following: i) Production function ii) Isoquant.    [2] 
+   f)      Explain the ways by which P/V ratio can be improved.    [3] 
+   g)      What is accounting period concept? What is its significance?   [2] 
+   h)     What are the limitations of Financial Statements? Explain them briefly.  [3] 
+   i)      Distinguish between fund flow analysis and cash flow analysis.   [2] 
+   j)      Explain the merits of ratio analysis as a tool for interpretation of financial statements.
+            [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.  What are the major sources of funding for a company? Discuss the advantages and dis-
+advantages in each case.          [10] 
+OR 
+3.a) What are business cycles? What are their various phases? 
+b)  Discuss the effects of business cycles and the measures to be initiated at the firm level 
+and government level to control business cycles.     [5+5] 
+  
+4.  The demand function for a firm is estimated as: Q=55-0.5 P 
+(where P=Price and Q=Rate of output) and the total cost function TC=20 + Q+ 0.2Q 2  
+where TC=Total cost, determine: 
+a) The total revenue function of the firm. 
+b) The marginal revenue and marginal cost functions and find the rate of output for  
+which marginal revenue equals marginal cost. 
+c) An equation for profit and the level of output that maximizes total profit.   [10]    
+OR 
+5.a) The pri ce of a commodity X falls from Rs.5 per kg to Rs.4 per kg and quantity 
+demanded by consumer A increases from 4kg to 6 kg.  Comment on the nature of 
+demand for commodity X in this case. 
+   b)  What would you say about the price -elasticity of commodity X, if the quantity 
+demanded remains unchanged? 
+   c)  Discuss the smoothing techniques of demand forecasting.          [4+3+3] 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+6.a)  Distinguish between fixed and variable costs. 
+   b)  Discuss the characteristics of long run costs. 
+   c)  On the basis of the following cost function: 
+     TC=250Q-10Q2+2Q3 Estimate TC, MC and AC if the output is 200 units.        [3+3+4] 
+           OR 
+7.a) What are  the features of monopolistic competition. 
+   b)  Explain the differences between monopolistic competition and perfect competition. 
+                                  [4+6] 
+ 
+8.  Record the following transactions in the Journal of Hyderabad furniture mart.   [10] 
+ 
+2023 January 1 Started business with cash Rs.10, 000. 
+January          2 Deposited into bank Rs.9, 000. 
+January          3 Purchased machinery for Rs.  5,000 from Jatin and gave him a 
+cheque for the amount. 
+January        15 Paid installation charges of machinery   Rs.100. 
+January        20 Purchased timber from Navin of the list price of Rs.2, 000.He 
+allowed 10% Trade Discount. 
+January        23 Furniture costing Rs.500 was used in furnishing the office. 
+January        25 Sold furniture to Naresh of the list price pf Rs. 1,000 and 
+allowed him 5% Trade Discount. 
+January        28 Received a cheque from Naresh for Rs.930 in full settlement 
+and sent the cheque to the bank. 
+January        29 Sent to Navin in full settlement a cheque for Rs.1, 750. 
+January        31 Paid wages Rs.250 and rent Rs.200. 
+OR 
+9.  The following is the trial balance of Mr Sivaram on 31st March, 2022: 
+  Debit(Rs.) Credit(Rs.) 
+Opening stock 4,500   
+Purchases 26,000   
+Wages 2,500   
+Salaries 2,000   
+Postage 200   
+Drawings 2,800   
+Debtors 2,000   
+Buildings 7,300   
+Furniture 4,200   
+Sales   31,000 
+Capital   16,500 
+Creditors   3,500 
+Interest received   500 
+  51,500 51,500 
+Considering the following adjustments, prepare Trading and Profit & Loss Account for 
+the year ended 31st March, 2022 and a Balance sheet as on that date. 
+a) Closing stock was valued at Rs.10, 000. 
+b) Wages were outstanding to the tune of Rs.500. 
+c) Interest received in advance amounted to Rs.150 out of the given balance.   [10] 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+10.a) On the basis of the following information calculate: 
+i) Gross Profit ratio 
+            ii) Debt Equity ratio 
+            iii)Working Capital turnover ratio. 
+ Rs.  Rs. 
+Net sales 30,00,000 Paid up share 
+capital 
+5,00,000 
+Cost of goods sold 20,00,000 Debentures 2,50,000 
+Current Assets 6,00,000 Loans 1,25,000 
+Current Liabilities 2,00,000   
+       b)     Calculate Interest coverage ratio from the following information:   [5+5] 
+         
+  Rs. In '000s 
+Sales revenue 10,000 
+Cost of goods sold 500 
+Gross Profit 9,500 
+Total expenses   
+Salaries 120 
+Rent  500 
+Utilities 200 
+Depreciation 100 
+Operating profit(EBIT) 8,580 
+Interest expense 3,000 
+Earnings before 
+taxes(EBT) 5,580 
+Taxes 1,116 
+Net Income 4,464 
+OR 
+11.a) Classify the following into cash flows (inflow/outflow) from operating activities, 
+investing activities and financing activities. 
+i) Cash sale of goods 
+ii) Cash payments of salaries and wages to employees 
+iii) Cash paid to suppliers of raw materials 
+iv) Cash payment to acquire fixed assets 
+v) Cash proceeds from issues of shares at a premium 
+vi) Payment of dividend 
+vii) Interest received on investment 
+viii) Interest on debenture 
+ix) Payment of income tax 
+x) Cash payment of a long term loan. 
+     b)  Is depreciation a source of funds? Explain.      [5+5]
+           
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

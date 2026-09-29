@@ -1,0 +1,68 @@
+Code No: 117AN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, April/May - 2018 
+  ARTIFICIAL INTELLIGENCE 
+ (Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one  full question from each unit. Each 
+question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) What is an intelligent system?       [2] 
+   b) What do you mean by an exhaustive search? Give examples of exhaustive search. [3] 
+   c) What are the basic components in a frame?      [2] 
+   d) Distinguish between forward and backward chaining.    [3] 
+   e) What is an expert system shell?       [2] 
+   f) What is a Bayesian network?        [3] 
+   g) Distinguish between classification and clustering.     [2] 
+   h) Distinguish between inductive and deductive learning.    [3] 
+   i) Distinguish between syntax and semantics in natural language processing.  [2] 
+   j) What do you mean by natural language understanding?    [3] 
+ 
+PART-B 
+ (50 Marks) 
+2.a) Define the following terms: 
+i) Problem space ii) Problem solving iii) State space  iv) State space search  
+b) What are the characteristics of a heuristic search? Compare brute force and heuristic 
+search.           [5+5] 
+OR 
+3. Demonstrate A* algorithm with an example and explain admissibility of A* [10] 
+    
+4.a) What are the advantages and problems of a frame based knowledge representation? Give 
+examples of knowledge hard to represent in a frame.  
+   b) Give a simple resolution algorithm for propositional logic.    [5+5] 
+OR 
+5.a) Explain the basic inference mechanism in semantic nets and frames.  
+b) Prove the inconsistency of 
+bbafeba ~)&(~&)(&)(  using semantic tableaux 
+method.          [5+5] 
+    
+6.a) What are the basic components of an expert system? Explain.  
+   b) What is the purpose of a Truth Maintenance System in expert systems?  [5+5]  
+OR 
+7.a) Explain the general approach for developing an expert system.  
+   b) Give an overview of rule-based system using certainty factor.   [5+5] 
+R13 
+JNTUH USED 23-05-18AM Set 2
+
+    
+8. Explain maximum margin hyperplane and linear Support Vector Machine.  [10] 
+OR 
+9. What do you mean by linear separability? Give an overview of perceptron and perceptron 
+training algorithm.         [10] 
+    
+10. What is a grammar? Give an overview of various methods for specifying grammar in 
+natural language processing.        [10] 
+OR 
+11.a) Give an overview of syntax representation and parsing methods in natural language 
+processing.  
+b) What is a semantic web? What are the challenges automated reasoning systems will have 
+to deal with respect to semantic web?       [5+5] 
+ 
+ 
+--ooOoo--  
+JNTUH USED 23-05-18AM Set 2
+

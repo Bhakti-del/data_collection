@@ -1,0 +1,83 @@
+ 
+ 
+ 
+ 
+Code No: 118AA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2023 
+ADHOC AND SENSOR NETWORKS  
+(Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      State any two challenges of Mobile Adhoc Networks (MANET).   [2] 
+   b)      List the three packet forwarding schemes used in position-based routing.  [3] 
+   c)      Mention the control packets used in ODMRP, a mesh-based protocol.  [2] 
+   d)      What is meant by jitter in broadcast schemes for MANETS?   [3] 
+   e)      State the relationship between communication and sensing ranges of a sensor node?  
+            [2] 
+   f)       Write the formula for next CH selection in LEACH protocol.   [3] 
+   g)      State any two problems affecting secure ad hoc routing.    [2] 
+   h)      What are the important modules in Intrusion Detection System (IDS) agent?  [3] 
+   i)       What are main features of nesC language for building applications on TinyOS?  [2] 
+   j)       Brief the mechanism of TinyGALS model.      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Give the taxonomy of routing protocols for MANETS. 
+   b)  Distinguish the terms-Unicast, broadcast, multicast, geocast, and anycast.   [5+5] 
+OR 
+3.a)  Write about DREAM framework for location service.  
+   b)  Explain the greedy packet forwarding strategy.      [5+5] 
+  
+4.a)  Illustrate the broadcast storm problem in MANETS.  
+   b)  Explain MGR, a geocast protocol, with a neat diagram.     [5+5] 
+OR 
+5.a)  Write the algorithmic steps for MPR, a Manet broadcast protocol.  
+   b)  Explain how MAODV works for multicast in MANETS.     [5+5] 
+ 
+6.a)  Giving an architectural diagram, write about Great Duck Island (GDI) application of 
+WSNs. 
+   b)  What is meant by Directed Diffusion? How it works?     [5+5] 
+OR 
+7.a)  Explain how the TEEN protocol is suitable for time-critical sensing applications?  
+   b)  Illustrate the three stages of communication in SPIN protocol for adaptive routing.[5+5]  
+ 
+ 
+ 
+ 
+R13 
+used paper July/Aug-2023
+
+ 
+ 
+ 
+ 
+ 
+8.a)  Explain the important security risks of ad hoc networks.  
+   b)  Write about any one key agreement protocol explaining its notation.   [5+5] 
+OR 
+9.a)  What is meant by node cooperation in MANETS? Write one solution.  
+b) Give the architectural diagram of an Intrusion Detection System (IDS) for ad hoc networks.  
+           [5+5] 
+ 
+10.a)  Explain the key features of NS2 simulator used for studying ad hoc networks.   
+b)  What are the distinctions of TinyOS over conventional OS when  studying concepts of ad 
+hoc networks?          [5+5] 
+OR 
+11.a)  What is meant by a discrete-event simulator? Explain a tool based on it.  
+     b)  Explain the steps followed in developing an application using nesC language. [5+5]  
+  
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

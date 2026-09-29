@@ -1,0 +1,73 @@
+Code No: 117BX      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2017 
+COMPUTER GRAPHICS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.                
+Part B consists of 5 Units. Answer any one full question from each unit.                        
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+Part- A  
+(25 Marks) 
+1.a) What are the hardware devices used for computer graphics?    [2] 
+   b) What is aliasing and antialiasing?       [3] 
+   c) What is covering (exterior clipping)?       [2] 
+   d) Distinguish between uniform scaling and differential scaling?   [3] 
+   e) What is Bezier Basis Function?       [2] 
+   f) Differentiate between interpolation spline and approximation spline?  [3] 
+   g) Classify the Visible Surface Detection Methods.     [2] 
+   h) What are the  Basic illumination Models.      [3] 
+    i) Discuss about motion specifications.       [2] 
+    j) What is raster animation?        [3] 
+ 
+Part - B  
+(50 Marks) 
+2.a) Distinguish Raster  and Random scan devices.     
+   b) List the input devices. Explain the functionalities of any one input device.  [6+4]  
+OR 
+3.a) Illustrate the Bresenham line drawing algorithm, digitize the line with endpoints (20,10)          
+        and (30,18) and this has a slope of 0.8.      
+   b) Describe boundary fill algorithm?       [6+4] 
+     
+4.a) Rotate a triangle A(0,0) , B(2,2) , C(4,2) about the origin and about P( 2, 2) by and  angle 
+of  450.           
+  b) Give a brief note on two dimensional viewing transformation pipeline?   [5+5] 
+OR 
+5.a) Derive window to viewport coordinate transformation.     
+  b) Explain  Cohen Sutherland and Cyrus-beck line Clipping algorithms.     [4+6] 
+ 
+6. Explain in detail about B -Spline curves and surfaces? Derive parametric Bezier curve 
+equation controlled by four points { (2,5,3), (3,-6,8), (1,-2,3), (-4,2,-2)}.   [10] 
+OR 
+7.a) Explain the concept of parallel projections in 3D.     
+  b) Explain the 3D clipping algorithm for viewing volume.     [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 JNTUH USED 29-11-17PM Set 1
+
+ 
+ 
+8.a) Explain area subdivision and A-Buffer method?     
+  b) Write short notes on BSP-tree methods?       [5+5] 
+OR 
+9. Explain polygon Rendering Methods.      [10] 
+ 
+10.a) What are the different tricks used in computer graphics animation?    
+    b) What are the animation functions follow the computer animation system?   [5+5] 
+OR 
+11.a) Give any four real time animation techniques?       
+    b) Mention the salient features of key frame systems?     [4+6] 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 29-11-17PM Set 1
+

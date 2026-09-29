@@ -1,0 +1,79 @@
+Code No: 132AE      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, HYDERABAD  
+B.Tech I Year II Semester Examinations, August - 2018 
+ENGINEERING GRAPHICS 
+(Common to CSE, IT, ETM) 
+Time: 3 hours                            Max. Marks: 75 
+Answer all five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Show by means of drawing that when the diameter of the directing circle is twice that of the 
+generating circle, the hypocycloid is a straight line. Take the diameter of the generating 
+circle is equal to 50 mm.        [15] 
+OR 
+2. Draw a vernier scale of R.F.=  4 to read 1/5 cm and 1/25 cm and to measure up to 5 cm. 
+Mark on the scale distance of 3.36 cm.      [15] 
+ 
+3. A regular Hexagon of 40 mm side has a corner in the H.P. Its surface is inclined at 450 to the 
+H.P. and the top view of the diagonal through the corner which is in the H.P. makes an angle 
+of 600 with  the V.P. Draw its projections.      [15] 
+OR 
+4. The projection drawn from H.T and V.T of a straight line AB are 80mm apart while those 
+drawn from its ends are 50mm apart. The H.T is 35mm in front of the V.P, the V.T is 55mm 
+above the H.P. and the end A is 10mm above the H.P. Draw the projections of AB and 
+determine its true length and inclinations with the reference planes.   [15] 
+ 
+5. A square pyramid, base 40mm side and axis 90mm long, has a triangular face on the ground 
+and the vertical plane containing the axis makes an angle of 45 0 with the VP. Draw its 
+projections.          [15] 
+OR 
+6. A Tetrahedron of 75 mm long edges has one edge parallel to  the H.P. and inclined at an 
+angle of 45 0 to the V.P. While a face containing that edge is vertical. Draw its projections.   
+            [15] 
+ 
+7. A Cube of 65 mm long edges has its vertical faces equally inclined to the V.P. It is cut by a 
+section plane, pe rpendicular to the V.P., so that true shape of the section is a regular 
+Hexagon. Determine the inclination of the cutting plane with the H.P. and draw the sectional 
+top view and true shape of the section.      [15]  
+OR 
+8. A hexagonal pyramid, base 50mm sid e and axis 100mm long, is lying on the H.P on one of 
+its triangular faces with the axis parallel to the V.P. A vertical sectional plane the H.T of 
+which makes an angle of 30 0 with the reference line passes through the center of the base 
+and cuts the pyramid, the apex being retained. Draw the top view, sectional front view, true 
+shape of the section.         [15] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+JNTUH USED 13-08-2019PMJNTUH USED 13-08-2018PM
+
+ 
+ 
+ 
+ 
+9. Draw the isometric view for the given figure 1. (All dimensions are in mm). [15] 
+  
+ 
+Figure 1 
+OR 
+ 
+10. Draw the front view, side view from the r ight, and top view of the block  as shown in    
+figure 2. (All dimensions are in mm).       [15] 
+  
+ 
+   
+ 
+Figure 2 
+ 
+ 
+--ooOoo-- 
+ 
+  
+JNTUH USED 13-08-2019PMJNTUH USED 13-08-2018PM
+

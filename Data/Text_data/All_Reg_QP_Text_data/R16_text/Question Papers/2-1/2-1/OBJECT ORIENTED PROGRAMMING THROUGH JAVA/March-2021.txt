@@ -1,0 +1,41 @@
+Code No: 133BM  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, March - 2021 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+(Common to CSE, IT) 
+Time: 3 hours                                     Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain various features of Java language. 
+   b)  Describe various forms of inheritance in java with example.    [7+8] 
+ 
+2.a)  Explain string and string buffer class in Java. 
+   b)  Explain about method overriding in Java with example.    [8+7] 
+ 
+3.a)  What is interface? How to implement interface in Java? 
+   b) Write java program to display the contents of file.     [8+7] 
+ 
+4.a) What is Exception? How exceptions are handled in Java?  
+   b) Explain how to implement thread priorities in java with examples.   [7+8]  
+ 
+5.a)  Explain briefly about the life cycle of a thread and Explain various methods of thread 
+ class. 
+   b) What is synchronization? How to implement synchronization in Java.   [8+7] 
+ 
+6.a) Explain about Collection  interface and its methods. 
+   b) How to implement Array List in Java with examples?    [8+7] 
+ 
+7.a)  Write a Java program for method overloading concept. 
+  b)  Explain about MVC architecture.       [8+7] 
+ 
+8.a)  Develop an applet that receives an integer in one text filed and the compute the factorial 
+ value  and return in another text filed , when the button named COMPUTE  is clicked. 
+   b) Explain about the Mouse Event Class and how to implement java with example. [8+7] 
+ 
+ 
+---ooOoo--- 
+R16 
+18-03-2021 AM
+

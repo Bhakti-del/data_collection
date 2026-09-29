@@ -1,0 +1,44 @@
+ 
+ 
+ 
+Code No: 118BJ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, December - 2020 
+EMBEDDED SYSTEMS  
+(Computer Science and Engineering) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1. Explain about the top down and bottom up design approach of an embedded system design.
+           [15] 
+ 
+2. With a neat block diagram, describe the architecture of 8051 micro controller. [15] 
+  
+3.a) Explain the interrupt handling mechanism of 8051. 
+   b) Explain about logical instructions with examples.     [5+10] 
+ 
+4.a) Explain in detail about Assembly Language Programming Tools and Techniques. 
+   b) With examples, explore use of JUMP and CALL instructions.   [11+4] 
+  
+5. What are the various modes of serial data communication?  Interface UART with 8051 c. 
+Also draw the block diagram of UART.      [15] 
+ 
+6.a) Explain how intelligent LCD displays can be interfaced with 8051 Microcontroller? 
+ b) With example, explain message queues and mail boxes.    [7+8] 
+   
+7.a) Discuss various methods adopted to reduce power consumption in RTOS. 
+   b) Explain Real time scheduling consideration in RTOS.    [7+8] 
+ 
+8.a) Draw ARM7 Architecture and explain its features in detail.     
+   b) Give the basic functions of CAN bus.      [10+5] 
+ 
+ 
+--ooOoo-- 
+  
+ 
+ 
+R13 
+JNTUH Used Papers 2020
+

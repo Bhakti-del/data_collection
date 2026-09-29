@@ -1,0 +1,75 @@
+Code No: 115EM   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August/September - 2024 
+SOFTWARE ENGINEERING 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.      
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Distinguish PSP and TSP.        [2] 
+   b)      List and define CMMI levels.        [3] 
+   c)      Which characteristics are needed for a good SRS document?   [2] 
+   d)      Define user requirements and system requirements.     [3] 
+   e)      What are the adornments in the UML?      [2] 
+   f)      What are tagged values and constraints?      [3] 
+   g)      Give an example for regression testing.      [2] 
+   h)      List the metrics for source code.       [3] 
+   i)       Define software reliability.        [2] 
+   j)       How does software reviews affect the software development?   [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Define the term software. Describe its various characteristics of software. 
+   b)  Give the layered technology used in software development process.  [5+5] 
+OR 
+3.a)  Explain about Incremental Process Model. 
+   b)  In detail, discuss about Process Patterns and Process Assessment.   [5+5] 
+ 
+4.a)  What is the role of feasibility study in requirement  engineering process? How it is 
+performed? 
+   b)  What is the importance of user requirements? Explain.    [5+5] 
+OR 
+5.a)  In brief discuss about structural model with an example? What are its advantages? 
+   b)  Give an overview of behavioral models using an example.    [5+5] 
+ 
+6.a)  How design process is useful in development process? What are different design quality 
+guidelines that lead to a good design? 
+   b)  Describe pattern based software design.      [5+5] 
+OR 
+7.a)  What is Software architecture? Analyze various architectural styles and patterns. 
+   b)  How interface affect the software usage? Mention various interface design steps. [5+5] 
+ 
+ 
+ 
+ 
+ R13 
+Used Paper Aug-2024
+
+ 
+ 
+8.a)  How does White Box testing is different from Black box testing?  
+   b)  Discuss the test strategies for conventional software.     [5+5] 
+OR 
+9.a)  Give the Frame work for product metrics. 
+   b)  What are the metrics used for software quality? Briefly describe.   [5+5] 
+ 
+10.a) Distinguish between Reactive Vs Proactive risk strategies. 
+     b)  Elaborate on risk refinement.        [5+5] 
+OR 
+11.a)  What are the different statistical software quality assurance approaches? Explain. 
+     b)  How Formal Technical reviews are conducted? Discuss in detail.   [5+5] 
+  
+  
+ 
+ 
+---ooOoo--- 
+Used Paper Aug-2024
+

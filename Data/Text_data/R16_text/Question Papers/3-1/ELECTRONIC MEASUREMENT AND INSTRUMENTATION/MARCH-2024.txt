@@ -1,0 +1,83 @@
+Code No: 135CD 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2024 
+ELECTRONIC MEASUREMENTS AND INSTRUMENTATION 
+(Common to ECE, CSE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define Fidelity.         [2] 
+   b)      Outline the precautions to be considered while using Ammeters and Voltmeters. [3] 
+   c)      Compare the function of Oscillator and Signal Generator.       [2] 
+   d)      What is the working principle of sweep frequency generators?   [3] 
+   e)      Summarize the applications of CRO.       [2] 
+   f)      How to get Lissajous figures on CRO? And list applications of these patterns? [3] 
+   g)      Classify the Transducers.          [2] 
+   h)      Explain the principle of operation of Hotwire Anemometers . And outline its                 
+application.          [3] 
+   i)       Compare Wheatstone bridge and Kelvin Bridge.     [2] 
+   j)       What is meant by Data Acquisition System?      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  The pointer of d’ Arsonval meter movement gives full scale deflection of 20mA. The 
+potential difference across the meter when carrying 20mA is 400mV.  Determine i) the 
+shunt resistance required to design 0 - 200mA range ammeter.  ii) the series resistance 
+required to design  0- 1V range voltmeter. 
+b)  Inspect the principle  of True RMS responding voltmeter and outline  its applications.
+           [5+5] 
+OR 
+3.a)  Summarize the errors occurred in the measuring instruments.     
+   b)  How can you extend the range of Ammeter? Elaborate with example.  [5+5] 
+  
+4.a)  Explain the working of Pulse and  Square wave generators with a neat sketch. 
+   b)  Inspect the principle of Capacitance-Voltage Meter.            [6+4] 
+OR 
+5.a)  Conclude the need of Video signal generators.       
+   b)  Explain the working of Spectrum Analyzer with a neat sketch.    [4+6] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+Used Papers March-2024
+
+ 
+6.a)  Conclude the need of Time Base Circuits in CRO.      
+   b)  Compare Dual Trace and Dual Beam CROs.      [4+6] 
+OR 
+7.a)  How can you measure frequency using Lissajous figures? Elaborate.        
+   b)  Explain the principle of working of sampling Oscilloscope with a neat sketch.  [4+6] 
+ 
+8.a)  Compare bounded and unbounded strain gauges. 
+b)  Explain the working of digital temperature sensing system and summarize its 
+Limitation.           [4+6] 
+OR 
+9.a)  Conclude the need of Thermocouples.  
+   b)  Explain the working principle of Gyroscope and summarize its application.   [4+6] 
+ 
+10.a)  How could you measure Velocity? Elaborate.       
+b)  Construct the bridge circuit to measure inductance and develop relation for unknown 
+Inductance.            [5+5] 
+OR 
+11.a)  How could you measure Humidity? Explain.      
+     b)  Develop a data Acquisition System for Measuring 2 parameters.    [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+Used Papers March-2024
+

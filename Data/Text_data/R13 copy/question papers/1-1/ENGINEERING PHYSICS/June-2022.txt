@@ -1,0 +1,45 @@
+Code No: 111AD       
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, June - 2022 
+ENGINEERING PHYSICS 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MMT, AE, MIE, PTM, AGE) 
+Time: 3 Hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the different types of bonding in solids with suitable examples.   
+   b) Describe in detail the structure of NaCl.       [9+6] 
+ 
+2.a) Explain various types of point defects with neat diagrams.     
+   b) A substance with the FCC l attice has density 6200 kg/ m3 and molecular weight 60.2. 
+Calculate the lattice constant. (Given Avogadro number is 6.021026/kg.mol).       [10+5] 
+ 
+3.a) What are the basic postulates of Maxwell -Boltzmann, Bose -Einstein and Fermi -Dirac 
+statistics? Write energy distribution equations for all three statistics.    
+   b) Explain the physical significance of wave function.     [10+5] 
+ 
+4.a) Discuss in detail the differences between Hard and Soft magnetic materials.   
+   b) What are the Type-I and Type-II superconductors? Explain in detail.   [7+8] 
+ 
+5.a) What is double refraction? Explain construction and working of Nicol’s prism.  
+   b) Describe in detail construction and working principle of Ruby laser.   [9+6] 
+ 
+6.a) Derive an expression for charge carrier concentration of holes in P-type semiconductor.  
+   b) A copper strip 2.0 cm wide and 1.0 mm thick is placed i n a magnetic field with 
+B=1.5wb/m2. If a current of 200 A is setup in the strip, calculate Hall voltage that appears 
+across the strip. Assume RH =6 × 10-7 m3/C.         [9+6]  
+ 
+7.a) What are the various factors affecting architectural acoustics and their remedies.    
+   b) Describe the Chemical Vapor Deposition (CVD) technique.     [10+5]   
+ 
+8.a) Describe Davison and Germer’s experiment and explain how it enabled the verification 
+of wave nature of matter.             
+   b) Derive the Clausius-Mossotti  relation.          [9+6] 
+ 
+ 
+--ooOoo-- 
+ 
+R13 
+JNTUH Used Papers June 22
+

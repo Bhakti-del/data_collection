@@ -1,0 +1,56 @@
+ 
+Code No: 118BA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, May - 2017 
+DATABASE SECURITY  
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 10 
+marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+1.a) Give the list of various kinds of databases used in real time applications.  [2] 
+   b) Are databases necessary for storing data? Justify with an example.   [3] 
+   c) List different types of database security models.     [2] 
+   d) Write different services provided by operating system for database security. [3] 
+   e) What do you mean by secure DBMS?      [2] 
+   f) Write about IDES with an example.       [3] 
+   g) Is frame based system model used for database security? Justify.   [2] 
+   h) Differentiate between Frame Based Systems and the Object-Oriented Systems. [3] 
+   i) What is Orion model? Give an example.      [2] 
+   j) How the next generation models help for database security?    [3] 
+ 
+   PART - B 
+(50 Marks)       
+2.a) State and explain Acten Model.  
+   b) Illustrate Bussolati and Martella's Model for Distributed databases with a neat diagram.  
+             [5+5] 
+OR 
+3.a) Explain the security issues in database management systems.  
+   b) Write about Hartson model for database security.     [5+5] 
+ 
+4. Briefly explain about User Authentication and Memory Protection with examples. [10] 
+OR 
+5.a) Give a brief note on Resource Protection.  
+   b) Explain the use of Trusted Computer System in database security.   [5+5] 
+ 
+6. Explain the steps involved in designing Secure Operating System and Secure DBMS. 
+             [10] 
+OR 
+7. Distinguish between IDES System, RETISS System and ASES System.   [10] 
+ 
+8. List and explain any two models for the protection of new generation database systems.  
+OR 
+9. Explain the SORION Model for the Protection of Object-Oriented Databases. [10] 
+ 
+10.a) What is an active database? Explain it with an example.  
+     b) How security is provided against attacks in active databases? Discuss  [5+5] 
+OR 
+11. Explain the protection of active database with an example scenario.  [10] 
+ 
+---oo0oo--- 
+R13 JNTUH USED 08-05-17PM Set 2
+

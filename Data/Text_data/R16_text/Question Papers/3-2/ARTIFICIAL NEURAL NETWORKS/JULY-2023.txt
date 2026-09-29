@@ -1,0 +1,72 @@
+ 
+Code No: 136ER       
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, July - 2023 
+ARTIFICIAL NEURAL NETWORKS 
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)   Compare artificial intelligence and neural networks.     [2] 
+   b)   What is boltzmann learning? Explain.      [3] 
+   c)   Explain the learning rate and its significance in NN.     [2] 
+   d)   What is multilayer perceptron? Give example.     [3] 
+   e)   Explain about supervised learning?       [2] 
+   f)   What is cross validation? Explain.       [3] 
+   g)   What are the properties of feature maps?      [2] 
+   h)    What are kohonen’s self-organizing maps?       [3] 
+   i)   What is the purpose of dynamical systems? Explain.     [2] 
+   j)    What are called neuro-dynamic systems?       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Discuss the Statistical Nature of the Learning Process. 
+   b)  Explain the different models of neurons with a neat sketch.    [5+5] 
+OR 
+3.a)  Explain competitive learning with example. 
+   b)  List and explain various network architectures.     [5+5] 
+  
+4.a)  Explain least mean square algorithm with example.  
+   b)  Discuss the relation between  Perceptron and Bayes Classifier for a Gaussian                                 
+ Environment.          [5+5] 
+OR 
+5.a)  Derive the learning rule for Back Propagation network.  
+   b)  What are the heuristics used in designing Back propagation network? Discuss. [5+5] 
+ 
+6.a)  What are the major drawbacks of BP networks? Suggest solutions, to overcome these                  
+ drawbacks. 
+   b)  Explain the distinction between stability and convergence.    [5+5] 
+OR 
+7.a)  Discuss in detail about various network pruning techniques. 
+   b)  Write a detail note on Hessian matrix and its operations.    [5+5] 
+ 
+ 
+ 
+ R16 
+used paper July/Aug-2023
+
+ 
+8.  Explain the architecture and the training algorithm used for Kohonen’s SOMs.   [10] 
+OR 
+9.  What is the purpose of learning vector quantization? Explain about adaptive pattern             
+ classification.            [10] 
+ 
+10.  Discuss about the manipulation of attractors as a recurrent network paradigm.   [10] 
+OR 
+11.  Explain the working of a Hopfield network, with a neat sketch of its architecture.   [10] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

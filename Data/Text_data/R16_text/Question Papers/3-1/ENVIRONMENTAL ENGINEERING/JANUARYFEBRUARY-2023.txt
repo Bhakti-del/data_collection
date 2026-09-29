@@ -1,0 +1,107 @@
+Code No: 135CE  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, January/February - 2023 
+ENVIRONMENTAL ENGINEERING 
+(Common to CE, CSE, IT) 
+Time: 3 Hours                Max.Marks:75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)     Write down fire demand along with equation for calculation.   [2] 
+   b)      Write down any three drinking water standards.      [3] 
+   c)      Define coagulation.          [2] 
+   d)      How will calculate chlorine demand?       [3] 
+   e)     What is combined flow?         [2] 
+   f)      What are the uses of air valves?       [3] 
+   g)      Write down the advantages one pipe systems of plumbing.    [2] 
+   h)      Draw a manhole along with components.       [3] 
+   i)      Write down the purpose of slugged drying.       [2] 
+   j)      Can we use soak pits in the sandy soils area, justify your answer.   [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. The population of a locality as obtained from census report is as follows. 
+ 
+Census Year 1941 1951 1961 1971 1981 1991 2001 2011 2021 
+Population 8000 12000 17000 22500 29000 37500 47000 57000 66500 
+ 
+Estimate the population of the locality in the years 2021, 2031 and 2041, by  
+a) Incremental increase method. 
+b) Arithmetical increase method.         [10]  
+OR 
+3.  Discuss the following as they relate to water supply 
+      a) Intermittent supply versus continuous supply 
+     b) Metered supply versus non-metered supply 
+      c) Single supply versus dual supply.             [3+4+3] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+4.   Compare rapid and slow sand filters under the following heads: 
+        a) Rate of filtration 
+        b) Quantity of wash water 
+        c) Method of cleaning 
+       d) Effective size of sand 
+        e) Depth of bed for gravel and sand.         [10] 
+OR 
+5.a)  Describe with a n eat sketch the working of a rapid sand filter (gravity type). What are 
+its advantages over the slow sand filter? 
+b)  Design a set of rapid gravity filters for treating water required for a population of 
+50,000; the rate of supply being 180 litres per head per day. The filters are rated to 
+work at 5200 litres per square metre per day.      [5+5] 
+ 
+6.  Calculate the storage required to supply the demand shown in the following table if the 
+inflow of water to the reservoir is maintained at a uniform rate throughout 24 hours.[10] 
+ 
+Time (hours) 00-04 04-08 08-12 12-16 16-20 20-24 
+Demand (million litres) 0.48 0.87 1.33 1.00 0.82 0.54 
+OR 
+7. Write short notes on the following: 
+a) Sluice valve; b) Reflux valve; c) Fire hydrant; d) Air valve; e) Domestic water meter.  
+              [10]   
+8.  Write short notes on: 
+     a) B.O.D. and C.O.D. 
+     b) Aerobic and anaerobic bacteria. 
+     c) Method of determination of B.O.D.            [3+3+4] 
+OR 
+9.a)  What is Oxygen sag curve in stream pollution? 
+b)  Explain se lf-purification of streams and indicate how sun -light helps in self -
+purification.          [5+5] 
+ 
+10.  Write short notes on: 
+      a) Sludge conditioning 
+      b) Sludge digestion 
+      c) Sludge digestion tank.              [3+3+4] 
+OR 
+11.a)  Explain the theor y of purification of sewage by tri ckling filters. Describe the 
+constructional details with neat sketches. 
+     b)  It is proposed to install a two stage trickling filter for treatment of 3.8 m.l.d. of raw                  
+ sewage. The B.O.D. = 200 ppm. The following particular are given: 
+        i) The filter loading is 1100 gm/m³ of B.O.D. 
+        ii) Recirculation ratio is 1 for each filter.  
+        iii) 35% B.O.D. removed in primary tank. 
+        iv) Total volume is equally divided into two filters. 
+What will be the BOD of the effluent?      [5+5] 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

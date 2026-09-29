@@ -1,0 +1,55 @@
+Code No: 113AU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, September - 2021 
+ELECTRONIC DEVICES AND CIRCUITS 
+(Common to EEE, ECE, CSE, IT, MCT) 
+Time: 3 hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.  Define and distinguish the following terms with reference to the diode: 
+ a) Static and dynamic resistance  b) transition and diffusion capacitance   
+ c) Practical vs ideal diode         d) Zener and avalanche breakdown mechanism. [15] 
+ 
+2.a) Explain the principle of operation of varactor diode. 
+   b) Explain the principle of working of SCR and draw its V -I characteristics and equivalent 
+ circuit diagrams.         [7+8] 
+ 
+3.a) Draw the  circuit diagram and waveforms of Bridge full wave rectifi er and explain its 
+ working. 
+   b) A single phase full wave rectifier use semiconductor diodes. The transformer voltage is 
+ 40V rms to center tap. The load consists of a 30μF capacitor in parallel with a 100Ω 
+ resistor. The diode and transformer resistances and leakage reactance may be neglected. 
+ Assume that the power -line frequency is 50Hz. Calculate : i) dc current in the circuit     
+ ii) peak-to-peak amplitude of the ripple voltage  iii) rms value of ripple voltage iv)  ripple 
+ factor of the rectifier filter output.        [7+8] 
+ 
+4.a) Draw and explain centre -tap full wave rectifier circuit and then derive its efficiency  
+ expression. 
+   b) Compare different types of filters.       [9+6] 
+ 
+5.a) Explain the potential variations through the transistor under biased conditions and derive 
+ its current equation. 
+   b) Draw the  common base configuration, input characteristics  and output characteristics 
+ and identify different regions of operation.      [8+7] 
+ 
+6.a) Show that the  exact expression for hfb in terms of the CE hybrid parameters is  
+ℎ𝑓𝑏 = − ℎ𝑓𝑒 1−ℎ𝑟𝑒 +ℎ𝑖𝑒ℎ𝑜𝑒
+ 1 +ℎ𝑓𝑒  1−ℎ𝑟𝑒 +ℎ𝑜𝑒ℎ𝑖𝑒
+ 
+  b)  Draw the equivalent circuit for the CE and CC configurations subject to the restriction 
+ that RL=0. Show that the input impedances of the two circuits are identical. [7+8] 
+ 
+7.a) What is thermal stability? How to achieve in transistor circuits? 
+   b) Draw the voltage divider bias circuit in CE configuration and then explain the same.   
+            [7+8] 
+ 
+8.a) Compare the  enhancement and Depletion  MOSFETs in all parameters. 
+   b)  Draw the circui t diagram of Common Source amplifier and derive the equation for 
+ voltage gain, input and output impedances.      [5+10] 
+ 
+---ooOoo--- 
+R13 
+Used Papers SEP 2021
+

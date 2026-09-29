@@ -1,0 +1,47 @@
+ 
+ 
+ 
+ 
+ 
+Code No: 132AD             
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year II Semester Examinations, July/ August - 2021 
+COMPUTER PROGRAMMING IN C 
+(Common to EEE, ECE, CSE, EIE, IT, ETM) 
+Time: 3 Hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What are the steps in program development? 
+   b) Write an algorithm to check whether a given number is prime or not.  [7+8]  
+ 
+2. What are the various data types? Give its size and the need for type casting. [15] 
+ 
+3.a) What are the four storage classes? Discuss their scope rules. 
+   b) How upward communication is possible among functions?    [8+7] 
+ 
+4.a) Draw a flowchart for bubble sort. 
+   b) How to pass an array, an element of an array as a parameter to a function?  [8+7] 
+ 
+5. What is meant by dynamic memory management? How C language supports 
+ programmers in memory management? Explain with relevant code segments. [15]  
+ 
+6.a) Write a C program for converting an array of alphabet from lowercase to uppercase. 
+   b) Write a C program to illustrate the use of indirection operator to access the value pointed 
+ by a pointer.          [8+7] 
+ 
+7.a) Is union preferred over structures by good programmers? Justify your answer. 
+   b)  What is the need of enumerated data types?       [7+8] 
+ 
+8.a)  Differentiate between text files and binary files. 
+   b) Demonstrate the use of fread() and fclose() functions.    [7+8] 
+ 
+ 
+  
+ 
+---ooOoo--- 
+R16 
+JNTUH USed JUL/Aug-21
+JNTUH Used Jul/Aug-21
+

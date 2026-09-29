@@ -1,0 +1,57 @@
+Code No: 133AR/123AU/113AU/53009 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, March - 2021 
+ELECTRONIC DEVICES AND CIRCUITS 
+(R16 - Common to EIE, MCT; R15 - Common to EEE, ECE, CSE, IT, MCT;                                       
+R13 - Common to EEE, ECE, CSE, EIE, IT, MCT; R09 - Common to EEE, ECE, CSE, IT) 
+Time: 3 hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+1.a)  Draw the  V-I characteristics of diode and explain its temperature dependency. 
+   b) Neglecting the effect of carrier generation and recombination in the space -charge region, 
+ find an expression for the diffusion capacitance of an ideal p -n junction diode in which 
+ the doping concentrations of the p and n sides are comparable  to each other. [7+8] 
+ 
+2.a) Explain the principle of  operation of varactor diode and also write its applications. 
+   b) How Zener diode is used for voltage regulation? Draw the circuit diagram.  [8+7] 
+ 
+3.a) Derive an expression for the ripple in a ∏ -section filter when used with a halfwave 
+ rectifier. 
+   b)  The output of a full wave rectifier is fed from a 40-0-40V transformer. The load current is 
+ 0.1A. Two 40μF capacitances are available. The circuit resistance exclusive of the load is 
+ 50Ω. Calculate value of inductance for a two stage L -section filter. The inductances are 
+ to be equal. The ripple factor is to be 0.0001.      [8+7] 
+ 
+4.a) What are the different transistor current components for a forward biased emitter junction 
+ and a reverse biased collector junction and derive the equations for  emitter efficiency, 
+ transport factor and large signal current gain. 
+   b) Draw the common base configuration circuit, input characteristics, output characteristics 
+ and identify different regions of operation.      [8+7]  
+ 
+5.a) Show that the  exact expression for hfe in terms of the CB hybrid parameters is  
+ℎ𝑓𝑒 = − ℎ𝑓𝑏 1−ℎ𝑟𝑏 +ℎ𝑖𝑏ℎ𝑜𝑏
+ 1 +ℎ𝑓𝑒  1−ℎ𝑟𝑠 +ℎ𝑜𝑏ℎ𝑖𝑏
+ 
+   b) Given a single stage transistor amplifier with the h parameters h ic =1.1K,  hfc= -51, hrc=1, 
+ hoc= 25μA/V, calculate  A I, AV, Avs, Ri and Ro for the CC transistor configuration, with 
+ Rs = RL = 10K.          [7+8] 
+ 
+6.a) Determine the stability factor for the fixed bias circuit and compare its merits and 
+ demerits with other biasing circuits. 
+   b) A transistor with β=100 is to be used in the collector -emitter feedback bias configuration 
+ with Rc=1.5K, Re=2K,Rb=370K, V CC=12V,VBE=0.6V and I C0=0. Calculate the collector 
+ to emitter voltage VCE and also find the stability factor?    [7+8] 
+ 
+7.a) How a thermistor and sensistor  are used for transistor bias compensation? 
+   b) What is meant by thermal instability in a transistor? How to achieve stability?       [10+5] 
+ 
+8.a) Draw the V-I characteristics of  enhancement MOSFET and explain it. 
+   b) Consider the common drain amplifier  and assume the FET is properly biased and the  
+ FET has the following parameters : gm=2mA/V and r d=100K. Using the small signal low 
+ frequency model derive an expression for the gain of the amplifier.   [7+8] 
+ 
+---ooOoo--- 
+R16/R15/R13/R09 
+10-03-2021 AM
+

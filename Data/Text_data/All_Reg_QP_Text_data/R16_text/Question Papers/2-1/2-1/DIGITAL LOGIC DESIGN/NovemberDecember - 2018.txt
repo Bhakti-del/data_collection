@@ -1,0 +1,69 @@
+Code No: 133AJ  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, November/December - 2018 
+DIGITAL LOGIC DESIGN 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Write the advantages of floating-point representation.        [2]  
+   b) Distinguish between weighted and non-weighted codes with example.      [3] 
+   c) What is the use of don’t care combinations?          [2] 
+   d) Implement the following function using only NOR Gates F=a.(b+ c) + (b. c). [3] 
+   e) Define a combinational circuit , give its block diagram.           [2] 
+   f) Write a short notes on priority encoder.                     [3] 
+   g) Differentiate between a latch and a flip flop.                                  [2] 
+   h) Define Hazard. Mention various types of hazards.                    [3] 
+   i) Why programmable AND gates are used in PLA instead of a decoder.      [2] 
+   j) Write the applications of logical micro operations.         [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) Implement AND, OR, NOR by using NAND gates only.                  
+   b) Derive the hamming code for the sequence (101011).   [5+5] 
+OR 
+3.a) Convert the following to the corresponding bases              
+            i)   (343)5 =  ( )6 
+ ii)  (7654)8 =  (       )10 
+   b) Explain about even and odd parity check with an example, what is the drawback. 
+           [5+5] 
+4.a) Derive the sum of minterms for f(a,b,c,d)=a′b+ab′d+c′d    
+b) Derive and Implement Exclusive OR function involving three variables using 
+only NAND function.                                                               [5+5] 
+OR 
+5.a) Obtain the simplified expression in POS (product of sums) of  
+       F(w,x,y,z)=(1,2,4,7,12,14,15) using K-maps.  
+   b) Implement the function f(a,b,c)= ∑(1,3,4,6) using  NOR-NOR two level gate 
+structure.          [5+5] 
+ 
+6.   Realize a full subtractor using decoders.            [10] 
+OR 
+7.a) Define a multiplexer? Draw a 2:1 multiplexer for the function   
+            f(x,y,z)=∑(0,2,3,5,7)         
+   b) Write the steps involved in designing a combinational circuit.  [5+5] 
+ 
+R16 
+JNTUH USED 03-12-2018AM
+
+8. What is the drawback of JK flip flop, design a flip flop which overcomes this 
+drawback and explain with neat diagram.               [10]   
+OR 
+9.a) Draw the block diagram of asynchronous sequential circuit. 
+   b)  Analyze latch with NOR gates, derive transition, flow and state tables. [4+6] 
+ 
+10. Give the logic implementation of a 32 × 4 bit ROM using decoder of a suitable 
+size.                  [10] 
+OR 
+11. What do you mean by register transfer? Explain in detail. Also discuss Three state 
+bus buffer.                  [10] 
+  
+ 
+---oo0oo--- 
+JNTUH USED 03-12-2018AM
+

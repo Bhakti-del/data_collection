@@ -1,0 +1,40 @@
+Code No: 117EF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, September - 2021 
+MACHINE LEARNING 
+(Computer Science and Engineering) 
+Time: 3 Hours                        Max. Marks: 75 
+Answer any Five Questions 
+All Questions Carry Equal Marks 
+- - - 
+ 
+1. Explain play checkers as a machine learning problem and discuss the design issues.[15] 
+ 
+2.a) Define general boundary and specific boundary of a hypothesis space. 
+   b) Will the candidate elimination algorithm converge to the correct hypothesis? Justify your 
+ answer.          [7+8] 
+ 
+3. Present the basic ID3 algorithm for learning decision trees and illustrate its operation in 
+ detail.           [15] 
+ 
+4.a) Illustrate neural network representation used in ALVINN system. 
+  b) What are the differences between standard gradient descent and stochastic gradient 
+ descent?           [7+8] 
+    
+5. Explain a procedure to estimate the difference in error between two learning methods 
+ with illustration.         [15] 
+ 
+6.a) What is the relationship between Bayes theorem and the problem of concept learning? 
+   b) Explain brute force MAP learning algorithm.     [8+7] 
+ 
+7. “Nearest neighbor approaches are sensitive to the curse of dimensionality ”. Support this 
+ statement with suitable example.       [15] 
+ 
+8. How genetic programming can be used to solve block stacking problem? Explain with an 
+ example.          [15] 
+ 
+ 
+ 
+---ooOoo--- 
+R13 
+

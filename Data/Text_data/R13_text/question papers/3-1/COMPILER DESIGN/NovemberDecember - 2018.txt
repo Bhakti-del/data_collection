@@ -1,0 +1,115 @@
+ 
+ 
+ 
+Code No: 115AP      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, November/December - 2018 
+COMPILER DESIGN 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) Define Boot strapping?        [2] 
+   b)      What are the draw backs of predictive parsing?     [3] 
+   c)      What are the actions performed by Shift reduce parser?    [2]                    
+   d)   Differentiate between SLR, LALR and CLR parsers.    [3] 
+   e)    What are the applications of DAG?       [2] 
+   f)      What are the advantages of stack storage allocation strategy?   [3] 
+   g)      Define Basic block. What are the rules for defining a basic block?   [2] 
+   h)      What is common sub expression elimination?     [3] 
+   i) Define Dead code elimination?       [2] 
+   j)       What is register allocation? Give a brief description.     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Define Regular Expression. Explain about the Properties of Regular Expressions.         
+   b)  Differentiate between Top down and bottom up parsing techniques.  [5+5] 
+OR 
+3.a)  Define Compiler? Explain in brief about the types of lexical errors with example. 
+   b)  Construct a Predictive parsing table for the Grammar     [4+6] 
+                                    E→E+T/T, T→T*F/F, F→ (E)/id? 
+ 
+4.a)  Construct LALR Parsing table for the grammar  
+S→L=R/R  
+L→*R/id 
+R→L 
+   b)    Define Ambiguous Grammar? Check whether the grammar  
+S→aAB,     
+            A→bC/cd,  
+C→cd,  
+B→c/d    Is Ambiguous or not?        [6+4] 
+OR 
+5.a)  Construct SLR Parsing table for the grammar  
+S→ (L)|a 
+L→L,s|s 
+   b)   Discuss in brief about model of LR parser.      [6+4] 
+ 
+ 
+R13 
+used paper 27-11-2018 AM
+
+ 
+ 
+ 
+6.a)  Construct a Quadruple, Triple and Indirect Triple for the statement   
+a+a*(b-c) +(b-c)*d? 
+   b)  Differentiate between Static and Dynamic Storage allocation Strategies.  [5+5] 
+                                                           OR 
+7.a)  Construct an annotated parse tree for  real id1, id2, id3.  
+   b)  Explain in brief about equivalence of type expressions.     [5+5] 
+ 
+8.a)  Explain in brief about different Principal sources of optimization techniques  with 
+suitable examples. 
+   b)  Define Flow Graph? Explain how a given program can be converte d into flow graph?
+            [5+5] 
+OR 
+9.a)  Explain in brief about function preserving transformations on basic blocks. 
+   b)  Explain in brief about optimization of basic blocks.     [5+5]  
+ 
+10.a)  Explain in detail about global common sub expression elimination technique. 
+     b)  Explain in brief about Induction variable elimination.    [5+5] 
+OR 
+11.a)  Explain in brief about the issues in the design of code generator. 
+     b)  Explain in detail about peep hole optimization.     [5+5] 
+ 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+used paper 27-11-2018 AM
+

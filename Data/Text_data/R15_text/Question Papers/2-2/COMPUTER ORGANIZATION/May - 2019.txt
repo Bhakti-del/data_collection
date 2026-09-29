@@ -1,0 +1,100 @@
+Code No: 124CN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, May - 2019 
+COMPUTER ORGANIZATION 
+(Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) List  the data transfer and data manipulation instructions available in a computer.  
+           [2] 
+   b) What is an interrupt? What are the uses of interrupts?    [3] 
+   c) What is synchronous bus and asynchronous bus?    [2] 
+   d) What is hand shaking in I O organization?     [3]      
+   e) What are the characteristics of semiconductor RAM memories?   [2] 
+   f) A set associative cache consists of 128 blocks divided into 4 block/set. The main  
+ memory has 8192 blocks each consists of 128 words. How many address bits are  
+ required to access a main memory location?      [3] 
+   g) List various flags of 8086.        [2] 
+   h) Write the special functions of general purpose registers.    [3] 
+   i) List any four Unconditional Branch Instructions.     [2] 
+   j) What errors are present in the following:       [3] 
+mov ax, 3d  
+mov 23, ax 
+mov  cx, ch 
+move ax, 1h  
+add  2, cx  
+add 3, 6 
+inc ax, 2 
+ 
+PART-B  
+(50 Marks) 
+2.a) Explain different functional units of a digital computer. Mention the functio ns of 
+different processor registers i) IR ii) MAR iii) PC.     
+b) What is an addressing mode? List the different types of addressing modes. 
+Register R5 is used in a program to point to the top of a stack. Write a sequence 
+of instructions using the Index, A utoincrement, and Autodecrement addressing 
+modes to perform each of the following tasks: 
+i) Pop the top two items of the stack, add them, and then push the result onto the 
+stack. 
+ii) Copy the fifth item from the top into register R3. 
+iii) Remove the top ten items from the stack.     [5+5] 
+OR  
+R15 
+JNTUH USED 12-05-2019AM
+
+3.a) Explain the different instruction formats. 
+b) Mention four types of operations required to perform by instructions in a 
+computer. Show how the operation C = A + B can be implemented using:  
+i) Three address instruction 
+ii) Two address instruction 
+iii) One address instruction.       [5+5] 
+ 
+4.a) What is the difference between isolated I/O and memory -mapped I/O? What are 
+the advantages and disadvantages of each?       
+b) How many characters per second can be transmitted over a 1200-baud line in each 
+of the following modes (Assume a character code of eight bits).  
+i) Synchronous serial transmission 
+ii) Asynchronous serial transmission with two stop bits 
+iii) Asynchronous serial transmission with one stop bit.   [5+5] 
+OR 
+5.  Explain with a block diagram the DMA transfer in a computer system. [10] 
+ 
+6.a) Explain in detail about the classification of memory. 
+b) Given the hit ratio of 0.92 and cache access time of 40ns and main memory access 
+time of 300 ns. Calculate the ave rage access time. Discuss how read and write 
+operations are carried out in a cache memory?    [5+5] 
+OR 
+7.  Explain in detail about different memory mapping techniques.   [10] 
+  
+8.a) Explain the principles and characteristics of Pipelining. 
+   b) What are the various segments registers in 8086 microprocessor?   [7+3]  
+OR 
+9.a) Draw the functional pin diagram of 8086. Briefly explain the action of 8086 when 
+NMI and INTR pins are activated.    
+b) Register R1 and R2 of computer contain the decimal value 1200 and  4600. What 
+is the effective address of the source operand in each of the following 
+instructions?          
+i) Load 20(R1), R5 
+ii) Move #3000, R5 
+iii) Store R5, 30(R1, R2) 
+iv) Add –(R2), R5 
+v) Subtract (R1)+, R5.        [5+5]  
+ 
+10. Write an ALP in 8086 to sort a given set of 8-bit unsigned integers into ascending 
+order by bubble sort method.       [10]  
+OR 
+11.a) Explain the following 8086 instructions with examples.     
+i) RET           ii) LOOP iii) IRET. 
+b) What is importance of CALL Instruction?    
+c) Write assembly language program to list alphanumeric characters by illustrating  
+ JUMP instruction?                  [3+2+5] 
+---ooOoo--- 
+ 
+JNTUH USED 12-05-2019AM
+

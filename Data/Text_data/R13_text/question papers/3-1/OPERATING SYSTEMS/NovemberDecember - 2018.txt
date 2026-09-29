@@ -1,0 +1,71 @@
+ 
+ 
+Code No: 115EH       
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech III Year I Semester Examinations, November/December - 2018 
+OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 hours                                  Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit. Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What are the goals of operating system?      [2] 
+   b) What is an Operating system? What are the various OS Components?   [3] 
+   c)      What is critical section problem?        [2] 
+   d)      What is preemptive Scheduling? How is it different from non-preemptive scheduling?
+            [3] 
+   e)      What is Virtual Memory? Why is it required?     [2]         
+   f) Compare LRU and Optimal Replacement Algorithms.    [3]   
+   g) What are the files attributes up dated during file creation?    [2] 
+   h)      What are the methods for accessing the file?      [3]        
+   i)       Define deadlock.          [2]  
+   j)       Write down the principles of protection.      [3] 
+              
+PART - B  
+(50 Marks) 
+ 
+2. Describe evolution of operating system in detail.       [10] 
+OR 
+3. What is the need for system calls? Explain the types of system calls provided by an 
+ operating system with respect to memory management.      [10] 
+  
+4.  Explain FCFS, RR and SJF scheduling algorithm with illustrations.      [10] 
+OR 
+5. Explain about multiple-processor scheduling and real time scheduling.    [10] 
+ 
+6.a) What is the need of demand paging? Explain briefly. 
+   b) Explain in detail about segmentation on with paging technique.   [5+5] 
+OR 
+7.a) Explain in detail about paging technique. 
+   b) Explain in detail Contiguous Memory Allocation.     [5+5] 
+ 
+8. Explain in detail about file system structure and implementation.      [10] 
+OR 
+9. Explain in detail about free space management.         [10] 
+ 
+ 
+ 
+ 
+R13 
+ used paper 04-12-2018 AM
+
+ 
+ 
+10. How can deadlock be detected and recovered? Explain in detail with relevant example.
+              [10] 
+OR 
+11.a) What is access matrix? What are various methods to implement it? 
+     b) Explain Capability-Based Protection system.      [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ used paper 04-12-2018 AM
+

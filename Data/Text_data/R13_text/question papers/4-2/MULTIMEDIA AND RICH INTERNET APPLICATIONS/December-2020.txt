@@ -1,0 +1,37 @@
+ 
+ 
+Code No: 118DD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, December - 2020 
+MULTIMEDIA AND RICH INTERNET APPLICATIONS  
+(Common to CSE, IT) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - - 
+ 
+1. Explain briefly about different components of Multimedia.    [15] 
+ 
+2.a) Explain about different types of video signals. 
+   b) Explain in detail about MIDI.        [8+7] 
+ 
+3. Explain about H.261 Decoder and Encoder.      [15] 
+ 
+4. How to create a website splash screen by using Adobe Flash? Illustrate with an example. 
+           [15] 
+ 
+5. Explain detail procedure about how to create Rich Internet Application with AJAX? 
+             [15] 
+ 
+6. Explain in detail about Graphics and Image editing.     [15] 
+  
+7. Explain in detail about Shannon-Fano Algorithm.     [15] 
+  
+8. Explain in detail about Quantization in H.261.     [15] 
+  
+ 
+---ooOoo--- 
+ 
+R13 
+JNTUH USED PAPERS
+

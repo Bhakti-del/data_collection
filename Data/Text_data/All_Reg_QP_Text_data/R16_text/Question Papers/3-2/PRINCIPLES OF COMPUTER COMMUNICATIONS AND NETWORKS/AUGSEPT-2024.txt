@@ -1,0 +1,77 @@
+Code No: 136FT   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August/September - 2024 
+PRINCIPLES OF COMPUTER COMMUNICATIONS AND NETWORKS 
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is computer communication system?      [2] 
+   b)      What are the fundamental characteristics for effective data communication? [3] 
+   c)      Define modulation.            [2] 
+   d)      How to calculate the speed of the communication channel?    [3] 
+   e)      Define line coding schemes.        [2] 
+   f)      What are the key differences between analog and digital signals?   [3] 
+   g)      Define media access control.          [2] 
+   h)      How do guided media differ from unguided media?     [3] 
+   i)       What is the role of repeaters?        [2] 
+   j)      Write about the Hubs and switches.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Explain the difference between data communication and computer networking. 
+   b)  Differentiate between peer-to-peer and client-server network models.  [5+5] 
+OR 
+3.a)  Describe the characteristics of Local Area Network (LAN). 
+   b)  What is the purpose of IP addressing in a network? Explain.   [5+5] 
+  
+4.  Compare circuit switching, packet switching, and message switching in network 
+communication.           [10] 
+OR 
+5.a)  What are the main communication service methods in networks, and how do they 
+differ? 
+   b)  List out the advantages of using serial transmission over parallel transmission.      [6+4] 
+ 
+6.  List out the characteristics of Analog Signals and explain them with necessary 
+diagrammatic representations.         [10] 
+OR 
+7.a)  Explain the concept of Frequency Division Multiplexing (FDM) in digital carrier 
+systems. 
+b)  Discuss the impact of channel capacity and bit error rate on digital carrier system 
+performance.          [5+5] 
+ 
+ 
+ 
+ R16 
+used paper Aug-2024
+
+ 
+8.a)  Analyze the advantages of optical fiber over twisted pair and coaxial cable. 
+   b)   Examine the access method used by wireless LAN.     [5+5] 
+OR 
+9.a)  Explain how the Medium Access Control (MAC) sub -layer manages access to the 
+shared communication medium. 
+   b)  How does the data link layer ensure reliable communication between devices? [5+5] 
+ 
+10.a)  What are some key differences between SC, LC, and ST connectors in fiber optic 
+networks? 
+b)  List out the common challenges in selecting the right transceiver for specific network 
+needs.           [5+5] 
+OR 
+11.a)  Discuss the role of media converters in extending network distances. 
+     b)  Explain the difference between wired and wireless network interface cards. [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+used paper Aug-2024
+

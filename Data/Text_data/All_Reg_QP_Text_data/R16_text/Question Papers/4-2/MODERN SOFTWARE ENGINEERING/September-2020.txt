@@ -1,0 +1,41 @@
+Code No:  138DK 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, September - 2020 
+MODERN SOFTWARE ENGINEERING  
+(Common to CSE, IT) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. Appraise the importance of organizational success.     [15] 
+ 
+2.a) How to hold a daily standup meeting? 
+   b) What is iteration demo? How does it help the team?     [7+8] 
+ 
+3.a) How to prevent security defects and other challenging bugs? 
+   b) Code goes through four levels of completion. Discuss these levels.   [8+7] 
+ 
+4.a) Discuss ways to introduce slack into iterations. 
+  b) Explain combining stories with illustration.      [7+8] 
+ 
+5. Explain the life cycle of test driven development with suitable example.  [15] 
+ 
+6. XP teams are self organized. Support this statement.     [15] 
+ 
+7.a) Contrast in-house custom development with outsourced custom development. 
+   b) How to deal with disagreement regarding coding standards in the team?  [8+7] 
+ 
+8. Is asynchronous integration more efficient than synchronous integration? Substantiate your 
+answer.          [15] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ R16 
+JNTUH Used Papers 16-09-2020PM
+

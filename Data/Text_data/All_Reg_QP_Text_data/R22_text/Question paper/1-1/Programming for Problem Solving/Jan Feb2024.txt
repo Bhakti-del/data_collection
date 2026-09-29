@@ -1,0 +1,75 @@
+Code No: 181AP 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, January/February - 2024 
+PROGRAMMING FOR PROBLEM SOLVING 
+(Common to CSE(AI&ML), CSE(IOT), AI&DS, AI&ML) 
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub-questions from all 
+units carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 marks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+ (10 Marks) 
+ 
+1.a) List bitwise operators in C.        [1] 
+   b) What is the purpose of type conversion?      [1] 
+   c) What is an array?         [1] 
+   d) What is the significance of the strcpy function?     [1] 
+   e)  What is the purpose of the preprocessor in C?     [1] 
+   f)  How can you check if a file exists before opening it in C?    [1] 
+   g) What is a function prototype?        [1] 
+   h) Define the term "function signature".       [1] 
+   i) What is the time complexity of bubble sort?      [1] 
+   j) What is the main advantage of binary search over linear search?   [1] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  Write an algorithm for finding the roots of a quadratic equation.     
+   b)  Discuss the importance of flowchart and pseudocode in designing algorithm. [5+5] 
+OR 
+3.a)  Describe the different storage classes available in C.      
+   b)  Explain various types of errors with examples.     [5+5] 
+  
+4.a)  Explain how to define and use an enumeration data type in C.    
+   b) Compare character arrays and string literals. How are strings handled as arrays of 
+ characters in C?         [4+6] 
+OR 
+5.a) Describe the process of creating and initializing a one-dimensional array. Give an 
+ example.           
+   b) Discuss the use of pointers in self-referential structures.    [6+4] 
+ 
+  
+R22
+JNTUH USED PAPERS
+
+6.a)  Write a C program to check the end-of-file condition using the feof function.   
+   b)  Compare and contrast the #ifdef and #ifndef directives in C.   [5+5] 
+OR 
+7.a)  Differentiate between text and binary file modes in C.     
+   b)  Write a program to append data to an existing text file in C.    [5+5] 
+ 
+8.  Describe memory allocation and de-allocation using malloc() and free() functions. 
+Write suitable example program.       [10] 
+OR 
+9.a)  Explain call by reference mechanism with an example.      
+   b)  Write a C program to calculate the factorial of a given number using recursion. [5+5] 
+ 
+10. Explain the binary search algorithm in detail. Provide an example.   [10] 
+OR 
+11.  Explain the key steps involved in the Insertion sort algorithm with an example. [10]
+   
+ 
+ 
+---ooOoo---
+ 
+ 
+ 
+ 
+JNTUH USED PAPERS
+

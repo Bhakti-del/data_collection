@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Code No: 118BA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2019 
+DATABASE SECURITY  
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries   
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+  
+1.a)      What is man in the middle attack?       [2]  
+   b)      Give a short note on transaction security.      [3] 
+   c)      Write Tranquility principle.        [2] 
+   d)      What is dial-p gate and root gate.       [3] 
+   e)      What is design pattern and write its usage      [2]  
+   f)       What is unencrypted index? Write its purpose.     [3]  
+   g)      What is complex object?        [2]  
+   h)      Write key differences between frame based and object oriented databases.  [3]  
+   i)       Define weak authorization base.       [2] 
+   j)       What is active database? Write its features.      [3] 
+ 
+PART - B  
+(50 Marks) 
+2.a) What is access matrix model? Explain its major parts and implementation. 
+   b) Explain Take grant model in detail.       [5+5] 
+OR 
+3.a) Explain in detail about database inference. 
+   b) Give a note on database auditing.       [5+5] 
+  
+4.a) What is Biba model? Write its features. 
+   b) Explain the working principle of Biba model for database security.   [5+5] 
+OR 
+5.a) Explain memory protection mechanisms. 
+   b) Explain, how database security is provided using Dion’s model.   [5+5] 
+  
+6.a)  Explain design considerations for security software. 
+   b) Explain different categories of inference.      [5+5] 
+OR 
+7.a) Describe different types of attacks for inference control evaluation. 
+   b) Write a note on ASES system.       [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 19-07-2019AM
+
+ 
+ 
+ 
+ 
+8.a) Explain security model for frame based model.
+   b) Write a note on the core concepts of object orient database.    [5+5] 
+OR 
+9.a) Write the security issues in object oriented database.  
+   b) Explain SORION model for protecting object oriented database.   [5+5] 
+ 
+10.a) Explain ORION model  architecture with a neat sketch. 
+     b) Explain model for protection of active databases.     [5+5] 
+OR 
+11.a) Write a note on Kogan’s Model. 
+     b) Explain about authorization in detail and its types.     [5+5] 
+  
+ 
+---ooOoo--- 
+JNTUH USED 19-07-2019AM
+

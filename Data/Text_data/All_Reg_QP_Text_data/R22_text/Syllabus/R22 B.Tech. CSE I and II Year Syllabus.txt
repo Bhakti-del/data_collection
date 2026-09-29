@@ -1,0 +1,3013 @@
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech. in COMPUTER SCIENCE AND ENGINEERING 
+COURSE STRUCTURE, I & II YEAR SYLLABUS (R22 Regulations) 
+Applicable from AY 2022-23 Batch 
+ 
+I Year I Semester  
+S. 
+No. 
+Course 
+Code 
+Course  L T P Credits 
+1.  MA101BS Matrices and Calculus 3 1 0 4 
+2.  CH102BS Engineering Chemistry 3 1 0 4 
+3.  CS103ES Programming for Problem Solving 3 0 0 3 
+4.  EE104ES Basic Electrical Engineering 2 0 0 2 
+5.  ME105ES Computer Aided Engineering Graphics 1 0 4 3 
+6.  CS106ES Elements of Computer Science & Engineering 0 0 2 1 
+7.  CH107BS Engineering Chemistry Laboratory 0 0 2 1 
+8.  CS108ES Programming for Problem Solving Laboratory 0 0 2 1 
+9.  EE109ES Basic Electrical Engineering Laboratory 0 0 2 1 
+  Induction Program     
+ Total 12 2 12 20 
+ 
+I Year II Semester  
+S. 
+No. 
+Course 
+Code 
+Course  L T P Credits  
+1.  MA201BS Ordinary Differential Equations and Vector Calculus 3 1 0 4 
+2.  PH202BS Applied Physics 3 1 0 4 
+3.  ME203ES Engineering Workshop 0 1 3 2.5 
+4.  EN204HS English for Skill Enhancement 2 0 0 2 
+5.  EC205ES Electronic Devices and Circuits 2 0 0 2 
+6.  CS206ES Python Programming Laboratory 0 1 2 2 
+7.  PH207BS Applied Physics Laboratory 0 0 3 1.5 
+8.  EN208HS English Language and Communication Skills 
+Laboratory 
+0 0 2 1 
+9.  CS209ES IT Workshop 0 0 2 1 
+10. *MC210 Environmental Science 3 0 0 0 
+ Total 13 4 12 20 
+ 
+II YEAR I SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1  Digital Electronics  3 0 0 3 
+2  Data Structures 3 0 0 3 
+3  Computer Oriented Statistical Methods 3 1 0 4 
+4  Computer Organization and Architecture 3 0 0 3 
+5  Object Oriented Programming through Java 3 0 0 3 
+6  Data Structures Lab  0 0 3 1.5 
+7  Object Oriented Programming through Java Lab 0 0 3 1.5 
+8  Data visualization- R Programming/ Power BI 0 0 2 1 
+9 *MC Gender Sensitization Lab 0 0 2 0 
+  Total 15 1 10 20
+ 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ 
+ 
+II YEAR II SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1  Discrete Mathematics 3 0 0 3 
+2  Business Economics & Financial Analysis 3 0 0 3 
+3  Operating Systems 3 0 0 3 
+4  Database Management Systems 3 0 0 3 
+5  Software Engineering  3 0 0 3 
+6  Operating Systems Lab 0 0 2 1 
+7  Database Management Systems Lab 0 0 2 1 
+8  Real-time Research Project/ Societal Related 
+Project 0 0 4 2 
+9  Node JS/ React JS/ Django 0 0 2 1 
+10 *MC Constitution of India 3 0 0 0 
+  Total 18 0 10 20 
+ 
+III YEAR I SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits  
+1  Design and Analysis of Algorithms 3 1 0 4 
+2  Computer Networks 3 0 0 3 
+3 DevOps 3 0 0 3
+4  Professional Elective-I 3 0 0 3 
+5  Professional Elective -II 3 0 0 3 
+6  Computer Networks Lab  0 0 2 1 
+7  DevOps Lab 0 0 2 1 
+8  Advanced English Communication Skills Lab 0 0 2 1 
+9  UI design- Flutter 0 0 2 1 
+10 *MC Intellectual Property Rights 3 0 0 0 
+  Total 18 1 8 20 
+ 
+III YEAR II SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1  Machine Learning 3 0 0 3 
+2  Formal Languages and Automata Theory  3 0 0 3 
+3  Artificial Intelligence 3 0 0 3 
+4  Professional Elective – III  3 0 0 3 
+5  Open Elective-I 3 0 0 3 
+6  Machine Learning Lab  0 0 2 1 
+7  Artificial Intelligence Laboratory 0 0 2 1 
+8  Professional Elective-III Lab 0 0 2 1 
+9  Industrial Oriented Mini Project/ Internship/ Skill 
+Development Course (Big data-Spark) 0 0 4 2 
+10 *MC Environmental Science 3 0 0 0 
+  Total 18 0 8 20
+ 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Environmental Science in III Yr II Sem Should be Registered by Lateral Entry Students Only. 
+IV YEAR I SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1  Cryptography and Network Security 3 0 0 3 
+2  Compiler Design 3 0 0 3 
+3  Professional Elective -IV 3 0 0 3 
+4  Professional Elective -V 3 0 0 3 
+5  Open Elective - II 3 0 0 3 
+6  Cryptography and Network Security Lab 0 0 2 1 
+7  Compiler Design Lab 0 0 2 1 
+8  Project Stage - I 0 0 6 3 
+  Total Credits 15 0 10 20 
+ 
+IV YEAR II SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1  Organizational Behavior 3 0 0 3 
+2  Professional Elective – VI 3 0 0 3 
+3  Open Elective – III 3 0 0 3 
+4  Project Stage – II including Seminar 0 0 22 11 
+  Total Credits 9 0 22 20 
+ 
+*MC – Satisfactory/Unsatisfactory 
+ 
+#Skill Course - 1 credit with 2 Practical Hours 
+ 
+Professional Elective - I 
+ Quantum Computing 
+ Advanced Computer Architecture 
+ Data Analytics 
+ Image Processing 
+ Principles of Programming Languages 
+ 
+Professional Elective - II 
+ Computer Graphics 
+ Embedded Systems  
+ Information Retrieval Systems 
+ Distributed Databases 
+ Natural Language Processing 
+ 
+Professional Elective - III 
+ Full Stack Development 
+ Internet of Things 
+ Scripting Languages 
+ Mobile Application Development 
+ Software Testing Methodologies 
+ 
+# Courses in PE - III and PE - III Lab must be in 1-1 correspondence. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ 
+Professional Elective -IV 
+ Graph Theory 
+ Advanced Operating Systems 
+ Soft Computing 
+ Cloud Computing 
+ Ad hoc & Sensor Networks 
+ 
+Professional Elective -V 
+ Advanced Algorithms 
+ Agile Methodology 
+ Robotic Process Automation 
+ Blockchain Technology 
+ Software Process & Project Management 
+ 
+Professional Elective – VI 
+ Computational Complexity 
+ Distributed Systems 
+ Deep Learning 
+ Human Computer Interaction 
+ Cyber Forensics 
+ 
+ 
+Open Elective -1: 
+1. Data Structures 
+2. Database Management Systems 
+ 
+Open Elective -2: 
+1. Operating Systems 
+2. Software Engineering 
+ 
+Open Elective -3: 
+1. Algorithms Design and Analysis  
+2. Introduction to Computer Networks 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+MATRICES AND CALCULUS 
+B.Tech. I Year I Sem.      L   T   P   C 
+                                                           3   1   0    4 
+Pre-requisites: Mathematical Knowledge at pre-university level 
+ 
+Course Objectives: To learn 
+ Types of matrices and their properties. 
+ Concept of a rank of the matrix and applying this concept to know the consistency and solving 
+the system of linear equations. 
+ Concept of eigenvalues and eigenvectors and to reduce the quadratic form to canonical form 
+ Geometrical approach to the mean value theorems and their application to the mathematical 
+problems 
+ Evaluation of surface areas and volumes of revolutions of curves. 
+ Evaluation of improper integrals using Beta and Gamma functions. 
+ Partial differentiation, concept of total derivative 
+ Finding maxima and minima of function of two and three variables. 
+ Evaluation of multiple integrals and their applications 
+ 
+Course outcomes: After learning the contents of this paper the student must be able to  
+ Write the matrix representation of a set of linear equations and to analyse the solution of the 
+system of equations 
+ Find the Eigenvalues and Eigen vectors  
+ Reduce the quadratic form to canonical form using orthogonal transformations. 
+ Solve the applications on the mean value theorems. 
+ Evaluate the improper integrals using Beta and Gamma functions 
+ Find the extreme values of functions of two variables with/ without constraints. 
+ Evaluate the multiple integrals and apply the concept to find areas, volumes 
+ 
+UNIT - I: Matrices         10 L 
+Rank of a matrix by Echelon form and Normal form, Inverse of Non-singular matrices by Gauss-Jordan 
+method, System of linear equations:  Solving system of Homogeneous and Non-Homogeneous 
+equations by Gauss elimination method, Gauss Seidel Iteration Method. 
+ 
+UNIT - II: Eigen values and Eigen vectors      10 L 
+Linear Transformation and Orthogonal Transformation: Eigenvalues, Eigenvectors and their properties, 
+Diagonalization of a matrix, Cayley-Hamilton Theorem (without proof), finding inverse and power of a 
+matrix by Cayley-Hamilton Theorem, Quadratic forms and Nature of the Quadratic Forms, Reduction of 
+Quadratic form to canonical forms by Orthogonal Transformation.  
+ 
+UNIT - III: Calculus          10 L 
+Mean value theorems: Rolle’s theorem, Lagrange’s Mean value theorem with their Geometrical 
+Interpretation and applications, Cauchy’s Mean value Theorem, Taylor’s Series. 
+Applications of definite integrals to evaluate surface areas and volumes of revolutions of curves (Only 
+in Cartesian coordinates), Definition of Improper Integral: Beta and Gamma functions and their 
+applications. 
+ 
+UNIT - IV: Multivariable Calculus (Partial Differentiation and applications)  10 L 
+Definitions of Limit and continuity. 
+Partial Differentiation: Euler’s Theorem, Total derivative, Jacobian, Functional dependence & 
+independence. Applications: Maxima and minima of functions of two variables and three variables using 
+method of Lagrange multipliers. 
+ 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+UNIT-V: Multivariable Calculus (Integration)        8 L 
+Evaluation of Double Integrals (Cartesian and polar coordinates), change of order of integration (only 
+Cartesian form), Evaluation of Triple Integrals: Change of variables (Cartesian to polar) for double and 
+(Cartesian to Spherical and Cylindrical polar coordinates) for triple integrals.  
+Applications: Areas (by double integrals) and volumes (by double integrals and triple integrals). 
+ 
+TEXT BOOKS: 
+1. B.S. Grewal, Higher Engineering Mathematics, Khanna Publishers, 36th Edition, 2010. 
+2. R.K. Jain and S.R.K. Iyengar, Advanced Engineering Mathematics, Narosa Publications, 
+5th Editon, 2016. 
+ 
+REFERENCE BOOKS: 
+1. Erwin kreyszig, Advanced Engineering Mathematics, 9th Edition, John Wiley & Sons, 2006. 
+2. G.B. Thomas and R.L. Finney, Calculus and Analytic geometry, 9 thEdition,Pearson, Reprint, 
+2002. 
+3. N.P. Bali and Manish Goyal, A text book of Engineering Mathematics, Laxmi Publications, 
+Reprint, 2008. 
+4. H. K. Dass and Er. Rajnish Verma, Higher Engineering Mathematics, S Chand and Company 
+Limited, New Delhi. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ENGINEERING CHEMISTRY  
+B.Tech. I Year I Sem.      L   T   P   C 
+                                                           3   1   0    4 
+Course Objectives: 
+1. To bring adaptability to new developments in Engineering Chemistry and to acquire the skills 
+required to become a perfect engineer. 
+2. To include the importance of water in industrial usage, fundamental aspects of battery 
+chemistry, significance of corrosion it’s control to protect the structures. 
+3. To imbibe the basic concepts of petroleum and its products. 
+4. To acquire required knowledge about engineering materials like cement, smart materials and 
+Lubricants. 
+ 
+Course Outcomes: 
+1. Students will acquire the basic knowledge of electrochemical procedures related to corrosion 
+and its control.  
+2. The students are able to understand the basic properties of water and its usage in domestic 
+and industrial purposes.  
+3. They can learn the fundamentals and general properties of polymers and other engineering 
+materials.  
+4. They can predict potential applications of chemistry and practical utility in order to become good 
+engineers and entrepreneurs. 
+ 
+UNIT - I: Water and its treatment: [8] 
+Introduction to hardness of water – Estimation of hardness of water by complexometric method and 
+related numerical problems. Potable water and its specifications - Steps involved in the treatment of 
+potable water - Disinfection of potable water by chlorination and break - point chlorination. Defluoridation 
+- Determination of F- ion by ion- selective electrode method. 
+Boiler troubles: Sludges, Scales and Caustic embrittlement. Internal treatment of Boiler feed water - 
+Calgon conditioning - Phosphate conditioning - Colloidal conditioning, External treatment methods - 
+Softening of water by ion- exchange processes. Desalination of water – Reverse osmosis. 
+ 
+UNIT – II Battery Chemistry & Corrosion [8] 
+Introduction - Classification of batteries- primary, secondary and reserve batteries with examples. Basic 
+requirements for commercial batteries. Construction, working and applications of: Zn-air and Lithium 
+ion battery, Applications of Li-ion battery to electrical vehicles. Fuel Cells- Differences between battery 
+and a fuel cell, Construction and applications of Methanol Oxygen fuel cell and Solid oxide fuel cell. 
+Solar cells - Introduction and applications of Solar cells. 
+Corrosion: Causes and effects of corrosion – theories of chemical and electrochemical corrosion – 
+mechanism of electrochemical corrosion, Types of corrosion: Galvanic, water-line and pitting corrosion. 
+Factors affecting rate of corrosion, Corrosion control methods- Cathodic protection – Sacrificial anode 
+and impressed current methods.   
+ 
+UNIT - III: Polymeric materials: [8] 
+Definition – Classification of polymers with examples – Types of polymerization – 
+addition (free radical addition) and condensation polymerization with examples – Nylon 6:6, Terylene  
+Plastics: Definition and characteristics- thermoplastic and thermosetting plastics, Preparation, 
+Properties and engineering applications of PVC and Bakelite, Teflon, Fiber reinforced plastics (FRP). 
+Rubbers: Natural rubber and its vulcanization. 
+Elastomers: Characteristics –preparation – properties and applications of Buna-S, Butyl and Thiokol 
+rubber. 
+Conducting polymers: Characteristics and Classification with examples-mechanism of conduction in 
+trans-polyacetylene and applications of conducting polymers. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Biodegradable polymers: Concept and advantages - Polylactic acid and poly vinyl alcohol and their 
+applications. 
+ 
+UNIT - IV: Energy Sources: [8] 
+Introduction, Calorific value of fuel – HCV, LCV- Dulongs formula. Classification- solid fuels: coal – 
+analysis of coal – proximate and ultimate analysis and their significance. Liquid fuels – petroleum and 
+its refining, cracking types – moving bed catalytic cracking. Knocking – octane and cetane rating, 
+synthetic petrol - Fischer-Tropsch’s process; Gaseous fuels – composition and uses of natural gas, 
+LPG and CNG, Biodiesel – Transesterification, advantages. 
+ 
+UNIT - V: Engineering Materials: [8] 
+Cement: Portland cement, its composition, setting and hardening. 
+Smart materials and their engineering applications  
+Shape memory materials- Poly L- Lactic acid. Thermoresponse materials- Polyacryl amides, Poly vinyl 
+amides 
+Lubricants: Classification of lubricants with examples-characteristics of a good lubricants - mechanism 
+of lubrication (thick film, thin film and extreme pressure)- properties of lubricants: viscosity, cloud point, 
+pour point, flash point and fire point. 
+ 
+TEXT BOOKS: 
+1. Engineering Chemistry by P.C. Jain and M. Jain, Dhanpatrai Publishing Company, 2010 
+2. Engineering Chemistry by Rama Devi, Venkata Ramana Reddy and Rath, Cengage learning, 
+2016 
+3. A text book of Engineering Chemistry by M. Thirumala Chary, E. Laxminarayana and K. 
+Shashikala, Pearson Publications, 2021. 
+4. Textbook of Engineering Chemistry by Jaya Shree Anireddy, Wiley Publications. 
+ 
+REFERENCE BOOKS: 
+1. Engineering Chemistry by Shikha Agarwal, Cambridge University Press, Delhi (2015) 
+2. Engineering Chemistry by Shashi Chawla, Dhanpatrai and Company (P) Ltd. Delhi (2011) 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+PROGRAMMING FOR PROBLEM SOLVING 
+ B.Tech. I Year I Sem.         L   T    P   C 
+3    0    0   3 
+Course Objectives: 
+● To learn the fundamentals of computers. 
+● To understand the various steps in program development. 
+● To learn the syntax and semantics of the C programming language. 
+● To learn the usage of structured programming approaches in solving problems. 
+ 
+Course Outcomes: The student will learn 
+● To write algorithms and to draw flowcharts for solving problems. 
+● To convert the algorithms/flowcharts to C programs. 
+● To code and test a given logic in the C programming language. 
+● To decompose a problem into functions and to develop modular reusable code. 
+● To use arrays, pointers, strings and structures to write C programs. 
+● Searching and sorting problems. 
+ 
+UNIT - I: Introduction to Programming 
+Compilers, compiling and executing a program. 
+Representation of Algorithm - Algorithms for finding roots of a quadratic equations, finding minimum 
+and maximum numbers of a given set, finding if a number is prime number Flowchart/Pseudocode with 
+examples, Program design and structured programming 
+Introduction to C Programming Language: variables (with data types and space requirements), 
+Syntax and Logical Errors in compilation, object and executable code, Operators, expressions and 
+precedence, Expression evaluation, Storage classes (auto, extern, static and register), type conversion, 
+The main method and command line arguments Bitwise operations: Bitwise AND, OR, XOR and NOT 
+operators 
+Conditional Branching and Loops: Writing and evaluation of conditionals and consequent branching 
+with if, if-else, switch-case, ternary operator, goto, Iteration with for, while, do- while loops 
+I/O: Simple input and output with scanf and printf, formatted I/O, Introduction to stdin, stdout and stderr. 
+Command line arguments 
+ 
+UNIT - II: Arrays, Strings, Structures and Pointers: 
+Arrays: one and two dimensional arrays, creating, accessing and manipulating elements of arrays 
+Strings: Introduction to strings, handling strings as array of characters, basic string functions available 
+in C (strlen, strcat, strcpy, strstr etc.), arrays of strings 
+Structures: Defining structures, initializing structures, unions, Array of structures 
+Pointers: Idea of pointers, Defining pointers, Pointers to Arrays and Structures, Use of Pointers in self-
+referential structures, usage of self referential structures in linked list (no implementation) Enumeration 
+data type 
+ 
+UNIT - III: Preprocessor and File handling in C: 
+Preprocessor: Commonly used Preprocessor commands like include, define, undef, if, ifdef, ifndef 
+Files: Text and Binary files, Creating and Reading and writing text and binary files, Appending data to 
+existing files, Writing and reading structures using binary files, Random access using fseek, ftell and 
+rewind functions. 
+ 
+UNIT - IV: Function and Dynamic Memory Allocation: 
+Functions: Designing structured programs, Declaring a function, Signature of a function, Parameters 
+and return type of a function, passing parameters to functions, call by value, Passing arrays to functions, 
+passing pointers to functions, idea of call by reference, Some C standard functions and libraries 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Recursion: Simple programs, such as Finding Factorial, Fibonacci series etc., Limitations of Recursive 
+functions Dynamic memory allocation: Allocating and freeing memory, Allocating memory for arrays of 
+different data types 
+ 
+UNIT - V: Searching and Sorting: 
+Basic searching in an array of elements (linear and binary search techniques), Basic algorithms to sort 
+array of elements (Bubble, Insertion and Selection sort algorithms), Basic concept of order of complexity 
+through the example programs 
+ 
+TEXT BOOKS: 
+1. Jeri R. Hanly and Elliot B.Koffman, Problem solving and Program Design in C 7th Edition, 
+Pearson  
+2. B.A. Forouzan and R.F. Gilberg C Programming and Data Structures, Cengage Learning, (3rd 
+Edition) 
+ 
+REFERENCE BOOKS: 
+1. Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Prentice Hall of 
+India 
+2. E. Balagurusamy, Computer fundamentals and C, 2nd Edition, McGraw-Hill 
+3. Yashavant Kanetkar, Let Us C, 18th Edition, BPB  
+4. R.G. Dromey, How to solve it by Computer, Pearson (16th Impression) 
+5. Programming in C, Stephen G. Kochan, Fourth Edition, Pearson Education. 
+6. Herbert Schildt, C: The Complete Reference, Mc Graw Hill, 4th Edition 
+7. Byron Gottfried, Schaum’s Outline of Programming with C, McGraw-Hill 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+BASIC ELECTRICAL ENGINEERING 
+ 
+B.Tech. I Year I Sem.                     L    T    P    C 
+                       2     0    0    2 
+Prerequisites: Mathematics  
+Course Objectives: 
+ To understand DC and Single & Three phase AC circuits   
+ To study and understand the different types of DC, AC machines and Transformers. 
+ To import the knowledge of various electrical installations and the concept of power, power 
+factor and its improvement. 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ Understand and analyze basic Electrical circuits 
+ Study the working principles of Electrical Machines and Transformers 
+ Introduce components of Low Voltage Electrical Installations. 
+ 
+Course 
+Objectives 
+Program Outcomes 
+  PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 
+To understand 
+DC and Single & 
+Three phase AC 
+circuits. 
+3 2 1  2 0 0 1 2 0 1 2 
+To study and 
+understand the 
+different types of 
+DC, AC machines 
+and 
+Transformers. 
+3 2 1 1 3 0 0 0 2 0 1 1 
+To import the 
+knowledge of 
+various electrical 
+installations and 
+the concept of 
+power, power 
+factor and its 
+improvement. 
+3 2 0  3 0 0 0 1 2 1 1 
+ 
+Course 
+Outcomes 
+Program Outcomes 
+   
+PO1 
+PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 
+Understand and 
+analyse basic 
+Electrical circuits 
+3 2 1 0 1 0 0 0 2 0 2 2 
+Study the working
+principles of 
+Electrical 
+Machines and 
+Transformers 
+3 2 1 0 3 1 0 1 1 2 1 2 
+Introduce 
+components of 
+Low Voltage 
+Electrical 
+Installations. 
+3 2 1 1 3 2 0 0 1 0 2 2 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+UNIT-I:  
+D.C. Circuits: Electrical circuit elements (R, L and C), voltage and current sources, KVL&KCL, analysis 
+of simple circuits with dc excitation. Superposition, Thevenin and Norton Theorems. Time-domain 
+analysis of first-order RL and RC circuits.  
+ 
+UNIT-II:  
+A.C. Circuits: Representation of sinusoidal waveforms, peak and rms values, phasor representation, 
+real power, reactive power, apparent power, power factor, Analysis of single-phase ac circuits 
+consisting of R, L, C, RL, RC, RLC combinations (series and parallel), resonance in series R-L-C circuit. 
+Three-phase balanced circuits, voltage and current relations in star and delta connections. 
+ 
+UNIT-III:  
+Transformers: Ideal and practical transformer, equivalent circuit, losses in transformers, regulation and 
+efficiency. Auto-transformer and three-phase transformer connections.  
+ 
+UNIT-IV:  
+Electrical Machines: Construction and working principle of dc machine, performance characteristics 
+of dc shunt machine. Generation of rotating magnetic field, Construction and working of a three-phase 
+induction motor, Significance of torque-slip characteristics. Single-phase induction motor, Construction 
+and working. Construction and working of synchronous generator.  
+ 
+UNIT-V:  
+Electrical Installations: Components of LT Switchgear: Switch Fuse Unit (SFU), MCB, ELCB, MCCB, 
+Types of Wires and Cables, Earthing. Types of Batteries, Important Characteristics for Batteries. 
+Elementary calculations for energy consumption, power factor improvement and battery backup. 
+ 
+TEXT BOOKS:  
+1. D.P. Kothari and I. J. Nagrath, “Basic Electrical Engineering”, Tata McGraw Hill, 4 th Edition, 
+2019.  
+2. MS Naidu and S Kamakshaiah, “Basic Electrical Engineering”, Tata McGraw Hill, 2 nd Edition, 
+2008.  
+ 
+REFERENCE BOOKS:  
+1. P. Ramana, M. Suryakalavathi, G.T. Chandrasheker, “Basic Electrical Engineering”, S. Chand, 
+2nd Edition, 2019. 
+2. D. C. Kulshreshtha, “Basic Electrical Engineering”, McGraw Hill, 2009 
+3. M. S. Sukhija, T. K. Nagsarkar, “Basic Electrical and Electronics Engineering”, Oxford, 1 st 
+Edition, 2012. 
+4. Abhijit Chakrabarthi, Sudipta Debnath, Chandan Kumar Chanda, “Basic Electrical 
+Engineering”, 2nd Edition, McGraw Hill, 2021. 
+5. L. S. Bobrow, “Fundamentals of Electrical Engineering”, Oxford University Press, 2011.  
+6. E. Hughes, “Electrical and Electronics Technology”, Pearson, 2010.  
+7. V. D. Toro, “Electrical Engineering Fundamentals”, Prentice Hall India, 1989 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+COMPUTER AIDED ENGINEERING GRAPHICS 
+ 
+B.Tech. I Year I Sem.      L   T   P   C 
+                                                           1   0   4    3 
+Course Objectives: 
+ To develop the ability of visualization of different objects through technical drawings 
+ To acquire computer drafting skill for communication of concepts, ideas in the design of 
+engineering products     
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Apply computer aided drafting tools to create 2D and 3D objects 
+ sketch conics and different types of solids  
+ Appreciate the need of Sectional views of solids and Development of surfaces of solids   
+ Read and interpret engineering drawings  
+ Conversion of orthographic projection into isometric view and vice versa manually and by using 
+computer aided drafting 
+ 
+UNIT – I: 
+Introduction to Engineering Graphics: Principles of Engineering Graphics and their Significance, 
+Scales – Plain & Diagonal, Conic Sections including the Rectangular Hyperbola – General method only. 
+Cycloid, Epicycloid and Hypocycloid, Introduction to Computer aided drafting – views, commands and 
+conics 
+ 
+UNIT- II: 
+Orthographic Projections: Principles of Orthographic Projections – Conventions – Projections of 
+Points and Lines, Projections of Plane regular geometric figures. Auxiliary Planes. Computer aided 
+orthographic projections – points, lines and planes 
+ 
+UNIT – III: 
+Projections of Regular Solids – Auxiliary Views - Sections or Sectional views of Right Regular Solids – 
+Prism, Cylinder, Pyramid, Cone – Auxiliary views, Computer aided projections of solids – sectional 
+views  
+ 
+UNIT – IV: 
+Development of Surfaces of Right Regular Solids – Prism, Cylinder, Pyramid and Cone, Development 
+of surfaces using computer aided drafting 
+ 
+UNIT – V: 
+Isometric Projections: Principles of Isometric Projection – Isometric Scale – Isometric Views –
+Conventions – Isometric Views of Lines, Plane Figures, Simple and Compound Solids – Isometric 
+Projection of objects having non- isometric lines. Isometric Projection of Spherical Parts. Conversion of 
+Isometric Views to Orthographic Views and Vice-versa –Conventions. Conversion of orthographic 
+projection into isometric view using computer aided drafting. 
+ 
+TEXT BOOKS:  
+1. Engineering Drawing N.D. Bhatt / Charotar 
+2. Engineering Drawing and graphics Using AutoCAD Third Edition, T. Jeyapoovan, Vikas: S. 
+Chand and company Ltd. 
+ 
+REFERENCE BOOKS: 
+1. Engineering Drawing, Basant Agrawal and C M Agrawal, Third Edition McGraw Hill 
+2. Engineering Graphics and Design, WILEY, Edition 2020 
+3. Engineering Drawing, M. B. Shah, B.C. Rane / Pearson. 
+4. Engineering Drawing, N. S. Parthasarathy and Vela Murali, Oxford 
+5. Computer Aided Engineering Drawing – K Balaveera Reddy et al – CBS Publishers 
+Note: - External examination is conducted in conventional mode and internal evaluation to be done by 
+both conventional as well as using computer aided drafting.  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ELEMENTS OF COMPUTER SCIENCE AND ENGINEERING 
+ 
+B.Tech. I Year I Sem.         L   T    P   C 
+0    0    2   1 
+Course Objective: To provide an overview of the subjects of computer science and engineering. 
+ 
+Course Outcomes: 
+1. Know the working principles of functional units of a basic Computer 
+2. Understand program development, the use of data structures and algorithms in problem 
+solving. 
+3. Know the need and types of operating system, database systems. 
+4. Understand the significance of networks, internet, WWW and cyber security. 
+5. Understand Autonomous systems, the application of artificial intelligence. 
+ 
+UNIT – I 
+Basics of a Computer – Hardware, Software, Generations of computers. Hardware - functional units, 
+Components of CPU, Memory – hierarchy, types of memory, Input and output devices. Software – 
+systems software, application software, packages, frameworks, IDEs. 
+ 
+UNIT – II 
+Software development – waterfall model, Agile, Types of computer languages – Programming, 
+markup, scripting Program Development – steps in program development, flowcharts, algorithms, data 
+structures – definition, types of data structures 
+ 
+UNIT – III 
+Operating systems: Functions of operating systems, types of operating systems, Device & Resource 
+management 
+Database Management Systems: Data models, RDBMS, SQL, Database Transactions, data centers, 
+cloud services 
+ 
+UNIT – IV 
+Computer Networks: Advantages of computer networks, LAN, WAN, MAN, internet, WiFi, sensor 
+networks, vehicular networks, 5G communication. 
+World Wide Web – Basics, role of HTML, CSS, XML, Tools for web designing, Social media, Online 
+social networks. 
+Security – information security, cyber security, cyber laws 
+ 
+UNIT – V 
+Autonomous Systems: IoT, Robotics, Drones, Artificial Intelligence – Learning, Game Development, 
+natural language processing, image and video processing. 
+Cloud Basics 
+ 
+TEXT BOOK: 
+1. Invitation to Computer Science, G. Michael Schneider, Macalester College, Judith L. Gersting 
+University of Hawaii, Hilo, Contributing author: Keith Miller University of Illinois, Springfield. 
+ 
+REFERENCE BOOKS: 
+1. Fundamentals of Computers, Reema Thareja, Oxford Higher Education, Oxford University Press. 
+2. Introduction to computers, Peter Norton, 8th Edition, Tata McGraw Hill. 
+3. Computer Fundamentals, Anita Goel, Pearson Education India, 2010. 
+4. Elements of computer science, Cengage.  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ENGINEERING CHEMISTRY LABORATORY 
+B.Tech. I Year I Sem.      L   T   P   C 
+                                                           0   0   2    1 
+Course Objectives: The course consists of experiments related to the principles of chemistry required 
+for engineering student. The student will learn:  
+ Estimation of hardness of water to check its suitability for drinking purpose. 
+ Students are able to perform estimations of acids and bases using conductometry, 
+potentiometry and pH metry methods.  
+ Students will learn to prepare polymers such as Bakelite and nylon-6 in the laboratory. 
+ Students will learn skills related to the lubricant properties such as saponification value, surface 
+tension and viscosity of oils. 
+ 
+Course Outcomes: The experiments will make the student gain skills on: 
+ Determination of parameters like hardness of water and rate of corrosion of mild steel in various 
+conditions. 
+ Able to perform methods such as conductometry, potentiometry and pH metry in order to find 
+out the concentrations or equivalence points of acids and bases. 
+ Students are able to prepare polymers like bakelite and nylon-6.  
+ Estimations saponification value, surface tension and viscosity of lubricant oils.  
+ 
+List of Experiments: 
+I. Volumetric Analysis: Estimation of Hardness of water by EDTA Complexometry method. 
+II. Conductometry: Estimation of the concentration of an acid by Conductometry. 
+III. Potentiometry: Estimation of the amount of Fe+2 by Potentiomentry. 
+IV. pH Metry: Determination of an acid concentration using pH meter. 
+V. Preparations: 
+1. Preparation of Bakelite. 
+2. Preparation Nylon – 6. 
+VI. Lubricants: 
+1. Estimation of acid value of given lubricant oil. 
+2. Estimation of Viscosity of lubricant oil using Ostwald’s Viscometer. 
+VII. Corrosion: Determination of rate of corrosion of mild steel in the presence and absence of inhibitor. 
+VIII. Virtual lab experiments 
+1. Construction of Fuel cell and its working. 
+2. Smart materials for Biomedical applications 
+3. Batteries for electrical vehicles. 
+4. Functioning of solar cell and its applications. 
+ 
+REFERENCE BOOKS:  
+1. Lab manual for Engineering chemistry by B. Ramadevi and P. Aparna, S Chand Publications, 
+New Delhi (2022) 
+2. Vogel’s text book of practical organic chemistry 5th edition 
+3. Inorganic Quantitative analysis by A.I. Vogel, ELBS Publications.  
+4. College Practical Chemistry by V.K. Ahluwalia, Narosa Publications Ltd. New Delhi (2007).
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+PROGRAMMING FOR PROBLEM SOLVING LABORATORY 
+ 
+ B.Tech. I Year I Sem.         L   T    P   C 
+0    0    2   1 
+[Note:The programs may be executed using any available Open Source/ Freely available IDE 
+Some of the Tools available are:  
+CodeLite: https://codelite.org/ 
+Code:Blocks: http://www.codeblocks.org/ 
+DevCpp : http://www.bloodshed.net/devcpp.html 
+Eclipse: http://www.eclipse.org 
+This list is not exhaustive and is NOT in any order of preference] 
+ 
+Course Objectives: The students will learn the following:  
+● To work with an IDE to create, edit, compile, run and debug programs  
+● To analyze the various steps in program development.  
+● To develop programs to solve basic problems by understanding basic concepts in C like 
+operators, control statements etc.  
+● To develop modular, reusable and readable C Programs using the concepts like functions, 
+arrays etc. 
+● To Write programs using the Dynamic Memory Allocation concept.  
+● To create, read from and write to text and binary files 
+ 
+Course Outcomes: The candidate is expected to be able to: 
+● formulate the algorithms for simple problems 
+● translate given algorithms to a working and correct program 
+● correct syntax errors as reported by the compilers 
+● identify and correct logical errors encountered during execution 
+● represent and manipulate data with arrays, strings and structures 
+● use pointers of different types 
+● create, read and write to and from simple text and binary files 
+● modularize the code with functions so that they can be reused 
+ 
+Practice sessions: 
+a. Write a simple program that prints the results of  all the operators available in C (including pre/ 
+post increment , bitwise and/or/not , etc.).  Read required operand values from standard input. 
+b. Write a simple program that converts one given data type to another using auto conversion and 
+casting. Take the values from standard input.  
+ 
+Simple numeric problems: 
+a. Write a program for finding the max and min from the three numbers.  
+b. Write the program for the simple, compound interest.  
+c. Write a program  that declares Class awarded for a given percentage of marks,  where mark 
+<40%= Failed, 40% to  <60% = Second class, 60% to <70%=First class, >= 70% = Distinction. 
+Read percentage from standard input. 
+d. Write a program that prints a multiplication table for a given number and the number of rows in 
+the table. For example, for a number 5 and rows = 3, the output should be: 
+e. 5 x 1 = 5 
+f. 5 x 2 = 10 
+g. 5 x 3 = 15 
+h. Write a program that shows the binary equivalent of a given positive number between 0 to 255. 
+ 
+ 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Expression Evaluation: 
+a. A building has 10 floors with a floor height of 3 meters each. A ball is dropped from the top of 
+the building. Find the time taken by the ball to reach each floor. (Use the formula s = ut+(1/2)at^2  
+where u and a are the initial velocity in m/sec (= 0) and acceleration in m/sec^2 (= 9.8 m/s^2)).  
+b. Write a C program, which takes two integer operands and one operator from the user, performs 
+the operation and then prints the result. (Consider the operators +,-,*, /, % and use Switch 
+Statement)  
+c. Write a program that finds if a given number is a prime number 
+d. Write a C program to find the sum of individual digits of a positive integer and test given number 
+is palindrome.  
+e. A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 
+and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write 
+a C program to generate the first n terms of the sequence.  
+f. Write a C program to generate all the prime numbers between 1 and n, where n is a value 
+supplied by the user.  
+g. Write a C program to find the roots of a Quadratic equation.  
+h. Write a C program to calculate the following, where x is a fractional value. 
+i. 1-x/2 +x^2/4-x^3/6  
+j. Write a C program to read in two numbers, x and n, and then compute the sum of this geometric 
+progression: 1+x+x^2+x^3+………….+x^n. For example: if n is 3 and x is 5, then the program 
+computes 1+5+25+125.  
+ 
+Arrays, Pointers and Functions: 
+a. Write a C program to find the minimum, maximum and average in an array of integers.  
+b. Write a function to compute mean, variance, Standard Deviation, sorting of n elements in a 
+single dimension array.  
+c. Write a C program that uses functions to perform the following:  
+d. Addition of Two Matrices  
+e. Multiplication of Two Matrices  
+f. Transpose of a matrix with memory dynamically allocated for the new matrix as row  and column 
+counts may not be the same. 
+g. Write C programs that use both recursive and non-recursive functions  
+h. To find the factorial of a given integer.  
+i. To find the GCD (greatest common divisor) of two given integers. 
+j. To find x^n  
+k. Write a program for reading elements using a pointer into an array and display the values using 
+the array.  
+l. Write a program for display values reverse order from an array using a pointer.  
+m. Write a program through a pointer variable to sum of n elements from an array. 
+ 
+Files: 
+a. Write a C program to display the contents of a file to standard output device. 
+b. Write a C program which copies one file to another, replacing all lowercase characters with 
+their uppercase equivalents. 
+c. Write a C program to count the number of times a character occurs in a text file. The file name 
+and the character are supplied as command line arguments.  
+d. Write a C program that does the following: 
+It should first create a binary file and store 10 integers, where the file name and 10 values are 
+given in the command line. (hint: convert the strings using atoi function) 
+Now the program asks for an index and a value from the user and the value at that index should 
+be changed to the new value in the file. (hint: use fseek function) 
+The program should then read all 10 values and print them back. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+e. Write a C program to merge two files into a third file (i.e., the contents of the first file  followed 
+by those of the second are put in the third file). 
+ 
+Strings:  
+a. Write a C program to convert a Roman numeral ranging from I to L to its decimal equivalent.  
+b. Write a C program that converts a number ranging from 1 to 50 to Roman equivalent 
+c. Write a C program that uses functions to perform the following operations:  
+d. To insert a sub-string into a given main string from a given position.  
+e. To delete n Characters from a given position in a given string.  
+f. Write a C program to determine if the given string is a palindrome or not (Spelled same in both 
+directions with or without a meaning like madam, civic, noon, abcba, etc.) 
+g. Write a C program that displays the position of a character ch in the string S or – 1 if S doesn‘t 
+contain ch.  
+h. Write a C program to count the lines, words and characters in a given text.  
+ 
+Miscellaneous:  
+a. Write a menu driven C program that allows a user to enter n numbers and then choose between 
+finding the smallest, largest, sum, or average. The menu and all the choices are to be functions. 
+Use a switch statement to determine what action to take. Display an error message if an invalid 
+choice is entered. 
+ 
+b. Write a C program to construct a pyramid of numbers as follows:  
+1  
+1 2  
+1 2 3  
+*  
+* *  
+* * *  
+1  
+2 3  
+4 5 6  
+1  
+2 2  
+3 3 3  
+4 4 4 4  
+*  
+* *  
+* * *  
+* *  
+* 
+Sorting and Searching: 
+a. Write a C program that uses non recursive function to search for a Key value in a given  
+b. list of integers using linear search method. 
+c. Write a C program that uses non recursive function to search for a Key value in a given  
+d. sorted list of integers using binary search method. 
+e. Write a C program that implements the Bubble sort method to sort a given list of  
+f. integers in ascending order. 
+g. Write a C program that sorts the given array of integers using selection sort in descending order 
+h. Write a C program that sorts the given array of integers using insertion sort in ascending order 
+i. Write a C program that sorts a given array of names 
+ 
+TEXT BOOKS: 
+1. Jeri R. Hanly and Elliot B.Koffman, Problem solving and Program Design in C 7th Edition, 
+Pearson  
+2. B.A. Forouzan and R.F. Gilberg C Programming and Data Structures, Cengage Learning, (3rd 
+Edition) 
+ 
+REFERENCE BOOKS: 
+1. Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, PHI 
+2. E. Balagurusamy, Computer fundamentals and C, 2nd Edition, McGraw-Hill 
+3. Yashavant Kanetkar, Let Us C, 18th Edition, BPB  
+4. R.G. Dromey, How to solve it by Computer, Pearson (16th Impression) 
+5. Programming in C, Stephen G. Kochan, Fourth Edition, Pearson Education. 
+6. Herbert Schildt, C: The Complete Reference, Mc Graw Hill, 4th Edition 
+7. Byron Gottfried, Schaum’s Outline of Programming with C, McGraw-Hill  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+BASIC ELECTRICAL ENGINEERING LABORATORY 
+ 
+B.Tech. I Year I Sem.                    L    T    P   C 
+                      0     0    2   1 
+Prerequisites: Basic Electrical Engineering  
+Course Objectives: 
+ To measure the electrical parameters for different types of DC and AC circuits using 
+conventional and theorems approach.   
+ To study the transient response of various R, L and C circuits using different excitations.  
+ To determine the performance of different types of DC, AC machines and Transformers. 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ Verify the basic Electrical circuits through different experiments. 
+ Evaluate the performance calculations of Electrical Machines and Transformers through
+various testing methods. 
+ Analyze the transient responses of R, L and C circuits for different input conditions.  
+ 
+Course Objectives Program Outcomes 
+   PO1  PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 
+To measure the 
+electrical
+parameters for 
+different types of 
+DC and AC circuits 
+using conventional 
+and theorems 
+approach 
+3 2 1  2 0 0 1 2 0 1 2
+To study the 
+transient response 
+of various R, L and 
+C circuits using 
+different excitations 
+3 2 1 1 3 0 0 0 2 0 1 1
+To determine the 
+performance of 
+different types of 
+DC, AC machines 
+and Transformers 
+3 2 0  3 0 0 0 1 2 1 1
+ 
+Course Outcomes Program Outcomes 
+   PO1  PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 
+Verify the basic 
+Electrical circuits 
+through different 
+experiments 
+3 2 1 0 1 0 0 0 2 0 2 2
+Evaluate the 
+performance 
+calculations of 
+Electrical Machines 
+and Transformers 
+through various 
+testing methods 
+3 2 1 0 3 1 0 1 1 2 1 2
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Analyse the 
+transient 
+responses of R, L 
+and C circuits for 
+different input 
+conditions 
+3 2 1 1 3 2 0 0 1 0 2 2
+ 
+List of experiments/demonstrations:  
+PART- A (compulsory) 
+1. Verification of KVL and KCL  
+2. Verification of Thevenin’s and Norton’s theorem 
+3. Transient Response of Series RL and RC circuits for DC excitation  
+4. Resonance in series RLC circuit  
+5. Calculations and Verification of Impedance and Current of RL, RC and RLC series 
+circuits  
+6. Measurement of Voltage, Current and Real Power in primary and Secondary Circuits of a 
+Single-Phase Transformer  
+7. Performance Characteristics of a DC Shunt Motor 
+8. Torque-Speed Characteristics of a Three-phase Induction Motor. 
+ 
+PART-B (any two experiments from the given list) 
+1. Verification of Superposition theorem. 
+2. Three Phase Transformer: Verification of Relationship between Voltages and Currents 
+(Star-Delta, Delta-Delta, Delta-star, Star-Star) 
+3. Load Test on Single Phase Transformer (Calculate Efficiency and Regulation)  
+4. Measurement of Active and Reactive Power in a balanced Three-phase circuit  
+5. No-Load Characteristics of a Three-phase Alternator 
+ 
+TEXT BOOKS:  
+1. D.P. Kothari and I. J. Nagrath, “Basic Electrical Engineering”, Tata McGraw Hill, 4 th Edition, 
+2019.  
+2. MS Naidu and S Kamakshaiah, “Basic Electrical Engineering”, Tata McGraw Hill, 2 nd Edition, 
+2008.  
+ 
+REFERENCE BOOKS:  
+1. P. Ramana, M. Suryakalavathi, G.T.Chandrasheker,”Basic Electrical Engineering”, S. Chand, 
+2nd Edition, 2019. 
+2. D. C. Kulshreshtha, “Basic Electrical Engineering”, McGraw Hill, 2009 
+3. M. S. Sukhija, T. K. Nagsarkar, “Basic Electrical and Electronics Engineering”, Oxford, 1 st 
+Edition, 2012. 
+4. Abhijit Chakrabarthi, Sudipta Debnath, Chandan Kumar Chanda, “Basic Electrical 
+Engineering”, 2nd Edition, McGraw Hill, 2021. 
+5. L. S. Bobrow, “Fundamentals of Electrical Engineering”, Oxford University Press, 2011.  
+6. E. Hughes, “Electrical and Electronics Technology”, Pearson, 2010.  
+7. V. D. Toro, “Electrical Engineering Fundamentals”, Prentice Hall India, 1989. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ORDINARY DIFFERENTIAL EQUATIONS AND VECTOR CALCULUS 
+ 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           3   1   0    4 
+Pre-requisites: Mathematical Knowledge at pre-university level 
+ 
+Course Objectives: To learn 
+ Methods of solving the differential equations of first and higher order. 
+ Concept, properties of Laplace transforms 
+ Solving ordinary differential equations using Laplace transforms techniques. 
+ The physical quantities involved in engineering field related to vector valued functions 
+ The basic properties of vector valued functions and their applications to line, surface and 
+volume integrals 
+ 
+Course outcomes: After learning the contents of this paper the student must be able to  
+ Identify whether the given differential equation of first order is exact or not 
+ Solve higher differential equation and apply the concept of differential equation to real world 
+problems. 
+ Use the Laplace transforms techniques for solving ODE’s. 
+ Evaluate the line, surface and volume integrals and converting them from one to another 
+ 
+UNIT-I: First Order ODE         8 L 
+Exact differential equations, Equations reducible to exact differential equations, linear and Bernoulli’s 
+equations, Orthogonal Trajectories (only in Cartesian Coordinates). Applications: Newton’s law of 
+cooling, Law of natural growth and decay.
+ 
+UNIT-II: Ordinary Differential Equations of Higher Order     10 L 
+Second order linear differential equations with constant coefficients: Non-Homogeneous terms of the 
+type ௔௫, sin ݔܽ cos ݔܽ ,polynomials in ݔ ,ܸ(ݔ)and ݔ  ܸ(ݔ)method of variation of parameters, 
+Equations reducible to linear ODE with constant coefficients: Legendre’s equation, Cauchy-Euler 
+equation. Applications: Electric Circuits 
+ 
+UNIT-III: Laplace transforms         10 L 
+Laplace Transforms: Laplace Transform of standard functions, First shifting theorem, Second shifting 
+theorem, Unit step function, Dirac delta function, Laplace transforms of functions when they are 
+multiplied and divided by ‘t’, Laplace transforms of derivatives and integrals of function, Evaluation of 
+integrals by Laplace transforms, Laplace transform of periodic functions, Inverse Laplace transform by 
+different methods, convolution theorem (without proof). Applications: solving Initial value problems by 
+Laplace Transform method. 
+ 
+UNIT-IV: Vector Differentiation         10 L 
+Vector point functions and scalar point functions, Gradient, Divergence and Curl, Directional derivatives, 
+Tangent plane and normal line, Vector Identities, Scalar potential functions, Solenoidal and Irrotational 
+vectors. 
+ 
+UNIT-V: Vector Integration         10 L 
+Line, Surface and Volume Integrals, Theorems of Green, Gauss and Stokes (without proofs) and their 
+applications.  
+ 
+TEXT BOOKS: 
+1. B.S. Grewal, Higher Engineering Mathematics, Khanna Publishers, 36th Edition, 2010 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+2. R.K. Jain and S.R.K. Iyengar, Advanced Engineering Mathematics, Narosa Publications, 
+5th Edition, 2016. 
+ 
+REFERENCE BOOKS: 
+1. Erwin Kreyszig, Advanced Engineering Mathematics, 9th Edition, John Wiley & Sons, 2006. 
+2. G.B. Thomas and R.L. Finney, Calculus and Analytic geometry, 9 th Edition, Pearson, Reprint, 
+2002. 
+3. H. K. Dass and Er. Rajnish Verma, Higher Engineering Mathematics, S Chand and Company 
+Limited, New Delhi. 
+4. N.P. Bali and Manish Goyal, A text book of Engineering Mathematics, Laxmi Publications, 
+Reprint, 2008. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+APPLIED PHYSICS 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           3   1   0    4 
+Pre-requisites: 10 + 2 Physics 
+ 
+Course Objectives: The objectives of this course for the student are to:  
+1. Understand the basic principles of quantum physics and band theory of solids. 
+2. Understand the underlying mechanism involved in construction and working principles of 
+various semiconductor devices. 
+3. Study the fundamental concepts related to the dielectric, magnetic and energy materials. 
+4. Identify the importance of nanoscale, quantum confinement and various fabrications 
+techniques. 
+5. Study the characteristics of lasers and optical fibres. 
+ 
+Course Outcomes: At the end of the course the student will be able to: 
+1. Understand physical world from fundamental point of view by the concepts of Quantum 
+mechanics and visualize the difference between conductor, semiconductor, and an insulator by 
+classification of solids.  
+2. Identify the role of semiconductor devices in science and engineering Applications. 
+3. Explore the fundamental properties of dielectric, magnetic materials and energy for their 
+applications.  
+4. Appreciate the features and applications of Nanomaterials.  
+5. Understand various aspects of Lasers and Optical fiber and their applications in diverse fields. 
+ 
+UNIT - I: QUANTUM PHYSICS AND SOLIDS 
+Quantum Mechanics: Introduction to quantum physics, blackbody radiation – Stefan-Boltzmann’s law, 
+Wein’s and Rayleigh-Jean’s law, Planck’s radiation law - photoelectric effect - Davisson and Germer 
+experiment –Heisenberg uncertainty principle - Born interpretation of the wave function – time 
+independent Schrodinger wave equation - particle in one dimensional potential box.  
+Solids: Symmetry in solids, free electron theory (Drude & Lorentz, Sommerfeld) - Fermi-Dirac 
+distribution - Bloch’s theorem -Kronig-Penney model – E-K diagram- effective mass of electron-origin 
+of energy bands- classification of solids.  
+ 
+UNIT - II: SEMICONDUCTORS AND DEVICES 
+Intrinsic and extrinsic semiconductors – Hall effect - direct and indirect band gap semiconductors - 
+construction, principle of operation and characteristics of P-N Junction diode, Zener diode and bipolar 
+junction transistor (BJT)–LED, PIN diode, avalanche photo diode (APD) and solar cells, their structure, 
+materials, working principle and characteristics. 
+ 
+UNIT - III: DIELECTRIC, MAGNETIC AND ENERGY MATERIALS  
+Dielectric Materials: Basic definitions- types of polarizations (qualitative) - ferroelectric, piezoelectric, 
+and pyroelectric materials – applications – liquid crystal displays (LCD) and crystal oscillators. 
+Magnetic Materials: Hysteresis - soft and hard magnetic materials - magnetostriction, 
+magnetoresistance - applications - bubble memory devices, magnetic field sensors and multiferroics. 
+Energy Materials: Conductivity of liquid and solid electrolytes- superionic conductors -   materials and 
+electrolytes for super capacitors - rechargeable ion batteries, solid fuel cells. 
+ 
+UNIT - IV: NANOTECHNOLOGY 
+Nanoscale, quantum confinement, surface to volume ratio, bottom-up fabrication: sol-gel, precipitation, 
+combustion methods – top-down fabrication: ball milling - physical vapor deposition (PVD) - chemical 
+vapor deposition (CVD) - characterization techniques - XRD, SEM &TEM - applications of 
+nanomaterials. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ 
+UNIT - V: LASER AND FIBER OPTICS 
+Lasers:  Laser beam characteristics-three quantum processes-Einstein coefficients and their relations- 
+lasing action - pumping methods- ruby laser, He-Ne laser , CO2 laser, Argon ion Laser, Nd:YAG laser- 
+semiconductor laser-applications of laser.  
+Fiber Optics: Introduction to optical fiber- advantages of optical Fibers - total internal reflection- 
+construction of optical fiber - acceptance angle - numerical aperture- classification of optical fibers- 
+losses in optical fiber - optical fiber for communication system - applications.  
+ 
+TEXT BOOKS: 
+1. M. N. Avadhanulu, P.G. Kshirsagar & TVS Arun Murthy” A Text book of Engineering Physics”- 
+S. Chand Publications, 11th Edition 2019.   
+2. Engineering Physics by Shatendra Sharma and Jyotsna Sharma, Pearson Publication,2019 
+3. Semiconductor Physics and Devices- Basic Principle – Donald A, Neamen, Mc Graw Hill, 
+4thEdition,2021. 
+4. B.K. Pandey and S. Chaturvedi, Engineering Physics, Cengage Learning, 2 ndEdition,2022. 
+5. Essentials of Nanoscience & Nanotechnology by Narasimha Reddy Katta, Typical Creatives 
+NANO DIGEST, 1st Edition, 2021. 
+ 
+REFERENCE BOOKS: 
+1. Quantum Physics, H.C. Verma, TBS Publication, 2 nd Edition 2012. 
+2. Fundamentals of Physics – Halliday, Resnick and Walker, John Wiley &Sons,11th Edition, 2018. 
+3. Introduction to Solid State Physics, Charles Kittel, Wiley Eastern, 2019. 
+4. Elementary Solid State Physics, S.L. Gupta and V. Kumar, Pragathi Prakashan, 2019. 
+5. A.K. Bhandhopadhya - Nano Materials, New Age International, 1 stEdition, 2007. 
+6. Energy Materials a Short Introduction to Functional Materials for Energy Conversion and 
+Storage Aliaksandr S. Bandarenka, CRC Press Taylor & Francis Group  
+7. Energy Materials, Taylor & Francis Group, 1 st Edition, 2022. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ENGINEERING WORKSHOP 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           0   1   3   2.5 
+Pre-requisites: Practical skill 
+ 
+Course Objectives: 
+ To Study of different hand operated power tools, uses and their demonstration. 
+ To gain a good basic working knowledge required for the production of various engineering 
+products. 
+ To provide hands on experience about use of different engineering materials, tools, equipments 
+and processes those are common in the engineering field. 
+ To develop a right attitude, team working, precision and safety at work place. 
+ It explains the construction, function, use and application of different working tools, equipment 
+and machines. 
+ To study commonly used carpentry joints. 
+ To have practical exposure to various welding and joining processes. 
+ Identify and use marking out tools, hand tools, measuring equipment and to work to prescribed 
+tolerances. 
+ 
+Course Outcomes: At the end of the course, the student will be able to:  
+ Study and practice on machine tools and their operations  
+ Practice on manufacturing of components using workshop trades including pluming, fitting, 
+carpentry, foundry, house wiring and welding. 
+ Identify and apply suitable tools for different trades of Engineering processes including drilling, 
+material removing, measuring, chiseling. 
+Apply basic electrical engineering knowledge for house wiring practice.
+ 
+1. TRADES FOR EXERCISES: 
+At least two exercises from each trade: 
+I. Carpentry – (T-Lap Joint, Dovetail Joint, Mortise & Tenon Joint) 
+II. Fitting – (V-Fit, Dovetail Fit & Semi-circular fit) 
+III. Tin-Smithy – (Square Tin, Rectangular Tray & Conical Funnel) 
+IV. Foundry – (Preparation of Green Sand Mould using Single Piece and Split Pattern) 
+V. Welding Practice – (Arc Welding & Gas Welding) 
+VI. House-wiring – (Parallel & Series, Two-way Switch and Tube Light) 
+VII. Black Smithy – (Round to Square, Fan Hook and S-Hook) 
+ 
+2. TRADES FOR DEMONSTRATION & EXPOSURE:  
+Plumbing, Machine Shop, Metal Cutting (Water Plasma), Power tools in construction and Wood 
+Working 
+ 
+TEXT BOOKS: 
+1. Workshop Practice /B. L. Juneja / Cengage 
+2. Workshop Manual / K. Venugopal / Anuradha. 
+ 
+REFERENCE BOOKS: 
+1. Work shop Manual - P. Kannaiah/ K.L. Narayana/ Scitech  
+2. Workshop Manual / Venkat Reddy/ BSP 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ENGLISH FOR SKILL ENHANCEMENT 
+ 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           2   0   0    2 
+Course Objectives: This course will enable the students to: 
+1. Improve the language proficiency of students in English with an emphasis on Vocabulary, 
+Grammar, Reading and Writing skills.  
+2. Develop study skills and communication skills in various professional situations.  
+3. Equip students to study engineering subjects more effectively and critically using the theoretical 
+and practical components of the syllabus.  
+ 
+Course Outcomes: Students will be able to:  
+1. Understand the importance of vocabulary and sentence structures. 
+2. Choose appropriate vocabulary and sentence structures for their oral and written 
+communication. 
+3. Demonstrate their understanding of the rules of functional grammar.  
+4. Develop comprehension skills from the known and unknown passages. 
+5. Take an active part in drafting paragraphs, letters, essays, abstracts, précis and reports in 
+various contexts.   
+6. Acquire basic proficiency in reading and writing modules of English.  
+ 
+UNIT - I 
+Chapter entitled ‘Toasted English’ by R.K.Narayan   from “English: Language, Context and 
+Culture”   published by Orient BlackSwan, Hyderabad. 
+Vocabulary:  The Concept of Word Formation -The Use of Prefixes and Suffixes - Acquaintance with 
+Prefixes and Suffixes from Foreign Languages to form Derivatives - Synonyms and 
+Antonyms 
+Grammar:  Identifying Common Errors in Writing with Reference to Articles and Prepositions. 
+Reading:  Reading and Its Importance- Techniques for Effective Reading. 
+Writing:  Sentence Structures -Use of Phrases and Clauses in Sentences- Importance of Proper 
+Punctuation- Techniques for Writing precisely – Paragraph Writing – Types, Structures 
+and Features of a Paragraph - Creating Coherence-Organizing Principles of 
+Paragraphs in Documents. 
+UNIT - II 
+Chapter entitled ‘Appro JRD’ by Sudha Murthy from “English: Language, Context and Culture” 
+published by Orient BlackSwan, Hyderabad. 
+Vocabulary:  Words Often Misspelt - Homophones, Homonyms and Homographs  
+Grammar:  Identifying Common Errors in Writing with Reference to Noun-pronoun Agreement and 
+Subject-verb Agreement. 
+Reading:  Sub-Skills of Reading – Skimming and Scanning – Exercises for Practice  
+ 
+Writing:   Nature and Style of Writing- Defining /Describing People, Objects, Places and Events 
+– Classifying- Providing Examples or Evidence. 
+ 
+UNIT - III 
+Chapter entitled ‘Lessons from Online Learning’ by F.Haider Alvi, Deborah Hurst et al from 
+“English: Language, Context and Culture”   published by Orient BlackSwan, Hyderabad. 
+Vocabulary:  Words Often Confused - Words from Foreign Languages and their Use in English. 
+Grammar:  Identifying Common Errors in Writing with Reference to Misplaced Modifiers and 
+Tenses. 
+Reading:  Sub-Skills of Reading – Intensive Reading and Extensive Reading – Exercises for 
+Practice. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Writing:   Format of a Formal Letter-Writing Formal Letters E.g.., Letter of Complaint, Letter of 
+Requisition, Email Etiquette, Job Application with CV/Resume. 
+ 
+UNIT - IV  
+Chapter entitled ‘Art and Literature’ by Abdul Kalam from “English: Language, Context and 
+Culture” published by Orient BlackSwan, Hyderabad. 
+Vocabulary: Standard Abbreviations in English 
+Grammar:  Redundancies and Clichés in Oral and Written Communication. 
+Reading:   Survey, Question, Read, Recite and Review (SQ3R Method) - Exercises for Practice 
+Writing:   Writing Practices- Essay Writing-Writing Introduction and Conclusion -Précis Writing. 
+ 
+UNIT - V 
+Chapter entitled ‘Go, Kiss the World’ by Subroto Bagchi from “English: Language, Context and 
+Culture” published by Orient BlackSwan, Hyderabad. 
+Vocabulary: Technical Vocabulary and their Usage 
+Grammar: Common Errors in English (Covering all the other aspects of grammar which were not 
+covered in the previous units) 
+Reading: Reading Comprehension-Exercises for Practice 
+Writing: Technical Reports- Introduction – Characteristics of a Report – Categories of Reports 
+Formats- Structure of Reports (Manuscript Format) -Types of Reports - Writing a 
+Report. 
+ 
+Note: Listening and Speaking Skills which are given under Unit-6 in AICTE Model Curriculum are covered 
+in the syllabus of ELCS Lab Course. 
+ 
+ Note: 1. As the syllabus of English given in AICTE Model Curriculum-2018 for B.Tech First 
+Year is Open-ended, besides following the prescribed textbook, it is required to prepare 
+teaching/learning materials by the teachers collectively in the form of handouts based on the 
+needs of the students in their respective colleges for effective teaching/learning in the class. 
+ 
+ Note: 2.Based on the recommendations of NEP2020, teachers are requested to be flexible to 
+adopt Blended Learning in dealing with the course contents .They are advised to teach 40 
+percent of each topic from the syllabus in blended mode.  
+ 
+TEXT BOOK:  
+1. “English: Language, Context and Culture” by Orient BlackSwan Pvt. Ltd, Hyderabad.  2022. 
+Print. 
+ 
+REFERENCE BOOKS: 
+1. Effective Academic Writing by Liss and Davis (OUP) 
+2. Richards, Jack C. (2022) Interchange Series. Introduction, 1,2,3. Cambridge University Press 
+3. Wood, F.T.  (2007). Remedial English Grammar. Macmillan. 
+4. Chaudhuri, Santanu Sinha. (2018). Learn English: A Fun Book of Functional Language, 
+Grammar and Vocabulary. (2nd ed.,). Sage Publications India Pvt. Ltd.  
+5.  (2019). Technical Communication. Wiley India Pvt. Ltd.  
+6. Vishwamohan, Aysha. (2013). English for Technical Communication for Engineering Students.  
+Mc Graw-Hill Education India Pvt. Ltd. 
+7. Swan, Michael. (2016). Practical English Usage. Oxford University Press. Fourth Edition. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ELECTRONIC DEVICES AND CIRCUITS 
+ 
+B.Tech. I Year II Sem.         L   T   P   C 
+              2    0   0   2 
+Course Objectives: 
+1. To introduce components such as diodes, BJTs and FETs. 
+2. To know the applications of devices. 
+3. To know the switching characteristics of devices. 
+ 
+Course Outcomes: Upon completion of the Course, the students will be able to: 
+1. Acquire the knowledge of various electronic devices and their use on real life. 
+2. Know the applications of various devices. 
+3. Acquire the knowledge about the role of special purpose devices and their applications.   
+  
+ 
+UNIT - I 
+Diodes: Diode - Static and Dynamic resistances, Equivalent circuit, Diffusion and Transition Capacitances, 
+V-I Characteristics, Diode as a switch- switching times. 
+ 
+UNIT - II 
+Diode Applications: Rectifier - Half Wave Rectifier, Full Wave Rectifier, Bridge Rectifier, Rectifiers with 
+Capacitive and Inductive Filters, Clippers-Clipping at two independent levels, Clamper-Clamping Circuit 
+Theorem, Clamping Operation, Types of Clampers. 
+ 
+UNIT - III 
+Bipolar Junction Transistor (BJT): Principle of Operation, Common Emitter, Common Base and 
+Common Collector Configurations, Transistor as a switch, switching times,  
+ 
+UNIT - IV 
+Junction Field Effect Transistor (FET): Construction, Principle of Operation, Pinch-Off Voltage, Volt-
+Ampere Characteristic, Comparison of BJT and FET, FET as Voltage Variable Resistor, MOSFET, 
+MOSTET as a capacitor. 
+ 
+UNIT – V 
+Special Purpose Devices: Zener Diode - Characteristics, Zener diode as Voltage Regulator, Principle of 
+Operation - SCR, Tunnel diode, UJT, Varactor Diode, Photo diode, Solar cell, LED, Schottky diode. 
+ 
+TEXT BOOKS: 
+1. Jacob Millman - Electronic Devices and Circuits, McGraw Hill Education 
+2. Robert L. Boylestead, Louis Nashelsky- Electronic Devices and Circuits theory, 11 th Edition, 2009, 
+Pearson. 
+ 
+REFERENCE BOOKS: 
+1. Horowitz -Electronic Devices and Circuits, David A. Bell – 5 thEdition, Oxford. 
+2. Chinmoy Saha, Arindam Halder, Debaati Ganguly - Basic Electronics-Principles and Applications, 
+Cambridge, 2018.  
+Course PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 
+CO1 3 1 2 - - 1 1 - - - - 1 
+CO2 3 2 3 - - 2 1 - - - - 1 
+CO3 3 3 3 - - 2 1 - - - - 1 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+PYTHON PROGRAMMING LABORATORY 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           0   1   2    2 
+Course Objectives: 
+ To install and run the Python interpreter 
+ To learn control structures. 
+ To Understand Lists, Dictionaries in python 
+ To Handle Strings and Files in Python 
+ 
+Course Outcomes: After completion of the course, the student should be able to 
+● Develop the application specific codes using python. 
+● Understand Strings, Lists, Tuples and Dictionaries in Python 
+● Verify programs using modular approach, file I/O, Python standard library 
+● Implement Digital Systems using Python 
+ Note:  The lab experiments will be like the following experiment examples 
+ 
+Week -1: 
+1.  i) Use a web browser to go to the Python website http://python.org. This page contains information 
+about Python and links to Python-related pages, and it gives you the ability to search the Python 
+documentation. 
+ii) Start the Python interpreter and type help() to start the online help utility. 
+2.   Start a Python interpreter and use it as a Calculator. 
+3.  
+i) Write a program to calculate compound interest when principal, rate and number of periods are 
+given. 
+ii) Given coordinates (x1, y1), (x2, y2) find the distance between two points 
+4. Read name, address, email and phone number of a person through keyboard and print the details. 
+ 
+Week - 2: 
+1.   Print the below triangle using for loop. 
+5 
+4 4 
+3 3 3 
+2 2 2 2 
+1 1 1 1 1 
+2.  Write a program to check whether the given input is digit or lowercase character or uppercase 
+character or a special character (use 'if-else-if' ladder) 
+3.   Python Program to Print the Fibonacci sequence using while loop 
+4.   Python program to print all prime numbers in a given interval (use break) 
+ 
+Week - 3: 
+1. i) Write a program to convert a list and tuple into arrays. 
+    ii) Write a program to find common values between two arrays. 
+2. Write a function called gcd that takes parameters a and b and returns their greatest common divisor. 
+3. Write a function called palindrome that takes a string argument and returnsTrue if it is a palindrome 
+and False otherwise. Remember that you can use the built-in function len to check the length of a string. 
+ 
+Week - 4: 
+1. Write a function called is_sorted that takes a list as a parameter and returns True if the list  is sorted 
+in ascending order and False otherwise. 
+2. Write a function called has_duplicates that takes a list and returns True if there is any element that 
+appears more than once. It should not modify the original list. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+i).   Write a function called remove_duplicates that takes a list and returns a new list with only the 
+unique elements from the original. Hint: they don’t have to be in the same order. 
+ii).  The wordlist I provided, words.txt, doesn’t contain single letter words. So you might want to add 
+“I”, “a”, and the empty string. 
+iii).   Write a python code to read dictionary values from the user. Construct a function to invert its 
+content. i.e., keys should be values and values should be keys. 
+3.   i) Add a comma between the characters. If the given word is 'Apple', it should become  'A,p,p,l,e' 
+ii) Remove the given word in all the places in a string? 
+iii) Write a function that takes a sentence as an input parameter and replaces the first letter of every 
+word with the corresponding upper case letter and the rest of the letters in  the word by 
+corresponding letters in lower  case without using a built-in function? 
+4.   Writes a recursive function that generates all binary strings of n-bit length 
+ 
+Week - 5: 
+1. i)  Write a python program that defines a matrix and prints 
+    ii) Write a python program to perform addition of two square matrices 
+    iii) Write a python program to perform multiplication of two square matrices 
+2. How do you make a module? Give an example of construction of a module using different geometrical 
+shapes and operations on them as its functions. 
+3. Use the structure of exception handling all general purpose exceptions. 
+  
+Week-6: 
+1.   a. Write a function called draw_rectangle that takes a Canvas and a Rectangle as arguments and 
+draws a representation of the Rectangle on the Canvas. 
+b. Add an attribute named color to your Rectangle objects and modify draw_rectangle so that it 
+uses the color attribute as the fill color. 
+c. Write a function called draw_point that takes a Canvas and a Point as arguments and draws a 
+representation of the Point on the Canvas. 
+d. Define a new class called Circle with appropriate attributes and instantiate a few   Circle objects. 
+Write a function called draw_circle that draws circles on the canvas. 
+2.   Write a Python program to demonstrate the usage of Method Resolution Order (MRO) in multiple 
+levels of Inheritances. 
+3.  Write a python code to read a phone number and email-id from the user and validate it for 
+correctness. 
+ 
+Week- 7 
+1.  Write a Python code to merge two given file contents into a third file. 
+2. Write a Python code to open a given file and construct a function to check for given words present in 
+it and display on found. 
+3. Write a Python code to Read text from a text file, find the word with most number of occurrences 
+4. Write a function that reads a file file1 and displays the number of words, number of vowels, blank 
+spaces, lower case letters and uppercase letters. 
+  
+Week - 8: 
+1. Import numpy, Plotpy and Scipy and explore their functionalities. 
+2. a) Install NumPy package with pip and explore it. 
+3. Write a program to implement Digital Logic Gates – AND, OR, NOT, EX-OR 
+4. Write a program to implement Half Adder, Full Adder, and Parallel Adder 
+5. Write a GUI program to create a window wizard having two text labels, two text fields and two buttons 
+as Submit and Reset. 
+ 
+ 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+TEXT BOOKS: 
+1. Supercharged Python: Take your code to the next level, Overland 
+2. Learning Python, Mark Lutz, O'reilly 
+ 
+REFERENCE BOOKS: 
+1. Python for Data Science, Dr. Mohd. Abdul Hameed, Wiley Publications - 1 st Ed. 2021. 
+2. Python Programming: A Modern Approach, Vamsi Kurama, Pearson 
+3. Python Programming A Modular Approach with Graphics, Database, Mobile, and Web 
+Applications, Sheetal Taneja, Naveen Kumar, Pearson 
+4. Programming with Python, A User’s Book, Michael Dawson, Cengage Learning, India Edition 
+5. Think Python, Allen Downey, Green Tea Press 
+6. Core Python Programming, W. Chun, Pearson 
+7. Introduction to Python, Kenneth A. Lambert, Cengage 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+APPLIED PHYSICS LABORATORY 
+ 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           0   0   3    1.5 
+Course Objectives: The objectives of this course for the student to  
+1. Capable of handling instruments related to the Hall effect and photoelectric effect experiments 
+and their measurements. 
+2. Understand the characteristics of various devices such as PN junction diode, Zener diode, BJT, 
+LED, solar cell, lasers and optical fiber and measurement of energy gap and resistivity of 
+semiconductor materials. 
+3. Able to measure the characteristics of dielectric constant of a given material. 
+4. Study the behavior of B-H curve of ferromagnetic materials.  
+5. Understanding the method of least squares fitting.  
+ 
+Course Outcomes: The students will be able to: 
+1. Know the determination of the Planck’s constant using Photo electric effect and identify the 
+material whether it is n-type or p-type by Hall experiment. 
+2. Appreciate quantum physics in semiconductor devices and optoelectronics. 
+3. Gain the knowledge of applications of dielectric constant. 
+4. Understand the variation of magnetic field and behavior of hysteresis curve. 
+5. Carried out data analysis. 
+ 
+LIST OF EXPERIMENTS: 
+1. Determination of work function and Planck’s constant using photoelectric effect. 
+2. Determination of Hall co-efficient and carrier concentration of a given semiconductor. 
+3. Characteristics of series and parallel LCR circuits. 
+4. V-I characteristics of a p-n junction diode and Zener diode   
+5. Input and output characteristics of BJT (CE, CB & CC configurations) 
+6. a) V-I and L-I characteristics of light emitting diode (LED)  
+b) V-I Characteristics of solar cell 
+7. Determination of Energy gap of a semiconductor. 
+8. Determination of the resistivity of semiconductor by two probe method. 
+9. Study B-H curve of a magnetic material. 
+10. Determination of dielectric constant of a given material 
+11. a) Determination of the beam divergence of the given LASER beam 
+b) Determination of Acceptance Angle and Numerical Aperture of an optical fiber. 
+12. Understanding the method of least squares – torsional pendulum as an example.  
+ 
+Note: Any 8 experiments are to be performed. 
+ 
+REFERENCE BOOK:  
+1. S. Balasubramanian, M.N. Srinivasan “A Text book of Practical Physics”- S Chand Publishers, 
+2017. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ENGLISH LANGUAGE AND COMMUNICATION SKILLS LABORATORY 
+ 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           0   0   2    1 
+The English Language and Communication Skills (ELCS) Lab focuses on the production and 
+practice of sounds of language and familiarizes the students with the use of English in everyday 
+situations both in formal and informal contexts.  
+ 
+Course Objectives: 
+ To facilitate computer-assisted multi-media instruction enabling individualized and 
+independent language learning   
+ To sensitize the students to the nuances of English speech sounds, word accent, 
+intonation and rhythm  
+ To bring about a consistent accent and intelligibility in students’ pronunciation of 
+English by providing an opportunity for practice in speaking 
+ To improve the fluency of students in spoken English and neutralize the impact of 
+dialects.  
+ To train students to use language appropriately for public speaking, group discussions 
+and interviews 
+ 
+Course Outcomes: Students will be able to: 
+ Understand the nuances of English language through audio- visual experience and group 
+activities 
+ Neutralise their accent for intelligibility 
+ Speak with clarity and confidence which in turn enhances their employability skills 
+ 
+Syllabus: English Language and Communication Skills Lab (ELCS) shall have two parts: 
+a. Computer Assisted Language Learning (CALL) Lab 
+b. Interactive Communication Skills (ICS) Lab 
+ 
+Listening Skills: 
+Objectives 
+1. To enable students develop their listening skills so that they may appreciate the role in the LSRW 
+skills approach to language and improve their pronunciation 
+2. To equip students with necessary training in listening, so that they can comprehend the speech 
+of people of different backgrounds and regions  
+Students should be given practice in listening to the sounds of the language, to be able to recognize 
+them and find the distinction between different sounds, to be able to mark stress and recognize and 
+use the right intonation in sentences. 
+   •   Listening for general content 
+•   Listening to fill up information  
+•   Intensive listening 
+•   Listening for specific information 
+ 
+Speaking Skills: 
+Objectives 
+1. To involve students in speaking activities in various contexts 
+2. To enable students express themselves fluently and appropriately in social and professional 
+contexts 
+• Oral practice 
+• Describing objects/situations/people 
+• Role play – Individual/Group activities  
+    • Just A Minute (JAM) Sessions 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ 
+The following course content is prescribed for the English Language and Communication Skills Lab. 
+ 
+Exercise – I  
+CALL Lab:  
+Understand: Listening Skill- Its importance – Purpose- Process- Types- Barriers- Effective Listening. 
+Practice: Introduction to Phonetics – Speech Sounds – Vowels and Consonants – Minimal Pairs- 
+Consonant Clusters- Past Tense Marker and Plural Marker- Testing Exercises    
+ICS Lab:  
+Understand: Spoken vs. Written language- Formal and Informal English. 
+Practice: Ice-Breaking Activity and JAM Session- Situational Dialogues – Greetings – Taking Leave – 
+Introducing Oneself and Others. 
+ 
+Exercise – II 
+CALL Lab:  
+Understand: Structure of Syllables – Word Stress– Weak Forms and Strong Forms – Stress pattern in 
+sentences – Intonation. 
+Practice: Basic Rules of Word Accent - Stress Shift - Weak Forms and Strong Forms- Stress pattern in 
+sentences – Intonation - Testing Exercises  
+ICS Lab:  
+Understand: Features of Good Conversation – Strategies for Effective Communication.  
+Practice:  Situational Dialogues – Role Play- Expressions in Various Situations –Making Requests and 
+Seeking Permissions - Telephone Etiquette. 
+ 
+Exercise - III 
+CALL Lab:  
+Understand: Errors in Pronunciation-Neutralising Mother Tongue Interference (MTI).  
+Practice: Common Indian Variants in Pronunciation – Differences between British and American 
+Pronunciation -Testing Exercises 
+ICS Lab:  
+Understand: Descriptions- Narrations- Giving Directions and Guidelines – Blog Writing  
+Practice: Giving Instructions – Seeking Clarifications – Asking for and Giving Directions – Thanking and 
+Responding – Agreeing and Disagreeing – Seeking and Giving Advice – Making Suggestions. 
+ 
+Exercise – IV 
+CALL Lab:  
+Understand: Listening for General Details. 
+Practice: Listening Comprehension Tests - Testing Exercises 
+ICS Lab:  
+Understand: Public Speaking – Exposure to Structured Talks - Non-verbal Communication- 
+Presentation Skills. 
+Practice: Making a Short Speech – Extempore- Making a Presentation.  
+ 
+Exercise – V 
+CALL Lab:  
+Understand: Listening for Specific Details. 
+Practice: Listening Comprehension Tests -Testing Exercises 
+ICS Lab:  
+Understand: Group Discussion 
+Practice:  Group Discussion  
+ 
+Minimum Requirement of infrastructural facilities for ELCS Lab: 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ 
+1. Computer Assisted Language Learning (CALL) Lab:  
+The Computer Assisted Language Learning Lab has to accommodate 40 students with 40 systems, 
+with one Master Console, LAN facility and English language learning software for self- study by 
+students. 
+System Requirement (Hardware component): 
+Computer network with LAN facility (minimum 40 systems with multimedia) with the following 
+specifications: 
+i) Computers with Suitable Configuration 
+ii) High Fidelity Headphones 
+ 
+2. Interactive Communication Skills (ICS) Lab :  
+The Interactive Communication Skills Lab: A Spacious room with movable chairs and audio-
+visual aids with a Public Address System, a T. V. or LCD, a digital stereo –audio & video system 
+and camcorder etc. 
+ Source of Material (Master Copy):  
+ Exercises in Spoken English. Part 1,2,3. CIEFL and Oxford University Press 
+ 
+Note: Teachers are requested to make use of the master copy and get it tailor-made to suit the contents 
+of the syllabus. 
+ 
+Suggested Software: 
+ Cambridge Advanced Learners’ English Dictionary with CD.  
+ Grammar Made Easy by Darling Kindersley. 
+ Punctuation Made Easy by Darling Kindersley. 
+ Oxford Advanced Learner’s Compass, 10 th Edition. 
+ English in Mind (Series 1-4), Herbert Puchta and Jeff Stranks with Meredith Levy, Cambridge. 
+ English Pronunciation in Use (Elementary, Intermediate, Advanced) Cambridge University 
+Press. 
+ English Vocabulary in Use (Elementary, Intermediate, Advanced) Cambridge University Press. 
+ TOEFL & GRE (KAPLAN, AARCO & BARRONS, USA, Cracking GRE by CLIFFS). 
+ Digital All 
+ Orell Digital Language Lab (Licensed Version) 
+ 
+REFERENCE BOOKS: 
+1. (2022). English Language Communication Skills – Lab Manual cum Workbook.  Cengage 
+Learning India Pvt. Ltd.  
+2. Shobha, KN & Rayen, J. Lourdes. (2019). Communicative English – A workbook. Cambridge 
+University Press 
+3. Kumar, Sanjay & Lata, Pushp. (2019). Communication Skills: A Workbook. Oxford University 
+Press 
+4. Board of Editors. (2016). ELCS Lab Manual: A Workbook for CALL and ICS Lab Activities. 
+Orient Black Swan Pvt. Ltd.  
+5. Mishra, Veerendra et al. (2020). English Language Skills: A Practical Approach. Cambridge 
+University Press. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+IT WORKSHOP 
+B.Tech. I Year II Sem.         L   T    P   C 
+0    0    2   1 
+Course Objectives: The IT Workshop for engineers is a training lab course spread over 60 hours. The 
+modules include training on PC Hardware, Internet & World Wide Web and Productivity tools including 
+Word, Excel, PowerPoint and Publisher. 
+ 
+Course Outcomes: 
+● Perform Hardware troubleshooting  
+● Understand Hardware components and inter dependencies 
+● Safeguard computer systems from viruses/worms 
+● Document/ Presentation preparation 
+● Perform calculations using spreadsheets 
+ 
+PC Hardware 
+Task 1: Identify the peripherals of a computer, components in a CPU and its functions. Draw the block 
+diagram of the CPU along with the configuration of each peripheral and submit to your instructor. 
+ 
+Task 2: Every student should disassemble and assemble the PC back to working condition. Lab 
+instructors should verify the work and follow it up with a Viva. Also students need to go through the 
+video which shows the process of assembling a PC. A video would be given as part of the course 
+content. 
+ 
+Task 3: Every student should individually install MS windows on the personal computer. Lab instructor 
+should verify the installation and follow it up with a Viva.  
+ 
+Task 4: Every student should install Linux on the computer. This computer should have windows 
+installed. The system should be configured as dual boot with both Windows and Linux. Lab instructors 
+should verify the installation and follow it up with a Viva 
+ 
+Internet & World Wide Web  
+Task1: Orientation & Connectivity Boot Camp: Students should get connected to their Local Area 
+Network and access the Internet. In the process they configure the TCP/IP setting. Finally students 
+should demonstrate, to the instructor, how to access the websites and email. If there is no internet 
+connectivity preparations need to be made by the instructors to simulate the WWW on the LAN. 
+ 
+Task 2: Web Browsers, Surfing the Web: Students customize their web browsers with the LAN proxy 
+settings, bookmarks, search toolbars and pop up blockers. Also, plug-ins like Macromedia Flash and 
+JRE for applets should be configured. 
+ 
+Task 3: Search Engines & Netiquette: Students should know what search engines are and how to 
+use the search engines. A few topics would be given to the students for which they need to search on 
+Google. This should be demonstrated to the instructors by the student.  
+ 
+Task 4: Cyber Hygiene: Students would be exposed to the various threats on the internet and would 
+be asked to configure their computer to be safe on the internet. They need to customize their browsers 
+to block pop ups, block active x downloads to avoid viruses and/or worms. 
+ 
+LaTeX and WORD 
+Task 1 – Word Orientation: The mentor needs to give an overview of LaTeX and Microsoft (MS) office 
+or equivalent (FOSS) tool word: Importance of LaTeX and MS office or equivalent (FOSS) tool Word as 
+word Processors, Details of the four tasks and features that would be covered in each, Using LaTeX 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+and word – Accessing, overview of toolbars, saving files, Using help and resources, rulers, format 
+painter in word. 
+ 
+Task 2: Using LaTeX and Word to create a project certificate. Features to be covered:- Formatting 
+Fonts in word, Drop Cap in word, Applying Text effects, Using Character Spacing, Borders and Colors, 
+Inserting Header and Footer, Using Date and Time option in both LaTeX and Word. 
+ 
+Task 3: Creating project abstract Features to be covered:-Formatting Styles, Inserting table, Bullets 
+and Numbering, Changing Text Direction, Cell alignment, Footnote, Hyperlink, Symbols, Spell Check, 
+Track Changes. 
+ 
+Task 4: Creating a Newsletter: Features to be covered:- Table of Content, Newspaper columns, 
+Images from files and clipart, Drawing toolbar and Word Art, Formatting Images, Textboxes, Paragraphs 
+and Mail Merge in word. 
+ 
+Excel 
+Excel Orientation: The mentor needs to tell the importance of MS office or equivalent (FOSS) tool 
+Excel as a Spreadsheet tool, give the details of the four tasks and features that would be covered in 
+each. Using Excel – Accessing, overview of toolbars, saving excel files, Using help and resources. 
+ 
+Task 1: Creating a Scheduler - Features to be covered: Gridlines, Format Cells, Summation, auto fill, 
+Formatting Text  
+ 
+Task 2 : Calculating GPA - .Features to be covered:- Cell Referencing, Formulae in excel – average, 
+std. deviation, Charts, Renaming and Inserting worksheets, Hyper linking, Count function, 
+LOOKUP/VLOOKUP 
+ 
+Task 3: Split cells, freeze panes, group and outline, Sorting, Boolean and logical operators, Conditional 
+formatting 
+ 
+Powerpoint  
+Task 1: Students will be working on basic power point utilities and tools which help them create basic 
+powerpoint presentations. PPT Orientation, Slide Layouts, Inserting Text, Word Art, Formatting Text, 
+Bullets and Numbering, Auto Shapes, Lines and Arrows in PowerPoint.  
+ 
+Task 2: Interactive presentations - Hyperlinks, Inserting –Images, Clip Art, Audio, Video, Objects, 
+Tables and Charts. 
+ 
+Task 3: Master Layouts (slide, template, and notes), Types of views (basic, presentation, slide slotter, 
+notes etc), and Inserting – Background, textures, Design Templates, Hidden slides. 
+ 
+REFERENCE BOOKS: 
+1. Comdex Information Technology course tool kit Vikas Gupta, WILEY Dreamtech 
+2. The Complete Computer upgrade and repair book, 3rd edition Cheryl A Schmidt, WILEY 
+Dreamtech 
+3. Introduction to Information Technology, ITL Education Solutions limited, Pearson Education. 
+4. PC Hardware - A Handbook – Kate J. Chase PHI (Microsoft) 
+5. LaTeX Companion – Leslie Lamport, PHI/Pearson. 
+6. IT Essentials PC Hardware and Software Companion Guide Third Edition by David Anfinson 
+and Ken Quamme. – CISCO Press, Pearson Education.  
+7. IT Essentials PC Hardware and Software Labs and Study Guide Third Edition by Patrick Regan 
+– CISCO Press, Pearson Education. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ENVIRONMENTAL SCIENCE 
+B.Tech. I Year II Sem.      L   T   P   C 
+                                                           3   0   0    0 
+Course Objectives: 
+ Understanding the importance of ecological balance for sustainable development. 
+ Understanding the impacts of developmental activities and mitigation measures. 
+ Understanding the environmental policies and regulations  
+ 
+Course Outcomes:  
+ Based on this course, the Engineering graduate will understand /evaluate / develop 
+technologies on the basis of ecological principles and environmental regulations which in turn 
+helps in sustainable development 
+ 
+UNIT - I  
+Ecosystems: Definition, Scope, and Importance of ecosystem. Classification, structure, and function 
+of an ecosystem, Food chains, food webs, and ecological pyramids. Flow of energy, Biogeochemical 
+cycles, Bioaccumulation, Biomagnification, ecosystem value, services and carrying capacity, Field 
+visits. 
+ 
+UNIT - II   
+Natural Resources: Classification of Resources:  Living and Non-Living resources, water 
+resources: use and over utilization of surface and ground water, floods and droughts, Dams: benefits 
+and problems. Mineral resources: use and exploitation, environmental effects of extracting and using 
+mineral resources, Land resources: Forest resources, Energy resources: growing energy needs, 
+renewable and non-renewable energy sources, use of alternate energy source, case studies.  
+ 
+UNIT - III  
+Biodiversity and Biotic Resources: Introduction, Definition, genetic, species and ecosystem diversity. 
+Value of biodiversity; consumptive use, productive use, social, ethical, aesthetic and optional values. 
+India as a mega diversity nation, Hot spots of biodiversity. Field visit. Threats to biodiversity: habitat 
+loss, poaching of wildlife, man-wildlife conflicts; conservation of biodiversity: In-Situ and Ex-situ 
+conservation.  National Biodiversity act.  
+ 
+UNIT - IV  
+Environmental Pollution and Control Technologies: Environmental Pollution: Classification of 
+pollution, Air Pollution: Primary and secondary pollutants, Automobile and Industrial pollution, Ambient 
+air quality standards. Water pollution:  Sources and types of pollution, drinking water quality standards. 
+Soil Pollution: Sources and types, Impacts of modern agriculture, degradation of soil. Noise Pollution: 
+Sources and Health hazards, standards, Solid waste: Municipal Solid Waste management, 
+composition and characteristics of e-Waste and its management. Pollution control technologies: 
+Wastewater Treatment methods: Primary, secondary and Tertiary.  
+Overview of air pollution control technologies, Concepts of bioremediation. Global Environmental 
+Issues and Global Efforts: Climate change and impacts on human environment. Ozone depletion and 
+Ozone depleting substances (ODS). Deforestation and desertification.  International conventions / 
+Protocols: Earth summit, Kyoto protocol, and Montréal Protocol. NAPCC-GoI Initiatives. 
+ 
+UNIT - V  
+Environmental Policy, Legislation & EIA: Environmental Protection act, Legal aspects Air Act- 1981, 
+Water Act, Forest Act, Wild life Act, Municipal solid waste management and handling rules, biomedical 
+waste management and handling rules, hazardous waste management and handling rules. EIA: EIA 
+structure, methods of baseline data acquisition. Overview on Impacts of air, water, biological and Socio-
+economical aspects. Strategies for risk assessment, Concepts of Environmental Management Plan 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+(EMP). Towards Sustainable Future: Concept of Sustainable Development Goals, Population and its 
+explosion, Crazy Consumerism, Environmental Education, Urban Sprawl, Human health, 
+Environmental Ethics, Concept of Green Building, Ecological Foot Print, Life Cycle assessment (LCA), 
+Low carbon life style. 
+ 
+TEXT BOOKS: 
+1 Textbook of Environmental Studies for Undergraduate Courses by Erach Bharucha for 
+University Grants Commission. 
+2 Environmental Studies by R. Rajagopalan, Oxford University Press. 
+ 
+REFERENCE BOOKS: 
+1. Environmental Science: towards a sustainable future by Richard T. Wright. 2008 PHL Learning 
+Private Ltd. New Delhi. 
+2. Environmental Engineering and science by Gilbert M. Masters and Wendell P. Ela. 2008 PHI 
+Learning Pvt. Ltd.  
+3. Environmental Science by Daniel B. Botkin & Edward A. Keller, Wiley INDIA edition. 
+4. Environmental Studies by Anubha Kaushik, 4 th Edition, New age international publishers. 
+5. Text book of Environmental Science and Technology - Dr. M. Anji Reddy 2007, BS Publications. 
+6. Introduction to Environmental Science by Y. Anjaneyulu, BS. Publications. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+DIGITAL ELECTRONICS 
+ 
+B.Tech. II Year I Sem.      L   T   P   C 
+                                                           3   0   0    3 
+Course Objectives: This course aims at through understanding of binary number system, logic gates, 
+combination logic and synchronous and asynchronous logic. 
+ 
+UNIT - I: 
+BOOLEAN ALGEBRA AND LOGIC GATES: Digital Systems, Binary Numbers, Number base 
+conversions, Octal and Hexadecimal Numbers, complements, Signed binary numbers, Binary codes, 
+Binary Storage and Registers, Binary logic. 
+Basic Definitions, Axiomatic definition of Boolean Algebra, Basic theorems and properties of Boolean 
+algebra, Boolean functions, canonical and standard forms, other logic operations, Digital logic gates. 
+ 
+UNIT - II: 
+GATE – LEVEL MINIMIZATION: The map method, Four-variable map, Five-Variable map, product of 
+sums simplification Don’t-care conditions, NAND and NOR implementation other Two-level 
+implementations, Exclusive – Or function. 
+ 
+UNIT - III: 
+COMBINATIONAL LOGIC: Combinational Circuits, Analysis procedure Design procedure, Binary 
+Adder-Subtractor Decimal Adder, Binary multiplier, magnitude comparator, Decoders, Encoders, 
+Multiplexers, HDL for combinational circuits. 
+ 
+UNIT - IV: 
+SEQUENTIAL LOGIC: Sequential circuits, latches, Flip-Flops Analysis of clocked sequential circuits, 
+state Reduction and Assignment, Design Procedure. Registers, shift Registers, Ripple counters, 
+synchronous counters, other counters. 
+ 
+UNIT - V  
+MEMORIES AND ASYNCHRONOUS SEQUENTIAL LOGIC: Introduction, Random-Access Memory, 
+Memory Decoding, Error Detection and correction Read-only memory, Programmable logic Array 
+programmable Array logic, Sequential Programmable Devices. 
+Introduction, Analysis Procedure, Circuits with Latches, Design Procedure, Reduction of state and Flow 
+Tables, Race-Free state Assignment Hazards, Design Example. 
+ 
+TEXT BOOKS: 
+1. Digital Design – Third Edition, M. Morris Mano, Pearson Education/PHI. 
+2. Digital Principles and Applications Albert Paul Malvino Donald P. Leach TATA McGraw Hill 
+Edition. 
+3. Fundamentals of Logic Design, Roth, 5 th Edition, Thomson. 
+ 
+REFERENCE BOOKS: 
+1. Switching and Finite Automata Theory by Zvi. Kohavi, Tata McGraw Hill. 
+2. Switching and Logic Design, C.V.S. Rao, Pearson Education 
+3. Digital Principles and Design – Donald D.Givone, Tata McGraw Hill, Edition. 
+4. Fundamentals of Digital Logic and Microcomputer Design, 5 TH Edition, M.  Rafiquzzaman John 
+Wiley. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+ 
+DATA STRUCTURES 
+B.Tech. II Year I Sem.      L   T   P   C 
+                                                           3   0   0    3 
+Prerequisites: Programming for Problem Solving 
+ 
+Course Objectives 
+● Exploring basic data structures such as stacks and queues. 
+● Introduces a variety of data structures such as hash tables, search trees, tries, heaps, graphs. 
+● Introduces sorting and pattern matching algorithms 
+ 
+Course Outcomes 
+● Ability to select the data structures that efficiently model the information in a problem. 
+● Ability to assess efficiency trade-offs among different data structure implementations or 
+combinations. 
+● Implement and know the application of algorithms for sorting and pattern matching. 
+● Design programs using a variety of data structures, including hash tables, binary and general 
+tree structures, search trees, tries, heaps, graphs, and AVL-trees. 
+ 
+UNIT - I 
+Introduction to Data Structures, abstract data types, Linear list – singly linked list implementation, 
+insertion, deletion and searching operations on linear list, Stacks- Operations, array and linked 
+representations of stacks, stack applications, Queues- operations, array and linked representations. 
+ 
+UNIT - II 
+Dictionaries: linear list representation, skip list representation, operations - insertion, deletion and 
+searching. 
+Hash Table Representation: hash functions, collision resolution-separate chaining, open addressing-
+linear probing, quadratic probing, double hashing, rehashing, extendible hashing. 
+ 
+UNIT - III 
+Search Trees: Binary Search Trees, Definition, Implementation, Operations- Searching, Insertion and 
+Deletion, B- Trees, B+ Trees, AVL Trees, Definition, Height of an AVL Tree, Operations – Insertion, 
+Deletion and Searching, Red –Black, Splay Trees. 
+ 
+UNIT - IV 
+Graphs: Graph Implementation Methods. Graph Traversal Methods. 
+Sorting: Quick Sort, Heap Sort, External Sorting- Model for external sorting, Merge Sort. 
+ 
+UNIT - V 
+Pattern Matching and Tries: Pattern matching algorithms-Brute force, the Boyer –Moore algorithm, the 
+Knuth-Morris-Pratt algorithm, Standard Tries, Compressed Tries, Suffix tries. 
+ 
+TEXT BOOKS: 
+1. Fundamentals of Data Structures in C, 2 nd Edition, E. Horowitz, S. Sahni and Susan Anderson 
+Freed, Universities Press. 
+2. Data Structures using C – A. S.Tanenbaum, Y. Langsam, and M.J. Augenstein, PHI/Pearson 
+Education. 
+ 
+REFERENCE BOOK: 
+1. Data Structures: A Pseudocode Approach with C, 2 nd Edition, R. F. Gilberg and B.A.Forouzan, 
+Cengage Learning.  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+COMPUTER ORIENTED STATISTICAL METHODS 
+B.Tech. II Year I Sem.      L   T   P   C 
+                                                           3   1   0    4 
+Pre-requisites: Mathematics courses of first year of study. 
+ 
+Course Objectives: To learn 
+ The theory of Probability, Probability distributions of single and multiple random variables 
+ The sampling theory, testing of hypothesis and making statistical inferences 
+ Stochastic process and Markov chains. 
+ 
+Course outcomes: After learning the contents of this paper the student must be able to  
+ Apply the concepts of probability and distributions to case studies. 
+ Formulate and solve problems involving random variables and apply statistical methods for 
+analyzing experimental data. 
+ Apply concept of estimation and testing of hypothesis to case studies. 
+ Correlate the concepts of one unit to the concepts in other units. 
+ 
+UNIT - I: Probability         10 L 
+Sample Space, Events, Counting Sample Points, Probability of an Event, Additive Rules, Conditional 
+Probability, Independence, and the Product Rule, Baye’s Rule,  
+Random Variables and Probability Distributions: Concept of a Random Variable, Discrete 
+Probability Distributions, Continuous Probability Distributions. 
+ 
+UNIT - II:  Expectation and discrete distributions     10 L 
+Mean of a Random Variable, Variance and Covariance of Random Variables, Means and Variances of 
+Linear Combinations of Random Variables, Chebyshev’s Theorem. 
+Discrete Probability Distributions: Binomial Distribution, Poisson distribution.  
+ 
+UNIT - III: Continuous and Sampling Distributions     10 L 
+Uniform Distribution, Normal Distribution, Areas under the Normal Curve, Applications of the Normal 
+Distribution, Normal Approximation to the Binomial Distributions. 
+Fundamental Sampling Distributions: Random Sampling, Some Important Statistics, Sampling 
+Distributions, Sampling Distribution of Means and the Central Limit Theorem, t - Distribution, F-
+Distribution. 
+ 
+UNIT - IV: Sample Estimation & Tests of Hypotheses     10 L 
+Introduction, Statistical Inference, Classical Methods of Estimation, Single Sample: Estimating the 
+mean, standard error of a point estimate, prediction interval. Two sample: Estimating the difference 
+between two means, Single sample: Estimating a proportion, Two samples: Estimating the difference 
+between two proportions, Two samples: Estimating the ratio of two variances. 
+Statistical Hypotheses: General Concepts, Testing a Statistical Hypothesis, Single sample: Tests 
+concerning a single mean, Two samples: tests on two means, One sample: test on a single proportion. 
+Two samples: tests on two proportions, Two- sample tests concerning variances. 
+ 
+UNIT-V: Stochastic Processes and Markov Chains     8L 
+Introduction to Stochastic processes- Markov process.  Transition Probability, Transition Probability 
+Matrix, First order and Higher order Markov process, n-step transition probabilities, Markov chain, 
+Steady state condition, Markov analysis.  
+ 
+TEXT BOOKS: 
+1. Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye, Probability & Statistics 
+For Engineers & Scientists, 9th Ed. Pearson Publishers. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+2. S C Gupta and V K Kapoor, Fundamentals of Mathematical statistics, Khanna publications. 
+3. S.D.Sharma, Operations Research, Kedarnath and Ramnath Publishers, Meerut, Delhi. 
+ 
+REFERENCE BOOKS: 
+1. T.T. Soong, Fundamentals of Probability and Statistics For Engineers, John Wiley & Sons, Ltd, 
+2004. 
+2. Sheldon M Ross, Probability and statistics for Engineers and scientists, academic press. 
+3. Miller and Freund’s, Probability and Statistics for Engineers, 8th Edition, Pearson Educations. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+ 
+B.Tech. II Year I Sem.      L   T   P   C 
+                                                           3   0   0    3 
+Co-requisite: A Course on “Digital Electronics”. 
+ 
+Course Objectives 
+● The purpose of the course is to introduce principles of computer organization and the basic 
+architectural concepts. 
+● It begins with basic organization, design, and programming of a simple digital computer and 
+introduces simple register transfer language to specify various computer operations. 
+● Topics include computer arithmetic, instruction set design, microprogrammed control unit, 
+pipelining and vector processing, memory organization and I/O systems, and multiprocessors
+ 
+Course Outcomes 
+● Understand the basics of instruction sets and their impact on processor design. 
+● Demonstrate an understanding of the design of the functional units of a digital computer system. 
+● Evaluate cost performance and design trade-offs in designing and constructing a computer 
+processor including memory. 
+● Design a pipeline for consistent execution of instructions with minimum hazards. 
+● Recognize and manipulate representations of numbers stored in digital computers 
+ 
+UNIT - I 
+Digital Computers: Introduction, Block diagram of Digital Computer, Definition of Computer 
+Organization, Computer Design and Computer Architecture. 
+Register Transfer Language and Micro operations: Register Transfer language, Register Transfer, Bus
+and memory transfers, Arithmetic Micro operations, logic micro operations, shift micro operations, 
+Arithmetic logic shift unit. 
+Basic Computer Organization and Design: Instruction codes, Computer Registers Computer 
+instructions, Timing and Control, Instruction cycle, Memory Reference Instructions, Input – Output and 
+Interrupt. 
+ 
+UNIT - II 
+Microprogrammed Control: Control memory, Address sequencing, micro program example, design of 
+control unit. 
+Central Processing Unit: General Register Organization, Instruction Formats, Addressing modes, Data 
+Transfer and Manipulation, Program Control. 
+ 
+UNIT - III 
+Data Representation: Data types, Complements, Fixed Point Representation, Floating Point 
+Representation. 
+Computer Arithmetic: Addition and subtraction, multiplication Algorithms, Division Algorithms, Floating 
+– point Arithmetic operations. Decimal Arithmetic unit, Decimal Arithmetic operations. 
+ 
+UNIT - IV 
+Input-Output Organization: Input-Output Interface, Asynchronous data transfer, Modes of Transfer, 
+Priority Interrupt Direct memory Access. 
+Memory Organization: Memory Hierarchy, Main Memory, Auxiliary memory, Associate Memory, Cache 
+Memory. 
+ 
+UNIT - V 
+Reduced Instruction Set Computer: CISC Characteristics, RISC Characteristics. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Pipeline and Vector Processing: Parallel Processing, Pipelining, Arithmetic Pipeline, Instruction 
+Pipeline, RISC Pipeline, Vector Processing, Array Processor. 
+Multi Processors: Characteristics of Multiprocessors, Interconnection Structures, Interprocessor 
+arbitration, Interprocessor communication and synchronization, Cache Coherence. 
+ 
+TEXT BOOK: 
+1. Computer System Architecture – M. Morris Mano, Third Edition, Pearson/PHI. 
+ 
+REFERENCE BOOKS: 
+1. Computer Organization – Carl Hamacher, Zvonks Vranesic, SafeaZaky, V th Edition, McGraw 
+Hill. 
+2. Computer Organization and Architecture – William Stallings Sixth Edition, Pearson/PHI. 
+3. Structured Computer Organization – Andrew S. Tanenbaum, 4 th Edition, PHI/Pearson. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+ 
+B.Tech. II Year I Sem.      L   T   P   C 
+                                                           3   0   0    3 
+Course Objectives 
+● To Understand the basic object-oriented programming concepts and apply them in problem 
+solving. 
+● To Illustrate inheritance concepts for reusing the program.  
+● To Demonstrate multitasking by using multiple threads and event handling 
+● To Develop data-centric applications using JDBC.  
+● To Understand the basics of java console and GUI based programming 
+ 
+Course Outcomes 
+● Demonstrate the behavior of programs involving the basic programming constructs like control 
+structures, constructors, string handling and garbage collection. 
+● Demonstrate the implementation of inheritance (multilevel, hierarchical and multiple) by using 
+extend and implement keywords 
+● Use multithreading concepts to develop inter process communication. 
+● Understand the process of graphical user interface design and implementation using AWT or 
+swings. 
+● Develop applets that interact abundantly with the client environment and deploy on the server. 
+ 
+UNIT - I 
+Object oriented thinking and Java Basics- Need for oop paradigm, summary of oop concepts, coping 
+with complexity, abstraction mechanisms. A way of viewing world – Agents, responsibility, messages, 
+methods, History of Java, Java buzzwords, data types, variables, scope and lifetime of variables, arrays, 
+operators, expressions, control statements, type conversion and casting, simple java program, 
+concepts of classes, objects, constructors, methods, access control, this keyword, garbage collection, 
+overloading methods and constructors, method binding, inheritance, overriding and exceptions, 
+parameter passing, recursion, nested and inner classes, exploring string class.  
+ 
+UNIT - II 
+ Inheritance, Packages and Interfaces – Hierarchical abstractions, Base class object, subclass, 
+subtype, substitutability, forms of inheritance specialization, specification, construction, extension, 
+limitation, combination, benefits of inheritance, costs of inheritance. Member access rules, super uses, 
+using final with inheritance, polymorphism- method overriding, abstract classes, the Object class. 
+Defining, Creating and Accessing a Package, Understanding CLASSPATH, importing packages, 
+differences between classes and interfaces, defining an interface, implementing interface, applying 
+interfaces, variables in interface and extending interfaces. Exploring java.io. 
+ 
+UNIT - III  
+Exception handling and Multithreading-- Concepts of exception handling, benefits of exception 
+handling, Termination or resumptive models, exception hierarchy, usage of try, catch, throw, throws 
+and finally, built in exceptions, creating own exception subclasses. String handling, Exploring java.util. 
+Differences between multithreading and multitasking, thread life cycle, creating threads, thread 
+priorities, synchronizing threads, inter thread communication, thread groups, daemon threads. 
+Enumerations, autoboxing, annotations, generics.  
+ 
+UNIT - IV 
+Event Handling: Events, Event sources, Event classes, Event Listeners, Delegation event model, 
+handling mouse and keyboard events, Adapter classes. The AWT class hierarchy, user interface 
+components- labels, button, canvas, scrollbars, text components, check box, checkbox groups, choices, 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+lists panels – scrollpane, dialogs, menubar, graphics, layout manager – layout manager types – border, 
+grid, flow, card and grid bag.  
+ 
+UNIT - V  
+Applets – Concepts of Applets, differences between applets and applications, life cycle of an applet, 
+types of applets, creating applets, passing parameters to applets. Swing – Introduction, limitations of 
+AWT, MVC architecture, components, containers, exploring swing- JApplet, JFrame and JComponent, 
+Icons and Labels, text fields, buttons – The JButton class, Check boxes, Radio buttons, Combo boxes, 
+Tabbed Panes, Scroll Panes, Trees, and Tables.  
+ 
+TEXT BOOKS:  
+1. Java the complete reference, 7th edition, Herbert schildt, TMH.  
+2. Understanding OOP with Java, updated edition, T. Budd, Pearson education.  
+ 
+REFERENCE BOOKS:  
+1. An Introduction to programming and OO design using Java, J.Nino and F.A. Hosch, John wiley 
+& sons. 
+2. An Introduction to OOP, third edition, T. Budd, Pearson education.  
+3. Introduction to Java programming, Y. Daniel Liang, Pearson education. 
+4. An introduction to Java programming and object-oriented application development, R.A. 
+Johnson- Thomson. 
+5. Core Java 2, Vol 1, Fundamentals, Cay.S. Horstmann and Gary Cornell, eighth Edition, 
+Pearson Education.  
+6. Core Java 2, Vol 2, Advanced Features, Cay.S. Horstmann and Gary Cornell, eighth Edition, 
+Pearson Education  
+7. Object Oriented Programming with Java, R.Buyya, S.T.Selvi, X.Chu, TMH.  
+8. Java and Object Orientation, an introduction, John Hunt, second edition, Springer. 9. Maurach’s 
+Beginning Java2 JDK 5, SPD. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+DATA STRUCTURES LAB 
+B.Tech. II Year I Sem.      L   T   P    C 
+                                                           0   0   3    1.5 
+Prerequisites: A Course on “Programming for problem solving”. 
+ 
+Course Objectives: 
+● It covers various concepts of C programming language 
+● It introduces searching and sorting algorithms 
+● It provides an understanding of data structures such as stacks and queues. 
+ 
+Course Outcomes: 
+● Ability to develop C programs for computing and real-life applications using basic elements like 
+control statements, arrays, functions, pointers and strings, and data structures like stacks, 
+queues and linked lists.  
+● Ability to Implement searching and sorting algorithms 
+ 
+List of Experiments: 
+1. Write a program that uses functions to perform the following operations on singly linked 
+list.: 
+   i) Creation   ii) Insertion   iii) Deletion    iv) Traversal  
+2. Write a program that uses functions to perform the following operations on doubly linked 
+list.: 
+   i) Creation   ii) Insertion   iii) Deletion    iv) Traversal  
+3. Write a program that uses functions to perform the following operations on circular linked 
+list.: 
+   i) Creation   ii) Insertion    iii) Deletion   iv) Traversal  
+4. Write a  program that implement stack (its operations) using  
+   i) Arrays     ii) Pointers    
+5. Write a program that implement Queue (its operations) using 
+   i) Arrays     ii) Pointers    
+6. Write a program that implements the following sorting methods to sort a given list of integers 
+in ascending order 
+   i) Quick sort   ii) Heap sort  iii) Merge sort     
+7. Write a program to implement the tree traversal methods( Recursive and Non Recursive). 
+8. Write a program to implement  
+i) Binary Search tree  ii) B Trees  iii) B+ Trees  iv) AVL 
+trees  v) Red - Black trees 
+9. Write a program to implement the graph traversal methods. 
+10. Implement a Pattern matching algorithms using Boyer- Moore, Knuth-Morris-Pratt 
+ 
+TEXT BOOKS: 
+1. Fundamentals of Data Structures in C, 2 nd Edition, E. Horowitz, S. Sahni and Susan Anderson 
+Freed, Universities Press. 
+2. Data Structures using C – A. S. Tanenbaum, Y. Langsam, and M. J. Augenstein, PHI/Pearson 
+Education.  
+ 
+REFERENCE BOOK: 
+1. Data Structures: A Pseudocode Approach with C, 2 nd Edition, R. F. Gilberg and B. A. Forouzan, 
+Cengage Learning. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB 
+ 
+B.Tech. II Year I Sem.      L   T   P    C 
+                                                           0   0   3    1.5 
+Course Objectives: 
+●  To write programs using abstract classes. 
+●  To write programs for solving real world problems using the java collection framework. 
+●  To write multithreaded programs. 
+●  To write GUI programs using swing controls in Java. 
+●  To introduce java compiler and eclipse platform. 
+●  To impart hands-on experience with java programming. 
+ 
+Course Outcomes: 
+●  Able to write programs for solving real world problems using the java collection framework. 
+●  Able to write programs using abstract classes. 
+●  Able to write multithreaded programs. 
+●  Able to write GUI programs using swing controls in Java. 
+ 
+Note: 
+1. Use LINUX and MySQL for the Lab Experiments. Though not mandatory, encourage the use 
+of the Eclipse platform. 
+ 
+2. The list suggests the minimum program set. Hence, the concerned staff is requested to add 
+more problems to the list as needed. 
+ 
+List of Experiments: 
+1. Use Eclipse or Net bean platform and acquaint yourself with the various menus. Create a test project, 
+add a test class, and run it. See how you can use auto suggestions, auto fill. Try code formatter and 
+code refactoring like renaming variables, methods, and classes. Try debug step by step with a small 
+program of about 10 to 15 lines which contains at least one if else condition and a for loop. 
+ 
+2. Write a Java program that works as a simple calculator. Use a grid layout to arrange buttons for the 
+digits and for the +, -,*, % operations. Add a text field to display the result. Handle any possible 
+exceptions like divided by zero. 
+ 
+3. A) Develop an applet in Java that displays a simple message. 
+B) Develop an applet in Java that receives an integer in one text field, and computes its factorial 
+Value and returns it in another text field, when the button named “Compute” is clicked. 
+ 
+4. Write a Java program that creates a user interface to perform integer divisions. The user enters two 
+numbers in the text fields, Num1 and Num2. The division of Num1 and Num 2 is displayed in the Result 
+field when the Divide button is clicked. If Num1 or Num2 were not an integer, the program would throw 
+a Number Format Exception. If Num2 were Zero, the program would throw an Arithmetic Exception. 
+Display the exception in a message dialog box. 
+ 
+5. Write a Java program that implements a multi-thread application that has three threads. First thread 
+generates a random integer every 1 second and if the value is even, the second thread computes the 
+square of the number and prints. If the value is odd, the third thread will print the value of the cube of 
+the number. 
+ 
+6. Write a Java program for the following: 
+Create a doubly linked list of elements. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Delete a given element from the above list. 
+Display the contents of the list after deletion. 
+ 
+7. Write a Java program that simulates a traffic light. The program lets the user select one of three 
+lights: red, yellow, or green with radio buttons. On selecting a button, an appropriate message with 
+“Stop” or “Ready” or “Go” should appear above the buttons in the selected color. Initially, there is no 
+message shown. 
+ 
+8. Write a Java program to create an abstract class named Shape that contains two integers and an 
+empty method named print Area (). Provide three classes named Rectangle, Triangle, and Circle such 
+that each one of the classes extends the class Shape. Each one of the classes contains only the method 
+print Area () that prints the area of the given shape. 
+ 
+9. Suppose that a table named Table.txt is stored in a text file. The first line in the file is the header, and 
+the remaining lines correspond to rows in the table. The elements are separated by commas. 
+Write a java program to display the table using Labels in Grid Layout. 
+ 
+10. Write a Java program that handles all mouse events and shows the event name at the center of the 
+window when a mouse event is fired (Use Adapter classes). 
+ 
+11. Write a Java program that loads names and phone numbers from a text file where the data is 
+organized as one line per record and each field in a record are separated by a tab (\t). It takes a 
+name or phone number as input and prints the corresponding other value from the hash table (hint: 
+use hash tables). 
+ 
+12. Write a Java program that correctly implements the producer – consumer problem using the 
+concept of inter thread communication. 
+ 
+13. Write a Java program to list all the files in a directory including the files present in all its 
+subdirectories. 
+ 
+REFERENCE BOOKS: 
+1. Java for Programmers, P. J. Deitel and H. M. Deitel, 10th Edition Pearson education. 
+2. Thinking in Java, Bruce Eckel, Pearson Education. 
+3. Java Programming, D. S. Malik and P. S. Nair, Cengage Learning. 
+4. Core Java, Volume 1, 9th edition, Cay S. Horstmann and G Cornell, Pearson. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+DATA VISUALIZATION - R PROGRAMMING/ POWER BI 
+ 
+B.Tech. II Year I Sem.         L   T    P   C 
+0    0    2   1 
+Course Objectives: 
+● Effective use of Business Intelligence (BI) technology (Tableau) to apply data visualization 
+● To discern patterns and relationships in the data. 
+● To build Dashboard applications. 
+● To communicate the results clearly and concisely. 
+● To be able to work with different formats of data sets. 
+ 
+Course Outcomes: At the end of the course a student should be able to 
+● Understand How to import data into Tableau. 
+● Understand Tableau concepts of Dimensions and Measures. 
+● Develop Programs and understand how to map Visual Layouts and Graphical Properties. 
+● Create a Dashboard that links multiple visualizations. 
+● Use graphical user interfaces to create Frames for providing solutions to real world 
+● problems. 
+ 
+Lab Problems: 
+1. Understanding Data, What is data, where to find data, Foundations for building Data Visualizations, 
+Creating Your First visualization? 
+2. Getting started with Tableau Software using Data file formats, connecting your Data to Tableau, 
+creating basic charts(line, bar charts, Tree maps),Using the Show me panel. 
+3. Tableau Calculations, Overview of SUM, AVR, and Aggregate features, Creating custom calculations 
+and fields. 
+4. Applying new data calculations to your visualizations, Formatting Visualizations, Formatting Tools 
+and Menus, Formatting specific parts of the view. 
+5. Editing and Formatting Axes, Manipulating Data in Tableau data, Pivoting Tableau data. 
+6. Structuring your data, Sorting and filtering Tableau data, Pivoting Tableau data. 
+7. Advanced Visualization Tools: Using Filters, Using the Detail panel, using the Size panels, 
+customizing filters, Using and Customizing tooltips, Formatting your data with colors. 
+8. Creating Dashboards &amp; Storytelling, creating your first dashboard and Story, Design for different 
+displays, adding interactivity to your Dashboard, Distributing &amp; Publishing your Visualization. 
+9. Tableau file types, publishing to Tableau Online, Sharing your visualizations, printing, and Exporting. 
+10. Creating custom charts, cyclical data and circular area charts, Dual Axis charts. 
+ 
+REFERENCE BOOKS: 
+1. Microsoft Power BI cookbook, Brett Powell, 2nd edition.  
+2. R Programming for Data Science by Roger D. Peng (References) 
+3. The Art of R Programming by Norman Matloff Cengage Learning India. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+GENDER SENSITIZATION LAB 
+ 
+B.Tech. II Year I Sem.      L   T   P   C 
+                                                          0   0   2    0 
+COURSE DESCRIPTION 
+This course offers an introduction to Gender Studies, an interdisciplinary field that asks critical questions 
+about the meanings of sex and gender in society. The primary goal of this course is to familiarize 
+students with key issues, questions and debates in Gender Studies, both historical and contemporary. 
+It draws on multiple disciplines – such as literature, history, economics, psychology, sociology, 
+philosophy, political science, anthropology and media studies – to examine cultural assumptions about 
+sex, gender, and sexuality. 
+ 
+This course integrates analysis of current events through student presentations, aiming to increase 
+awareness of contemporary and historical experiences of women, and of the multiple ways that sex and 
+gender interact with race, class, caste, nationality and other social identities. This course also seeks to 
+build an understanding and initiate and strengthen programmes combating gender-based violence and 
+discrimination. The course also features several exercises and reflective activities designed to examine 
+the concepts of gender, gender-based violence, sexuality, and rights. It will further explore the impact 
+of gender-based violence on education, health and development. 
+ 
+Objectives of the Course 
+ To develop students’ sensibility with regard to issues of gender in contemporary India. 
+ To provide a critical perspective on the socialization of men and women. 
+ To introduce students to information about some key biological aspects of genders. 
+ To expose the students to debates on the politics and economics of work. 
+ To help students reflect critically on gender violence. 
+ To expose students to more egalitarian interactions between men and women. 
+ 
+Learning Outcomes 
+ Students will have developed a better understanding of important issues related to gender in 
+contemporary India. 
+ Students will be sensitized to basic dimensions of the biological, sociological, psychological and 
+legal aspects of gender. This will be achieved through discussion of materials derived from 
+research, facts, everyday life, literature and film. 
+ Students will attain a finer grasp of how gender discrimination works in our society and how to 
+counter it. 
+ Students will acquire insight into the gendered division of labor and its relation to politics and 
+economics. 
+ Men and women students and professionals will be better equipped to work and live together as 
+equals. 
+ Students will develop a sense of appreciation of women in all walks of life. 
+ Through providing accounts of studies and movements as well as the new laws that provide 
+protection and relief to women, the textbook will empower students to understand and respond to 
+gender violence. 
+ 
+Unit-I: UNDERSTANDING GENDER 
+Introduction: Definition of Gender-Basic Gender Concepts and Terminology-Exploring Attitudes 
+towards Gender-Construction of Gender-Socialization: Making Women, Making Men 
+- Preparing for Womanhood. Growing up   Male. First lessons in Caste.  
+ 
+Unit – II: GENDER ROLES AND RELATIONS 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+Two or Many?  -Struggles with Discrimination- Gender Roles and Relations-Types of Gender Roles-
+Gender Roles and Relationships Matrix- Missing Women-Sex Selection and Its Consequences- 
+Declining Sex Ratio. Demographic Consequences-Gender Spectrum: Beyond the Binary  
+ 
+Unit – III: GENDER AND LABOUR  
+Division and Valuation of Labour-Housework: The Invisible Labor- “My Mother doesn’t Work.” “Share 
+the Load.”-Work: Its Politics and Economics -Fact and Fiction. Unrecognized and Unaccounted work. 
+-Gender Development Issues-Gender, Governance and Sustainable Development-Gender and 
+Human Rights-Gender and Mainstreaming 
+ 
+Unit – IV: GENDER - BASED VIOLENCE 
+The Concept of Violence- Types of Gender-based Violence-Gender-based Violence from a Human 
+Rights Perspective-Sexual Harassment: Say No!-Sexual Harassment, not Eve-teasing- Coping with 
+Everyday Harassment- Further Reading: “Chupulu”. 
+Domestic Violence: Speaking OutIs Home a Safe Place? -When Women Unite [Film]. Rebuilding Lives. 
+Thinking about Sexual Violence Blaming the Victim-“I Fought for my Life….”  
+ 
+Unit – V: GENDER AND CULTURE 
+Gender and Film-Gender and Electronic Media-Gender and Advertisement-Gender and Popular 
+Literature- Gender Development Issues-Gender Issues-Gender Sensitive Language-Gender and 
+Popular Literature - Just Relationships: Being Together as Equals  
+Mary Kom and Onler. Love and Acid just do not Mix. Love Letters. Mothers  and Fathers. Rosa Parks-
+The Brave Heart. 
+ 
+Note: Since it is Interdisciplinary Course, Resource Persons can be drawn from the fields of 
+English Literature or Sociology or Political Science or any other qualified faculty who has 
+expertise in this field from engineering departments. 
+ Classes will consist of a combination of activities: dialogue-based lectures, 
+discussions, collaborative learning activities, group work and in-class assignments. 
+Apart from the above prescribed book, Teachers can make use of any authentic 
+materials related to the topics given in the syllabus on “Gender”. 
+ 
+ESSENTIAL READING: The Textbook, “Towards a World of Equals: A Bilingual Textbook on 
+Gender” written by A.Suneetha,  Uma Bhrugubanda, DuggiralaVasanta, Rama Melkote, 
+Vasudha Nagaraj, Asma Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu 
+published by Telugu Akademi, Telangana Government in 2015. 
+ 
+ASSESSMENT AND GRADING: 
+ Discussion & Classroom Participation: 20% 
+ Project/Assignment: 30% 
+ End Term Exam: 50% 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+DISCRETE MATHEMATICS 
+ 
+B.Tech. II Year II Sem.         L   T    P   C 
+3    0    0   3 
+Course Objectives: 
+● Introduces elementary discrete mathematics for computer science and engineering.  
+● Topics include formal logic notation, methods of proof, induction, sets, relations, algebraic 
+structures, elementary graph theory, permutations and combinations, counting principles; 
+recurrence relations and generating functions. 
+ 
+Course Outcomes: 
+● Understand and construct precise mathematical proofs 
+● Apply logic and set theory to formulate precise statements 
+● Analyze and solve counting problems on finite and discrete structures 
+● Describe and manipulate sequences 
+● Apply graph theory in solving computing problems 
+ 
+UNIT - I 
+Mathematical logic: Introduction, Statements and Notation, Connectives, Normal Forms, Theory of 
+Inference for the Statement Calculus, The Predicate Calculus, Inference Theory of the Predicate 
+Calculus. 
+ 
+UNIT - II 
+Set theory: Introduction, Basic Concepts of Set Theory, Representation of Discrete Structures, 
+Relations and Ordering, Functions. 
+ 
+UNIT - III 
+Algebraic Structures: Introduction, Algebraic Systems, Semi groups and Monoids, Lattices as Partially 
+Ordered Sets, Boolean Algebra. 
+ 
+UNIT - IV 
+Elementary Combinatorics: Basics of Counting, Combinations and Permutations, Enumeration of 
+Combinations and Permutations, Enumerating Combinations and Permutations with Repetitions, 
+Enumerating Permutation with Constrained Repetitions, Binomial Coefficient, The Binomial and 
+Multinomial Theorems, The Principle of Exclusion.     
+ 
+UNIT - V  
+Graph Theory: Basic Concepts, Isomorphism and Subgraphs, Trees and their Properties, Spanning 
+Trees, Directed Trees, Binary Trees, Planar Graphs, Euler’s Formula, Multi-graphs and Euler Circuits, 
+Hamiltonian Graphs, Chromatic Numbers, The Four-Color Problem.  
+ 
+TEXT BOOKS: 
+1. Discrete Mathematical Structures with Applications to Computer Science: J.P. Tremblay, R. 
+Manohar, McGraw-Hill, 1st ed. 
+2. Discrete Mathematics for Computer Scientists & Mathematicians: Joe l. Mott, Abraham Kandel, 
+Teodore P. Baker, Prentis Hall of India, 2nd ed. 
+ 
+REFERENCE BOOKS: 
+1. Discrete and Combinatorial Mathematics - an applied introduction: Ralph.P. Grimald, Pearson 
+education, 5th edition. 
+2. Discrete Mathematical Structures: Thomas Kosy, Tata McGraw Hill publishing co. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+BUSINESS ECONOMICS AND FINANCIAL ANALYSIS 
+ 
+B.Tech. II Year II Sem.         L   T    P   C 
+3    0    0   3 
+Course Objective: To learn the basic business types, impact of the economy on Business and Firms 
+specifically. To analyze the Business from the Financial Perspective.  
+ 
+Course Outcome: The students will understand the various Forms of Business and the impact of 
+economic variables on the Business. The Demand, Supply, Production, Cost, Market Structure, Pricing 
+aspects are learnt. The Students can study the firm’s financial position by analysing the Financial 
+Statements of a Company.   
+ 
+Unit – I: Introduction to Business and Economics 
+Business: Structure of Business Firm, Theory of Firm, Types of Business Entities, Limited Liability 
+Companies, Sources of Capital for a Company, Non-Conventional Sources of Finance. 
+Economics: Significance of Economics, Micro and Macro Economic Concepts, Concepts and 
+Importance of National Income, Inflation, Money Supply and Inflation, Business Cycle, Features and 
+Phases of Business Cycle. Nature and Scope of Business Economics, Role of Business Economist, 
+Multidisciplinary nature of Business Economics. 
+ 
+UNIT - II: Demand and Supply Analysis 
+Elasticity of Demand: Elasticity, Types of Elasticity, Law of Demand, Measurement and Significance 
+of Elasticity of Demand, Factors affecting Elasticity of Demand, Elasticity of Demand in decision making, 
+Demand Forecasting: Characteristics of Good Demand Forecasting, Steps in Demand Forecasting, 
+Methods of Demand Forecasting. 
+Supply Analysis: Determinants of Supply, Supply Function and Law of Supply. 
+ 
+UNIT - III: Production, Cost, Market Structures & Pricing
+Production Analysis: Factors of Production, Production Function, Production Function with one 
+variable input, two variable inputs, Returns to Scale, Different Types of Production Functions. 
+Cost analysis: Types of Costs, Short run and Long run Cost Functions. 
+Market Structures: Nature of Competition, Features of Perfect competition, Monopoly, Oligopoly, 
+Monopolistic Competition. Pricing: Types of Pricing, Product Life Cycle based Pricing, Break Even 
+Analysis, Cost Volume Profit Analysis. 
+ 
+UNIT - IV: Financial Accounting: Accounting concepts and Conventions, Accounting Equation, 
+Double-Entry system of Accounting, Rules for maintaining Books of Accounts, Journal, Posting to 
+Ledger, Preparation of Trial Balance, Elements of Financial Statements, Preparation of Final Accounts 
+(Simple Problems).  
+ 
+UNIT - V: Financial Ratios Analysis: Concept of Ratio Analysis, Importance and Types of Ratios, 
+Liquidity Ratios, Turnover Ratios, Profitability Ratios, Proprietary Ratios, Solvency, Leverage Ratios – 
+Analysis and Interpretation (simple problems). 
+ 
+TEXT BOOKS: 
+1. D. D. Chaturvedi, S. L. Gupta, Business Economics - Theory and Applications, International 
+Book House Pvt. Ltd. 2013. 
+2. Dhanesh K Khatri, Financial Accounting, Tata Mc –Graw Hill, 2011. 
+3. Geethika Ghosh, Piyali Gosh, Purba Roy Choudhury, Managerial Economics, 2e, Tata Mc 
+Graw Hill Education Pvt. Ltd. 2012. 
+ 
+REFERENCE BOOKS: 
+1. Paresh Shah, Financial Accounting for Management 2e, Oxford Press, 2015.  
+2. S. N. Maheshwari, Sunil K Maheshwari, Sharad K Maheshwari, Financial Accounting, 5e, Vikas 
+Publications, 2013.  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+OPERATING SYSTEMS 
+ 
+B.Tech. II Year II Sem.         L   T    P   C 
+3    0    0   3 
+Prerequisites: 
+1.  A course on “Computer Programming and Data Structures”. 
+2.  A course on “Computer Organization and Architecture”. 
+ 
+Course Objectives: 
+●  Introduce operating system concepts (i.e., processes, threads, scheduling, synchronization, 
+deadlocks, memory management, file and I/O subsystems and protection) 
+●  Introduce the issues to be considered in the design and development of operating system 
+●  Introduce basic Unix commands, system call interface for process management, interprocess 
+communication and I/O in Unix 
+ 
+Course Outcomes: 
+●  Will be able to control access to a computer and the files that may be shared 
+●  Demonstrate the knowledge of the components of computers and their respective roles in 
+computing. 
+●  Ability to recognize and resolve user problems with standard operating environments. 
+●  Gain practical knowledge of how programming languages, operating systems, and 
+architectures interact and how to use each effectively. 
+ 
+UNIT - I 
+Operating System - Introduction, Structures - Simple Batch, Multiprogrammed, Time-shared, 
+Personal Computer, Parallel, Distributed Systems, Real-Time Systems, System components, 
+Operating System services, System Calls 
+Process - Process concepts and scheduling, Operations on processes, Cooperating Processes, 
+Threads 
+ 
+UNIT - II 
+CPU Scheduling - Scheduling Criteria, Scheduling Algorithms, Multiple -Processor Scheduling. 
+System call interface for process management-fork, exit, wait, waitpid, exec 
+Deadlocks - System Model, Deadlocks Characterization, Methods for Handling Deadlocks, Deadlock 
+Prevention, Deadlock Avoidance, Deadlock Detection, and Recovery from Deadlock 
+ 
+UNIT - III 
+Process Management and Synchronization - The Critical Section Problem, Synchronization 
+Hardware, Semaphores, and Classical Problems of Synchronization, Critical Regions, Monitors 
+Interprocess Communication Mechanisms: IPC between processes on a single computer system, 
+IPC between processes on different systems, using pipes, FIFOs, message queues, shared memory. 
+ 
+UNIT - IV 
+Memory Management and Virtual Memory - Logical versus Physical Address Space, Swapping, 
+Contiguous Allocation, Paging, Segmentation, Segmentation with Paging, Demand Paging, Page 
+Replacement, Page Replacement Algorithms. 
+ 
+UNIT - V 
+File System Interface and Operations -Access methods, Directory Structure, Protection, File System 
+Structure, Allocation methods, Free-space Management. Usage of open, create, read, write, close, 
+lseek, stat, ioctl system calls. 
+ 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+TEXT BOOKS: 
+1. Operating System Principles- Abraham Silberchatz, Peter B. Galvin, Greg Gagne 7th Edition, 
+John Wiley. 
+2. Advanced programming in the UNIX environment, W.R. Stevens, Pearson education. 
+ 
+REFERENCE BOOKS: 
+1. Operating Systems- Internals and Design Principles, William Stallings, Fifth Edition–2005, 
+Pearson Education/PHI 
+2. Operating System A Design Approach- Crowley, TMH. 
+3. Modern Operating Systems, Andrew S. Tanenbaum 2nd edition, Pearson/PHI 
+4. UNIX programming environment, Kernighan and Pike, PHI/ Pearson Education 
+5. UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+DATABASE MANAGEMENT SYSTEMS 
+B.Tech. II Year II Sem.         L   T    P   C 
+3    0    0   3 
+Prerequisites: A course on “Data Structures”. 
+Course Objectives: 
+● To understand the basic concepts and the applications of database systems. 
+● To master the basics of SQL and construct queries using SQL. 
+● Topics include data models, database design, relational model, relational algebra, transaction 
+control, concurrency control, storage structures and access techniques. 
+ 
+Course Outcomes: 
+● Gain knowledge of fundamentals of DBMS, database design and normal forms 
+● Master the basics of SQL for retrieval and management of data. 
+● Be acquainted with the basics of transaction processing and concurrency control. 
+● Familiarity with database storage structures and access techniques 
+ 
+UNIT - I 
+Database System Applications: A Historical Perspective, File Systems versus a DBMS, the Data 
+Model, Levels of Abstraction in a DBMS, Data Independence, Structure of a DBMS 
+Introduction to Database Design: Database Design and ER Diagrams, Entities, Attributes, and Entity 
+Sets, Relationships and Relationship Sets, Additional Features of the ER Model, Conceptual Design 
+With the ER Model 
+ 
+UNIT - II 
+Introduction to the Relational Model: Integrity constraint over relations, enforcing integrity 
+constraints, querying relational data, logical database design, introduction to views, destroying/altering 
+tables and views. 
+Relational Algebra, Tuple relational Calculus, Domain relational calculus. 
+ 
+UNIT - III 
+SQL: QUERIES, CONSTRAINTS, TRIGGERS: form of basic SQL query, UNION, INTERSECT, and 
+EXCEPT, Nested Queries, aggregation operators, NULL values, complex integrity constraints in SQL, 
+triggers and active databases. 
+Schema Refinement: Problems caused by redundancy, decompositions, problems related to 
+decomposition, reasoning about functional dependencies, First, Second, Third normal forms, BCNF, 
+lossless join decomposition, multivalued dependencies, Fourth normal form, Fifth normal form. 
+ 
+UNIT - IV 
+Transaction Concept, Transaction State, Implementation of Atomicity and Durability, Concurrent 
+Executions, Serializability, Recoverability, Implementation of Isolation, Testing for serializability, Lock 
+Based Protocols, Timestamp Based Protocols, Validation- Based Protocols, Multiple Granularity, 
+Recovery and Atomicity, Log–Based Recovery, Recovery with Concurrent Transactions. 
+ 
+UNIT - V 
+Data on External Storage, File Organization and Indexing, Cluster Indexes, Primary and Secondary 
+Indexes, Index data Structures, Hash Based Indexing, Tree based Indexing, Comparison of File 
+Organizations, Indexes- Intuitions for tree Indexes, Indexed Sequential Access Methods (ISAM),  
+B+ Trees: A Dynamic Index Structure. 
+ 
+TEXT BOOKS: 
+1. Database System Concepts, Silberschatz, Korth, McGraw hill, V edition.3rd Edition 
+2. Database Management Systems, Raghurama Krishnan, Johannes Gehrke, Tata Mc Graw Hill 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+REFERENCE BOOKS: 
+1. Database Systems design, Implementation, and Management, Peter Rob & Carlos Coronel 7th 
+Edition. 
+2. Fundamentals of Database Systems, Elmasri Navrate, Pearson Education 
+3. Introduction to Database Systems, C. J. Date, Pearson Education 
+4. Oracle for Professionals, The X Team, S.Shah and V. Shah, SPD. 
+5. Database Systems Using Oracle: A Simplified guide to SQL and PL/SQL, Shah, PHI. 
+6. Fundamentals of Database Management Systems, M. L. Gillenson, Wiley Student Edition. 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+SOFTWARE ENGINEERING 
+B.Tech. II Year II Sem.         L   T    P   C 
+3    0    0   3 
+Course Objectives 
+● The aim of the course is to provide an understanding of the working knowledge of the 
+techniques for estimation, design, testing and quality management of large software 
+development projects. 
+● Topics include process models, software requirements, software design, software testing, 
+software process/product metrics, risk management, quality management and UML diagrams 
+ 
+Course Outcomes 
+● Ability to translate end-user requirements into system and software requirements, using e.g.
+UML, and structure the requirements in a Software Requirements Document (SRD). 
+● Identify and apply appropriate software architectures and patterns to carry out high level design 
+of a system and be able to critically compare alternative choices. 
+● Will have experience and/or awareness of testing problems and will be able to develop a simple 
+testing report 
+ 
+UNIT - I 
+Introduction to Software Engineering: The evolving role of software, changing nature of software, 
+software myths. A Generic view of process: Software engineering- a layered technology, a process 
+framework, the capability maturity model integration (CMMI). Process models: The waterfall model, 
+Spiral model and Agile methodology 
+ 
+UNIT - II 
+Software Requirements: Functional and non-functional requirements, user requirements, system 
+requirements, interface specification, the software requirements document. 
+Requirements engineering process: Feasibility studies, requirements elicitation and analysis, 
+requirements validation, requirements management. 
+ 
+UNIT - III 
+Design Engineering: Design process and design quality, design concepts, the design model. 
+Creating an architectural design: software architecture, data design, architectural styles and patterns, 
+architectural design, conceptual model of UML, basic structural modeling, class diagrams, sequence 
+diagrams, collaboration diagrams, use case diagrams, component diagrams. 
+ 
+UNIT - IV 
+Testing Strategies: A strategic approach to software testing, test strategies for conventional software, 
+black-box and white-box testing, validation testing, system testing, the art of debugging. 
+Metrics for Process and Products: Software measurement, metrics for software quality. 
+ 
+UNIT - V 
+Risk management: Reactive Vs proactive risk strategies, software risks, risk identification, risk 
+projection, risk refinement, RMMM. Quality Management: Quality concepts, software quality 
+assurance, software reviews, formal technical reviews, statistical software quality assurance, software 
+reliability, the ISO 9000 quality standards. 
+ 
+TEXT BOOKS: 
+1. Software Engineering, A practitioner’s Approach- Roger S. Pressman, 6th edition, McGraw Hill 
+International Edition. 
+2. Software Engineering- Sommerville, 7th edition, Pearson Education. 
+ 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+REFERENCE BOOKS: 
+1. The unified modeling language user guide Grady Booch, James Rambaugh, Ivar Jacobson, 
+Pearson Education. 
+2. Software Engineering, an Engineering approach- James F. Peters, Witold Pedrycz, John Wiley. 
+3. Software Engineering principles and practice- Waman S Jawadekar, The McGraw-Hill 
+Companies. 
+4. Fundamentals of object-oriented design using UML Meiler page-Jones: Pearson Education. 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+OPERATING SYSTEMS LAB 
+B.Tech. II Year II Sem.         L   T    P   C 
+0    0    2   1 
+Prerequisites: A course on “Programming for Problem Solving”, A course on “Computer Organization 
+and Architecture”. 
+ 
+Co-requisite: A course on “Operating Systems”. 
+ 
+Course Objectives: 
+ To provide an understanding of the design aspects of operating system concepts through 
+simulation 
+ Introduce basic Unix commands, system call interface for process management, interprocess 
+communication and I/O in Unix 
+ 
+Course Outcomes: 
+● Simulate and implement operating system concepts such as scheduling, deadlock 
+management, file management and memory management. 
+● Able to implement C programs using Unix system calls 
+ 
+List of Experiments: 
+1. Write C programs to simulate the following CPU Scheduling algorithms a) FCFS b) SJF c) Round 
+Robin d) priority 
+ 
+2. Write programs using the I/O system calls of UNIX/LINUX operating system (open, read, write, close, 
+fcntl, seek, stat, opendir, readdir) 
+ 
+3. Write a C program to simulate Bankers Algorithm for Deadlock Avoidance and Prevention. 
+ 
+4. Write a C program to implement the Producer – Consumer problem using semaphores using 
+UNIX/LINUX system calls. 
+ 
+5. Write C programs to illustrate the following IPC mechanisms a) Pipes b) FIFOs c) Message Queues 
+d) Shared Memory 
+ 
+6. Write C programs to simulate the following memory management techniques a) Paging b) 
+Segmentation 
+ 
+7. Write C programs to simulate Page replacement policies a) FCFS b) LRU c) Optimal 
+ 
+TEXT BOOKS: 
+1. Operating System Principles- Abraham Silberchatz, Peter B. Galvin, Greg Gagne 7 th Edition, 
+John Wiley 
+2. Advanced programming in the Unix environment, W.R.Stevens, Pearson education. 
+ 
+REFERENCE BOOKS: 
+1. Operating Systems – Internals and Design Principles, William Stallings, Fifth Edition–2005, 
+Pearson Education/PHI 
+2. Operating System - A Design Approach-Crowley, TMH. 
+3. Modern Operating Systems, Andrew S Tanenbaum, 2nd edition, Pearson/PHI 
+4. UNIX Programming Environment, Kernighan and Pike, PHI/Pearson Education 
+5. UNIX Internals: The New Frontiers, U. Vahalia, Pearson Education 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+DATABASE MANAGEMENT SYSTEMS LAB 
+ 
+B.Tech. II Year II Sem.         L   T    P   C 
+0    0    2   1 
+Co-requisites: “Database Management Systems” 
+ 
+Course Objectives: 
+ Introduce ER data model, database design and normalization 
+ Learn SQL basics for data definition and data manipulation 
+ 
+Course Outcomes: 
+● Design database schema for a given application and apply normalization 
+● Acquire skills in using SQL commands for data definition and data manipulation. 
+● Develop solutions for database applications using procedures, cursors and triggers 
+ 
+List of Experiments: 
+1. Concept design with E-R Model 
+2. Relational Model 
+3. Normalization 
+4. Practicing DDL commands 
+5. Practicing DML commands 
+6.  A. Querying (using ANY, ALL, UNION, INTERSECT, JOIN, Constraints etc.) 
+     B.  Nested, Correlated subqueries 
+7. Queries using Aggregate functions, GROUP BY, HAVING and Creation and dropping of Views. 
+8. Triggers (Creation of insert trigger, delete trigger, update trigger) 
+9. Procedures 
+10. Usage of Cursors 
+ 
+TEXT BOOKS: 
+1. Database Management Systems, Raghurama Krishnan, Johannes Gehrke, Tata Mc Graw Hill, 
+3rd Edition 
+2. Database System Concepts, Silberschatz, Korth, McGraw Hill, V edition. 
+ 
+REFERENCE BOOKS: 
+1. Database Systems design, Implementation, and Management, Peter Rob & Carlos Coronel 7 th 
+Edition. 
+2. Fundamentals of Database Systems, Elmasri Navrate, Pearson Education 
+3. Introduction to Database Systems, C.J. Date, Pearson Education 
+4. Oracle for Professionals, The X Team, S. Shah and V. Shah, SPD. 
+5. Database Systems Using Oracle: A Simplified guide to SQL and PL/SQL, Shah, PHI. 
+6. Fundamentals of Database Management Systems, M. L. Gillenson, Wiley Student Edition. 
+ 
+ 
+  
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+NODE JS/ REACT JS/ DJANGO 
+ 
+B.Tech. II Year II Sem.         L   T    P   C 
+0    0    2   1 
+Prerequisites: Object Oriented Programming through Java, HTML Basics 
+Course Objectives: 
+● To implement the static web pages using HTML and do client side validation using JavaScript. 
+● To design and work with databases using Java 
+● To develop an end to end application using java full stack. 
+● To introduce Node JS implementation for server side programming. 
+● To experiment with single page application development using React. 
+ 
+Course Outcomes: At the end of the course, the student will be able to, 
+● Build a custom website with HTML, CSS, and Bootstrap and little JavaScript. 
+● Demonstrate Advanced features of JavaScript and learn about JDBC 
+● Develop Server – side implementation using Java technologies like 
+● Develop the server – side implementation using Node JS. 
+● Design a Single Page Application using React. 
+ 
+Exercises: 
+1. Build a responsive web application for shopping cart with registration, login, catalog and cart 
+pages using CSS3 features, flex and grid. 
+2. Make the above web application responsive web application using Bootstrap framework. 
+3. Use JavaScript for doing client – side validation of the pages implemented in experiment 1 and 
+experiment 2. 
+4. Explore the features of ES6 like arrow functions, callbacks, promises, async/await. Implement 
+an application for reading the weather information from openweathermap.org and display the 
+information in the form of a graph on the web page. 
+5. Develop a java stand alone application that connects with the database (Oracle / mySql) and 
+perform the CRUD operation on the database tables. 
+6. Create an xml for the bookstore. Validate the same using both DTD and XSD. 
+7. Design a controller with servlet that provides the interaction with application developed in 
+experiment 1 and the database created in experiment 5. 
+8. Maintaining the transactional history of any user is very important. Explore the various session 
+tracking mechanism (Cookies, HTTP Session) 
+9. Create a custom server using http module and explore the other modules of Node JS like OS, 
+path, event. 
+10. Develop an express web application that can interact with REST API to perform CRUD 
+operations on student data. (Use Postman) 
+11. For the above application create authorized end points using JWT (JSON Web Token). 
+12. Create a react application for the student management system having registration, login, 
+contact, about pages and implement routing to navigate through these pages. 
+13. Create a service in react that fetches the weather information from openweathermap.org and 
+the display the current and historical weather information using graphical representation using 
+chart.js 
+14. Create a TODO application in react with necessary components and deploy it into github. 
+ 
+REFERENCE BOOKS: 
+1. Jon Duckett, Beginning HTML, XHTML, CSS, and JavaScript, Wrox Publications, 2010 
+2. Bryan Basham, Kathy Sierra and Bert Bates, Head First Servlets and JSP, O’Reilly Media, 2nd 
+Edition, 2008. 
+3. Vasan Subramanian, Pro MERN Stack, Full Stack Web App Development with Mongo, 
+Express, React, and Node, 2nd Edition, A Press. 
+
+R22 B.Tech. CSE Syllabus   JNTU Hyderabad 
+CONSTITUTION OF INDIA 
+ 
+B.Tech. II Year II Sem.      L   T   P   C 
+                                                           3   0   0    0 
+Course Objectives:  Students will be able to: 
+ Understand the premises informing the twin themes of liberty and freedom from a civil rights 
+perspective.  
+ To address the growth of Indian opinion regarding modern Indian intellectuals’ constitutional 
+role and entitlement to civil and economic rights as well as the emergence of nationhood in 
+the early years of Indian nationalism. 
+ To address the role of socialism in India after the commencement of the Bolshevik Revolution 
+in 1917 and its impact on the initial drafting of the Indian Constitution. 
+ 
+Course Outcomes: Students will be able to: 
+ Discuss the growth of the demand for civil rights in India for the bulk of Indians before the 
+arrival of Gandhi in Indian politics.  
+ Discuss the intellectual origins of the framework of argument that informed the 
+conceptualization of social reforms leading to revolution in India. 
+ Discuss the circumstances surrounding the foundation of the Congress Socialist Party [CSP] 
+under the leadership of Jawaharlal Nehru and the eventual failure of the proposal of direct 
+elections through adult suffrage in the Indian Constitution 
+ Discuss the passage of the Hindu Code Bill of 1956. 
+ 
+Unit - 1 History of Making of the Indian Constitution- History of Drafting Committee. 
+Unit - 2 Philosophy of the Indian Constitution- Preamble Salient Features   
+Unit - 3 Contours of Constitutional Rights & Duties - Fundamental Rights  
+ Right to Equality  
+Right to Freedom
+ Right against Exploitation  
+ Right to Freedom of Religion  
+ Cultural and Educational Rights  
+ Right to Constitutional Remedies  
+ Directive Principles of State Policy  
+ Fundamental Duties. 
+Unit - 4 Organs of Governance: Parliament, Composition, Qualifications and Disqualifications, Powers 
+and Functions, Executive, President, Governor, Council of Ministers, Judiciary, Appointment and 
+Transfer of Judges, Qualifications, Powers and Functions  
+ 
+Unit - 5 Local Administration: District’s Administration head: Role and Importance, Municipalities: 
+Introduction, Mayor and role of Elected Representative, CEO of Municipal Corporation. Panchayat raj: 
+Introduction, PRI: Zila Panchayat. Elected officials and their roles, CEO ZilaPanchayat: Position and 
+role. Block level: Organizational Hierarchy (Different departments), Village level: Role of Elected and 
+Appointed officials, Importance of grass root democracy  
+ 
+Unit - 6 Election Commission: Election Commission: Role and Functioning. Chief Election 
+Commissioner and Election Commissioners. State Election Commission: Role and Functioning. 
+Institute and Bodies for the welfare of SC/ST/OBC and women. 
+ 
+Suggested Reading: 
+1. The Constitution of India, 1950 (Bare Act), Government Publication.  
+2. Dr. S. N. Busi, Dr. B. R. Ambedkar framing of Indian Constitution, 1st Edition, 2015.  
+3. M. P. Jain, Indian Constitution Law, 7th Edn., Lexis Nexis, 2014.  
+4. D.D. Basu, Introduction to the Constitution of India, Lexis Nexis, 2015. 
+ 
+

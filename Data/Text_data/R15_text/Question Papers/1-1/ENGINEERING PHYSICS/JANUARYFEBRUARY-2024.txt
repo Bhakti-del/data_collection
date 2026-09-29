@@ -1,0 +1,80 @@
+Code No: 121AD 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year Examinations, January/February - 2024 
+  ENGINEERING PHYSICS 
+(Common to CE, EEE, ME, ECE, CSE, IT, AME, MIE, PTM) 
+Time: 3 Hours                                      Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      What is packing fraction?                                              [2] 
+   b)      How Miller Indices are useful to identify crystal planes in an FCC lattice?           [3] 
+   c)      Describe the significance of Davisson and Germer's experiment in the context of quantum 
+mechanics.                    [2] 
+   d)      What are matter waves?             [3] 
+   e)      Define electric dipole moment.            [2] 
+   f)      What is dielectric constant?             [3] 
+   g)      Explain the characteristics of a laser.             [2] 
+   h)      What is population inversion?             [3] 
+   i)       Identify the factors affecting architectural acoustics.          [2] 
+   j)       Explain Hall Effect.                  [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Given an X -ray diffraction angle (2θ) of 45° and an X -ray wavelength of 0.1 nm, use 
+Bragg’s Law to calculate the interplanar spacing in a crystal. 
+   b) Describe the structure of a Sodium Chloride (NaCl) crystal. Discuss its bonding, 
+coordination number.         [5+5]  
+OR 
+3.a) Describe the Powder Method in X -ray diffraction and its advantages over the Laue 
+Method. 
+   b) Calculate the atomic packing factor for a Body -Centered Cubic (BCC) lattice, give n that 
+the atomic radius is 'r'.         [5+5]  
+ 
+4.a) Explain the concept of 'Density of States' in the context of electron theory in solids and its 
+significance in determining the electronic properties of materials. 
+   b) How does the concept of Infinite Square well potential apply to quantum mechanics, and 
+how is it extended to three dimensions?      [5+5] 
+  OR 
+5.a)  Compare and contrast Bose-Einstein and Fermi-Dirac Statistics. 
+b) Explain the significance of the E -K curve and the origin of energy band formation in 
+solids.           [5+5] 
+  
+ R15 
+JNTUH USED PAPERS 2024
+
+6.a)  Discuss the concept of internal fields in dielectric solids. 
+b)  Describe the properties of anti -ferromagnetic and ferrimagnetic materials and their 
+applications.          [5+5] 
+OR 
+7.a) Compare and contrast electronic, ionic, and orientation polarizations in dielectrics. 
+b) Explain the domain theory of ferromagnetism and analyze the features of a hysteresis 
+curve.           [5+5] 
+  
+8.a) Describe the diffraction grating experiment and its applications in measuring wavelengths 
+of light. 
+   b)  Discuss Einstein's coefficients and their relation between them.   [5+5] 
+OR 
+9.a) Discuss the theory of Fraunhofer diffraction due to a single slit and its significance.  
+   b)  Explain the concepts of acceptance angle and numerical aperture in fiber optics. [5+5] 
+ 
+10.a) Estimate carrier concentration in intrinsic semiconductors of conduction band. 
+     b)  Describe Sabine's formula for reverberation time and its application in acoustic design. 
+            [5+5] 
+OR 
+11.a) Discuss the I-V characteristics of a PN junction diode and its practical implications. 
+     b)  Compare and contrast the synthesis of nanomaterials using sol -gel and Chemical Vapor 
+Deposition (CVD) techniques.       [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED PAPERS 2024
+

@@ -1,0 +1,79 @@
+ 
+ 
+    Code No:111AE             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, HYDERABAD  
+B.Tech I Year Examinations, December – 2018 
+ENGINEERING CHEMISTRY 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM, AGE) 
+ 
+Time: 3 hours                                 Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+ Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+ consists of 5 Units. Answer any one full question from each unit.  Each ques tion carries 
+ 10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What is molar conductivity ? Explain the temperature effect on molar conductivity.[2] 
+   b) What are the  cathode, anode and electrolyte in Ni-Cd cell.        [3] 
+   c) What are the conducting polymers and give two examples.          [2] 
+   d) Write any two applications of nanomaterials .           [3] 
+   e) Why is NH 3-NH4Cl buffer solution added during determination of headness of water 
+ by EDTA method?               [2] 
+   f) What is reverse osmosis? Explain.             [3] 
+   g) Why should an ideal fuel have moderate ignition temperature?       [2] 
+   h) Why is net calorific value less than gross calorific value? Give reason.            [3] 
+   i)  Define phase role.                        [2] 
+   j) Explain classification of colloids.                                        [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) Explain construction and working of Calomel electrode. 
+   b)  Explain the electrochemical theory of corrosion.      [5+5] 
+OR 
+3.a)  Explain construction working and applications of glass electrode. 
+   b)  What are fuel cells ? How methanol fuel cell works and writes its applications. [5+5] 
+ 
+4.a) Classify the following into plastics, elastomers and fibers and write their preparation 
+ with chemical equation. 
+         i) PVC    ii) Nylon   iii) BUNa - S 
+   b) What is vulcanization of rubber ? Write its uses.      [5+5] 
+OR 
+5.a) Explain preparation, properties and applications of Bakelite.  
+   b) Explain the concept of Biodegradable polymers ? Write preparation and applications of 
+ polylactic acid.          [5+5] 
+ 
+ 
+R13 
+
+ 
+6.a) What are the water quality parameters ? Write their significance.    
+   b) What are Boiler troubles? Name them and explain the inte rnal treatment methods of 
+ boiler feed water.          [5+5] 
+OR 
+7.a)  What is meant by sterilization of water ? Explain how sterilization of water is carried 
+ out by using chlorine and ozone.  
+   b)  How to estimate hardness of water by EDTA method.     [5+5] 
+ 
+8.a) What is meant by knocking ? How  is it related to chemical constitution ? describe the 
+ functions of TEL.  
+   b) Differentiate proximate and ultimate analysis of coal.     [5+5] 
+OR 
+9.a)  What is synthetic petrol ? With neat diagram and chemical equations how synthetic 
+ petrol is prepared by Fischer-Tropsch’s process.  
+   b)  Explain the composition, properties and applications of LPG and CNG.   [5+5] 
+ 
+10.a) Explain phase diagram of head-silver system. 
+     b) What are the applications of colloids in industry?      [5+5] 
+OR 
+11.a)  Explain phase diagram of water system. 
+     b) What are the applications of adsorption?      [5+5] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+

@@ -1,0 +1,34 @@
+Code No: 117DX      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, September - 2021 
+INFORMATION RETRIEVAL SYSTEMS 
+ (Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1. Write a detailed note on non binary independence model.    [15] 
+ 
+2. Explain in detail the following: 
+       a) Language Models          b) Clustering      [8+7]
+  
+3.a) Write a detailed note on crossing the language barrier.   
+   b) Explain in detail about Parsing Retrieval Utility.     [7+8] 
+ 
+4.a) Discuss in detail about Duplicate document detection.   
+   b) Explain in detail about Query Processing.      [7+8]
+         
+5. Write a detailed note on Semi-structured search using a relational schema.  [15] 
+ 
+6. What is Distributed Information Retrieval? Explain in detail about Web Search. [15] 
+ 
+7. Write a detailed note on the following: 
+        a) Thesauri  b) Precision   c) Recall.    [5+5+5] 
+ 
+8.a) Write a detailed note on Signature Files.        
+   b) Discuss the Historical Progression of Integrating Structured Data and Text. [7+8] 
+ 
+--ooOoo-- 
+R13 
+

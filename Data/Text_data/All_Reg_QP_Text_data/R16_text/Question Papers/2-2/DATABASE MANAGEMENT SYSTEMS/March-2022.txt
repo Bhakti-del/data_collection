@@ -1,0 +1,45 @@
+Code No: 134AP      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, March - 2022 
+DATABASE MANAGEMENT SYSTEMS  
+(Common to CSE, IT) 
+Time: 3 Hours                                          Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Differentiate between relation schema and relation instance.  
+   b)  Define the terms Arity and Cardinality of a Relation. 
+   c) What are Domain Constraints? Explain.               [5+5+5] 
+  
+2.a)  Discuss about E-R model and its additional features. 
+   b)  What are the function of DBA? Explain about different types of database users. [8+7] 
+ 
+3.a) Illustrate about Outer Joins with examples. 
+   b)  Explain about Nested queries and correlated nested queries.    [7+8] 
+  
+4.a) Explain the differences between Tuple Relational Calculus and Domain Relational  
+Calculus. 
+   b)  Discuss about Triggers and Active Databases.     [9+6] 
+ 
+5.a) Define Functional dependencies and explain how are primary keys related to FD's. 
+   b)  Illustrate about inclusion dependencies with examples.    [8+7] 
+ 
+6.a)  Describe the properties of Decomposition. Demonstrate with examples. 
+   b)  Explain about join dependencies and Fifth Normal Form.      [8+7] 
+ 
+7.a)  What are the issues in implementing atomicity and durability? Discuss. 
+   b)  Illustrate concurrent execution of transactions with examples.   [7+8] 
+ 
+8.a) What are the differences between hash based indexing and Tree based indexing? 
+   b)  Explain about the organization of records in files.      [9+6] 
+ 
+ 
+ 
+---ooOoo--- 
+  
+ 
+ 
+ R16 
+JNTUH UsedPapers March2022
+

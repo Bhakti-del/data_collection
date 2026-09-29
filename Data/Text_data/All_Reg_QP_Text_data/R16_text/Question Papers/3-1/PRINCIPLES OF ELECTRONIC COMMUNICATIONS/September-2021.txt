@@ -1,0 +1,39 @@
+Code No: 135CX  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS 
+(Common to CE, EEE, CSE, EIE, IT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.  Define the terms Gain, attenuation and decibels. And explain their importance in 
+communications, with examples.         [15] 
+ 
+2.a)  Draw and describe the various frequ ency ranges in the electromagnetic spectrum with 
+its applications.  
+   b) Define the sampling theorem.                                                             [10+5] 
+    
+3.  Write about the FM Modulation and Demodulation  with suitable diagrams and wave  
+forms.             [15] 
+ 
+4.  Explain about the QPSK modulation and demodulation scheme  with suitable diagrams.
+              [15] 
+    
+5.a)  Explain about paging systems with examples. 
+   b)  Describe briefly about the Ethernet LANs.      [7+8] 
+ 
+6.a)  Explain about the Internet Telephony and its applications. 
+   b)  Discuss about the Token Ring LAN.       [8+7] 
+ 
+7.a)  Write in detail about the Global Positioning systems. 
+   b)  Explain about the Optical Transmitters and Receivers.    [8+7] 
+ 
+8.  Explain about the Bluetooth and Zig Bee and write their application in daily life.     [15]    
+ 
+ 
+---ooOoo--- 
+ R16 
+USED PAPERSSEP-2021
+

@@ -1,0 +1,39 @@
+Code No: 135BY   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, February - 2022 
+COMPUTER GRAPHICS 
+(Common to CE, CSE, IT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+    
+1.a) Give a detailed note on CRT device. 
+   b) Write DDA algorithm to draw a line and state its advantages and disadvantages. [7+8] 
+ 
+2.a) Explain boundary filling algorithm. 
+   b) Describe the characteristics of raster scan display devices.    [7+8] 
+  
+3.a) Explain types and operations of clipping. 
+   b) Write Cohen Sutherland clipping algorithm.      [7+8] 
+ 
+4.a) Explain 2D Scaling and rotational transformation. 
+   b) Write about shear transformations.       [7+8] 
+ 
+5.a) Compare parallel Vs perspective projections. 
+   b) Explain Bezier curves.        [7+8] 
+ 
+6.a) Elaborate 3D viewing. 
+   b) What is B-spline curve and explain its repression.     [7+8] 
+ 
+7.a) Describe Phong shading method. 
+   b)  Describe area sub division surface detection method.    [7+8] 
+ 
+8.a) Explain raster animation method and its components. 
+   b)  Explain different methods for motion specification.     [7+8] 
+ 
+ 
+---ooOoo--- 
+ R16 
+used paper feb-22 jntu
+

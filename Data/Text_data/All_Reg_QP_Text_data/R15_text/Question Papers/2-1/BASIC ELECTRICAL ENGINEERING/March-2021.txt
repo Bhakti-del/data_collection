@@ -1,0 +1,66 @@
+ 
+Code No: 123BR/113BR 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, March - 2021 
+BASIC ELECTRICAL ENGINEERING 
+(R15 - Common to CSE, IT; R13 - Common to CSE, IT) 
+Time: 3 hours                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - -  
+ 
+1. Six resistors are connected as shown in figure  1.  If a battery having an emf of 30V and 
+ an internal resistance of 2 is connected to terminals A and B. Find: 
+ a) Current supplied from battery 
+ b) Potential difference across 8 ohms resistance.     [7+8] 
+ 
+Figure: 1 
+ 
+2.a) State and explain Maximum power Transfer theorem.   
+   b) Calculate the value of Thevenin’s equivalent resistance between the terminals AB as 
+ shown in the following figure 2.       [7+8]  
+ 
+Figure: 2 
+ 
+3.a) Calculate the RMS and average values of the current represented by the figure  3. When 
+ the triangular wave form has the time axis at t = 0 with a maximum value of 1A. 
+ 
+Figure: 3 
+b) Obtain an expression for curr ent i flowing through inductor (L) connected across 
+ 
+  sinmt V wt  .         [8+7] 
+ 
+ 
+R15/R13 
+20-03-2021AM
+
+ 
+4. A coil A having a resistance of 10 ohms and inductance of 0.2 Henry is connected in 
+ series with another coil B having a resistance of 30 ohms and inducta nce 0.1 H. The two 
+ coils in series are fed form 200V, 50 Hz supply. Determine the voltage across each coil, 
+ power dissipated in each coil, and the power factor of  the combined series circuit: Draw 
+ the phasor (vector) diagram.        [15] 
+  
+5.a) Describe the working principle of a single phase transformer. 
+   b) A single phase 60 Hz transformer has a core cross – sectional area of 150 cm 2, and the 
+ maximum flux density of 1.3 Wb/m 2. There are 1300 turns in primary and 200 turns in 
+ the secondary windings. Calculate the induced e.m.fs on both sides.   [9+6] 
+ 
+6.a) Explain the different types of a single phase transformer. 
+   b) A 100 KVA, 200/1000V, 50Hz single phase transformer gave the following test results: 
+            O.C. Test (LV Side) : 200V,0.7A, 70W 
+            S.C. Test (HV Side): 15V, 10A, 85W 
+ Calculate the efficiency of the transformer at half load and full-load at 0.8 p.f lagging. 
+             [7+8] 
+ 
+7.a) Explain the construction features of a DC machine with the help of neat sketches. 
+  b) Explain the concept of rotation magnetic field in induction Motor.   [8+7] 
+ 
+8. Explain the constructional details are working principle of moving Iron Instruments. 
+              [15] 
+ 
+ 
+ 
+---ooOoo--- 
+20-03-2021AM
+

@@ -1,0 +1,36 @@
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, September - 2021 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ (Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1. Describe in detail the various phases of Information Security Audit and Strategies.[15] 
+ 
+2.a) Explain in detail about External Security Audit. 
+   b) Write a detailed note on Vulnerability Analysis.     [7+8] 
+ 
+3. Explain in detail the following related to Information Security Vulnerabilities: 
+a) Human based Social Engineering b) Computer based Social Engineering. [7+8] 
+ 
+4.a) Explain in detail about Risk Management Feedback Loops. 
+   b) Write a detailed note on Risk Treatment.      [8+7] 
+ 
+5. What is Configuration Management? Explain in detail about Configuration Management 
+Requirements-Plan Control.        [15] 
+ 
+6. Explain in detail about the following with respect to Information Security: 
+a) Security Audit and Servers. b) Communication Routes.   [7+8] 
+ 
+7. Write a detailed note on Web Application Security Auditing.   [15] 
+ 
+8. Write a detailed note on following Vulnerability Management measures: 
+     a) Threat Management b) Remediation.     [7+8] 
+ 
+ 
+--ooOoo--  
+R13 
+

@@ -1,0 +1,145 @@
+ 
+Code No: 133BD 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, February - 2024 
+MATHEMATICS - IV 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, MMT, AE, MIE, MSNT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each questi on carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define Analytic function.        [2] 
+   b)      If 𝑤 = log 𝑧, find 
+𝑑𝑤
+𝑑𝑧 and determine where 𝑤 is non-analytic.   [3] 
+   c)      Find the zeros of the function sin (
+1
+𝑧) .      [2] 
+   d)      Show that the function 𝑒 𝑧 has an essential singularity at 𝑧 = ∞.   [3] 
+   e)      Define conformal mapping.        [2] 
+   f)      Find the fixed points of the transformation 𝑤 =
+𝑧−1+𝑖
+𝑧+2 .    [3] 
+   g)      State dirichlet conditions.        [2] 
+   h)      State Fourier integral in complex form.      [3] 
+   i)      In heat flow, what is meant by transient state.     [2] 
+   j)      Classify the second order partial differential equations.    [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Show that 𝑓(𝑧) = 𝑥𝑦 + 𝑖𝑦 is everywhere continuous but it is not analytic.  
+b)  If
+()f z u iv  is an analytic function, show that u(x,y) =C and v(x,y) =K represent two 
+families of orthogonal curves.       [5+5] 
+OR 
+3.a)  Find the conjugate harmonic function of the harmonic function 𝑢 = 𝑎(1 + 𝑐𝑜𝑠𝜃). 
+   b)  Show that 𝑥𝑦2 cannot be real part of an analytic function.    [5+5] 
+  
+4.a)  Evaluate ∫ (𝑦 − 𝑥 − 3𝑥2𝑖)𝑑𝑧
+ 
+𝑐 , where c consists of the line segments from z = 0 to z = i 
+and the other from z = i to z = 1+i. 
+   b)  Expand the function 𝑓(𝑧) =  
+𝑧
+(𝑧−1)(𝑧−3) as Taylor’s series about 0 < |𝑧 − 1| < 2. [5+5] 
+OR 
+5.  Show that using residue theorem, ∫
+1
+𝑎+𝑏𝑠𝑖𝑛𝜃 𝑑𝜃 =
+2𝜋
+√𝑎2−𝑏2
+2𝜋
+0 , 𝑎 > 𝑏 > 0.  [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+
+ 
+ 
+6.         Evaluate ∫
+𝑠𝑖𝑛2𝜃
+𝑎+𝑏𝑐𝑜𝑠𝜃
+2𝜋
+0 𝑑𝜃; (a>b>0).       [10] 
+OR 
+7.  Find the bilinear transform which maps the points z = 0, -i, -1 into the points w = i, 1, 0. 
+Find the image of the line 𝑦 =  𝑚𝑥 under this transformation.   [10] 
+ 
+8.  Find Fourier sine transform of (x) = 
+1
+𝑥(𝑥2+𝑎2) and hence deduce cosine transform of 
+1
+𝑥2+𝑎2.           [10]
+     OR 
+9.  If 
+,  0 2
+, 
+)
+2
+(
+xx
+x
+x
+x
+f
+
+
+
+
+
+
+
+
+
+
+
+
+ then Show that  
+a) (x) = 
+4
+𝜋 [𝑠𝑖𝑛𝑥 −
+𝑠𝑖𝑛3𝑥
+32 +
+𝑠𝑖𝑛5𝑥
+52 − ⋯ ] 
+b) (x) = 
+𝜋
+4 −
+2
+𝜋 [
+𝑐𝑜𝑠2𝑥
+12 +
+𝑐𝑜𝑠6𝑥
+32 +
+𝑐𝑜𝑠10𝑥
+52 + ⋯ ]      [5+5] 
+ 
+10.  The ends A and B of a rod 20 cm long have the temperatures at 30 oC and 80 oC until 
+steady-state prevails. The temperatures of the ends are changed to 40 oC and 60 oC 
+respectively. Find the temperature distribution in the rod at time t.   [10] 
+OR 
+11.  A tightly stretched string with fixed end points 𝑥 =  0 and 𝑥 =  𝑙 is initially in a position 
+given by  𝑦 =  𝑦0 sin2(𝑥/𝑙). If it is released from rest from this position, find the 
+displacement 𝑦(𝑥, 𝑡).         [10] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,40 @@
+ 
+ 
+Code No: 132AD             
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year II Semester Examinations, November/December - 2020 
+COMPUTER PROGRAMMING IN C 
+(Common to EEE, ECE, CSE, EIE, IT, ETM) 
+Time: 2 hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain in detail about C-Tokens. 
+   b) Explain about operator precedence and operator associativity.   [7+8] 
+ 
+2.a) Explain 2-dimensional arrays with an example. 
+   b) List and explain storage classes in detail.      [7+8] 
+ 
+3. Explain in detail about Memory Allocation Functions with examples.  [15] 
+ 
+4.a) Explain in detail about Nested Structures with an example program. 
+   b) Discuss about typedef and enumeration with an example.    [7+8] 
+ 
+5.a) Explain File handling functions. 
+   b) Write a C program to count the number of characters, words and lines in a file. [7+8] 
+ 
+6. Explain in detail about Iterative Control Statements in detail.   [15] 
+ 
+7.a) Write a program to implement linear search. 
+   b) Explain about inter function communication in detail.    [7+8] 
+ 
+8. Define Pointer and write a program to implement pointer to function.   [15] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+R16 
+JNTUH USED PAPERS OCT/NOV 2020
+

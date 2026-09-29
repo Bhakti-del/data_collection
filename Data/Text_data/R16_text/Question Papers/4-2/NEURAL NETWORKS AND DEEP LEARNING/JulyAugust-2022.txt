@@ -1,0 +1,42 @@
+ 
+ 
+ 
+Code No: 138DU             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+ NEURAL NETWORKS AND DEEP LEARNING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Demonstrate the basic models of Artificial Neural Network.                 
+   b)  Explain the Back propagation training algorithm in detail.                     [7+8] 
+ 
+2.a) Discuss the Hopfield Network with a neat diagram.                               
+   b) Discuss about associative memory networks.                [7+8] 
+ 
+3.a) Explain about self-organizing feature maps.                               
+   b) Discuss the Testing algorithm of Hamming Network.                            [7+8] 
+ 
+4.  Elaborate the Training algorithm of Learning Vector Quantization.             [15] 
+ 
+5. Discuss the selection of various Hidden Units along with their activation functions.[15] 
+ 
+6.a) Demonstrate the Deep Feed forward Network.                                          
+   b) Explain the Back-Propagation Computation in Fully Connected MLP.            [5+10] 
+ 
+7.a) Demonstrate the Parameter Typing and Parameter Sharing.                     
+   b) Discuss the importance of Dropout in Regularization.                               [7+8] 
+ 
+8. Discuss about parameter initialization strategies.     [15] 
+ 
+                                                                    ---oo0oo--- 
+ 
+ 
+ 
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

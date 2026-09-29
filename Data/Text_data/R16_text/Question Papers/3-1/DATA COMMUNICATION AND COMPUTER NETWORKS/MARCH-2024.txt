@@ -1,0 +1,83 @@
+Code No: 135AE 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2024 
+DATA COMMUNICATION AND COMPUTER NETWORKS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+     and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)  What is multiplexing?         [2] 
+   b)  Classify the types of connections in data networks.     [3] 
+   c)  What is the significance of HDLC?       [2] 
+   d)  Discuss the role of CRC in error detection.      [3] 
+   e)  Define network segmentation.       [2] 
+   f)  What is logical addressing in the context of the network layer?   [3] 
+   g)  What is data traffic in networking?       [2] 
+   h)  Write a short note on Congestion in network communication.   [3] 
+   i)  Define FTP and its significance in internet protocols.    [2] 
+   j)  Differentiate between DNS and URL.      [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a)  Compare and contrast common network topologies, discussing their advantages and 
+ disadvantages.           
+   b)  Describe the ISO/OSI model in detail and explain its relevance in modern networking .
+            [6+4] 
+OR 
+3.  Explain how switching operates in different network architectures, such as circuit -
+switched, packet-switched, and cell-switched networks.      [10] 
+  
+4.a)  Describe the role of the data link layer in the  OSI model and its importance in 
+ networking.           
+   b)  Demonstrate the concept of channelization in the context of medium access control .
+            [5+5] 
+OR 
+5.a)  Compare and contrast point-to-point protocols commonly used in the data link layer. 
+b)  Examine the challenges faced in data transmission over noisy channels and the 
+techniques to mitigate them.        [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+Used Papers March-2024
+
+ 
+6.  Summarize the functioning of tunneling in networking, providing examples of its 
+ applications.            [10] 
+OR 
+7.a)  Determine the factors influencing the choice between unicast and multicast 
+ communication in network design.        
+   b)  Discuss the impact of network layer protocols on network performance and scalability.
+            [5+5] 
+ 
+8.a)  Compare and contrast the reliability mechanisms of UDP and TCP protocols.  
+   b)  Discuss the role of QoS in ensuring a seamless user experience in multimedia streaming 
+ applications.          [5+5] 
+OR 
+9.  Evaluate the effectiveness of differentiated services in prioritizing network traffic, 
+citing real-world examples.           [10] 
+ 
+10.  Explain the following terms: 
+      a) Domain Name Space         
+      b) SMTP.          [5+5] 
+OR 
+11.  Outline the components and functioning of the World Wide Web (WWW), including 
+the role of HTTP in fetching and rendering web pages.      [10]
+   
+ 
+ 
+---ooOoo--- 
+Used Papers March-2024
+

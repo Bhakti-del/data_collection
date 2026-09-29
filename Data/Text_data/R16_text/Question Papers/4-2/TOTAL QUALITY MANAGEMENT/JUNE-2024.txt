@@ -1,0 +1,66 @@
+ 
+Code No: 138HC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+TOTAL QUALITY MANAGEMENT 
+ (Common to CE, EEE, ECE, CSE) 
+Time: 3 Hours                           Max. Marks: 75 
+ 
+Note:  i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+  and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define the concept of Quality management.      [2]  
+   b)      Brief on Process control.        [3] 
+   c)      Explain internal customer conflict.       [2] 
+   d)      What do you understand by customer satisfaction?      [3] 
+   e)      What is Pareto diagram?        [2] 
+   f)       Briefly discuss the systems approach.       [3]  
+   g)      Why is calculating the cost of quality necessary?       [2]  
+   h)      Briefly discuss the significance of the cost of quality.    [3]  
+   i)       What motivates businesses all across the world to want ISO certification?  [2] 
+   j)       How does a third-party audit work?        [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. Discuss in detail the elements and tec hniques of statistical quality control  with suitable 
+examples.          [10] 
+OR 
+3. Elaborate on the types and characteristics of control charts used for ensuring quality.  
+            [10] 
+     
+4.a) What is quality focus? Describe the role of marketing and sales in a business organization. 
+   b) Describe the causes for internal customer conflict.     [5+5] 
+OR 
+5. Elaborate on the benchmarking procedure. Also, list the pitfalls of benchmarking. [10]  
+    
+6. What is the Kepner -Tregoe method? Explain in detail the steps of the Kepner-Tregoe      
+problem analysis.         [10] 
+OR 
+7.a) Briefly explain the meaning, features, objectives, and structure of quality circles.  
+   b) Examine the need of transition from traditional to a TQM organization.  [5+5] 
+ 
+R16 
+Used Papers 2024
+
+ 
+8. How is the cost of quality measured? List the uses of quality cost information. [10] 
+OR 
+9. Explain the i nternal failure costs and external failure costs components of the cost of     
+quality.          [10] 
+ 
+10. Elaborate on the procedures involved in putting the  ISO management system into practice.
+            [10] 
+OR 
+11. What are ISO 900 0 series standards? Briefly explain the documentation requirements of 
+ISO 9000.            [10] 
+ 
+ 
+---ooOoo--- 
+Used Papers 2024
+

@@ -1,0 +1,42 @@
+Code No: 117CF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+DESIGN PATTERNS 
+ (Common to CSE, IT) 
+Time: 3 Hours                            Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.a) Give the role of design patterns in the development of various classes of software. 
+b) Do you agree with “Design patterns should not be applied indiscriminately”? Justify your 
+answer.          [8+7] 
+  
+2.a) Classify Design Patterns with any two criteria. And discuss the organization of them. 
+   b)  How do we describe design patterns? Explain with an example.   [8+7] 
+  
+3.a) Discuss the functionality of operations that are accessed indirectly through user  
+operations. 
+   b) Explain any design problem involves in textual analysis and give its pattern? [8+7] 
+  
+4.a) List the benefits of Prototype  pattern? Describe about the implementation issues of  
+Prototype pattern in detail. 
+   b) Explain Builder pattern with an example.      [8+7] 
+ 
+5.a) Explain in brief about Decorator pattern. 
+   b) Compare and Contrast adapters of class and object.     [8+7] 
+  
+6.a) Describe the Composite pattern with an example. 
+   b) Illustrate the implementations of various kind proxies.    [7+8] 
+ 
+7.a) Draw and explain the structure of Command pattern. 
+   b) Discuss the Intent, Applicability, Sample code, and Known uses of Observer Patterns. 
+            [8+7] 
+8.a) Factory Methods often called by template methods? Justify. 
+   b) Explain what to expect from design patterns.      [7+8] 
+  
+---ooOoo--- 
+ 
+R13 
+JNTUH Used Papers Feb 2022
+

@@ -1,0 +1,38 @@
+ 
+ 
+Code No: 116FA            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, February/March - 2022 
+INTRODUCTION TO ANALYTICS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Implement vector operations in R. 
+b)  Calculate square root of 729. Create a new variable 'b' with value 1947.0 and convert to 
+character.          [8+7] 
+ 
+2. Using R functions and loops, create a number matrix for N=5.        [15] 
+  
+3. Illustrate Probability handling in R.            [15] 
+ 
+4.a) Explain central limit theorem. 
+   b) List the effective communication skillset.      [8+7] 
+ 
+5. Describe the types of noSQL data bases.          [15] 
+ 
+6.a) Illustrate connecting R with noSQL database. Explain its stages. 
+   b)  Write short notes on R and excel integration.      [8+7] 
+  
+7.a) Differentiate prediction and forecasting. 
+   b)  What is autocorrelation?        [8+7] 
+ 
+8. Design a database for chip manufacturing industry and illustrate using R.    [15] 
+ 
+ 
+---ooOoo--- 
+R13 
+used paper feb/mar-2022 jntuh
+

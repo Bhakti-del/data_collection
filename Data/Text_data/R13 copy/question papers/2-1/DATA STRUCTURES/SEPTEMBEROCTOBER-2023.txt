@@ -1,0 +1,65 @@
+Code No: 113BP 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, September/October - 2023 
+DATA STRUCTURES  
+(Common to CSE, IT) 
+Time: 3 Hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) How do you measure the algorithm running time?     [2] 
+   b) Describe best case, average case and worst case efficiency of an algorithm. [3] 
+   c) List the applications of queue.          [2] 
+   d) Define Circular Queue full condition.      [3] 
+   e) State the properties of a Binary Tree.       [2] 
+   f) Differentiate Max-heap and Min-heap.      [3] 
+   g) What is searching and list the types of searching techniques.   [2] 
+   h) Write the applications of binary search.      [3] 
+   i) Define binary search tree with example.      [2] 
+   j) Discuss the drawbacks of AVL trees.       [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.         Explain Array and Linked representation of Sparse Matrix.      [10] 
+ OR 
+3.a) Explain how to create circular linked list and insert nodes at end. 
+   b) Write algorithm for above operations.      [5+5] 
+  
+4. Explain the procedure to convert infix expression into postfix expression  and write  
+algorithm for it.           [10] 
+OR 
+5.         Write C programs to implement a double ended queue ADT using arrays.    [10] 
+  
+6.a)  Explain tree traversals with example. 
+   b)  Explain different ways of representation of graphs.     [5+5] 
+OR 
+7.a) Explain with an example how to insert an element to maxheap. 
+b) Given In order traversal of a binary tree is D,G,B,E,A,H,F,I,C and pre order traversal is              
+A,B,D,G,E,C,F,H,I construct binary tree.      [5+5] 
+  
+ R13 JNTUH USED PAPERS-2023
+
+8.a) Explain linear search with example. 
+   b)  Compare and contrast various sorting techniques.     [3+7] 
+OR 
+9.a) State and explain heap sort with an example. 
+   b)  Apply radix sort on the following list of elements 45, 37,05,09,06,11,18,27. [5+5] 
+ 
+10.a) Construct a binary search tree for the following 80, 40, 75, 30, 20, 90, 50. 
+     b)  What is a trie? Briefly describe compressed tries with its disadvantages.  [5+5] 
+OR 
+11.a) Construct an AVL Tree for following elements:10,20,15,3,2,16,18,26. 
+     b)  Explain about the Knuth-Morris-Pratt pattern matching algorithm.   [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED PAPERS-2023
+

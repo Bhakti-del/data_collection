@@ -1,0 +1,49 @@
+Code No: 117AN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year I Semester Examinations, October/November - 2020 
+ARTIFICIAL INTELLIGENCE  
+(Computer Science and Engineering) 
+ 
+Time: 2 Hours                        Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. What is meant by heuristic search technique?  Give solution for blocks – world problem 
+using heuristic search technique.       [15] 
+ 
+2. Trace the Constraint satisfaction procedure solving the following cryptarithmetic problem:  
+        CROSS  
++ ROADS 
+  -----------------       
+       DANGER        [15] 
+ 
+3.a) Differentiate Propositional logic and Predicate logic. 
+   b) In Logic Programming how the problem is solved using “Proof by Refutation”. [7+8] 
+ 
+4.a) When the extended semantic nets are useful? Explain with the example. 
+   b) Illustrate with the example that how the knowledge is represented by using frames?[7+8]  
+ 
+5.a) What are the components in building an Expert System? With neat sketch explain h ow 
+expert system works?       
+   b) What is an expert shell? How it helps in building expert system?   [7+8] 
+ 
+6.a) Consider the following set of propositions      
+i) A heart patient has spots 
+ii) A heart patient has measles 
+iii) A heart patient has high fever 
+iv) A heart patient has an allergy 
+v) A heart patient was recently bitten by a tick. 
+Create a network that defines the casual connections among these nodes. Convert it to a 
+Bayesian network by constructing the necessary conditional probability matrix. 
+   b) How Dempster-Shafer theory is helpful in representation of uncertainty?  [7+8] 
+  
+7. What is machine learning? What are the phases in it? How data is analyzed and classified 
+through Support vector machine?                 [15] 
+ 
+8. How the knowledge is represented through semantic web? Explain with illustrations. [15] 
+  
+---ooOoo--- 
+R13 
+JNTUH USED 27-10-2020PM PAPER
+

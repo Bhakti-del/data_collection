@@ -1,0 +1,71 @@
+Code No: 138FU             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2023 
+ DATA ANALYTICS 
+ (Common to ECE, CSE) 
+Time: 3 Hours           Max.Marks:75 
+Note:   i) Question paper consists of Part A, Part B. 
+ii) Part A is compulsory, which carries25 marks. In Part A, Answer all questions. 
+iii) In Part B, Answer any one question from each unit. Each question carries 10 marks 
+and may have a, b as sub questions. 
+PART-A 
+(25 Marks) 
+ 
+1.a) List the Elements of Data Architecture.      [2] 
+   b) Which source of Data is more reliable and why?     [3] 
+   c) Outline the Data Analytics techniques.      [2] 
+   d) What is the difference between Spark, Scala and Impala?    [3] 
+   e) What is Model Theory?        [2] 
+   f) List the BLUE property assumptions.       [3] 
+   g) What are the methods to measure Forecast accuracy?    [2] 
+   h) Write about multiple decision tree.       [3] 
+   i) Define data visualization.        [2] 
+   j) List out data visualization applications in finance?     [3] 
+ 
+PART-B 
+(50 Marks) 
+2.a) List and explain about the Sources of generating Secondary Data.  
+   b) What is an outlier in data set? Illustrate how to detect and remove outliers.  [5+5] 
+OR 
+3.a) Discuss about Characteristics of effective Data Architecture.  
+   b) Illustrate techniques of missing values treatment.     [5+5] 
+ 
+4.a) Explain the application of modeling in business and Elaborate any one.  
+   b) Explain how Key -Value and Column Oriented databases address the volume of the     
+            data and the scalability.         [5+5] 
+OR 
+5.a) Define Data Analytics. Give are the applications of Analytics.  
+   b) Illustrate the Model -Based Techniques for dealing with Missing Data with suitable  
+examples.          [5+5] 
+ 
+6. Demonstrate linear regression with suitable example.    [10] 
+OR 
+7.a) Explain Logistic Regression model and analyze Best Fit Statistics with example. 
+  b) Explain briefly about variable rationalization in Regression modeling.  [5+5] 
+ 
+ 
+R16 
+ 
+used paper July/Aug-2023
+
+ 
+ 
+8.a) What is Overfitting? Why Overfitting happens? Give its Preventing techniques? 
+   b) Discuss in detail about STL approach.      [5+5] 
+OR 
+9.a) Compare and contrast between Supervised and unsupervised Learning.  
+   b) Discuss about Univariate Non-Stationary Processes and its forecast.  [5+5] 
+ 
+10.a) Discuss briefly about Icon based Visualization Techniques.  
+    b) Discuss about visualizing the complex data and relations.    [5+5] 
+OR 
+11. List and explain the steps in Data Visualization in Tableau.               [10] 
+ 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+used paper July/Aug-2023
+

@@ -1,0 +1,77 @@
+Code No: 135AF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, July/August - 2023 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.       
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)   Define θ-notation and Omega notation.       [2] 
+   b)   How do you measure the algorithm running time?      [3] 
+   c)   What is a set? List the operations that can be performed on it.   [2] 
+   d)   State and explain graph coloring problem.          [3] 
+   e)   Define greedy method.            [2] 
+   f)   What are the drawbacks of greedy method?        [3] 
+   g)   State the principle of optimality.       [2] 
+   h)   Write about reliability designing.           [3] 
+   i)   Define NP-Complete.               [2] 
+   j)   Why the search path in a state -space tree of a branch and bound algorithm is 
+terminated?           [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  What is an algorithm? Explain its characteristics. 
+   b)  Derive the time complexity of quick sort in an average case.   [5+5] 
+OR 
+3.a)  Discuss about time complexity in detail. 
+   b)  Write the algorithm for merge sort with an example.     [3+7] 
+  
+4.a)  Write an algorithm to determine the Hamiltoni an cycle in a given graph using 
+backtracking. 
+   b)  Discuss about AND/OR graph problem with an example.    [5+5] 
+OR 
+5.a)  Give the solution to the 8-queens problem using backtracking.    
+   b)  Write and explain the algorithm of Bi connected components with an example. [5+5] 
+ 
+6.  Write and explain prim’s algorithm for generating minimum cost Spanning tree and list 
+some applications of it.          [10] 
+OR 
+7.a)  Explain the greedy technique for solving the Job Sequencing problem. 
+   b)  What are the applications of greedy method? Discuss.    [5+5] 
+ 
+ 
+ 
+ 
+ 
+ R16 
+used paper July/Aug-2023
+
+ 
+8.a)  Explain the time and space complexity of Dynamic Programming traveling sales                      
+ person algorithm.  
+   b)  Write and explain the algorithm of matrix chain multiplication.   [5+5] 
+OR 
+9.a)  Explain the all pairs shortest path problem with an example. 
+   b)  Write an algorithm of OBST.        [5+5] 
+ 
+10.a)  Show that the Hamiltonian path problem is NP-Complete. 
+     b)  Is the travelling salesman problem is NP-hard or NP-Complete? Justify your answer.
+            [5+5] 
+OR 
+11.a) Write an algorithm of FIFO Branch and Bound. 
+     b)  Discuss in detail about Cook’s theorem.      [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

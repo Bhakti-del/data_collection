@@ -1,0 +1,104 @@
+Code No: 113BN  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ B.Tech II Year I Semester Examinations, April/May - 2018 
+ MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+ (Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+  
+Note: This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Un its. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+  
+ PART- A  
+ (25 Marks) 
+1.a) Find the negations of the following quantified statements:  
+      , , , , ,x y p x y q x y r x y  
+       [2] 
+  b) Construct a truth table to show that (p
+ q) → p is a tautology.    [3] 
+  c) Let 
+ 1,2,3,4,5,6X  and R be a relation defined as 
+( , )x y R if and only if 
+xy is 
+divisible by 3. Find the elements of relation of R.      [2] 
+  d) If „a‟ is a generator of a cyclic group G, then show that a-1 is also a generator of G. [3]  
+  e) Find how many different words that can be formed with the letters in the word     
+ “MATHEMATICS”?         [2] 
+  f) What is pigeon hole principle?       [3] 
+  g) What is homogeneous recurrence relation?       [2] 
+  h) Find the number of non-negative integer solutions of the equation x1 + x2 + x3 = 11. [3]  
+  i) What is chromatic numbers?         [2] 
+  j) Define Euler‟s circuit and Give an example.      [3]  
+ 
+PART-B  
+(50 Marks) 
+2.a) Verify the validity of the following arguments.  
+“Every living thing is a plant or an animal.  
+Logu‟s dog is alive and it is not a plant.  
+   All animals have heart. Therefore Logu‟s dog has a heart.”  
+b) Find the formulas in Disjunctive Normal Form equivalent to the following w ell formed 
+formulas  
+(¬R) → (((P ˅ Q) → R) → ¬ Q)            [5+5] 
+OR 
+3. Without using truth tables prove that  
+((P ∨ Q) ¬ (¬ P (¬ Q ∨ ¬ R ))) ∨ ( ¬ P¬ Q ) ∨ (¬ Q ¬ R) is a tautology.        [10] 
+ 
+R13 
+JNTUH USED 15-05-2018PM
+
+4.a) Let 
+ ,,A a b c be a set and relation R on A is as 
+        , , , , , , ,a a a b b c c c . Is R.  
+i) Reflexive  ii) Symmetric  iii)Transitive .  
+  b) Prove that
+ 
+111f g g f
+  , where 
+:f Q Q such that 
+  2f x x  and
+:g Q Q             
+     Such that 
+  2g x x are two functions.            [5+5] 
+OR 
+5.a) Prove that the intersection of any two subgroups of a group G is again subgroup of G.  
+  b) In a lattice (L, ≤ , ∧ , ˅) state and prove the laws indempotent , commutative,     
+ association and absorption.         [5+5] 
+ 
+6.a) Find the number of integers between 1 and 250 that are divisible by any of the integers 2, 
+3 and 6.  
+ b) Find the coefficient of x9 y3 in the expansion of (2x - 3y)12.    [5+5] 
+OR 
+7.a) How many bit strings of length 10 contain: 
+i) At most four 1‟s  ii) At least four 1‟ s iii) Exactly four 1‟s.  
+b) There are 40 computer programmers for a job. 25 know Java, 28 know Oracle and 7      
+know neither language. Using principle of inclusion exclusion find how many know both 
+languages.           [5+5]  
+ 
+8.a) Find a generating function for the recurrence relation  
+ 
+12 60n n na a a     for 
+2n                                         
+b) Express Fibonacci sequence of numbers 1, 1, 2 , 3, 5, 8, 13, 21, 34,... in terms of  general 
+expression for the rth number ar and generating function.     [5+5] 
+OR 
+9.a) Find the number of integer solutions of the equation   
+x1 + x2 + x3 + x4 + x5 = 30   
+Under the constraints xi ≥ 0 for all i = 1, 2, 3, 4, 5 and further x2 is even and x3 is odd.  
+ b) Solve the recurrence relation 
+126 9 0n n na a a    for
+2n .         [5+5]                 
+ 
+10.a) Show that a simple complete digraph with n nodes ha s the maximum number of 
+edges
+ 1nn  . Assuming that there are no loops.  
+   b) State and explain graph coloring problem. Give its applications.    [5+5] 
+OR 
+11.a) Find the minimum spanning tree by using kruskal‟s algorithm.   
+ 
+   b) Write short notes on DFS and BFS.        [5+5] 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 15-05-2018PM
+

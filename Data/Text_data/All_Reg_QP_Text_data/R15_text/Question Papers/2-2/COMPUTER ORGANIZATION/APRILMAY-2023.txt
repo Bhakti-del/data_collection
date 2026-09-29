@@ -1,0 +1,74 @@
+Code No: 124CN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, April/May - 2023 
+COMPUTER ORGANIZATION 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A 
+(25 Marks) 
+ 
+1.a) Define effective address.        [2] 
+   b) Discuss about status bit conditions.        [3] 
+   c) Define Cycle stealing.                               [2] 
+   d) Write the Flowchart for programmed I/O.      [3] 
+   e) Define locality of reference.        [2] 
+   f) Describe replacement algorithms for set associate cache.    [3] 
+   g) Define idle state in 8086.          [2] 
+   h) Describe extra segment register and its purpose.     [3] 
+   i) Explain Bit manipulation instructions.       [2] 
+   j) Write instructions to Load 26 (decimal) into register CX.    [3] 
+ 
+PART-B 
+(50 Marks) 
+ 
+2.a) What is an interrupt? What are different types of interrupts? Explain them. 
+   b) Describe general register organization with block diagram.    [5+5] 
+OR 
+3.a) Describe register transfer for the fetch phase with circuit. 
+   b) Explain conditional branch instructions.      [5+5] 
+  
+4.a) Draw a timing diagram for handshaking. 
+   b) Explain DMA controller with block diagram.               [5+5] 
+OR 
+5.  Describe Intel 8089 IOP.          [10] 
+ 
+6.a) How many 128×8 RAM chips are needed to provide a memory capacity of 2048 bytes. 
+b) What additional logic is required to give a no match result for a word in  an associative 
+memory when all key bits are zero? 
+   c) Explain associate memory page table.                       [3+4+3] 
+OR 
+7.  Explain different types of mapping procedures in cache memory.     [10] 
+      
+R15 
+JNTUH Used papers 2023
+
+ 
+ 
+8.a) Explain special functions of general registers. 
+   b) Describe flag registers in 8086 CPU.       [5+5] 
+OR 
+9.  Specify the addressing modes in 8086 with example.      [10] 
+ 
+10.a) Write an ALP to find factorial of number for 8086. 
+     b) Write an ALP to reverse the given string for 8086.      [5+5] 
+OR 
+11.a) Write assembly language program to list alphanumeric characters by illustrating  JUMP 
+instruction? 
+     b) Write instructions to evaluate the expressions:  
+a = b + c –d  
+            z = x + y + w – v +u          [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+  
+ 
+ 
+JNTUH Used papers 2023
+

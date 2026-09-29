@@ -1,0 +1,70 @@
+Code No: 136AW  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+CRYPTOGRAPHY AND NETWORK SECURITY 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)   What is Authentication?        [2] 
+   b)   What is cipher text?          [3] 
+   c)   What is message authentication code?      [2] 
+   d)   What elements of HTTPS are encrypted?      [3] 
+   e)   What protocols comprise SSL?       [2] 
+   f)    What are the principal services provided by PGP?     [3] 
+   g)   What is DKIM?         [2] 
+   h)   What are the different classes of Intruders?      [3] 
+   i)    What is Honey pots?         [2] 
+   j)    What is kerberos realm?        [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.  List and briefly explain categories of security services and security mechanisms.   [10] 
+OR 
+3.  Explain steganography and explain different possible types of attacks.    [10] 
+    
+4.  Explain Diffie – Hellman key exchange.        [10] 
+OR 
+5.  Explain RSA public key encryption algorithm.       [10] 
+    
+6.  Explain X.509 certificates. Give its format.        [10] 
+OR 
+7.a)  Explain digital signatures. 
+   b)  Explain secure hash algorithm.       [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+8.a)  Explain Transport layer security. 
+   b)  Briefly define SSH protocols.        [5+5] 
+OR 
+9.a)  Explain about IEEE 802.11 wireless LAN. 
+   b)  Explain wireless security.        [5+5] 
+ 
+10.a)  Explain S/MIME. 
+     b)  Explain Internet key exchange.       [5+5] 
+OR 
+11.a)  Give IP security architecture. 
+     b)  Explain anti-replay service in ESP.       [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

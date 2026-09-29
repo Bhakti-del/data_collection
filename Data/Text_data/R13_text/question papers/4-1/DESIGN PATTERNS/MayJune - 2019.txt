@@ -1,0 +1,75 @@
+Code No: 117CF     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, May/June - 2019 
+DESIGN PATTERNS 
+(Common to CSE, IT) 
+Time: 3 Hours                       Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+ Part A is compulsory which carries 25 marks. Answer all questions in Part A.  
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) What is a Design Pattern? Explain.       [2]  
+   b) What are the three categories of design patterns?     [3] 
+   c) List out some problems associated in designing a document editor.   [2] 
+   d) What is the benefit of Factory pattern?      [3] 
+   e) What is the intent of the Adapter pattern?      [2] 
+   f) Explain what is Composite pattern?       [3] 
+   g) What are the consequences of mediator pattern?     [2] 
+   h) What is the intent of the Observer pattern?       [3] 
+   i) Write the purpose of behavioral patterns.      [2] 
+   j) What are the five errors in using design patterns?     [3] 
+ 
+ 
+PART-B  
+(50 Marks) 
+2.a) What are three reasons for studying design patterns? 
+   b) What is the relationship between "consequence" and "forces" in a pattern?  [5+5]  
+OR 
+3.a) What are the key elements in the description of a design pattern? 
+   b) Explain how design patterns solve design problems.     [5+5] 
+ 
+4.a) Write about the functionality of operations that are accessed indirectly through user          
+operations. 
+   b) What are the implementation issues that are to be considered for builder pattern? [5+5] 
+OR 
+5. What are the benefits of Singleton pattern? Discuss the implementation issues of     
+singleton pattern in detail.        [10] 
+   
+6.a) What is the basic problem being solved by the Bridge pattern? Explain. 
+b) The Façade pattern and the Adapter pattern may seem similar. What is the essential         
+difference between the two? Explain.       [5+5] 
+OR 
+7.a) What are two classic examples of decorators? How do es the Decorator pattern help to          
+ decompose the problem?  
+   b) Why are the Bridge and Decorator patterns more correctly classified as structural rather          
+ than behavioral patterns?        [5+5] 
+R13 
+JNTUH USED 24-05-2019PM
+
+ 
+8.a) Discuss about the structure and participants of Interpreter pattern. 
+   b) What are the implementation issues to be considered in Chain of Responsibility pattern?  
+        Explain.          [5+5] 
+OR 
+9.a) Explain in detail about the applicability and structure of Command pattern. 
+   b) Describe the implementation issues of Memento pattern.    [5+5] 
+ 
+10.a) Write about the benefits and liabilities of the Visitor pattern. 
+     b) What are the difference between the Strategy pattern and the Template Method pattern? 
+            [5+5] 
+OR 
+11.a) Describe in detail about the structure and participants of Strategy design pattern. 
+     b) Write about the implementation issues of State Behavioral pattern.   [5+5] 
+  
+ 
+ 
+ 
+---ooOoo— 
+ 
+ 
+ 
+JNTUH USED 24-05-2019PM
+

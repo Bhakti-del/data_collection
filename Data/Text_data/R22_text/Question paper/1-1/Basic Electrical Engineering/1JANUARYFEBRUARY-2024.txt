@@ -1,0 +1,92 @@
+  
+Code No: 181AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, January/February - 2024 
+BASIC ELECTRICAL ENGINEERING 
+(Common to CSE, IT, CSIT, CE(SE), CSE(CS), CSE(DS), CSD) 
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub-questions from all 
+units carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 marks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+ 
+ (10 Marks) 
+ 
+1.a) Three capacitors of 4  F, 4  F and 8  F are connected in parallel. What is its 
+equivalent capacitance?        [1] 
+   b)  How Thevenin’s voltage source and Thevenin’s resistance are connected?  [1] 
+   c)  Define the peak factor.        [1] 
+   d)  What is the current and voltage relationship in a pure inductor?   [1] 
+   e)  What is the main purpose of using core in a transformer?    [1] 
+   f)  What is an autotransformer?        [1] 
+   g)  What is the basis for classification of D.C. Generators?    [1] 
+   h) What is the equation of synchronous speed in a three-phase induction motor? [1] 
+   i) What is the primary objective of providing the circuit breaker in power system? [1] 
+   j) What are the types of circuit breakers are available in the market in the market for low 
+voltage applications.         [1] 
+ 
+PART - B 
+(50 Marks) 
+ 
+2.a)  State and explain KVL and KCL. 
+b)  Three resistors R 1, R 2 and R 3 are connected in series across a constant voltage V. 
+Voltage across R 1 is 20V. Power consumed by R 2 is 25W and R 3 = 2 ohms. Find the 
+voltage if the current is 5A.        [5+5]
+     OR 
+3.a)  State and explain the superposition theorem. 
+b) A 500 F capacitor is charged to 20 V DC. It is suddenly connected to a resistance of 
+500 k. Find (i) voltage across capacitor at t =0, (ii) current through capacitor at any 
+time and (iii) voltage across capacitor at t = .     [5+5] 
+  
+  
+ R22 JNTUH USED PAPERS 2024
+
+4.a)  Define i) Instantaneous value, ii) Time period, iii) Frequency, iv) Cycle and                      
+v) Amplitude.  
+b)  A sinusoidal voltage v = 50 Sin ω t is applied to a series RL circuit. The current in the 
+Circuit is given by i = 25 Sin ( ω t-530). Determine (i) apparent power, (ii) Average 
+power and (iii) power factor.        [5+5] 
+OR 
+5.a)  Derive the relation between line and phase quantities of voltages and currents for a 
+delta connected system. 
+b)  A coil has a resistance of 20 ohms and inductance of 80 mH and is connected in series 
+with a 100 pF capacitor. Determine the circuit impedance at resonance and also find the 
+resonant frequency?         [5+5] 
+ 
+6.a)  Explain different losses in a single-phase transformer.   
+b) A 220/110V, 50Hz, 1.5kVA, has primary and secondary winding resistance of 1 and 
+2 , and reactance of 3  and 5  respectively find the total equivalent resistance 
+equivalent reactance and equivalent impedance referred by primary and secondary.      
+            [5+5] 
+OR 
+7.a) Explain the operation of auto transformer. 
+   b)  Describe the three-phase transformer connections.     [5+5] 
+  
+8.a)  Explain the performance characteristics of dc shunt machine.  
+   b)  Discuss the construction and working of a three-phase induction motor.  [5+5] 
+OR 
+9.a)  Explain why single phase induction motor is not self-starting.  
+   b)  Describe the working principle of synchronous generator.    [5+5]
+  
+10.a)  Discuss the high rupturing capacity fuse with neat diagram. List out its merits and 
+demerits. 
+     b)  Explain the ELCB and MCCB protection used in L.T switch gear.   [5+5] 
+OR 
+11.a) What are the criterion considered for classified the wires and cables.  
+     b)  Describe the Nickel cadmium batteries.  List out its merits and demerits.  [5+5] 
+   
+---ooOoo---
+ 
+ 
+ 
+ 
+ 
+ 
+JNTUH USED PAPERS 2024
+

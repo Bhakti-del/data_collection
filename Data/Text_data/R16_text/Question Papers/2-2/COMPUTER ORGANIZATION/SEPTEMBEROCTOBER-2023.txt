@@ -1,0 +1,68 @@
+Code No: 134AK 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, September/October - 2023 
+COMPUTER ORGANIZATION  
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks                
+      and may have a, b as sub questions.    
+ 
+PART – A  
+           (25 Marks) 
+ 
+1.a) What is an instruction cycle?        [2] 
+b) Define the terms: Computer Architectures, Computer Organization and Computer 
+Design.          [3] 
+   c) What is the purpose of Program Counter, Stack Pointers registers?   [2] 
+   d)  With example, discuss briefly about Immediate and indirect addressing modes. [3] 
+   e) What is the role of Interrupt Service Routine (ISR)?     [2] 
+   f) Write a simple macro for calculating multiplication of two data values.  [3] 
+   g) Write down the differences between I/O mapped and memory mapped I/O. [2] 
+   h) Enumerate the steps in adding two 8- bit numbers.     [3] 
+   i) What is the need for parallel processing?      [2] 
+   j) What is Cache memory? Why is it required?      [3] 
+  
+PART – B 
+           (50 Marks) 
+ 
+2.a) List and explain various memory reference instructions. 
+b) What is Address sequencing?  Explain the design and functionality of a micro program 
+sequencer.          [5+5] 
+OR 
+3.a) Explain the functionality of the key components of a computer system. 
+   b) Explain about control memory.       [5+5] 
+ 
+4.     Draw the internal structure of 8086 register organization and explain various registers 
+and their functions in detail.          [10] 
+OR 
+5.         Explain various addressing mode of 8086 in detail with relevant examples.    [10] 
+        
+6.a)  Write an assembly language program to add two, 8-bit numbers. 
+   b)   Explain the interrupt cycle of 8086.       [5+5] 
+OR 
+7. What is an assembler? Explain the structure of an assembly language program taking an 
+example code of your own?          [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH USED PAPERS-2023
+
+ 
+8.    Explain floating point multiplication algorithm in detail.      [10] 
+OR 
+9.    Explain the operation of an IOP.         [10] 
+ 
+10. Explain about vector processing in detail.        [10] 
+OR 
+11. Explain about Arithmetic pipeline of instructions.       [10] 
+ 
+---ooOoo--- 
+JNTUH USED PAPERS-2023
+

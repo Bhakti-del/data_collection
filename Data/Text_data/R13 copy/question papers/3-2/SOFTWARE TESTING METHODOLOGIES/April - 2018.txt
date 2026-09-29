@@ -1,0 +1,82 @@
+ 
+ 
+ 
+Code No: 126ER            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, April - 2018 
+SOFTWARE TESTING METHODOLOGIES 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)     What is meant by testing? Why we need it       [2] 
+   b)     Define a model for software testing.                  [3] 
+   c)     Explain various loops. Give example for each.     [2] 
+   d)     Write the applications of data flow testing.      [3] 
+   e)     In what a nice domain differs from and ugly domains.                [2] 
+   f)     Define domain testing with example.                             [3] 
+   g)     Explain Regular Expressions.                   [2]                       
+   h)     Explain sum of product form and product of sum form.    [3] 
+   i)      Define good state and bad state graphs.      [2] 
+   j)      How can the graph be represented in Matrix form?     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.  State and explain various dichotomies in software testing.       [10]   
+OR 
+3.a) What is meant by program’s control flow? How is it useful for path testing? 
+   b)  Discuss various flow graph elements with their notations.    [5+5] 
+  
+4.a) What is meant by transaction flow testing. Discuss its significance. 
+   b)  Compare data flow and path flow testing strategies.     [5+5] 
+OR 
+5.a) Explain data-flow testing with an example. Explain its generalizations and Limitations 
+   b)  Explain the terms Dicing, Data-flow and Debugging.    [5+5] 
+  
+6.a) State and Explain various restrictions at domain testing processes. 
+   b)  With a neat diagram, explain the schematic representation of domain testing. [5+5] 
+OR 
+7.  Discuss the domains and interface testing in detail.       [10] 
+ 
+ 
+    
+  
+ 
+ 
+ 
+ 
+R13 
+used paper 20-04-2018
+
+ 
+ 
+ 
+ 
+8. Write Short Notes on following:  
+a) Distributive Laws 
+b) Absorption Rule 
+c) Loops 
+d) Identity elements.           [10] 
+OR 
+9. Reduce the following functions using K-Maps  
+    F(A,B,C,D) = P(4,5,6,7,8,12,13)+d(1,15)        [10] 
+ 
+10.a) Write testers comments about state graphs. 
+     b)  Explain about good state and bad state graphs.     [5+5] 
+OR 
+11.  What are graph matrices and their applications? Explain in detail.     [10] 
+      
+  
+ 
+ 
+---ooOoo--- 
+used paper 20-04-2018
+

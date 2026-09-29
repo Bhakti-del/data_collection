@@ -1,0 +1,41 @@
+ 
+Code No: 111AH             
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year Examinations, July - 2021 
+ENGINEERING DRAWING 
+(Common to CSE, MIE, PTM) 
+Time: 3 hours                           Max Marks: 75 
+Answer any three questions 
+All questions carry equal marks 
+- - - 
+1.a) The actual length of 300  m is represented by a line of 10  cm on a drawing.  Draw a 
+ vernier scale to read up to 500 m. Mark on it a length of 367 m.        
+  b) Draw a regular heptagon having 40 mm long sides, using general method.           [15+10] 
+ 
+2. Draw the locus of a point P moving so that the ratio of the distance from a fixed point F 
+ to its distance from a fixed straight line is 0.75. Point P is at a distance of 70 mm from the 
+ straight line. Also, draw the tangent and normal to the curve.   [25] 
+        
+3. A circular plate of 60 mm diameter has a hexagonal hole of 20 mm side, centrally 
+ punched. Draw the projections of the plate, resting on HP on a point, with its surface 
+ inclined at 30 0 to HP. Any two parallel sides o f the hexagonal hole are perpendicular to 
+ VP. Draw the projections of the plate.      [25] 
+ 
+4. A 90 mm long line PQ is inclined at 300 to the HP and 450 to the VP. The end P is 15 mm 
+ above the HP and 25 mm in front of VP. Draw its projections , locate the  traces in the 
+ following two cases.  
+ a) When the end Q is in the first quadrant 
+ b) When the end Q is in the third quadrant.             [15+10] 
+       
+5. A cone of base diameter 50 mm and axis length 75 mm, resting on HP on its base  is cut 
+ by a plane i nclined at 45 0 to HP and perpendicular to VP and is bisecting the  axis. Draw 
+ the front view and development of lateral surface of bottom part.   [25] 
+     
+6. Draw the front view, top view and side view of the object shown in the figure. All  
+ dimensions are in mm.        [25] 
+ 
+---ooOoo--- 
+R13 
+JNTUH USed JUL/Aug-21
+JNTUH Used Jul/Aug-21
+

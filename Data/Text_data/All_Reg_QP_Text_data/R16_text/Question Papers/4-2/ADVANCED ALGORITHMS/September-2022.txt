@@ -1,0 +1,53 @@
+ 
+Code No: 138AC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2022 
+ ADVANCED ALGORITHMS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What is optimal binary search tree? Give dynamic programming formulation for the same. 
+   b)  How Partition is done in Quick Sort? Explain with an example.   [7+8] 
+ 
+2.a) Discuss in detail about randomized algorithms. 
+b)  Write an algorithm/pseudocode to sort elements using Heap sort technique.  Illustrate the 
+working of Heap sort algorithm on the following input: 35,15,0,1,60.  [7+8] 
+   
+3.a) How Dynamic Programming is used to solve Knapsack Problem? Explain. 
+   b)  Define the Single Source Shortest Path Problem and explain any one algorithm. [7+8] 
+   
+4.a) Write Huffman code algorithm and derive its complexity.  
+   b)  Illustrate about minimum spanning trees with suitable examples.   [7+8] 
+  
+5.a) What is S trassen’s matrix multiplication? Explain with example. Why is Strassen matrix  
+multiplication considered better than simple matrix multiplication? Discuss. 
+   b)  Discuss in detail about Zero-one principle with example.    [7+8] 
+ 
+6.a) Compute inverse of 
+1 1 0 0
+1 2 1 0
+0 1 2 0
+0 0 1 2
+A
+
+ 
+  . 
+   b)  Write a detailed note on sorting networks.      [7+8] 
+   
+7.a) What is naive string matching algorithm? Write the complexity of naïve string matching. 
+   b) Discuss the purpose of Knuth Morris Pratt algorithm? What problem d oes it solve?    
+Explain.          [7+8] 
+ 
+8.a) Explain Traveling Salesman problem with suitable example. 
+   b)  List and discuss various approximation algorithms in brief.    [7+8] 
+   
+ 
+---oo0oo---  
+ 
+ 
+R16 
+JNTUH Used Papers
+

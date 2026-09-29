@@ -1,0 +1,40 @@
+Code No: 117BN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, October/November - 2020 
+CLOUD COMPUTING 
+ (Computer Science and Engineering) 
+Time: 2 Hours                 Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+ 
+1.a) What are the enabling technologies in distributed systems? 
+   b) Explain the features of parallel computing.      [7+8] 
+ 
+2.a)  What is virtualization? Explain virtualization concept in cluster computing. 
+   b)  What are the primitive operations in virtual machines?    [7+8] 
+ 
+3.a)  Explain the features of infrastructure as a service providers and uses. 
+   b) What are the characteristics and challenges in cloud computing?   [7+8] 
+ 
+4.  Explain about integration as a service paradigm.       [15] 
+ 
+5. Explain Distributed Management of Virtual Machines.    [15] 
+ 
+6. What is Software-as-a-Service (SaaS)? Explain the characteristics SaaS model. [15] 
+ 
+7. Describe the Performance Prediction for HPC on Clouds.    [15] 
+ 
+8.a) Explain the pros and cons of content level security. 
+   b) Explain the Change Management Maturity Model (CMMM).   [7+8] 
+ 
+  
+ 
+---ooOoo--- 
+  
+ 
+ 
+R13 
+JNTUH USED 08-11-2020PM PAPER
+

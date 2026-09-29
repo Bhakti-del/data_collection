@@ -1,0 +1,36 @@
+ 
+ 
+ 
+Code No: 118GN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, December - 2020 
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT  
+(Computer Science and Engineering) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - - 
+ 
+1. Discuss in detail about firewall configurations with neat diagrams.   [15] 
+           
+2. How to configure VPN server? Explain.      [15] 
+  
+3. State the reasons for any Network device failure of your choice and propose the solution to 
+troubleshoot it.            [15] 
+ 
+4. Explain the need of modems and how to trouble shoot the problems with respect to modem 
+issues.           [15] 
+    
+5. What are five important incident handling phases? Explain.    [15] 
+ 
+6. What are the different types of data backup? Explain.    [15] 
+ 
+7. How to Configuring Windows Log? Explain.     [15] 
+    
+8. What are the steps that can be taken for preventing malicious code incidents?      [15] 
+ 
+ 
+---ooOoo--- 
+R13 
+JnTUH Used Papers
+

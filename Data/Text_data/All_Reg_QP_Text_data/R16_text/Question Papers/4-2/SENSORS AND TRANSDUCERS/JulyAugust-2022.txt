@@ -1,0 +1,48 @@
+ 
+ 
+ 
+Code No: 138GY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+ SENSORS AND TRANSDUCERS 
+ (Common to EEE, ECE, CSE) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the following main functions of the instruments and measurement systems: 
+          i) Indicating function ii) Recording function iii) Controlling function 
+   b) Draw and explain the various elements of a generalized measurement system. [6+9] 
+ 
+2. Explain the following types of systematic errors: 
+            a) Instrumental errors  
+b) Environmental errors   
+c) Observational errors.              [5+5+5] 
+ 
+3. Explain the following static characteristics: 
+a) Accuracy b) Sensitivity c) Drift  d) Static error  e) Dead zone.  
+                    [3+3+3+3+3] 
+ 
+4.  Obtain the time response of a second order system for unit step input.  [15] 
+ 
+5.a) Explain with the help of a diagram, the measurement of displacement using 
+potentiometers. State the advantages and disadvantages of a potentiometer. 
+   b) Explain the operation and construction of strain gauge. State its limitations. [8+7] 
+ 
+6.  Explain the construction and working principle of resistance thermometer.  [15] 
+ 
+7.a) Explain the method of  measuring displacement using LVDT. State the advantages and 
+disadvantages of LVDT. 
+   b) Explain the working of capacitive transducer. State its applications.   [8+7] 
+ 
+8. Write short notes on the following: 
+a) Digital transducers- advantages and disadvantages 
+b) Hall effect transducers.        [8+7]
+  
+ 
+---oo0oo---  
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

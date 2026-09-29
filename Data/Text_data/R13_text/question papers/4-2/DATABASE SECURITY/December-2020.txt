@@ -1,0 +1,38 @@
+ 
+ 
+ 
+Code No: 118BA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, December - 2020 
+DATABASE SECURITY  
+(Computer Science and Engineering) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+   
+1. Explain the Hartson and Hsiao's Model.      [15] 
+ 
+2. Discuss the Fernandez’s Model Bussolati and Martella's Model for Distributed databases. 
+            [15] 
+ 
+3. List and explain the features of Bell and LaPadula's Model.    [15] 
+ 
+4. Explain the Resource Protection Control Flow Mechanisms.   [15] 
+ 
+5. Explain the IDES System and RETISS System.     [15] 
+ 
+6. Describe the Methodological Approach to Security Software Design.   [15]  
+ 
+7. Illustrate the model for the protection of object oriented system.   [15] 
+ 
+8. With the help of neat diagram, explain the Orion 2.0 Architecture.   [15]  
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+R13 
+JNTUH Used Papers 2020
+

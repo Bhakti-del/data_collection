@@ -1,0 +1,44 @@
+Code No: 135CX  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, February - 2022 
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS 
+(Common to CE, EEE, CSE, EIE, IT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - -  
+ 
+1.a)  Explain the  advantages of  modulation. 
+b)   A carrier with amplitude modulated to a depth of 50% by a sinusoidal, produces side 
+band frequencies  of 10.005 MHZ and 9 .995 MHZ. The amplitude of each side 
+frequency is 20 V. Draw the signal in time domain and frequency domain.  [8+7] 
+ 
+2.a)   Explain the  terms gain, attenuation and why they are generally expressed in decibels. 
+b)  A two stage amplifier has gain of 200 for first stage and 100 for second stage. Express 
+overall gain in dB.         [8+7] 
+ 
+3.a)   Explain the method of generation and detection of PAM signals with neat schematics. 
+b)  A band limited signal has a bandwidth equal to 4 KHZ. What sampling rate should  be 
+used to guarantee a guard band of 1200 Hz?       [8+7] 
+ 
+4.a)  Draw the constellation diagram for  M-ary PSK System. 
+   b)  Explain BPSK system transmitter and receiver with the help of diagrams.  [7+8] 
+ 
+5.a) Explain the principles of Cross bar switching in Telecommunication. 
+b)   Given that MTBF=2000 Hrs and MTTR=4 Hrs. Ca lculate the unavailability for single 
+and dual processor systems for 10 years and 5 years.     [8+7] 
+ 
+6.a) Explain Routing Control in Packet Switching. 
+   b) What are the differences between LAN, WAN, MAN and Internet?   [7+8] 
+ 
+7.a)  What are the losses occurred in optical fibers? Explain briefly. 
+   b)   Explain the Frequency allocation for satellite services.    [7+8] 
+ 
+8.a)  Explain the procedure of cell-splitting and advantages of cell sectorization. 
+   b)  Describe the RFID communication and its advantages.    [7+8] 
+ 
+---oo0oo--- 
+ 
+ R16 
+used paper feb-22 jntu
+

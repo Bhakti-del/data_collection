@@ -1,0 +1,79 @@
+Code No: 114CQ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, April - 2018 
+DATABASE MANAGEMENT SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                   Max. Marks: 75 
+ 
+Note: This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                     
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks)  
+1.a) What are five main functions of database Admistrator?    [2] 
+   b) List four significant difference between a file processing system and DBMS. [3] 
+   c) Explain about set membership in SQL.      [2] 
+   d) Explain Outer join operators in relational algebra.     [3] 
+   e) What is functional dependency?       [2] 
+   f) Explain about join Dependency.       [3] 
+   g) What is fuzzy check point?        [2] 
+   h) What are the different types of log records and when they are written?  [3] 
+   i) What is the main difference between static dynamic hashing?   [2] 
+   j) What are the main difference between static and dynamic index structure?  [3] 
+ 
+PART-B 
+(50 Marks) 
+2.a) What is data model? What is the relational data model? What is data independence and  
+            how does a DBMS support it. 
+   b) What is E-R Model? Draw an E-R Diagram for online book store.   [5+5] 
+OR 
+3.a) Explain the difference between external, internal and conceptual schemas. How these  
+            different schema layers are related to logical and physical data independence.   
+   b) Draw an ER-Diagram for Specialization, generalization and aggregation.  [5+5]  
+ 
+4.a) Explain Domain Integrity constraints  in SQL. 
+   b) Give an overview of active databases.      [5+5]  
+OR 
+5.a) Explain various DML statement in SQL with example. 
+   b) Explain Aggregate and database modification operators in relational algebra. [5+5] 
+ 
+6.a) What is normalization? What are the conditions are required for a relation to be in  1NF, 
+2NF and 3NF. Explain with examples. 
+   b) Explain the following with examples: 
+ i) Join Dependency  ii) multivalued dependency.    [5+5] 
+OR 
+  
+R13 
+JNTUH USED 28-04-2018PM
+
+7.a) Suppose that we decompose the schema R = ( A, B, C, D, E) into R1 ( A, B, C) and           
+R2 ( A, D, E). Show that this decomposition is lossless-join decomposition if the 
+following set F of functional dependencies holds: 
+A → BC, CD → E,B → D,E → A 
+b) What are the condition are required for 4NF and  5NF Normal forms explain  with 
+examples?          [5+5] 
+ 
+8.a) What is Concurrency control? Explain how multiple granularity protocol is used to 
+Control concurrent transactions. 
+b) Explain what happens if there are crashes during undo phase of recovery? What if there 
+are crashes during the analysis phase and redo phase.    [5+5] 
+OR 
+9.a) Explain conservative Time Stamp-Based Concurrency Control protocol.  
+   b) What are the problems with lock-based concurrency control protocols.  [5+5] 
+ 
+10.a) Describe how insert and delete operations work in ISAM. 
+     b) What are the problems with storage of data on external storage? Explain.  [5+5] 
+OR 
+11.a) Describe the B+ tree insert and delete operations with examples. 
+     b) What is Hashing? Discuss the relation between extendable hashing and Linear Hashing.  
+           What are their relative merits?       [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+  
+ 
+JNTUH USED 28-04-2018PM
+

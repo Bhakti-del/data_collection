@@ -1,0 +1,43 @@
+Code No: 134AK   
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year II Semester Examinations, November/December - 2020 
+COMPUTER ORGANIZATION  
+(Common to CSE, IT) 
+Time: 2 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Draw the block diagram of micro program sequencer for a control memory and explain 
+ its operations in detail.        [7+8] 
+ 
+2. Discuss the various Addressing modes in 8086.     [15] 
+    
+3. Briefly explain the Interrupt cycle of 8086.      [15] 
+ 
+4. Explain the floating point addition- subtraction unit with a neat diagram.  [15] 
+  
+5.a) A non pipeline system takes 50 ns to process a task. The same task can be processed in a 
+6 segment pipeline with a clock cycle of 10 ns. Determine the speed up ratio of the 
+pipeline for 100 tasks. What is the maximum speed up that can be achieved?  
+  b) What are the application areas where vector processing is of utmost importance? Explain.      
+[8+7] 
+ 
+6.a) With the help of neat diagram, explain the block diagram of digital computer.  
+   b) Give a brief note on instruction codes.       [8+7] 
+    
+7. Explain the Machine language instruction formats in 8086.    [15] 
+ 
+8. Explain the Interrupts and Interrupt service routines in 8086.    [15] 
+   
+ 
+ 
+---oo0oo--- 
+ 
+  
+ 
+ 
+R16 
+ 
+JNTUH USED 18-11-2020AM
+

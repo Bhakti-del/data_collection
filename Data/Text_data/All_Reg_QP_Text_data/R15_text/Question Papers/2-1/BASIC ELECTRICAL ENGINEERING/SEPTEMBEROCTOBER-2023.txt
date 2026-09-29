@@ -1,0 +1,85 @@
+Code No: 123BR 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, September/October - 2023 
+BASIC ELECTRICAL ENGINEERING 
+(Common to CSE, IT) 
+Time: 3 Hours         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART- A 
+ (25 Marks) 
+1.a)      What are the differences between independent and dependent sources?  [2] 
+   b)      State and explain the maximum power transfer theorem.    [3] 
+   c)   Define power factor of an a.c circuit.          [2] 
+   d)      The impedance of an electrical circuit is (30 -j50) ohms. Determine (i) the resistance,  
+(ii) the capacitance, and (iii) the magnitude of the impedance, when the circuit is 
+connected to a 240 V, 50 Hz supply.        [3] 
+   e)      Define transformation ratio of transformer.      [2] 
+   f)      What is the working principle of transformer?     [3] 
+   g)      What is the condition for maximum efficiency of a DC machine?   [2] 
+   h)      What are the different types of DC Generators?     [3]  
+   i)       Differentiate gravity and spring control mechanisms used in measuring instruments.
+            [2] 
+   j)       What are the advantages and limitations of MI type instruments.    [3]  
+ 
+PART - B 
+(50 Marks) 
+ 
+2.a)  Using method of superposition, determine the current through the 5kΩ resistors for the 
+circuit in Figure 1 .       
+ 
+ 
+     Figure: 1 
+    b)  Explain the Kirchhoff’s laws.        [6+4] 
+OR 
+ 3.a)   State and explain Thevenin’s theorem.    
+    b)   Determine the current I in the network shown in Figure 2 by using Thevenin’s theorem.
+             [3+7] 
+ 
+Figure: 2 
+ 
+R15 
+JNTUH USED PAPERS-2023
+
+ 
+ 
+ 
+4.   An alternating voltage expressed as i= 14.14 sin (314t+φ) 
+ Determine a) Time period  b) Frequency 
+       c) rms value of current      d) Average value of current 
+        e) peak factor  f) form factor     [10] 
+OR 
+5.  A resistance of 10Ω connected in series with a 50mH inductance across a  
+                       230V, 50Hz supply. 
+Find  a) impedance    b) current  c) power factor      
+         d) Phase angle     e) voltage across resistor and inductor   [10] 
+ 
+6.a)  Describe how the open circuit test is conducted on the single phase transformer.  
+   b)  Explain about transformer regulation.      [7+3] 
+OR 
+7.a)  Explain about various losses of Single phase transformer? How to minimize them? 
+   b)  State the various parts of a transformer and their function.     [6+4] 
+ 
+8.   Explain the working principle of D.C. Motor with neat sketches.   [10] 
+OR 
+9.a)  Three phase induction motor is wound  for four poles and is supplied from 50 Hz 
+supply. Calculate                           
+i) Synchronous speed   
+            ii) the speed of the rotor when the slip is 3% and 
+            iii) the rotor frequency when the speed of the rotor is 900rpm.  
+  b)  Enumerate the different types of losses in a DC motor?            [6+4] 
+ 
+10.a)  Summarize the various effects utilized in different types of measuring Instruments. 
+     b)  Explain the working Principe of repulsion type Moving Iron Instrument.  [5+5] 
+OR 
+11.a)  Explain the working of Moving coil Permanent magnet instruments.  
+b)  What are the different damping mechanisms provided to the measuring instruments? 
+Explain in brief.                 [6+4] 
+ 
+--ooOoo-- 
+JNTUH USED PAPERS-2023
+

@@ -1,0 +1,74 @@
+Code No: 136EV  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, July - 2023 
+DATA STRUCTURES 
+(Common to EEE, CSE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)     What is the time complexity of linear loop and quadratic loop?    [2] 
+   b)     Give the classification of data structures.           [3] 
+   c)     What are the advantages of circular queues compared with linear queue?   [2] 
+   d)     Convert the following infix expression into postfix expression.   [3] 
+            A+B*C/D+E-F+G   
+   e)     Define Max Priority queue.        [2] 
+   f)      Define tree, binary tree and heap tree.      [3] 
+   g)     Compare linear search and binary search.      [2] 
+   h)     Write the time complexity of selection sort, Quick sort and Radix sort.  [3] 
+   i)      Define Red-Black Tree and Splay Tree.      [2] 
+   j)     Construct the binary search tree using the following traversal sequences.  [3] 
+ Inorder Traversal: 10 20 30 100 150 200 300 
+Preorder Traversal: 100 20 10 30 200 150 300 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Write a function to delete an element from the front of the linked list. 
+   b)  Write an algorithm to insert an element at the front of doubly linked list.  [5+5] 
+OR 
+3.a)  Write a function to print transpose of a sparse matrix. 
+   b)  Write a function to concatenate two singly linked lists.    [5+5] 
+  
+4.a)  Write the program to implement operations of stack using linked lists. 
+   b)  Explain insert and delete operations of circular queue.    [5+5] 
+OR 
+5.a)  Write the program to implement operations of queue using arrays. 
+   b)  Write the program to evaluate the postfix expression.    [5+5] 
+ 
+ R16 
+used paper July/Aug-2023
+
+6.a)  Write a procedure to insert an element into binary tree. 
+   b)  Write the traversal sequences of the following Graph using BFS and DFS.  [5+5] 
+ 
+ 
+OR 
+7.a)  Write a function to perform delete operation in max heap. 
+   b)  Write functions to perform the following operations of binary tree: 
+ i) pre order traversal  ii) in order traversal.      [5+5] 
+ 
+8.a)   What is hashing? How hashing can used to insert and search elements into a hash table. 
+   b)  Write a program to implement selection sort.      [5+5] 
+OR 
+9.a)  Write a program to perform quick sort. 
+   b)  Write a program to search for an element using linear search.   [5+5] 
+ 
+10.a)  Write a function to delete an element from a binary search tree. 
+     b)  Explain various rotations of the Red-Black tree.     [5+5] 
+OR 
+11.a)  Write the process to insert and delete an element in AVL Tree. 
+     b)  Explain the procedure to delete an element from B-Tree.    [5+5] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+used paper July/Aug-2023
+

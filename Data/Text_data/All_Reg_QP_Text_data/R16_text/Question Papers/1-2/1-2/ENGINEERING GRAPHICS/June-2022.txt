@@ -1,0 +1,47 @@
+ 
+Code No: 132AE             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, June - 2022 
+ENGINEERING GRAPHICS 
+(Common to EEE, ECE, CSE, EIE, IT) 
+Time: 3 Hours                                  Max. Marks: 75 
+Answer any three questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Construct a cycloid given the diameter of the generating circle as 40. Draw tangent to 
+the curve at a point on it, 35 from the line.      [25] 
+ 
+2. Draw the projection of a regular hexagon o f 25 side having one of its sides in HP and 
+40 in front of VP and its surface making an angle of 450 with HP.    [25] 
+ 
+3. Draw the projection of a square prism, side of base 30 mm and axis 60 long, resting 
+with one of the edges of its base on HP. Its axis is inclined at 30 0 to HP and the top 
+view of the axis is 450 to xy line.        [25] 
+ 
+4. A cylinder of base 80 diameter and axis 110 long, is resting on its base on HP. It has a 
+circular hole of 60 diameter, drilled through centrally such that, the axis of  the hole is 
+perpendicular to VP and bisects the axis of the cylinder at right angles. Develop the 
+lateral surface of the cylinder.        [25] 
+ 
+5. Draw its isometric view shown in (Figure 1). (All dimensions are in mm)  [25] 
+ 
+Figure 1 
+ 
+ 
+ 
+R16 
+JNTUH Used Papers June 22
+
+ 
+6. Draw the front top and side view of the following product. (All dimensions are in mm) 
+(Figure 2)          [25] 
+ 
+ 
+Figure 2 
+ 
+--ooOoo-- 
+ 
+ 
+JNTUH Used Papers June 22
+

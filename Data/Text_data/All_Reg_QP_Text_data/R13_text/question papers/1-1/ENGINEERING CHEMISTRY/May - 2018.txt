@@ -1,0 +1,83 @@
+ 
+ 
+Code No: 111AE      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, May - 2018 
+ENGINEERING CHEMISTRY 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, AME, MIE, 
+PTM, AGE) 
+Time: 3 hours                                      Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.          
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+ 
+ 
+1.a) Write the cell notation for Calomel Electrode.    [2] 
+   b) What is the reason for pitting corrosion to occur?    [3] 
+   c) What are the drawbacks of natural rubber?      [2] 
+   d) Differentiate Plastic and Resin.                                                             [3] 
+   e) What is caustic embrittlement? Write the one preventive method for it. [2]  
+   f) What are the disadvantages of Zeolite process?    [3] 
+   g) Define HCV and LCV and write their inter relationship.   [2] 
+   h) Write composition and uses of LPG and CNG.    [3] 
+   i)  Give the principle of Electrophoreses.                  [2] 
+   j) Mention applications of colloids in industry.                [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) Explain determination of pH by using Calomel electrode. 
+   b) What is a fuel cell? Describe construction and working principle of Hydrogen -Oxygen 
+ fuel cell.          [5+5] 
+OR 
+3.a) Describe mechanism of electrochemical corrosion  by taking Rusting of Iron as an 
+ example.      
+   b) Write a note on sacrificial anodic method.      [6+4] 
+ 
+4.a) Differentiate between addition and condensation polymerization.   
+   b) Give preparation, properties and engineering applications of  
+ i) Nylon:6  ii) Dacron  iii) Bakelite    [4+6] 
+OR 
+5.a) What are conducting polymers write the classification and applications. 
+   b) Give the applications of Nano materials.      [6+4] 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 14-05-2018PM
+
+ 
+ 
+6.a) Explain Ion exchange process for the softening of water. 
+   b) 3.50 ml of a sample water consumed 15 ml of 0.01 EDTA before boiling and 5  ml of the 
+ same EDTA after boiling. Calculate the degree of hardness, permanent hardness and 
+ temporary hardness.         [5+5]  
+OR 
+7.a) Write about Boiler corrosion.        
+   b) Describe various steps involved in domestic water treatment.   [5+5] 
+ 
+8.a) Outline the schematic procedure for synthesis of petrol by Bergius process. 
+   b) Mention the criteria for selecting a good fuel.     [5+5] 
+OR 
+9.a) Explain Ultimate analysis of coal and give its significance. 
+   b) What is cracking? Describe fixed bed catalytic cracking process with a neat diagram. 
+            [5+5]  
+10.a) Explain about phase diagram of lead –silver system?   
+     b) Write about:  
+ i) Advantages and limitations of phase rule.  
+ ii) Application of Pb-Ag system in Pattison’s process.    [5+5] 
+OR 
+11.a) Describe hardening, annealing and normalization. 
+     b) Write a note on Electrical and Optical properties of colloids.   [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 14-05-2018PM
+

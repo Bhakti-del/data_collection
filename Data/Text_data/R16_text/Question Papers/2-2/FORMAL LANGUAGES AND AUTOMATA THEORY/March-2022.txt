@@ -1,0 +1,81 @@
+Code No: 134BD  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, March - 2022 
+FORMAL LANGUAGES AND AUTOMATA THEORY 
+(Common to CSE, IT) 
+Time: 3 Hours             Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Construct a DFA accepting the set of all strings ending with ‘bb’ over Σ={a,b}. 
+   b) Briefly discuss about Finite Automata with Epsilon- Transition. 
+   c) Draw the transition diagram of a FA which accepts all strings of 0’s and 1’s in which
+ the number of 0’s are odd and 1’s are even?                                  [5+5+5] 
+ 
+2.a) Show that the language L = {ww | w ε {a, b}*} is not regular. 
+   b) Write the steps in minimization of FA. 
+   c) Construct finite automata for the regular expression (1*0 +10*).                    [5+5+5] 
+ 
+3.a) Design Push Down Automata for the language  
+L={wwR | w ε (0+1)*}. 
+   b) Convert the following grammar into a PDA that accepts the language by empty stack   
+S →0S1|A 
+A→1A0 |S| ε          [7+8] 
+ 
+4.a) Eliminate ε -productions from the grammar G given as  
+A→ aBb | bBa  
+B→ aB | bB | ε 
+b) Design Turing Machine which will recognize strings containing equal number of 0’s 
+and 1’s.          [7+8] 
+ 
+5.a) Convert the following grammar to Greibach Normal Form : S→ SS | 0S1 | 01 
+   b) Explain Decision properties of Context Free Languages.    [8+7] 
+ 
+6. Write about the following: 
+a) Linear-Bounded Automata  
+b) Recursively enumerable language  
+c) Decidability of PCP.                                    [5+5+5]
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+JNTUH UsedPapers March2022
+
+ 
+ 
+7.a) Let Σ = {0,1} and A,B be the list of 3 strings each. Verify if  PCP given below has a 
+solution or not? 
+ List A List B 
+1 wi xi 
+1 00 0 
+2 001 11 
+3 1000 011 
+ 
+   b) Construct the Regular expression of the following Finite Automata:  [7+8] 
+ 
+ 
+8.a) Explain about the identity rules of Regular Expressions. 
+b) Construct the CFG for the PDA M = ({q 0,q1}, {0,1}, {R,Z 0}, δ, q 0, Z 0, Φ) and δ is 
+given by: 
+δ(q0,1,Z0)=(q0,RZ0)  
+δ(q0,1,R)=(q0,RR)  
+δ(q0,0,R)=(q1,R)  
+δ(q1,0, Z0)=(q0, Z0)  
+δ(q0,ε, Z0)=(q0, ε)  
+δ(q1,1,R)=(q1,ε).         [7+8] 
+ 
+ 
+---ooOoo--- 
+JNTUH UsedPapers March2022
+

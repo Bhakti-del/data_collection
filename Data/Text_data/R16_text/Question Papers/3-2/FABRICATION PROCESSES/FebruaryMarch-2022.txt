@@ -1,0 +1,46 @@
+Code No: 136FB   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February/March - 2022 
+FABRICATION PROCESSES 
+(Common to CE, EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+  
+1.a)  Sketch and explain the working of a crucible furnace. Give its applications. 
+   b)  What are the elements of Gating System? Explain with sketches.   [8+7] 
+  
+2.a)  Explain various stages in investment c asting process using suitable sketches. Also, list 
+the applications of the process. 
+b)  What are the casting defects? Explain the reasons for such defects and suggest suitable   
+remedies.          [8+7] 
+  
+3.a)  Explain the working principle of (i) spot welding (ii) flash butt welding in detail.   
+   b)  Briefly describe the Oxy-Acetylene welding technique with a neat sketch.  [7+8] 
+  
+4.a)  Give the advantages and limitations of TIG welding over MIG welding. 
+   b)  Discuss various destructive and non-destructive methods of testing weld quality. [7+8] 
+ 
+5.a)  Distinguish between punching and blanking operations. Also, design punch and dies 
+used in these operations. 
+   b)  What are the specific merits of cold working over hot working?   [8+7] 
+ 
+6.a)  The shear strength of cold rolled steel is 300 MPa. Determine the punch force required 
+for making a blank of 120 mm diameter from a strip of 3 mm thickness of the above 
+material. What is the theoretical and maximum punch force required? 
+b)  Sketch and explain wire dra wing and Tube drawing processes in detail. Give their 
+applications and advantages.        [6+9] 
+ 
+7.a)  Distinguish between cold and hot extrusion processes. 
+   b)  List out the advantages, disadvantages and limitations of extrusion.   [8+7] 
+  
+8.a) Discuss the effect of friction in open die and closed die forging processes. 
+b)  What is meant by Upset Forging? Sketch and explain it in detail. Mention Forging 
+defects and remedies.         [8+7] 
+  
+ 
+ 
+---ooOoo--- 
+ R16 used paper feb/mar-2022 jntuh
+

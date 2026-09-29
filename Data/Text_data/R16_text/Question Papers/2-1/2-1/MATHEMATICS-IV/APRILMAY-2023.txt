@@ -1,0 +1,113 @@
+Code No: 133BD 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, April/May - 2023 
+MATHEMATICS - IV 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, MMT, AE, MIE, CEE, MSNT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks                
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define analytic function.        [2] 
+   b)      Find the limit of the function
+ .       [3] 
+   c)     Determine the poles of the integral 
+      [2] 
+   d)      Explain about isolated singularity and removable singularity.   [3] 
+   e)      Write the cross ratio of four points 
+ .     [2] 
+   f)      Find u and v values of the bilinear transformation 
+ .   [3] 
+   g)      Define Fourier integral theorem.       [2] 
+   h)     Define the periodic function.         [3] 
+   i)      Write down the one-dimensional wave equation.      [2] 
+   j)      Explain the method of separation of variables.     [3] 
+ 
+PART – B  
+(50 Marks) 
+2.a)  Check the continuity of 
+0
+( ) .
+00
+z if zzfz
+if z
+
+ 
+        
+   b)  Discuss the analyticity of the function 
+ .      [5+5] 
+OR 
+3.a)  Show that 
+  is harmonic and find its harmonic conjugate function.  
+   b)  Using definition of derivative, find 
+ , if it exists for the following function          
+             
+ .           [5+5] 
+ 
+4.a)  Find the residue of 
+  at 
+ .         
+   b)  Evaluate 
+  where C is the circle 
+ .      [5+5] 
+OR 
+5.a)  Evaluate the complex integral 
+  where C is the circle 
+ .     
+   b)  Find the  Taylor’s series expansion for the function 
+ about the           
+ point 
+           [5+5] 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+ 
+6.a)  Using contour integration method prove the integral 
+ .    
+b)  Find the bilinear transformation such that the point z=i is the only fixed point and the     
+point ‘1’ is mapped as ∞.          [5+5] 
+OR 
+7.a)  Discuss fully the transformation 
+ , where c is a real number. What physical                  
+ problem can we study with the help of this transformation?     
+   b)  Evaluate  
+ .          [5+5] 
+ 
+8.a)  Evaluate the Fourier series expansion of 
+  in  
+ .     
+   b)  Find Fourier transform of 
+ .    [5+5] 
+OR 
+9.a)  Find Fourier sine and cosine transform of 
+  in  
+ .    
+   b)  Find Fourier series expansion of 
+      [5+5] 
+ 
+10.a)  Solve the equation by method of separation  of variables 
+    and              
+ 
+ .            
+     b)  Explain the possible solutions of one-dimensional heat equation.     [5+5] 
+OR 
+11.  A tightly stretched string with fixed end points x=0 and x=l is initially in a position 
+given 
+ . If it is released from rest position, find the displacement y at 
+any time and any distance from the end x=0.         [10] 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

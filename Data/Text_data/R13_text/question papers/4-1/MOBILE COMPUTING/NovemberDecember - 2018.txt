@@ -1,0 +1,66 @@
+Code No: 117FN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2018 
+MOBILE COMPUTING 
+ (Computer Science and Engineering) 
+Time: 3 Hour                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+ Part A is compulsory which carries 25 marks. Answer all questions in Part A.             
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+ 
+PART- A 
+ (25 Marks) 
+1.a) What is CSHSD?         [2] 
+   b) What are mobiles devices and list the hardware limitations of them?  [3] 
+   c) Describe shortly on “hidden and exposed terminals scenario” in MAC?  [2] 
+   d) What is DHCP?         [3] 
+   e) What are the advantages of Mobile TCP?      [2] 
+   f) Why traditional TCP is not suitable in mobile computing.    [3] 
+   g) What is skewed disk model?        [2] 
+   h) What is SYNCML?         [3]     
+   i) List the properties of AODV.        [2] 
+   j) State the scenario of Linux for mobile devices.     [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) Define mobile computing and state the novel applications of mobile computing? 
+   b) Draw and explain the mobile computing architecture.    [5+5] 
+OR 
+3. Describe the following GSM concepts  
+ a) Protocols 
+b) Handover          [5+5] 
+ 
+4. Briefly write about SDMA, FDMA, TDMA, CSMA and Wireless LAN.  [10] 
+         OR 
+5. Explain the following Mobile IP Network layer concepts. 
+    a) Tunneling and Encapsulation 
+ b) Route Optimization.        [5+5]  
+ 
+6. Describe about Indirect TCP and Snooping TCP of Mobile Transport layer. [10] 
+OR 
+7. Explain the concept of “Client server computing for mobile computing and adaption” in 
+detail.           [10] 
+ 
+R13 
+JNTUH USED 17-12-18AM Set 2
+
+ 
+ 
+ 
+8. Illustrate about “selective tuning and indexing techniques”.    [10]  
+OR 
+9.  Explain about synchronization software for mobile devices with suitable examples.[10] 
+    
+10. Write about the following. 
+ a) MANET applications   b) AODV.     [5+5] 
+OR 
+11.a) What is XML and write the procedure for parsing XML documents ? 
+     b) Explain the characteristics of symbianOS.      [5+5] 
+  
+ 
+--ooOoo--  
+JNTUH USED 17-12-18AM Set 2
+

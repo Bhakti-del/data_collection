@@ -1,0 +1,82 @@
+Code No: 136AG  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, March - 2024 
+ARTIFICIAL INTELLIGENCE 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)  What are the four categories under which AI is classified?    [2]                         
+   b)  What do you mean by Game Playing?                 [3] 
+   c)  Define well-formed formula.                                                    [2] 
+   d)   What is frames?                                [3] 
+   e)   Write about Expert systems.                                                                          [2]  
+   f)   Why are heuristics crucial for the efficient design of an expert system?                   [3]   
+   g)  What are the basic design issues and approaches to machine learning?  [2] 
+   h)   What is the role of radial basis function in separating nonlinear patterns?          [3]   
+   i)  What is Natural language processing?      [2] 
+   j)  Mention the types of Parsers.                   [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.  Explain in the following detail with examples:  
+            a) Iterative deepening search                                                                           
+            b) Heuristic search.                                                                                           [5+5]    
+OR 
+3.  How to define a problem as state space search? Discuss it with the help of an example.                
+  [10] 
+  
+4.  Describe Knowledge Representation using Semantic Network in detail.                [10]    
+OR 
+5.  Consider the following facts                                        
+a) Team India 
+b) Team Australia 
+c) Final match between India and Australia 
+d) India scored 350 runs, Australia scored 350 runs, India lost 5 wickets, Australia lost 7 
+wickets. 
+e) The team which scored the maximum runs wins. 
+f) If the scores are same the team which lost minimum wickets wins the match. 
+Represent the facts in predicate, convert to clause form and prove by resolution “India 
+wins the match”.                                                                                                     [10] 
+ 
+ 
+ 
+ 
+ R16 
+Used paper March-2024
+
+ 
+6.  Write a short note on:  
+            a) Justification – Based Truth Maintenance Systems   
+            b) Logic – Based Truth Maintenance.                                                  [5+5] 
+OR 
+7.  Explain the phases in Building Expert Systems in detail.                                  [10] 
+ 
+8.a)  Give decision trees to represent the following boolean functions:  
+i) A ˄˜B  
+ii) A V [B ˄ C]  
+iii) A XOR B  
+iv) [A ˄ B] v [C ˄ D]                                                                                          
+   b)  Explain perceptron learning algorithm.                                                        [5+5]     
+OR 
+9.a)  Compare K means clustering with Hierarchical Clustering Techniques.        
+   b)  Differentiate between Supervised, Unsupervised and Reinforcement Learning. [5+5] 
+ 
+10.  Explain how the natural language is processed, with a relevant example.         [10]      
+OR 
+11.  Describe the steps involved in the knowledge engineering process with example.   [10] 
+       
+  
+ 
+ 
+---ooOoo--- 
+Used paper March-2024
+

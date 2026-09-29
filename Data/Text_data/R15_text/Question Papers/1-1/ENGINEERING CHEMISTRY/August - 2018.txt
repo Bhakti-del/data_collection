@@ -1,0 +1,73 @@
+ 
+Code No: 121AE             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, August - 2018 
+ENGINEERING CHEMISTRY 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, AE, MIE, PTM, CEE) 
+Time: 3 hours                                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) What is Pilling-Bedworth rule?       [2]  
+   b) What is Electrochemical series?       [3] 
+   c) Explain why natural rubber need vulcanization.     [2] 
+   d) What is refractory and refractoriness?      [3] 
+   e)      What is priming?How can it be prevented?      [2] 
+   f)       What are the specifications of potable water?     [3]  
+   g) Give the classification of the fuels with suitable examples.      [2]  
+   h) Define gross and net calorific value and give their inter relationship.  [3]  
+   i) What is triple point?         [2] 
+   j) Derive an expression for Freundlich adsorption isotherm.    [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) Give  the mechanism of electrochemical corrosion of iron.              
+   b) What is Concentration cell? Explain with an example.    [5+5] 
+OR 
+3.a) Derive Nernst equation and explain its applications. 
+   b) Discuss the various factors influencing the rate of corrosion.   [5+5] 
+ 
+4.a) What are conducting polymers? Explain the conduction mechanism in polyacetylenes. 
+   b) What is a lubricant? Give the characteristics of good lubricants.    [5+5] 
+OR 
+5.a) How  do you  prepare nanomaterials by chemical vapour deposition  method? 
+   b) What are Biodegradable polymers? Explain their advantages.   [5+5] 
+ 
+6.a) Explain the complexometric method of determination of the hardness of water.                      
+   b) What are Scales and sludges and explain their prevention methods?   [5+5] 
+OR 
+ 
+ 
+ 
+R15 JNTUH USED 16-08-2018AM
+
+ 
+7.a) Calculate the amount of lime and soda required in kg for softening 10,000L of water 
+containing following impurities.  
+Ca(HCO3)2=1.62mg/L, CaSO4=0.34mg/L, NaCl=0.75mg/L, MgCl2=0.95mg/L. 
+   b) What is internal treatment of boiler water? Give an account on calgon conditioning.[5+5] 
+  
+8.a) How is nitrogen determined in a solid fuel? 
+   b) What is flue gas? How is it analysed by Orsats apparatus?    [5+5] 
+OR 
+9.a) How the calorific value of a gaseous fuel is determined by Junker’s gas calorimeter? 
+Explain with a neat diagram. 
+   b) Explain Proximate analysis of coal. How is it different from ultimate analysis? [5+5] 
+  
+10.a) Describe the phase diagram of lead-silver system. 
+     b) Discuss classification and optical properties of colloids.    [5+5] 
+OR 
+11.a) What are the differences between physisorption  and chemisorptions? 
+     b) Explain the phase changes in water system with the help of phase diagram.  [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+JNTUH USED 16-08-2018AM
+

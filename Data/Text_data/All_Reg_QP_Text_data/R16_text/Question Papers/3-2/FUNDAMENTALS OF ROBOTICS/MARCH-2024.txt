@@ -1,0 +1,80 @@
+Code No: 136FC  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, March - 2024 
+FUNDAMENTALS OF ROBOTICS 
+(Common to CE, ECE, CSE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) Differentiate internal and external sensors.      [2] 
+   b)      List out the Components of Industrial robotics-precession.    [3] 
+   c)      List out the advantages of grippers.       [2] 
+   d)      Explain the robot selections based on the application.    [3] 
+   e)      Differentiate Direct and Inverse kinematics for industrial robots.    [2] 
+   f)      Explain about manipulator kinematics.      [3] 
+   g)      Draw the block diagram of trajectory planning.     [2] 
+   h)      Differentiate between path planning and trajectory planning.    [3] 
+   i)       List out the rules to be followed in robot programming.    [2] 
+   j)       List out the various commands used in robot programming.    [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Discuss the applications and working principle of the following sensors. 
+i) Range sensors ii) Acoustic sensors iii) Tactile sensors. 
+   b)  What are the different actuators used in the robots? Describe them briefly.  [5+5] 
+OR 
+3.a)  What are the b asic components of a robotic system? Explain the functions of each of 
+the components with a diagram. 
+   b)  Differentiate between Serial manipulator and Parallel Manipulator.   [5+5] 
+ 
+4.a)  Explain the working of magnet grippers used for robots. 
+   b)  Discuss some of the important considerations in the design of grippers.  [5+5] 
+OR 
+5.a)  Explain the types of gripper mechanisms and force analysis in grippers. 
+   b)  Explain the applications of robots in detail in a manufacturing industry.  [5+5] 
+ 
+6.a)  Derive the forward kinematics equation using the DH convention for the two -link            
+manipulator with one revolute and one prismatic joint. 
+b)  Using the above formula find the motion parameters for the point a (uvw)= (6,2,4) T 
+rotate 300 about the y-axis followed by translation of 6 units along X-axis.  [5+5] 
+OR 
+ 
+ 
+ 
+ 
+ R16 
+Used paper March-2024
+
+ 
+7.a)  Explain the inverse kinematics for any manipulator based on D-H convention. 
+   b)  Compute the basic rotation matrix representing rotation about x-axis by an angle 600.
+            [5+5] 
+ 
+8.a)  A single cubic trajectory given by q (t)= 30+t 2-6t3 is used for a period of 3 seconds.       
+Determine starting and final position, velocity and acceleration of the end-effector. 
+   b)  With block diagram, explain adaptive control system.    [5+5] 
+OR 
+9.a)  Explain a 3-5-3 trajectory plan to represent a pick and place movement for an assembly 
+operation. 
+   b)  Explain the adaptive control optimization with a neat sketch for turning operation. [5+5] 
+ 
+10.a)  Discuss the textural robot language structure with the help of block diagram. 
+b)  What is the need for robot programming? Expla in any one programming language with 
+its salient points.         [5+5] 
+OR 
+11.a)  Explain the safety considerations to be followed while programming robots. 
+     b)  Differentiate between VAL and RAIL robot programming language.  [5+5]
+  
+ 
+ 
+---ooOoo--- 
+Used paper March-2024
+

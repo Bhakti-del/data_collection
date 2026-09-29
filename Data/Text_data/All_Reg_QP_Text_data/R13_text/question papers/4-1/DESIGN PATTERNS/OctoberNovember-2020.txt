@@ -1,0 +1,44 @@
+ 
+Code No: 117CF          
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, October/November - 2020 
+DESIGN PATTERNS 
+(Common to CSE, IT) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.a) How a Design pattern solves the Design problem? Illustrate with an example. 
+   b) Explain in detail object composition with example of Delegation.   [8+7] 
+ 
+2.a) How To Select a Design Pattern? Explain. 
+   b) List and explain Design Pattern Elements.      [7+8] 
+ 
+3.a) List and explain seven problems in Lexis's design. 
+   b) Draw and explain the interaction diagram for the spelling checking.  [7+8] 
+ 
+4.a) The Singleton uses a special method to instant iate objects. What is special about this 
+method? 
+    b) What are the implementation issues of Prototype Design pattern? Discuss.  [8+7] 
+ 
+5.a) Write about Class Adapter Pattern and list the pros and cons of it. 
+   b) Draw and explain the structure of bridge pattern.     [8+7] 
+ 
+6.a) Explain the implementation of Pluggable Adapters with abstract operations. 
+   b) List and explain benefits and drawbacks of bridge pattern.    [8+7] 
+ 
+7.a) What are the Consequences of the Interpreter? Discuss. 
+   b) Write about the implementation issues of Memento pattern.    [8+7] 
+ 
+8.a) Draw and explain strategy pattern Class Diagram for Mobile Computer. 
+   b) Describe the Implementation of State pattern.     [8+7] 
+      
+  
+ 
+--ooOoo-- 
+ 
+ 
+R13 
+JNTUH USED 05-11-2020PM PAPER
+

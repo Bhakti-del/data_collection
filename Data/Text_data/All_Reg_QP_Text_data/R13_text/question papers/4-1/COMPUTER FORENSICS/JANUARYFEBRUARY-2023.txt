@@ -1,0 +1,67 @@
+Code No: 117BW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+ COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)  What is computer forensics?        [2]  
+   b) What are the benefits of professional forensics methodology?   [3] 
+   c)  Define articrafts.         [2]  
+   d)      What is testimonial evidence?       [3]  
+   e)      What are the issues related to validating forensic data?    [2] 
+   f)      How to seize digital evidence at the scene?      [3] 
+   g)      What are the different types of computer forensics tools?    [2] 
+   h)      What are the issues that come under mobile device forensics?   [3]  
+   i)      What is meant by EFS Recovery key Agent?      [2]  
+   j)      What are the advantages and disadvantages of creating a virtual machine?  [3] 
+ 
+PART – B  
+(50 Marks) 
+2.a) Discuss in detail how computer forensics are useful in law enforcement. 
+   b) Elaborate the procedures used for computer evidence processing.   [5+5] 
+OR 
+3.a) List out and discuss computer forensics services. 
+   b) Discuss the solutions for data recovery.      [5+5] 
+ 
+4.a) What are the properties that an evidence must have? Explain them. 
+   b) Describe the steps followed for processing computer evidence.   [5+5] 
+OR 
+5.a) Discuss the methods for collecting evidences. 
+   b) How does Authenticode works in VeriSign Digital IDs?    [5+5] 
+OR 
+6.a) What is Live Acquisition? Explain the steps for performing Live Acquisition. 
+   b) What do you mean by computer forensic analysis? How to understand it?  [5+5] 
+OR 
+7.a) How does Access Data Forensic Toolkit will be useful in analyzing data? 
+   b) In detail, explain the steps for processing law enforcement crime scene.  [5+5] 
+ 
+ 
+R13 
+JNTUH Used papers 2023
+
+ 
+ 
+8.a) What are the tasks performed by computer forensics tools? Discuss. 
+   b) List and explain E-mail crimes and violations.     [5+5] 
+OR 
+9.a) Discuss how to validate and test forensic software using NIST tools. 
+   b) Explain the acquisition procedure for cell phones and mobile devices in detail.  [5+5] 
+ 
+10.a) Describe NTFS Disk structure. 
+     b) Write steps to extract Registry files with Pro Discover Basics.   [5+5] 
+OR 
+11.a) Explain the procedure for understanding whole Disk encryption. 
+     b) Write and explain the steps for creating a virtual machine.    [5+5] 
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

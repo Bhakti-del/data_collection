@@ -1,0 +1,41 @@
+Code No: 117AN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+  ARTIFICIAL INTELLIGENCE 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What are the various components of AI program? Explain.   
+   b) What are various problem characteristics? Explain.     [7+8]  
+ 
+2.a) Demonstrate with an example the working of iterative deepening search algorithm.  
+   b) What is a constraint satisfaction problem? Explain with an example.  [7+8] 
+ 
+3.a) What is an axiomatic system and what are the properties of an axiomatic system?  
+   b) What are the different approaches to knowledge representation? Explain.  [7+8] 
+ 
+4.a) Explain semantic network using an example.   
+b) How do you make inferences using refutation in propositional logic? Explain with an 
+example.          [7+8] 
+ 
+5.a) Give the steps in the construction of an expert system.   
+b) What is a truth maintenance system and what are the components of a truth maintenance 
+system?          [7+8] 
+ 
+6.a) What do you mean by certainty factor? How do you calculate certainty factor?   
+   b) What is an expert system shell? Explain.      [7+8] 
+ 
+7.a) Give an overview of support vector machines.   
+   b) What is a recurrent network? Explain.      [7+8] 
+ 
+8.a) What are the steps in natural language processing? Explain.   
+   b) What is a semantic web? How does it aid in knowledge representation?  [7+8] 
+ 
+---oo0oo--- 
+ 
+R13 
+JNTUH Used Papers
+

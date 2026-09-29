@@ -1,0 +1,86 @@
+Code No: 181AJ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, January/February - 2024 
+  ENGINEERING CHEMISTRY 
+(Common to EEE, CSE, IT, CSIT, CE (SE), CSE (CS), CSE(DS), CSD) 
+Time: 3 Hours                            Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub-questions from all units 
+carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 marks each. 
+From each unit, there are two questions and the student should answer one of them. 
+Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+ (10 Marks) 
+ 
+1.a) What is temporary hardness? Give example.      [1] 
+   b) What is colloidal conditioning?       [1] 
+   c) What are secondary batteries? Give example.     [1] 
+   d) What is the cause of corrosion?       [1] 
+   e)   Write the types of polymerization with examples.     [1] 
+   f)  What is vulcanization?        [1] 
+   g) Write Dulong’s formula.        [1] 
+   h)  Write the composition of CNG.       [1] 
+   i) Define pour point.         [1] 
+   j) Write the applications of polyacryl amides.      [1] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  100 ml of a sample of water required 25 ml of 0.01 M EDTA for the titration using             
+Eriochrome Black-T indicator. Calculate total hardness of water. 
+   b) Explain the desalination of water by Reverse Osmosis method.   [5+5]  
+OR 
+3.a) Explain the determination of F - ion by ion-selective electrode method. 
+   b) Describe the steps involved in the treatment of potable water.   [5+5] 
+  
+4.a) Describe the construction of Lithium-ion battery and mention the chemical reactions             
+involved during charging and discharging. 
+   b) Describe the construction of a methanol-oxygen fuel cell and write its applications. [5+5] 
+OR 
+5.a)  Explain the mechanism of rusting of iron in the presence of a neutral or slightly alkaline 
+medium in the presence of oxygen with a neat diagram and chemical reactions. 
+b) What is the principle involved in cathodic protection? How can you protect the buried             
+pipelines by impressed current method?      [5+5] 
+  
+ 
+R22
+JNTUH USED PAPERS 2024
+
+6.a)  Write the differences between thermoplastic and thermosetting plastics with examples. 
+b)  Write the preparation, properties and applications of Teflon, Butyl rubber and Bakelite. 
+            [5+5] 
+OR 
+7.a) Write the classification of conducting polymers with examples and mention their 
+applications. 
+   b) What are biodegradable polymers? Write the applications of polylactic acid. [5+5] 
+ 
+8.a) Explain the proximate analysis of coal and its significance. 
+b)  Define calorific value, gross and net calorific value. What is the relation between gross and 
+net calorific value.         [5+5] 
+OR 
+9.a) Describe the manufacture of gasoline by Fischer-Tropsch’s method. 
+b)  Explain the process of fractional distillation of crude oil and mention various fractions in 
+the order of their boiling ranges.       [5+5] 
+  
+10.a) Write the chemical composition of Portland cement and describe the functions of its              
+ingredients. 
+     b)  Describe shape memory materials with examples and mention their applications. [5+5] 
+OR 
+11.a) Write the classification of lubricants with examples and mention the characteristics of good 
+lubricants.  
+     b)  Describe the mechanism of thick film lubrication and mention the lubricants used in it. 
+            [5+5] 
+  
+ 
+ 
+---ooOoo---
+ 
+ 
+ 
+ 
+JNTUH USED PAPERS 2024
+

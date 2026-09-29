@@ -1,0 +1,45 @@
+ 
+ 
+ 
+ 
+Code No: 118FD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2022 
+WEB SERVICES 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the Evolution of distributed computing.  
+   b) List and explain the benefits and challenges of using web services.   [7+8] 
+ 
+2.a) Describe the Web services Architecture and its characteristics.  
+   b) Explain the web services communication models.     [8+7] 
+ 
+3.a) Give a brief note on Java and Axis.  
+   b) Discuss the various SOAP message exchange models.                                   [5+10] 
+ 
+4. With the help of neat diagram, explain the SOAP Message Structure.    [15] 
+ 
+5.a) List and explain the limitations of WSDL.  
+   b) What are the elements of WSDL? Explain.      [8+7] 
+ 
+6.a) Discuss the Web Services life cycle.  
+   b) List and explain the WSDL Tools.       [8+7] 
+ 
+7.a) Explain how searching and deletion of information in a UDDI Registry is accomplished.  
+   b) Write the uses of UDDI Registry.       [8+7] 
+ 
+8.a) Discuss the challenges in Web Services Interoperability. 
+   b) Elaborate the Means of ensuring Interoperability.     [8+7] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+R13 
+JNTUH Used Papers
+

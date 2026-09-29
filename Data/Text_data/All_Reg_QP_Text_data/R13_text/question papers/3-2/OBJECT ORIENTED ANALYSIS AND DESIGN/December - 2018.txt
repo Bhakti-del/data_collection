@@ -1,0 +1,81 @@
+ 
+ 
+ 
+Code No: 126EQ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, December - 2018 
+ OBJECT ORIENTED ANALYSIS AND DESIGN 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What is object oriented modeling?       [2] 
+   b) Write the importance of UML.       [3] 
+   c) List the steps for modeling non software things.     [2] 
+   d) Mention the steps for modeling of vocabulary of a system with examples.  [3] 
+   e) Define Interaction and Activity diagram.      [2] 
+   f) Explain about fork and join in activity diagram.     [3] 
+   g) Write about events and signals in behavioral modeling.    [2] 
+   h) Distinguish between component and deployment diagram.    [3] 
+   i) What is a framework? Give an example.      [2] 
+   j) Are UML diagrams necessary in software development? Justify your answer. [3] 
+ 
+PART - B 
+(50 Marks) 
+    
+2.a) Explain about behavioral things of UML in detail.  
+   b) Define modeling. Why do we model? What we can achieve through modeling? [5+5] 
+OR 
+3.a) Briefly explain the principles of modeling in detail.  
+   b) How UML addresses four aims of modeling.      [5+5] 
+  
+4. Explain about the class diagrams with examples in detail.      [10] 
+OR 
+5.a) Discuss different types of relationships in class and object diagrams with examples. 
+   b) Differentiate between classes and object diagrams of UML.    [5+5] 
+  
+6.a) What are the stereo types that can be applied to dependency relat ionships among use 
+cases? Explain in detail the common uses and properties of component diagram.  
+   b) Draw and explain sequence diagram that specifies the flow of control involved in 
+initially a simple two party phone call.      [5+5] 
+OR 
+7. Prepare an activity diagram that elaborates the details of logging into an email system. 
+Explain the steps with a neat diagram.        [10] 
+  
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 24-12-18AMused paper 24-12-2018 AM
+
+ 
+ 
+ 
+ 
+8. Define component. What are the differences between components and classes? How are 
+component and interface related?          [10] 
+OR 
+9. Enumerate the steps to forward engineer and to reverse engineer a deployment diagram.
+              [10] 
+  
+10. Draw and explain sequence diagram for the search facility of the objects  in the library 
+system, so that “Wild Card” characters  can be used when searching for titles, authors, 
+or borrowers.              [10] 
+OR 
+11. Draw a class diagram showing architectural overview of the library system.   [10] 
+ 
+ 
+---oo0oo--- 
+  
+ 
+ 
+JNTUH USED 24-12-18AMused paper 24-12-2018 AM
+

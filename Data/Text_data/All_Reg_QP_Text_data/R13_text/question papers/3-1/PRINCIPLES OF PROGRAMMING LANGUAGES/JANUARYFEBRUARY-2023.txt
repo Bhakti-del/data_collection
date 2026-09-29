@@ -1,0 +1,84 @@
+ 
+ 
+Code No: 115AN           
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, January/February - 2023 
+ PRINCIPLES OF PROGRAMMING LANGUAGES 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question  carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      Specify influences on Language design.      [2] 
+   b)      Illustrate ambiguous grammar with an example.      [3] 
+   c)      Write short notes on guarded commands.      [2] 
+   d)      Compare record and union.        [3] 
+   e)      What are called recursive subprograms?      [2] 
+   f)      Write about generic subprograms in Ada and C++.     [3] 
+   g)      List applications of Logic programming.      [2] 
+   h)      Specify Inference process of prolog.       [3] 
+   i)       Define data abstraction.        [2] 
+   j)       List and summarize module libraries in python.     [3] 
+ 
+PART - B  
+(50 Marks) 
+  
+2.a)  Explain the process of compilation in each phase of a compiler. 
+b)  Define BNF Grammar? How parse tree is generated for grammars? Explain with 
+examples.          [5+5] 
+OR 
+3.a)  Describe the steps involved in the language evaluation criteria. 
+   b)  List and differentiate programming paradigms.     [5+5] 
+  
+4.a)  Explain Categories of Arrays with suitable examples. 
+b) What do you mean by binding and binding time? Describe about various classes of 
+binding times?          [5+5] 
+OR 
+5.a)  Discuss implementation of  expressions and statements in C and C++ with examples. 
+b)  Differentiate between static type checking and dynamic type checking and give their 
+relative advantages.         [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH Used papers 2023
+
+ 
+  
+6.a)  Illustrate stack based implementation of subprograms. 
+   b)  Elaborate design issues of subprograms and operations with example.  [5+5] 
+OR 
+7.a)  Explain about Co-Routines with an example. 
+b)  Discuss about pass-by-result and pass-by-value-result parameter passing methods, with 
+a detailed programming example for each.      [5+5] 
+ 
+8.a)  Illustrate concept of abstraction and encapsulation with suitable examples. 
+b)  Elaborate how message passing helps in concurrency control? Explain with an 
+example.          [5+5] 
+OR 
+9.a)  List and discuss different types of propositions present in logic programming. 
+   b)  Discuss about exception handling in Java with example.    [5+5]
+  
+10.a)  Discuss in detail about Scheme functional programming language. 
+     b)  Give a comparison between functional and imperative languages.   [5+5] 
+OR 
+11.a)  List and discuss in detail about data types in python with examples. 
+     b)  Explain the data objects in LISP.       [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

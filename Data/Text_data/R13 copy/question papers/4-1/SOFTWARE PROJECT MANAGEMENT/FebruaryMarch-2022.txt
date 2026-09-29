@@ -1,0 +1,40 @@
+Code No: 117HP      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+SOFTWARE PROJECT MANAGEMENT 
+ (Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a)  What constitutes a good software cost estimation? Explain. 
+   b)  Write about the expenditure by activity for a conventional software project. [8+7] 
+ 
+2.a)  Explain the risks of conventional software project across its life cycle. 
+   b)  Discuss in detail software project management activities.    [8+7] 
+ 
+3.a)  Summarize the characteristics of a successful object-oriented project. 
+   b)  List and explain various staffing principles for software project.   [8+7]  
+ 
+4.a)  Describe in detail the important trends in improving software economics. 
+   b)  What attribute makes the successful software project manager?   [8+7] 
+ 
+5.a)  Summarizes the differences in emphasis between engineering stage and production stage. 
+   b)  Define Artifact. Write short notes on Engineering Artifacts.    [8+7] 
+ 
+6.a)  Discuss iterative workflows with neat sketch. 
+   b)  List and explain issues of conventional work breakdown structures.   [8+7] 
+ 
+7.a)  Explain in detail seven core metrics of software projects. 
+   b)  Write the basic characteristics of a good software metric.    [8+7] 
+ 
+8.a)  Summarize the key differences in the process primitives for varying levels of stake holder 
+cohesion. 
+   b)  Write in detailed note on next generation cost models.    [8+7] 
+  
+ 
+---ooOoo--- 
+R13 
+JNTUH Used Papers Feb 2022
+

@@ -1,0 +1,36 @@
+Code No: 138BE             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Explain about computers roles in crimes.      [15]  
+ 
+2.a) What are the goals of incident response? 
+   b) Explain about viruses.         [8+7] 
+ 
+3.  Explain the steps to use for data collection from Windows system.   [15] 
+ 
+4.a) What is a restored image? 
+   b) What is a mirror image?        [7+8] 
+ 
+5. Explain the methods for validating forensic data.     [15] 
+ 
+6. Explain the steps in the general procedure for a live acquisition.   [15] 
+ 
+7.   Explain about the tasks performed by digital forensics tools.   [15] 
+ 
+8.a) Explain the examining NTFS disks. 
+   b) What is windows registry?        [8+7] 
+ 
+ 
+---oo0oo--- 
+ 
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

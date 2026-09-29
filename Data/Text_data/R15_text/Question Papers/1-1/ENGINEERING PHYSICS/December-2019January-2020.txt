@@ -1,0 +1,81 @@
+ 
+ 
+Code No: 121AD 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year Examinations, December – 2019/January - 2020 
+ENGINEERING PHYSICS 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, ETM, MMT, AE, AME, MIE, PTM, 
+CEE) 
+Time: 3 hours                                      Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.          
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+1.a) Define Ionic bond.          [2]  
+   b) Explain Burger’s vector.        [3] 
+   c) Name the experiments which supports concept of the dual nature of the light? [2] 
+   d) Draw E-K diagram.          [3] 
+   e) Define Electric Susceptibility.       [2]  
+   f) Explain Meissner Effect.        [3]   
+   g) What is Interference?           [2]   
+   h) Explain Lasing Action.        [3]   
+   i) Explain the term Nano Scale.        [2] 
+   j) Distinguish between Direct and Indirect Band gap semiconductors.    [3] 
+ 
+PART-B 
+ (50 Marks) 
+2.a) Write a note on Hydrogen Bond.  
+   b) Calculate packing factor of BCC.  
+   c) Derive an expression of Bragg’s Law.                [3+3+4] 
+OR 
+3.a) Define Vander-Waal’s Bond.  
+   b) Estimate Cohesive Energy of diatomic molecule. 
+   c) With a diagram explain Powder method.                [2+4+4] 
+ 
+4.a)  Drive an expression of de-Broglie’s hypothesis.  
+   b) Discuss Density of States.  
+   c) What are Matter Waves?                  [4+4+2] 
+OR 
+5.a)  Derive Schrödinger’s Time independent wave equation.  
+   b) Discuss Kronig-Penny Model.  
+   c) Derive an expression of concept of effective mass of an electron.            [3+4+3] 
+ 
+6.a) Derive an equation for Ionic polarizability.  
+   b) What is Hysteresis curve? Explain it using domain theory of ferro magnetism.  
+   c) Distinguish between Anti-Ferro and Ferri magnetic materials.             [4+3+3] 
+OR 
+7.a) Derive an expression of Clausius - Mossotti equation. 
+   b) Distinguish between Soft and Hard Magnetic Materials.  
+   c) What is Ferro- electricity? Explain in details.                [4+3+3] 
+ 
+ 
+ 
+R15 
+JNTUH USED 02-01-2020AM
+
+ 
+ 
+8.a) In detail discuss Newton rings experiment.  
+   b) With neat diagram explain working principle and construction of He-Ne Laser.     [5+5] 
+OR 
+9.a) Explain construction and working of Nicol’s Prism.  
+   b) Write a note on Semiconductor diode laser.             [5+5] 
+   
+10 .a) Explain working principle and construction of LED. 
+      b) What are the factors affecting the architectural acoustics.  
+      c)  Explain the term surface to volume ratio.                [4+3+3] 
+OR 
+11.a) Define Reverberation of Time.  
+     b) Explain working principle of Photo Diode.  
+     c) Write a note on Quantum Confinement.                           [3+4+3] 
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 02-01-2020AM
+

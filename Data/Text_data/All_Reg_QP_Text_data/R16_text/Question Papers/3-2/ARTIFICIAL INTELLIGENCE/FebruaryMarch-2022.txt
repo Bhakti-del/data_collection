@@ -1,0 +1,41 @@
+Code No: 136AG 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ B. Tech III Year II Semester Examinations, February/March - 2022 
+ARTIFICIAL INTELLIGENCE 
+(Computer Science and Engineering) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. What is Alpha Beta pruning? Explain how it works with relevant examples.   [15] 
+ 
+2. Explain briefly about Branch and Bound Technique and nearest neighbor heuristic. [15]  
+              
+3. Write a short note on: 
+  a) Semantic nets 
+  b) Frames 
+c) Scripts 
+d) Conceptual Dependency                                    [4+4+4+3] 
+ 
+4.a) Define syntactic relation of first order logic. Explain use of first order logic to represent 
+knowledge. 
+   b) Discuss inference rules for quantifiers.         [8+7] 
+ 
+5.a) Differentiate between prepositional and predicate logic. 
+   b) Write a short note on single and multi-layer feed forward networks.    [8+7] 
+ 
+6.a) With a neat sketch explain about Expert system architecture. 
+   b) Mention any two applications of Expert systems.        [8+7] 
+ 
+7.a) What is goal of Inductive learning? Explain. 
+   b) Mention design issues of recurrent networks.       [8+7] 
+ 
+8.a) What is universal networking knowledge? Explain. 
+   b) Define NLP. List and explain applications of NLP.     [8+7] 
+ 
+ 
+ 
+---ooOoo--- 
+R16 used paper feb/mar-2022 jntuh
+

@@ -1,0 +1,38 @@
+ 
+Code No: 136CD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester (Special) Examinations, January/February - 2021 
+INFORMATION SECURITY MANAGEMENT (SECURITY ANALYST-I) 
+(Computer Science and Engineering) 
+Time: 2 hours                                                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Write a note on Types of Trojans. 
+b)  What are the procedures an employer has to adopt for protecting confi dential 
+information?          [7+8] 
+ 
+2.  Write in detail about Planning work and work environment.      [15] 
+     
+3.a)  What are Critical information characteristics? 
+   b)  Write a note on Types of communication security.     [7+8] 
+ 
+4.a)  How to Communicate Effectively at Work? 
+   b)  What is the importance of establishing Good Working Relationships?  [7+8] 
+  
+5.  Explain the access control models.              [15] 
+ 
+6.  Explain in detail about database security.        [15] 
+ 
+7.  Explain about security policy implementation.        [15] 
+ 
+8. What are the responsibilities of Security Architect in the information security?   [15] 
+      
+  
+ 
+ 
+---ooOoo--- 
+R16 
+used paper jan-feb-2021
+

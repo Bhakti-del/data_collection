@@ -1,0 +1,41 @@
+Code No: 136CX  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February/March - 2022 
+MOBILE COMPUTING 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain in detail about the General Packet Radio Service (GPRS). 
+   b)  Explain the limitations of mobile and handheld devices.    [8+7] 
+  
+2.a)  What is DECT? Explain. 
+   b)  Explain the services provided by GSM.      [7+8] 
+  
+3.a) Explain in detail about DHCP? 
+   b) Discuss the purpose of IEEE 802.11.       [8+7] 
+  
+4.a)  Explain in brief about FDMA. 
+   b) Explain mechanism for IP packet delivery using mobile IP concept.  [8+7] 
+ 
+5.  Explain the following. 
+a) Snooping TCP. 
+    b) QoS Issues.          [7+8] 
+  
+6.a)  Discuss Push based data delivery mechanism. 
+   b)  Discuss about communication asymmetry with the help of a diagram.  [8+7] 
+  
+7.a)  Discuss about data dissemination. 
+   b)  List out the advantages and dis-advantages of pull based data delivery mechanism.  
+            [7+8] 
+ 
+8.a)  Explain in detail DSDV routing algorithm for MANETS. 
+   b) Draw the Bluetooth protocol stack and explain the core protocols.    [8+7] 
+  
+ 
+ 
+---ooOoo--- 
+ R16 used paper feb/mar-2022 jntuh
+

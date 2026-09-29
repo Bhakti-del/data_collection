@@ -1,0 +1,88 @@
+ 
+ 
+Code No: 131AG 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year I Semester Examinations, May - 2018 
+ENGINEERING CHEMISTRY 
+(Common to EEE, ECE, CSE, EIE, IT, ETM) 
+Time: 3 hours                                      Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.           
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+ 
+1.a) What is the role of buffer in the estimation of hardness of water.   [2] 
+   b) Explain the cause of Caustic embrittlement in boiler and suggest how to control it.[3] 
+   c) Write applications of fuel cells.       [2] 
+   d) Write the Nernst equation and explain the terms.     [3] 
+   e) Name the two natural and two synthetic polymers which are used in textile industry. 
+            [2]  
+   f) PVC is soft and brittle whereas Bakelite is hard and brittle. Give reason.  [3] 
+   g) Why should an ideal fuel have moderate ignition temperature?   [2] 
+   h) Gasoline containing tetra ethyl lead is used in internal combustion engines. Give reasons. 
+            [3] 
+   i) How RUL test is performed for a refractory?      [2] 
+   j) Name the raw materials necessary for the preparation of Portland cement.  [3] 
+ 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2.a)  Explain the steps involved in treatment of sewage water. 
+   b) Explain the principle involved in chlorination and ozonization and write its differences. 
+            [5+5] 
+OR 
+3.a)  With neat diagram discuss Ion exchange process for softening of water. 
+   b) 100ml of a sample of hard water neutralizes exactly 12ml of 0.12N HCl using methyl          
+ orange as indicator. What kind of hardness is present? Express the same in terms of an          
+ equivalent of CaCO3?         [5+5] 
+ 
+4.a) With neat diagram explain the principle, construction and applications of Glass electrode. 
+   b) Differentiate Lithium cell and lithium ion cell.     [5+5] 
+OR 
+5.a)  What is an Electrochemical cell? Explain the construction and reaction s of calomel 
+ electrode. 
+   b) Explain the construction and functioning of Nickel- Cadmium cell.   [5+5] 
+ 
+6.a) What is  Co- polymerization? Explain preparation of Nylon 6:6 and Bakelite. 
+   b) Explain the concept of Biodegradable polymers. Discuss two examples and its 
+ applications.          [5+5] 
+OR 
+ 
+  
+R16 
+JNTUH USED 14-05-2018PM
+
+ 
+ 
+ 
+7.a)  Differentiate  natural rubber and synthetic rubber with suitable examples. 
+   b)  With suitable examples differentiate fibre, plastic and elastomer.   [5+5] 
+ 
+8.a) What is cracking? Describe the process of moving bed catalytic cracking. 
+   b) The percentage composition of coal is C = 89%, O = 4%, N = 0.5%, S = 1 %. Calculate 
+ HCV and percentage of hydrogen of the coal sample.    [5+5] 
+OR 
+9.a)  With neat diagram explain refining of  petroleum. 
+   b)  What is coal? Explain the proximate method for the analysis of coal.  [5+5] 
+ 
+10.a) What are composite? Explain classification and applications of compost materials. 
+     b) What is lubricant? Explain viscosity and cloud and pour points of a lubricating oil. [5+5] 
+OR 
+11.a)   Explain chemical reactions involved in setting and hardening of portland cement. 
+     b)  Write short notes on 
+ i) Refractories     ii) special cements      [5+5] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+JNTUH USED 14-05-2018PM
+

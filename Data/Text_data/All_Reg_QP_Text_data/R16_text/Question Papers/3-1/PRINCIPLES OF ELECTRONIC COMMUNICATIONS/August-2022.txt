@@ -1,0 +1,47 @@
+Code No: 135CX  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August - 2022 
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS 
+(Common to CE, EEE, CSE, EIE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Define modulation and explain the need of modulation. 
+   b)  A carrier with amplitude modulated to a depth of 50% by a sinusoidal, produces                         
+ side band  frequencies of  5.005 MHz and 4.995  MHz. The amplitude of each side                           
+ frequency is 40V. Find the frequency and amplitude of the carrier signal.  [8+7] 
+  
+2.a)  Draw the block diagram and explain generation of AM signal. 
+   b)  A modulating signal is a multi-tone signal given by  
+m(t) = A1 cosw1t+A2cosw2t+A3 cosw3t.  
+The signal m (t) modulates a carrier Ac cosw ct. Plot the signal sided spectrum and find 
+the bandwidth of the modulating signal. Assume that w3>w2>w1 and A3>A2>A1. [8+7] 
+ 
+3.a) Discuss the  effect of modulation index on the band width of FM. Expl ain the           
+generation of WBFM from NBFM with neat sketch. 
+   b)  Compare the pulse modulation systems and continuous modulation systems.       [10+5] 
+ 
+4.a) Draw the PWM waveform and explain the generation. 
+   b)  With block diagram, explain time division multiplexing system.   [8+7] 
+ 
+5.a) Explain the principle of Combination Switching system in Telecommunication. 
+   b)  What are the differences between Space and Time Division Switching?  [9+6] 
+ 
+6.a) Explain hardware required for LAN. 
+   b) What are the differences between LAN, WAN, MAN and Internet?   [8+7] 
+ 
+7.a)    A satellite is in an elliptical orbit with a perigee of 1000km and an apogee of 4000 km.   
+          Using a mean earth radius 6379=8.14 km, find the period of the orbit.  
+   b)  Draw the transmitter and receiver block diagrams of an earth station and explain.[5+10] 
+ 
+8.a)  Explain how Mobile Internet (Mobile IP) protocol works. 
+   b)  Draw domain message format, Domain header format.    [7+8] 
+ 
+ 
+---oo0oo--- 
+ 
+ R16 
+jntuh used paper aug-2022
+

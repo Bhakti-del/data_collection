@@ -1,0 +1,77 @@
+ 
+ 
+ 
+Code No: 118DD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2019 
+MULTIMEDIA AND RICH INTERNET APPLICATIONS  
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      What is multimedia and write its applications?     [2]  
+   b)      Write multimedia file formats.       [3] 
+   c)      What is signal to quantization noise ratio?        [2] 
+   d)      What is HDTV? Write its characteristics.      [3] 
+   e)      What is Vocoder?         [2]  
+   f)       Write the features of Web 2.0.       [3]  
+   g)      List out layouts in flash.         [2]  
+   h)      Explain key frames in flash movie.       [3]  
+   i)       What is Ajax? Write its features.       [2] 
+   j)       What is XHTML? Write its features.       [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) Explain components of multimedia. 
+   b) Give an overview on image data types.      [5+5] 
+OR 
+3.a)  Explain color matching functions in images 
+   b) Explain briefly about multimedia authoring tools.     [5+5] 
+  
+4.a) Discuss about various types of video signals. 
+   b) Explain the structure of MIDI message.      [5+5] 
+OR 
+5.a)  Write Hoffman coding lossless compression algorithm. 
+   b)  Compare linear and non linear quantization.      [5+5] 
+  
+6.a) Explain Major components of MPEG1. 
+   b)  Discuss about Tagging.        [5+5] 
+OR 
+7.a)  Write short notes on VOIP. 
+   b) Explain linear predictive coding.       [5+5] 
+   
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 24-07-2019AM
+
+  
+ 
+8.a)  List out components of Flex 3.0 and explain briefly. 
+   b)  Write steps to create a shape with oval tool in Flash.     [5+5] 
+OR 
+9.a) List out steps to create online form and add online help using Flash. 
+   b)   Explain, how text is animated with tweening process.    [5+5] 
+  
+10.a)   Explain the steps to create a web application using AJAX. 
+     b)  What is Dojo tool kit? Explain in detail.      [5+5] 
+OR 
+11.a) Explain Exception handling mechanism in AJAX. 
+     b)  Write the steps to read web server parameters in application server in AJAX. [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH USED 24-07-2019AM
+

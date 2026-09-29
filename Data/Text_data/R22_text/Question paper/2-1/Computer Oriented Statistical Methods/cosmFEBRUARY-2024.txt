@@ -1,0 +1,99 @@
+Code No: 183AK 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, February - 2024 
+COMPUTER ORIENTED STATISTICAL METHODS 
+(Common to CSE, IT, CSIT, CE(SE), CSE(CS), CSE(DS), CSD) 
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub-questions from all units 
+carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 ma rks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+(10 Marks) 
+ 
+1.a) State addition theorem of probability.      [1] 
+   b) State Baye’s rule.          [1] 
+   c) Show that E(aX+b)= a E(X) +b, where X is a random variable.   [1] 
+   d) Define a Poison distribution and give its mean and variance.   [1] 
+   e)   Define a uniform distribution.        [1] 
+   f)  Discuss the area property of normal distribution.     [1] 
+   g) Define the maximum error of estimation.      [1] 
+   h)  Define t-distribution and give any two of its properties.    [1] 
+   i) Discuss the transition probability in brief.      [1] 
+   j) Describe a first order Markov process.      [1] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.   Two cards are drawn at random from an ordinary deck of 52 cards. What is the 
+ probability of getting two aces if  
+a) the first card is replaced before the second card is drawn;  
+      b) the first card is not replaced before the second card is drawn?   [5+5] 
+OR 
+3.a) The chances that Dr. Rao will diagnose cancer disease correctly is 60%. The chance that 
+a patient will die by his treatment after correct diagnosis is 40% and the chance of death 
+by wrong diagnosis is 70%. A patient of Dr. Rao, who had cancer disease died. What is 
+the probability his disease was correctly diagnosed?      
+b)  If a die is rolled twice and X is defined as X  = min (a,b), then find the probability  
+distribution of X.          [6+4] 
+  
+4. If a coin is tossed 12 times, find the probability of getting  
+a) at least two heads,  
+ b) at most 3 heads, 
+ c) number of heads that lie between 5 and 8.  
+d) all heads and  e) No head.        [10] 
+OR 
+  
+ R22 
+
+ 
+ 
+ 
+5.  Fit a Poisson distribution to the following data.      [10] 
+No. appeared on the die 1 2 3 4 5 6 
+Frequency 40 32 28 58 54 52 
+              
+6.a)  Given a random variable having the normal distribution with mean 16.2 and variance 
+1.5625, find the probabilities that it will take on a value  
+i) greater than 16.8, (ii) between 13.6 and 18.8.        
+   b) State central limit theorem and discuss about its applications.    [6+4] 
+OR 
+7. A population consists of five numbers 2,3,6,8 and 11. Consider all possible samples of 
+size two which can be drawn with replacement from this population. Find    
+a) The mean of the population. 
+b) The standard deviation of the population. 
+c) The mean of the sampling distribution of means and 
+d) The standard deviation of the sampling distribution of means.     [2+3+2+3] 
+     
+8.  An investigator states that the husbands are more intelligent than the wives. The 
+following is the results of 10 samples of IQs. Test a hypothesis with a reasonable test at 
+the 0.05 level of significance.        [10] 
+Husbands 117 105 97 105 123 109 86 78 103 107 
+Wives 106 98 87 104 116 95 90 69 108 85 
+OR 
+9.a) To test the claim that the resistance of electric wire can be reduced by more than                   
+0.050 ohm by alloying, 32 values obtained for standard wire yielded mean of 0.136 ohm 
+and standard deviation 0.004 ohm, and another 32 values obtained for alloyed wire 
+yielded mean 0.083 ohm and standard deviation 0.005 ohm. At 0.05 level of significance, 
+does this support the claim?   
+b)  A cigarette manufacturing firm claims that its brand A line of cigarettes outsells its brand 
+B by 8%. If it is found that 42 out of a sample of 200 smokers prefer brand A and 18 out 
+of another sample of 100 smokers prefer brand B, test whether the 8% difference is a 
+valid claim.           [5+5] 
+  
+10. Describe the first order and higher order Markov process.      [10] 
+OR 
+11. Describe Markov chain, steady state condition, Markov analysis.    [10] 
+ 
+ 
+  
+ 
+ 
+---ooOoo--- 
+ 
+

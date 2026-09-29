@@ -1,0 +1,66 @@
+Code No: 117JU      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, December - 2019 
+BIG DATA ANALYTICS 
+ (Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) What is the importance of syndicate services?     [2]  
+   b)      What is the need of data preprocessing?      [3] 
+   c)      What is a white paper?        [2] 
+   d)      What are emerging trends in knowledge management process?                         [3] 
+   e)      What is descriptive analytics in Big Data Analytics?     [2]  
+   f)       What is the importance of outlier detection?      [3]  
+   g)      What is machine learning?        [2]  
+   h)      Explain about supervised learning.       [3]  
+   i)       Why do we use data visualization?       [2] 
+   j)       What is the role of Tableau in Data Visualization?      [3] 
+ 
+ 
+PART-B  
+(50 Marks) 
+2.a) What constitutes healthy living? Explain. 
+   b) Explain in detail about sources of secondary data.     [5+5] 
+OR 
+3.a) Discuss the definition of ‘accidents and emergencies’ and the events that fall in the 
+category of accidents or emergencies. 
+   b) What are the characteristics of quality data?       [5+5] 
+ 
+4.a) Discuss about missing data imputation in detail. 
+   b) What are standard reporting templates? Give some examples of standardized templates as  
+        used in organizations.         [5+5] 
+OR 
+5.a) Compare Scala and Impala. 
+   b) Explain the Vroom-Yetton-Jago decision model.     [5+5] 
+ 
+6.a) Describe the journey from relational databases to big data. 
+   b) What is CAP theorem? Explain with a neat diagram.    [5+5] 
+OR 
+7.a) Explain concepts of graph databases and columns based databases. 
+   b) Illustrate extract-transform-load process.       [5+5] 
+ 
+ 
+R13 
+JNTUH USED 03-12-19PM
+
+ 
+8.a) What are various types of machine learning tasks? 
+   b) How to explore the chosen algorithms for more accuracy?    [5+5] 
+OR 
+9.a) What is the significance of sampling in prediction? 
+   b) Explain any one statistical method for hypothesis testing.     [5+5] 
+ 
+10. Discuss about enhancing your data and segmenting your data in Tableau.   [10] 
+OR 
+11. Explain about extraction of data and the workspace of Tableau.    [10] 
+  
+ 
+--ooOoo--  
+JNTUH USED 03-12-19PM
+

@@ -1,0 +1,75 @@
+Code No: 133BD 
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, March - 2021 
+MATHEMATICS – IV 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM, CEE, MSNT) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Find the analytic function whose real part is 
+cos sinxxe x y e y y.
+   b) Show that if u is harmonic and  v is a harmonic conjugate of u, then u is a harmonic   
+ conjugate of v.          [7+8] 
+ 
+2.a) Show that the function 𝑥2 + 𝑖𝑦3 is not analytic anywhere. Reconcile this with the fact 
+that the Cauchy–Riemann equations are satisfied at 𝑥 = 0, 𝑦 = 0.     
+   b) Evaluate     3𝑥 + 𝑦 𝑑𝑥 +  2𝑦 − 𝑥 𝑑𝑦
+ 2,5 
+ 0,1  along:  
+i) the curve 𝑦 = 𝑥2 + 1, 
+  ii) the straight line joining (0, 1) and (2, 5),  
+iii) the straight lines from (0, 1) to (0, 5).      [7+8] 
+ 
+3.a) Integrate counterclockwise around the unit circle.  Indicate whether Cauchy’s integral 
+theorem applies. Show the details. 
+𝑓 𝑧 = 𝑧3    
+ 𝑓 𝑧 = 𝑡𝑎𝑛 1/4𝑧           
+   b) Integrate by Cauchy’s integral formula 𝑧2/ 𝑧2 − 1  counter clockwise around the circles 
+             𝑧 + 1 = 1  and   𝑧 + 1 − 𝑖 = π/2.       [8+7] 
+ 
+4.a) Find the Taylor series with center z0 and find  its radius of convergence.  
+ 1/ 1 − 𝑧 ,    𝑧0 = 𝑖. 
+b) Find the Laurent series that converges for  0 <  𝑧 −    𝑧0 < 𝑅 and determine the precise 
+region of convergence. Show the details 
+𝑒𝑧
+ 𝑧−1 2 ,  𝑧0 = 1.    [8+7]  
+ 
+5.a) Find all the singularities in the finite plane and the corresponding residues  
+𝑠𝑖𝑛 2𝑧
+𝑧 6  
+   b) Evaluate counterclockwise  𝑒1/𝑧𝑑𝑧𝑐 𝐶: the unit circle.    [8+7] 
+ 
+6. Evaluate the following: 
+a)  
+𝑠𝑖𝑛2θ
+ 5−4𝑐𝑜𝑠θ 
+2π
+0  𝑑θ   
+    b)  
+𝑑𝑥
+ 1+𝑥 2 3
+∞
+0           [8+7] 
+  
+R16 
+Used Papers 08-03-21AM
+
+7.a) Is the given function even or odd or neither even nor odd? Find its Fourier series. 
+   𝑓 𝑥 = 𝑥2,  −1 < 𝑥 < 1 , 𝑝 = 2 
+And hence show that  1/6 π2 = 1 + 1/4 + 1/9 + 1/16 ….    
+   b) Find the cosine transform of 𝑓𝑐  𝑤  of  
+            𝑓 𝑥 = 1   if    0 < 𝑥 < 1 
+            𝑓 𝑥 = −1 if    1 < 𝑥 < 2 
+            𝑓 𝑥 = 0     𝑖𝑓     𝑥 > 2        [8+7] 
+ 
+8. Find the deflection 𝑢 𝑥, 𝑡  for the string of length L and 𝑐2 = 1 when the initial velocity  
+ is zero and the initial deflection with small k (say, 0.01) is 𝑘 𝑠𝑖𝑛π𝑥 −  1/2 𝑠𝑖𝑛2π𝑥 . 
+            [15] 
+ 
+---ooOoo--- 
+ 
+ 
+Used Papers 08-03-21AM
+

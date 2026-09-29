@@ -1,0 +1,40 @@
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                      Max. Marks: 75 
+Answer any Five Questions 
+All Questions Carry Equal Marks 
+- - - 
+1. Explain in detail about Information Security Methodologies (Black -box, White -box and 
+Grey Box).          [15] 
+ 
+2.a) What are Security Metrics and Reporting? Explain Common Issues and Variances of 
+Performance Metrics.                                                                                                            
+   b) List out Ethics of an Information Security Auditor.      [8+7] 
+    
+ 
+3.a) What is Pre -audit Checklist? Explain in detail about Information Gathering and 
+Vulnerability analysis.            
+   b) Write a detailed note on Firewall Security Audit.      [8+7] 
+ 
+4.a) Explain in detail about IDS Security Auditing. 
+   b) Explain in detail about Post Auditing Actions and Report Retention.  [7+8] 
+ 
+5. What is Vulnerabili ty Management? List out and explain various Threats and 
+Vulnerabilities of Information Security.      [15] 
+ 
+6. Write a detailed note about the following: 
+       a) Vulnerability Scanning b) Threat Management c) Remediation [5+5+5] 
+ 
+7. What is Vulnerability  Assessment? Explain its Classification and list out the 
+Characteristics of a Good Vulnerability Assessment Solutions and Considerations.[15] 
+ 
+8. Explain in detail Configuration Management Requirements-Plan-Control.  [15] 
+ 
+ 
+--ooOoo-- 
+ 
+R13 JNTUH Used Papers Feb 2022
+
