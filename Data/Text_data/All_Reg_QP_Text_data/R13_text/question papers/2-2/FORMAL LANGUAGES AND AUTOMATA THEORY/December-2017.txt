@@ -1,0 +1,111 @@
+Code No: 114AG 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, December - 2017 
+FORMAL LANGUAGES AND AUTOMATA THEORY 
+(Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Define Transition diagram.       [2]  
+   b)      Explain about ɛ-closure().       [3] 
+   c)      Write a short note on Derivation Tree.        [2] 
+   d)      Explain Rightmost Derivation with an example.    [3] 
+   e)      Define Chomsky Normal Form.       [2]  
+   f)       Design Push Down Automata for L = {a2nbn | n ≥ 1}.   [3]  
+   g)      Write a short note on Church’s hypothesis.     [2]  
+   h)      Write a short note on Recursively Enumerable languages.   [3]  
+   i)       Write about decidability of problems.     [2] 
+   j)       Define NP-complete problems.      [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) Convert the Moore machine to determine residue mod 3 into Mealy machine. 
+   b) Construct the minimum state automata for the following.   [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+OR 
+3.a) Convert the following NFA with ε to equivalent DFA: 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+b) Design NFA accepting string with a’s and b’s such that string containing two 
+consecutive a’s or two consecutive b’s.     [5+5] 
+  
+ 0 1 
+→A B C 
+B B C 
+C B C 
+D B E 
+E B C 
+ a b ε 
+→P Φ P Q 
+Q Q Φ R 
+R Q P Φ 
+R15 R13 
+JNTUH USED 16-12-2017AM
+
+ 
+4.a) For the following grammar give the leftmost and rightmost derivation  for the 
+string ‘00101’. 
+  S → A1B 
+  A → 0A / ε 
+ B → 0B / 1B / ε 
+   b) Prove that the following language {anbn | n ≥ 1} is not a regular.  [5+5] 
+OR 
+5.a) Write a R.E. for the following DFA: 
+ 
+   b) Construct the right linear grammar for the language (0+1)*00(0+1)*. [5+5] 
+ 
+6.a) Convert the following grammar to Greibach Normal Form 
+ S→ABA | AB | BA | AA | B 
+ A→aA | a 
+ B→bB | b 
+b) Convert the following Con text Free Grammar into Chomsky Normal Form  
+S→aaaaS | aaaa        [5+5] 
+OR 
+7.a) Reduce the following grammar such that there are no UNIT productions 
+  S → AA 
+  A → B | BB 
+ B → abB | b | bb 
+b) Construct CFG for the PDA M =  ({q0,q1}, {0,1}, {R,Z 0}, δ, q 0, Z 0, Φ) and δ is 
+given by 
+ δ(q0,1,Z0)=(q0,RZ0) 
+ δ(q0,1,R)=(q0,RR) 
+ δ(q0,0,R)=(q1,R)  
+ δ(q1,0, Z0)=(q0, Z0) 
+ δ(q0,ε, Z0)=(q0,ε) 
+ δ(q1,1,R)=(q1,ε)        [5+5] 
+  
+8.a) Design a TM to recognize the language L= {0n1n0n | n ≥ 1}. 
+b) Design TM which will recognize  strings containing equal number of a's and b's . 
+                 [5+5] 
+OR 
+9.a) Design a TM to accept the  language L= {w c wR | w ε (a+b)*}. 
+   b) Design a TM to recognize all strings consisting of odd number of 1's. [5+5] 
+  
+10.a) Give the closure properties of deterministic context free languages. 
+     b) What are undecidable problems? Give example.    [5+5] 
+OR 
+11.a) Give definitions of P and NP problems. 
+     b) Explain TM halting problem.       [5+5] 
+---ooOoo--- 
+JNTUH USED 16-12-2017AM
+

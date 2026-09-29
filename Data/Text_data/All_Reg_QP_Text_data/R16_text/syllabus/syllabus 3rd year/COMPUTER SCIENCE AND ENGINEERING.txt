@@ -1,0 +1,1457 @@
+R16 B.TECH CSE. 
+ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ 
+B.TECH. COMPUTER SCIENCE AND ENGINEERING 
+III YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+III YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 CS501PC Design and Analysis of Algorithms 4 0 0 4 
+2 CS502PC Data Communication and Computer Networks 4 0 0 4 
+3 CS503PC Software Engineering 4 0 0 4 
+4 SM504MS Fundamentals of Management 3 0 0 3 
+5  Open Elective –I 3 0 0 3 
+6 CS505PC Design and Analysis of Algorithms Lab 0 0 3 2 
+7 CS506PC Computer Networks Lab 0 0 3 2 
+8 CS507PC Software Engineering  Lab  0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits  21 0 9 24 
+ 
+III YEAR II SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 CS601PC Compiler Design 4 0 0 4 
+2 CS602PC Web Technologies 4 0 0 4 
+3 CS603PC Cryptography and Network Security 4 0 0 4 
+4  Open Elective-II 3 0 0 3 
+5  Professional Elective-I 3 0 0 3 
+6 CS604PC  Cryptography and Network Security Lab 0 0 3 2 
+7 CS605PC  Web Technologies Lab 0 0 3 2 
+8 EN606HS  Advanced English Communication Skills Lab 0 0 3 2 
+  Total Credits 18 0 9 24 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+  
+
+R16 B.TECH CSE. 
+ 
+Professional Elective – I 
+ 
+CS611PE 
+CS612PE 
+CS613PE 
+CS614PE 
+CS615PE 
+Mobile Computing 
+Design Patterns 
+Artificial Intelligence 
+Information Security Management (Security Analyst - I) 
+Introduction to Analytics (Associate Analytics - I) 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+  
+
+R16 B.TECH CSE. 
+ 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS501PC                          4     0    0    4 
+ 
+Course Objectives 
+ To analyze performance of algorithms. 
+ To choose the appropriate data structure and algorithm design method for a specified 
+application. 
+ To understand how the choice of data structures and algorithm design methods 
+impacts the performance of programs. 
+ To solve problems using algorithm design methods such as the greedy method, divide 
+and conquer, dynamic programming, backtracking and branch and bound. 
+ To understand the differences between tractable and intractable problems. 
+ To introduce P and NP classes. 
+ 
+Course Outcomes: 
+ Ability to analyze the performance of algorithms. 
+ Ability to choose appropriate algorithm design techniques for solving problems. 
+ Ability to understand how the choice of data structures and the algorithm design 
+methods impact the performance of programs. 
+ 
+UNIT - I 
+Introduction-Algorithm definition, Algorithm Specification, Performance Analysis -Space 
+complexity, Time complexity, Randomized Algorithms. 
+Divide and conquer - General method, applications - Binary search, Merge sort, Quick sort, 
+Strassen’s Matrix Multiplication.  
+ 
+UNIT - II 
+Disjoint set operations, union and find algorithms, AND/OR graphs, Connected Components 
+and Spanning trees, Bi -connected components Backtracking-General method, applications -
+The 8-queen problem, sum of subsets problem, graph coloring, Hamiltonian cycles.  
+ 
+UNIT - III 
+Greedy method - General method, applications - Knapsack problem, Job sequencing with 
+deadlines, Minimum cost spanning trees, Single source shortest path problem. 
+ 
+UNIT - IV 
+Dynamic Programming- General Method, applications- Chained matrix m ultiplication, All 
+pairs shortest path problem, Optimal binary search trees, 0/1 knapsack problem, Reliability 
+design, Traveling sales person problem. 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - V 
+Branch and Bound - General Method, applications-0/1 Knapsack problem, LC Branch and 
+Bound solution, FIFO Branch and Bound solution, Traveling sales person problem.  
+NP-Hard and NP-Complete problems- Basic concepts, Non-deterministic algorithms, NP - 
+Hard and NP- Complete classes, Cook’s theorem.  
+ 
+TEXT BOOKS: 
+1. Fundamentals of Computer Algorithms, 2nd  Edition, Ellis Horowitz, Sartaj Sahni and 
+S. Rajasekharan, Universities Press. 
+2. Design and Analysis of Algorithms, P. H. Dave, H.B.Dave,2 nd edition, Pearson 
+Education. 
+ 
+REFERENCE BOOKS 
+1. Algorithm Design: Foundations, Analysis and Internet examples, M. T. Goodrich and 
+R. Tomassia, John Wiley and sons. 
+2. Design and Analysis of Algorithms, S. Sridhar, Oxford Univ. Press  
+3. Design and Analysis of algorithms, Aho, Ullman and Hopcroft, Pearson Education. 
+4. Foundations of Algorithms,, R. Neapolitan and K. Naimipour, 4 th edition, Jones and 
+Bartlett Student edition. 
+5. Introduction to Algorithms,3 rd Edition, T. H. Cormen, C. E.Leiserson, R . L. Rivest, 
+and C. Stein, PHI  
+
+R16 B.TECH CSE. 
+ 
+DATA COMMUNICATION AND COMPUTER NETWORKS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS502PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To introduce the fundamental various types of computer networks. 
+ To demonstrate the TCP/IP and OSI models with merits and demerits. 
+ To explore the various layers of OSI Model. 
+ To introduce UDP and TCP Models. 
+ 
+Course Outcomes: 
+ Students should be understand and explore the basics of Computer Networks and 
+Various Protocols. He/She will be in a position to understand the World Wide Web 
+concepts. 
+ Students will be in a position to administrate a network and flow of information 
+further he/she can understand easily the concepts of network security, Mobile and ad 
+hoc networks. 
+ 
+UNIT – I  
+Data Communications : Components – Direction of Data flow – Networks – Components 
+and Categories – Types of Connections – Topologies –Protocols and Standards – ISO / OSI 
+model, Example Networks such as ATM, Frame Relay, ISDN Physical layer: Transmission 
+modes, Multiplexing, Transmission Media, Switching, Circuit Switched Networks, Dat agram 
+Networks, Virtual Circuit Networks.  
+ 
+UNIT – II  
+Data link layer: Introduction, Framing, and Error – Detection and Correction – Parity – LRC 
+– CRC Hamming code, Flow and Error Control, Noiseless Channels, Noisy Channels, 
+HDLC, Point to Point Protocol s. 111 Medium Access sub layer: ALOHA, CSMA/CD, LAN 
+– Ethernet IEEE 802.3, IEEE 802.5 – IEEE 802.11, Random access, Controlled access, 
+Channelization.  
+ 
+UNIT – III  
+Network layer: Logical Addressing, Internetworking, Tunneling, Address mapping, ICMP, 
+IGMP, Forwarding, Uni-Cast Routing Protocols, Multicast Routing Protocols.  
+ 
+UNIT – IV  
+Transport Layer : Process to Process Delivery, UDP and TCP protocols, Data Traffic, 
+Congestion, Congestion Control, QoS, Integrated Services, Differentiated Services, QoS in 
+Switched Networks.  
+ 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT – V  
+Application Layer:  Domain name space, DNS in internet, electronic mail, SMTP, FTP, 
+WWW, HTTP, SNMP.  
+ 
+TEXT BOOKS:  
+1. Data Communications and Networking, Behrouz A. Forouzan , Fourth Edition TMH,  
+2006.  
+2. Computer Networks, Andrew S Tanenbaum, 4th Edition. Pearson Education, PHI.  
+ 
+REFERENCES:  
+1. Data communications and Computer Networks, P.C .Gupta, PHI.  
+2. An Engineering Approach to Computer Networks, S.  Keshav, 2 nd Edition, Pearson 
+Education.  
+3. Understanding communications and Networks, 3 rd Edition, W.A. Shay, Cengage 
+Learning.  
+4. Computer Networking: A Top -Down Approach Featuring the Internet. James F. 
+Kurose & Keith W. Ross, 3 rd Edition, Pearson Education.  
+5. Data and Computer Communication, William Stallings, Sixth Edition, Pear son 
+Education, 2000 
+
+R16 B.TECH CSE. 
+ 
+SOFTWARE ENGINEERING 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS503PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To understanding of software process models such as waterfall and evolutionary 
+models. 
+ To understanding of software requirements and SRS document. 
+ To understanding of different software architectural styles. 
+ To understanding of software testing approaches such as unit testing and integration 
+testing. 
+ To understanding on quality control and how to ensure good quality software. 
+ 
+Course Outcomes: 
+ Ability to identify the minimum requirements for the development of application. 
+ Ability to develop, maintain, efficient, reliable and cost effective software solutions  
+ Ability to critically thinking and evaluate assumptions and arguments. 
+ 
+UNIT- I 
+Introduction to Software Engineering: The evolving role of software, Changing Nature of 
+Software, legacy software, Software myths. 
+A Generic view of process: Software engine ering- A layered technology, a process 
+framework, The Capability Maturity Model Integration (CMMI), Process patterns, process 
+assessment, personal and team process models. 
+Process models: The waterfall model, Incremental process models, Evolutionary proces s 
+models, Specialized process models, The Unified process. 
+ 
+UNIT- II 
+Software Requirements: Functional and non -functional requirements, User requirements, 
+System requirements, Interface specification, the software requirements document. 
+Requirements engineering process: Feasibility studies, Requirements elicitation and analysis, 
+Requirements validation, Requirements management. 
+System models: Context Models, Behavioral models, Data models, Object models, structured 
+methods. 
+ 
+UNIT- III 
+Design Engineering: Design process and Design quality, Design concepts, the design model, 
+pattern based software design. 
+Creating an architectural design: software architecture, Data design, Architectural styles and 
+patterns, Architectural Design, assessing alternative ar chitectural designs, mapping data flow 
+into a software architecture. 
+
+R16 B.TECH CSE. 
+ 
+Modeling component -level design : Designing class -based components, conducting 
+component-level design, object constraint language, designing conventional components. 
+Performing User interface design: Golden rules, User interface analysis, and design, interface 
+analysis, interface design steps, Design evaluation. 
+ 
+UNIT- IV 
+Testing Strategies: A strategic approach to software testing, test strategies for conventional 
+software, Black -Box and W hite-Box testing, Validation testing, System testing, the art of 
+Debugging. 
+Product metrics: Software Quality, Frame work for Product metrics, Metrics for Analysis 
+Model, Metrics for Design Model, Metrics for source code, Metrics for testing, Metrics for 
+maintenance.  
+Metrics for Process and Products: Software Measurement, Metrics for software quality. 
+ 
+UNIT- V 
+Risk management: Reactive vs Proactive Risk strategies, software risks, Risk identification, 
+Risk projection, Risk refinement, RMMM, RMMM Plan. 
+Quality Management: Quality concepts, Software quality assurance, Software Reviews, 
+Formal technical reviews, Statistical Software quality Assurance, Software reliability, The 
+ISO 9000 quality standards. 
+ 
+TEXT BOOKS: 
+1. Software engineering A practitioner’s Appro ach, Roger S Pressman, sixth edition 
+McGraw Hill International Edition. 
+2. Software Engineering, Ian Sommerville, seventh edition, Pearson education. 
+ 
+REFERENCE BOOKS: 
+1. Software Engineering, A Precise Approach, Pankaj Jalote, Wiley India, 2010. 
+2. Software Engineering : A Primer, Waman S Jawadekar, Tata McGraw-Hill, 2008 
+3. Fundamentals of Software Engineering, Rajib Mall, PHI, 2005 
+4. Software Engineering, Principles and Practices, Deepak Jain, Oxford University 
+Press. 
+5. Software Engineering1: Abstraction and modeling, Diner Bjorner, Springer 
+International edition, 2006. 
+6. Software Engineering2: Specification of systems and languages, Diner Bjorner, 
+Springer International edition 2006. 
+7. Software Engineering Foundations, Yingxu Wang, Auerbach Publications, 2008. 
+8. Software Engineering Principles and Practice, Hans Van Vliet,  3rd edition, John 
+Wiley &Sons Ltd. 
+9. Software Engineering 3:  Domains, Requirements, and Software Design, D.  Bjorner, 
+Springer International Edition. 
+10. Introduction to Software Engineering, R. J. Leach, CRC Press. 
+
+R16 B.TECH CSE. 
+ 
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To u nderstand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing , Leading, 
+Motivation and Control aspects are learnt  in this course . The students can explore the 
+Management Practices in their domain area. 
+  
+UNIT - I 
+Introduction to Management : Definition, Nature and Scope , Functions, Managerial Roles, 
+Levels of Managem ent, Managerial Skills, Challenges of M anagement; Evolution of 
+Management- Classical Approach - Scientific and Administrative M anagement; The 
+Behavioral approach; The Quantitative approach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT - II 
+Planning and Decision Making: General Framework for Planning - Planning Process, Types 
+of Plans, Management by Objectives; Development of Business Strategy. Decision making 
+and Problem Solving - Programmed and Non Programmed Decisions, Steps in Problem 
+Solving and Decision Making; Bounded Rationality and Influences on Decision Making; 
+Group Problem Solving and Decision Making, Creativity and Innovation in Managerial 
+Work.  
+ 
+UNIT - III 
+Organization and HRM:  Principles of Organization: Organizational Desig n & 
+Organizational Structures; Departmentalization, Delegation; Empowerment, Centralization, 
+Decentralization, Recentralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent  Management, Talent 
+Management Models and Strategic Human Resource Planning; Recruitment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT - IV 
+Leading and Motivation: Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situational Leadership, Leadership Skills, Leader as Mentor and Coach, 
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH CSE. 
+ 
+Motivation - Types of Motivation; Relationship between Motivation, Performance  and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor Theory, 
+Theory X and Theory Y. 
+ 
+UNIT - V 
+Controlling: Control, Types and Strategies for Control, Steps in Control Process, Budgetary 
+and Non - Budgetary Controls. Characteri stics of Effective Controls, Establishing control 
+systems, Control frequency and Methods.  
+ 
+Text Books:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+References:  
+1. Essentials of Management, Koontz Kleihrich, Tata McGraw Hill.  
+2. Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012. 
+
+R16 B.TECH CSE. 
+ 
+DESIGN AND ANALYSIS OF ALGORITHMS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS505PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To write programs in java to solve problems using divide and conquer strategy. 
+ To write programs in java to solve problems using backtracking strategy. 
+ To write programs in java to solve problems using greedy and dynamic programming 
+techniques. 
+ 
+Course Outcomes: 
+ Ability to write programs in java to solve problems using algorithm design techniques 
+such as Divide and Conquer, Greedy, Dynamic programming, and Backtracking. 
+ 
+List of Experiments: 
+ 
+1. Write a java program to implement Quick sort algorithm for sorting a list of integers 
+in ascending order  
+2. Write a java program to implement Merge sort algorithm for sorting a list of integers 
+in ascending order. 
+3. i) Write a java program to implement the dfs algorithm for a graph. 
+4. ii) Write a. java program to implement the bfs algorithm for a graph. 
+5. Write a  java programs to implement backtracking  algorithm for  the N -queens 
+problem. 
+6. Write a java program to implement the backtracking algorithm for the sum of  subsets 
+problem. 
+7. Write a java program to implement the backtracking algorithm for the Hamiltonian 
+Circuits problem. 
+8. Write a java program to implement greedy algorithm for job sequencing with 
+deadlines. 
+9. Write a java program to implement Dijkstra’s algorithm for the Single source shortest 
+path problem. 
+10. Write a java program that implements Prim’s algorithm to generate minimum cost 
+spanning tree. 
+11. Write a java program that implements Kruskal’s algorithm to generate minimum cost 
+spanning tree 
+12. Write a java program to implement Floyd’s algorithm for the all pairs shortest path 
+problem. 
+13. Write a java  program to implement Dynamic Programming algorithm for the 0/1 
+Knapsack problem. 
+14. Write a java program to implement Dynamic Programming algorithm  for the Optimal 
+Binary Search Tree  Problem. 
+ 
+
+R16 B.TECH CSE. 
+ 
+REFERENCE BOOKS  
+1. Data structures, Algorithms and Applications in java, 2nd Edition, S. Sahani, 
+Universities Press. 
+2. Data structures and Algorithms in java, 3rd edition, A. Drozdek, Cengage Learning. 
+3. Data structures with Java, J. R. Hubbard, 2nd edition, Schaum’s Outlines, TMH. 
+4. Data structures and algorithms in Java, 2nd Edition, R. Lafore, Pearson Education.  
+5. Data Structures using Java, D. S. Malik and P.S. Nair, Cengage Learning. 
+
+R16 B.TECH CSE. 
+ 
+COMPUTER NETWORKS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS506PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To Understand the functionalities of various layers of OSI model 
+ To understand the operating System functionalities 
+ 
+Course Outcomes: 
+ Ability to understand the encryption and decryption concepts in Linux environment 
+ Ability to apply appropriate algorithm for the finding of shortest route. 
+ Ability to configure the routing table 
+ 
+System/ Software Requirement 
+ Intel based desktop PCs LAN CONNECTED with minimum of 166 MHZ or faster 
+processor with at least 64 MB RAM and 100 MB free disk space  
+ 
+Computer Networks Lab: 
+1. Implement the data link layer framing methods such as character, character stuffing, 
+and bit stuffing. 
+2. Implement on a data set of characters the three CRC polynomials – CRC 12, CRC 16 
+and CRC CCIP . 
+3. Implement Dijkstra‘s algorithm to compute the Shortest path thru a graph. 
+4. Take an example subnet graph with weights indicating delay between nodes. Now 
+obtain Routing table art each node using distance vector routing algorithm 
+5. Take an example subnet of hosts. Obtain broadcast tree for it. 
+6. Take a 64 bit playing text and encrypt the same using DES algorithm. 
+7. Write a program to break the above DES coding 
+8. Using RSA algorithm encrypts a text data and Decrypt the same. 
+
+R16 B.TECH CSE. 
+ 
+SOFTWARE ENGINEERING LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS507PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To understand the software engineering methodologies involved in the phases for 
+project development. 
+ To gain knowledge about open source tools used for implementing software 
+engineering methods. 
+ To exercise developing product-startups implementing software engineering methods. 
+ Open source Tools: StarUML / UMLGraph / Topcased 
+ 
+Prepare the following documents and develop the software project startup, prototype model, 
+using software engineering methodology for at least two real time scenarios or for the sample 
+experiments. 
+ 
+ Problem Analysis and Project Planning -Thorough study of the problem – Identify 
+Project scope, Objectives and Infrastructure. 
+ 
+ Software Requirement An alysis – Describe the individual Phases/modules of the 
+project and Identify deliverables. Identify functional and non-functional requirements. 
+ 
+ Data Modeling – Use work products – data dictionary.  
+ 
+ Software Designing - Develop use case diagrams and activity diagrams, build and test 
+class diagrams, sequence diagrams and add interface to class diagrams. 
+ 
+ Prototype model – Develop the prototype of the product.  
+ 
+The SRS and prototype model should be submitted for end semester examination. 
+ 
+List of Sample Experiments: 
+ 
+1. Course management system (CMS) 
+A course management system  (CMS) is a collection of software tools providing an online 
+environment for course interactions. A CMS typically includes a variety of online tools and 
+environments, such as: 
+ An area for faculty posting of class materials such as course syllabus and handouts 
+ An area for student posting of papers and other assignments 
+ A grade book where faculty can record grades and each student can view his or her 
+grades 
+ An integrated email tool allowi ng participants to send announcement email messages 
+to the entire class or to a subset of the entire class 
+ A chat tool allowing synchronous communication among class participants 
+
+R16 B.TECH CSE. 
+ 
+ A threaded discussion board allowing asynchronous communication among 
+participants 
+ 
+In addition, a CMS is typically integrated with other databases in the university so that 
+students enrolled in a particular course are automatically registered in the CMS as 
+participants in that course. 
+ 
+The Course Management System (CMS) is a web a pplication for department personnel, 
+Academic Senate, and Registrar staff to view, enter, and manage course information formerly 
+submitted via paper. 
+Departments can use CMS to create new course proposals, submit changes for existing 
+courses, and track the  progress of proposals as they move through the stages of online 
+approval. 
+ 
+2. Easy Leave  
+This project is aimed at developing a web based Leave Management Tool, which is of 
+importance to either an organization or a college. 
+The Easy Leave  is an Intranet b ased application that can be accessed throughout the 
+organization or a specified group/Dept. This system can be used to automate the workflow of 
+leave applications and their approvals. The periodic crediting of leave is also automated. 
+There are features like notifications, cancellation of leave, automatic approval of leave, report 
+generators etc in this Tool. 
+ 
+Functional components of the project: 
+There are registered people in the system. Some are approvers. An approver can also be a 
+requestor. In an organization, the hierarchy could be Engineers/Managers/Business 
+Managers/Managing Director etc. In a college, it could be Lecturer/Professor/Head of the 
+Department/Dean/Principal etc. 
+ 
+Following is a list of functionalities of the system: A person should be able to 
+ login to the system through the first page of the application 
+ change the password after logging into the system 
+ see his/her eligibility details (like how many days of leave he/she is eligible for etc) 
+ query the leave balance 
+ see his/her leave history since the time he/she joined the company/college 
+ apply for leave, specifying the from and to dates, reason for taking leave, address for 
+communication while on leave and his/her superior's email id 
+ see his/her current leave applications and the leave  applications that are submitted to 
+him/her for approval or cancellation 
+ approve/reject the leave applications that are submitted to him/her 
+ withdraw his/her leave application (which has not been approved yet) 
+ Cancel his/her leave (which has been already a pproved). This will need to be 
+approved by his/her Superior 
+
+R16 B.TECH CSE. 
+ 
+ get help about the leave system on how to use the different features of the system 
+ As soon as a leave application /cancellation request /withdrawal /approval /rejection 
+/password-change is made by  the person, an automatic email should be sent to the 
+person and his superior giving details about the action 
+ The number of days of leave (as per the assumed leave policy) should be 
+automatically credited to everybody and a notification regarding the same be sent to 
+them automatically 
+ An automatic leave -approval facility for leave applications which are older than 2 
+weeks should be there. Notification about the automatic leave approval should be sent 
+to the person as well as his superior 
+ 
+3. E-Bidding 
+Auctions are among the latest economic institutions in place. They have been used since 
+antiquity to sell a wide variety of goods, and their basic form has remained unchanged. In this 
+dissertation, we explore the efficiency of common auctions when values a re interdependent- 
+the value to a particular bidder may depend on information available only to others -and 
+asymmetric. In this setting, it is well known that sealed -bid auctions do not achieve efficient 
+allocations in general since they do not allow the in formation held by different bidders to be 
+shared. 
+ 
+Typically, in an auction, say of the kind used to sell art, the auctioneer sets a relatively low 
+initial price. This price is then increased until only one bidder is willing to buy the object, and 
+the exact manner in which this is done varies. In my model a bidder who drops out at some 
+price can "reenter" at a higher price. 
+ 
+With the invention of E -commerce technologies over the Internet the opportunity to bid from 
+the comfort of one’s own home has seen  a change like never seen before. Within the span of 
+a few short years, what may have began as an experimental idea has grown to an immensely 
+popular hobby, and in some cases, a means of livelihood, the Auction Patrol gathers 
+tremendous response every day, all day. With the point and click of the mouse, one may bid 
+on an item they may need or just want, and in moments they find that either they are the top 
+bidder or someone else wants it more, and you're outbid! The excitement of an auction all 
+from the comfort of home is a completely different experience. 
+ 
+Society cannot seem to escape the criminal element in the physical world, and so it is the 
+same with Auction Patrols. This is one area where in a question can be raised as to how safe 
+Auction Patrols. 
+ 
+Proposed system 
+To generate the quick reports 
+To make accuracy and efficient calculations 
+To provide proper information briefly 
+To provide data security 
+
+R16 B.TECH CSE. 
+ 
+To provide huge maintenance of records 
+Flexibility of transactions can be completed in time 
+ 
+4. Electronic Cash counter 
+This project is mainly developed for the Account Division of a Banking sector to provide 
+better interface of the entire banking transactions. This system is aimed to give a better out 
+look to the user interfaces and to implement all the banking transactions like: 
+ Supply of Account Information 
+ New Account Creations 
+ Deposits 
+ Withdraws 
+ Cheque book issues 
+ Stop payments 
+ Transfer of accounts 
+ Report Generations. 
+ 
+Proposed System: 
+The development of the new system contains the following activities, which try to automate 
+the entire process keeping in view of the database integration approach. 
+ User friendliness is provided in the application with various controls. 
+ The system makes the overall project management much easier and flexible. 
+ Readily upload the latest updates, allows user to download the alerts by clicking the 
+URL. 
+ There is no risk of data mismanagement at any level while the project development is 
+under process. 
+ It provides high level of security with different level of authentication 
+ 
+
+R16 B.TECH CSE. 
+ 
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MC500HS                          3     0    0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers. T he students will learn the rights and responsibilities 
+as an employee, team member and a global citizen.  
+  
+UNIT - I  
+Introduction to Professional Ethics:  Basic Concepts, Governing Ethics, Personal &  
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelligence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, Professional Accountabilities, Profession al Success, Ethics 
+and Profession. 
+ 
+UNIT - II 
+Basic Theories: Basic Ethical Principles, Moral Developments, Deontology, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, Moral Absolution, Moral Rationalism, Moral 
+Pluralism, Ethical Egoism, Femi nist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT - III 
+Professional Practices in Engineering:  Professions and Norms of Professional Conduct, 
+Norms of Professional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC -10 Crash and Kansas City Hyatt Regency 
+Walk away Collapse. 
+ 
+UNIT - IV 
+Work Place Rights & Responsibilities, Ethics in changing domains of Research, Engineers 
+and Managers; Organizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing domains of research - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - V 
+Global issues in Professional Ethics: Introduction – Current Scenario, Technolog y 
+Globalization of MNCs, International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governance, Sustainable Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution, Ethics in Manufacturing and Marketing, Media Ethics; War Ethic s; Bio 
+Ethics, Intellectual Property Rights.     
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R. Subramanian, Oxford University Press, 2015. 
+2. Ethics in Engineering Practice & Research, Caroline Whitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES:  
+1. Engineering Ethics, Concepts Cases: Charles E Harris Jr., Michael S Pritchard, 
+Michael J Rabins, 4e , Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008. 
+
+R16 B.TECH CSE. 
+ 
+COMPILER DESIGN 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS601PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To understand the various phases in the design of a compiler. 
+ To understand the design of top-down and bottom-up parsers. 
+ To understand syntax directed translation schemes. 
+ To introduce lex and yacc tools. 
+ To learn to develop algorithms to generate code for a target machine.  
+ 
+Course Outcomes: 
+ Ability to design, develop, and implement a compiler for any language. 
+ Able to use lex and yacc tools for developing a scanner and a parser. 
+ Able to design and implement LL and LR parsers. 
+ Able to design algorithms to perform code optimization in order to improve the 
+performance of a program in terms of space and time complexity. 
+ Ability to design algorithms to generate machine code 
+ 
+UNIT - I 
+Introduction: Language Processors, the structure of a compiler, the science of building a 
+compiler, programming language basics. 
+Lexical Analysis: The Role of the Lexical Analyzer, Input Buffering, Recog nition of 
+Tokens, The Lexical-Analyzer Generator Lex, Finite Automata, From Regular Expressions to 
+Automata, Design of a Lexical -Analyzer Generator, Optimization of DFA -Based Pattern 
+Matchers. 
+ 
+UNIT - II 
+Syntax Analysis: Introduction, Context -Free Grammars , Writing a Grammar, Top -Down 
+Parsing, Bottom -Up Parsing, Introduction to LR Parsing: Simple LR, More Powerful LR 
+Parsers, Using Ambiguous Grammars, Parser Generators. 
+ 
+UNIT - III 
+Syntax-Directed Translation: Syntax-Directed Definitions, Evaluation Orders for SDD's, 
+Applications of Syntax -Directed Translation, Syntax -Directed Translation Schemes, and 
+Implementing L-Attributed SDD's. 
+Intermediate-Code Generation: Variants of Syntax Trees, Three -Address Code, Types and 
+Declarations, Type Checking, Control Flo w, Back patching, Switch-Statements, Intermediate 
+Code for Procedures. 
+
+R16 B.TECH CSE. 
+ 
+UNIT - IV 
+Run-Time Environments: Storage organization , Stack Allocation of Space, Access to 
+Nonlocal Data on the Stack, Heap Management, Introduction to Garbage Collection, 
+Introduction to Trace-Based Collection. 
+Code Generation: Issues in the Design of a Code Generator, The Target Language, 
+Addresses in the Target Code, Basic Blocks and Flow Graphs, Optimization of Basic Blocks, 
+A Simple Code Generator, Peephole Optimization, Register A llocation and Assignment, 
+Dynamic Programming Code-Generation. 
+ 
+UNIT - V 
+Machine-Independent Optimizations: The Principal Sources of Optimization, Introduction 
+to Data -Flow Analysis, Foundations of Data -Flow Analysis, Constant Propagation, Partial-
+Redundancy Elimination, Loops in Flow Graphs. 
+ 
+TEXT BOOKS 
+1. Compilers: Principles, Techniques and Tools, Second Edition, Alfred V. Aho, Monica 
+S. Lam, Ravi Sethi, Jeffry D. Ullman,  Pearson. 
+ 
+REFERENCE BOOKS 
+1. Compiler Construction -Principles and Pract ice, Kenneth C Louden, Cengage  
+Learning. 
+2. Modern compiler implementation in C, Andrew W Appel,  Revised edition, 
+Cambridge University Press. 
+3. The Theory and Practice of Compiler writing, J.  P. Tremblay and P.  G. Sorenson, 
+TMH 
+4. Writing compilers and interpreters, R. Mak, 3rd edition, Wiley student edition. 
+5. lex & yacc – John R. Levine, Tony Mason, Doug Brown, O’reilly 
+
+R16 B.TECH CSE. 
+ 
+WEB TECHNOLOGIES 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS602PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To introduce PHP language for server side scripting 
+ To introduce XML and processing of XML Data with Java 
+ To introduce Server side programming with Java Servlets and JSP  
+ To introduce Client side scripting with Javascript and AJAX. 
+ 
+Course Outcomes: 
+ gain knowledge of client side scripting, validation of forms and AJAX programming  
+ have understanding of server side scripting with PHP language  
+ have understanding of what is XML and how to parse and use XML Data with Java 
+ To introduce Server side programming with Java Servlets and JSP 
+ 
+UNIT - I 
+Introduction to PHP: Declaring variables, data types, arrays, strings, operators, expressions, 
+control structures, functions, Reading data from web form controls like text boxes, radio 
+buttons, lists etc., Handling File Uploads, Connecting to database (MySQL as reference), 
+executing simple queries, handling results, Handling sessions and cookies 
+File Handling in PHP : File operations like opening, closing, reading, writing, appending, 
+deleting etc. on text and binary files, listing directories 
+ 
+UNIT - II 
+XML: Introduction to XML, Defining XML tags, their attributes and values, Document Type 
+Definition, XML Schemas, Document Object Model, XHTML 
+Parsing XML Data - DOM and SAX Parsers in java. 
+ 
+UNIT - III 
+Introduction to Servlets : Common Gateway Interface (CGI), Lifecycle of a Servlet, 
+deploying a servlet, The Servlet API, Reading Servlet parameters, Reading Initialization 
+parameters, Handling Http Request & Responses, Using Cookies and Sessions, connecting to 
+a database using JDBC. 
+ 
+UNIT - IV 
+Introduction to JSP: The Anatomy of a JSP Page, JSP Processing, Declarations, Directives, 
+Expressions, Code Snippets, implicit objects, Using Beans in JSP Pages, Using C ookies and 
+session for session tracking, connecting to database in JSP. 
+ 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT- V 
+Client side Scripting : Introduction to Javascript: Javascript language - declaring variables, 
+scope of variables, functions, event handlers (onclick, onsubmit etc.), Documen t Object 
+Model, Form validation. Simple AJAX application. 
+ 
+TEXT BOOKS: 
+1. Web Technologies, Uttam K Roy, Oxford University Press 
+2. The Complete Reference PHP – Steven Holzner, Tata McGraw-Hill  
+ 
+REFERENCE BOOKS: 
+1. Web Programming, building internet applications, Chris Bates 2 nd edition, Wiley 
+Dreamtech 
+2. Java Server Pages –Hans Bergsten, SPD O’Reilly  
+3. Java Script, D. Flanagan, O’Reilly,SPD. 
+4. Beginning Web Programming-Jon Duckett WROX. 
+5. Programming World Wide Web, R. W. Sebesta, Fourth Edition, Pearson. 
+6. Internet and World Wide Web – How to program, Dietel and Nieto, Pearson. 
+ 
+
+R16 B.TECH CSE. 
+ 
+CRYPTOGRAPHY AND NETWORK SECURITY 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS603PC                          4     0    0    4 
+ 
+Course Objectives: 
+ Explain the objectives of information security 
+ Explain the importance and application of each of confidentiality, integrity, 
+authentication and availability 
+ Understand various cryptographic algorithms. 
+ Understand the basic categories of threats to computers and networks 
+ Describe public-key cryptosystem.  
+ Describe the enhancements made to IPv4 by IPSec 
+ Understand Intrusions and intrusion detection 
+ Discuss the fundamental ideas of public-key cryptography. 
+ Generate and distribute a PGP key pair and use the PGP package to send an encrypted 
+e-mail message. 
+ Discuss Web security and Firewalls 
+ 
+Course Outcomes: 
+ Student will be able to understand basic cryptographic algorithms,  message and web 
+authentication and security issues.  
+ Ability to identify information system requirements for both of them such as client 
+and server. 
+ Ability to understand the current legal issues towards information security. 
+ 
+UNIT – I 
+Security Concepts:  Introduction, The need for security, Security approaches, Principles of 
+security, Types of Security attacks, Security services, Security Mechanisms, A model for 
+Network Security  
+Cryptography Concepts and Techniques:  Introduction, plain text and cipher text, 
+substitution techniques, transposition techniques, encryption and decry ption, symmetric and 
+asymmetric key cryptography, steganography, key range and key size, possible types of 
+attacks. 
+ 
+UNIT – II 
+Symmetric key Ciphers: Block Cipher principles, DES, AES, Blowfish, RC5, IDEA, Block 
+cipher operation, Stream ciphers, RC4.  
+Asymmetric key Ciphers: Principles of public key cryptosystems, RSA algorithm, Elgamal 
+Cryptography, Diffie-Hellman Key Exchange, Knapsack Algorithm. 
+ 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT – III 
+Cryptographic Hash Functions: Message Authentication, Secure Hash Algorithm (SHA -
+512), Message authentication codes: Authentication requirements, HMAC, CMAC, Digital 
+signatures, Elgamal Digital Signature Scheme.  
+Key Management and Distribution: Symmetric Key Distribution Using Symmetric & 
+Asymmetric Encryption, Distribution of Public Keys, Kerberos,   X.509 Authentication 
+Service, Public – Key Infrastructure 
+ 
+UNIT – IV 
+Transport-level Security: Web security considerations, Secure Socket Layer and Transport 
+Layer Security, HTTPS, Secure Shell (SSH) 
+Wireless Network Security: Wireless Security, Mobile Device Security, IEEE 802.11 
+Wireless LAN, IEEE 802.11i Wireless LAN Security 
+ 
+UNIT – V 
+E-Mail Security:  Pretty Good Privacy, S/MIME IP Security: IP Security overview, IP 
+Security architecture, Authentication Header, Encapsulating security payload, Combining 
+security associations, Internet Key Exchange 
+Case Studies on Cryptography and security:  Secure Multiparty Calculation, Virtual 
+Elections, Single sign On, Secure Inter -branch Payment Transactions, Cross site Scripting 
+Vulnerability. 
+ 
+TEXT BOOKS: 
+1. Cryptography and Network Security - Principles and Practice: William Stallings, 
+Pearson Education, 6th Edition 
+2. Cryptography and Network Security: Atul Kahate, Mc Graw Hill, 3rd  Edition 
+ 
+REFERENCE BOOKS: 
+1. Cryptography and Network Security: C K Shyamala, N Ha rini, Dr T R Padmanabhan, 
+Wiley India, 1st Edition. 
+2. Cryptography and Network Security : Forouzan Mukhopadhyay, Mc Graw Hill, 3 rd 
+Edition 
+3. Information Security, Principles, and Practice: Mark Stamp, Wiley India. 
+4. Principles of Computer Security: WM. Arthur Conklin, Greg White, TMH 
+5. Introduction to Network Security: Neal Krawetz, CENGAGE Learning 
+6. Network Security and Cryptography: Bernard Menezes, CENGAGE Learning 
+ 
+
+R16 B.TECH CSE. 
+ 
+MOBILE COMPUTING 
+(PROFESSIONAL ELECTIVE - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS611PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To make the student understand the concept of mobile computing paradigm, its novel 
+applications and limitations. 
+ To understand the  typical mobile networking infrastructure through a popular GSM 
+protocol 
+ To understand the issues and solutions of various layers of mobile networks, namely 
+MAC layer, Network Layer & Transport Layer  
+ To understand the database issues in mobile environments & data delivery models. 
+ To understand the ad hoc networks and related concepts. 
+ To understand the platforms and protocols used in mobile environment. 
+ 
+Course Outcomes: 
+ Able to think and develop new mobile application. 
+ Able to take any new technical issue related to this new paradigm and come up with a 
+solution(s). 
+ Able to develop new ad hoc network applications and/or algorithms/protocols. 
+ Able to understand & develop any existing or new protocol related to  mobile 
+environment 
+ 
+UNIT - I 
+Introduction: Mobile Communications, Mobile Computing – Paradigm, Promises/Novel 
+Applications and Impediments and Architecture; Mobile and Handheld Devices, Limitations 
+of Mobile and Handheld Devices. 
+GSM – Services, System Architecture, Radio Interfaces, Protocols, Loc alization, Calling, 
+Handover, Security, New Data Services, GPRS, CSHSD, DECT. 
+ 
+UNIT – II  
+(Wireless) Medium Access Control (MAC): Motivation for a specialized MAC (Hidden 
+and exposed terminals, Near and far terminals), SDMA, FDMA, TDMA, CDMA, Wireless 
+LAN/(IEEE 802.11) 
+Mobile Network Layer: IP and Mobile IP Network Layers, Packet Delivery and Handover 
+Management, Location Management, Registration, Tunneling and Encapsulation, Route 
+Optimization, DHCP. 
+ 
+UNIT – III 
+Mobile Transport Layer: Conventional TCP/IP Protocols, Indirect TCP, Snooping TCP, 
+Mobile TCP, Other Transport Layer Protocols for Mobile Networks. 
+
+R16 B.TECH CSE. 
+ 
+Database Issues: Database Hoarding & Caching Techniques, Client -Server Computing & 
+Adaptation, Transactional Models, Query processing, Data Recovery Process & QoS Issues. 
+ 
+UNIT - IV 
+Data Dissemination and Synchronization: Communications Asymmetry, Classification of 
+Data Delivery Mechanisms, Data Dissemination, Broadcast Models, Selective Tuning and 
+Indexing Methods, Data  
+Synchronization – Introduction, Software, and Protocols 
+ 
+UNIT - V 
+Mobile Ad hoc Networks (MANETs): Introduction, Applications & Challenges of a 
+MANET, Routing, Classification of Routing Algorithms, Algorithms such as DSR, AODV, 
+DSDV, etc. , Mobile Agents, Service Discovery. 
+Protocols and  Platforms for Mobile Computing : WAP, Bluetooth, XML, J2ME, Java  
+Card, Palm OS, Windows CE, Symbian OS, Linux for Mobile Devices, Android. 
+ 
+TEXT BOOKS: 
+1. Jochen Schiller, “Mobile Communications”, Addison-Wesley, Second Edition, 2009. 
+2. Raj Kamal, “Mobile Computing”, Oxford University Press, 2007, ISBN: 0195686772. 
+ 
+REFERENCE BOOKS: 
+1. Jochen Schiller, “Mobile Communications”, Addison-Wesley, Second Edition, 2004. 
+2. Stojmenovic and Cacute, “Handbook of Wireless Networks and Mobile Computing”, 
+Wiley, 2002, ISBN 0471419028. 
+3. Reza Behravanfar, “Mobile Computing Principles: Designing and Developing 
+Mobile Applications with UML and XML”, ISBN: 0521817331, Cambri dge 
+University Press, Oct 2004. 
+
+R16 B.TECH CSE. 
+ 
+DESIGN PATTERNS 
+(PROFESSIONAL ELECTIVE - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS612PE                          3     0    0    3 
+ 
+Prerequisites 
+1. A Course on Software Engineering” 
+2. A Course on “Object Oriented Programming Through Java” 
+ 
+Course Objectives: 
+ The aim of the course is to appreciate the idea behind Design Patterns in handling 
+common problems faced during building an application 
+ This course covers all pattern types from creational to structural, behavioral to 
+concurrency and highlights the scenarios when one pat tern must be chosen over 
+others.  
+Course Outcomes: 
+ Create software designs that are scalable and easily maintainable 
+ Understand the best use of Object Oriented concepts for creating truly OOP programs  
+ Use creational design patterns in software design for class instantiation 
+ Use structural design patterns for better class and object composition 
+ Use behavioral patterns for better organization and communication between the 
+objects 
+ Use refactoring to compose the methods for proper code packaging 
+ Use refactoring to better organize the class responsibilities of current code 
+ 
+UNIT - I 
+Introduction: What is a design pattern? design patterns in Smalltalk MVC, Describing 
+Design Patterns, The Catalog of Design Patterns, Organizing the Catalog, How Design 
+Patterns Solv e Design Problems, How to Select a Design Pattern, How to Use a Design 
+Pattern. 
+ 
+UNIT - II 
+Designing a Document Editor : Design Problems, Document Structure, Formatting, 
+Embellishing the User Interface, Supporting Multiple Look -and-Feel Standards, Supporting 
+Multiple Window Systems, User Operations Spelling Checking and Hyphenation, Summary 
+ 
+UNIT - III 
+Creational Patterns : Abstract Factory, Builder, Factory Method, Prototype, Singleton, 
+Discussion of Creational Patterns. 
+ 
+UNIT - IV 
+Structural Pattern: Adapter, Bridge, Composite, Decorator, Façade, Flyweight, Proxy 
+
+R16 B.TECH CSE. 
+ 
+UNIT - V 
+Behavioral Patterns : Chain of Responsibility, Command, Interpreter, Iterator, Mediator, 
+Memento, Observer, State, Strategy, Template Method, Visitor. 
+ 
+TEXT BOOK: 
+1. Design Patterns, Erich Gamma, Pearson Education 
+ 
+REFERENCE BOOKS: 
+1. Pattern’s in Java, Vol –I, Mark Grand, Wiley Dream Tech. 
+2. Patterns in Java, Vol-II, Mark Grand, Wiley Dream Tech. 
+3. Java Enterprise Design Patterns Vol-III, Mark Grand, Wiley Dream Tech. 
+4. Head First Design Patterns, Eric Freeman, O’reily publications 
+
+R16 B.TECH CSE. 
+ 
+ARTIFICIAL INTELLIGENCE 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS613PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To learn the difference between optimal reasoning vs human like reasoning 
+ To understand the notions of state space representation, exhaustive search, heuristic 
+search along with the time and space complexities 
+ To learn different knowledge representation techniques 
+ To understand the applications of AI: namely Game Playing, Theorem Proving, 
+Expert Systems, Machine Learning and Natural Language Processing 
+ 
+Course Outcomes: 
+ Possess the ability to formulate an efficient problem space for a problem expressed in 
+English. 
+ Possess the ability to select a search algorithm for a problem and characterize its time 
+and space complexities. 
+ Possess the skill for representing knowledge using the appropriate technique 
+ Possess the ability to apply AI techniques to solve problems of Game Playing, Expert 
+Systems, Machine Learning and Natural Language Processing 
+ 
+UNIT - I 
+Introduction, History, Intelligent Systems, Foundations of AI, Sub areas of AI, Applications.  
+Problem Solving - State-Space Search and Control St rategies: Introduction, General Problem 
+Solving, Characteristics of Problem, Exhaustive Searches, Heuristic Search Techniques, 
+Iterative-Deepening A*, Constraint Satisfaction. Game Playing, Bounded Look -ahead 
+Strategy and use of Evaluation Functions, Alpha-Beta Pruning  
+ 
+UNIT - II  
+Logic Concepts and Logic Programming: Introduction, Propositional Calculus, Propositional 
+Logic, Natural Deduction System, Axiomatic System, Semantic Tableau System in 
+Propositional Logic, Resolution Refutation in Propositional L ogic, Predicate Logic, Logic 
+Programming. 
+Knowledge Representation: Introduction, Approaches to Knowledge Representation, 
+Knowledge Representation using Semantic Network, Extended Semantic Networks for KR, 
+Knowledge Representation using Frames.  
+ 
+UNIT - III  
+Expert System and Applications: Introduction, Phases in Building Expert Systems, Expert 
+System Architecture, Expert Systems Vs Traditional Systems, Truth Maintenance Systems, 
+Application of Expert Systems, List of Shells and Tools.  
+
+R16 B.TECH CSE. 
+ 
+Uncertainty Measure - Probability Theory: Introduction, Probability Theory, Bayesian Belief 
+Networks, Certainty Factor Theory, Dempster-Shafer Theory.  
+ 
+UNIT-IV  
+Machine-Learning Paradigms: Introduction. Machine Learning Systems. Supervised and 
+Unsupervised Learning. Inductiv e Learning. Learning Decision Trees (Text Book 2), 
+Deductive Learning. Clustering, Support Vector Machines. 
+Artificial Neural Networks: Introduction, Artificial Neural Networks, Single -Layer Feed -
+Forward Networks, Multi -Layer Feed -Forward Networks, Radial -Basis Function Networks, 
+Design Issues of Artificial Neural Networks, Recurrent Networks.  
+ 
+UNIT-V  
+Advanced Knowledge Representation Techniques: Case Grammars, Semantic Web  
+Natural Language Processing: Introduction, Sentenc e Analysis Phases, Grammars and 
+Parsers, Types of Parsers, Semantic Analysis, Universal Networking Knowledge.  
+ 
+TEXT BOOKS: 
+1. Saroj Kaushik. Artificial Intelligence. Cengage Learning. 2011 
+2. Russell, Norvig: Artificial intelligence, A Modern Approach, Pearson Education, 
+Second Edition. 2004 
+ 
+REFERENCE BOOK: 
+1. Rich, Knight, Nair: Artificial intelligence, Tata McGraw Hill, Third Edition 2009. 
+2. Introduction to Artificial Intelligence by Eugene Charniak, Pearson. 
+3. Introduction to Artificial Intelligence and expert systems Dan W.Patterson. PHI. 
+4. Artificial Intelligence by George Fluger rearson fifth edition. 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+INFORMATION SECURITY MANAGEMENT (SECURITY ANALYST-I) 
+(PROFESSIONAL ELECTIVE - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS614PE                          3     0    0    3 
+ 
+Course Objectives:  
+ To introduce the terminology, technology and its applications 
+ To introduce the concept of Security Analyst 
+ To introduce the tools, technologies & programming languages which are used in day 
+to day security analyst job role 
+ 
+UNIT - I 
+Information Security Management : Information Security Overview, Threats and Attack 
+Vectors, Types of Attacks, Common Vulnerabilities, and Exposures (CVE), Security Attacks, 
+Fundamentals of Information Security, Computer Security Concerns, Information Security 
+Measures etc.  
+Manage your work to meet requirements (NOS 9001) 
+ 
+UNIT - II 
+Fundamentals of Information Security : Key Elements of Networks, Logical Elements of 
+Network, Critical Information Characteristics, Information States etc. 
+Work effectively with Colleagues (NOS 9002) 
+ 
+UNIT - III 
+Data Leakage : What is Data Leakage and statistics, Data Leakage Threats, Reducing the 
+Risk of Data Loss, Key Performance Indicators (KPI), Database Security etc. 
+ 
+UNIT - IV 
+Information Security Policies, Procedures, and Audits : Information Security Policies -
+necessity-key elements & characteristics, Security Policy Implementation, Configuration, 
+Security Standards-Guidelines & Frameworks etc. 
+ 
+UNIT - V 
+Information Security Management – Roles and Responsibilities : Security Roles & 
+Responsibilities, Accountability, Roles, and Responsibilities of Information Security 
+Management, team-responding to emergency situation-risk analysis process etc. 
+ 
+TEXT BOOKS:  
+1. Management of Information Security by Michael E. Whitman and Herbert J. Mattord 
+ 
+REFERENCES: 
+1. http://www.iso.org/iso/home/standards/management-standards/iso27001.htm 
+2. http://csrc.nist.gov/publications/nistpubs/800-55-Rev1/SP800-55-rev1.pdf 
+
+R16 B.TECH CSE. 
+ 
+INTRODUCTION TO ANALYTICS (ASSOCIATE ANALYTICS -I) 
+(PROFESSIONAL ELECTIVE - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS615PE                          3     0    0    3 
+ 
+Course Objectives:  
+ To introduce the terminology, technology and its applications 
+ To introduce the concept of Analytics for Business 
+ To introduce the tools, technologies & programming languages which is used in day 
+to day analytics cycle 
+ 
+UNIT - I 
+Introduction to Analytics and R programming (NOS 2101) : Introduction to R, R  Studio 
+(GUI): R Windows Environment, introduction to various data types, Numeric, Character, 
+date, data frame, array, matrix etc., Reading Datasets, Working with different file types .txt,.  
+csv etc. Outliers, Combining Datasets, R Functions and loops. 
+Manage your work to meet requirements (NOS 9001) : Understanding Learning 
+objectives, Introduction to work & meeting requirements, Time Management, Work 
+management & prioritization, Quality & Standards Adherence,  
+ 
+UNIT - II 
+Summarizing Data & Revisiting Probability (NOS 2101) : Summary Statistics - 
+Summarizing data with R, Probability, Expected, Random, Bivariate Random variables, 
+Probability distribution. Central Limit Theorem etc. 
+Work effectively with Colleagues (NOS 9002) : Introduction to work effectively, Team 
+Work, Professionalism, Effective Communication skills, etc. 
+ 
+UNIT - III 
+SQL using R Introduction to NoSQL, Connecting R to NoSQL databases. Excel and R 
+integration with R connector.  
+ 
+UNIT - IV 
+Correlation and Regression Analysis (NOS 9001) : Regression Analysis, Assumptions of 
+OLS Regression, Regression Modelling. Correlation, ANOVA, Fore casting, 
+Heteroscedasticity, Autocorrelation, Introduction to Multiple Regression etc. 
+ 
+UNIT - V 
+Understand the Verticals - Engineering, Financial and others (NOS 9002) 
+Understanding systems viz. Engineering Design, Manufacturing, Smart Utilities, Producti on 
+lines, Automotive, Technology etc.  Understanding Business problems related to various 
+businesses. 
+Requirements Gathering: Gathering all the data related to Business objective. 
+ 
+
+R16 B.TECH CSE. 
+ 
+TEXT BOOK:  
+1. Student’s Handbook for Associate Analytics. 
+ 
+REFERENCE BOOKS: 
+1. Introduction to Probability and Statistics Using R , ISBN: 978 -0-557-24979-4, is a 
+textbook written for an undergraduate course in probability and statistics.  
+2. An Introduction to R, by Venables and Smith and the R Development Core Team. 
+This may be download ed for free from the R Project website (http://www.r -
+project.org/, see Manuals). There are plenty of other free references available from the 
+R Project website. 
+3. Montgomery, Douglas C., and George C. Runger, Applied statistics and probability 
+for engineers. John Wiley & Sons, 2010 
+4. Time Series Analysis and Mining with R. Yanchang Zhao. 
+
+R16 B.TECH CSE. 
+ 
+CRYPTOGRAPHY AND NETWORK SECURITY LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS604PC                          0     0    3    2 
+ 
+1. Write a C program that contains a string  (char pointer) with a value ‘Hello world’. 
+The program should XOR each character in this string with 0 and displays the result. 
+ 
+2. Write a C program that contains a string  (char pointer) with a value ‘Hello wor ld’. 
+The program should AND or and XOR each character in this string with 127 and 
+display the result. 
+ 
+3. Write a Java program to perform encryption and decryption using the following 
+algorithms 
+a. Ceaser cipher  b. Substitution cipher  c. Hill Cipher 
+ 
+4. Write a C/JAVA program to implement the DES algorithm logic. 
+ 
+5. Write a C/JAVA program to implement the Blowfish algorithm logic. 
+ 
+6. Write a C/JAVA program to implement the Rijndael algorithm logic. 
+ 
+7. Write the RC4 logic in Java  Using Java cryptography; encrypt the text “Hello world” 
+using Blowfish. Create your own key using Java key tool. 
+ 
+8. Write a Java program to implement RSA algorithm. 
+ 
+9. Implement the Diffie -Hellman Key Exchange mechanism using HTML and 
+JavaScript. 
+ 
+10. Calculate the message digest of a text using the SHA-1 algorithm in JAVA. 
+ 
+11. Calculate the message digest of a text using the MD5 algorithm in JAVA. 
+
+R16 B.TECH CSE. 
+ 
+WEB TECHNOLOGIES LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: CS605PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To enable the student to program web applications using the following technologies 
+HTML, Javascript , AJAX, PHP, Tomcat Server, Servlets, JSP 
+ 
+Course Outcomes: 
+ Use LAMP Stack for web applications 
+ Use Tomcat Server for Servlets and JSPs 
+ Write simple applications with Technologies like HTML, Javascript, AJAX, PHP, 
+Servlets and JSPs 
+ Connect to Database and get results 
+ Parse XML files using Java (DOM and SAX parsers) 
+ 
+Note:  
+1. Use LAMP Stack (Linux, Apache, MySQL and PHP)  for the Lab Experiments. 
+Though not mandatory, encourage the use of Eclipse platform wherever applicable 
+2. The list suggests the minimum program set. Hence, the concerned staff is requested to 
+add more problems to the list as needed 
+   
+1. Install the following on the local machine 
+ Apache Web Server (if not installed) 
+ Tomcat Application Server locally 
+ Install MySQL (if not installed)  
+ Install PHP and configure it to work with Apache web server and MySQL (if not 
+already configured) 
+ 
+2. Write an HTML page including j avascript that takes a given set of integer numbers and 
+shows them after sorting in descending order.  
+ 
+3. Write an HTML page including any required Javascript that takes a number from one text 
+field in the range of 0 to 999 and shows it in another text field  in words. If the number is 
+out of range, it should show “out of range” and if it is not a number, it should show “not a 
+number” message in the result box.  
+ 
+4. Write an HTML page that has one input, which can take multi -line text and a submit 
+button. Once the user clicks the submit button, it should show the number of characters, 
+words and lines in the text entered using an alert message. Words are separated with 
+white space and lines are separated with new line character. 
+ 
+
+R16 B.TECH CSE. 
+ 
+5. Write an HTML page that contains a selection box with a list of 5 countries. When the 
+user selects a country, its capital should be printed next to the list. Add CSS to customize 
+the properties of the font of the capital (color, bold and font size). 
+ 
+6. Create an XML document that contains 10 users information. Write a Java program, 
+which takes User Id as input and returns the user details by taking the user information 
+from the XML document using (a) DOM Parser and (b) SAX parser 
+ 
+Implement the following web applications using (a) PHP, (b) Servlets and (c) JSP: 
+ 
+7. A user validation web application, where the user submits the login name and password 
+to the server. The name and password are checked against the data already available in 
+Database and if the data matches, a successful login page is re turned. Otherwise a failure 
+message is shown to the user.  
+8. Modify the above program to use an xml file instead of database. 
+ 
+9. Modify the above program to use AJAX to show the result on the same page below the 
+submit button. 
+ 
+10. A simple calculator web application that takes two numbers and an operator (+, -, /, * and 
+%) from an HTML page and returns the result page with the operation performed on the 
+operands.  
+ 
+11. Modify the above program such that it stores each query in a databas e and checks the 
+database first for the result. If the query is already available in the DB, it returns the value 
+that was previously computed (from DB) or it computes the result and returns it after 
+storing the new query and result in DB.  
+ 
+12. A web applicat ion takes a name as input and on submit it shows a hello <name> page 
+where <name> is taken from the request. It shows the start time at the right top corner of 
+the page and provides a logout button. On clicking this button, it should show a logout 
+page with Thank You <name> message with the duration of usage (hint: Use session to 
+store name and time). 
+ 
+13. A web application that takes name and age from an HTML page. If the age is less than 
+18, it should send a page with “Hello <name>, you are not authorized to visit this site” 
+message, where <name> should be replaced with the entered name. Otherwise it should 
+send “Welcome <name> to this site” message.  
+ 
+14. A web application for implementation: 
+The user is first served a login page which takes user's name and passw ord. After 
+submitting the details the server checks these values against the data from a database and 
+takes the following decisions. 
+If name and password matches, serves a welcome page with user's full name. 
+
+R16 B.TECH CSE. 
+ 
+If name matches and password doesn't match, then serves “password mismatch” page 
+If name is not found in the database, serves a registration page, where user’s full name is 
+asked and on submitting the full name, it stores, the login name, password and full name 
+in the database (hint: use session for storing the submitted login name and password)  
+ 
+15. A web application that lists all cookies stored in the browser on clicking “List Cookies” 
+button. Add cookies if necessary. 
+ 
+REFERENCE BOOKS: 
+1. The Complete Reference PHP – Steven Holzner, Tata McGraw-Hill  
+2. Web Programming, building internet applications, Chris Bates 2nd edition, Wiley 
+Dreamtech 
+3. Java Server Pages –Hans Bergsten, SPD O’Reilly  
+4. Java Script, D.Flanagan, O’Reilly, SPD. 
+5. Internet and World Wide Web – How to program, Dietel and Nieto, Pearson. 
+
+R16 B.TECH CSE. 
+ 
+ADVANCED ENGLISH COMMUNICATION SKILLS LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EN606HS                          0     0    3    2 
+ 
+Introduction 
+A course on Advanced English Communication Skills (AECS) Lab  is considered essential at 
+the third year level of B.Tech and B.Pharmacy courses. At this stage, the students need to 
+prepare themselves for their career which requires them to listen to, read, speak and write in 
+English both for their professional and in terpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+ 
+Course Objectives: This Lab focuses on using multi -media instruction for language 
+development to meet the following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioral skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes: Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus 
+The following course  activities will be conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+1. Inter-personal Communication and Building Vocabulary - Starting a Conversation 
+– Responding Appropriately and Relevantly – Using Appropriate Body Language – 
+Role Play in Different Situations - Synonyms and Antonyms, One -word Substitutes, 
+Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+2. Reading Comprehension  –General Vs Local Comprehension, Reading for Facts, 
+Guessing Meanings from Context, , Skimming, Scanning, Inferring Meaning. 
+3. Writing Skills  – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+
+R16 B.TECH CSE. 
+ 
+4. Presentation Skills  – Oral Presentations (individual or group) through JAM 
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+5. Group Discussion and Interview Skills  – Dynamics of Group Discussion, 
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance, 
+Fluency and Organization of Ideas and Rubrics of Evaluation - Concept and Process, 
+Pre-interview Planning, Opening Strategies, Answering Strategies, Interview th rough 
+Tele-conference & Video-conference and Mock Interviews. 
+ 
+Minimum Hardware Requirement: Advanced English Communication Skills (AECS) 
+Laboratory shall have the following infrastructural facilities to accommodate at least 35 
+students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+ 
+Suggested Software: The software consisting of the prescribed topics e laborated above 
+should be procured and used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+ 
+REFERENCES:              
+1. Kumar, Sanjay and Pushp Lata. English for Effective Communication,  Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI 
+Learning Pvt. Ltd., 2011. 
+

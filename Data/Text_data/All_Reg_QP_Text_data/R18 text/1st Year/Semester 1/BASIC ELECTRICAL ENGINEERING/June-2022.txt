@@ -1,0 +1,59 @@
+Code No: 151AG      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year I Semester Examinations, June - 2022  
+BASIC ELECTRICAL ENGINEERING 
+(Common to EEE, CSE, IT, CSIT, ITE, CE(SE), CSE(CS), CSE(DS), CSE(Networks), 
+CSED) 
+Time: 3 Hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain in detail the passive elements and active elements. 
+   b) By using Thevenin’s theorem shown in figure 1, find the current in 6Ω resistor.  [8+7] 
+ 
+Figure 1 
+ 
+2.a) State Kirchhoff’s voltage and current laws, Explain in detail. 
+b) By using superposition theorem, find the current flowing through 2 ohms resistor.  
+(Figure 2)            [8+7] 
+ 
+ Figure 2 
+ 
+3.a) Explain the following terms of AC circuits 
+(i)   rms value   (ii) average value   (iii) peak value 
+(iv) formfactor   (v) phasor      (vi) phase difference 
+   b) Analyze the series RL circuit with a neat sketch and also draw the phasor diagram.  [8+7] 
+ 
+4.a) Derive the relation betw een phase voltage and line voltage of a balanced three phase star  
+connected system.                
+b) A circuit consisting of three branches,  Z2 is in parallel with Z3 the combination is in                             
+series with Z 1 having the values Z 1=5+j15, Z 2 =2.5+j5 and Z 3=2-j8 connected across  
+single phase, 100 V, 50 Hz supply. Find i) I1, I2 and I3 ii) V1 and V2.     [8+7] 
+R18 
+ JNTUH Used Papers June 22
+
+ 
+ 
+ 
+5.a)  The emf per turn of a 1 -, 2200/220 V, 50 Hz transformer is approximately 12V.
+ Calculate 
+i)  The number of primary and secondary turns, and 
+ii) The net cross-sectional area of core for a maximum flux density of 1.5 T? 
+   b) Explain the losses in a Transformer; also derive the maximum efficiency condition of a              
+transformer.               [8+7] 
+ 
+6.a) Explain the significance of torque-slip and characteristics of 3-phase induction motor. 
+   b) Why three phase induction motor not rotating at synchronous speed, explain.      [8+7] 
+ 
+7.a) Explain the types of batteries and its important characteristics. 
+   b) Define earthing also explain the purpose of earthing.         [7+8] 
+ 
+8.a) Explain the constructional details of synchronous generators. 
+   b) Why single phase induction motors are not self starting motors? Explain.      [7+8] 
+ 
+ 
+--ooOoo-- 
+ 
+JNTUH Used Papers June 22
+

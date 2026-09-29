@@ -1,0 +1,87 @@
+Code No: 153AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, April/May - 2023 
+ANALOG AND DIGITAL ELECTRONICS 
+ (Common to CSE, IT, ECM, ITE, CE(SE), CSE(CS), CSE(N)) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Give the applications of PN junction diode.      [2] 
+   b)      Discuss about diode switching times.        [3] 
+   c)      Discuss about gain bandwidth product in amplifier using BJT.   [2] 
+   d)      What is thermal runway?          [3] 
+   e)      Define de morgan laws.        [2] 
+   f)      Define the pinch-off voltage. Why the name field effect is used for the device FET?
+            [3] 
+   g)      Differentiate between encoder and decoder.      [2] 
+   h)      How Decimal Adder different from Binary adder?     [3] 
+   i)      What is excitation table? Write the excitation tables for the SR flip flop.  [2] 
+   j)      What is state assignment? Explain with a suitable example.    [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Define and derive the equation for diffusion capacitance. 
+   b) Explain positive and negative diode clipper circuits.     [4+6] 
+OR 
+3.a) Briefly discuss about PN junction diode and light emitting diode. 
+   b) Discuss about half wave rectifier with and without capacitive filter.   [5+5] 
+  
+4.a) Explain the input and output characteristics of a transistor in CE configuration. 
+b) Draw a Self-bias circuit and explain its operation. Derive the equation for  Stability 
+factor.            [5+5] 
+OR 
+5.a) Explain various methods used for coupling of multistage amplifiers with their  
+frequency response. 
+   b) Draw and explain equivalent circuit of transistor at low frequencies.  [6+4] 
+ 
+6.a) Draw the circuit diagram of common drai n amplifier and derive expression for voltage        
+Gain using FET . 
+   b) Simplify the following function and realize using universal gates 
+   F (A,B,C) = A'BC' + ABC + B'C' + A'B'     [5+5] 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+OR 
+7.a) Explain the construction and principle of operation  of Enhancement mode N -channel      
+MOSFET. 
+   b) Explain the operation of TTL with neat diagram.     [5+5] 
+ 
+8.a) Minimise the following Boolean function using K -map and design a logic circuit  using 
+NAND gates. 
+F=Ʃm (0,3,4,7,8,10,12,14)+d(2,6) 
+   b) Construct a 3*8 decoder using logic gates and its truth table.   [5+5]  
+OR 
+9.a) Express the function (xy+z)(y+xz) in canonical SOP and POS forms. 
+   b) Implement the following Boolean function with a multiplexer.  
+   F(A,B,C,D)=∑(1, 3, 4, 11, 12, 13, 14,15)     [5+5]
+  
+10.a) Draw and explain the logic diagram of 4 -bit ring counter with the help of timing          
+diagrams. 
+     b) Realize D-FF and T-FF using JK-FF.       [5+5] 
+OR 
+11.a) Explain about the universal shift registers. 
+     b) Discuss in detail about various types of ROM.     [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

@@ -1,0 +1,47 @@
+ 
+ 
+ 
+Code No: 138FZ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+ ENTREPRENEUR RESOURCE PLANNING 
+ (Common to CE, ME, ECE, CSE, IT) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Describe the architecture of Data Warehousing with suitable diagram and write its 
+advantages and uses.         [15] 
+  
+2. What do you understand by Business Process Reengineering (BPR)? Discuss the 
+various phases of BPR.         [15] 
+ 
+3.a) Why do you think ERP implementation is challenging?  
+   b)  Discuss the various strategies involved in ERP implementation.   [8+7] 
+    
+4.a) Explain  project management and monitoring in brief.  
+   b) Discuss the important factors for ERP Package evaluation.     [8+7] 
+ 
+5. With the help of a diagram, explain the processes/activities of material management 
+module of ERP package. How this module improves the performance of an enterprise? 
+Discuss.           [15] 
+ 
+6.a) What are the Business Modules present in an ERP Package? Explain.  
+   b) Explain Make to order and Make to stock with the help of a process flow diagram.[8+7] 
+ 
+7.a) What do you understand by marketplace dynamics in context with ERP market?                 
+What are the reasons for growth of ERP market? Discuss. 
+   b)  List out the various ERP system packages available in the market? Which one                 
+occupies the topmost position as per your understanding and why? Discuss. [8+7] 
+ 
+8.a) What is Enterprise Application Integration (EAI)? What are the components of EAI? 
+   b) Discuss the five models of Enterprise Application Integration.   [8+7] 
+  
+ 
+---oo0oo--- 
+ 
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

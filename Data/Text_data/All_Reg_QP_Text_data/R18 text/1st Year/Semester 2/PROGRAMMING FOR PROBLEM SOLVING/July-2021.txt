@@ -1,0 +1,51 @@
+ 
+ 
+Code No: 152AF      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, July/August - 2021 
+PROGRAMMING FOR PROBLEM SOLVING 
+(Common to EEE, CSE, IT, ITE) 
+Time: 3 Hours                                     Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Differentiate between typecasting and type conversion. 
+   b) Write a program to count the number of vowels in a text.    [7+8] 
+ 
+2.a) Write a program to read two numbers. Then fin d out whether the first is a                    
+ multiple of the second number. 
+   b) Explain the use of Command line argument with an example.    [8+7] 
+ 
+3.a) Describe about the enumerated data type with an example. 
+   b) Explain about the use of pointers in self referential structures.   [7+8] 
+ 
+4.a) Write a program to transpose of a 3×3 matrix. 
+   b)  Differentiate between structure and an array.      [8+7] 
+ 
+5.a) Explain the importance of #define preprocessor directive. 
+   b) Write a program to read a file  that contains lowercase characters. Then write these 
+ characters into another file with lower case characters converted into upper case. [7+8] 
+ 
+6.a) Write a program to merge two files into a third file. The names of the files must                   
+ be entered using command line arguments. 
+   b) Distinguish between #ifdef and #ifndef.      [8+7] 
+ 
+7.a) Write a recursive program to find out the factorial of given number. 
+   b) Explain about the dynamic memory allocation.     [8+7] 
+ 
+8.a) Write an algorithm to  find out the minimum and maximum numbers of a given                     
+ set. 
+   b) Explain about the Bubble sort with an example.     [7+8] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+R18 
+ JNTUH USed JUL/Aug-21
+JNTUH Used Jul/Aug-21
+

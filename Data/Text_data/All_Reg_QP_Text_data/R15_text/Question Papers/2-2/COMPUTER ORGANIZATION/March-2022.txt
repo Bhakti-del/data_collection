@@ -1,0 +1,42 @@
+ 
+ 
+Code No: 124CN  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, March - 2022 
+COMPUTER ORGANIZATION 
+(Computer Science and Engineering) 
+Time: 3 Hours                               Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What is instruction format? Discuss about the registers of basic computers.  
+   b) List and explain in detail about various types of interrupts.    [8+7] 
+ 
+2. Explain the following addressing modes with examples.  
+a) Register indirect mode  b) Absolute mode c) Direct mode.                      [5+5+5] 
+ 
+3.a) Why does DMA have priority over the CPU When both request a memory transfer? 
+   b)  Compare and contrast between isolated and memory mapped I/O.   [8+7] 
+ 
+4.a) Draw the block diagram for asynchronous communication interface. 
+   b) What is handshaking? Discuss with neat diagrams.     [8+7] 
+ 
+5 a)  Discuss about the virtual memory? Discuss about the mapping of virtual address to 
+memory table. 
+   b) Describe in detail about RAM and ROM organization.    [9+6] 
+ 
+6. A two way set associative cache memory uses blocks of four words. The cache can 
+accommodate a total of 2048 words from the main memory. The main memory size is 
+128 K*32 
+a) Formulate all pertinent information required to construct the cache memory 
+b) What is the size of the cache memory      [8+7] 
+ 
+7.  List and explain all the 16-bit general purpose registers of 8086 microprocessor.    [15] 
+ 
+8. Write an 8086-assembly language program for evaluating an arithmetic expression.[15] 
+ 
+ 
+---ooOoo--- 
+R15 JNTUH UsedPapers March2022
+

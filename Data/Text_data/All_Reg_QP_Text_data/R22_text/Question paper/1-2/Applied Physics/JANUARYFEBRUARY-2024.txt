@@ -1,0 +1,87 @@
+Code No: 182AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year II Semester Examinations, January/February - 2024 
+APPLIED PHYSICS 
+(Common to EEE, CSE, IT, CSIT, CSE(CS), CSE(DS), CSD) 
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub-questions from all units 
+carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 marks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+(10 Marks) 
+ 
+1.a)      Draw the Black body radiation graph and mark which part of this graph is matched            
+with Wein’s law.         [1] 
+   b) Write the key feature of Fermi-Dirac distribution?     [1] 
+   c) Write two applications of Hall effect.       [1] 
+   d) Write the main difference of PIN and Avalanche photo diode.   [1] 
+   e)   Write two features of Pyroelectric materials.      [1] 
+   f)  Write an application of bubble memory device.     [1] 
+   g) Define top-down fabrication of nanomaterials. Give example.   [1] 
+   h)  Mention two application of nanomaterial for biology.    [1] 
+   i) What are the wavelengths of CO 2 and He-Ne laser?     [1] 
+   j) Which physical phenomena is behind the working of optical fiber?   [1] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  What are the Born interpretation of the wave function?     
+b) Derive the time independent Schrodinger wave equation. Find the energy states of a mass 
+particle in side one dimensional potential well.     [3+7] 
+OR 
+3.a) Derive and explain the Durde Free electron.       
+b)  Write the significance of E-K diagram and define effective mass. Draw and explain the 
+E-K diagram of electron confined in atomic potential.      [4+6] 
+  
+4.a) Explain in brief the concept of Fermi level. Derive an expression for in intrinsic and 
+extrinsic semiconductor.          
+   b) How does the Fermi level changes with temperature for semiconductors?  [5+5] 
+OR 
+  
+R22
+JNTUH USED PAPERS 2024
+
+5.a)  Explain construction and working principle of LED.  
+b) A LED radiates at 1300 nm. If the forward current in the LED is 10 mA, calculate the 
+power output, assuming an internal quantum efficiency of 1%.       [7+3] 
+ 
+6.a)  Explain the classification of magnetic materials.       
+   b)  Explain the Hysteresis curve of ferromagnetic materials.    
+   c)      Write the features and applications of soft magnetic materials with proper examples. 
+                  [4+3+3] 
+OR 
+7.a) Analyze the conductivity responses of liquid and solid electrolytes.   
+   b) Explain the conditions and features of superionic conductors.   [5+5] 
+ 
+8.a) Classify the nanomaterials according to quantum confinements.      
+b)  Explain how to characterize a nanomaterial with Scanning Electron Microscope (SEM) 
+with neat sketch.      .    [3+7] 
+OR 
+9.a) Analyse the impact of surface to volume ratio for nanomaterials.     
+b)  Write working principle of sol-gel and ball milling technique to produce nanomaterials. 
+Mention the merits and demerits of both the methods.    [3+7] 
+  
+10.a)   Write six features of laser.           
+     b)   Write the working principle and constructions of Nd-YAG laser and its applications.   
+             [5+5] 
+OR 
+11.a) Describe the construction of optical fiber.        
+     b)  Mention the classifications of optical fibers.       
+     c)  Derive the numerical aperture of a multimode optical fiber.           [3+3+4] 
+ 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+JNTUH USED PAPERS 2024
+

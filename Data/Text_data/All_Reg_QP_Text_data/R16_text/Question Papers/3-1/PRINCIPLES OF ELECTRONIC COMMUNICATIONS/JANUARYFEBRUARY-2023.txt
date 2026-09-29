@@ -1,0 +1,83 @@
+Code No: 135CX  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, January/February - 2023 
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS 
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 mar ks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define the term modulation and give the classification of analog modulation 
+techniques.           [2] 
+   b)      Define the terms Channel Bandwidth and Signal Bandwidth.   [3] 
+   c)      Define the term Frequency Modulation.      [2] 
+   d)      List out the advantages and disadvantages of Digital Modulation systems  over analog 
+modulation systems.          [3] 
+   e)      Define Internet Telephony        [2] 
+   f)      Discuss about various types of paging systems.     [3] 
+   g)     How light travels through fiber optics?       [2] 
+   h)      Write about the characteristics of optical fiber transmitter elements.   [3] 
+   i)       Explain WCDMA technology.       [2] 
+   j)       Write about GSM technology.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Explain the need for modulation in communication systems.       
+b) Explain the significance of systems gain and attenuation of signals in communication 
+systems.          [6+4] 
+OR 
+3.a)  Draw the electromagnetic spectrum and specify its applications. 
+b) Draw the spectrum representation of the signal x 1(t)=A*Cos(2*pi*f*t) and                                   
+x2(t) = y(t)*Cos(2*pi*f*t). Given y(t) as below.     [5+5]
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+4.a)  Represent the data stream 1 0 1 1 0 0 0 1 with BFSK and BPSK modulation schemes. 
+b)  Illustrate with necessary diagrams the working of Quadrature Phase Shift Keying 
+(QPSK).          [4+6] 
+OR 
+5.a)  Explain with necessary diagrams the generation of Pulse Amplitude Modulated (PAM) 
+Signal. 
+b) Compare Amplitude Modulation and Frequency Modulation Systems.  [6+4] 
+ 
+6.a)  Compare the networks LAN, PAN and WAN.  
+   b)  Explain with required diagrams the working of PSTN.     [4+6] 
+OR 
+7.a)  Write about Token Ring LAN architecture.  
+   b)  Illustrate with necessary diagrams various types of Bus topology.     [5+5] 
+ 
+8.a)  Explain the principal of trilateration.  
+   b)  Write about various satellite Subsystems.      [5+5] 
+OR 
+9.a)  What are the advantages, applications and disadvantages of optical fiber as compared to 
+copper cables? 
+   b)  Explain the role of satellite ground stations, telemetry and tracking systems.    [4+6] 
+ 
+10.  List out the types of multiple access Systems. Explain the working of CDMA scheme.
+             [10] 
+OR 
+11.a)  Write the applications of RFID communication.  
+     b)  Discuss about Mesh Wireless networks.       [4+6] 
+ 
+  
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

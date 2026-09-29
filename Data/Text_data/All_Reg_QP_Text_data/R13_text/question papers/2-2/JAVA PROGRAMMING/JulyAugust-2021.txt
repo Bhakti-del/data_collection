@@ -1,0 +1,45 @@
+Code No: 114CX 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, July/August - 2021 
+JAVA PROGRAMMING 
+(Common to CSE, IT) 
+Time: 3 Hours                        Max. Marks: 75 
+Answer any Five Questions 
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.a) List and explain various features of Object Oriented Programming paradigm. 
+   b) Explain various access modifiers (private, public, protected and default) used in JAVA.  
+            [7+8]  
+ 
+2.a) Illustrate method overloading with an example JAVA program. 
+   b) Give the syntax of various control statements used in Java programs and explain them.  
+            [7+8] 
+  
+3.a) What is dynamic binding? How it differs from static binding? 
+   b) Explain how JAVA implements run-time polymorphism.     [8+7] 
+ 
+4.a) How to create and access packages in JAVA? Illustrate briefly.  
+   b) Explain nested interfaces with an example JAVA program.     [8+7] 
+ 
+5.   Demonstrate exception handling mechanism with ‘try -catch-finally’ blocks with an 
+example JAVA program.        [15] 
+ 
+6.   Describe the process of connecting to database using JDBC with an illustrative program 
+in JAVA.          [15] 
+ 
+7.a) State the differences between a byte stream and a character stream. 
+b) Write a program to list all the files and directories contained in a directory given as the 
+command line argument.        [7+8] 
+  
+8. What is Layout manager? Discuss different types of layout managers used in JAVA  with 
+demonstration.          [15] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+R13 
+JNTUH Used 29-07-21 AM
+

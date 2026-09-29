@@ -1,0 +1,47 @@
+Code No: 113AU  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, October - 2020 
+ELECTRONIC DEVICES AND CIRCUITS  
+(Common to EEE, ECE, CSE, EIE, IT, MCT) 
+Time: 2 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the operation of PN Diode in forward and reverse bias with neat diagram. 
+   b) Derive an expression for diode current equation.     [8+7] 
+ 
+2.a) Explain the operation  and V-I characteristics of Zener diode. 
+   b)  Explain the operation and characteristics of SCR.     [8+7] 
+ 
+3.a) Explain the operation of Full wave  rectifier and derive the expression for  efficiency of  
+rectifier circuit. 
+b) A 230 V, 50HZ voltage is applied to the primary of 4:1 step down  transformer used in a 
+Bridge rectifier ha ving a load resistance of 600Ω. Assume the diodes to be ideal. 
+Determine i) DC output voltage ii) DC power delivered to the load iii) PIV and iv) output 
+frequency.          [7+8] 
+ 
+4.a) Derive the expression for ripple factor of Half wave Rectifier with C filter.  
+   b) Compare Half wave and full wave and bridge rectifiers.     [8+7] 
+ 
+5.a) Explain the operation of transistor in CB configuration. 
+    b)  Explain input and output characteristics of a transistor in CB configuration. [7+8] 
+ 
+6.a) Draw CE hybrid model of CE transistor configuration. 
+   b)  Explain how Transistor acts as an Amplifier.      [8+7] 
+ 
+7.a) Explain the need of biasing. 
+b)  In a self bias circuit V cc=22.5 V, R c= 5.6 K Ω , R 2= 10 KΩ, R 1= 90 KΩ,  hfe=55,      
+VBE=0.6 V. The transistor operates in active region. Determine  i) operating point and       
+ii) stability factor.         [7+8] 
+ 
+8.a) Explain the operation of p- channel JFET with the help of diagram. 
+   b)  Explain pinch off voltage and drain characteristics of JFET.    [8+7] 
+ 
+ 
+---ooOoo--- 
+ 
+R13 
+ 
+JNTUH USED 05-11-2020 AM
+

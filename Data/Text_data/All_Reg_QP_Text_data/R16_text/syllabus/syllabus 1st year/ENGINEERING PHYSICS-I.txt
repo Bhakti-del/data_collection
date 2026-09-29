@@ -1,0 +1,53 @@
+ENGINEERING PHYSICS/ENGINEERING PHYSICS - I
+B.Tech. I Year I Sem. L   T/P/D  C
+Course Code: PH103BS 3 0/0/0 3
+Course Objectives:
+ To understand interaction of light with matter through interference, diffraction and
+polarization.
+ To able to distinguish ordinary light with a laser light and to realize propagation of light
+through optical fibers.
+ To understand various crystal systems and there structures elaborately.
+ To study various crystal imperfections and probing methods like X-RD.
+Course outcomes: after completion of this course the student is able to
+ Realize the importance of light phenomena in thin films and resolution.
+ Learn principle, working of various laser systems and light propagation through optical
+fibers.
+ Distinguish various crystal systems and understand atomic packing factor.
+ Know the various defects in crystals.
+UNIT-I
+Interference: Coherence, division of amplitude and division of wave front, interference in thin
+films (transmitted and reflected light), Newton’s rings experiment.
+Diffraction: Distinction between Fresnel and Fraunhoffer diffraction, diffraction due to single
+slit, N-slits, Diffraction grating experiment.
+UNIT-II
+Polarization: Introduction, Malus’s law, double refraction, Nicol prism, Quarter wave and half
+wave plates.
+Lasers: Characteristics of lasers, spontaneous and stimulated emission of radiation, Einstein
+coefficients, population inversion, ruby laser, helium – neon laser, semi conductor laser,
+applications of lasers
+UNIT-III
+Fiber Optics: Principle of optical fiber, construction of fiber, acceptance angle and acceptance
+cone, numerical aperture, types of optical fibers: step index and graded index fibers,
+attenuation in optical fibers, applications of optical fibers in medicine and sensors.
+UNIT-IV
+Crystallography: Space lattice, unit cell and lattice parameters, crystal systems, Bravais
+lattices, atomic radius, co -ordination number and packing factor of SC, BCC, FCC, HCP and
+diamond, Miller indices, crystal planes and directions, inter planar spacing of orthogonal
+crystal systems.
+UNIT-V
+X-ray Diffraction and Defects in Crystals: Bragg’s law, X -ray diffraction methods: Laue
+method, powder method; point defects: vacancies, substitutional, interstitial, Frenkel and
+
+Schottky defects, line defects (qualitative) and Burger’s vector, surface defects: stacking faults,
+twin, tilt and grain boundaries.
+Text Books:
+1. Physics Vol. 2, Halliday, Resnick and Kramer John wiley and Sons, Edition 4.
+2. Modern Engineering Physics, K. Vijaya Kumar and S. Chandra Lingam, S. Chand and
+Co. Pvt. Ltd.
+3. Introduction to Solid State Physics, Charles Kittel, Wiley Student edition.
+Reference Books:
+1. X-Ray Crystallography, Phillips, John Wiley publishers.
+2. Waves, Frank S Crawford Jr, Berkeley Physics course, Volume 3.
+3. Solid State Physics, AJ Dekker, MacMilan Publishers.
+4. Introduction to Crystallography, Phillips, John Wiley publishers.
+

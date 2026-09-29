@@ -1,0 +1,98 @@
+ 
+Code No: 151AG 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year I Semester Examinations, May/June - 2019 
+BASIC ELECTRICAL ENGINEERING 
+(Common to EEE, CSE, IT) 
+Time: 3 hours                                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.                  
+ Part B consists of 5 Units. Answer any one full question from each unit. Each  question 
+ carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+1.a) State Thevenin’s theorem.               [2] 
+   b) What is meant by apparent power?                [2] 
+   c)     Why the copper losses are more in a transformer?              [2] 
+   d)      What is necessity of rotating magnetic field in the induction motor?          [2] 
+   e)      What is the difference between fuse unit and switch fuse unit?            [2] 
+   f) What is meant by capacitor charging current, obtain its expression in terms of its time 
+ constant in case of R-C circuit?                   [3] 
+   g)     An alternating voltage 
+
+
+
+
+  3sin3001
+ te , what is its instantaneous voltage at t = 5 ms 
+ and 10 ms for 50 Hz frequency?                [3] 
+   h)      What is the difference between ideal transformer and practical transformer? [3] 
+   i)       What are the advantages of armature winding placing in its stator?            [3] 
+   j)       What are the characteristics of batteries for longer life?             [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) State Kirchhoff Current Law and Volt age law, d etermine the values for IX and VY in the 
+ following given circuit shown in figure 1. 
+ 
+Figure: 1 
+  b) In the following given circuit  shown in figure 2 , calculate i) 
+1 2 3, andv v v  ii) power 
+ delivered to R1, R2 and R3.         [5+5] 
+ 
+Figure: 2 
+OR 
+R18 
+ 
+JNTUH USED BTECH-04-06-2019AM
+
+ 
+3.a) Find the Norton equivalent circuit of the following given circuit  shown in figure 3  with 
+ respect to the  terminals ‘a-b’?   
+ 
+Figure: 3 
+ b)  State and explain superposition theorem.      [5+5] 
+ 
+4.a) Describe phasor representation of RL series circuit? If admittance of a s eries circuit is 
+ (0.010 + j0.004) S. Determine the val ues of the circuit components for the frequency 
+ value of 50 Hz?  
+   b) Balanced Y-connected load of  10 kW at 0.8 power factor lagging supplied by a 50 -Hz, 
+ 300-V, three-phase system. Find the line current delivered by the source. Draw the phasor 
+ diagram.          [5+5]  
+OR 
+5.a) Explain how the sinusoidal waveform is represented as phasor quantity with example. 
+   b) A coil is connected in series with a capaci tor of 20 µF to a 200 V variable frequency 
+ supply. The current is a maximum at 50 A, when the frequency is set to 50 Hz. Determine 
+ the resistance and inductance of the coil.      [5+5] 
+ 
+6.a) Draw and explain the phasor diagram of single phase transformer on lagging load. 
+  b) A 50 kVA, 1000/10000 V, 50Hz single phase transformer has iron loss of 1200W. The 
+ copper loss with 5 A in the high voltage winding is 500 W. Calculate the efficiency at       
+ i) 25 %, ii) 50 % iii) 100 % of normal load at power factor of 0.8.    [5+5]  
+OR 
+7.a) Describe the principle of operation of auto transformer, what is the saving of copper in 
+ this transformer when compared with two winding transformer?  
+   b) Discuss the various three phase transformer groups and their significance?  [5+5] 
+  
+8.a) Describe the constructional details of three phase slip ring induction motor. 
+   b) Describe the torque speed characteristics of separately excited dc motor.  [5+5] 
+OR 
+9.a) What are the various losses occurs in the three phase induction motor in their operation?   
+   b) Describe briefly construction details of any three phase synchronous generator?  [5+5] 
+  
+10.a) Describe the operation of ELCB with its schematic diagram. 
+     b) What are the drawbacks of low power factor, describe how it is improved?  [5+5] 
+OR 
+11.a) What is the difference between MCB and MCCB, describe their schematic diagrams?    
+     b) Calculate total energy consumed per day by the use of following loads: 
+ i) 5 number of 40 W lights operated 5 hours per day  
+     ii) 1 h.p. motor is operated 2 hours per day  
+ iii) 1 k.W heater is operated 1 hour per day  
+  iv) 1 computer is used for 6 hours per day with printer about 30 minutes.   [5+5] 
+ 
+ 
+---ooOoo--- 
+JNTUH USED BTECH-04-06-2019AM
+

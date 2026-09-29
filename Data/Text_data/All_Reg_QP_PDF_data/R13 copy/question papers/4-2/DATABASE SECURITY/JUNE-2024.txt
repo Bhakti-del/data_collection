@@ -1,0 +1,62 @@
+Code No: 118BA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+DATABASE SECURITY 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is a trap door?         [2] 
+   b)      What is the need of log journal in database security?    [3] 
+   c)      State discretionary security property.       [2] 
+   d)      What access modes are considered in Bell-LaPadula model?    [3] 
+   e)      What is meant by observability of a database?     [2] 
+   f)       What is the purpose of ASES system?      [3]  
+   g)      List the entities of SORION model.       [2]  
+   h)      What are the security threats for a frame based system?    [3]  
+   i)       Define active database.        [2] 
+   j)       What is ECA model?         [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. Summarize database protection requirements.     [10] 
+OR 
+3. Make a comparison of Hsiao’s model and Fernandez’s model for database security. 
+            [10] 
+  
+4. Describe the family of policies proposed by Biba model.    [10] 
+OR 
+5. Contrast flow control mechanisms at run time with flow control mechanisms at compile 
+time.           [10] 
+ 
+6. Illustrate the system R authorization model for secure DBMS design.  [10] 
+OR 
+7. Explain the evaluation criteria for inference controls for a statistical database protection. 
+            [10] 
+ 
+ 
+ 
+8. Discuss the special features of a frame based system and compare w ith object oriented 
+system.          [10] 
+R13 
+Used Papers 2024
+
+OR 
+9.a) Contrast content constraints with context constraints. 
+   b) Demonstrate composite objects in object oriented databases.   [5+5] 
+ 
+10. Describe in detail Jagodia and Kogan’s model for protecting an active database. [10] 
+OR 
+11. Demonstrate MLS rules and MLS active data model of an active database.  [10] 
+ 
+ 
+---ooOoo--- 
+Used Papers 2024
+

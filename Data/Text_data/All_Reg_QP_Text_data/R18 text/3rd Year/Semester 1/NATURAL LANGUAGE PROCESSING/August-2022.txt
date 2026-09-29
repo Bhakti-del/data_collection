@@ -1,0 +1,45 @@
+Code No: 155CK 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August - 2022 
+NATURAL LANGUAGE PROCESSING 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+---- 
+ 
+1.a)  Discuss the structure and components of words.  
+   b)  Explain any one Morphological model.       [7+8] 
+ 
+2.a)  Discuss the Complexity of the  approaches in NLP. 
+   b)  Explain the Performance of various methods in NLP.     [7+8] 
+  
+3.a)  Explain about data driven approach to syntax. 
+   b)  Give an overview of parsing algorithms.      [8+7] 
+ 
+4.a)  Give an overview of various approach for syntactic representation. 
+   b)  What are the issues in multilingual syntactic analysis?    [8+7] 
+ 
+5.a)  Given there is a train on platform 6. 
+ Its Destination is Hyderabad. 
+ There is another train is in platform 7. 
+ Its destination is Delhi.    
+ Write Procedure for Anaphora Resolution. 
+   b) Explain Word Sense Disambiguation.       [8+7] 
+ 
+6.a)  Explain Morphological structure. 
+   b)  What kind of softwares are available for semantics in NLP.     [7+8] 
+ 
+7.a)  Explain Predicate Argument Structure.   
+   b)  How many kinds of predicates are used to handle a basic statement? Give example.
+            [7+8]  
+ 
+8.a)  How Parameter Estimation supports Language Modelling? 
+   b) Differentiate Bilingual and Cross lingual Language Models.    [7+8] 
+  
+ 
+ 
+---ooOoo--- 
+ R18 
+jntuh used paper aug-2022
+

@@ -1,0 +1,47 @@
+Code No:  153AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, March - 2022 
+ANALOG AND DIGITAL ELECTRONICS 
+(Common to CSE, IT, ECM, ITE, CSE(SE), CSE(CS), CSE(N)) 
+Time: 3 Hours                                  Max. Marks: 75 
+Answer any five questions 
+Each Carries Equal Marks 
+- - - 
+ 
+1.a) Explain the operation of PN junction under forward bias condition with its 
+characteristics.           
+   b) Describe the operation of Half Wave Rectifier with and without filters.  [7+8] 
+    
+2.a) Explain about RC coupled amplifier and sketch the frequency response plot of an RC 
+coupled amplifier  
+b) A transistor operating in CB configuration has I C = 2.98mA, I E = 3.00 mA and           
+         ICO =0.01 mA. What current will flow  in the collector circuit of this transistor when
+ connected in CE configuration with a base current of 30μA.             [10+5] 
+  
+3.a)  What is thermal runaway? What is the condition for thermal stability in CE 
+configuration? 
+   b)  Derive the expression for stability factor S in self-bias circuit.   [8+7]     
+ 
+4.a) Explain the operation of JFET and draw the drain and transfer characteristics.  
+   b) Explain about 2 input TTL NAND Gate.               [10+5] 
+  
+5.a) Convert the decimal number (128.25)10  into binary, octal, hexadecimal number system. 
+   b) Build basic gates AND, NOT, OR using NAND and NOR gates.   [6+9]  
+ 
+6.a) Simplify the following Boolean expression into one literal. W′X(Z′+YZ) + X(W+Y′Z). 
+   b)  What is multiplexer?  Draw circuit diagram of 8:1 multiplexer.  Explain its working
+ in brief.           [6+9] 
+  
+7.a)    Design a full subtractor circuit by using K-map method and draw the logic diagram. 
+   b) Explain 4-bit ring counter with circuit diagram and waveforms.    [8+7] 
+    
+8.a) Draw the logic diagram of clocked RS flip -flop using NAND gates  and explain its 
+working. 
+  b)  With a neat diagram, explain 3-bit parallel in serial out shift register.  [7+8] 
+  
+ 
+ 
+---ooOoo--- 
+ R18 
+JNTUH Usedpapers March 2022
+

@@ -1,0 +1,51 @@
+Code No: 123BN/113BN  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, March - 2021 
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+(R15 - Common to CSE, IT; R13 - Common to CSE, IT) 
+Time: 3 hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Obtain principal conjunctive normal form (PCNF) for the formula (~p → r) Λ (q ↔ p). 
+   b) Using automatic theorem proving, prove that (~Q Λ (P → Q)) 
+  ~ P.  [7+8] 
+ 
+2.a) Use indirect method to show that P → Q , Q → R , ~ ( P Λ R) , P V R 
+  R.  
+   b) Show that A
+ (B
+ C) = (A
+ B)
+ (A
+ C), Where A, B and C are any sets. [8+7] 
+ 
+3. Consider the algebraic system G = < {e,a,b}, * > in which * is defined as follows: 
+   * e a b 
+   e e a b 
+   a a b e 
+   b b e a 
+ Show that G is Abelian group.       [15] 
+ 
+4.a) Illustrate Pigeon hole principle and its applications.  
+   b) Find the number of non negative integral solutions to the in equality  
+ X1+X2+X3 <=12         [8+7] 
+ 
+5. Find the number of ways of distributing 48  similar balls in 6  distinct boxes where first 
+ two boxes contains atleast 3 balls and remaining boxes contains atleast 4 balls. [15] 
+ 
+6. Solve the recurrence relation  an - 5 an-1 + 8 a n-2 – 4 an-3= 0 for n ≥ 3, a 0 = 1 and a 1 = 0,         
+ a2 = 1.           [15] 
+ 
+7. Find the solution for the Fibonacci series an=an-1+an-2, n>2 and a0=1, a1=1.   [15] 
+  
+8. What is spanning tree? What is minimum cost spanning tree? What are the different 
+ algorithms to compute minimum cost spanning tree? Explain with suitable, examples.[15] 
+ 
+ 
+ 
+---ooOoo--- 
+R15/R13 
+13-03-2021AM
+

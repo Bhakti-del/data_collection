@@ -1,0 +1,38 @@
+Code No: 117BW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+ COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What are the services of computer forensics? 
+   b) List the steps taken by computer forensics to collect evidence.   [7+8] 
+ 
+2.a) Explain backup obstacles and data recovery solutions. 
+   b) Explain about computer evidence preserving techniques.    [7+8] 
+ 
+3.a) Why computer evidence is collected? Give its options. 
+   b) Give the general procedure to collect evidence.     [7+8] 
+ 
+4.  What are artifacts? Explain the steps for collecting artifacts.    [15] 
+ 
+5.a) What is digital hash and explain the steps to obtain digital hash? 
+   b) Give steps to collect the evidence in remote system.     [8+7] 
+ 
+6.a) Explain data hiding techniques in detail. 
+   b) What is digital evidence and write about strong digital evidence.   [7+8]  
+ 
+7.a)  Explain about different computer forensic software tools. 
+   b) Explain the steps for investigating email crime and violations.   [7+8] 
+ 
+8.a)  Discuss about NTFS file structure. 
+   b) What is Microsoft Bit Locker? Explain how to examine it.    [7+8] 
+ 
+ 
+---oo0oo--- 
+ R13 
+JNTUH Used Papers
+

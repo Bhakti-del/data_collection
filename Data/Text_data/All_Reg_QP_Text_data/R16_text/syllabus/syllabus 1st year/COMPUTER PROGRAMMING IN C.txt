@@ -1,0 +1,66 @@
+COMPUTER PROGRAMMING IN C
+B.Tech. I Year I Sem. L   T/P/D  C
+Course Code: CS104ES/CS204ES 3 0/0/0 3
+Course Objectives:
+ To learn the fundamentals of computers.
+ To understand the various steps in Program development.
+ To learn the syntax and semantics of C Programming Language.
+ To learn how to write modular and readable C Programs.
+ To learn to write programs using structured programming approach in C to solve
+problems.
+Course Outcomes:
+ Demonstrate the basic knowledge of computer hardware and software.
+ Ability to write algorithms for solving problems.
+ Ability to draw flowcharts for solving problems.
+ Ability to code a given logic in C programming language.
+ Gain knowledge in using C language for solving problems.
+UNIT - I
+Introduction to Computers – Computer Systems, Computing Environments, Computer Languages,
+Creating and running programs, Program Dev elopment, algorithms and flowcharts , Number
+systems-Binary, Decimal, Hexadecimal and Conversions, storing integers and real numbers.
+Introduction to C Language – Background, C Programs, Identifiers, Types, Variables, Constants,
+Input / Output, Operators(Arithmetic, relational, logical, bitwise etc.), Expressions,  Precedence
+and Associativity, Expression Evaluation, Type conversions,  Statements - Selection
+Statements(making decisions) – if and switch statements, Repetition statements ( loops) -while,
+for, do-while statements, Loop examples, other statements related to looping – break, continue,
+goto, Simple C Program examples.
+UNIT - II
+Functions-Designing Structured Programs, Functions, user defined functions, inter function
+communication, Stand ard functions, Scope, Storage classes -auto, register, static, extern, scope
+rules, type qualifiers, recursion - recursive functions, Limitations of recursion, example C
+programs.
+Arrays – Concepts, using arrays in C, inter function communication, array app lications- linear
+search, binary search and bubble sort, two – dimensional arrays, multidimensional arrays, C
+program examples.
+UNIT - III
+Pointers – Introduction (Basic Concepts), Pointers for inter function communication, pointers to
+pointers, compatibility, Pointer Applications -Arrays and Pointers, Pointer Arithmetic and arrays,
+Passing an array to a function, memory allocation functions, array of pointers, programming
+applications, pointers to void, pointers to functions.
+Strings – Concepts, C Strings, String Input / Output functions, arrays of strings, string
+manipulation functions, string / data conversion, C program examples.
+
+UNIT - IV
+Enumerated, Structure ,and Union Types – The Type Definition (typedef), Enumerated types,
+Structures –Declaration, initialization, accessing structures, operations on structures, Complex
+structures-Nested structures, structures containing arrays, structures containing pointers, arrays of
+structures, structures and functions, Passing structures through pointers, self r eferential structures,
+unions,  bit fields, C programming examples, command–line arguments, Preprocessor commands.
+UNIT – V
+Input and Output – Concept of a file, streams,  text files  and binary files, Differences between
+text and binary files, State of a file, Opening and Closing files, file input / output functions
+(standard library  input / output functions for files), file status functions (error handling),
+Positioning functions (fseek ,rewind and ftell), C program examples.
+Text books:
+1) Computer Science: A Structured Programming Approach Using C, B.A. Forouzan and R.
+F. Gilberg, Third Edition, Cengage Learning.
+2) Programming in C. P. Dey and M Ghosh , Second Edition, Oxford University Press.
+Reference books:
+1) The C Programming Language, B.W. Kernighan and Dennis M. Ritchie, Second Edition,
+Pearson education.
+2) Programming with C, B. Gottfried, 3rd edition, Schaum’s outlines, McGraw Hill Education
+(India) Pvt Ltd.
+3) C From Theory to Practice, G S. Tselikis and N D. Tselikas, CRC Press.
+4) Basic computation and Programming with C, Subrata Saha and S. Mukherjee, Cambridge
+University Press.
+

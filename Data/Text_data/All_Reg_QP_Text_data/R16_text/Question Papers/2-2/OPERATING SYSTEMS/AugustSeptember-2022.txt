@@ -1,0 +1,37 @@
+Code No: 134BU        
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, August/September - 2022 
+OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours         Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explore operating system in users view point as well as system view point. 
+   b) What is a multi processor system? Discuss its advantages.    [7+8] 
+ 
+2.a) Illustrate the operations of operating system. 
+   b) Discuss briefly the types of system calls provided by an operating system.  [8+7] 
+ 
+3.a) Define process. Explain process state transition diagram. 
+   b) Illustrate process creation on windows systems.     [7+8] 
+ 
+4.a) Describe the Round Robin scheduling algorithm. Illustrate with an example. 
+   b) Provide a solution to Dining Philosopher’s problem using semaphores.  [8+7] 
+ 
+5.a) Compare paging and segmentation of IA-32. 
+   b) Demonstrate first-fit, best-fit and worst-fit for storage allocation.   [6+9] 
+ 
+6.a) Describe paging hardware with translation look-aside buffer. 
+   b) Illustrate Least recently used page replacement algorithm with an example. [7+8] 
+ 
+7.a) Explain mounting in network file system. 
+   b) Make a comparison of C-SCAN and C-LOOK algorithms for disk scheduling. [7+8] 
+ 
+8.a) Demonstrate Banker’s algorithm for deadlocks. 
+   b) What is an access matrix? Explain implementation of an access matrix.  [8+7] 
+ 
+---oo0oo--- 
+R16 JNTUH Used paper Aug-2022
+

@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Code No: 138HC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2023 
+TOTAL QUALITY MANAGEMENT 
+ (Common to CE, EEE, ECE, CSE, IT) 
+Time: 3 Hours                      Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Brief on products inspection Vs Process control.     [2] 
+   b)      What are the Fundamental factors that affect quality?    [3] 
+   c)      How does process control enable better quality than product control?  [2] 
+   d)      Explain Quality focus by giving suitable examples.     [3] 
+   e)      What is the purpose served by drawing fish-bone diagram?    [2] 
+   f)       What does scatter diagram reveal?       [3] 
+   g)      What are the Components of external failure costs?                                                  [2] 
+   h)      Should quality be free? Why or why not?      [3] 
+   i)       Is ISO certification product based or process based? Explain briefly.  [2] 
+   j)       Are ISO 9000 standards, process based or product based?    [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Differentiate between Quality in Manufacturing sector and Service Sector. Give a brief 
+description on Acceptance Sampling. 
+   b)  When is acceptance sampling useful?       [5+5]  
+OR 
+3.a)  What are the determinants of quality? 
+b)  Discuss the difference between traditional quality management and modern quality 
+management.          [5+5] 
+ 
+4.a)  How does marketing and sales plays crucial role in TQM? 
+   b)  What is the relevance of marketing and customer focus to quality improvement?  [5+5]  
+OR 
+5.a)  Discuss about buyer-supplier relationships towards building quality. 
+b)  What is Benchmarking? What are its benefits? What are the limitations of bench marking? 
+            [5+5] 
+   
+6.a)  Write a note on Systems approach to TQM.    
+   b)  How to Implement TQM in an organization?      [5+5] 
+OR 
+7.a)  Describe the transition from traditional to TQM approach. 
+   b)   How does Check- sheet serve as TQM tool?      [5+5] 
+ 
+ 
+ 
+ 
+R16 
+used paper July/Aug-2023
+
+ 
+ 
+ 
+8.a)  What is the importance of analyzing quality cost information?  
+   b)  What is the need for separate quality accounting system?       [5+5] 
+OR 
+9.a)  Examine the role of accounting system on quality management. 
+b)  Who should be presented with quality cost information? What should be the frequency of 
+reporting?          [5+5] 
+    
+10.a)  Explain the benefits of ISO certification. 
+     b) What is quality policy statement?           [5+5] 
+OR 
+11.a)  What are the various quality-documentation requirement for ISO 9000 certification? 
+     b)  Describe the benefits of ISO 9000 to an Organization.    [5+5] 
+  
+ 
+                                                                 ---ooOoo--- 
+used paper July/Aug-2023
+

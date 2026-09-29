@@ -1,0 +1,77 @@
+Code No: 115DT 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, July/August - 2023 
+COMPUTER NETWORKS  
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      List the layers in TCP/IP network model.      [2] 
+   b)      Explain guided transmission media.       [3] 
+   c)      What is a router?           [2] 
+   d)      What are collision free protocols?       [3] 
+   e)      What is static routing?        [2]    
+   f)      Explain the reasons for occurrence of congestion in networks.   [3]     
+   g)      What is Address Resolution Protocol (ARP)?     [2]    
+   h)      What is CIDR?         [3]    
+   i)       Explain DNS.          [2] 
+   j)       What are services provided by application layer?     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  What are the reasons for using layered protocols? 
+   b)  What is OSI model? Explain in detail the functions of different layers in OSI model.
+            [5+5] 
+OR 
+3.a)  Explain the operation of sliding window protocol. 
+   b)  Explain the design issues in data link layer.      [5+5] 
+  
+4.a)  Explain CSMA with collision detection. 
+   b)  Briefly explain the operation of ALOHA system.     [5+5] 
+OR 
+5.a)  Describe the Ethernet standards. 
+   b)  Explain the purpose of spanning tree bridges in mac sub layer.   [5+5] 
+  
+6.a)  Using an example network, explain distance vector routing.   
+   b)  Explain congestion control mechanisms at network layer.     [5+5] 
+OR 
+7.a)  Enumerate the difference between virtual circuit and data gram subnets. 
+   b)  Explain hierarchical routing.        [5+5] 
+  
+ 
+ 
+ 
+ R13 
+used paper July/Aug-2023
+
+ 
+8.a)  In detail, explain the different addressing schemes in computer networks. 
+   b)  Explain features and purpose of ICMP protocol.     [5+5] 
+OR 
+9.a)  Explain crash recovery in transport layer.  
+   b)  Briefly explain the operation of DHCP.      [5+5] 
+ 
+10. Explain the TCP connection establishment, TCP connection release, and TCP 
+connection management.           [10] 
+OR 
+11.  With respect to application layer, write short notes on:  
+a) Client server model  
+      b) SSH           [5+5] 
+ 
+      
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+used paper July/Aug-2023
+

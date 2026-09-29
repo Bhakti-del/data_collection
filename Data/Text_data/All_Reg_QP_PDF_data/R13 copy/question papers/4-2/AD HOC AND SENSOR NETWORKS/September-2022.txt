@@ -1,0 +1,33 @@
+Code No: 118AA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2022 
+ADHOC AND SENSOR NETWORKS  
+(Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. List and explain the challenges in Mobile Ad Hoc Networks.     [15] 
+ 
+2. Give an example to explain any one position based routing protocol.    [15] 
+  
+3. Discuss about fairness related solution for TCP over adhoc networks.    [15] 
+ 
+4. Explain the working principle of Mesh based Geo-cast Routing protocol.    [15] 
+  
+5. Explain about the MAC and Routing layer in wireless sensor networks?         [15] 
+ 
+6. Illustrate the design of routing protocol for W SNs which influence fault tolerance,  
+security, connectivity, Adhoc deployment and QoS.             [15] 
+  
+7. Write about the N Party Diffie Hellman Key Agreement protocol.      [15] 
+ 
+8. Describe the architecture of TOSSIM.        [15] 
+ 
+ 
+---ooOoo--- 
+ 
+R13 
+JNTUH Used Papers
+

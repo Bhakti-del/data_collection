@@ -1,0 +1,71 @@
+Code No: 156AH 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August/September - 2021 
+COMPILER DESIGN 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  State the reasons for separating Lexical analysis and Syntax analysis. 
+b)  Discuss how Finite Automata is used to re cognize tokens and perform lexical analysis 
+with example.          [7+8] 
+ 
+2.a)  How to  specify the Tokens? Differentiate Token, Lexeme and Pattern with suitable 
+examples.  
+   b)   Explain various Error Recovery strategies in Lexical analysis.   [7+8] 
+ 
+3.a)  What do you mean by Ambiguous Grammar? Check whether the following grammar is 
+Ambiguous or not  
+S→aAB, 
+A→bC/cd, 
+C→cd, 
+B→c/d 
+   b) Write a note on Yacc.         [8+7] 
+ 
+4.      Construct CLR parsing table for the following Grammar 
+                 S L=R 
+                 SR 
+                 L*R 
+                 Lid 
+                  RL (Write all necessary procedures).        [15] 
+ 
+5.a)  Give Syntax Directed Translation scheme for Simple Desk Circulator. 
+b)  Convert the following arithmetic expression into Syntax Tree and Three Address Code                   
+b*3(a+b).          [7+8] 
+ 
+6.a)  Differentiate Synthesized and Inherited Attributes with example. 
+b)  Generate Intermediate code for the following code segment along with the Syntax 
+Directed Translation Scheme. 
+if (a > b) 
+x = a + b; 
+else 
+x = a - b; 
+Where ‘a’ and ‘x’ are of real and ‘b’ of int type data.    [7+8] 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+USED PAPERSAUG/SEP-2021
+
+ 
+7.a)  What is Flow-Graph? Explain how the given program can be converted into Flow-
+Graph? 
+   b)   Construct DAG for the following basic block: 
+d:= b+c 
+e:= a+b 
+b:=b*c 
+a:=e-d           [8+7] 
+ 
+8.a)  “Copy propagation Leads to Dead code” - Justify the statement.    
+   b)  Explain Global Data Flow analysis with necessary equations.   [7+8] 
+ 
+  
+---ooOoo--- 
+ 
+USED PAPERSAUG/SEP-2021
+

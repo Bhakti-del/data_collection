@@ -1,0 +1,81 @@
+ 
+ 
+ 
+Code No: 126AP            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, August/September - 2024 
+ DISTRIBUTED SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 mar ks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)    Write the consequences of distributed systems.     [2] 
+   b)    What is Internet-scale distributed systems?      [3] 
+   c)    Brief about clock skew and clock drift.        [2] 
+   d)    Define total and causal ordering of multicast messages.    [3] 
+   e)    Differentiate synchronous and asynchronous communication.   [2] 
+   f)    Write about At-least-once semantics and At-most-once semantics.   [3] 
+   g)    List any four UNIX file system operations.        [2] 
+   h)   What is URI, URN and URL?       [3] 
+   i)    Write about ACID properties of a transaction.     [2] 
+   j)    Brief about strict two-phase locking.       [3] 
+ 
+PART - B 
+(50 Marks) 
+ 
+2.a)  What is client -server computing? Explain remote invocation in this context of client -
+server computing. 
+   b)  What are the principle characteristics of Distributed Systems?   [5+5] 
+OR 
+3.a)  What are the performance bottlenecks of distributed systems with respect to scalability?   
+         Discuss the solution to avoid these bottlenecks. 
+   b)  What are the two variants of the interaction model in distributed systems? Discuss the                  
+ differences between these variants differ.      [5+5] 
+  
+4.a)  Explain Cristian’s method for synchronizing clocks. 
+   b)  Write and discuss Maekawa’s voting algorithm.     [5+5] 
+OR 
+5.a)  Write the ‘snapshot’ algorithm  proposed by Chandy and Lamport. 
+   b) Explain the Ricart and Agrawala’s multicast-based mutual exclusion algorithm in brief. 
+            [5+5] 
+  
+6.a)  Explain about TCP stream communication. 
+   b)  Discuss an overlay network used in Skype.      [5+5] 
+OR 
+7.a)  What type of failures may occur in IP multicast? How it can be resolved? 
+   b)  Explain request-reply protocol with respect to HTTP.    [5+5] 
+ 
+ 
+ 
+R13 
+used paper Aug-2024
+
+ 
+ 
+ 
+ 
+ 
+8.a)  Elaborate various distributed file system requirements. 
+   b)  What are the design and implementation issues of distributed shared memory? [5+5] 
+OR 
+9.a)  Discuss about sequential consistency in DSM system. 
+   b)  How the DNS is implemented using Berkeley Internet Name Domain (BIND)? [5+5] 
+ 
+10.a)  What is the need for concurrency control? Explain with an example. 
+     b)  How deadlocks are detected in distributed environment? Explain.   [5+5] 
+OR 
+11.a)  Write about optimistic concurrency control. 
+     b)  Explain about log based recovery in distributed environment.   [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+used paper Aug-2024
+

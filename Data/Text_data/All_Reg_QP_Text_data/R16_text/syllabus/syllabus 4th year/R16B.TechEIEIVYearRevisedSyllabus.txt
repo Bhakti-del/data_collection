@@ -1,0 +1,1791 @@
+R16 B.TECH EIE. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. ELECTRONICS AND INSTRUMENTATION ENGINEERING 
+IV YEAR COURSE STRUCTURE AND SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+  
+IV YEAR I SEMESTER 
+S. No Course Code Course Title L T P Credits 
+1 EI701PC Embedded System Design 4 0 0 4 
+2 EI702PC Industrial Automation 4 0 0 4 
+3  Professional Elective – II 3 0 0 3 
+4  Professional Elective - III 3 0 0 3 
+5  Professional Elective - IV 3 0 0 3 
+6 EI703PC Embedded Systems Lab 0 0 3 2 
+7 EI704PC Industrial Automation Lab 0 0 3 2 
+8 EI705PC Industry Oriented Mini Project 0 0 3 2 
+9 EI706PC Seminar 0 0 2 1 
+  Total Credits 17 0 11 24 
+ 
+IV YEAR II SEMESTER 
+S. No Course Code Course Title L T P Credits 
+1  Open Elective - III 3 0 0 3 
+2  Professional Elective - V 3 0 0 3 
+3  Professional Elective - VI 3 0 0 3 
+4 EI801PC Major Project 0 0 30 15 
+  Total Credits 9 0 30 24 
+ 
+Professional Elective – I 
+EI611PE  Principles of Communications  
+EI612PE   Virtual Instrumentation 
+EI613PE   Object Oriented Programming through JAVA 
+EI614PE   Hydraulic and Pneumatic Control Systems 
+ 
+Professional Elective – II 
+EI721PE  Optoelectronics & Laser Instrumentation 
+ET722PE Digital Image Processing 
+EI723PE Telemetry and Telecontrol 
+EI724PE  Adaptive Control Systems 
+ 
+ 
+ 
+
+R16 B.TECH EIE. 
+Professional Elective – III 
+EI731PE  Biomedical Instrumentation 
+EI732PE Power plant Instrumentation 
+EE731PE Digital Control Systems 
+EI734PE  Medical Imaging Techniques  
+ 
+Professional Elective – IV 
+EI741PE VLSI Design 
+EI742PE  Robotics and Automation 
+EI743PE  Instrumentation Practices in Industries 
+EI744PE  Embedded Real Time Operating Systems  
+ 
+Professional Elective – V 
+EI851PE  Neural Networks and Fuzzy Logic   
+EI852PE  MEMS and Applications 
+EI853PE  Computer Networks 
+EI854PE  Industrial Data Communications 
+ 
+Professional Elective – VI 
+EI861PE Internet of Things 
+EI862PE Reliability Engineering  
+EI863PE  DSP Processors and Architectures 
+EI864PE Machine Learning 
+ 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH EIE. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+LIST OF OPEN ELECTIVES OFFERED BY VARIOUS DEPARTMENTS FOR 
+B.TECH. III AND IV YEARS 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective – I 
+(Semester – V) 
+Open Elective – II 
+(Semester – VI) 
+1 Aeronautical Engg. AE511OE: Introduction 
+to Space Technology 
+AE621OE: Introduction to 
+Aerospace Engineering 
+2 Automobile Engg. CE511OE: Disaster 
+Management 
+MT512OE: Intellectual 
+Property Rights 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+3 Biomedical Engg. BM511OE: Reliability 
+Engineering 
+BM621OE: Medical 
+Electronics 
+4 Civil Engg. CE511OE: Disaster 
+Management. 
+CE621OE: Remote 
+Sensing and GIS 
+CE622OE: Geo-
+Informatics 
+CE623OE: Intellectual 
+Property Rights 
+5 Civil and Environmental 
+Engg. 
+CE511OE: Disaster 
+Management 
+CN621OE: Environmental 
+Impact Assessment  
+CE623OE: Intellectual 
+Property Rights 
+6 Computer Science and Engg. 
+/ Information Technology 
+CS511OE: Operating 
+Systems  
+CS512OE: Database 
+Management Systems 
+CS621OE: Java 
+Programming  
+CS622OE: Software 
+Testing Methodologies  
+CS623OE: Cyber Security 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC511OE: Principles of 
+Electronic 
+Communications 
+EC621OE: Principles of 
+Computer Communications 
+and Networks 
+8 Electronics and Computer 
+Engg. 
+EM511OE: Scripting 
+Languages 
+EM621OE: Soft 
+Computing Techniques 
+9 Electrical and Electronics 
+Engg. 
+EE511OE: Non-
+Conventional Power 
+Generation  
+EE512OE: Electrical 
+Engineering Materials  
+EE513OE: 
+Nanotechnology 
+EE621OE: Design 
+Estimation and Costing of 
+Electrical Systems  
+EE622OE: Energy Storage 
+Systems 
+EE623OE: Introduction to 
+Mechatronics 
+10 Electronics and 
+Instrumentation Engg. 
+EI511OE: Electronic 
+Measurements and 
+Instrumentation 
+EI621OE: Industrial 
+Electronics 
+11 Mechanical Engg. ME511OE: Optimization 
+Techniques  
+ME512OE: Computer 
+Graphics 
+ME513OE: Introduction 
+ME621OE: World Class 
+Manufacturing  
+ME622OE: Fundamentals 
+of Robotics 
+ME623OE: Fabrication 
+
+R16 B.TECH EIE. 
+to Mechatronics 
+ME514OE: 
+Fundamentals of 
+Mechanical Engineering 
+Processes 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT511OE: Fabrication 
+Processes 
+NT512OE: Non 
+destructive Testing 
+Methods 
+NT513OE: 
+Fundamentals of 
+Engineering Materials 
+NT621OE: Introduction to 
+Material Handling 
+NT622OE: Non-
+Conventional Energy 
+Sources 
+NT623OE: Robotics 
+13 Mechanical Engg. 
+(mechatronics) 
+MT511OE: Analog and 
+Digital I.C. Applications 
+MT512OE: Intellectual 
+Property Rights 
+MT513OE: Computer 
+Organization 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+MT623OE: Industrial 
+Management 
+ 
+14 Metallurgical and Materials 
+Engg. 
+MM511OE: Materials 
+Characterization 
+Techniques 
+MM621OE: Science and 
+Technology of Nano 
+Materials 
+MM622OE: Metallurgy of 
+Non Metallurgists 
+15 Mining Engg. MN511OE: Introduction 
+to Mining Technology 
+MN621OE: Coal 
+Gasification, Coal Bed 
+Methane and Shale Gas 
+16 Petroleum Engg. PE511OE: Materials 
+Science and Engineering 
+PE512OE: Renewable 
+Energy Sources 
+PE513OE: 
+Environmental 
+Engineering 
+PE621OE: Energy 
+Management and 
+Conservation 
+PE622OE: Optimization 
+Techniques 
+PE623OE: 
+Entrepreneurship and 
+Small Business Enterprises 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective –III 
+(Semester – VIII) 
+1 Aeronautical Engg. AE831OE: Air Transportation Systems 
+AE832OE: Rockets and Missiles 
+2 Automobile Engg. AM831OE: Introduction to Mechatronics 
+AM832OE: Microprocessors and Microcontrollers 
+3 Biomedical Engg. BM831OE: Telemetry and Telecontrol  
+BM832OE: Electromagnetic Interference and 
+Compatibility 
+4 Civil Engg. CE831OE: Environmental Impact Assessment  
+CE832OE: Optimization Techniques in Engineering 
+CE833OE: Entrepreneurship and Small Business 
+Enterprises 
+5 Civil and Environmental 
+Engg. 
+CN831OE: Remote Sensing and GIS  
+CE833OE: Entrepreneurship and Small Business 
+
+R16 B.TECH EIE. 
+Enterprises 
+6 Computer Science and 
+Engg. / Information 
+Technology 
+CS831OE: Linux Programming  
+CS832OE: R Programming  
+CS833OE: PHP Programming 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC831OE: Electronic Measuring Instruments 
+8 Electronics and Computer 
+Engg. 
+EM831OE: Data Analytics 
+9 Electrical and Electronics 
+Engg. 
+EE831OE: Entrepreneur Resource Planning 
+EE832OE: Management Information Systems 
+EE833OE: Organizational Behaviour  
+10 Electronics and 
+Instrumentation Engg. 
+EI831OE: Sensors and Transducers,  
+EI832OE: PC Based Instrumentation 
+11 Mechanical Engg. ME831OE: Total Quality Management  
+ME832OE: Industrial Safety, Health, and 
+Environmental Engineering  
+ME833OE: Basics of Thermodynamics  
+ME834OE: Reliability Engineering 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT831OE: Concepts of Nano Science And Technology  
+NT832OE: Synthesis of Nanomaterials  
+NT833OE: Characterization of Nanomaterials 
+13 Mechanical Engg. 
+(mechatronics) 
+MT831OE: Renewable Energy Sources 
+MT832OE: Production Planning and Control 
+CE833OE: Entrepreneurship and Small Business 
+Enterprises 
+14 Metallurgical and Materials 
+Engg. 
+MM831OE: Design and Selection of Engineering 
+Materials 
+15 Mining Engg. MN831OE: Solid Fuel Technology 
+MN832OE: Health & Safety in Mines 
+16 Petroleum Engg. PE831OE: Disaster Management 
+PE832OE: Fundamentals of Liquefied Natural Gas 
+PE833OE: Health, Safety and Environment in 
+Petroleum Industry  
+ 
+*Open Elective – Students should take Open Electives from List of Open Electives Offered 
+by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH EIE. 
+EMBEDDED SYSTEM DESIGN 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI701PC/EC734PE/ET742PE                       4     0    0    4 
+ 
+Course Objectives: 
+ To provide an overview of Design Principles of Embedded System. 
+ To provide clear understanding about the role of firmware, operating systems in 
+correlation with hardware systems. 
+ 
+Course Outcomes: 
+ Expected to understand the selection procedure of Processors in the embedded 
+domain. 
+ Design Procedure for Embedded Firmware. 
+ Expected to visualize the role of Real time Operating Systems in Embedded Systems. 
+ Expected to evaluate the Correlation between task synchronization and latency issues 
+ 
+UNIT - I 
+Introduction to Embedded Systems: Definition of Embedded System, Embedded Systems 
+Vs General Computing Systems, History of Embedded Systems, Classificat ion, Major 
+Application Areas, Purpose of Embedded Systems, Characteristics and Quality Attributes of 
+Embedded Systems. 
+ 
+UNIT - II 
+Typical Embedded System: Core of the Embedded System: General Purpose and Domain 
+Specific Processors, ASICs, PLDs, Commercial Off-The-Shelf Components (COTS). 
+Memory: ROM, RAM, Memory according to the type of Interface, Memory Shadowing, 
+Memory selection for Embedded Systems, Sensors and Actuators, Communication Interface: 
+Onboard and External Communication Interfaces. 
+ 
+UNIT - III 
+Embedded Firmware: Reset Circuit, Brown -out Protection Circuit, Oscillator Unit, Real 
+Time Clock, Watchdog Timer, Embedded Firmware Design Approaches and Development 
+Languages. 
+ 
+UNIT - IV 
+RTOS Based Embedded System Design: Operating System Basics, Types of Operating 
+Systems, Tasks, Process and Threads, Multiprocessing and Multitasking, Task Scheduling. 
+ 
+UNIT - V 
+Task Communication : Shared Memory, Message Passing, Remote Procedure Call and 
+Sockets, Task Synchronization: Task Communication/Synchronization Issues, Task 
+Synchronization Techniques, Device Drivers, How to Choose an RTOS. 
+ 
+
+R16 B.TECH EIE. 
+TEXT BOOKS: 
+1. Introduction to Embedded Systems - Shibu K.V, Mc Graw Hill. 
+ 
+REFERENCE BOOKS: 
+1. Embedded Systems - Raj Kamal, MC GRAW HILL EDUCATION. 
+2. Embedded System Design - Frank Vahid, Tony Givargis, John Wiley. 
+3. Embedded Systems – Lyla, Pearson, 2013 
+4. An Embedded Software Primer - David E. Simon, Pearson Education. 
+ 
+  
+
+R16 B.TECH EIE. 
+INDUSTRIAL AUTOMATION 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI702PC                          4     0    0    4 
+ 
+Pre-requisites: Nil 
+ 
+UNIT - I  
+Programmable Logic Controllers (PLCs):  Evolutions of PLCs – Sequential and 
+Programmable Controllers, Architecture, Communication Networks for PLC, Comparative 
+study of Industrial PLCs. 
+ 
+UNIT - II  
+PLC Programming:  PLC Programming - Ladder logic, Functional block, Sequential 
+Function Chart, Structured Text, and Instruction list. 
+ 
+UNIT - III   
+SCADA: Hardware and software, Remote terminal units, Master station, Communication 
+architectures and open SCADA protocols. 
+ 
+UNIT - IV 
+Distributed Control System (DCS):  Various Architectures – Comparison, Local control 
+unit, Operator Interface, Displays, Engineering interface, Study of any one DCS available in 
+market, Factors to be considered in selecting DCS. 
+ 
+UNIT - V 
+Advanced Topics in Automation: Study of Distributed Control Systems available in market, 
+Factors to be considered in selecting DCS, OLE for Process Automation (OPC), Internet of 
+Things, Cloud based Automation. 
+ 
+TEXT BOOKS: 
+1. F.D. Petruzella- Programmable Logic Controllers, Tata Mc -Graw Hill, Third Edition, 
+2010. 
+2. Michael P. Lukas - Distributed Control Systems: Their Evaluation and Design, Van  
+Nostrand Reinhold Co., 1986. 
+3. Clarke. G, Reynders. D, and Wright. E, Practical Modern SCADA Protocols: DNP3, 
+60870.5 and Related Systems, Newnes, 1st Edition, 2004. 
+ 
+REFERENCE BOOKS: 
+1. Hughes, T. - Programmable Logic Controllers, ISA Press, 2000. 
+2. Mc-Millan, G.K. - Process/Industrial Instrument and Controls Handbook, McGraw -
+Hill, New York, 1999. 
+ 
+  
+
+R16 B.TECH EIE. 
+OPTOELECTRONICS & LASER INSTRUMENTATION 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI721PE                          3     0    0    3 
+ 
+Pre-requisites:  Nil. 
+ 
+Course Objective: To make the students understand the application of Opto electronics and 
+Lasers in the quantifying. 
+ 
+Course Outcome:  Upon completion of this course the student shall be able to apply his 
+instrumentation knowledge and understand how light and LASER can be used for 
+measurements. 
+ 
+UNIT – I 
+Optical Fibers and Their Properties : Introduction to optical fiber - fiber characteristics - 
+principles of light propagation through a fiber - Different types of fibers and their properties -  
+Losses in the optical fiber - Dispersion - advantages and disadvantages of optical fibers  
+ 
+UNIT – II 
+Laser Fundamentals: Introduction to lasers - Laser characteristics – Laser configuration – 
+Three level and four level lasers – Q-switching – Mode locking – Types of lasers: Gas lasers, 
+Solid lasers, Liquid lasers and Semiconductor lasers 
+ 
+UNIT – III 
+Optoelectronic Components: Optical sources: LED, LD  - Optical detectors: PIN, APD - 
+Electro-optic, Magneto optic and Acousto-optic Modulators. 
+ 
+UNIT – IV 
+Industrial Applications of Optical Fibers: Interferometer method of measurement of length 
+– Moire fringes – Measurement of pressure, Temperature, Current, Voltage, Liquid level and 
+strain - fiber optic Gyroscope – Polarization maintaining fibers – Applications. 
+ 
+UNIT – V 
+Laser instrumentation : Industrial applications of lasers – Lasers for measurement of 
+distance, length, velocity, accelerat ion, current, voltage and atmospheric effect  - Bio-medical 
+applications - Holography: Principle, Methods, Holographic Interferometers and  
+applications. 
+ 
+TEXT BOOKS: 
+1. Optical Fiber Communication – Principles and Practice, J.M. Senior, Prentice Hall of 
+India, 1985. 
+2. ‘Introduction to Optoelectronics,  J. Wilson and J.F.B. Hawkes, Prentice Hall of India, 
+2001. 
+
+R16 B.TECH EIE. 
+REFERENCE BOOKS: 
+1. Understanding Fiber Optics, 4th or 5th edition; Jeff Hecht; Prentice Hall publishers 
+2. Optical Fibre Communication and Sensors , M. Arumugam, Anuradha Agencies, 
+2002. 
+3. Optical Fibre Communication, G. Keiser, McGraw Hill, 1995. 
+4. Lasers: Theory and Applications – by Thyagarajan K. and Ghatak A.K., Plenum Press 
+5. Monte Ross, Laser Applications, McGraw Hill, 1968. 
+ 
+ 
+  
+
+R16 B.TECH EIE. 
+DIGITAL IMAGE PROCESSING 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: ET722PE/EM732PE                         3     0    0    3 
+ 
+Prerequisite: Nil 
+ 
+Course Objectives: 
+ To comprehend the relation between human visual system and machine perception 
+and processing of digital images. 
+ To provide a detailed approach towards image processing applications like 
+enhancement, segmentation, and compression. 
+ 
+Course Outcomes: 
+ Exploration of the limitations of the computational methods on digital images. 
+ Expected to implement the spatial and frequency domain image transforms on 
+enhancement and restoration of images. 
+ Elaborate understanding on image enhancement techniques. 
+ Expected to define the need for compression and evaluate the basic compression 
+algorithms. 
+ 
+UNIT - I 
+Digital Im age Fundamentals & Image Transforms:  Digital Image Fundamentals, 
+Sampling, and Quantization, Relationship between Pixels.  
+Image Transforms: 2-D FFT, Properties, Walsh Transform, Hadamard Transform, Discrete 
+Cosine Transform, Haar Transform, Slant Transform, Hotelling Transform. 
+ 
+UNIT - II 
+Image Enhancement (Spatial Domain):  Introduction, Image Enhancement in Spatial 
+Domain, Enhancement through Point Processing, Types of Point Processing, Histogram 
+Manipulation, Linear and Non – Linear Gray Level Transforma tion, Local or Neighborhood 
+criterion, Median Filter, Spatial Domain High-Pass Filtering.  
+Image Enhancement (Frequency Domain):  Filtering in Frequency Domain, Low Pass 
+(Smoothing) and High Pass (Sharpening) Filters in Frequency Domain. 
+ 
+UNIT - III 
+Image R estoration: Degradation Model, Algebraic Approach to Restoration, Inverse 
+Filtering, Least Mean Square Filters, Constrained Least Squares Restoration, Interactive 
+Restoration. 
+ 
+UNIT - IV 
+Image Segmentation: Detection of Discontinuities, Edge Linking, and B oundary Detection, 
+thresholding, Region Oriented Segmentation. 
+
+R16 B.TECH EIE. 
+Morphological Image Processing:  Dilation and Erosion: Dilation, Structuring Element 
+Decomposition, Erosion, Combining Dilation and Erosion, Opening and Closing, Hit or Miss 
+Transformation. 
+ 
+UNIT - V 
+Image Compression:  Redundancies and their Removal Methods, Fidelity Criteria, Image 
+Compression Models, Huffman and Arithmetic Coding, Error Free Compression, Lossy 
+Compression, Lossy and Lossless Predictive Coding, Transform Based Compression, JP EG 
+2000 Standards. 
+ 
+TEXT BOOKS: 
+1. Digital Image Processing  - Rafael C. Gonzalez, Richard E. Woods, 3 rd Edition, 
+Pearson, 2008 
+2. Digital Image Processing- S Jayaraman, S Esakkirajan, T Veera kumar- TMH, 2010. 
+ 
+REFERENCE BOOKS: 
+1. Digital Image Processing and Analysis-Human and Computer Vision Application 
+with using CVIP Tools - Scotte Umbaugh, 2nd Ed, CRC Press, 2011 
+2. Digital Image Processing using MATLAB – Rafael C. Gonzalez, Richard E Woods 
+and Steven L. Eddings, 2nd Edition, MC GRAW HILL EDUCATION, 2010. 
+3. Digital Image Processing and Computer Vision – Somka, Hlavac, Boyle- Cengage 
+Learning (Indian edition) 2008. 
+4. Introductory Computer Vision Imaging Techniques and Solutions- Adrian low, 2008, 
+2nd Edition 
+  
+
+R16 B.TECH EIE. 
+TELEMETRY AND TELECONTROL 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI723PE                          3     0    0    3 
+ 
+Pre-requisites:  Nil. 
+ 
+Course Objective: To make students understand the application of telemetry techniques to  
+Instrumentation. 
+ 
+Course Outcome: Upon completion of this course students will appreciate t he application of 
+different telemetry systems and control to any process. 
+ 
+UNIT – I 
+Telemetry Principles:  Introduction, Functional blocks of Telemetry system, Meth ods of 
+Telemetry – Non-Electrical, Electrical, Pneumatic, Frequency. 
+Symbols and Codes:  Bits and Symbols, Time function pulses, Line and Channel Coding, 
+Modulation Codes. Inter symbol Interference. 
+ 
+UNIT – II 
+Frequency & Time Division Multiplexed Systems:  FDM, IRIG Standard, FM and PM 
+Circuits, Receiving end, PLL. 
+TDM - PAM, PAM /PM and TDM – PCM Systems. PCM reception. Differential PCM 
+Introduction, QAM, Protocols. 
+ 
+UNIT – III 
+Satellite Telemetry: General considerations, TT & C Service, Digital Transmission systems, 
+TT&C Subsystems, Telemetry, and Communications. 
+Modern Telemetry: Zigbee, Ethernet. 
+ 
+UNIT – IV 
+Optical Telemetry: Optical fibers Cable – Sources and detectors – Transmitter and 
+Receiving Circuits, Coherent Optical Fiber Communication System. 
+ 
+UNIT – V 
+Telecontrol Methods: Analog and Digital techniques in Telecontrol, Telecontrol apparatus – 
+Remote adjustment, Guidance and regulation – Telecontrol using information theory –
+Example of a Telecontrol System. 
+ 
+TEXT BOOKS: 
+1. Telemetry Principles – D. Patranabis, TMH 
+2. Telecontrol Methods and Applications of Telemetry and Remote Control – by 
+Swoboda G., Reinhold Publishing Corp., London, 1991 
+
+R16 B.TECH EIE. 
+REFERENCE BOOKS: 
+1. Handbook of Telemetry and Remote Control – by Gruenberg L., McGraw Hil l, New 
+York, 1987. 
+2. Telemetry Engineering – by Young R.E., Little Books Ltd., London, 1988. 
+3. Data Communication and Teleprocessing System – by Housley T., PH Intl.,  
+Englewood Cliffs, New Jersey, 1987. 
+ 
+
+R16 B.TECH EIE. 
+ADAPTIVE CONTROL SYSTEMS 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI724PE                          3     0    0    3 
+ 
+UNIT – I 
+Introduction: Use of Adaptive control - definitions - essential aspects – classification - 
+Model Reference Adaptive Systems - different configurations - classification - mathematical 
+description - Equivalent representation as a nonlinear time varying system - direct and 
+indirect MRAC. 
+ 
+UNIT - II 
+Continuous time MRAC systems : Model Reference Adaptive System Design based on 
+Gradient method, Design of stable adaptive controllers based on Kalman  - Meyer - 
+Yakubovich Lemma, Lyapunov th eory, Hyper stability theory - Narendra’s error model 
+approach. Discrete time MRAC systems - Hyper stability approach - Narendra’s error model 
+approach - Introduction - stability theorem - Relation to other algorithms - hybrid adaptive 
+control. 
+ 
+UNIT - III 
+Self Tuning Regulators (STR) : Different approaches to self tuning - Recursive parameter 
+estimation - implicit STR - Explicit STR. hybrid STR, hybrid predictor design and 
+algorithms. STR design based on pole - placement technique and LQG theory - Gain 
+scheduling. - Stability of adaptive control algorithms. 
+ 
+UNIT - IV 
+Adaptive control of nonlinear systems : Adaptive predictive control - Robustness of 
+adaptive control systems - Instability phenomena in adaptive systems. Concept of learning 
+control systems. Different types of learning contro l schemes. LTI learning control via 
+parameter estimation schemes. Convergence of learning control. Fuzzy logic adaptive 
+control, stochastic adaptive control –multi decision problems-dual control. 
+ 
+UNIT - V  
+Case Studies:  Robotic manipulators, Aerodynamic c urve identification, Electric drives, 
+Satellite altitude control, regulators, power system, and electrical generator. 
+ 
+TEXT BOOKS: 
+1. K. J. Astrom and Bjorn Witten mark, Adaptive control, Pearson Edu., 2nd Edn. 
+2. Sankar Sastry, Adaptive control 
+. 
+REFERENCE BOOKS 
+1. V. V. Chalam, Adaptive Control System - Techniques & Applications,  
+Marcel Dekker Inc. 
+
+R16 B.TECH EIE. 
+2. Miskhin and Braun, Adaptive control systems, MC Graw Hill 
+3. Karl Johan Åström, Graham Clifford     Goodwin, P. R. Kumar, Adaptive Control, 
+Filtering and    Signal Processing.  
+4. G.C. Goodwin, Adaptive control. 
+5. Narendra and Anna Swamy, Stable Adaptive Systems. 
+ 
+  
+
+R16 B.TECH EIE. 
+BIOMEDICAL INSTRUMENTATION 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI731PE                          3     0    0    3 
+ 
+Course Objective: Introduction to various Concepts of Medical Instrumentation. 
+Course Outcome: The student is expected to know the working and design of instruments 
+used in Heath care  
+ 
+UNIT – I 
+Components of Medical Instrumentation System:  Bioamplifier. Static and dynamic 
+characteristics of medical instruments. Biosignals and characteristics. Probl ems encountered 
+with measurements from human beings. 
+ 
+UNIT – II 
+Organization of cell : Nernst equation for membrane Resting Potential Generation and 
+Propagation of Action Potential, Conduction through nerve to neuromuscular junction. 
+Bio Electrodes: Biopotential Electrodes-External electrodes, Internal Electrodes. Biochemical 
+Electrodes. 
+ 
+UNIT – III 
+Mechanical function : Electrical Conduction system of the heart. Cardiac cycle. Relation 
+between electrical and mechanical activities of the heart. 
+Cardiac Instrumentation: Blood pressure and Blood flow measurement. Specification of 
+ECG machine. Einthoven triangle, Standard 12 -lead configurations, Interpretation of ECG 
+waveform with respect to electro mechanical activity of the heart. 
+ 
+UNIT – IV 
+Neuro-Muscular Instrumentation : Specification of EEG and EMG machines. Electrode 
+placement for EEG and EMG recording. Interpretation of EEG and EMG. 
+ 
+UNIT – V 
+Therapeutic equipment : Pacemaker, Defibrillator, Shortwave diathermy. Haemodialysis 
+machine. Respiratory Instrumentation: Mechanism of respiration, Spirometry, 
+Pnemuotachograph Ventilators. 
+ 
+TEXT BOOKS: 
+1. Hand-book of Biomedical Instrumentation – by R. S. Khandpur, McGraw-Hill, 2003. 
+2. Medical Instrumentation, Application and Design – by John G. Webster, John Wiley. 
+ 
+REFERENCE BOOKS: 
+1. Principles of Applied Biomedical Instrumentation – by L.A. Geoddes and L.E. Baker, 
+John Wiley and Sons. 
+2. Biomedical Equipment Technology – Carr & Brown, Pearson.  
+
+R16 B.TECH EIE. 
+POWER PLANT INSTRUMENTATION 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI732PE                          3     0    0    3 
+ 
+Course Objectives:  Able to introduce various methods of power generation and specially 
+provide the knowledge of instrumentation and control in thermal power plants. 
+ 
+Course Outcomes:  Upon completion of this course the student shall be able to apply his 
+knowledge and understand how instrumentation system is designed for a power plant. 
+ 
+UNIT - I 
+Overview of Power Generation: Introduction, Various sources of Electrical energy, Non -
+conventional energy sources, Conventional energy sources, Importance of Instrumentation 
+and control in power generation, piping and instrumentation diagram, Cogeneration of power, 
+Control Rooms. 
+ 
+UNIT - II 
+Instrumentation and Control in Water Circuit:  Water circuit, Boiler Feed Water 
+circulation, Measurements in Water circuit, Controls in water circuit, Impurities in Water and 
+Steam. 
+ 
+UNIT - III 
+Instrumentation and Control in Air - Fuel Circuit: Air- Fuel Circuit, Measurement in Air- 
+Fuel Circuit, Controls in Air- Fuel Circuit, Analytical Measurement. 
+ 
+UNIT - IV 
+Power Plant Management: Introduction, Master Control, Combustion Process, Boiler 
+Efficiency, Maintenance of Measuring Instruments, Intrinsic and Electrical Safety, Interlocks 
+for Boiler Operation, Computer based Control and Data Logging Systems, Distributed 
+Control Systems. 
+ 
+UNIT - V 
+Turbine – Monitoring and Control: Introduction, Turbine System Inlet System, turbine 
+Measurements, Turbine Control Systems, Lubrication for Turbo -alternator, Turbo-alternator 
+Cooling System. 
+ 
+TEXT BOOKS: 
+1. Power Plant Instrumentation by K. Krishnaswamy, M. Ponni Bala, PHI Learning Pvt. 
+Ltd., 2011. 
+ 
+REFERENCES: 
+1. Power-Plant Control and Instrumentation: The Control of Boilers and HRSG Systems, 
+David Lindsey IET, 2000. 
+2. Power Plant Engineering, Nag, Tata McGraw-Hill Education, 07-Aug-2008. 
+3. The Control of boilers - Sam .G.Duke low - ISA press,1991 
+  
+
+R16 B.TECH EIE. 
+DIGITAL CONTROL SYSTEMS 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EE731PE                          3     0    0    3 
+ 
+Prerequisite: Control Systems 
+Course Objectives:  
+ To understand the fundamentals of digital control systems, z-transforms 
+ To understand state space representation of the control systems, concepts of 
+controllability and observability 
+ To study the estimation of stability in different domains 
+ To understand the design of discrete time control  systems, compensators, state 
+feedback controllers, state observers through various transformations 
+ 
+Course Outcomes: After completion of this course, the student will be able to 
+ Carry map S-plane and Z-plane, do state-space analysis 
+ Carry stability analysis in S-domain and Z-domains 
+ Carry stability analysis through bilinear transformation and R-H criteria,  
+ design of discrete -time control systems, design of lag, lead, lead -lag compensators, 
+design of PID controllers  and design of state feedback controllers and observers,  
+ Apply the above concepts to real -world electrical and electronics problems and 
+applications. 
+ 
+UNIT - I 
+Introduction To Digital Control Systems And Z -Transforms: Introduction  -  Merits and 
+Demerits of Digital Control Systems  -  Practical aspects of the choice of sampling rate and 
+Multirate sampling  -  Basic discrete time signals  -  Quantization – Sampling Theorem  - 
+Data Conversions and Quantization -  Sampling process -  Mathematical Modeling -  Data 
+Reconstruction and Filtering of sampled signals - Zero - Order Hold (ZOH).  
+z- Transform and Inverse z -Transform, Relationship between s - plane and z - plane - 
+Difference equation - Solution by recursion and z -Transform - Pulse Transfer Functions of 
+the ZOH and relationship between G(s) and G(z) - Bilinear Transformation. 
+ 
+UNIT- II 
+Input/output Analysis of Digital Control Systems:  Pulse transfer function - z transform 
+analysis of open loop, closed loop systems - Modified z Transform  -  transfer function -  
+Stability of linear digital control systems -  Stability tests – Jury  Stability test. 
+Root loci - Frequency domain analysis - Bode plots - Gain margin and phase margin. 
+ 
+UNIT – III 
+Design of Controllers For I/O Model Digital Control Sy stems: Cascade and Feedback 
+Compensation by continuous data controllers - Digital controllers - Design using Bilinear 
+
+R16 B.TECH EIE. 
+Transformation - Realization of Digital PID controllers, Design of Digital Control Systems 
+based on Root Locus Technique. 
+ 
+UNIT – IV 
+State Space Analysis and State Feedback Control Design of Digital Control Systems: 
+State Equations of discrete data systems, solution of discrete state equations, State Transition 
+Matrix: Computation methods for State Transition Matrix: z - transform method - Relation 
+between State Equations and Pulse Transfer Functions.  
+Concepts on Controllability and Observability - Pole placement design by state feedback. 
+ 
+UNIT - V 
+Digital State Observer and Stability Analysis: Design of the full order and reduced order 
+state observer, Design of Dead beat Controller - some case studies - Stability analysis of 
+discrete time systems based on Lyapunov approach. 
+ 
+TEXT BOOKS: 
+1.  K. Ogata, Discrete Time Control Systems, PHI/Addison - Wesley Longman Pte. Ltd., 
+India, Delhi, 1995.  
+2. B. C Kuo, Digital Control Systems, 2nd Edition, Oxford University Press, Inc., 1992.  
+ 
+REFERENCE BOOKS: 
+1. F. Franklin, J.D. Powell, and M.L. Workman, Digital control of Dynamic Systems, 
+Addison - Wesley Longman, Inc., Menlo Park, CA , 1998.  
+2. M. Gopal, Digita l Control and State Variable Methods, Tata McGraw Hill, India, 
+1997. 
+3. C. H. Houpis and G.B. Lamont, Digital Control Systems, McGraw Hill, 1985. 
+4. John S. Baey, Fundamentals of Linear State Space Systems, McGraw Hill, 1 st edition 
+1999 
+5. Bernard Fried Land, Control System Design, McGraw Hill, 1st edition 1986. 
+6. Dorsay, Continuous and Discrete Control Systems, McGraw Hill, 2001. 
+ 
+ 
+  
+
+R16 B.TECH EIE. 
+MEDICAL IMAGING TECHNIQUES 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI734PE                          3     0    0    3 
+ 
+UNIT - I 
+Fundamentals of X -Ray: Electromagnetic Radiation, Interactions between X -rays and 
+Matter, Intensity of an X-ray Beam, Attenuation.  
+Generation and Detection of X -rays: X-ray Generati on, Fillers, Beam Restrictors and 
+Grids, Intensifying Screens, Fluorescent Screens, X-ray detectors. 
+X-Ray Image Characteristics:  Spatial Resolution, Image Noise, Image Contrast, Receiver 
+Operating Curve (ROC), Image Subtraction, Digital Radiography. X -ray diagnostic methods, 
+Biological effects of Ionizing radiation. 
+ 
+UNIT - II 
+Conventional Tomography, Longitudinal Section Tomography, Computed 
+Tomography, Reconstruction Techniques:  Algebraic, Iterative reconstruction Techniques, 
+Radon Transform and its appl ications. Back Projection, Filter Back Projection Algorithms. 
+Radio Nuclide Imaging: Fundamentals of Radioactivity, Radioactive materials, Generation 
+and Detection of Nuclear Emission, Diagnostic Methods using Radiation Detectors.  
+Radio Nuclide Imaging Sy stems: SPECT, PET, Attenuation compensation. Characteristics 
+of Radio nuclide Images, Internal Radiation, Dosimetry and Biological effects, 
+ 
+UNIT - III 
+Fundamentals Of Acoustic Propagation:  Reflection, Refraction, Attenuation, Absorption, 
+Scattering, Non linearity Parameter and Doppler Effect.  
+Image Characteristics:  Ultrasonic Texture, Speckle reduction, Compensation of Phase 
+Aberration, Tissue Characterization. Transducer Beam Characteristi cs, Axial and Lateral 
+Resolution, Focusing arrays. 
+ 
+UNIT - IV 
+Ultrasonic Diagnostic Methods:  Pulse-Echo Systems, Transmission Methods, Doppler 
+Methods, Duplex Methods, Duplex Imaging. Biological effects due to Ultrasound. 
+ 
+UNIT - V 
+Magnetic Resonance Imagi ng: Fundamentals of Nuclear Magnetic Resonance, Fourier 
+Spectrum of the NMR Signal, Spin Density, Relaxation Times, Pulse Sequences. 
+Generation and Detection of NMR signal:  Magnetic field Gradients, The NMR Coil/ 
+Probe, The Transmitter, and The Receiver. C haracteristics of Magnetic Resonance Imaging: 
+Spatial Resolution, Image contrast. 
+Imaging Methods: Data Acquisition, Spin - Echo Imaging, Gradient Echo Imaging, Blood 
+Flow Imaging, NMR Spectroscopy, Sensitivity and Resolution, Imaging Safety. Biological 
+Effects of Magnetic Fields. 
+
+R16 B.TECH EIE. 
+ 
+TEXT BOOKS: 
+1. K. KirkShung, Michael B. Smith, Benjamin Tsui. Principles of Medical Imaging., Pub 
+: Academic Press, 1992 
+2. Rangaraj M. Rangayyan, Biomedical Image Analysis”, CRC Press, Boca Raton,  FL, 
+2005. 
+ 
+REFERENCE BOOKS: 
+1. Avinash C. Kak, Principles of Computerised Tomographic Imaging. IEEE PRESS 
+ 
+
+R16 B.TECH EIE. 
+VLSI DESIGN 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC702PC/ET721PE/EI741PE                       3     0    0    3 
+ 
+Course Objectives: The objectives of the course are to: 
+ Give exposure to different steps involved in the fabrication of ICs using MOS 
+transistor, CMOS/BICMOS transistors, and passive components. 
+ Explain electrical properties of MOS and BiCMOS devices to analyze the behavior of 
+inverters designed with various loads. 
+ Give exposure to the design rules to be followed to draw the layout of any logic 
+circuit. 
+ Provide concept to design different types of  logic gates using CMOS inverter and 
+analyze their transfer characteristics. 
+ Provide design concepts to design building blocks of data path of any system using 
+gates. 
+ Understand basic programmable logic devices and testing of CMOS circuits. 
+ 
+Course Outcomes: Upon successfully completing the course, the student should be able to: 
+ Acquire qualitative knowledge about the fabrication process of integrated circuit 
+using MOS transistors. 
+ Choose an appropriate inverter depending on specifications required for a circuit 
+ Draw the layout of any logic circuit which helps to understand and estimate parasitic 
+of any logic circuit 
+ Design different types of logic gates using CMOS inverter and analyze their transfer 
+characteristics 
+ Provide design concepts required to design building blocks of data path using gates. 
+ Design simple memories using MOS transistors and can understand design of large 
+memories. 
+ Design simple logic circuit using PLA, PAL, FPGA and CPLD. 
+ Understand different types of faults that can occur in a system and learn the concept 
+of testing and adding extra hardware to improve testability of system 
+ 
+UNIT – I 
+Introduction: Introduction to IC Technology – MOS, PMOS, NMOS, CMOS & BiCMOS 
+Basic Electrical Properties: Basic Electrical Properties of MOS and BiCMOS Ci rcuits: Ids-
+Vds relationships, MOS transistor threshold Voltage, g m, g ds, Figure of merit ωo; Pass 
+transistor, NMOS Inverter, Various pull ups, CMOS Inverter analysis and design, Bi -CMOS 
+Inverters. 
+ 
+ 
+ 
+ 
+
+R16 B.TECH EIE. 
+UNIT - II 
+VLSI Circuit Design Processes: VLSI Design Flow, MOS Layers, Stick Diagrams, Design 
+Rules and Layout, 2 μm CMOS Design rules for wires, Contacts and Transistors Layout 
+Diagrams for NMOS and CMOS Inverters and Gates, Scaling of MOS circuits. 
+ 
+UNIT – III 
+Gate Level Design: Logic Gates and  Other complex gates, Switch logic, Alternate gate 
+circuits, Time delays, Driving large capacitive loads, Wiring capacitance, Fan – in, Fan – out, 
+Choice of layers. 
+ 
+UNIT - IV 
+Data Path Subsystems: Subsystem Design, Shifters, Adders, ALUs, Multipliers, Parity 
+generators, Comparators, Zero/One Detectors, Counters. 
+Array Subsystems: SRAM, DRAM, ROM, Serial Access Memories. 
+ 
+UNIT - V 
+Programmable Logic Devices: PLAs, FPGAs, CPLDs, Standard Cells, Programmable 
+Array Logic, Design Approach, Parameters influencing low power design. 
+CMOS Testing: CMOS Testing, Need for testing, Test Principles, Design Strategies for test, 
+Chip level Test Techniques. 
+ 
+TEXT BOOKS: 
+1. Essentials of VLSI circuits and systems – Kamran Eshraghian, Eshraghian Dougles 
+and A. Pucknell, PHI, 2005 Edition 
+2. CMOS VLSI Design – A Circuits and Systems Perspective, Neil H. E Weste, David 
+Harris, Ayan Banerjee, 3rd Ed, Pearson, 2009. 
+ 
+REFERENCE BOOKS: 
+1. CMOS logic circuit Design - John .P. Uyemura, Springer, 2007. 
+2. Modern VLSI Design - Wayne Wolf, Pearson Education, 3rd Edition, 1997. 
+ 
+
+R16 B.TECH EIE. 
+ROBOTICS AND AUTOMATION 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI742PE                         3     0    0    3 
+ 
+Course Objectives: 
+ To study the various parts of robots and fields of robotics. 
+ To study the various kinematics and inverse kinematics of robots. 
+ To study the Euler, Lagrangian formulation of Robot dynamics. 
+ To study the trajectory planning for robot. 
+ To study the control of robots for some specific applications. 
+ 
+UNIT - I 
+Basic Concepts : Definition and origin of robotics – different types of robotics – various 
+generations of robots – degrees of freedom – Asimov’s laws of robotics – dynamic 
+stabilization of robots. 
+ 
+UNIT - II 
+Power Sources and Sensors : Hydraulic, pneumatic and electric drives – determination of 
+HP of motor and gearing ratio – variable speed arrangements – path determination – micro 
+machines in robotics – machine vision – ranging – laser – acoustic – magnetic, fiber optic and 
+tactile sensors. 
+ 
+UNIT - III 
+Manipulators, Actuators and Grippers : Construction of manipulators – manipulator 
+dynamics and force control – electronic and pneumatic manipulator control circuits – end 
+effectors – U various types of grippers –design considerations. 
+ 
+UNIT - IV 
+Kinematics and Path Planning: Solution of inverse kinematics problem – multiple solution 
+jacobian work envelop – hill climbing techniques – robot programming languages. 
+ 
+UNIT - V 
+Case Studies : Multiple robots – machine interface – robots in manufacturing and non - 
+manufacturing applications – robot cell design – selection of robot. 
+ 
+TEXT BOOKS: 
+1. Mikell P. Weiss G.M., Nagel R.N., Odraj N.G., Industrial Robotics, McGraw -Hill 
+Singapore, 1996. 
+2. Ghosh, Control in Robotics and Automation: Sensor Based Integration, Allied 
+Publishers, Chennai, 1998. 
+ 
+ 
+
+R16 B.TECH EIE. 
+REFERENCE BOOKS: 
+1. Deb.S.R., Robotics technology and flexible Automation, John Wiley, USA 1992. 
+2. Asfahl C.R., Robots and manufacturing Automation, John Wiley, USA 1992. 
+3. Klafter R.D., Chimielewski T.A., Negin M., Robotic Engineering – An integrated 
+approach, Prentice Hall of India, New Delhi, 1994. 
+4. Mc Kerrow P.J. Introduction to Robotics, Addison Wesley, USA, 1991. 
+5. Issac Asimov I Robot, Ballantine Books, New York, 1986. 
+
+R16 B.TECH EIE. 
+INSTRUMENTATION PRACTICES IN INDUSTRIES 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI743PE                          3     0    0    3 
+ 
+Pre-requisites:  Nil. 
+ 
+Course Objective:  To provide the knowledge of basic and contemporary instrumentation 
+and control practices in the Industries like Paper and Pulp, Petrochemical, Aerospace etc. 
+ 
+Course Outcomes:  Upon completion of this course the student shall be able to apply his 
+instrumentation knowledge which he acquired during the course of study. 
+ 
+UNIT - I  
+Pulp and Paper Industries: 
+Manufacture of pulp:  Raw Materials, Pulping Processes, Craft Pulping, Soda Pulping, 
+Sulfite Pulping, Semi Chemical Pulping, Mechanical, and Thermo mechanical Pulping.  
+Manufacture of paper:  Wet Processing, Fourdrinier Machine, Coated Papers, Specialty 
+Papers. 
+ 
+UNIT - II  
+Cement Industries: Portland Cements, Other Cements, Lime, Gypsum, Miscellaneous 
+Calcium Components, Magnesium Components 
+Nuclear In dustries: Nuclear Reactions, Uranium and Thorium Fission, Uranium as an 
+Energy Source, Nuclear Fuels, Nuclear Reactors, Fusion Reactions, Fusion, Processing 
+Nuclear Materials, Isotopes and Isotope Separation, Protection from Radioactivity, Waste 
+Disposal. 
+ 
+UNIT - III  
+Petrochemical Industries: Unit Operations: Drying-Separation-Heat Transfer -Distillation-
+Thermal Cracking - Catalytic Cracking -Catalytic Reforming - Hydro Cracking – Hydro 
+Treating -Chemical Oxidation -Chemical Reduction -Polymerization- Alkylation- 
+Isomerization-Production of Ethylene, Acetylene- And Propylene from Petroleum  
+Measurements in refineries petrochemical industries : Differential Pressure Transmitter, 
+Thermocouples Infrared Pyrometer, Mass Flow Meters, Potentiometric Level Transmitter, 
+Vacuum Measurement,  
+ 
+UNIT - IV  
+Flight Instrumentation - I: 
+Primary Flight Instruments  (Principle of operation) : Pitot Static System For The 
+Measurement Of Aircraft Speed, Aneroid Barometer And Altimeter, Gyroscope And Its 
+Properties, Methods Of Operating Gyroscopic Flight Instruments, Gyro Horizon, Vacuum 
+Driven Gyro Horizon, Electric Gyro Horizon.  
+
+R16 B.TECH EIE. 
+Heading Indicati ng Instruments  (Principle of operation):  Direct Reading Magnetic 
+Compass, Liquid Damping Direct Reading Compass and Liquid Expansion Compensating 
+Direct Reading Compass, Remote Indicating Compass System. 
+ 
+UNIT - V  
+Flight Instrumentation - II: 
+Measurement of Engine Speed, Engine Temperature, Aircraft Pressure (Principle Of 
+Operation): Mechanical Tachometers, Electrical Tachometers, Air Temperature Sensors To 
+Measure RAT And SAT, Radiation Pyrometer System, Methods Of Measuring Pressure, U -
+Tube Manometer, Direct Reading Pressure Gauges, Remote Indicating Pressure Gauges.  
+Measurement of Fuel quantity and Fuel flow  (Principle of Operation) : Float Type Fuel 
+Quantity Indicating System, Capacitance Type Fuel Gauge System, Fuel Flow Measurement, 
+Independent, and Integrated Flow Meter System. 
+ 
+TEXT BOOKS:  
+1. Austin G.T. Shreeves, Chemical Process Industries, McGraw-Hill International 
+Student Edition, Singapore, 1985 
+2. Pallet, E.H.J. Aircrafts Instruments and Integrated Systems. Longman Scientific & 
+Technical, McGraw-Hill, 1992. 
+ 
+REFERENCE BOOKS: 
+1. Principles of Industrial Instrumentation, D. Patranabis, Mc Graw Hill. 
+2. John R Lavigne, An Introduction To Paper Industry Instrumentation, Miller Freeman 
+Publications, California, 1985 Series. 
+3. Liptak B.G. Instrumentation in Process Industries, Chilton Book Company, 1994. 
+4. Liptak B.G., Process Measurement and Analysis, Third Edition, Chilton Book 
+Company, 1996. 
+ 
+
+R16 B.TECH EIE. 
+EMBEDDED REAL TIME OPERATING SYSTEMS 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI744PE                          3     0    0    3 
+ 
+Pre-requisites: Computer Organization and Operating Systems.  
+ 
+Course Objectives:  
+ To provide broad understanding of the requirements of Real Time Operating 
+Systems.  
+ To make the student understand, applications of these Real Time features using case 
+studies.  
+ 
+Course Outcomes:  
+ To acquire knowledge on Real Time features of UNIX and LINUX. 
+ To understand the basic building blocks of Real Time Operating Systems in terms of 
+scheduling, context switching and ISR.  
+ Elaborative understanding on Real Time applications using Real Time Linux, uco s2, VX 
+works, Embedded Linux, etc.  
+ 
+UNIT – I  
+Introduction to UNIX/LINUX, Overview of Commands, File I/O,  ( open, create, close, 
+lseek, read, write), Process Control ( fork, vfork, exit, wait, waitpid, exec).  
+ 
+UNIT - II  
+Real Time Operating Systems : Brief History of OS, Defining RTOS, The Scheduler, 
+Objects, Services, Characteristics of RTOS, Defining a Task, asks States and Scheduling, 
+Task Operations, Structure, Synchronization, Communication and Concurrency. Defining 
+Semaphores, Operations and Use, Defining Message Queue, States, Content, Storage, 
+Operations and Use  
+ 
+UNIT - III  
+Objects, Services and I/O Pipes, Event Registers, Signals, Other Building Blocks, Component 
+Configuration, Basic I/O Concepts, I/O Subsystem 
+ 
+UNIT - IV 
+Exceptions, Interrupts and Timers : Exceptions, Interrupts, Applications,  Processing of 
+Exceptions and Spurious Interrupts, Real Time Clocks, Programmable Timers, Timer 
+Interrupt Service Routines (ISR), Soft Timers, Operations.  
+ 
+UNIT - V  
+Case Studies of RTOS : RT Linux, MicroC/OS -II, Vx Works, Embedded Linux, and Tiny 
+OS.  
+ 
+
+R16 B.TECH EIE. 
+TEXT BOOKS:  
+1. Real Time Concepts for Embedded Systems – Qing Li, Elsevier, 2011 
+ 
+REFERENCE BOOKS:  
+1. Embedded Systems  - Architecture, Programming and Design by Rajkamal, 2007, 
+TMH.  
+2. Advanced UNIX Programming, Richard Stevens  
+3. Embedded Linux: Hardware, Software and Interfacing – Dr. Craig Hollabaugh 
+  
+
+R16 B.TECH EIE. 
+EMBEDDED SYSTEMS LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI703PC                          0     0    3    2 
+ 
+This lab is to pr ovide skills needed to develop software for ARM based Embedded System. 
+The aim is to teach the basics of device drivers, programming for Linux Kernel. The lab 
+programs will be taught on ARM board with simple devices like GPIOs, LEDs, seven 
+segment displays, keypads, Temperature sensors, and E2PROM devices, and also to provide 
+interface to real world through ADCs and DACs. 
+ 
+The goal is to focus on learning the kernel interface, while still programming real hardware.  
+ 
+Required Skill-set: 
+1. Keil IDE or Equivalent IDE 
+2. Embedded C 
+3. ARM architecture 
+4. LINUX OS 
+5. Circuit simulation software like Proteus, Multisim (MCU). 
+ 
+ 
+  
+
+R16 B.TECH EIE. 
+INDUSTRIAL AUTOMATION LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI704PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To study about different PLC units and other interfacing devices 
+ To acquire knowledge about SCADA programming. 
+ To study about different industrial applications using PLC. 
+ 
+Course Outcomes: The student will be able to: 
+ Familiarity with common PLC components, their use, symbols, and mathematical 
+models 
+ Ability to formulate and analyze simple mathematical models of PLC circuits 
+ Ability to design, analyze and implement simple control systems Industrial 
+Applications using PLC  circuits 
+ 
+ List of Experiments  
+1. Control of bottle filling plant using PLC  
+2. Control of Elevator using PLC.  
+3. Development of Human Machine Interface using any SCADA package.  
+4. Level and flow control using PLC. 
+5. Pressure and flow control using DCS.  
+6. Creating an Analog – open loop & Digital loop using DCS  
+7. Feed forward with feedback control for temperature control process.  
+8. Configuring DCS- System for given application.  
+9. Creating interlock logic in DCS. 
+ 
+  
+
+R16 B.TECH EIE. 
+NEURAL NETWORKS AND FUZZY LOGIC 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EI851PE                          3     0    0    3 
+ 
+Pre-requisites: Nil. 
+ 
+Course Objectives: This course introduces the basics of Neural Networks and essentials of 
+Artificial Neural Networks with Single Layer and Multilayer Feed Forward Networks. Also 
+deals with Associate Memories and introduces Fuzzy sets and Fuzzy Logic system 
+components. The Ne ural Network and Fuzzy Network system application to Electrical 
+Engineering is also presented. This subject is very important and useful for doing Project 
+Work.  
+ 
+Course Outcomes: After going through this course the student gets a thorough knowledge 
+on, biological neurons and artificial neurons, comparative analysis between human and 
+computer, artificial neural network models, characteristics of ANN’s, different types of 
+activation functions, learning strategies,  learning rules, perceptron models, single a nd multi 
+layer feed-forward and feed-back neural networks, back-propagation algorithm, Kolmogorov 
+Theorem, different types of associative memories and basics of fuzzy logic, concept of 
+classical and fuzzy sets, fuzzy logic system components fuzzification a nd defuzzification,  
+with which he/she can able to apply the above conceptual things to real -world electrical and 
+electronics problems and applications.  
+ 
+UNIT – I  
+Introduction & Essentials to Neural Networks : Introduction, Humans and Computers, 
+Organization of the Brain, Biological Neuron, Biological and Artificial Neuron Models, 
+Hodgkin-Huxley Neuron Model, Integrate -and-Fire Neuron Model, Spiking Neuron Model, 
+Characteristics of ANN, McCulloch -Pitts Model, Hi storical Developments, Potential 
+Applications of ANN. Artificial Neuron Model, Operations of Artificial Neuron, Types of 
+Neuron Activation Function, ANN Architectures, Classification Taxonomy of ANN – 
+Connectivity, Neural Dynamics (Activation and Synaptic ), Learning Strategy (Supervised, 
+Unsupervised, Reinforcement), Learning Rules, Types of Application  
+ 
+UNIT – II  
+Single & Multi Layer Feed Forward Neural Networks : Introduction, Perceptron Models: 
+Discrete, Continuous and Multi -Category, Training Algorith ms: Discrete and Continuous 
+Perceptron Networks, Perceptron Convergence theorem, Limitations of the Perceptron 
+Model, Applications. Credit Assignment Problem, Generalized Delta Rule, and Derivation of 
+Back-propagation (BP) Training, Summary of Back -propagation Algorithm, Kolmogorov 
+Theorem, Learning Difficulties, and Improvements.  
+ 
+ 
+
+R16 B.TECH EIE. 
+UNIT - III  
+Associative Memories  – I: Paradigms of Associative Memory, Pattern Mathematics, 
+Hebbian Learning, General Concepts of Associative Memory (Associative Matrix, 
+Association Rules, Hamming Distance, The Linear Associator, Matrix Memories, Content 
+Addressable Memory). 
+ 
+UNIT - IV  
+Associative Memories -II: Bidirectional Associative Memory (BAM) Architecture, BAM 
+Training Algorithms: Storage and Recall Algorithm, BAM Energy Function, Proof of BAM 
+Stability Theorem. Architecture of Hopfield Network: Discrete and Continuous versions, 
+Storage and Recall Algorith m, Stability Analysis, Capacity of the Hopfield Network 
+Summary and Discussion of Instance/Memory Based Learning Algorithms, Applications.  
+ 
+UNIT – V  
+Fuzzy Logic Classical & Fuzzy Sets:  Introduction to classical sets - properties, Operations 
+and relations; Fuzzy sets, Membership, Uncertainty, Operations, properties, fuzzy relations, 
+cardinalities, membership functions.  
+Fuzzy Logic System Components: Fuzzification, Membership value assignment, 
+development of rule base and decision making system, De -fuzzification to crisp sets, De -
+fuzzification methods.  
+ 
+TEXT BOOKS: 
+1. Neural Networks, Fuzzy logic, Genetic algorithms: synthesis and applications, 
+Rajasekharan and Pai, PHI.  
+2. Neural Networks and Fuzzy Logic, C. Naga Bhaskar, G. Vijay Kumar, BS 
+Publications. 
+ 
+REFERENCE BOOKS: 
+1. Artificial Neural Networks, B. Yegnanarayana, PHI. 
+2. Artificial Neural Networks, Zaruda, PHI. 
+3. Neural Networks and Fuzzy Logic System, Bart Kosko, PHI. 
+4. Neural Networks, James A Freeman and Davis Skapura, Pearson Education. 
+5. Neural Networks, Simon Hakins, Pearson Education. 
+ 
+  
+
+R16 B.TECH EIE. 
+MEMS AND APPLICATIONS 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EI852PE                          3     0    0    3 
+ 
+Pre-requisites: Nil. 
+ 
+Course Objective: To provide knowledge of fabrication process and applications. 
+ 
+Course Outcome s: Upon completion of this course the student shall be able to app ly his 
+instrumentation knowledge and understand MEMS fabrication and its use in the industries. 
+ 
+UNIT - I 
+Introduction to MEMS: MEMS; Use of MEMS. Fabrication process   
+The Substrate  and adding material to it: Introduction, The silicon substrate, Additive 
+technique: Oxidation, Additive technique: Physical vapour deposition, other additive 
+techniques.  
+ 
+UNIT - II 
+ MEMS Fabrication:  Creating and transferring patterns - Photolithography: 
+Introduction, keeping it c lean, Photoresist, Working with resist, masks, Resolution, 
+Permanent resists. 
+Creating structures -Micromachining: Introduction, Bulk Micromachining processes, 
+Surface Micromachining, Process Integration. 
+ 
+UNIT - III  
+MEMS Transducers - I: 
+Thinking about modelling: What is modeling? Units, The input -output concept, Physical 
+variables and notation, preface to the modeling chapters. 
+MEMS Transducers-An overview of how they work: What is a transducer? Distinguishing 
+between sensors and actuators, Response cha racteristics of transducers, MEMS Sensors: 
+Principles of operation, MEMS Actuators: Principles of operation, Signal conditioning, RF 
+applications and Optical applications. 
+Piezoresistive transducers: Introduction, Modeling Piezoresistive transducers, Piezoresistive 
+pressure sensor. 
+ 
+UNIT - IV  
+MEMS Transducers- II: 
+Capacitive transducers: Introduction, Capacitor fundamentals, Modeling a capacitor sensor, 
+Capacitive accelerometer. 
+ 
+UNIT - V 
+ MEMS Transducers- III: 
+Piezoelectric transducers:  Introduction, Modeling piezoelectric materials, Mechanical 
+modelling of beams and plates, Cantilever piezoelectric actuator. 
+
+R16 B.TECH EIE. 
+Thermal transducers: Introduction, Basic heat transfer, Hot-arm actuator. 
+ 
+TEXT BOOKS:  
+1. Introductory MEMS - Fabrication and Applications  - Adams, Thomas M.,  Layton, 
+Richard A., Spinger, 2010. 
+ 
+REFERENCE BOOKS: 
+1. MEMS and Microsystems: Design and manufacture,  Tai-Ran Hsu  ,McGraw-Hill, 
+2002  
+2. MEMS: Applications Mohamed Gad-el-Hak, CRC Press, 29-Nov-2005 
+ 
+  
+
+R16 B.TECH EIE. 
+COMPUTER NETWORKS 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EI853PE                          3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+Course Objectives: 
+ To introduce the fundamental various types of computer networks. 
+ To demonstrate the TCP/IP and OSI models with merits and demerits. 
+ To explore the various layers of OSI Model. 
+ To introduce UDP and TCP Models. 
+ To have the concept of different routing techniques for data communications. 
+ 
+Course Outcomes: 
+ Students should understand and explore the basics of Computer Networks and 
+Various Protocols. He/She will be in a position to understand the World Wide Web 
+concepts. 
+ Students will be i n a position to administrate a network and flow of information 
+further he/she can understand easily the concepts of network security, Mobile and ad 
+hoc networks. 
+ 
+UNIT - I 
+Introduction to Networks: Internet, Protocols and Standards, The OSI Model, Layers in OSI 
+Model, TCP/IP Suite, Addressing. 
+Physical Layer: Multiplexing, Transmission Media, Circuit Switched Networks, Datagram 
+Networks, and Virtual Circuit Networks. 
+ 
+UNIT - II 
+Data Link Layer:  Introduction, Checksum, Framing, Flow and Error  Control, Noiseless 
+Channels, Noisy Channels, Random Access Controlled Access, Channelization, IEEE 
+Standards, Ethernet, Giga -Bit Ethernet, Wireless LANs, SONET -SDH, Frame Relay and 
+ATM. 
+ 
+UNIT - III 
+Network Layer: Logical Addressing, Internetworking, Tunneling, Address Mapping, ICMP, 
+IGMP, Forwarding, Routing -Flooding, Bellman& Ford, Disjkstra’s routing protocols, RIP, 
+OSPF, BGP,- and Multicast Routing Protocols. Connecting Devices-Passive Hubs, Repeaters, 
+Active Hubs, Bridges, Routers. 
+ 
+UNIT - IV 
+Transport Layer: Process to Process Delivery, UDP, TCP and SCTP Protocols, Congestion, 
+Congestion Control, Quality of Service. 
+
+R16 B.TECH EIE. 
+Application Layer: Domain Name Space, DNS in Internet, Electronic Mail, File Transfer 
+Protocol, WWW, HTTP, SNMP, Multi-Media. 
+ 
+UNIT - V 
+Network Security: Security services, mechanisms and attacks, IPSec, SSL, VPN, Firewall. 
+Bluetooth, Zigbee, IPv4, IPv6. 
+ 
+TEXT BOOKS: 
+1. Data Communications and Networking – Behrouz A. Forouzan, 4 th Edition Mc Graw 
+Hill Education, 2006. 
+2. Computer Networks -- Andrew S Tanenbaum, 4th Edition, Pearson Education.  
+3. Computer Networking: A Top -Down Approach Featuring the Internet, James F.  
+Kurose, K. W. Ross, 3rd Edition, Pearson Education. 
+ 
+REFERENCES: 
+1. Data communications and Networks by william stallings 
+2. Data communication and Networks - Bhusan Trivedi, Oxford university press 2016. 
+3. An Engineering Approach to Computer Networks -S.Keshav, 2nd Edition, Pearson 
+Education. 
+4. Understanding Communications and Networks, 3rd Edition, W.A.Shay, Cengage 
+Learning. 
+  
+
+R16 B.TECH EIE. 
+INDUSTRIAL DATA COMMUNICATIONS 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EI854PE                          3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+UNIT - I  
+RS-232 and RS -485: ISO-OSI model, EIA 232 interface standard, EIA 485 interface 
+standard, EIA 422 interface standard, 20 mA current loop, Serial interface converters.  
+ 
+UNIT - II 
+Modbus, Data Highway (Plus) and Hart Protocols: MODBUS protocol structure, Function 
+codes, Troubleshooting, Data highway (Plus) protocol, Review of HART Protocol.  
+ 
+UNIT - III  
+AS-Interface (AS-I) and Device Net:  AS interface- Introduction, Physical layer, Data link 
+layer and Operating characteristics. Device net- Introduction, Physical layer, Data link layer 
+and Application layer.  
+ 
+UNIT - IV  
+Profibus PA/DP/FMS and Foundation Field bus: Profibus- Introduction, Profibus protocol 
+stack, Profibus communication model, Communication objects, System operatio n and 
+Troubleshooting, Foundation fieldbus versus Profibus.  
+ 
+UNIT - V  
+Industrial Ethernet and Wireless Communication:  Industrial Ethernet - Introduction, 10  
+Mbps Ethernet and 100  Mbps Ethernet, Radio and wireless communication - Introduction, 
+Components of radio link, The radio spectrum and frequency allocation and Radio modems, 
+Comparison between various industrial networks. 
+ 
+TEXT BOOKS:  
+1. Mackay, S., Wrijut, E., Reynders, D. and Park, J. - Practical Industrial Data Networks 
+Design, Installation and Trouble shooting, Newnes Publication, Elsevier, 1st Edition, 
+2004.  
+2. Buchanan, W. - Computer Busses, CRC Press, 2000.  
+3. Stallings, W. - Wireless Communication and Network, 2nd Edition, Prentice Hall of 
+India, 2005. 
+ 
+  
+
+R16 B.TECH EIE. 
+INTERNET OF THINGS 
+(Professional Elective – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: BM854PE/EI861PE                         3     0    0    3 
+ 
+Course Objectives:  
+ To introduce the terminology, technology and its applications 
+ To introduce the concept of M2M (machine to machine) with necessary protocols 
+ To introduce the Python Scripting Language which is used in many IoT devices 
+ To introduce the Raspberry PI platform, that is widely used in IoT applications 
+ To introduce the implementation of web based services on IoT devices. 
+ 
+UNIT - I 
+Introduction to Internet of Things –Definition and Characteristics of IoT, Physical Design of 
+IoT – IoT Protocols, IoT communication models, Iot Communication APIs, IoT enabled 
+Technologies – Wireless Sensor Networks, Cloud Computing, Big data analytics, 
+Communication protocols, Embedded Systems, IoT Levels and Templates, Domain Specific 
+IoTs – Home, City, Environment, Energy, Retail, Logistics, Agriculture, Industry, health and 
+Lifestyle. 
+ 
+UNIT - II 
+IoT and M2M – Software defined networks, network function virtualization, difference 
+between SDN and NFV for IoT. Basics of IoT System Management with NETCOZF, 
+YANG- NETCONF, YANG, SNMP NETOPEER 
+ 
+UNIT - III 
+Introduction to Python - Language features of Python, Data types, data structures, Control of 
+flow, functions, modules, packaging, file handling, data/time operations, classes, Exception 
+handling. Python packages - JSON, XML, HTTP Lib, URL Lib, SMTP Lib. 
+ 
+UNIT - IV 
+IoT Physical Devices and Endpoint s - Introduction to Raspberry PI - Interfaces (serial, SPI, 
+I2C). Programming – Python program with Raspberry PI with focus of interfacing external 
+gadgets, controlling output, reading input from pins. 
+ 
+UNIT - V 
+IoT Physical Servers and Cloud Offerings – Introduction to Cloud Storage models and 
+communication APIs. Webserver – Web server for IoT, Cloud for IoT, Python web 
+application framework. Designing a RESTful web API 
+ 
+TEXT BOOKS:  
+1. Internet of Things - A Hands -on Approach, Arshdeep Bahga and Vijay Madisetti, 
+Universities Press, 2015, ISBN: 9788173719547 
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly 
+(SPD), 2014, ISBN: 9789350239759  
+
+R16 B.TECH EIE. 
+RELIABILITY ENGINEERING 
+(Professional Elective – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: AM852PE/EI862PE/ME834OE                       3     0    0    3 
+ 
+Prerequisite: Mathematics III 
+ 
+Course Objectives: 
+ To introduce the basic concepts of reliability, various models of reliability 
+ To analyze reliability of various systems 
+ To introduce techniques of frequency and duration for reliability evaluation of 
+repairable systems. 
+ 
+Course Outcomes: After completion of this course, the student will be able to 
+ model various systems applying reliability networks 
+ evaluate the reliability of simple and complex systems 
+ estimate the limiting state probabilities of repairable systems 
+ apply various mathematical models for evaluating reliability of irrepairable systems 
+ 
+UNIT – I 
+Basic Probability Theory: Elements of probability, probability distributions, Random 
+variables, Density and Distribution functions - Binomial distribution - Expected value and 
+standard deviation - Binomial distribution, Poisson distribution, normal distribut ion, 
+exponential distribution, Weibull distribution. 
+Definition of Reliability:  Definition of terms used in reliability, Component reliability, 
+Hazard rate, derivation of the reliability function in terms of the hazard rate. Hazard models - 
+Bath tub curve,  Effect of preventive maintenance. Measures of reliability: Mean Time to 
+Failure and Mean Time Between Failures. 
+ 
+UNIT – II 
+Network Modeling and Evaluation Of Simple Systems: Basic concepts - Evaluation of 
+network Reliability / Unreliability - Series systems, Parallel systems- Series-Parallel systems- 
+Partially redundant systems- Examples. 
+Network Modeling and Evaluation of Complex systems : Conditional probability method - 
+tie set, Cutset approach - Event tree and reduced event tree methods - Relationships between 
+tie and cutsets- Examples. 
+ 
+UNIT – III 
+Time Dependent Probability: Basic concepts- Reliability function f(t). F(t), R(t) and h(t) - 
+Relationship between these functions. 
+
+R16 B.TECH EIE. 
+Network Reliability Evaluation Using Probability Distributions: Reliability Evaluation of 
+Series systems, Parallel systems – Partially redundant systems - determination of reliability 
+measure- MTTF for series and parallel systems – Examples. 
+ 
+UNIT – IV 
+Discrete Markov Chains: Basic concepts - Stochastic transitional probability matrix - time 
+dependent probability evaluation - Limiting State Probability evaluation - Absorbing states –
+Examples 
+Continuous Markov Processes : Modeling concepts - State space diagrams - Unreliability 
+evaluation of single and two component repairable systems 
+ 
+UNIT – V 
+Frequency and Duration Techniques: Frequency and duration concepts, application to 
+multi state problems, Frequency balance approach. 
+Approximate System Reliability Evaluation: Series systems – Parallel systems- Network 
+reduction techniques - Cut set approach - Common mode failures modeling and evaluation 
+techniques- Examples. 
+ 
+TEXT BOOKS: 
+1. Roy Billinton and Ronald N Allan, Reliability Evaluation of Engineering Systems, 
+Plenum Press, 1983. 
+2. E. Balagurusamy, Reliability Engineering by Tata McGraw -Hill Publishing Company 
+Limited, 2002. 
+ 
+REFERENCE BOOK: 
+1. K. K. Agarwal, Reliability Engineering-Kluwer Academic Publishers, 1993. 
+ 
+  
+
+R16 B.TECH EIE. 
+DSP PROCESSORS AND ARCHITECTURES 
+(Professional Elective – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EI863PE                          3     0    0    3 
+ 
+Pre-requisites: Digital Signal Processing. 
+ 
+Course Objectives: The objectives of the course are: 
+ To recall digital transform techniques. 
+ To introduce architectural features of programmable DSP Processors of TI and 
+Analog Devices. 
+ To give practical examples of DSP Processor architectures for better understanding. 
+ To develop the programming knowledge using Instruction set of DSP Processors. 
+ To understand interfacing techniques to memory and I/O devices. 
+ 
+Course Outcomes: Upon completion of the course, the student 
+ Be able to distinguish between the architectural features of General purpose 
+processors and DSP processors. 
+ Understand the architectures of TMS320C54xx and ADSP 2100 DSP devices. 
+ Be able to write simple assembly language programs using instruction set of 
+TMS320C54xx. 
+ Can interface various devices to DSP Processors. 
+ 
+UNIT – I 
+Introduction to Digital Signal Processing: Introduction, A Digital signal -processing 
+system, The sampling process, Discrete time sequences. Discrete Fourier Transform (DFT) 
+and Fast Fourier Transform (FFT), Linear time -invariant systems, Digital filters, D ecimation 
+and interpolation. 
+Computational Accuracy in DSP Implementations:  Number formats for signals and 
+coefficients in DSP systems, Dynamic Range and Precision, Sources of error in DSP 
+implementations, A/D Conversion errors, DSP Computational errors, D/A Conversion Errors, 
+Compensating filter. 
+ 
+UNIT – II 
+Architectures for Programmable DSP Devices:  Basic Architectural features, DSP 
+Computational Building Blocks, Bus Architecture and Memory, Data Addressing 
+Capabilities, Address Generation Unit, Programma bility and Program Execution, Speed 
+Issues, Features for External interfacing. 
+ 
+UNIT - III 
+Programmable Digital Signal Processors:  Commercial Digital signal -processing Devices, 
+Data Addressing modes of TMS320C54XX DSPs, Data Addressing modes of 
+
+R16 B.TECH EIE. 
+TMS320C54XX Processors, Memory space of TMS320C54XX Processors, Program 
+Control, TMS320C54XX instructions and Programming, On -Chip Peripherals, Interrupts of 
+TMS320C54XX processors, Pipeline Operation of TMS320C54XX Processors. 
+ 
+UNIT – IV 
+Analog Devices Family of DSP  Devices: Analog Devices Family of DSP Devices – ALU 
+and MAC block diagram, Shifter Instruction, Base Architecture of ADSP 2100, ADSP -2181 
+high performance Processor. 
+Introduction to Blackfin Processor - The Blackfin Processor, Introduction to Micro Signal  
+Architecture, Overview of Hardware Processing Units and Register files, Address Arithmetic 
+Unit, Control Unit, Bus Architecture and Memory, Basic Peripherals. 
+ 
+UNIT – V 
+Interfacing Memory and I/O Peripherals to Programmable DSP Devices:  
+Memory space organization, External bus interfacing signals, Memory interface, Parallel I/O 
+interface, Programmed I/O, Interrupts and I/O, Direct memory access (DMA). 
+ 
+TEXT BOOKS: 
+1. Digital Signal Processing – Avtar Singh and S. Srinivasan, Thomson Publications, 
+2004. 
+2. A Practical Approach to Digital Signal Processing - K Padmanabhan, R. 
+Vijayarajeswaran, Ananthi. S, New Age International, 2006/2009 
+3. Embedded Signal Processing with the Micro Signal Architecture Publisher:  Woon -
+Seng Gan, Sen M. Kuo, Wiley-IEEE Press, 2007 
+ 
+REFERENCE BOOKS: 
+1. Digital Signal Processors, Architecture, Programming and Applications – B. 
+Venkataramani and M. Bhaskar, 2002, TMH. 
+2. Digital Signal Processing – Jonatham Stein, 2005, John Wiley. 
+3. DSP Processor Fundamentals, Architectures & Features – Lapsley et al.  2000, S. 
+Chand & Co. 
+4. Digital Signal Processing Applications Using the ADSP -2100 Family by The 
+Applications Engineering Staff of Analog Devices, DSP Division, Edited by Amy 
+Mar, PHI 
+5. The Scientist and Engineer's Guide to Digital Signal Processing  by Steven W. Smith, 
+Ph.D., California Technical Publishing, ISBN 0-9660176-3-3, 1997 
+6. Embedded Media Processing  by David J. Katz and Rick Gentile of Analog Devices, 
+Newnes. 
+  
+
+R16 B.TECH EIE. 
+MACHINE LEARNING 
+(Professional Elective – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC854PE/EI864PE                         3     0    0    3 
+ 
+Prerequisites: 
+ Data Structures 
+ Knowledge on statistical methods 
+ 
+Course Objectives: 
+ This course explains machine learning techniques such as decision tree learning, 
+Bayesian learning etc. 
+ To understand computational learning theory. 
+ To study the pattern comparison techniques. 
+ 
+Course Outcomes: 
+ Understand the concepts of computational intelligence like machine learning  
+ Ability to get the skill to apply machine learning techniques to address the real time 
+problems in different areas 
+ Understand the Neural Networks and its usage in machine learning application. 
+ 
+UNIT - I   
+Introduction - Well-posed learning problems, designing a learning system, Pe rspectives and 
+issues in machine learning 
+Concept learning and the general to specific ordering – introduction, a concept learning task, 
+concept learning as search, find -S: finding a maximally specific hypothesis, version spaces 
+and the candidate eliminati on algorithm, remarks on version spaces and candidate 
+elimination, inductive bias. 
+Decision Tree Learning – Introduction, decision tree representation, appropriate problems 
+for decision tree learning, the basic decision tree learning algorithm, hypothesis space search 
+in decision tree learning, inductive bias in decision tree learning, issues in decision tree 
+learning. 
+ 
+UNIT - II 
+Artificial Neural Networks -1– Introduction, neural network representation, appropriate 
+problems for neural network learning, perceptions, multilayer networks and the back -
+propagation algorithm. 
+Artificial Neural Networks-2- Remarks on the Back -Propagation algorithm, An illustrative 
+example: face recognition, advanced topics in artificial neural networks. 
+Evaluation Hypotheses – Motivation, estimation hypothesis accuracy, basics of sampling 
+theory, a general approach for deriving confidence intervals, difference in error of two 
+hypotheses, comparing learning algorithms. 
+
+R16 B.TECH EIE. 
+ 
+UNIT - III 
+Bayesian learning – Introduction, Bayes theorem, Bayes theorem and concept learning, 
+Maximum Likelihood and least squared error hypotheses, maximum likelihood hypotheses 
+for predicting probabilities, minimum description length principle, Bayes optimal classifier, 
+Gibs algorithm, Naïve Bayes classifier, a n example: learning to classify text, Bayesian belief 
+networks, the EM algorithm. 
+Computational learning theory – Introduction, probably learning an approximately correct 
+hypothesis, sample complexity for finite hypothesis space, sample complexity for infi nite 
+hypothesis spaces, the mistake bound model of learning. 
+Instance-Based Learning - Introduction, k-nearest neighbour algorithm, locally weighted 
+regression, radial basis functions, case-based reasoning, remarks on lazy and eager learning. 
+ 
+UNIT - IV 
+Genetic Algorithms – Motivation, Genetic algorithms, an illustrative example, hypothesis 
+space search, genetic programming, models of evolution and learning, parallelizing genetic 
+algorithms. 
+Learning Sets of Rules – Introduction, sequential covering algorith ms, learning rule sets: 
+summary, learning First -Order rules, learning sets of First -Order rules: FOIL, Induction as 
+inverted deduction, inverting resolution. 
+Reinforcement Learning – Introduction, the learning task, Q –learning, non -deterministic, 
+rewards and actions, temporal difference learning, generalizing from examples, relationship 
+to dynamic programming. 
+ 
+UNIT - V 
+Analytical Learning-1- Introduction, learning with perfect domain theories: PROLOG-EBG, 
+remarks on explanation -based learning, explanation -based learning of search control 
+knowledge. 
+Analytical Learning -2-Using prior knowledge to alter the search objective, using prior 
+knowledge to augment search operators.  
+Combining Inductive and Analytical Learning  – Motivation, inductive -analytical 
+approaches to learning, using prior knowledge to initialize the hypothesis. 
+ 
+TEXT BOOK: 
+1. Machine Learning – Tom M. Mitchell, - MGH 
+ 
+REFERENCE: 
+1. Machine Learning: An Algorithmic Perspective, Stephen  Marshland, Taylor & 
+Francis 
+

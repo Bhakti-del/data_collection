@@ -1,0 +1,66 @@
+Code No: 117BW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, April/May - 2018 
+ COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+1.a) Who are all involved in CFX-2000 experiment?     [2] 
+   b) What is data recovery?        [3] 
+   c) What is the real cost of a stolen laptop or PC?     [2] 
+   d) Write evidence collection options?       [3] 
+   e) Write short notes on steganography       [2] 
+   f) Elaborate DiD and discuss its focus       [3] 
+   g) How many ways that we can isolate a mobile device from incoming signals. [2] 
+   h) Explain the Roles of Client and Server in Email.     [3] 
+   i) List the items contained in the FAT table      [2] 
+   j) Explain the features of NTFS.       [3] 
+ 
+PART-B  
+(50 Marks) 
+2. Explain the following business computer forensics technology 
+a) Creating trackable electronic documents 
+b) Forensic services available.       [5+5] 
+OR 
+3.a) Explain Back-up and Recovery Solution (BRS) in detail. 
+   b) Discuss the types of law enforcement computer forensic technology.  [5+5] 
+ 
+4.a) Discuss do’s and don’ts using the preceding five rules of evidence. 
+   b) State and explain the responsibilities of certification authorities.   [5+5] 
+OR 
+5. Discuss the following: 
+a) Types of evidence 
+b) Volatile evidence 
+c) Collection obstacles.        [10] 
+ 
+6.a) How evidence is collected in private sector incidents? Explain. 
+   b) Explain, How to store digital evidence.      [5+5] 
+OR 
+7.a) How are standard procedures developed for network forensics? Explain in detail. 
+   b) Discuss the process of validating forensic data.     [5+5] 
+R13 
+JNTUH USED 23-05-18AM Set 2
+
+8.a) What are the tasks performed by computer forensics tools, discuss any two tasks in detail. 
+   b) Explain computer forensics hardware tools in detail.     [5+5] 
+OR 
+9.a) What is a personal digital assistant? What are the different types of peripheral memory 
+cards used with PDAs?  
+   b) Discuss the need of computer forensics tools.     [5+5] 
+ 
+10.a) Describe Microsoft file structures. 
+     b) Explain how the Windows Registry works.      [5+5] 
+OR 
+11. Discuss the following: 
+a)  Boot sequence 
+       b) Disk drivers.         [5+5] 
+ 
+--ooOoo--  
+JNTUH USED 23-05-18AM Set 2
+

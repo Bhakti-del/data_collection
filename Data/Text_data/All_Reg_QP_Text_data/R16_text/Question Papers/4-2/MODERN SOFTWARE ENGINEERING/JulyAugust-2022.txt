@@ -1,0 +1,43 @@
+ 
+ 
+ 
+Code No: 138DK             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+MODERN SOFTWARE ENGINEERING 
+ (Common to CSE, IT) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Elaborate the Principles of Agile Development. 
+   b) Illustrate the Assessment of Agility.       [8+7] 
+ 
+2. What is mean by Pair Programming? Explain the Tips for pairing.   [15] 
+ 
+3.a) Appraise the importance of Ubiquitous language. 
+   b) Elaborate the strategies for generating trust.      [8+7] 
+ 
+4.a) What is Iteration Demo? Demonstrate the Iteration Demo Process. 
+   b) Explain the types of reports with examples.      [9+6] 
+ 
+5.a) Define Version Control? List and elaborate the terminologies used version control. 
+   b) Demonstrate collective code ownership.      [9+6] 
+ 
+6.a) Discuss ways to introduce slack into iterations. 
+   b) Discuss how can we make a release commitment?     [8+7] 
+ 
+7.a)  Explain in detail about Incremental design and Architecture. 
+   b) Define Refactoring? Explain the issues in refactoring.    [8+7] 
+ 
+8. Define Customer Review Questions? Explain in detail about customer Test. [15] 
+ 
+---oo0oo---  
+ 
+ 
+ 
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

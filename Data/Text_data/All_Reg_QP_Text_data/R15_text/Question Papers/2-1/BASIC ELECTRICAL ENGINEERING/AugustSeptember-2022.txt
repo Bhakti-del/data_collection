@@ -1,0 +1,68 @@
+Code No: 123BR  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, August/September - 2022 
+BASIC ELECTRICAL ENGINEERING 
+(Common to CSE, IT) 
+Time: 3 Hours                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+---- 
+ 
+1.a) State and explain super position theorem. 
+b)  Calculate the resistance between the points A and B for the following network            
+(figure 1):          [6+9] 
+ 
+Figure 1 
+ 
+2.a) Using delta to star transforma tion, determine the resistance between terminals a and b 
+and the total power drawn from the supply in the circuit for the following figure 2: 
+ 
+Figure 2 
+   b) State and explain Thevenin’s theorem.      [9+6] 
+ 
+3.a) Explain the following terms with respect to alternating quantities: 
+ i) Instantaneous value   
+ii) Cycle   
+iii) Time period   
+iv) Frequency    
+v) Amplitude. 
+   b) Find the average value of the periodic function shown below in figure 3:  [8+7] 
+                           
+  
+Figure 3 
+ 
+ 
+R15 
+JNTUH Used paper Aug-2022
+
+ 
+4.a) Draw the p hasor and wave diagram for voltage and current in an R  – C series circuit 
+connected with sinusoidal excitation. 
+b) A voltage of 125 V at 50 Hz is applied across a non -inductive resistor connected in 
+series with a capacitor. The current in the circuit is 2.2 A. The power loss in the resistor 
+is 9 6.8 W and that in  the capacitor is negligible. Calculate the resistance and the 
+capacitance.          [8+7] 
+ 
+5.a) Distinguish between core-type and shell-type transformers in detail. 
+b) The secondary of a 500 kVA, 44 00/500 V, 50 Hz, single -phase transformer has 500 
+turns. Determine (i) emf per turn, (ii) primary turns, (iii) secondary full -load current, 
+and (iv) maximum flux.        [7+8] 
+ 
+6.a) Explain the principle of working of a transformer. Draw its phasor diagram on no-load. 
+b) A 230/110 V single -phase transformer has a core loss of 100 W. If the input under no -
+load condition  is 400 VA, find core loss current, magnetizing current, and no -load 
+power factor angle.         [8+7] 
+ 
+7.a) Explain the principle of operation and brief constructional details of a DC machine. 
+b) A three -phase, four -pole induction motor is supplied from three -phase, 50 Hz AC 
+supply. Calculate (i) synchronous speed, (ii) rotor speed when slip i s 4%, and (iii) rotor 
+frequency, When rotor runs at 600 rpm.      [9+6] 
+ 
+8.a) Explain the various methods for providing damping torque in an instrument. 
+   b) Explain construction and principle of operation of a moving coil instrument with a neat     
+diagram.          [7+8] 
+ 
+ 
+---ooOoo--- 
+JNTUH Used paper Aug-2022
+

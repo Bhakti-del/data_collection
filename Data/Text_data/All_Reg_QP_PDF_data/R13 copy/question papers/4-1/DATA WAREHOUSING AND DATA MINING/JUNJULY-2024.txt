@@ -1,0 +1,79 @@
+Code No: 117CD      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, June/July - 2024 
+DATA WAREHOUSING AND DATA MINING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                                  Max. Marks: 75 
+ 
+Note:  i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+  and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What are the dimension tables for library management system?   [2]  
+   b)      State advantages and disadvantages of snowflake schema.    [3] 
+   c)      What is data discretizaiton?          [2] 
+   d)      What are the measures of similarity and dissimilarity?    [3] 
+   e)      What is transactional database?       [2]  
+   f)       What is maximal frequent itemset?       [3]  
+   g)      Distinguish between supervised and unsupervised learning.      [2]  
+   h)      What are the disadvantages of naïve Bayesian classifier?    [3]  
+   i)       What are strengths and weaknesses of hierarchical clustering algorithms?  [2] 
+   j)       Why outlier detection is important?       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Distinguish between operational database systems and data warehouse. 
+   b) List and explain various OLAP operations.      [5+5] 
+OR 
+3. Explain star schema, snowflake schema and fact constellation schema with examples. 
+            [10]  
+4.a) Explain the process of knowledge discovery in databases. 
+   b) What is missing data? Explain how it is handled.     [5+5] 
+OR 
+5. Explain dimensionality reduction in detail.      [10] 
+ 
+6.a) Explain about confidence and support measures. 
+   b) What is apriori property? Explain join and prune step in apriori algorithm.  [5+5] 
+OR 
+7.a) Explain how FP growth algorithm overcomes the limitations of apriori algorithm. 
+   b) Explain closed frequent itemset with example.     [5+5] 
+ 
+ 
+ 
+ 
+ 
+R13 
+Used Papers 2024
+
+ 
+ 
+ 
+8. Explain naïve Bayesian classifier.       [10] 
+OR 
+9.a) How information gain is computed? What are the disadvantages of information gain attribute 
+selection measure? 
+   b) Explain Bayesian belief networks.       [5+5] 
+ 
+10.a) Explain how clustering algorithms are evaluated. 
+     b) What is PAM algorithm? Explain.       [5+5] 
+OR 
+11. Perform k-means clustering on following data: (k=2).    [10] 
+ 
+ x y 
+A  2 3 
+B  1 1 
+C  5 6 
+D  3 4 
+E  6 7 
+ 
+      
+  
+---ooOoo--- 
+ 
+Used Papers 2024
+

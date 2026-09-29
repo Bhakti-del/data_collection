@@ -1,0 +1,1759 @@
+R16 B.TECH MECHATRONICS. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.TECH. MECHANICAL ENGINEERING (MECHATRONICS) 
+IV YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+IV YEAR I SEMESTER 
+S. No Course 
+Code Course Title L T P Credits 
+1 MT701PC Microprocessors and Microcontrollers 4 0 0 4 
+2  Professional Elective - II 3 1 0 3 
+3  Professional Elective - III 3 1 0 3 
+4  Professional Elective - IV 3 1 0 3 
+5 MT702PC Robotics and its Applications 4 0 0 4 
+6 MT703PC Microprocessors and Microcontrollers Lab 0 0 3 2 
+7 MT704PC Motion Control Design and CNC & Robotics 
+Lab 
+0 0 3 2 
+8 MT705PC Industry Oriented Mini Project 0 0 3 2 
+9 MT706PC Seminar 0 0 2 1 
+  Total Credits 17 3 11 24 
+ 
+IV YEAR II SEMESTER 
+S. No Course 
+Code Course Title L T P Credits 
+1  Open Elective – III 3 0 0 3 
+2  Professional Elective - V 3 0 0 3 
+3  Professional Elective - VI 3 0 0 3 
+4 MT801PC Major Project 0 0 30 15  
+  Total Credits 9 0 30 24 
+ 
+Professional Elective – II 
+MT721PE 
+MT722PE 
+EE724PE 
+MT724PE 
+Principles of Machine Design  
+Concurrent Engineering 
+Reliability Engineering  
+Mechanics of Composite Materials  
+ 
+Professional Elective - III 
+MT731PE 
+MT732PE 
+MT733PE 
+MT734PE 
+Advanced Kinematics & Dynamics of Machinery 
+Plant Engineering & Maintenance 
+Refrigeration and Air Conditioning 
+Operations Research 
+ 
+Professional Elective - IV 
+MT741PE 
+MT742PE 
+MT743PE 
+Automobile Engineering 
+Flexible Manufacturing System 
+Mathematical Modeling and Simulation 
+
+R16 B.TECH MECHATRONICS. 
+MT744PE Engineering Metrology 
+ 
+Professional Elective - V 
+ME851PE 
+MT852PE 
+MT853PE 
+MT854PE 
+Automation in Manufacturing  
+Product Design and Assembly Automation  
+MATLAB Applications  
+Mechanical Vibrations  
+ 
+Professional Elective - VI 
+MT861PE 
+MT862PE 
+MT863PE 
+MT864PE 
+Computational Fluid Dynamics  
+Power Plant Engineering 
+MEMS Design  
+Automotive Pollution and Control  
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+LIST OF OPEN ELECTIVES OFFERED BY VARIOUS DEPARTMENTS FOR 
+B.TECH. III AND IV YEARS 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective – I 
+(Semester – V) 
+Open Elective – II 
+(Semester – VI) 
+1 Aeronautical Engg. AE511OE: Introduction 
+to Space Technology 
+AE621OE: Introduction to 
+Aerospace Engineering 
+2 Automobile Engg. CE511OE: Disaster 
+Management 
+MT512OE: Intellectual 
+Property Rights 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+3 Biomedical Engg. BM511OE: Reliability 
+Engineering 
+BM621OE: Medical 
+Electronics 
+4 Civil Engg. CE511OE: Disaster 
+Management. 
+CE621OE: Remote 
+Sensing and GIS 
+CE622OE: Geo-
+Informatics 
+CE623OE: Intellectual 
+Property Rights 
+5 Civil and Environmental 
+Engg. 
+CE511OE: Disaster 
+Management 
+CN621OE: Environmental 
+Impact Assessment  
+CE623OE: Intellectual 
+Property Rights 
+6 Computer Science and Engg. 
+/ Information Technology 
+CS511OE: Operating 
+Systems  
+CS512OE: Database 
+Management Systems 
+CS621OE: Java 
+Programming  
+CS622OE: Software 
+Testing Methodologies  
+CS623OE: Cyber Security 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC511OE: Principles of 
+Electronic 
+Communications 
+EC621OE: Principles of 
+Computer Communications 
+and Networks 
+8 Electronics and Computer 
+Engg. 
+EM511OE: Scripting 
+Languages 
+EM621OE: Soft 
+Computing Techniques 
+9 Electrical and Electronics 
+Engg. 
+EE511OE: Non-
+Conventional Power 
+Generation  
+EE512OE: Electrical 
+Engineering Materials  
+EE513OE: 
+Nanotechnology 
+EE621OE: Design 
+Estimation and Costing of 
+Electrical Systems  
+EE622OE: Energy Storage 
+Systems 
+EE623OE: Introduction to 
+Mechatronics 
+10 Electronics and 
+Instrumentation Engg. 
+EI511OE: Electronic 
+Measurements and 
+Instrumentation 
+EI621OE: Industrial 
+Electronics 
+11 Mechanical Engg. ME511OE: Optimization 
+Techniques  
+ME512OE: Computer 
+Graphics 
+ME513OE: Introduction 
+ME621OE: World Class 
+Manufacturing  
+ME622OE: Fundamentals 
+of Robotics 
+ME623OE: Fabrication 
+
+R16 B.TECH MECHATRONICS. 
+to Mechatronics 
+ME514OE: 
+Fundamentals of 
+Mechanical Engineering 
+Processes 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT511OE: Fabrication 
+Processes 
+NT512OE: Non 
+destructive Testing 
+Methods 
+NT513OE: 
+Fundamentals of 
+Engineering Materials 
+NT621OE: Introduction to 
+Material Handling 
+NT622OE: Non-
+Conventional Energy 
+Sources 
+NT623OE: Robotics 
+13 Mechanical Engg. 
+(mechatronics) 
+MT511OE: Analog and 
+Digital I.C. Applications 
+MT512OE: Intellectual 
+Property Rights 
+MT513OE: Computer 
+Organization 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+MT623OE: Industrial 
+Management 
+ 
+14 Metallurgical and Materials 
+Engg. 
+MM511OE: Materials 
+Characterization 
+Techniques 
+MM621OE: Science and 
+Technology of Nano 
+Materials 
+MM622OE: Metallurgy of 
+Non Metallurgists 
+15 Mining Engg. MN511OE: Introduction 
+to Mining Technology 
+MN621OE: Coal 
+Gasification, Coal Bed 
+Methane and Shale Gas 
+16 Petroleum Engg. PE511OE: Materials 
+Science and Engineering 
+PE512OE: Renewable 
+Energy Sources 
+PE513OE: 
+Environmental 
+Engineering 
+PE621OE: Energy 
+Management and 
+Conservation 
+PE622OE: Optimization 
+Techniques 
+PE623OE: 
+Entrepreneurship and 
+Small Business Enterprises 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective –III 
+(Semester – VIII) 
+1 Aeronautical Engg. AE831OE: Air Transportation Systems 
+AE832OE: Rockets and Missiles 
+2 Automobile Engg. AM831OE: Introduction to Mechatronics 
+AM832OE: Microprocessors and Microcontrollers 
+3 Biomedical Engg. BM831OE: Telemetry and Telecontrol  
+BM832OE: Electromagnetic Interference and 
+Compatibility 
+4 Civil Engg. CE831OE: Environmental Impact Assessment  
+CE832OE: Optimization Techniques in Engineering 
+CE833OE: Entrepreneurship and Small Business 
+Enterprises 
+5 Civil and Environmental 
+Engg. 
+CN831OE: Remote Sensing and GIS  
+CE833OE: Entrepreneurship and Small Business 
+
+R16 B.TECH MECHATRONICS. 
+Enterprises 
+6 Computer Science and 
+Engg. / Information 
+Technology 
+CS831OE: Linux Programming  
+CS832OE: R Programming  
+CS833OE: PHP Programming 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC831OE: Electronic Measuring Instruments 
+8 Electronics and Computer 
+Engg. 
+EM831OE: Data Analytics 
+9 Electrical and Electronics 
+Engg. 
+EE831OE: Entrepreneur Resource Planning 
+EE832OE: Management Information Systems 
+EE833OE: Organizational Behaviour  
+10 Electronics and 
+Instrumentation Engg. 
+EI831OE: Sensors and Transducers,  
+EI832OE: PC Based Instrumentation 
+11 Mechanical Engg. ME831OE: Total Quality Management  
+ME832OE: Industrial Safety, Health, and 
+Environmental Engineering  
+ME833OE: Basics of Thermodynamics  
+ME834OE: Reliability Engineering 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT831OE: Concepts of Nano Science And Technology  
+NT832OE: Synthesis of Nanomaterials  
+NT833OE: Characterization of Nanomaterials 
+13 Mechanical Engg. 
+(mechatronics) 
+MT831OE: Renewable Energy Sources 
+MT832OE: Production Planning and Control 
+CE833OE: Entrepreneurship and Small Business 
+Enterprises 
+14 Metallurgical and Materials 
+Engg. 
+MM831OE: Design and Selection of Engineering 
+Materials 
+15 Mining Engg. MN831OE: Solid Fuel Technology 
+MN832OE: Health & Safety in Mines 
+16 Petroleum Engg. PE831OE: Disaster Management 
+PE832OE: Fundamentals of Liquefied Natural Gas 
+PE833OE: Health, Safety and Environment in 
+Petroleum Industry  
+ 
+*Open Elective – Students should take Open Electives from List of Open Electives Offered 
+by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+MICROPROCESSORS AND MICROCONTROLLERS 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT701PC                        4     0    0    4 
+ 
+Course Objectives: 
+ To develop an understanding of the operations of microprocessors and micro 
+controllers; machine language programming and interfacing techniques. 
+ 
+Course Outcomes: 
+ Understands the internal architecture and organization of 8086, 8051 and ARM 
+processors/controllers. 
+ Understands the interfacing techniques to 8086 and 8051 and can develop assembly 
+language programming to design microprocessor/ micro controller based systems. 
+ 
+UNIT - I 
+8086 Architecture: 8086 Architecture-Functional diagram, Register Organization, Memory 
+Segmentation, Programming Model, Memory addresses, Physical Memory Organization, 
+Architecture of 8086, Signal descriptions of 8086, interrupts of 8086. 
+Instruction Set and Assembly Language Programming of 8086 : Instruction formats, 
+Addressing modes, Instruction Set, Assembler Directives, Macros, and Simple Programs 
+involving Logical, Branch and Call Instructions, Sorting, String Manipulations. 
+ 
+UNIT - II 
+Introduction to Microcontrollers: Overview of 8051 Microcontroller, Architecture, I/O 
+Ports, Memory Organization, Addressing Modes and Instruction set of 8051. 
+8051 Real Time Control:  Programming Timer Interrupts, Programming External Hardware 
+Interrupts, Programming the Serial Communication Interrupts, Programming 8051 Timers 
+and Counters 
+ 
+UNIT – III 
+I/O And Memory Interface: LCD, Keyboard, External Memory RAM, ROM Interface, 
+ADC, DAC Interface to 8051. 
+Serial Communication and Bus Interface: Serial Communication Standards, Serial Data 
+Transfer Scheme, On board Communication Interfaces -I2C Bus, SPI Bus, UART; External 
+Communication Interfaces-RS232,USB. 
+ 
+UNIT – IV 
+ARM Architecture: ARM Processor fundamentals, ARM Architecture – Register, CPSR, 
+Pipeline, exceptions and interrupts interrupt vector table, ARM instruction set – Data 
+processing, Branch instructions, load store instructions, Software interrupt instructions, 
+Program status register instructions, loading constants, Conditional execution, Int roduction to 
+Thumb instructions. 
+ 
+
+R16 B.TECH MECHATRONICS. 
+UNIT – V 
+Advanced ARM Processors: Introduction to CORTEX Processor and its architecture, 
+OMAP Processor and its Architecture. 
+ 
+TEXT BOOKS: 
+1. Advanced Microprocessors and Peripherals – A. K. Ray and K.M. Bhurchandani, 
+MHE, 2nd Edition 2006. 
+2. The 8051 Microcontroller, Kenneth. J. Ayala, Cengage Learning, 3rd Ed. 
+3. ARM System Developers guide, Andrew N SLOSS, Dominic SYMES, Chris 
+WRIGHT, Elsevier, 2012 
+ 
+REFERENCE BOOKS: 
+1. Microprocessors and Interfacing, D. V. Hall, MGH, 2nd Edition 2006. 
+2. Introduction to Embedded Systems, Shibu K.V, MHE, 2009 
+3. The 8051Microcontrollers, Architecture and Programming and Applications -K.Uma 
+Rao, Andhe Pallavi, Pearson, 2009. 
+  
+
+R16 B.TECH MECHATRONICS. 
+PRINCIPLES OF MACHINE DESIGN 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT721PE                        3     1    0    3 
+ 
+UNIT - I 
+Introduction: General considerations in the design of Engineering Materials and their 
+properties –selection –Manufacturing consideration in design. Tolerances and fits –BIS codes 
+of steels. Stresses in Machine Members: Simple stresses – Complex Stresses – impact  
+stress strain relations – Static theories of failure – factors of safety – Design for strength 
+and rigidity – preferred numbers. The concept of stiffness in tension, bending, torsion, and 
+combined situations. Fatigue Loading: Stress concentration – Theoretical stress 
+Concentration factor – Fatigue stress c oncentration factor notch sensitivity – Design for 
+fluctuating stresses – Endurance limit – Estimation of Endurance strength – Fatigue theories 
+of failure Goodman and Soderberg’s lines. 
+ 
+UNIT – II 
+Riveted and Welded Joints: Riveted Joints: Modes of failure f  riveted joints-Strength 
+equations –efficiency of r iveted joints-Design of boiler joints – eccentricity loaded riveted 
+joints. Welding Joints: Design of fillet welds- axial loads – Circular fillet welds-bending and 
+torsion-eccentricity loaded joints. 
+Axially Loaded Joints and Shafts: Keys, cotters and knuckle joints: Design of Keys stresses 
+in key- cottered joints-spigot and socket, sleeve and cotter, jib and cotter joints-knuckle 
+joints. Design of shafts: Design of solid and hollow shafts for strength and rigidity – Design 
+of shafts of complex loads- Shaft sizes – BIS code.  Design of shafts for gear and belt drives 
+ 
+UNIT – III 
+Power Transmissions Systems, Pulleys:  Transmission of power by Belt and Rope drives , 
+Transmission efficiencies, Belts – Flat and V types – Ropes   - pulleys for belt and rope 
+drives, Materials, Chain drives 
+ 
+UNIT – IV 
+Spur & Helical Gear Drives: Spur gears& Helical gears – Load concentration factor – 
+Dynamic load factor.  Surface compressive strength – Bending strength – Design analysis of 
+spur and helical gears – Estimation of centre distance, module  and face width, check for 
+plastic deformation. Check for dynamic and wear considerations. 
+ 
+UNIT - V 
+Bearings: Types of bearings – Basic modes of Lubrication – Bearing construction-Bearing 
+design- bearing materials-Selection of Lubricants. Rolling contact bearings: Types of rolling 
+contact bearings-Selection of bearing type-Selection of bearing life-Design for cyclic loads 
+and speeds-static and dynamic loading of ball & roller bearings 
+ 
+
+R16 B.TECH MECHATRONICS. 
+TEXT BOOKS: 
+1. Mechanical Engineering Design by Bahl and Goel, Standard Publications 
+2. Design of Machine Elements by kulakarni-Mc Graw Hill-3
+rd
+ 
+ 
+REFERENCE BOOKS: 
+1. Machine design by timothy H.Wenzell PE, Cengage 
+2. Machine design by r.L. Norton, Mc GRaw hill 
+3. Machine design by V.Bandari, TMH Publishers 
+4. Machine design – Pandya & shah. 
+5. Machine Desin, S MD Kakakuddin, Anuradha Publisher 
+ 
+*Note: Use of design data book is permitted in the examination 
+  
+
+R16 B.TECH MECHATRONICS. 
+CONCURRENT ENGINEERING 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT722PE                        3     1    0    3 
+ 
+UNIT - I 
+Introduction:  Development of Concurrent Engineering.   The mean and activity concepts 
+and principles. Examples. 
+Concurrent Engineering Tools and Technologies:  Changes in to Technologies, Tasks, 
+Talents, and times into well managed resources product developments. 
+ 
+UNIT – II 
+Research in Engineering design and manufacturing: Theory applications using the 
+concurrent Engineering concepts and Principles. 
+Simultaneous design and all related processes of a product. 
+ 
+UNIT –III 
+The mission and vision of C.E: Computer optimized manufacturing (COM).The next 
+generation of computer integrated manufacturing (CIM). 
+Global competitiveness and development of high quality product. Offline reliability 
+ 
+UNIT –IV 
+Managing the concurrent Engineering: Contemporary Issues a modern Tools and 
+methods Use of Computers and decision making. Reengineering concepts 
+ 
+UNIT-V 
+Automated Quality Control Application of CMM, Basic concepts, Zero defect, 6 sigma 
+concept, Tolerancing, Examples, DFMA, Rapid Prototyping 
+ 
+TEXT BOOK: 
+1. Concurrent Engineering:  Tools and Technologies for Mechanic Systems Design – 
+Edward, J. Haug. 
+ 
+REFERENCES: 
+1. Research in Engineering Design :  Theory, applications, and concurrent engineering : 
+Vol. 7, No. 1, 1995. 
+2. Managing Concurrent Engineering. – Jon Turino 
+  
+
+R16 B.TECH MECHATRONICS. 
+RELIABILITY ENGINEERING  
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT723PE/EE724PE                        3     1    0    3 
+ 
+Prerequisite: Mathematics III 
+ 
+Course Objectives: 
+ To introduce the basic concepts of reliability, various models of reliability 
+ To analyze reliability of various systems 
+ To introduce techniques of frequency and duration for reliability evaluation of  
+repairable systems. 
+ 
+Course Outcomes: After completion of this course, the student will be able to 
+ model various systems applying reliability networks 
+ evaluate the reliability of simple and complex systems 
+ estimate the limiting state probabilities of repairable systems 
+ apply various mathematical models for evaluating reliability of irrepairable systems 
+ 
+UNIT – I 
+Basic Probability Theory: Elements of probability, probability distributions, Random 
+variables, Density and Distribution functions - Binomial distribution- Expected value and 
+standard deviation - Binomial distribution, Poisson distribution, normal distribution, 
+exponential distribution, Weibull distribution. 
+Definition of Reliability:  Definition of terms used in reliability, Component reliabilit y, 
+Hazard rate, derivation of the reliability function in terms of the hazard rate. Hazard models - 
+Bath tub curve, Effect of preventive maintenance. Measures of reliability: Mean Time to 
+Failure and Mean Time Between Failures. 
+ 
+UNIT – II 
+Network Modeling and Evaluation Of Simple Systems: Basic concepts - Evaluation of 
+network Reliability / Unreliability - Series systems, Parallel systems- Series-Parallel systems- 
+Partially redundant systems- Examples. 
+Network Modeling and Evaluation of Complex systems : Conditional probability method- 
+tie set, Cutset approach - Event tree and reduced event tree methods - Relationships between 
+tie and cutsets- Examples. 
+ 
+UNIT – III 
+Time Dependent Probability: Basic concepts- Reliability function f(t). F(t), R(t) and h(t) - 
+Relationship between these functions. 
+Network Reliability Evaluation Using Probability Distributions: Reliability Evaluation of 
+Series systems, Parallel systems – Partially redundant systems - determination of reliability 
+measure- MTTF for series and parallel systems – Examples. 
+
+R16 B.TECH MECHATRONICS. 
+UNIT – IV 
+Discrete Markov Chains: Basic concepts - Stochastic transitional probability matrix - time 
+dependent probability evaluation - Limiting State Probability evaluation - Absorbing states –
+Examples 
+Continuous Markov Processes : Modeling c oncepts- State space diagrams - Unreliability 
+evaluation of single and two component repairable systems 
+ 
+UNIT – V 
+Frequency and Duration Techniques: Frequency and duration concepts, application to 
+multi state problems, Frequency balance approach. 
+Approximate System Reliability Evaluation: Series systems – Parallel systems- Network 
+reduction techniques - Cut set approach - Common mode failures modeling and evaluation 
+techniques- Examples. 
+ 
+TEXT BOOKS: 
+1. Roy Billinton and Ronald N Allan, Reliability Evaluation of Engineering Systems, 
+Plenum Press, 1983. 
+2. E. Balagurusamy, Reliability Engineering by Tata McGraw -Hill Publishing Company 
+Limited, 2002. 
+ 
+REFERENCE BOOK: 
+1. K. K. Agarwal, Reliability Engineering-Kluwer Academic Publishers, 1993. 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+MECHANICS OF COMPOSITE MATERIALS 
+(Professional Elective - II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT724PE                        3     1    0    3 
+ 
+Course Overview: 
+This course is designed for building foundational knowledge in composites. It introduces the 
+concept of: (1) Characterization and application of composite, (2) the methods of composite 
+strengthening, and (3) production routes and performance of composites. 
+ 
+Course Objectives: 
+1. An ability to identify the properties of fiber and matrix materials used in commercial 
+composites, as well as some common manufacturing techniques. 
+2. An ability to predict the elastic properties of both long and short fiber composites 
+based on the constituent properties.  
+3. An ability to rotate stress, strain and stiffness tensors using ideas from matrix algebra. 
+ 
+UNIT - I  
+Introduction t o Composite Materials:  Introduction, classification, polymer matrix 
+composites, metal matrix composites, ceramic matrix composites, carbon -carbon composites, 
+fiber, reinforced composites and nature-made composites and applications. 
+Reinforcements: Fibers Glass, Silica, Kevlar, carbon, boron, silicon carbide, and born 
+carbide, fibres. Particulate composites, Polymer composites, Thermoplastics,  Thermosetts, 
+Metal matrix and ceramic composites.  
+ 
+UNIT - II  
+Manufacturing Methods: Autoclave, tape production, moulding methods, filament winding, 
+man lay up, pultrusion, RTM. Macro mechanical Analysis of a "Lamina": introduction, 
+Definitions: stress, strain, Elastic Moduli,  strain Energy. Hooke's Law for different types of 
+materials, Hooks Law for a two dimensional unidirectional lamina, plane stress assumption, 
+reduction of Hooks Law in three dimensions to two dimensions, relationship of compliance 
+and stiffness matrix to engineering elastic constants of a lamina.  
+ 
+UNIT - III  
+Hooke’s Law for a Two -Dimensional Angle Lamina, Engineering constants of an Angle 
+Lamina. Invariant Form of Stiffness and compliance Matrices for an Angle Lamina Strength 
+Failure. Envelops, Maximum St rain Failure Theory,  Tsai-Hill Failure Theory, Tsai -Wu 
+Failure Theory Comparison of Experimental Results with Failure Theories.  
+Hygrothermal Stresses and Strains in a Lamina: Hygrothermal Stress -Strain Relationships for 
+a Unidirectional Lamina, Hygrothermal Stress-Strain Relationships for a Angle Lamina.  
+ 
+ 
+ 
+
+R16 B.TECH MECHATRONICS. 
+UNIT - IV  
+Micromechanical Analysis o f A Lamina:  Introduction, Volume and Mass Fractions, 
+Density, and Void Content, Evaluation of the Four Elastic Moduli, Strength of Materials 
+Approach, Semi Empirica l Models Elasticity Approach, Elastic Moduli of Lamina with 
+Transversely Isotropic Fibers, Ultimate Strengths of a Unidirectional Lamina, Coefficients of 
+Thermal Expansion, Coefficients of Moisture Expansion .  
+ 
+UNIT - V  
+Macro mechanical Analysis o f Lamin ates: Introduction, Laminate Code, Stress -Strain 
+Relations for a Laminate, In -Plane and Flexural Modules of a Laminate, Hygrothermal 
+Effects in a Laminate, Warpage of Laminates. 
+Failure Analysis and Design of Laminates:  Introduction Special Cases of Lamina tes, 
+Failure Criterion for a Laminate, Design of a Laminated Composite, Other Mechanical 
+Design Issues 
+ 
+TEXT BOOKS: 
+1. Engineering Mechanics of Composite materials by Issac and M Daniel 
+2. R.M Jones, Mechanics of composite Materials, McGraw Hill Company, New York, 
+1975 
+ 
+REFERENCE BOOKS: 
+1. D. Agarwal and L. Broutman, Analysis and perf ormance of fibre Composites, Wi ley- 
+interscience.  
+2. L.R Calcote, Analysis of Laminated Composite Structures , Van Nostrand Rainfold, 
+New York, 1969 
+3. Mechanics of Composite Materials, Mukhopadhyay  
+
+R16 B.TECH MECHATRONICS. 
+ADVANCED KINEMATICS AND DYNAMICS OF MACHINERY 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT731PE                        3     1    0    3 
+ 
+UNIT - I 
+Geometry of motion - Grublers Criterion for plain and  spatial mechanis ms - Grashoff's 
+law for planar and  spatial mechanis ms, Kutn Batch criterion for planar and spatial 
+mechanis ms 
+Velocity and acceleration analysis,  use of co mputers in analysis. Velocity and 
+accelerations analysis of co mplex mechanis ms. 
+ 
+UNIT - II 
+Coupler curves, Robert's Chebychev spacing method. Cognate linkages. Path curvature- 
+Polodes- Euler Savery equation -Bobiller and Hartman's Construction- Equivalent 
+mechanisms. 
+Space mechanisms and mobility equations :  Positional problems .  Vector analysis of 
+velocity and  accelerations . 
+ 
+UNIT - III 
+Theorem of angular velocities and accelerations –computer aided analysis.  
+Static force analysis of plane and spatial mechanisms: Inertia forces and torques. 
+Dynamic force analysis, application of co mputer ani mation and si mulation of motion 
+studies.  
+ 
+UNIT- IV 
+Dynamic Motion Analysis: Quinn's energy distribution method, the equivalent mass and 
+force method. The rate of change of energy method, dynamic motion simulation. 
+ 
+UNIT - V 
+Synthesis of linkages: Two position synthesis. Properties of  rotopole,  Chebychev   spacing. 
+Optimization of the transmission angles. The overlay method; Three-position synthesis; point 
+position reduction; synthesis of dwell mechanisms;  
+ 
+Codes / Tables:   No table/code books required for examination 
+ 
+TEXTBOOKS: 
+1. Kinematics and Dynamics and design of machinery, Waldron, Wiley Publishers. 
+2. Shigley: J.E. Kinematic Analysis of mechanism, McGraw 11. 
+ 
+REFERECES: 
+1. Hirschcom : J.K.. KinciBcs and Dynamics of Plane Mechanisms McGraw Hill. 
+2. Holewenko, A.R. Dynamics of machinery, John Wiley & Sons. 
+
+R16 B.TECH MECHATRONICS. 
+ PLANT ENGINEERING AND MAINTENANCE  
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT732PE/AM734PE                        3     1    0    3 
+ 
+UNIT – I 
+Introduction: Need for maintenance, Facts and Figures, modern maintenance, problem and 
+maintenance strategy for the 21st century, Engineering maintenance objectives and 
+maintenance in equipment Life cycle, Terms and definitions. 
+Maintenance Management and control: Maintenance M anual, Maintenance, Facility 
+evaluation, Functions of Effective M aintenance M anagement, Maintenance project control 
+Methods, Maintenance Management control Indices. 
+ 
+UNIT – II 
+Types of maintenance: Preventive Maintenance, Elements of Preventive, Maintenance 
+Program, Establishing Preventive M aintenance program, PM program Evaluation and 
+Improvement, PM measures, PM models, Corrective M aintenance, Corrective M aintenance 
+types, Corrective M aintenance steps and downtime c omponents, Corrective Maintenance 
+measures, Corrective Maintenance models. 
+Inventory control in Maintenance: Inventory control objectives and basic inventory decisions, 
+ABC Inventory control method, Inventory control models two bi Inventory control and safety 
+stock, Spares determination factors, spares calculation methods. 
+ 
+UNIT –III 
+Quality and Safety in Maintenance: Needs for quality Maintenance processes, Maintenance 
+work quality, use of quality control charts in Maintenance work sampling, post Maintenance 
+testing, reasons for safety problems in Maintenance, guidelines to improve safety in 
+Maintenance work, safety officer’s role in Maintenance work, and protection of Maintenance 
+workers. 
+ 
+UNIT - IV 
+Maintenance costing: reasons for Maintenance costing, Maintenance budget preparation 
+methods and steps, M aintenance  labor  cost  estimation,  material  cost  estimation,  
+equipment  life  cycle  Maintenance  cost estimation, Maintenance cost estimation models. 
+ 
+UNIT – V 
+Reliability, Reliability centered Maintenance: RCM goals and principles, RCM process and 
+Associated Questions, RCM Program components Effectiveness Measurement indicators, 
+RCM benefits and Reasons for its failures, Reliability versus Maintenance and Reliability in 
+support phase, Bathtub Hazard Rate Concept, Reliability Measures and Formulas, Reliability 
+Networks, Reliability Analysis Techniques. 
+Maintainability: Maintainability Importance and objective, Maintainability in systems Life 
+cycle, Maintainability 
+
+R16 B.TECH MECHATRONICS. 
+Design c haracteristics, Maintainability functions and measures, common Maintainability 
+design errors. 
+ 
+TEXT BOOKS: 
+1. Engineering Maintenance a modern approach B.S. Dhallon 2002 C.R.R. Publishers 
+2. Maintenance Engineering and management – K. Venkataraman - PHI 
+ 
+REFERENCE BOOKS: 
+1. Reliability Engineering – Balaguruswamy 
+2. Reliability Engineering – L.S. Srinath 
+3. Industrial Safety Management – L.M. Deshmukh – TMH 
+  
+
+R16 B.TECH MECHATRONICS. 
+REFRIGERATION AND AIR CONDITIONING 
+ (Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT733PE                        3     1    0    3 
+ 
+Pre-requisite: Thermodynamics 
+ 
+Course Objective: To apply the principles  of Thermodynamics to analyze different types of 
+refrigeration and air conditioning systems and to understand the functionality of the major 
+components.  
+ 
+Course Outcomes : At the end of the course, the student should be able to Differentiate 
+between different types of refrigeration systems with respect to application as well as 
+conventional and unconventional refrigeration systems. Thermodynamically analyse 
+refrigeration a nd air conditioning systems and evaluate performance parameters. Apply the 
+principles of Psychometrics to design the air conditioning loads for the industrial 
+applications. 
+ 
+UNIT – I 
+Introduction to Refrigeration:  - Necessity and applications – Unit of refrigeration and 
+C.O.P. – Mechanical Refrigeration – Types of Ideal cycle of refrigeration. 
+Air Refrigeration:  Bell Coleman cycle and Brayton Cycle, Open and Dense air systems – 
+Actual air refrigeration system – Refrigeration needs of Air crafts - Air systems – Actual Air 
+refrigeration system – Refrigeration needs of Air crafts – Application of Air Refrigeration, 
+Justification – Types of systems – Problems. 
+ 
+UNIT – II 
+Vapour compression refrigeration – working principle and essential components of the plant 
+– Simple Vapour compression refrigeration cycle – COP – Representation of cycle on T -S 
+and p -h charts – effect of sub cooling and super heating – cycle analysis – Actual cycle 
+Influence of various parameters on system performance – Use of p-h charts – Problems. 
+ 
+UNIT - III  
+System Components: Compressors – General classification – comparison – Advantages and 
+Disadvantages. Condensers – classification – Working Principles . Evaporators – 
+classification – Working Princ iples. Expansion devices – Types – Working Principles . 
+Refrigerants – Desirable properties – common refrigerants used – Nomenclature – Ozone 
+Depletion – Global Warming – Azeotropes and Zeotropes. 
+ 
+UNIT - IV 
+Vapor Absorption System – Calculation of max COP – description and working of NH3 – 
+water system – Li – Br system.  Principle of operation Three Fluid absorption system, salient 
+features. 
+
+R16 B.TECH MECHATRONICS. 
+ 
+Steam Jet Refrigeration System – Working Principle and Basic Components 
+Principle and operation of (i) Thermoelectric refrigerator (ii) Vortex tube or Hilsch tube. 
+ 
+UNIT – V 
+Introduction to Air Conditioning: Psychometric Properties & Processes – Sensible and 
+latent heat loads – Characterization – Need for Ventilation, Consideration of Infiltration – 
+Load concepts of RSHF, ASHF, ESHF and ADP. 
+Concept of human comfort and effective temperature –Comfort Air conditioning – Industrial 
+air conditioning and Requirements – Air conditioning Load Calculations. 
+Air Conditioning systems -  Classification of equipment, cooling, heating humidification and 
+dehumidification, filters, grills and registers, deodorants, fans and blowers. 
+Heat Pump – Heat sources – different heat pump circuits – Applications. 
+ 
+TEXT BOOKS: 
+1. Refrigeration and Air conditioning / CP  Arora / Mc Graw Hill 
+2. Refrigeration and Air-Conditioning / RC Aora / PHI  
+ 
+REFERENCE BOOKS: 
+1. Principles of Refrigeration - Dossat / Pearson  
+2. Basic Refrigeration and Air-Conditioning / Ananthanarayanan / Mc Graw Hill 
+  
+
+R16 B.TECH MECHATRONICS. 
+OPERATIONS RESEARCH 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: ME724PE/MT734PE/AM743PE                       3     1    0    3 
+ 
+Course Objectives: Understanding the mathematical importance of development of model in 
+a particular optimization model for the issue and solving it. 
+ 
+Course Outcome: Understanding the problem, identifying variables & constants, formulas of 
+optimization model and applying appropriate optimization Tech 
+ 
+UNIT – I 
+Development – Definition– Characteristics an d Phases – Types of models – Operations 
+Research models – applications. 
+Allocation: Linear Programming Problem - Formulation – Graphical solution – Simplex 
+method – Artificial variables techniques: Two –phase method, Big -M method; Duality 
+Principle. 
+ 
+UNIT – II 
+Transportation Problem  – Formulation – Optimal solution, unbalanced transportation 
+problem – Degeneracy.   
+Assignment problem – Formulation – Optimal solution - Variants of Assignment Problem; 
+Traveling Salesman problem. 
+ 
+UNIT – III 
+Sequencing – Introduction – Flow –Shop sequencing – n jobs through two machines – n jobs 
+through three machines – Job shop sequencing – two jobs through ‘m’ machines-graphical 
+model. Replacement:  Introduction – Replacement of items that deteriorate with time – when 
+money value is not counted and counted – Replacement of items that fail completely - Group 
+Replacement. 
+ 
+UNIT – IV 
+Theory of Games:   Introduction –Terminology– Solution of games with saddle points and 
+without saddle points- 2 x 2 games –m x 2 & 2 x n games - graphical method – m x n games - 
+dominance principle. 
+Inventory:  Introduction – Single item, Deterministic models – Types - Purchase inventory 
+models with one price break and multiple price breaks –Stochastic models – demand discrete 
+variable or continuous variable – Single Period model with no setup cost.   
+ 
+UNIT – V 
+Waiting Lines: Introduction–Terminology-Single Channel–Poisson arrivals and Exponential 
+Service times – with infinite population and finite population models – Multichannel – 
+Poisson arrivals and exponential service times with infinite population.  
+
+R16 B.TECH MECHATRONICS. 
+Dynamic Programming: Introduction – Terminology- Bellman’s Principle of Optimality – 
+Applications of dynamic programming - shortest path problem – linear programming 
+problem. 
+ 
+TEXT BOOKS: 
+1. Operations Research / N.V.S. Raju / SMS 
+2. Operations Research / ACS Kumar / Yes Dee 
+ 
+REFERENCE BOOKS: 
+1. Operations Research /J. K. Sharma / MacMilan. 
+2. Operations Research /A. M. Natarajan, P. Balasubramaniam, A. Tamilarasi / Pearson. 
+  
+
+R16 B.TECH MECHATRONICS. 
+AUTOMOBILE ENGINEERING 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT741PE                        3     1    0    3 
+ 
+UNIT – I 
+Introduction: Layout of automobile – introduction chassis and body components. Types of 
+Automobile engines.  – Power unit – Introduction to engine lubrication – engine servicing   
+Fuel System: S.I. Engine: Fuel supply systems, Mechanical and electrical fuel pump – filters 
+– carburetor – types – air filters – petrol injection. Introduction to MPFI and GDI Systems. 
+C.I. Engines : Requirements of diesel injection systems, types of injection systems, DI 
+Systems IDI systems. fuel pump, nozzle, spray formation, injection timing, testing of fuel 
+pumps. Introduction CRDI and TDI Systems.  
+ 
+UNIT – II 
+Cooling System : Cooling Requirements, Air Cooling, Liquid Cooling, Thermo, water and 
+Forced Circulation System – Radiators – Types – Cooling Fan - water pump, thermostat, 
+evaporative cooling – pressure sealed cooling – antifreeze solutions.  
+Ignition System:  Function of an ignition system, battery ignition system, constructional 
+features of storage, battery, auto transformer, contact breaker points, condenser and spark 
+plug – Magneto coil ignition system,  electronic ignition system using contact breaker, 
+electronic ignition using contact triggers – spark advance and retard mechanism. 
+Electrical System : Charging circuit, generator, current – voltage regulator – starting system, 
+bendix drive mechanism solen oid switch, lighting systems, Horn, wiper, fuel gauge – oil 
+pressure gauge, engine temperature indicator etc. 
+ 
+UNIT – III 
+Transmission System: Clutches, principle, types, cone clutch, single plate clutch, multi plate 
+clutch, magnetic and centrifugal clutch es, fluid fly wheel – gear boxes, types, sliding mesh, 
+constant mesh, synchro mesh gear boxes, epicyclic gear box , over drive torque converter. 
+Propeller shaft – Hotch – Kiss drive, Torque tube drive, universal joint, differential rear axles 
+– types – wheels and tyres. 
+Suspension System: Objects of suspension systems – rigid axle suspension system, torsion 
+bar, shock absorber, Independent suspension system.  
+ 
+UNIT – IV 
+Braking System: Mechanical brake system, Hydraulic brake system, Master cylinder, wheel 
+cylinder tandem master cylinder Requirement of brake fluid, Pneumatic, and vacuum brakes. 
+Steering System: Steering geometry – camber, castor, king pin rake, combined angle toein, 
+center point steering. Types of steering mechanism – Ackerman steering mecha nism, Davis 
+steering mechanism, steering gears – types, steering linkages. 
+ 
+ 
+
+R16 B.TECH MECHATRONICS. 
+UNIT – V 
+Emissions from Automobiles – Pollution standards National and international – Pollution 
+Control – Techniques – Multipoint fuel injection for SI Engines. Common rail diesel 
+injection Energy alternatives – Solar, Photo -voltaic, hydrogen, Biomass, alcohols, LPG , 
+CNG, liquid Fuels and gaseous fuels, Hydrogen as a fuel for IC Engines. - Their merits and 
+demerits. Standard Vehicle maintenance practice. 
+ 
+TEXT BOOKS: 
+1. Automobile Engineering / William H Crouse 
+2. A Text Book Automobile Engineering –Manzoor, Nawazish Mehdi & Yosuf Ali, 
+Frontline Publications.    
+REFERENCES: 
+1. A Text Book of Automobile Engineering by R K Rajput. Laxmi Publications. 
+2. Automotive Mechanics / Heitner 
+3. Automotive Engineering / Newton Steeds & Garrett 
+4. Automotive Engines / Srinivasan 
+5. A Text Book of Automobile Engineering By Khalil U Siddiqui New Age 
+International  
+  
+
+R16 B.TECH MECHATRONICS. 
+FLEXIBLE MANUFACTURING SYSTEM  
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT742PE                        3     1    0    3 
+ 
+UNIT – I 
+Introduction: Types of production, characteristics, applications, need for FMS, where to apply 
+FMS technology. Components of FMS, FMS layout configurations, planning the FMS, 
+FMS’s Work- stations. Flexible Manufacturing Cell: Characteristics, Flexible Machining 
+systems, achieving flexibility in machining systems, Machine c ell design, quantitative 
+techniques 
+ 
+UNIT – II 
+Group Technology(GT) –Part classification and coding systems: Part families, Optiz  system,  
+structure,  MULTICODE,  differences  between  Optiz  and  MULTICODE  systems,  relative 
+benefits. GT- production flow analysis: Composite part concept, numerical problems for parts 
+clustering, advantages of GT in manufacturing and design. 
+ 
+UNIT - III 
+Material Handling systems, Automatic Guided vehicle systems, automated storage and 
+retrieval systems and Computer control systems. 
+ 
+UNIT - IV 
+Implementing FMS: FMS Layout conf igurations, Quant itative Ana lysis methods for FMS, 
+Applications and benefits of  FMS, prob lems in implementing FMS. 
+ 
+UNIT – V 
+Computer Aided Process planning : Importance, generative and retrieval systems, 
+advantages and  disadvantages, Generation of route sheets, selection of  optimal machining 
+parameters, methods.  Computer aided quality control and testing : Coord inate 
+measuring mach ines, over view, contact and non contact inspection pr inciples, Part 
+programming coordinate measur ing machines, In-cycle gauging. 
+ 
+TEXT BOOKS: 
+1. Automation, Production systems and Computer Integrated M anufacturing Sy stem – 
+Mikell P. Groover 
+2. The design and operation of FMS –Dr. Paul Ranky Nort –Holland Publishers 
+ 
+REFERENCES: 
+1. Flexible Manufacturing systems in practice by Joseph talvage and roger G. Hannam, 
+Marcel Dekker Inc., New york 
+2. Hand book of FMS – Nand Jha .K. 
+3. FMS and control of machine tools - V. Ratmirov, MIR publications 
+4. Flexible Manufacturing – David J. Parrish 
+
+R16 B.TECH MECHATRONICS. 
+MATHEMATICAL MODELING AND SIMULATION  
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT743PE                        3     1    0    3 
+ 
+UNIT - I 
+Art of Modeling, Types of models, mathematical models – solution methods – 
+analytical, Numerical and Heu ristic. L.P.P. – Formulation – Graphical M ethod, simplex 
+method, dual simplex method and application. 
+Transportation models – Assignment models, Integer programming, Non-linear programming. 
+ 
+UNIT – II 
+Deterministic Inventory models – General Inventory model, Static E.O.Q. Models, Dynamic 
+Inventory model, Pr obabilistic Inventory models, continuous Review models, single period 
+model, and multiple period models. 
+Selective Inventory control – ABC, VED, FSN Analysis. Inventory systems – Fixed order 
+quantity system, two bin system, periodic review systems, Optional Replenishment system 
+and M R P. 
+ 
+UNIT – III 
+Queuing Theory – Basic Structure of Queuing M odels, Role of Exponential Distribution, 
+Birth-and-Death Process, Queuing Models Based on the Birth-and- Death Process, Queuing 
+Models involving Non-exponential D istributions, Priority-Discipline Queuing Models and 
+Queuing Networks. Applications of Queuing Theory – Decision M aking, Formulation of 
+Waiting – Cost Function and Decision Models. 
+ 
+UNIT – IV 
+CPM and PE RT – Network Representation, Critical path c alculation, construction of Time 
+schedule. 
+Simulation – Introduction, General  principles , Random-Number Generation, Random-
+Variate Generation, Simulation Software. 
+ 
+UNIT – V 
+Input  modeling,  verification  and  validation  of  simulation  models,  Output  Analysis  for  
+a  single  model, Comparison and Evaluation of Alternative System Designs, Simulation of 
+Computer Systems. 
+ 
+TEXT BOOKS: 
+1. Introduction to Operations Research, Frederick S Hiller and Gerald J Lieberman, 7th 
+Edition, Tata McGraw Hill, 2001 (Chapters 17 and 18 for Unit-III). 
+2. Discrete-Event System Simulation, Jerry Banks, John S  Carson II, Barry L. Nelson 
+and David M. Nicol, 3
+rd edition, PHI/Pearson Education (Chapters 1, 3, 4, 7 and 8 for 
+Unit-IV; Chapters 9,10,11,12 and 14 for Unit-V). 
+
+R16 B.TECH MECHATRONICS. 
+3. Operations Research – An Introduction, 7th edition, Prentice-Hall of India, 1999 
+(Chapter 1 to 5 for Unit-I and Chapters 11 and 16 for Unit II, Section 6.7 for Unit-IV). 
+ 
+REFERENCE BOOKS: 
+1. Operation Research – S. K. Jain and D. M. Mehta, Galgotia. 
+2. Introductory Operations Research: Theory & Applications, Kasana, Springer. 
+3. Applied Simulation Modelling – Seila, Ceric and Tadikamalla 
+4. Simulation Modeling and Analysis – Averil M Law – TMH 
+5. Operation Research – An Introduction 7 th Edition, Prentice Hall of India, 1999 
+(Chapter 1 to 5 for Unit – I and Chapters 11 and 16 for Unit II, Section 6,7 for Unit – 
+IV) 
+  
+
+R16 B.TECH MECHATRONICS. 
+ENGINEERING METROLOGY 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT744PE                          3     1    0    3 
+ 
+Course overview : To provide a basic understanding of the wide range of activities 
+encompassed by personnel working in standards and calibration laboratories. It covers the 
+measurement process, types and c orrect use of measurement and test equipment, and 
+measurement standards. It provides an opportunity for students to learn about measurement 
+uncertainty and risk analysis. The course includes the procedures necessary to set up and to 
+have knowledge on calib ration. At the end of this subject the student is expected: It is 
+expected to enforce, validate and verify predefined standards for traceability, accuracy, 
+reliability, and precision. All of these are factors that would affect the validity of 
+measurement. Although these standards vary widely, these are mandated by the government, 
+the agencies, and some treaties. Consequently, these standards are verified and tested against 
+a recognized quality system in calibration laboratories 
+ 
+Course Objectives: 
+1. To be familiar with the different instruments those are available for linear, angular, 
+roundness and roughness measurements.  
+2. To be able to select and use the appropriate measuring instrument according to a 
+specific requirement (in terms of accuracy, etc.)  
+3. It is the aim of this course to provide students with practical skills associated with 
+each of these areas. Metrology activities include precision measurement of component 
+features, form and geometry utilizing specialized measuring instruments and 
+equipment.  
+4. Effectively designing product processing methods.  
+5. To enhance the ability of students to apply scientific methods of protection 
+ 
+Course Outcomes: 
+1. Graduates will demonstrate basic knowledge in mathematics, science and engineering  
+2. Graduates will demon strate an understanding of their professional and ethical 
+responsibilities  
+3. Graduates will demonstrate the ability to function on engineering and science 
+laboratory teams, as well as on multidisciplinary design teams  
+4. Graduates will demonstrate the ability  to identify, formulate and solve mechanical 
+engineering problems 
+5. Graduates will have the confidence to apply engineering solutions in global and 
+societal contexts. Graduates should be capable of self -education and clearly 
+understand the value of life-long learning. Graduates will have ability to communicate 
+in written, oral and graphical forms. 
+ 
+ 
+
+R16 B.TECH MECHATRONICS. 
+UNIT - I  
+Systems of limits and fits: Introduction, normal size, tolerance limits, deviations, allowance, 
+fits and their types - unilateral and bilateral toleranc e system, hole and shaft basis systems - 
+interchangeability and selective assembly. Indian standard Institution system - British 
+standard system, International Standard system for plain ad screwed work.  
+ 
+UNIT - II  
+Linear Measurement: Length standard, line and end standard, slip gauges - calibration of 
+the slip gauges, Dial indicator, micrometers. Measurement of Angles and Tapers: Different 
+methods - Bevel protractor - angle slip gauges - spirit levels - sine bar - Sine plate, rollers and 
+spheres used to determine the tapers. Limit Gauges: Taylor’s principle - Design of go and 
+No go gauges, plug ring, snap, gap, taper, profile and position gauges.  
+ 
+UNIT - III  
+Optical Measuring Instruments: Tool maker's microscope and its uses - collimators, optical 
+projector - optical flats and their uses, interferometer. Flat Surface Measurement:  
+Measurement of flat surfaces - instruments used - straight edges - surface plates - optical flat 
+and auto collimator.  
+ 
+UNIT - IV  
+Surface Roughness Measurement  : Differences between surface roughness and surface 
+waviness-Numerical assessment of surface finish - CLA, R, R.M.S Values - Rz values, Rz 
+value, Methods of measurement of surface finish -profilograph. Talysurf, ISI symbols for 
+indication of surface finish.  
+ 
+UNIT - V  
+Screw Thread Measurement : Element of measurement - errors in screw threads - 
+measurement of effective diameter, angle of thread and  thread pitch, profile thread gauges. 
+Measurement Through Comparators: Comparators - Mechanical, Electrical and Electronic 
+Comparators, pneumatic comparators and their uses in mass production. MACHINE TOOL 
+Alignment Tests :  Requirements of Machine Tool Ali gnment Tests, Alignment tests on 
+lathe, milling, drilling machine tools.. Preparation of acceptance charts.  
+Gear Measurement : Gear measuring instruments, Gear tooth profile measurement. 
+Measurement of diameter, pitch pressure angle and tooth thickness. Co ordinate Measuring 
+Machines: Types of CMM, Role of CMM, and Applications of CMM.  
+ 
+TEXT BOOKS: 
+1. Engineering Metrology / I C Gupta./ Danpath Rai  
+2. Engineering Metrology / R.K. Jain / Khanna Publishers 
+ 
+REFERENCE BOOKS: 
+1. BIS standards on Limits & Fits, Surface Finish, Machine Tool Alignment etc. 
+2. Principles of Engineering Metrology, Rajendra 
+3. Metrology & Measurement, Bewoor, Anand K  
+
+R16 B.TECH MECHATRONICS. 
+ROBOTICS AND ITS APPLICATIONS 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT702PC                        4     0    0    4 
+ 
+UNIT – I  
+Introduction: Automation and Robotics, CAD/CAM and Robotics – An over view of 
+Robotics – present and future applications – classification by coordinate system and control 
+system. Components of the Industrial Robotics: End effectors- types, mechanical 
+grippers, and other types of grippers, comparison of Electric, Hydraulic and Pneumatic 
+types of locomotion devices. 
+ 
+UNIT – II 
+Motion Analysis: Homogeneous transformations as applicable to rotation and translation – 
+problems. Manipulator Kinematics: Specifications of matrices, D-H notation joint 
+coordinates and world coordinates. Forward and inverse kinematics – problems. 
+ 
+UNIT – III 
+Manipulator jacobians: Differential transformation and manipulators, Jacobians – problems.  
+Dynamics: Lagrange – Euler and Newton– Euler formations – Problems. 
+ 
+UNIT - IV 
+Trajectory planning:  path planning an d avoidance of obstacles, , Slew motion, joint 
+interpolated motion – straight line motion. Programming Languages: Robot programming, 
+languages and software packages. 
+ 
+UNIT - V 
+Robot actuators and Feed-back components: Actuators: Pneumatic, Hydraulic actuators, 
+electric, & stepper motors. Feedback components: position sensors – potentiometers, 
+resolvers, encoders – Velocity sensors. Robot  Application  in  Manufacturing:  Material  
+Transfer  -  Material  handling,  loading  and  unloading  - Processing - spot and continuous 
+arc welding & spray painting - Assembly and Inspection. 
+ 
+TEXT BOOKS: 
+1. Robo Technology Fundamentals, James G. Keramas, CENGAGE Publications   
+2. Industrial Robotics / Groover M P /Pearson Edu. 
+3. Robotics and Control/ Nagrath and Mittal.  
+REFERENCES: 
+1. Introduction to Robotics / John J Craig / Pearson Edu 
+2. Applied Robotics / Edwin Wise / Cengage Publications 
+3. Robotics / Fu K S / McGraw Hill. 
+4. Robotic Engineering / Richard D. Klafter, Prentice Hall 
+5. Robot Analysis and Intelligence / Asada and Slow time / Wiley Inter-Science. 
+6. Robot Dynamics & Control – Mark W. Spong and M.  Vidyasagar / John Wiley & 
+Sons (ASIA) Pte Ltd.  
+
+R16 B.TECH MECHATRONICS. 
+MICROPROCESSORS AND MICROCONTROLLERS LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT703PC                        0     0    3    2 
+ 
+Note: 
+ Minimum of 12 experiments are o be conducted. 
+ The Following programs/ experiments are to be written for assembler and to be 
+executed the same with 8086 and 8051 kits. 
+ 
+List of Experiments: 
+1. Programs for 16 bit arithmetic operations for 8086 (using Various Addressing Modes). 
+2. Program for sorting an array for 8086. 
+3. Program for searching for a number or character in a string for 8086.  
+4. Program for string manipulations for 8086. 
+5. Program for digital clock design using 8086. 
+6. Interfacing ADC and DAC to 8086. 
+7. Parallel communication between two microprocessors using 8255. 
+8. Serial communication between two microprocessor kits using 8251. 
+9. Interfacing to 8086 and programming to control stepper motor. 
+10. Programming using arithmetic, logical and bit manipulation instructions of 8051. 
+11. Program and verify Timer/ Counter in 8051. 
+12. Program and verify Interrupt handling in 8051 
+13. UART Operation in 8051. 
+14. Communication between 8051 kit and PC. 
+15. Interfacing LCD to 8051. 
+16. Interfacing Matrix/ Keyboard to 8051. 
+17. Data Transfer from Peripheral to Memory through DMA controller 8237 / 8257. 
+  
+
+R16 B.TECH MECHATRONICS. 
+MOTION CONTROL DESIGN AND CNC & ROBOTICS LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT704PC                        0     0    3    2 
+ 
+Note: Any Six from each Laboratory 
+ 
+MOTION CONTROL ROBOTICS LAB 
+1. Study of the following equipment: 
+a. Relief Valve  b. Flow Control Valves c. Directional Control Valves   
+d. Pressure Control Valves 
+2. Circuits for reciprocating motion of a single acting and double acting pneumatic 
+cylinders. 
+3. Circuits for reciprocating motion of hydraulic cylinders. 
+4. Circuits for speed control of a 
+(a) Double acting pneumatic cylinder. (b)  Double acting hydraulic Cylinder. 
+5. Circuits for semi automatic and automatic operation of double acting Pneumatic 
+cylinders. 
+6. Circuits for semi automatic and automatic operation of double acting hydraulic 
+cylinders. 
+7. Circuits for sequencing motion of two pneumatic cylinder 
+(a) by cascading    (b) by using a sequence valve 
+8. Circuits for Measurement of pressure of air/oil in fluid power system. 
+9. Design and simulation of pneumatic circuits using simulation software 
+10. Design and simulation of hydraulic circuits using simulation software 
+ 
+CNC &ROBOTICS LAB 
+1. Study and operation of CNC lathe 
+2. Study and operation of CNC milling machine 
+3. Preparation of typical part programs of CNC lathe 
+4. Preparation of typical part programs on CNC milling machine. 
+5. Exercises using CAM software. 
+6. Part program generation through G and M Codes for turning, contouring, drilling, and 
+Milling. 
+7. Development of tool path simulation by setting tool offsets for multi operations. 
+8. Machining of various Components by generation of CNC code by CAM Software 
+9. Study of various CNC post Processors 
+10. Robot Programming 
+  
+
+R16 B.TECH MECHATRONICS. 
+AUTOMATION IN MANUFACTURING 
+(Professional Elective - V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT851PE                        3     0    0    3 
+ 
+UNIT – I  
+Introduction Types and strategies of automation, pneumatic and hydraulic components 
+circuits, Automation in machine tools. Mechanical feeding and too changing and machine 
+tool control transfer the automaton.  
+ 
+UNIT – II  
+Automated flow lines: Methods or work part transport transfer Mechanical buffer storage 
+control function, design and fabrication consideration.  
+Analysis of Automated flow lines: General terminology and analysis of transfer lines 
+without and with buffer storage, partial automation, implementation of automated flow lines.  
+ 
+UNIT – III  
+Assembly system and line balancing : Assembly process and systems assembly line, line 
+balancing methods, ways of improving line balance, flexible assembly lines.  
+Automated material handling:  Types of equipment, functions, analysis and design of 
+material handling systems conveyor systems, automated guided vehicle systems.  
+ 
+UNIT - IV  
+Automated storage systems, automated storage and retrieval systems, work in process 
+storage, interfacing handling and storage with manufacturing.  
+Adaptive control systems : Introduction, adaptive control with optimization, Adaptive 
+control with constraints , Application of A.C. in machining operations. Use of various 
+parameters such as cutting force, Temperatures, vibration and acoustic emission.  
+ 
+UNIT – V  
+Business process Re -engineering: Introduction to BPE logistics, ERP, Software 
+configuration of BPE, concurrent Engineering, Techniques of Rapid Proto typing.  
+ 
+TEXT BOOKS:  
+1. Automation, Production Systems and Computer Integrated Manufacturing/M.P. 
+Groover. / Pearson 
+2. Computer control of Manufacturing Systems by Yoram Coreom / Mc Graw Hill 
+ 
+REFERENCE BOOKS:  
+1. CAD / CAM/ CIM / Radhakrishnan / New Age  
+2. Advanced Manufacturing Technology/ K Vara Prasada Rao / Kanna Publications 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+PRODUCT DESIGN AND ASSEMBLY AUTOMATION 
+((Professional Elective - V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT852PE                        3     0    0    3 
+ 
+UNIT – I 
+Automatic Feeding and Orienting Devices: Vibrator feeders, Mechanics of vibratory 
+conveying, load sensitivity, solutions to load sensitivity, spiral elevators, balanced feeders. 
+Types of oriental systems, effect of active orienting devices on feed rate, natural resting 
+aspects of parts for automatic handing, out-of-bowl tooling, Re ciprocating - tube hopper 
+feeder 
+ 
+UNIT - II 
+Automatic Assembly Transfer Systems: Assembly machines classification, Continuous 
+transfer, intermittent transfer, indexing mechanisms, and operator - paced free – transfer 
+machine, choice of assemble method, advantages and disadvantages of automation. 
+ 
+UNIT - III 
+Product design for High speed Automatic Assembly and Robot Assembly : Introduction, 
+design of parts for: high speed, feeding and orienting, example, additional feeding 
+difficulties, high speed automatic insertion, example, analysis of an assembly, general rules 
+for product design for automation, product design for robot assembly. 
+ 
+UNIT - IV 
+Design for Manual Assembly : General design guidelines for manual  assembly,  
+development  of  the  systematic  DFA  methodology,  assembly  efficiency,  classification 
+system for manual handling, classification system for manual insertion and fastening, effect 
+of part symmetry on handling time, effect of part thickness and size on handling time, effect 
+of weight on handling time, parts requiring two hands for manipulation, effect of symmetry 
+effect of chamfer design on insertion operations, estimation of insertion time, reducing disk 
+assembly problems.  
+ 
+UNIT - V 
+Performance and Economics of Assembly Systems: Indexing machines-effects of parts 
+quality on down time and production time,  free transfer machines- performance of free 
+transfer machine, comparison of indexing and free - transfer machines. 
+ 
+TEXT BOOKS: 
+1. Geoffrey Boothroyd, “Assembly Automation and P roduct Design", Marcel Dekker 
+Inc., NY, 1992. 
+2. Geoffrey Boothroyd, Peter Dewhurst, Winston Knight, “Product design for 
+Manufacture and assembly”, 2e, CRC Press 
+ 
+
+R16 B.TECH MECHATRONICS. 
+REFERENCE BOOKS: 
+1. A.K. Chitale, RC Gupta, “Product design and Manufacturing”, PHI 
+2. Geoffrey Boothroyd, "Hand Book of Product Design" Marcel and Dekken, N.Y. 1990. 
+3. A Delbainbre "Computer Aided Assembly London, 1992. 
+  
+
+R16 B.TECH MECHATRONICS. 
+MATLAB APPLICATIONS  
+(Professional Elective - V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT853PE                        3     0    0    3 
+ 
+UNIT - I  
+Starting with MATLAB: Command Window, Arithmetic Operations, Display Formats, Built-
+In Functions, Variables, Useful Commands, Script Files, Examples of MATALAB 
+Applications 
+ 
+UNIT - II  
+Arrays and Mathematical Operations: One and two -dimensional Array, zero’s ones and, eye 
+Commands, Array Addressing, Vector Matrix, Strings and Strings as Variables 
+Addition, Subtraction, Multiplication and Array Division, Built -in MATH Functions, 
+Generation of Random Numbers, Script File operations, Examples 
+ 
+UNIT - III  
+Programming in MATLAB: Plot, line, hold on and hold off Commands, Formatting a Plot, 
+Polar Plots. 
+Relational and Logical Operators, Conditional Statements, Nested Loops and Nested 
+Conditional Statements, User -Defined Functions and Function Files, Compariso n Between 
+Script Files and Function Files, Anonymous and Inline Functions, Function Functions, Sub -
+functions, Nested Functions, Examples  
+ 
+UNIT - IV  
+Polynomials, Curve Fitting, and Interpolation: Polynomials, Value of Polynomial, Roots of 
+Polynomial, Addition, Multiplication, Derivatives and Division of Polynomials, Curve Fitting 
+Curve Fitting with Polynomials, The polyfit Function 
+ 
+UNIT - V   
+Applications in Numerical Analysis: One variable, Integration, Ordinary Differential 
+Equations,  Mesh, surface, sp ecial graphs, view commands, symbolic objects and 
+expressions, algebraic equation, differentiation, integration, Examples 
+ 
+TEXT BOOKS 
+1. MATLAB An Introduction with Applications, 4 th Edition, Amos Gilat, WILEY 
+Publishers  
+2. MATLAB Programming for Engineers, 4 th Edition, Stephen J. Chapman,  CENGAGE  
+Publishers 
+REFERENCES 
+1.   Essential-MATLAB for Engineers and Scientists, 4 th Edition, Brian H. Hahan and 
+Daniel T. Valentine, Elsevier Publications 
+2. MATLAB-A practical Introduction to programming and problem solving, 2 nd Edition, 
+Stormy Attaway, Elsevier BH 
+
+R16 B.TECH MECHATRONICS. 
+MECHANICAL VIBRATIONS  
+(Professional Elective - V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT854PE                        3     0    0    3 
+ 
+Pre-requisites: Engineering Mechanics 
+ 
+Course objectives:  Understand various levels of vibrations and remedies for each of them. 
+ 
+Course Outcomes:  At the end of the course, the student will be able to, Understand the 
+causes and effects of vibration in mechanical systems.  Develop schematic models for 
+physical systems and formulate governing equations of motion. Understand the role of 
+damping, stiffn ess and inertia in mechanical systems Analyze rotating and reciprocating 
+systems and compute critical speeds. Analyze and design machine supporting structures, 
+vibration isolators and absorbers. 
+ 
+UNIT - I 
+Single degree of Freedom systems - I: Undamped and damped free vibrations; forced 
+vibrations coulomb damping; Response to excitation; rotating unbalance and support 
+excitation; vibration isolation and transmissibility. 
+ 
+UNIT - II 
+Single degree of Freedom systems - II: Response to Non Periodic Excitations: unit impulse, 
+unit step and unit Ramp functions; response to arbitrary excitations, The Convolution 
+Integral; shock spectrum; System response by the Laplace Transformation method. 
+ 
+UNIT - III 
+Two degree freedom systems:   Principal modes - undamped and dampe d free and forced 
+vibrations; undamped vibration absorbers; 
+Multi degree freedom systems:  Matrix formulation, stiffness and flexibility influence 
+coefficients; Eigen value problem; normal modes and their properties; Free and forced 
+vibration by Modal analysis; Method of matrix inversion; Torsional vibrations of multi - rotor 
+systems and geared systems; Discrete- Time systems. 
+ 
+UNIT - IV 
+Continuous system:  Free vibration of strings – longitudinal oscillations of bars - traverse 
+vibrations of beams- Torsional vibrations of shafts. 
+Critical speeds of shafts :  Critical speeds without and with damping, secondary critical 
+speed. 
+Numerical Methods:  Rayleigh’s stodola's, Matrix iteration, Rayleigh - Ritz Method and 
+Holzer's methods. 
+Vibration measuring instruments:  Vibrometers, velocity meters & accelerometers 
+ 
+
+R16 B.TECH MECHATRONICS. 
+UNIT - V 
+Sound level and subjective response to sound: Subjective response to sound, frequency 
+dependent human response to sound, sound -pressure dependent human response, the decibel 
+scale, relationship among sound power, sound intensity and sound pressure level, relationship 
+between sound power level and sound intensity, relationship between sound intensity level 
+and sound pressure level, sound measuring instruments. 
+ 
+TEXT BOOKS: 
+1. Elements of Vibration Analysis / Meirovitch/ Mc Graw Hill  
+2. Principles of Vibration / Benson H. Tongue/Oxford 
+ 
+REFERENCE BOOKS: 
+1. Mechanical Vibrations / SS Rao / Pearson 
+2. Mechanical Vibration /Rao V. Dukkipati , J Srinivas/ PHI 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+COMPUTATIONAL FLUID DYNAMICS 
+(Professional Elective - VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT861PE                        3     0    0    3 
+ 
+UNIT - I: 
+Basic Aspects of the Governing Equations – Physical Boundary Conditions – Methods of 
+solutions of Physical Problems – Need for Computational Fluid Dynamics – Different 
+numerical/CFD techniques – FDM, FEM, FVM etc., - Main working principle - CFD as a 
+research and design tool – Applications in various branches of Engineering 
+Mathematical behavior of Partial Differential Equations (Governing Equations): 
+Classification of linear/ quasi linear PDE – Examples - Physical Processes: Wave Equations 
+and Equations of Heat Transfer and Fluid Flow – Mathematical Behavior - General 
+characteristics – Its significance in understanding the physical and numerical aspects of the 
+PDE – One way and Two Way variables – Well posed problems – Initial and Boundary 
+Conditions 
+Solution of Simultaneous Algebraic Equations: Direct Method – Gauss Elimination – LU 
+Decomposition – Pivoting – Treatment of Banded Matrices – Thomas Algorithm 
+Iterative Method: Gauss Seidel and Jordan Methods - Stability Criterion 
+ 
+UNIT - II: 
+Finite Difference Method: Basic aspects of Discretization – Finite Difference formulae for 
+first order and second order terms – Solution of physical problems with Elliptic type of 
+Governing Equations for different boundary conditions - Numerical treatment of 1D and 2D 
+problems in heat conduction, beams etc., - Solutions –Treatment of Curvelinear coordinates – 
+Singularities – Finite Difference Discretization – Solution of 1D heat conduction problems in 
+Heat conduction in curve linear coordinates 
+ 
+UNIT - III: 
+FDM: Solution of physical problems with Parabolic type of Governing Equations – Initial 
+Condition –Explicit, implicit and semi implicit methods – Types of errors – Stability and 
+Consistency – Von Neumann Stability criterion– Solution of simple physical problems in 1D 
+and 2D – Transient Heat conduction problems- ADI scheme - Simple Hyperbolic type PDE - 
+First order and Second order wave equations – Discretization using Explicit method - 
+Stability criterion – Courant Number – CFL Condition - Its significance - Treatment of 
+simple problems 
+ 
+UNIT - IV: 
+Finite Difference Solution of Unsteady Inviscid Flows: Lax – Wendroff Technique – 
+Disadvantages – Maccormack’s Technique  
+Fluid Flow Equations – Finite Difference Solutions of 2D Viscous Incompressible flow 
+problems – Vorticity and Stream Function Formulation – Finite Difference treatment of Lid 
+
+R16 B.TECH MECHATRONICS. 
+Driven Cavity Problem - Application to Cylindrical Coordinates with example of flow over 
+infinitely long cylinder and sphere – Obtaining Elliptic Equations 
+ 
+UNIT - V: 
+Finite Difference Applications in Fluid flow problems: Fundamentals of fluid Flow modeling 
+using Burger’s Equation – Discretization using FTCS method with respect to Upwind 
+Scheme and Transport Property – Upwind Scheme and Artificial Viscosity  
+Solutions of Navier Stokes Equations for Incompressible Fluid Flows: Staggered Grid – 
+Marker and Cell (MAC)  Formulation – Numerical Stability Considerations – Pressure 
+correction method - SIMPLE Algorithm  
+ 
+REFERENCE BOOKS: 
+1. Computational Fluid Flow and Heat Transfer – K Muralidharan and T Sudarajan, 
+Narosa Publishers 
+2. Computational Fluid Dynamics : The basics with applications – John D Anderson,  
+McGraw Hill Publications 
+  
+
+R16 B.TECH MECHATRONICS. 
+POWER PLANT ENGINEERING 
+(Professional Elective - VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT862PE                        3     0    0    3 
+ 
+Pre-Requisites: None 
+ 
+Course Objective:  The goal of this course is to become prepared for professional 
+engineering design of conventional and alternative power -generation plants. The 
+learning objectives include 
+ Analysis and preliminary design of the major  systems of conventional fossil -fuel 
+steam-cycle power plants. 
+ A working knowledge of the basic design principles of nuclear, gas turbine, combined 
+cycle, hydro, wind, geothermal, solar, and alternate power plants. 
+ Awareness of the economic, environmental,  and regulatory issues related to power 
+generation. 
+ 
+Course Outcomes: At the end of the course students are able to: 
+ Understand the concept of Rankine cycle.  
+ Understand working of boilers including water tube,  fire tube and high pressure 
+boilers and determine efficiencies.  
+ Analyze the flow of steam through nozzles  
+ Evaluate the performance of condensers and steam turbines  
+ Evaluate the performance of gas turbines  
+ 
+UNIT – I 
+Introduction to the Sources of Energy – Resources and Development of Power in Indi a. 
+Steam Power Plant: Plant Layout, Working of different Circuits, Fuel and handling 
+equipments, types of coals, coal handling, choice of handling equipment, coal storage, Ash 
+handling systems. 
+Combustion Process: Properties of coal – overfeed and underfeed fuel beds, traveling grate 
+stokers, spreader stokers, retort stokers, pulverized fuel burning system and its components, 
+combustion needs and draught system, cyclone furnace, design and construction, Dust 
+collectors, cooling towers and heat rejection. Corrosion and feed water treatment. 
+ 
+UNIT – II 
+Internal Combustion Engine Plant: 
+ Diesel Power Plant : Introduction – IC Engines, types, construction – Plant layout with 
+auxiliaries – fuel supply system, air starting equipment, lubrication and cooling system – 
+super charging. Gas Turbine Plant: Introduction – classification - construction – Layout 
+with aux iliaries – Principles of working of closed and open cycle gas turbines. Combined 
+
+R16 B.TECH MECHATRONICS. 
+Cycle Power Plants and comparison. Direct Energy Conversion:  Solar energy, Fuel cells, 
+Thermo electric and Thermo ionic, MHD generation. 
+ 
+UNIT – III 
+Hydro Electric Power Plant : Water power – Hydrological cycle / flow measurement – 
+drainage area characteristics – Hydrographs – storage and Pondage – classification of dams 
+and spill ways. Hydro Projects and Plant: Classification – Typical layouts – plant 
+auxiliaries – plant operat ion pumped storage plants. Power From Non -Conventional 
+Sources: Utilization of Solar - Collectors- Principle of Working, Wind Energy – types – 
+HAWT, VAWT -Tidal Energy. 
+ 
+UNIT – IV 
+Nuclear Power Station:  Nuclear fuel – breeding and fertile materials – Nuclear reactor – 
+reactor operation. Types of Reactors:  Pressurized water reactor, Boiling water reactor, 
+sodium-graphite reactor, fast Breeder Reactor, Homogeneous Reactor, Gas cooled Reactor, 
+Radiation hazards and shielding – radioactive waste disposal. 
+ 
+UNIT – V 
+Power Plant Economics and Environmental Considerations: Capital cost, investment of 
+fixed charges, operating costs, general arrangement of power distribution, Load curves, load 
+duration curve. Defi nitions of connected load, Maximum demand, demand factor, average 
+load, load factor, diversity factor – related exercises. Effluents from power plants and Impact 
+on environment – pollutants and pollution standards – Methods of Pollution control. 
+ 
+TEXT BOOKS: 
+1. Power Plant Engineering/ P. K. Nag / Mc Graw Hill 
+2. Power Plant Engineering / Hegde / Pearson. 
+ 
+REFERENCES BOOKS: 
+1. Power Plant Engineering / Gupta / PHI 
+2. Power Plant Engineering / A K Raja / New age  
+  
+
+R16 B.TECH MECHATRONICS. 
+MEMS DESIGN 
+(Professional Elective - VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT863PE                        3     0    0    3 
+ 
+UNIT – I 
+Introduction, Integrated Circuits, MEMS, Micro sensors, Micro actuators, Microelectronics 
+Fabrication, Micromachining, Mechanical MEMS, Thermal MEMS, MOEMS, Magnetic 
+MEMS, RF MEMS, Microfluid systems, Bio and Chemo-devices, Nanotechnology, Modeling 
+and Simulation. 
+Micromachining:  Introduction, Photolithography, Structural and sacrificial materials, other 
+lithography methods, Thin film deposition, Impurity doping, Etching, Problems with bulk 
+Micro machining, Surface Micromachining, Bulk Vs. Surface micromachining. 
+ 
+UNIT – II 
+System Modeling and Properties of Material: Introduction, Need for modeling, system types, 
+Basic Modeling e lements in mechanical systems, Electrical systems, Fluid systems and 
+Thermal systems, Translational pure mechanical system with spring, damper and mass-
+Rotational pure mechanical system with spring, damper and mass 
+Passive components and systems: Introduction, System-on-a-chip, Passive electronic 
+systems, Passive mechanical systems 
+ 
+UNIT – III 
+Mechanical Sensors and Actuators: Introduction, Principles of sensing and actuation, Beam 
+and cantilever, M icro plates, Capacitive Effects, Piezo electric material as sensing and 
+actuating elements, strain measurement, pressure measurement, Flow measurement using 
+Integrated paddle-cantilever structure. 
+Thermal  Sensors  and  Actuators:  Introduction,  Thermal  energy  basics  and  heat  
+transfer  processes, Thermistors, Thermo devices, Thermocouple, Micro machined 
+thermocouple probe, Peltier effect heat pumps, Thermal flow s ensors, Micro hot plate gas 
+sensors, Shape memory Alloys, U-shaped horizontal and vertical Electro thermal Actuator, 
+Thermally activated MEMS Relay. 
+ 
+UNIT – IV 
+Micro-opto-Electromechanical systems: Introduction, fundamental principle of MOEMS 
+Technology, Review o n properties of Light, Light modulators, Beam Splitter, Microlens, 
+Micro m irrors, Digital micro m irror device, Light detectors, Grating Light valve, Optical 
+switch, Waveguide and tuning, Shear – Stress measurement. Magnetic Sensors and Actuators 
+ 
+UNIT – V 
+Radio frequency MEMS: Introduction, Review of RF-based communication systems, RF, 
+MEMS, MEMS Inductors, Varactors, Tuner / Filter, Resonator, Clarification of Tuner, 
+Filter, Resonator, MEMS Switches, P hase Shifter, Micro fluidic Systems, Introduction, 
+Applications. 
+
+R16 B.TECH MECHATRONICS. 
+TEXT BOOKS: 
+1. MEMS, Nitaigour Premchand Mahalik, TMH 
+2. MEMS & Micro Systems Design and Manufacture, Tai-Ran HSU, TMH, 2006 
+ 
+REFERENCES: 
+1. Mechatronics Systems Fundamentals – Rolf Isermann – Springer International Edition 
+2. The Science and E ngineering of Microelectronic Fabrication, 2nd Ed. By S.A. 
+Cambell, Published by Oxford University Press (2001 
+3. Fundamentals of Micro Fabrication: The science of Miniaturization, 2nd Edition by 
+M.J. Madou, published by CRC press (2002) 
+4. Introductory MEMS: Fabrication and A pplications by Adams, Thomas M, Layton 
+Richard A., 1st Edition 2010 IBNL 978-0-387-09510-3, Springer 
+5. Microsystems Design, Stephen D. Senturia, Springer International Edition 
+
+R16 B.TECH MECHATRONICS. 
+AUTOMOTIVE POLLUTION AND CONTROL 
+(Professional Elective -VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: MT864PE                        3     0    0    3 
+ 
+UNIT - I 
+Laws and Regulation: Historical background. Regulatory test procedures (European cycles). 
+Exhaust gas pollutants (European rail road limits), particulate pollutants, European statutory 
+values, inspection of v ehicles in circulation (influence of actual traffic conditions and 
+influence of vehicle maintenance).Euro norms, Bharat stages. 
+Automobile pollutants: Carbon and Nitrogen Compounds - (CO, CO2, NOx), Ammonia and 
+Amines, Hydrocarbons, volatile compounds, evaporative losses, analysis of particulates. 
+ 
+UNIT - II 
+Pollutants from SI engines ; Mechanism & formation of HC, CO, and NOx in SI engines.  
+Engine and operating variables affecting pollutants in SI engines. Control technologies like 
+catalytic converter and Exhaust Gas Recirculation systems.  
+Pollution from CI engines ; Mechanism of formation of HC, CO, NOx, and Soot in CI 
+engines. Factors affecting emissions in CI engines. 
+ 
+UNIT - III 
+Lean burn & stratified charge engines . Multipoint fuel injection and Gasoline direct 
+injection methods. Common rail fuel injection in diesel engines. Exhaust gas recirculation. 
+Post combustion treatments : Introduction, exhaust gas composition before treatment, 
+catalytic converters, oxidation and three way types thermal reac tors, installation of catalysts 
+in exhaust lines, NOx treatment in diesel engines, particulate traps for diesel engines, 
+particulate trap regeneration. 
+ 
+UNIT - IV 
+Instrumentation for pollution measurements:  NDIR-analysers, thermal conductivity and 
+flame io nization detectors, analysers for Nox, Gas chromatograph. Orsat apparatus, smoke 
+meters- spot sampling and continuous indication types like Bosch, Hartridge. Particulate 
+measuring systems. Dilution tunnels – full flow and partial flow. 
+ 
+UNIT - V 
+SI and CI engine fuel requirements Knock in SI and CI engines. Knock rating of SI and CI 
+Engine fuels. Alternative fuel like Hydrogen, Natural gas, LPG, Vegetable oil and biodiesel, 
+their production, properties, storage and performance as engine fuels. 
+Economic chal lenges: Introduction, cost of improvement to SI engines, cost of injection 
+systems, cost of improvement in Diesel engines, economic consequences of introducing the 
+catalyst, additional costs incurred by diesel traps. cost of periodic inspection of pollutio n 
+control systems and evaporative control systems. 
+ 
+
+R16 B.TECH MECHATRONICS. 
+TEXT BOOKS: 
+1. Bosch – Gasoline fuel injection – Bosch Publications 
+2. Bosch – Diesel fuel injection – Bosch Publications 
+ 
+REFERENCES: 
+1. Automobiles and Pollution –Paul Degobert (SAE) . 
+2. Diesel engine operation manual- V.L Maleev, CBS Pub 
+3. I.C. Engines -E.F. Obert, Harper& Row 
+4. Engine emission -Springer and Patterson, Plenum Press 
+5. Heins Aeisth – Internal Combustion Engines – SAE Publications. 
+

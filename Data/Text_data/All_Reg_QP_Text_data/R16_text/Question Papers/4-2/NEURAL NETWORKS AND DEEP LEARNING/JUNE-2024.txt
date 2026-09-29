@@ -1,0 +1,72 @@
+Code No: 138DU             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+ NEURAL NETWORKS AND DEEP LEARNING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note:  i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+  and may have a, b as sub questions.    
+ 
+PART – A       
+(25 Marks) 
+ 
+1.a) What are the different models of ANN?      [2] 
+   b) Explain how supervised learning works?      [3] 
+   c) What do you mean by unsupervised learning?     [2] 
+   d)      What is a competitive network?       [3] 
+   e)      What do you mean by gradient-based learning?     [2] 
+   f)       Give the applications of feed forward neural networks.    [3] 
+   g)      What do you mean by regularization?      [2] 
+   h)      What is early stopping?        [3] 
+   i)       What do you mean by vanishing and exploding gradients?    [2] 
+   j)       What is meta-optimization?        [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Make comparison between adaptive linear element and perceptron.  
+   b) Explain the working of back propagation algorithm.     [5+5] 
+OR 
+3. What is an associative memory? Explain bidirectional associative memory architecture and 
+algorithm for learning and give the limitations of the same.    [10]     
+  
+4.a) Explain the architecture of Maxnet and the algorithm for learning.  
+   b) Explain the working of self-organizing maps.     [5+5] 
+OR 
+5. What is a counter -propagation network? Explain the architectures of two types of counter -
+propagation networks.         [10] 
+   
+6. Explain the architecture, functions and importance of a feed forward deep network. 
+            [10] 
+OR 
+7.a) Explain the history, evolution and growth of deep learning.  
+   b) Explain how to choose the type of hidden unit to use in the hidden layers of the model. 
+            [5+5] 
+ 
+ 
+ 
+ 
+R16 
+Used Papers 2024
+
+8.a) What is L2 regularization? When should one use L2 regularization?  
+   b)  Explain how noise can be used as a regularization strategy?    [5+5] 
+OR 
+9.a) Explain bagging and ensemble methods.  
+   b)  Explain adversarial training.        [5+5] 
+ 
+10.a) What is the role of parameter initialization? Give an overview of various parameter 
+initialization strategies.  
+     b)  Explain stochastic gradient descent algorithm for optimization.   [5+5] 
+OR 
+11.a) Explain AdaGrad algorithm for adapting learning rates.  
+     b)  Give the applications of large scale deep learning.     [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+Used Papers 2024
+

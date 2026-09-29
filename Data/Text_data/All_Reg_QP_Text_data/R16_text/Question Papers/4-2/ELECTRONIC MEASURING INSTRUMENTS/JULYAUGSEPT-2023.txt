@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Code No: 138FY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2023 
+ ELECTRONIC MEASURING INSTRUMENTS 
+ (Common to CE, EEE, ME, CSE) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is Resolution?         [2]  
+   b)      Define the Fidelity and Lag.        [3] 
+   c) What are the specifications of AF generators?     [2] 
+   d)      Write the applications of sweep frequency generators.    [3] 
+   e)      What is automatic ranging in DMM?       [2] 
+   f)       What are the essential parts of a ramp type digital voltmeter?   [3]  
+   g)      What is servo transducer?          [2]  
+   h)      Write the applications of FM method of magnetic tape recording.   [3]  
+   i)       Define transducer?         [2] 
+   j)       Explain the working of thermocouples.      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Describe the different types of errors occurs in measurement with one example. 
+   b) List out the dynamic characteristics of any measurement system.   [5+5] 
+OR 
+3.a) What are the different static characteristics of a measurement system? Explain detail.  
+   b) What is dynamic error? Plot it with respect to time delay.    [5+5] 
+  
+4. Draw the block diagram  and e xplain the operation o f arbitrary waveform generator with    
+suitable example.         [10] 
+OR 
+5.a) Explain about the working of pulse wave generator. 
+   b) Discuss the basic principle of RF Signal Generator.     [5+5] 
+ 
+6. Write short notes on the following with respect to CRO. 
+     a) Delay line.   b) Sync Selector circuit.  c) CRO probes. [3+3+4] 
+OR 
+7.a) Describe in detail the Lissajous method of frequency measurement. 
+   b) Draw and explain solid state DC Voltmeter.      [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper July/Aug-2023
+
+ 
+ 
+ 
+ 
+8.a) Write the basic operating principle of digital tape recording. 
+   b) What are the various methods of recording data?     [6+4]  
+OR 
+9. Draw a neat diagram of X-Y recorder and explain its working in detail.  [10] 
+ 
+10. Explain the construction and working of a strain gauge in detail.   [10] 
+OR 
+11.a) Discuss about working of hotwire anemometers. 
+     b) Explain the working of LVDT in detail.      [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

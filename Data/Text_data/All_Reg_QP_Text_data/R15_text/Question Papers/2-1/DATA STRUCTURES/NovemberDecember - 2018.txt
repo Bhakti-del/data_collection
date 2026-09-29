@@ -1,0 +1,102 @@
+ 
+ 
+Code No: 123BP 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, November/December - 2018 
+DATA STRUCTURES 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.           
+ Part B consists of 5 Units. Answer any one full question from each unit.                
+ Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+                                                             PART –A                                          (25 Marks) 
+ 
+1.a) Define Time and Space Complexity.      [2]                   
+   b) What is data structure? What are the factors that influ ence the choice  of a 
+ particular data structure?       [3] 
+   c) Differentiate between Dequeue and Priority queue.    [2] 
+   d) Given the following arithmetic expression in infix notation as 12/(7 -3)+2*(3+8)-7  
+ Translate this expression into postfix notation and then evaluate it.  [3]  
+   e) If there are 27 nodes in a complete binary tree, what will be its height  and how 
+ many nodes will be in the last level?                                  [2] 
+   f) What is the time complexity of DFS traversal  as an n-vertex simple graph that is 
+ represented with adjacent matrix structure?     [3] 
+   g) What is hash collision? Explain with an example.              [2]           
+   h) Compare linear search with binary search.     [3] 
+   i) What is Trie? Explain the suffix trie with an example.   [2] 
+   j) What are the properties of B-Tree?      [3] 
+                                            
+ 
+                                                         PART-B                                          (50 Marks) 
+ 
+2.a) Define Doub le linked list. Write an algor ithm to delete an element from                             
+ the existing linked list.  
+b) Explain the algorithm specifications  and various notations used to analyze the 
+performance of an algorithm.       [5+5] 
+OR 
+3.a) Describe the Asymptotic notations with an example. 
+   b) Write an algorithm that appends two lists together. Use linked list.  [5+5]  
+ 
+4.a) What is circular queue? Write a C function to insert an item in the                            
+ circular queue. 
+  b) Define stack. Explain the operations of stack with an example.  [5+5] 
+OR 
+5.a) Write a C program which converts the infix expression into postfix                            
+ expression. 
+   b) What is Dequeue? Explain the operations of Dequeue with an example. [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+R15 
+JNTUH USED 16-12-2018AM
+
+ 
+ 
+6.a) Write insertion and deletion algorithm of Max Heap. 
+   b) From the following graph find the traversal of nodes using BFS and DFS.  
+           [5+5]   
+ 
+OR 
+ 
+7.a) Explain various graph representations with an example and mention the pros and 
+cons of each representation. 
+   b) Construct the Max heap of the following elements   
+  {60, 10, 40, 20, 90, 30, 50, 70, 80}    [5+5] 
+  
+8.a)  Write the algorithm for Insertion sort. Explain their best case an d worst                            
+ case complexities. 
+   b) Insert the following list of elements into the Hash table by using Quadratic 
+ probing (size of the table is 10) 
+ {89, 56, 9, 20, 45, 36, 11, 77}     [5+5] 
+OR 
+9.a) Sort the following list of elements by using Quick sort, show the contents of the 
+list at the end of each pass. 
+   {75, 10, 20, 70, 80, 90, 100, 40, 30, 50} 
+   b) Explain the complexity of quick sort algorithm.    [5+5] 
+ 
+10.a) Construct the Splay tree for the following list of elements (Splay node is 89) 
+   {22, 55, 6,7, 66, 49, 3, 34, 67, 56, 89}  
+     b) Write algorithms for rotations of an AVL.     [5+5] 
+OR 
+11.a) Construct the Red-Black tree for following elements 
+   {45, 32, 78, 56, 13, 27, 19, 82, 14} 
+     b)  Draw the flow chart for KMP algorithm.     [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+JNTUH USED 16-12-2018AM
+

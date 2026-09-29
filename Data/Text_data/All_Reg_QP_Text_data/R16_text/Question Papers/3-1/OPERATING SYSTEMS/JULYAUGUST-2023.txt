@@ -1,0 +1,79 @@
+   
+ 
+ 
+Code No: 135SC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, July/August - 2023 
+ OPERATING SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit.  Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What are operating system services?       [2] 
+   b)      Write about user and OS interface.       [3] 
+   c)      What is ready queue?           [2] 
+   d)      What is the purpose of exec() system call?      [3] 
+   e)      What is external fragmentation?       [2] 
+   f)      If the main memory is 64KB and secondary memory is 128KB, how many pages and 
+frames are there if page size is 2KB? How many entries are there in page table?  [3] 
+   g)      What are various file access methods?        [2] 
+   h)      What is the purpose of seek() function?      [3] 
+   i)       What is hold-and-wait condition?       [2] 
+   j)       What is resource allocation graph?       [3] 
+ 
+PART – B  
+(50 Marks) 
+  
+2.  What is a system call? Explain different types of system calls.     [10] 
+OR 
+3.  Explain operating system role in process management and memory management.   [10] 
+  
+4.  How can we use semaphores in process synchronization? Explain.     [10] 
+OR 
+5.  Perform preemptive and non -preemptive priority scheduling on following data                         
+(5 – highest priority, 1 – lowest priority) and compute average waiting time:   [10] 
+ 
+Process ID Arrival time  Burst time priority 
+P01 0 4 4 
+P02 1 5 1 
+P03 3 7 2 
+P04 5 1 5 
+P05 6 9 3 
+ 
+  
+RA 
+used paper July/Aug-2023
+
+  
+ 
+ 
+ 
+6.a) What is demand paging? What are the various steps involved when a page fault occurs? 
+Explain. 
+   b) What are the various methods to avoid thrashing? Explain them.   [5+5] 
+OR 
+7.  Explain how memory management is done through segmentation?     [10] 
+ 
+8.   Explain various disk scheduling algorithms with example.      [10] 
+OR 
+9.  What is a file? Explain various file allocation methods.       [10] 
+ 
+10.  Explain banker’s algorithm for deadlock avoidance with an example.     [10] 
+OR 
+11.a)  What is access matrix? How is it implemented? Explain.  
+     b) Explain how resource allocation graph can be used to deadlock avoidance.  [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

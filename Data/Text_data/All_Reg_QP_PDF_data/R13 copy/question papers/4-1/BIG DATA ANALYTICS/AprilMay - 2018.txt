@@ -1,0 +1,75 @@
+Code No: 117JU      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, April/May - 2018 
+BIG DATA ANALYTICS 
+ (Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Differentiate between primary and secondary data of an organization.  [2]  
+   b)      What is the importance of following safety rules and regulations at workplace?  [3] 
+   c) What are the two types of gaps in data identifying them?    [2] 
+   d) List the additional features of Scala compared to Java.    [3] 
+   e) Give the primary goal of big data analytics.      [2]  
+   f)       What are outliers? Why should they be detected?     [3]  
+   g)      How to choose test data?        [2]  
+   h)      What is meant by hypothesis testing?      [3]  
+   i)       What is data presentation architecture?      [2] 
+   j)       What are the advantages of data visualization?     [3] 
+ 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2. Is Analytics a key occupation in the structure of ITS sub sector? Justify your answer with 
+relevant examples.         [10] 
+OR 
+3.a) Demonstrate exporting all data on to a cloud like AWS 3. 
+   b) How to ensure data quality?         [5+5] 
+ 
+4. What is the importance of extraction, transformation and loading process in data 
+management? How to identify gaps among the data? Demonstrate with an example.[10] 
+OR 
+5. What is knowledge management? What is its need in the organization? Discuss emerging 
+trends in knowledge management process.      [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 08-05-18AM Set 2
+
+ 
+6. What is data preprocessing? What is its need?  Briefly explain various forms of data 
+preprocessing.          [10] 
+OR 
+7. What is descriptive analytics in big data analytics? Quote examples. Differentiate it from 
+predictive data analytics. Which one can be used in dealing with social media data? Justify 
+your answer.          [10] 
+ 
+8. Machine learning tasks are classified in to three broad categories. Explain each category 
+with example.           [10] 
+OR 
+9. Compare and contrast machine learning and data mining methods. Quote examples.[10] 
+ 
+10. “Data visualization is both an art and science.” Substant iate this statement with lucid 
+examples.          [10] 
+OR 
+11. Explain in detail the following options in Tableau tool: 
+ a) Filtering     b) Data segmentation             c) Data enhancement   [10] 
+  
+  
+ 
+--ooOoo--  
+ 
+JNTUH USED 08-05-18AM Set 2
+

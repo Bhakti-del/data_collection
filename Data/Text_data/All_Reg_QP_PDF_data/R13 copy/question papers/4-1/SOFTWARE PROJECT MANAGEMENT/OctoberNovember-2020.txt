@@ -1,0 +1,40 @@
+Code No: 117HP     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, October/November - 2020 
+SOFTWARE PROJECT MANAGEMENT 
+ (Common to CSE, IT) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) What is conventional software project management? Explain its performance factors. 
+   b)  What are the fit falls of the conventional software engineering principles? Discuss.[8+7] 
+ 
+2.a) What are the components of a good cost estimates? Explain. 
+   b) Explain the three generations of software economics.     [7+8] 
+ 
+3. List the principles of modern software management and explain them.  [15] 
+ 
+4.a) Differentiate between reverse and forward engineering processes. 
+   b) What are the modern process approaches for solving conventional problems? Discuss.[7+8] 
+ 
+5.a) Explain the  levels of activity that takes place in the workflows during Inception phase. 
+   b) List and explain Engineering artifacts and their significance.   [8+7] 
+ 
+6.a) What levels of activity take place in the workflows during construction phase?  
+   b) Explain the management perspectives in the model based software architectures. [7+8] 
+ 
+7.a) How does metric automation become crucial to effective project control? Discuss. 
+   b) Discuss the reasons for looking at organizations from project as well as line of business         
+ perspective.          [7+8] 
+ 
+8.a) Give the overview of the CCPDS-R macroprocess, milestones and schedule. 
+b) What are the  four quality indicators of a modern process? Write their purpose and           
+perspectives.          [7+8] 
+ 
+--ooOoo--  
+ 
+R13 
+JNTUH USED 10-11-2020PM PAPER
+

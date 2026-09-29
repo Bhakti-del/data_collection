@@ -1,0 +1,83 @@
+Code No: 136AG  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, July - 2023 
+ARTIFICIAL INTELLIGENCE 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      List the fields that form the basis for AI.        [2] 
+   b)      Define alpha and beta values in a game tree.        [3] 
+   c)      How do frames differ from semantic nets?           [2] 
+   d)     Differentiate prepositional and predicate logic.       [3] 
+   e)      List the characteristic features of an expert system.       [2] 
+   f)      What is Knowledge Acquisition?                      [3]        
+g)      Define training and testing data.           [2]   
+h)      What are the types of problems in which Artificial Neural Network can be applied? [3]   
+i)       What is n-gram language model?                         [2]   
+j)       What are the objectives of NLP?         [3] 
+PART – B  
+(50 Marks) 
+ 
+2.  What is A* search? Explain various stages of A* search with an example.           [10]       
+OR 
+3.  Summarize about the following:   
+      a) Bounded Look-ahead Strategy                                                                          
+      b) Alpha-Beta Pruning.                                                                                 [5+5] 
+    
+4.  Consider the following facts and represent them in predicate form: 
+F1. There are 500 employees in ABC company. 
+F2. Employees earning more than Rs. 5000 pay tax.  
+F3. John is a manager in ABC company. 
+F4. Manager earns Rs. 10,000. 
+Convert the facts in predicate form to clauses and then prove by resolution: “John pays 
+tax”.                                                                                                                     [10] 
+OR 
+5.  Explain resolution in predicate logic with suitable example.                                  [10] 
+ 
+ 
+ 
+ 
+ R16 
+used paper July/Aug-2023
+
+6.  Describe in detail about Expert System Architecture.                                           [10] 
+OR 
+7.a) Differentiate between Expert Systems and Traditional Systems.                                 
+   b) What are the application of Expert Systems? Explain.                                           [5+5] 
+    
+8.  State the mathematical formulation of the SVM problem. Give an outline of the method 
+for solving the problem.                                                                                                [10]    
+OR 
+9.  Show the final result of hierarchical clustering with complete link by dr awing a 
+dendrogram.               [10] 
+ 
+  A B C D E F 
+A 0 
+     B 0.12 0 
+    C 0.51 0.25 0 
+   D 0.84 0.16 0.14 0 
+  E 0.28 0.77 0.70 0.45 0 
+ F 0.34 0.61 0.93 0.2 0.7 0 
+ 
+ 
+10.  Give the five logical connectives used to construct  complex sentences and give the 
+formal grammar of propositional logic.                                                                  [10]  
+OR 
+11.  Explain in detail the following:  
+a) Semantic Analysis                                                                                                             
+b) Universal Networking Knowledge.                                                  [5+5] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+used paper July/Aug-2023
+

@@ -1,0 +1,35 @@
+ 
+ 
+Code No: 138FR             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2021 
+CHARACTERIZATION OF NANOMATERIALS 
+ (Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. Write advantages and disadvantages of electron microscope over optical microscope?  
+  Explain.          [15] 
+ 
+2. How to adjust the beam spot size in Scanning electron microscope? Explain. [15]  
+ 
+3. Differentiate the Bright field imaging and Dark field imaging.   [15] 
+ 
+4. Explain the principle and instrumentation of AFM.     [15] 
+ 
+5. Explain in detail about the IR spectroscopy.      [15] 
+ 
+6. Discuss about the Primary Metallic Crystalline Structures of BCC, FCC and HCP. [15] 
+ 
+7. What is Bragg’s law of diffraction? Explain the powder method.   [15] 
+ 
+8. Explain in detail about the Raman spectroscopy.     [15] 
+ 
+ 
+--ooOoo-- 
+     
+ 
+R16 
+

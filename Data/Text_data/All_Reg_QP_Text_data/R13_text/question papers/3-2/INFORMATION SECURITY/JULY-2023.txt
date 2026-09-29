@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Code No: 126AQ            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, July - 2023 
+  INFORMATION SECURITY 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 mar ks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      What are the types of security attacks?      [2] 
+   b)      What are the two basic functions used in encryption algorithms?   [3] 
+   c)      What are the advantages of public key cryptography algorithm?   [2] 
+   d)      Define Stream ciphers.        [3] 
+   e)      What is Hash function?        [2] 
+   f)      What is meant by Kerberos?        [3] 
+   g)      What are S/MIME message?         [2] 
+   h)      Give the features of Authentication Header.      [3] 
+   i)       What is secured electronic transaction?      [2] 
+   j)       List the types of firewall.        [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Explain the types of attacks in detail. 
+   b)  Describe in detail about Conventional Encryption Model.    [5+5] 
+OR 
+3.a)  Discuss about steganography. 
+   b)  Explain the transposition technique.       [5+5] 
+  
+4.a)  Explain RSA algorithm. 
+b)  In a RSA system, it is given that p = 11, q = 13, e = 7 and M = 5, Find ciphertext  C and 
+also M from decryption.        [5+5] 
+OR 
+5.  Explain DES algorithm with suitable examples. Discuss its advantages and limitations.
+              [10] 
+   
+6.a)  Explain whirlpool algorithm. 
+   b)  Give various Hash Functions. Discuss secure hash algorithm with suitable examples.
+            [5+5] 
+OR 
+7.   Explain X.509 authentication service.        [10] 
+    
+  
+ 
+ 
+ 
+R13 
+used paper July/Aug-2023
+
+ 
+ 
+ 
+8.a)  Write a short note on Pretty Good Privacy. 
+   b)  Explain the IP Security architecture.       [5+5] 
+OR 
+9.a)  What do you mean by Security Association? Specify the parameters that identify the 
+Security Association. 
+   b)  What are the cryptographic algorithms used in S/MIME?    [5+5] 
+ 
+10.  Explain Secure Socket Layer and Transport Layer Security.      [10] 
+OR 
+11.a) Explain the design principles of firewalls. 
+     b)  Give an overview of virtual elections.      [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+used paper July/Aug-2023
+

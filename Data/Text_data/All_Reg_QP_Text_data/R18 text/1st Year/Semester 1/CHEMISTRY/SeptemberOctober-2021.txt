@@ -1,0 +1,41 @@
+Code No: 151AF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year I Semester Examinations, September/October - 2021 
+CHEMISTRY 
+(Common to EEE, CSE, IT, CSIT, ITE, CE(SE), CSE(CS), CSE(DS), CSE(Networks)) 
+Time: 3 Hours                                                  Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain Linear combination of atomic orbitals (LCAO) theory.    
+   b) What is the effect of doping on conductance?     [7+8] 
+ 
+2.a) Explain the molecular orbital energy level diagram of O2 molecules. 
+   b)  Discuss the crystal field splitting in square planar complexes.   [7+8] 
+ 
+3.a) Explain ion-exchange process for softening of hard water.     
+   b) How does chlorination of water helps in disinfection and write its mechanism. [7+8] 
+ 
+4.a) Describe the various steps involved in treatment of potable water. 
+   b) Explain priming and foaming and their prevention methods.   [7+8] 
+ 
+5.a) Discuss the working of glass electrode. 
+   b) Explain any five factors affecting the rate of corrosion.    [7+8] 
+ 
+6.a) Explain potentiometric titrations of strong acid and strong base. 
+   b) Differentiate between anodic and cathodic metallic coatings.   [7+8] 
+ 
+7.  Explain the SN1 and SN2 mechanism with stereochemistry.    [15] 
+ 
+8.a) Explain the selection rules of IR-spectroscopy. Give its applications.   
+   b) Discuss the significance of chemical shift.      [7+8]  
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+R18 
+ JNTUH USED SEPT-2021
+

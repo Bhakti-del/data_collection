@@ -1,0 +1,74 @@
+Code No: 123AN/113AN 
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, March - 2021 
+PROBABILITY AND STATISTICS 
+(R15-Common to ME, CSE, IT, MCT, AME, MIE; R13-Common to ME, CSE, IT, MCT, AME, MIE) 
+Time: 3 hours               Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) The frequency function of a continuous random variable 𝑋 is given by 
+            𝑓 𝑥 = 𝐴𝑥 2 − 𝑥 , 0 ≤ 𝑥 ≤ 2.  
+Find variance of 𝑋.     
+b) Let (x) = 3x2, when 0 x  1 be the probability density function of a continuous random    
+variable X. Determine a and b such that 
+  i) P(Xa) = P(X>a)    ii) P(X>b) = 0.05.     [7+8] 
+   
+2.a) Find the moment generating function of 𝑓 𝑥 =  
+1
+8 3𝑐𝑥 ,𝑥 = 0, 1, 2, 3. and hence find its 
+mean and variance.         
+   b) If 3 fair coins are tossed and if X is the total number of heads in the outcome. Show that 
+X is a random variable.        [7+8] 
+ 
+3. The joint probability density function of the random variable 𝑋 and 𝑌 is given by  
+             𝑓 𝑥,𝑦 =  𝐾(𝑥𝑦 + 𝑦2), 0 ≤ 𝑥 ≤ 1,0 ≤ 𝑦 ≤ 2. 
+Find 𝑃 𝑌 > 1 ,𝑃 𝑋 >
+1
+2 ,𝑌 < 1  and 𝑃(𝑋 + 𝑌 ≤ 1)    [15] 
+ 
+4.a) Construct sampling distribution of means for the population 3, 7, 11, 15 by drawing 
+samples of size two with replacement. Determine i )  ii)  iii) Sampling distribution of 
+means iv) μx  v) σx .        
+b) The mean of certain normal population is equal to the standard error of the mean of the 
+samples of 64 from that distribution. Find the probability that the mean of the sample size 
+36 will be negative.         [8+7] 
+ 
+5.a) What is meant by a statistical hypothesis? What are the two types of errors of decision 
+that arise in testing a hypothesis?          
+b) A random sample of boots worn by 40 combat soldiers in a desert region showed an 
+average life of 1.08 years with a standard deviation of 0.05 years. Under standard 
+conditions the boots are known to have an average life of 1.28 years. Is there reason to 
+assert at a level of significance of 0.05 that use in the desert causes the mean life  of such 
+boots to decrease?         [7+8] 
+ 
+6.a) Discuss various types of alternative hypothesis with suitable example.    
+b) In 1950 in India the mean life expectancy was 50 years. If the life expectancies from a 
+random sample of 11 persons are 58.2, 56.6,  54.2, 50.4, 44.2, 61.9, 57.5, 53.4, 49.7, 55.4, 
+57.0. Does it confirm the expected view?      [7+8] 
+ 
+  
+R15/R13 
+Used Papers 08-03-21AM
+
+7.a) Discuss basic queuing process.         
+b) Workers come to a tool store room to enquiry about the special tools for a particular job. 
+The average time between the arrivals is 60 seconds and the arrivals are assumed to be in 
+Poisson distribution. The average service time is 40 seconds. Find i) avera ge queue 
+length  ii) Average length of non-empty queue.     [7+8] 
+         
+8.a) A fair die is tossed repeatedly. If Xn denotes the maximum of the number occurring in the 
+first n tosses, find the transition probability matrix P of the Markov chair {X n}. Find also 
+P2 and P(X2 = 6).           
+b) The transition probability matrix of a Markov chain is given by  
+0.3 0.7 0
+0.1 0.4 0.5
+0 0.2 0.8
+ . Is this 
+matrix irreducible?         [8+7] 
+ 
+ 
+---ooOoo--- 
+Used Papers 08-03-21AM
+

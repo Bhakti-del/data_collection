@@ -1,0 +1,144 @@
+Code No: 182AR   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year II Semester Examinations, January/February - 2024 
+  ORDINARY DIFFERENTIAL EQUATIONS AND VECTOR CALCULUS  
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, AE, MIE, CSIT, CE(SE), CSE(CS), 
+CSE(AI&ML), CSE(DS), CSE(IOT), AI&DS, AI&ML, CSD) 
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub -questions from all 
+units carrying equal marks. 
+ Part-B consists of ten questions  (numbered from 2 to 11) carrying 10 marks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+(10 Marks) 
+ 
+1.a) Write down the general form of a linear differential equation of first order.  [1]    
+   b)      Give an example of a family of curves which is self-orthogonal.    [1] 
+   c) Define the Legendre’s homogeneous differential equation.    [1] 
+   d) Find the particular integral of 
+𝑑3𝑦
+𝑑𝑥3 + 4
+𝑑𝑦
+𝑑𝑥 = sin 2𝑥.      [1] 
+   e)   Show that the Laplace transform of the unit step function 𝑢(𝑡 − 𝑎) is 
+𝑒−𝑎𝑠
+𝑠  .  [1] 
+   f)  State the Convolution Theorem for Laplace transform.    [1] 
+   g) Define a vector point function give an example.     [1] 
+   h)  Find the curl of 𝑉⃗ = 𝑒𝑥𝑦𝑧(𝑖 + 𝑗 + 𝑘⃗ ) at the point (1, 2, 3).    [1] 
+   i) State Stoke’s Theorem.        [1] 
+   j) If S is a closed surface and V is the volume of the region bounded by S then what is the 
+value of 
+.
+S
+r NdS
+ where 
+.r xi y j zk         [1] 
+PART - B  
+(50 Marks)  
+ 
+2.a)  A bacterial population 𝐵 is known to have a rate of growth directly proporitional to 𝐵             
+itself. If between noon and 2 PM the population triples, at what time, no controls being             
+exerted, should 𝐵 become 100 times what it was at noon. 
+   b) Solve 𝑥 [
+𝑑𝑥
+𝑑𝑦 + 𝑦] = 1 − 𝑦.        [5+5] 
+OR 
+3.a) Solve [1 + log(𝑥𝑦)]𝑑𝑥 + [1 +
+𝑥
+𝑦] 𝑑𝑦 = 0. 
+b) Find the particular member of the orthogonal trajectories of 𝑥2 + 𝑐𝑦2 = 1 passing             
+through the point (2, 1).        [5+5] 
+  
+  
+ R22 
+JNTUH USED PAPERS 2024
+
+4.a) Solve (2𝑥 + 5)2 𝑑2𝑦
+𝑑𝑥2 − 6(2𝑥 + 5) 𝑑𝑦
+𝑑𝑥 + 8𝑦 = 6𝑥. 
+   b) Solve 
+𝑑2𝑦
+𝑑𝑥2 − 𝑦 = 𝑥 sin 𝑥 + 𝑥2𝑒𝑥.       [5+5] 
+OR 
+5.a)  Apply the method of variation of parameters to solve 
+𝑑2𝑦
+𝑑𝑥2 + 𝑦 = tan 𝑥. 
+   b) Solve 
+𝑑2𝑦
+𝑑𝑥2 − 2
+𝑑𝑦
+𝑑𝑥 + 5𝑦 = 0, 𝑦(0) = −3 and 
+𝑑𝑦
+𝑑𝑥 = 1 at 𝑥 = 0.   [5+5] 
+ 
+6.a)  Find the Laplace transform of the Half wave rectifier given as 
+𝑓(𝑡) = {
+sin 𝜔𝑡 , 0 < 𝑡 < 𝜋
+𝜔
+0, 𝜋
+𝜔 < 𝑡 < 2𝜋
+𝜔
+ 
+b)  Solve by using the Laplace transform 𝑦′′ + 2𝑦′ + 5𝑦 = 𝑒−𝑡 sin 𝑡 , 𝑦(0) = 0, and             
+𝑦′(0) = 1. Here 𝑦′ =
+𝑑𝑦
+𝑑𝑡 .        [5+5] 
+OR 
+7.a) Evaluate 𝐿−1 {
+𝑒−𝑠−3𝑒−3𝑠
+𝑠2 }. 
+   b) Evaluate ∫ 𝑒−𝑡 (
+cos 𝑎𝑡−cos 𝑏𝑡
+𝑡 ) 𝑑𝑡
+𝑡
+0  with the help of Laplace transform.   [5+5] 
+ 
+8.a) If 𝑣 =
+𝑥
+i +𝑦
+j +𝑧
+k
+√𝑥2+𝑦2+𝑧2  , find the value of divergence (𝑣 ). 
+   b)  Find the value of 𝑛 for which the vector 𝑟𝑛𝑟  is solenoidal, where 𝑟 = 𝑥
+i + 𝑦
+j + 𝑧
+k .
+            [5+5] 
+OR 
+9.a) Find the divergence and curl of  𝑣 = (𝑥𝑦𝑧)
+i + (3𝑥2𝑦)
+j + (𝑥𝑧2 − 𝑦2𝑧)
+k  at (2, −1, 1). 
+b)  Prove that (𝑦2 − 𝑧2 + 3𝑦𝑧 − 2𝑥)
+i + (3𝑥𝑧 + 2𝑥𝑦)
+j + (3𝑥𝑦 − 2𝑥𝑧 + 2𝑧)
+k  is both 
+solenoidal and irrotational.         [5+5] 
+ 
+10.a) A vector field is given by 𝐹 = (sin 𝑦)
+i + 𝑥(1 + cos 𝑦)
+j . Evaluate the line integral 
+over a circular path 𝑥2 + 𝑦2 = 𝑎2, 𝑧 = 0. 
+b)  Evaluate ∬ (𝑦𝑧
+i + 𝑧𝑥
+j + 𝑥𝑦
+k ) 𝑑𝑠⃗⃗⃗⃗  over 𝑆, where 𝑆 is the surface of the sphere             
+𝑥2 + 𝑦2 + 𝑧2 = 𝑎2 in the first octant.       [5+5] 
+OR 
+11.a) Use Green’s Theorem, evaluate ∫(𝑥2𝑦𝑑𝑥 + 𝑥2𝑑𝑦) over 𝐶, where 𝐶 is the boundary             
+described counter clockwise of the triangle with vertices (0, 0), (1, 0), (1, 1). 
+b)  Apply Stoke’s Theorem to find the value of ∫(𝑦𝑑𝑥 + 𝑧𝑑𝑦 + 𝑥𝑑𝑧) over 𝐶, where 𝐶 is the 
+curve of intersection of 𝑥2 + 𝑦2 + 𝑧2 = 𝑎2 and 𝑥 + 𝑧 = 𝑎.    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED PAPERS 2024
+

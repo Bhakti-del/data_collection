@@ -1,0 +1,55 @@
+Code No: 156DV                                            
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ B. Tech III Year II Semester Examinations, August - 2022 
+INDUSTRIAL MANAGEMENT 
+(Common to EEE, CSE, IT) 
+Time: 3 hours                                                          Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What are the basic functions of management? Elaborate them.  
+   b) What is autocratic style of leadership? What are its distinguishing features? [9+6] 
+                                                                                                                          
+2.a) Outline Fayol’s principles of management and briefly discuss its relevance to 
+organization.          
+   b) Examine the elements of systems approach to management.    [8+7]                                                                                 
+      
+3.a) What is span of control? What is delegation of authority?   
+   b) What is decentralization? What are its advantages and demerits?     [8+7] 
+              
+4.a) What are the important phases of value analysis?    
+   b) When do we go for batch production? What are the features of batch production? [7+8] 
+                                                                                                   
+5.a) What is process layout? What are its advantages and limitations?  
+   b) For which type of production process, line balancing is useful? Define cycle time. [9+6] 
+  
+6.a) Ten castings were inspected in order to locate d efects in them. Every casting was 
+found to contain certain number of defects as given below: 
+casting 1 2 3 4 5 6 7 8 9 10 
+No.of 
+defects 
+-- 3 1 3 2 -- 3 2 1 1 
+  Construct ‘c’ chart, find UCL and LCL values, mark them on the chart and comment 
+on the chart.                                                                            
+ b) Explain the meaning of type I and type II errors.                [10+5] 
+ 
+7.a) What is job evaluation? What are the objectives of job evaluation?   
+   b) What are the steps in calculation of standard time using stopwatch?   [8+7]  
+ 
+8.  Draw the network corresponding to the following and determine  
+a) The earliest and the latest allowable start and completion times for each of the 
+activities. 
+b) The critical activities and the project duration and  
+c) The total, free and independent floats for each of the activities.           [15]                                                                              
+activity Duration in days activity Duration in days 
+1--2 3 3--5 4 
+1--3 4 3--6 6 
+1--4 14 4--5 1 
+2--3 10 5--6 1 
+2--6 5 --- --- 
+              
+---ooOooo--- 
+R18 
+jntuh used paperaug-2022
+

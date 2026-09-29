@@ -1,0 +1,41 @@
+Code No: 136EN   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester (Special) Examinations, January/February - 2021 
+WEB TECHNOLOGIES 
+(Common to CSE, IT) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+                       
+1. Create a PHP form to accept user id and password with necessary validations.   [15] 
+  
+2.a) Design a layout using XML containing an application form. 
+   b) Explain the XML schema languages in detail.     [7+8] 
+  
+3.a) Elaborate the Common Gateway Interface and its important.  
+   b) Give a brief note on Servlet.        [8+7] 
+ 
+4. Design the JSP application with MVC set up  and explain the process and various 
+entities in it.              [15] 
+  
+5.a) Write a short note on Event handlers in JavaScript.  
+   b) Give a brief note on the AJAX application.      [7+8] 
+ 
+6. List and explain the different operators and control structures in PHP with an example.
+                [15] 
+ 
+7.a) What is an XML DOM? How DOM parses the XML file?    
+   b) Write a brief note on document type definition.       [7+8] 
+ 
+8. Draw and explain the Lifecycle of a Servlet.         [15] 
+  
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+ R16 
+used paper jan-feb-2021
+

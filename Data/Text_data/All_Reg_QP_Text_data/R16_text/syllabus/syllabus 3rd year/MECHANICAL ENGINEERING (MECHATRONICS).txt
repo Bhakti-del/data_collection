@@ -1,0 +1,1104 @@
+R16 B.TECH MECHATRONICS. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ 
+B.TECH. MECHANICAL ENGINEERING (MECHATRONICS) 
+III YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+III YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 MT501PC Mechanical Measurements and Control 
+Systems    
+4 0 0 4 
+2 MT502PC Manufacturing Process &  Machine Tools  4 0 0 4 
+3 MT503PC Finite Element Techniques  4 0 0 4 
+4 SM504MS Fundamentals of Management   3 0 0 3 
+5  Open Elective – I  3 0 0 3 
+6 MT505PC Manufacturing Process Lab 0 0 3 2 
+7 ME506PC Machine Tools Lab 0 0 3 2 
+8 MT507PC Heat Transfer Lab  0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits  21 0 9 24 
+ 
+III YEAR II SEMESTER 
+ 
+S. 
+No 
+Course 
+Code Course Title L T P Credits 
+1 - Open Elective - II  3 0 0 3 
+2  
+MT611PE 
+MT612PE 
+MT613PE 
+MT614PE 
+Professional Elective - I 
+Machine Drawing  
+Total Quality Management  
+Unconventional Machining Processes 
+Nanotechnology 
+ 
+2 
+3 
+3 
+3 
+ 
+0 
+0 
+0 
+0 
+ 
+4 
+0 
+0 
+0 
+ 
+4 
+3 
+3 
+3 
+3 MT601PC Dynamics of Machinery   4 1 0 4 
+4 MT602PC Motion Control Design 4 0 0 4 
+5 MT603PC CAD/CAM 4 0 0 4 
+6 MT604PC Instrumentation and Control Systems Lab 0 0 3 2 
+7 MT605PC CAD/CAM Lab 0 0 3 2 
+8 EN606HS Advanced English Communication Skills 
+Lab 
+0 0 3 2 
+  Total Credits 17/18 1 9/13 24/25 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+  
+
+R16 B.TECH MECHATRONICS. 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+MECHANICAL MEASUREMENTS AND CONTROL SYSTEMS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MT501PC                          4     0    0    4 
+ 
+UNIT-I 
+Definition –  Basic  principles  of  measurement  –  Measurement  systems,  generalized  
+configuration  and functional descriptions of measuring instruments – examples.  Dynamic 
+performance characteristics – sources of error, Classification, and elimination of error. 
+Measurement of Displacement: Theory and construction of various transducers to measure 
+displacement – Piezo electric, Inductive, capacitance, resistance, ionization, and P hoto 
+electric transducers, Calibration procedures. 
+Measurement of Temperature:  Classification – Ranges – Various Principles of 
+measurement – Expansion, Electrical Resistance – Thermistor – Thermocouple – Pyrometers 
+– Temperature Indicators. 
+ 
+UNIT-II 
+Measurement Of Pressure:  Units – classification – different principles used.  Manometers, 
+Piston, Bourdon pressure gauges, Bellows – Diaphragm gauges.  Low pressure measurement 
+– Thermal conductivity gauges – ionization pressure gauges, Mcleod pressure gauge. 
+Measurement Of Level: Direct method – Indirect methods – capacitative, ultrasonic, 
+magnetic, cryogenic fuel level indicators – Bubler level indicators. 
+Flow Measurement:  Rotameter, magnetic, Ultrasonic, Turbine flow meter, Hot – wire 
+anemometer, Laser Doppler Anemometer (LDA). 
+ 
+UNIT-III 
+Measurement Of Speed:  Mechanical Tachometers – Electrical tachometers – 
+Stroboscope, Non- contact type of tachometer 
+Measurement of  Acceleration and Vibration: Different simple  instruments -Principles 
+of  Seism ic  instruments – Vibrometers and accelerometers. 
+Stress Strain Measurements: Various types of stress and strain measurements – electrical 
+strain gauge – gauge factor – method of usage of resistance strain gauge for bending 
+compressive and tensile strains – usage for measuring torque, Strain gauge Rosettes. 
+ 
+UNIT-IV 
+Measurement Of Humidity – Moisture content of gases, sling psychrometer, Absorption 
+psychrometer, Dew point meter 
+Measurement of  Force, Torque and Power- Elastic force meters, load c ells, Torsion 
+meters, Dynamometers. 
+ 
+UNIT-V 
+Elements  Of  Control  Systems:  Introduction,  Importance  –  Classification  –  Open  and  
+closed  systems Servomechanisms – Examples with block diagrams – Temperature, speed and 
+position control systems. 
+
+R16 B.TECH MECHATRONICS. 
+TEXT BOOKS: 
+1. Measurement Systems: Applications &design by Ernest O. Doebelin, TMH. 
+2. Measurement systems: Applications & design by D.S Kumar 
+ 
+REFERENCE BOOKS: 
+1. Instrumentation, measurement & analysis by B. C. Nakra & K. K. Choudhary, TMH 
+2. Experimental Methods for Engineers / Holman 
+3. Mechanical and Industrial Measurements / R.K. Jain/ Khanna Publishers. 
+4. Mechanical Measurements / Sirohi and Radhakrishna / New Age 
+5. Instrumentation & mechanical Measurements by A.K. Tayal , Galgotia Publications 
+  
+
+R16 B.TECH MECHATRONICS. 
+MANUFACTURING PROCESS AND MACHINE TOOLS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MT502PC                          4     0    0     4 
+ 
+UNIT – I 
+Casting: Steps involved in making a casting - Its applications - Patterns and Types of 
+patterns – Pattern allowances and their construction. Types of casting processes –
+Solidification of casting. 
+Welding: Classification of Welding Processes - Arc welding, forge welding – Resistance 
+welding, Thermit welding, Explosive Welding, Electron Beam Welding and Laser Beam 
+Welding. Inert Gas Welding , TIG  Welding, MIG welding, soldering and Brazing, Heat 
+affected zone in welding. Welding defects – causes and remedies – destructive and non - 
+destructive testing of welds. 
+ 
+UNIT – II 
+Forming: Hot working, cold working, strain hardening, recovery, recrystallisation, and grain 
+growth, Comparison of properties of Cold and Hot worked parts, rolling fundamentals – 
+theory of rolling, types of Rolling mills and products.   
+Blanking and piercing – Bending and forming – Drawing and its types – wire drawing and 
+Tube drawing – coining –spinning – Types of presses and press tools. 
+ 
+UNIT – III 
+Extrusion of Metals:  Basic extrusion process and its characteristics. Hot extrusion and cold 
+extrusion -  Forward extrusion and backward extrusion – Impact extrusion – Extruding 
+equipment – Tube extrusion and pipe making, Hydrostatic extrusion.   
+Forging Processes:  Forging operations and principles – Forging methods 
+ 
+UNIT – IV 
+Machining: Mechanics of orthogonal cutting – Lathe: Merchant’s Force diagram, cutting 
+forces – cutting speeds, feed, depth of cut, tool life, coolants, Machinability – Tool materials. 
+Principle of working, specification of lathe – types of lathe – works and tool holding devices,   
+Taper turning, Thread turning. Turret and capstan lathe – Principal features of automati c 
+lathes.  
+Shaping, slotting and planing machines – Principles of working – Principal parts – 
+specification, classification, and operations  performed. Drilling and Boring Machines – 
+Principles of working, specifications, types, operations performed – tool holding devices – 
+twist drill – Boring machines.  
+ 
+UNIT – V 
+Milling machine – Principles of working – specifications – classifications of milling 
+machines – Principal features of horizontal, vertical and universal milling machines –  
+Geometry of milling cu tters – methods of indexing – Accessories to milling machines, 
+kinematic scheme of milling machines. Lapping, honing, and broaching machines – 
+
+R16 B.TECH MECHATRONICS. 
+comparison of grinding, lapping and honing. Finishing Processes: Grinding – fundamentals 
+– theory of grinding – classification of grinding machines – cylindrical and surface grinding 
+machine-Tool and cutter grinding machine  
+ 
+TEXT BOOKS: 
+1. Manufacturing Technology (Vol. 1 & Vol. 2) / P.N. Rao/TMH/2nd Edition 
+ 
+REFERENCE BOOKS: 
+1. Principles of Metal Castings / Rosenthal/TMH 
+2. A Course in Workshop Technology/B.S. Raghuwamshi /Dhanpat rai & Sons 
+3. Manufacturing Engineering and Technology/Kalpakjin S/ Pearson Edu. 
+4. Principles of Machine Tools/ Bhattacharya A and Sen.G.C/ New Central Book 
+Agency. 
+5. Elements of Work Shop Technology – Vol. II/Hajra Choudry/ Media Promoters. 
+6. Fundamentals of Metal Machining and Machine Tools/ Geofrey Boothroyd/ McGraw 
+Hill 
+  
+
+R16 B.TECH MECHATRONICS. 
+ FINITE ELEMENT TECHNIQUES 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MT503PC                          4     0    0     4 
+ 
+UNIT - I 
+Basic Concepts, applications of FEM, Basic equations in FEM, Methods in FEM. One 
+Dimensional problems- Stiffness equations for a axial bar element in local co-ordinates using 
+potential energy approach and virtual energy principle – properties of stiffness matrix. 
+Familiarization of ANSYS software for solving Finite element problems. 
+Finite element analysis of uniform, stepped and tapered bars subjected to mechanical and 
+thermal loads-Assembly of global stiffness matrix and load vector-Quadratic shape 
+functions-Problems.  
+ 
+UNIT – II 
+Stiffness equations for a truss bar element oriented in 2D plane-Finite element analysis of 
+trusses-Plane truss and space truss elements-methods of assembly-problems 
+Analysis of beams: Hermite shape functions-Element stiffness matrix- Load vector-Problems. 
+ 
+UNIT – III 
+2-D Problems: CST element-Stiffness matrix and load vector – Isoparametric element 
+representation – Shape functions – Convergence requirements-Solving of problems  
+ 
+UNIT - IV 
+Two dimensional four noded isoperimetric elements - numerical integration – finite element 
+modeling of axisymmetric solids subjected to Axisymmetric loading with triangular 
+elements. 3-D problems: Tetrahedron element. Shape functions. 
+ 
+UNIT - V 
+Heat Transfer:-1-D Heat conduction –– Composite slabs – 1D fin problems -2D Heat 
+conduction – Analysis of thin plates. Dynamic Analysis:  Dynamic equations-Lumped and 
+consistent mass matrices-Eigen values and Eigen vectors – mode shapes – modal analysis 
+for stepped bar and beams. 
+ 
+TEXT BOOK: 
+1. The Finite Element Methods in Engineering - SS Rao – Elsevier – 4th Edition 
+2. Introduction to Finite Elements in Engineering-Tirupathi K. Chandragupta and Ashok 
+D. Belagundu. 
+REFERENCES: 
+1. An introduction to Finite Element Method - JN Reddy - Mc Graw Hill 
+2. The Finite Element Method in engineering science – O. C. Zienkowitz, Mc. Graw hill 
+3. Finite Element Methods/ Alavala/TMH 
+4. Concepts and applications of finite element analysis-Robert Cook -wiley 
+  
+
+R16 B.TECH MECHATRONICS. 
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To understand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing, Leading, 
+Motivation and Control aspects are learnt in this course. The students can explore the 
+Management Practices in their domain area. 
+  
+UNIT-I 
+Introduction to Management: Definition, Nature and Scope, Functions, Managerial Roles, 
+Levels of Management, Managerial Skills, Challenges of Management; Evolution of 
+Management- Classical Approach - Scientific and Administrative Management; The 
+Behavioral approach; The Quantitative a pproach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT-II 
+Planning and Decision Making: General Framework for Planning - Planning Process, Types 
+of Plans, Management by Objectives; Development of Business Strategy. Decision making 
+and Pro blem Solving - Programmed and Non Programmed Decisions, Steps in Problem 
+Solving and Decision Making; Bounded Rationality and Influences on Decision Making; 
+Group Problem Solving and Decision Making, Creativity and Innovation in Managerial 
+Work.  
+ 
+UNIT-III 
+Organization and HRM: Principles of Organization: Organizational Design & 
+Organizational Structures; Departmentalization, Delegation; Empowerment, Centralization, 
+Decentralization, Recentralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent Management, Talent 
+Management Models and Strategic Human Resource Planning; Recruitment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT-IV 
+Leading and Motivation:  Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situational Leadership, Leadership Skills, Leader as Mentor and Coach, 
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH MECHATRONICS. 
+Motivation - Types of Motivation; Relationship between Motivation, Performance and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor Theory, 
+Theory X and Theory Y. 
+ 
+UNIT-V 
+Controlling: Control, Types and Strategies for Control, Steps in  Control Process, Budgetary 
+and Non - Budgetary Controls. Characteristics of Effective Controls, Establishing control 
+systems, Control frequency, and Methods.  
+ 
+TEXT BOOKS:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+REFERENCES:  
+1. Essentials of Management, Koontz Kleihrich, Tata Mc - Graw Hill. 
+2. Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012.  
+  
+
+R16 B.TECH MECHATRONICS. 
+ MANUFACTURING PROCESS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MT505PC                          0     0    3    2 
+ 
+Pre-requisites: Manufacturing Technology 
+ 
+Course Objectives: 
+ Know about the basic Physical, Chemical Properties of materials 
+ Explain why some material(s) are better to be used in a product for given design 
+requirements 
+ Learn the basic operation of various manufacturing processes 
+ Learn how various products are made using traditional, non -traditional, or Electronics 
+manufacturing processes 
+ Design simple process plans for parts and products 
+ Understand how process conditions are set for optimization of production 
+ Learn how CNC machines work 
+ Write and execute CNC machining programs to cut parts on a milling machine 
+ Measure a given manufactured part to evaluate its size, tolerances and surface finish 
+ Design and fabricate a simple product 
+ 
+Course Outcomes:  Understanding the properties of moulding sands and pattern making. 
+Fabricate joints using gas welding and arc welding. Eva luate the quality of welded joints. 
+Basic idea of press working tools and performs moulding studies on plastics. 
+Minimum of 12 Exercises need to be performed 
+  
+I. Metal Casting Lab: 
+1. Pattern Design and making - for one casting drawing. 
+2. Sand properties testing - Exercise -for strengths, and permeability – 1 
+3. Moulding Melting and Casting - 1 Exercise 
+ 
+II. Welding Lab: 
+1. ARC Welding Lap & Butt Joint - 2 Exercises 
+2. Spot Welding - 1 Exercise 
+3. TIG Welding - 1 Exercise 
+4. Plasma welding and Brazing - 2 Exercises 
+    (Water Plasma Device) 
+ 
+III. Mechanical Press Working: 
+1. Blanking & Piercing operation and study of simple, compound and progressive press 
+tool. 
+2. Hydraulic Press: Deep drawing and extrusion operation. 
+3. Bending and other operations 
+
+R16 B.TECH MECHATRONICS. 
+IV. Processing Of Plastics 
+1. Injection Moulding 
+2. Blow Moulding 
+ 
+REFERENCE BOOK: 
+1. Dictionary of Mechanical Engineering – G.H.F. Nayler, Jaico Publishing House 
+  
+
+R16 B.TECH MECHATRONICS. 
+MACHINE TOOLS LAB  
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: ME506PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To import practical exposure to the Machine tools 
+ To conduct experiments and understand the working of the same. 
+ 
+List of Experiments: 
+1. Introduction of general purpose machines -Lathe, Drilling machine, Milling machine, 
+Shaper 
+2. Planing machine, slotting machine, Cylindrical Grinder, surface grinder  and tool and 
+cutter grinder 
+3. Step turning and taper turning on lathe machine 
+4. Thread cutting and knurling on -lathe machine 
+5. Drilling and Tapping 
+6. Shaping and Planning 
+7. Slotting 
+8. Milling 
+9. Cylindrical Surface Grinding 
+10. Grinding of Tool angles 
+  
+
+R16 B.TECH MECHATRONICS. 
+ HEAT TRANSFER LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MT507PC                          0     0    3    2 
+ 
+Pre-requisite: Thermodynamics 
+ 
+Course Objectives: To enable the student to apply conduction, convection and radiation heat 
+transfer concepts to practical applications 
+ 
+Course Outcome: At the end of the lab sessions, the student will be able to  
+ Perform steady state conduction experiments to estimate thermal conductivity of 
+different materials 
+ Perform transient heat conduction experiment 
+ Estimate heat transfer coefficients in forced convection, free convection , 
+condensation  and correlate with theoretical values 
+ Obtain variation of temperature along the length of the pin fin under forced and free 
+convection 
+ Perform radiation experiments: Determine surface emissivity of a test plate and 
+Stefan- Boltzmann’s constant and compare with theoretical value 
+ 
+Minimum twelve experiments from the following: 
+1. Composite Slab Apparatus – Overall heat transfer co-efficient. 
+2. Heat transfer through lagged pipe. 
+3. Heat Transfer through a Concentric Sphere 
+4. Thermal Conductivity of given metal rod. 
+5. Heat transfer in pin-fin 
+6. Experiment on Transient Heat Conduction 
+7. Heat transfer in forced convection apparatus. 
+8. Heat transfer in natural convection 
+9. Parallel and counter flow heat exchanger. 
+10. Emissivity apparatus. 
+11. Stefan Boltzman Apparatus. 
+12. Critical Heat flux apparatus. 
+13. Study of heat pipe and its demonstration. 
+14. Film and Drop wise condensation apparatus 
+  
+
+R16 B.TECH MECHATRONICS. 
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MC500HS                          3     0    0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers. The students will learn the rights and responsibilities 
+as an employee, team member and a global citizen.  
+  
+UNIT - I  
+Introduction to Profes sional Ethics : Basic Concepts, Governing Ethics, Personal & 
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelligence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, Professional Accountabilities, Professional Success, Ethics 
+and Profession. 
+ 
+UNIT - II 
+Basic Theories: Basic Ethical Principles, Moral Developments, Deontology, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, Moral Absolutio n, Moral Rationalism, Moral 
+Pluralism, Ethical Egoism, Feminist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT - III 
+Professional Practices in Engineering:  Professions and Norms of Professional Conduct, 
+Norms of Professional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC -10 Crash and Kansas City Hyatt Regency 
+Walk away Collapse. 
+ 
+UNIT - IV 
+Work Place Rights & Responsi bilities, Ethics in changing domains of Research, Engineers 
+and Managers; Organizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing domains of  research - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+ 
+
+R16 B.TECH MECHATRONICS. 
+UNIT - V 
+Global issues in Professional Ethics: Introduction – Current Scenario, Technology 
+Globalization of MNCs, International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governance, Sustai nable Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution, Ethics in Manufacturing and Marketing, Media Ethics; War Ethics; Bio 
+Ethics, Intellectual Property Rights.     
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R. Subramanian, Oxford University Press, 2015. 
+2. Ethics in Engineering Practice & Research, Caroline Whitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES  
+1. Engineering Ethics, Concepts Cases: Charles E Harris Jr., Michael S Pritchard, 
+Michael J Rabins, 4e , Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008. 
+  
+
+R16 B.TECH MECHATRONICS. 
+MACHINE DRAWING 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                 L    T    P   D  C 
+Course Code: MT611PE                     2     0     0   4   4 
+ 
+Pre-requisites: Engineering graphics 
+ 
+Course objectives: To familiarize with the standard conventions for different materials and 
+machine parts in working drawings. To make part drawings including sectional views for 
+various machine elements. To prepare assembly drawings given the details of part drawings. 
+ 
+Course Outcomes:  
+ Preparation of engineering and working drawings with dimensions and bill of material 
+during design and development. Developing assembly drawings using part drawings 
+of machine components. 
+ Conventional representation of materials, common mach ine elements and parts such 
+as screws, nuts, bolts, keys, gears, webs, ribs. 
+ Types of sections – selection of section planes and drawing of sections and auxiliary 
+sectional views. Parts not usually sectioned. 
+ Methods of dimensioning, general rules for size s and placement of dimensions for 
+holes, centers, curved and tapered features. 
+ Title boxes, their size, location and details -  common abbreviations and their liberal 
+usage 
+ Types of Drawings – working drawings for machine parts. 
+ 
+Drawing of Machine Elements and simple parts 
+Selection of Views, additional views for the following machine elements and parts with every 
+drawing proportion. 
+1. Popular forms of Screw threads, bolts, nuts, stud bolts, tap bolts, set screws. 
+2. Keys, cottered joints and  knuckle joint. 
+3. Rivetted joints for plates 
+4. Shaft coupling, spigot and socket pipe joint. 
+5. Journal, pivot and collar and foot step bearings. 
+ 
+Assembly Drawings:  
+Drawings of assembled views for the part drawings of the following using   conventions and 
+easy drawing proportions. 
+ 
+1. Steam engine parts – stuffing boxes, cross heads, Eccentrics. 
+2. Machine tool parts: Tail stock, Tool Post, Machine Vices. 
+3. Other machine parts -  Screws jacks, Petrol engine connecting rod, Plummer block 
+4. Simple designs of steam stop valve, spring loaded safety valve, feed check valve and 
+air cock. 
+
+R16 B.TECH MECHATRONICS. 
+NOTE: First angle projection to be adopted. The student should be able to provide working 
+drawings of actual parts. 
+ 
+TEXT BOOKS: 
+1. Machine Drawing by / Bhattacharyya / Oxford 
+2. Machine Drawing with Auto CAD / Goutham Pohit, Goutam Ghosh / Pearson 
+ 
+REFERENCE BOOKS: 
+1. Machine Drawing / Ajeet Singh / Mc Graw Hill 
+2. Machine Drawing / N.D. Bhat / Charotar 
+  
+
+R16 B.TECH MECHATRONICS. 
+TOTAL QUALITY MANAGEMENT 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT612PE                          3     0    0    3 
+ 
+UNIT - I 
+Introduction, The concept of TQM, Quality and Business performance, attitude, and 
+involvement of top management, communication, culture and management systems. 
+Management of Process Quality: Definition of quality, Quality Control, a brief history, 
+Product Inspection vs. Process Control, Statistical Quality Control, Control Charts and 
+Acceptance Sampling. 
+ 
+UNIT -II 
+Customer Focus and Satisfaction : Process vs. Customer, internal customer conflict, quality 
+focus, Customer Satisfaction, role of Marketing and Sales, Buyer – Supplier relationships. 
+Bench Marking: Evolution of Bench Marking, meaning of bench marking, benefits of bench 
+marketing, the bench marking procedure, pitfalls of bench marketing. 
+ 
+UNIT- III 
+Organizing for TQM : The systems approach, organizing for quality implementation, 
+making the transition from a traditional to a TQM organization, Quality Circles, seven Tools 
+of TQM: Stratification, check sheet, Scatter dia gram, lshikawa diagram, paneto diagram, 
+Kepner &Tregoe Methodology. 
+ 
+UNIT- IV 
+The Cost of Quality : Definition of the Cost of Quality, Quality Costs, Measuring Quality 
+Costs, use of Quality Cost information, Accounting Systems and Quality Management. 
+ 
+UNIT -V 
+ISO9000: Universal Standards of Quality: ISO around the world, The ISO9000 ANSI/ASQC 
+Q- 90. Series Standards, benefits of ISO9000 certification, the third party audit, 
+Documentation ISO9000 and services, the cost of certification implementing the system. 
+ 
+TEXT BOOK: 
+1. Total Quality Management / Joel E. Ross/Taylor and Franscis Limited 
+2. Total Quality Management/P. N. Mukherjee/PHI  
+ 
+REFERENCE BOOKS: 
+1. Beyond TQM / Robert L.Flood 
+2. Statistical Quality Control / E.L. Grant. 
+3. Total Quality Management:A Practical Approach/H. Lal 
+4. Quality Management/Kanishka Bedi/Oxford University Press/2011 
+5. Total Engineering Quality Management/Sunil Sharma/Macmillan 
+  
+
+R16 B.TECH MECHATRONICS. 
+UNCONVENTIONAL MACHINING PROCESSES 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT613PE                         3     0    0    3 
+ 
+Course Overview: 
+The objective of this course is to introduce the student to mole advanced topics in the 
+machining processes. The concept of material removal by an edged tool, involving plastic 
+deformation and formation of chips, has been known to man for several hundred years.  In 
+recent years on increasing demand for the machining of components of complex shape made 
+hard, difficult - to - machine materials with exacting tolerances ad surface finish has resulted 
+in the development of a number of new machining processes. 
+ 
+Course Objectives: 
+1. To teach the modeling technique for machining processes  
+2. To teach interpretation of data for process selection  
+3. To teach the mechanics and thermal issues associated with chip formation  
+4. To teach the effects of tool geometry on machining force components and surface 
+finish  
+5. To teach the machining surface finish and material removal rate 
+ 
+Course Outcomes: 
+1. Understand the basic techniques of machining processes modeling  
+2. Understand the mechanical aspects of orthogonal cutting mechanics  
+3. Understand the thermal aspects of orthogonal cutting mechanics  
+4. Ability to extend, through modeling techniques, the single p oint, multiple point and  
+abrasive machining processes 
+5. Estimate the material removal rate and cutting force, in an industrially useful  manner, 
+for practical machining processes. 
+ 
+UNIT – I 
+Introduction – Need for non -traditional machining methods -Classification of modern 
+machining processes – considerations in process selection. Materials. Applications.  
+Ultrasonic machining – Elements of the process, mechanics of metal removal process 
+parameters, economic considerations, applications and limitations, recent development. 
+ 
+UNIT - II 
+Abrasive Jet Machining, Water Jet Machining And Abrasive Water Jet Machine : Basic 
+principles, equipments, process variables, and mechanics of metal removal, MRR, application 
+and limitations. 
+Electro – Chemical Processes : Fundament als of electro chemical machining, 
+electrochemical grinding, electro chemical honing and deburring process, metal removal rate 
+in ECM, Tool design, Surface finish and accuracy economic aspects of ECM – Simple 
+
+R16 B.TECH MECHATRONICS. 
+problems for estimation of metal removal rate. Fundamentals of chemical, machining, 
+advantages and applications. 
+ 
+UNIT - III 
+Thermal Metal Removal Processes : General Principle and applications of Electric 
+Discharge Machining, Electric Discharge Grinding and electric discharge wire cutting 
+processes – Power circuits for EDM, Mechanics of metal removal in EDM, Process 
+parameters, selection of tool electrode and dielectric fluids, methods surface finish and 
+machining accuracy, characteristics of spark eroded surface and machine tool selection. Wire 
+EDM, principle, applications. 
+ 
+UNIT – IV 
+Generation and control of electron beam for machining, theory of electron beam machining, 
+comparison of thermal and non-thermal processes –General Principle and application of laser 
+beam machining – thermal features, cutting speed and accuracy of cut. 
+ 
+UNIT - V 
+Application of plasma for machining, metal removing mechanism, process parameters, 
+accuracy and surface finish and other applications of plasma in manufacturing industries. 
+Chemical machining – principle - maskants - applications. 
+Magnetic abrasive finishing, Abrasive flow finishing, Electro stream drilling, shaped tube 
+electrolyte machining. 
+ 
+TEXT BOOKS: 
+1. Advanced  Machining  Processes / VK Jain / Allied publishers 
+2. Modern Machining Processes - P. C. Pandey, H. S. Shan 
+ 
+REFERENCE BOOKS: 
+1. Manufacturing Engineering And Technology By Serope  Kalpakjain, Pearson 
+Publications. 2001 
+2. Manufacturing Engineering & Technology, Kalpakjain 
+3. Unconventional Manufacturing Processes, Singh M.K 
+ 
+
+R16 B.TECH MECHATRONICS. 
+NANOTECHNOLOGY 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT614PE                         3     0    0    3 
+ 
+Course Objective: Nano Technology is one of the core subjects of multidisciplinary nature. 
+This has extensive applications in the field of energy, electronics, Biomedical Engg. Etc. 
+Built to specifications by manufacturing matter on the atomic scale, the Nano products would  
+exhibit an order of magnitude improvement in strength, toughness, and efficiency. The 
+objective here is imparting the basic knowledge in Nano Science and Technology. 
+ 
+Course Outcome: The present syllabus of “Introduction to Nano Technology” will give 
+insight into many aspects of Nanoscience, technology and their applications in the 
+prospective of materials science. 
+ 
+UNIT - I 
+Introduction: History and Scope, Can Small Things Make a Big Difference? Classification 
+of Nanostructured Materials, Fascinating Nanostructures, Applications of Nanomaterials, 
+Nature: The Best of Nanotechnologist, Challenges, and Future Prospects. 
+ 
+UNIT - II  
+Unique Pro perties of Nanomaterials: Microstructure and Defects in Nanocrystalline 
+Materials: Dislocations, Twins,  stacking faults and voids, Grain Boundaries, triple, and 
+disclinations,  
+Effect of Nano -dimensions on Materials Behavior: Elastic properties, Melting Po int, 
+Diffusivity, Grain growth characteristics, enhanced solid solubility,  
+Magnetic Properties : Soft magnetic Nanocrystalline alloy, Permanent magnetic 
+Nanocrystalline materials, Giant Magnetic Resonance, Electrical Properties, Optical 
+Properties, Thermal Properties, and Mechanical Properties. 
+ 
+UNIT - III 
+Synthesis Routes: Bottom up approaches: Physical Vapor Deposition, Inert Gas 
+Condensation, Laser Ablation, Chemical Vapor Deposition, Molecular Beam Epitaxy, Sol -
+gel method ,Self assembly,  Top down approaches: Mechanical alloying, Nano-lithography, 
+Consolidation of Nanopowders: Shock wave consolidation, Hot isostatic pressing and Cold 
+isostatic pressing    Spark plasma sintering. 
+ 
+UNIT - IV 
+Tools to Characterize Nanomaterials:  X-Ray Diffraction (XRD), Small Angle X -ray 
+scattering (SAXS), Scanning Electron Microscopy (SEM), Transmission Electron 
+Microscopy (TEM), Atomic Force Microscopy (AFM), Scanning Tunneling Microscope 
+(STM), Field Ion Microscope (FEM), Three -dimensional Ato m Probe (3DAP), 
+Nanoindentation. 
+
+R16 B.TECH MECHATRONICS. 
+ 
+UNIT - V  
+Applications of Nanomaterials: Nano-electronics, Micro - and Nano -electromechanical 
+systems (MEMS/NEMS), Nanosensors, Nanocatalysts, Food and Agricultural Industry, 
+Cosmetic and Consumer Goods, Structure and Engin eering, Automotive Industry, Water - 
+Treatment and the environment, Nano -medical applications, Textiles, Paints, Energy, 
+Defence and Space Applications, Concerns and challenges of Nanotechnology. 
+ 
+TEXT BOOKS:  
+1. Text Book of Nano Science and Nano Technology – B.S. Murthy, P. Shankar, Baldev 
+Raj, B.B. Rath and James Munday, University Press-IIM.  
+2. Introduction to Nanotechnology – Charles P. Poole, Jr., and Frank J. Owens, Wley 
+India Edition, 2012.  
+  
+REFERENCES BOOKS:  
+1. Nano: The Essentials by T. Pradeep, Mc Graw- Hill Education. 
+2. Nanomaterials, Nanotechnologies and Design by Michael F. Ashby, Paulo J. Ferreira 
+and Daniel L. Schodek. 
+3. Transport in Nano structures- David Ferry, Cambridge University press 2000 
+4. Nanofabrication towards biomedical application: Techniques, tools, Application and 
+impact – Ed. Challa S.,S. R. Kumar, J. H. Carola. 
+5. Carbon Nanotubes: Properties and Applications- Michael J. O'Connell. 
+6. Electron Transport in Mesoscopic systems - S. Dutta, Cambridge University press. 
+  
+  
+
+R16 B.TECH MECHATRONICS. 
+DYNAMICS OF MACHINERY 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT601PC                          4     1    0    4 
+ 
+Pre-requisite: Kinematics of Machinery  
+ 
+Course Objectives: The objective is to introduce some of the components mainly used in IC 
+Engines and make analysis of various forces involved. Subjects deals with topics like inertia 
+forces in slider crank mechanism; IC Engine components & the analysis like governors is 
+introduced. It also deals with balancing of rotating & reciprocating parts. Studies are made 
+about balancing of multi cylinder engines, Radial engines etc. study of primary & secondary 
+forces are considered while balancing. Finally they are introduced to the  topic of vibrations. 
+The study deals with linear, longitudinal, & torsional vibrations.  The idea is to introduce the 
+concept of natural frequency and the importance of resonance and critical speeds. 
+ 
+Course Outcome: the study of KOM & DOM are necessary t o have an idea while designing 
+the various machine members like shafts, bearings, gears, belts & chains and various I.C. 
+Engine Components & Machine tool parts. 
+   
+UNIT – I 
+Precession: Gyroscopes – effect of precession – motion on the stability of moving vehicles 
+such as motorcycle – motorcar – aeroplanes and ships.  
+Static and Dynamic Force Analysis: Static   force   analysis   of   planar   mechanisms – 
+Analytical Method – Dynamic Force Analysis – D’Alembert’s principle, Dynamic Analysis 
+of 4-link mechanism, Slider Crank Mechanism. 
+ 
+UNIT – II 
+Turning Moment Diagram And Flywheels:  Engine Force Analysis – Piston Effort, Crank 
+Effort, etc., Inertia Force in Reciprocating Engine – Graphical Method - Turning moment 
+diagram –fluctuation of energy – flywheels and their design - Inertia of connecting rod - 
+inertia force in reciprocating engines – crank effort and torque diagrams.-. 
+ 
+UNIT – III 
+Friction:  pivots and collars – uniform pressure, un iform wear – friction circle and friction 
+axis: lubricated surfaces – boundary friction – film lubrication. Clutches – Types – Single 
+plate, multi-plate and cone clutches. 
+Brakes And Dynamometers:  Types of brakes: Simple block brake, band and block brake -
+internal expanding shoe brake-effect of braking of a vehicle. Dynamometers – absorption and 
+transmission types. General description and methods of operation. 
+ 
+ 
+ 
+ 
+
+R16 B.TECH MECHATRONICS. 
+UNIT – IV 
+Governors:  Types of governors - Watt, Porter and Proell governors.  Spring loaded 
+governors – Hartnell and Hartung with auxiliary springs.  Sensitiveness, isochronisms and 
+hunting – stability – effort and power of the governors. 
+Balancing : Balancing of rotating ma sses- Primary, Secondary, and higher balancing of 
+reciprocating masses.  Analytical and graphical methods.  Unbalanced forces and couples. 
+ Examination of “V” and multi cylinder in -line and radial engines for primary and secondary 
+balancing- locomotive balancing – Hammer blow – Swaying couple – variation of tractive 
+effort. 
+ 
+UNIT – V 
+Vibrations:  Free Vibration of mass attached to vertical spring – Transverse loads – 
+vibrations of beams with concentrated and distributed loads.  Dunkerly’s method – Raleigh’s 
+method.  Whirling of shafts – critical speed – torsional vibrations – one, two and three rotor 
+systems.   
+ 
+TEXT BOOKS: 
+1. Theory of Machines /S. S. Rattan / Mc Graw Hill. 
+2. Theory of Machines /Sadhu Singh/ Pearson 
+ 
+REFERENCE BOOKS: 
+1. Theory of Machines and Mechanisms/Joseph E. Shigley / Oxford  
+2. Theory of Machines / Rao,J.S / New Age 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+MOTION CONTROL DESIGN 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT602PC                          4     0    0    4 
+ 
+UNIT – I 
+Introduction  to  Mechatronics,  Mechatronics  key  elements,  Graphical representation, 
+Mechatronics  design  process,  approaches  in M echatronics, Objectives of Mechatronics, 
+Examples of Mechatronic Systems. 
+ 
+UNIT – II 
+Transmission mechanics – linear power transmission, lead screw, timing belt, conveyors, 
+Rotary transmission - spur gears and planetary transmission. M otors – DC servo motors 
+with encoded feedback – Brushless DC servo motors with Hall- effect sensor, S tepper 
+motors – full step, half step, and microstep. AC induction motors and their applications. 
+ 
+UNIT – III 
+Control system in Motion control:  programmable motion control, closed loop PID 
+control – feed forward control – velocity, acceleration – fundamental concept for adaptive 
+control and fuzzy logic. Pr ogrammable Logic Controller: Basic PLC Structures, Input / 
+Output Processing, Ladder Programming, Latching and Internal relays, Sequencing, Timers 
+and counters, Shift registers, Master and Jump controls. 
+ 
+UNIT – IV 
+INDUSTRIAL HYDRAULICS: Introduction, Merits of Fluid power and its utility for 
+increase in productivity, symbolic representation of hydraulic elements – Hydraulic control 
+valves, Hydraulic cylinders, Hydraulic accessories, and various  pumps used in hydraulic 
+system, Hydraulic fluids, Hydraulic circuits using Hydraulic cylinders and other elements . 
+Applications of Hydraulic systems. 
+ 
+UNIT – V 
+INDUSTRIAL PNEUMATICS: Introduction, Symbolic representations of Pneumatic 
+elements, Compressors and air installation, Pneumatic control valves, Pneumatic actuators, 
+Pneumatic circuits using Pneumatic cylinders and other elements. Fluidics and fluid logic 
+systems. Applications of Pneumatic systems. 
+ 
+TEXT BOOKS: 
+1. Introduction to Mechatronics and measurement Systems, Alciatore, 2009, 3e, TMH 
+2. Pneumatic systems - Principles and maintenance, SR Majumdar, TMH 
+3. Hydraulic systems – Principles and Maintenance, SR MAjumdar, TMH 
+ 
+REFERENCE BOOKS: 
+1. Mechatronics system design – Devdas shetty & Richard A. Kolk, Thomson, 2007 
+2. Mechatronics – W. Bolten, Pearson, 2010 
+
+R16 B.TECH MECHATRONICS. 
+3. Principles of Machine Tools – Sen & Bhattacharya 
+4. Introduction to Mechatronics, Appu Kuttan KK, Oxford Universities Press 
+5. Mechatronic systems: Fundamentals, Isermann, Springer. 
+  
+
+R16 B.TECH MECHATRONICS. 
+CAD/CAM 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT603PC                          4     0    0    4 
+ 
+Pre-requisites:  To learn the importance and use of computer in design and manufacture  
+ 
+Course objectives: To provide an overview of how computers are being used in design, 
+development of manufacturing plans and manufacture. To understand the need for integration 
+of CAD and CAM 
+ 
+Course Outcomes: Understand geometric transformation techniques in CAD. Develop 
+mathematical models to represent curves and  surfaces .Model engineering components using 
+solid modeling techniques. Develop programs for CNC to manufacture industrial 
+components. To understand the application of computers in various aspects of Manufacturing 
+viz., Design, Proper planning, Manufacturing cost, Layout & Material Handling system. 
+ 
+UNIT – I 
+Fundamentals of CAD/CAM, Automation , design process, Application of computers for 
+design, Benefits of CAD, Computer configuration for CAD applications , Computer 
+peripherals for CAD, Design workstation , Graphic terminal, CAD software - definition of 
+system software and application software ,CAD database and structure. 
+Geometric Modeling:   3-D wire frame modeling, wire frame entities and their definitions, 
+Interpolation and approximation of curves, Concep t of parametric and non -parametric 
+representation of curves, Curve fitting techniques, and definitions of cubic spline, Bezier, and 
+B-spline. 
+ 
+UNIT-II 
+Surface modeling:   Algebraic and geometric form, Parametric space of surface, Blending 
+functions, parameterization of  surface patch, Subdividing, Cylindrical surface, Ruled 
+surface, Surface of revolution Spherical surface, Composite surface, Bezier surface.  B -spline 
+surface, Regenerative surface and pathological conditions. 
+Solid Modelling:  Definition of cell composition and spatial occupancy enumeration, Sweep 
+representation, Constructive solid geometry, Boundary representations. 
+ 
+UNIT – III 
+NC Control Production Systems:  Numerical control, Elements of NC system, NC part 
+programming: Methods of NC part programming , manual part programming, Computer 
+assisted part programming , Post  Processor, Computerized part program, SPPL (A Sim ple 
+Programming Language). CNC, DNC and Adaptive Control Systems.  
+ 
+UNIT – IV 
+Group Technology: Part families, Parts classification, and coding.  Production flow analysis, 
+Machine cell design. 
+
+R16 B.TECH MECHATRONICS. 
+Computer aided process planning: Difficulties in traditional process planning, Computer 
+aided process planning: retrieval type and generative type, Machinability data systems. 
+Computer aided manufacturing resource planning: Material resource planning, inputs to 
+MRP, MRP output records, Benefits of MRP, Enterprise resource planning, Capacity 
+requirements planning. 
+ 
+UNIT – V 
+Flexible manufacturing system :  F.M.S e quipment, FMS layouts, Analysis methods for 
+FMS benefits of FMS. 
+Computer aided quality control : Automated inspection - Off-line, On -line, contact, Non -
+contact; Coordinate measuring machines, Machine vision.   
+Computer Integrated Manufacturing: CIM system, Benefits of CIM , Benefits of CIM 
+TEXT BOOKS: 
+1. CAD/CAM /Groover M.P./ Pearson education 
+2. CAD / CAM Theory and Practice/ Ibrahim Zeid/TMH  
+ 
+REFERENCE BOOKS: 
+1. CAD/CAM Principles and Applications/P.N.Rao/ TMH  
+2. CAD/CAM Concepts and Applications/ Alavala/ PHI 
+3. CAD / CAM / CIM/Radhakrishnan and Subramanian/ New Age 
+4. Principles of Computer Aided Design and Manufacturing/ Farid Amirouche/ Pearson 
+5. Computer Numerical Control Concepts and programming/Warren S Seames/ 
+Thomson. 
+  
+
+R16 B.TECH MECHATRONICS. 
+INSTRUMENTATION AND CONTROL SYSTEMS LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT604PC                          0     0    3    2 
+ 
+Pre-requisites: Basic principles of Instrumentation and control systems  
+ 
+Course Outcomes:  At the end of the course, the student will be able to Characterize and 
+calibrate measuring devices. Identify and analyze errors in measurement. Analyze measured 
+data using regression analysis. Calibration of Pressure Gauges, temperature, LVDT, 
+capacitive transducer, rotameter. 
+ 
+1. Calibration of Pressure Gauges. 
+2. Calibration of transducer for temperature measurement. 
+3. Study and calibration of LVDT transducer for displacement measurement. 
+4. Calibration of strain gauge for temperature measurement. 
+5. Calibration of thermocouple for temperature measurement. 
+6. Calibration of capacitive transducer for angular displacement. 
+7. Study and calibration of photo and magnetic speed pickups for the measurement of 
+speed. 
+8. Calibration of resistance temperature detector for temperature measurement. 
+9. Study and calibration of a rotameter for flow measurement. 
+10. Study and use of a Seismic pickup for the measurement of vibration amplitude of an 
+engine bed at various loads. 
+11. Study and calibration of Mcleod gauge for low pressure. 
+12. Measurement and control of Pressure of a process using SCADA system. 
+13. Measurement and control of level in a tank using capacitive transducer with SCADA. 
+14. Measurement and control of temperature of a process using resistance temperature 
+detector with SCADA. 
+15. Measurement and control of flow of a process using SCADA systems. 
+  
+
+R16 B.TECH MECHATRONICS. 
+CAD / CAM LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MT605PC                        0     0    3    2 
+ 
+Pre-requisites: To give the exposure to usage of software tools for design and 
+manufacturing. To acquire the skills needed to analyze and simulate engineering systems. 
+ 
+Course Objectives:  To be able to understand and handle design problems in a systematic 
+manner. To be able to apply CAD in real life applications. To be understand the basic 
+principles of different types of analysis. 
+ 
+Course Outcomes: To understand the analysis of various aspects in of manufacturing design 
+ 
+Note: conduct any TEN excercises from the list gien below: 
+   
+1. Drafting: Development of part drawings for various components in the form of 
+orthographic and isometric. Representation of dimensioning and tolerances. 
+2. Part Modeling: Generation of various 3D Models through Protrusion, revolve, sweep. 
+Creation of various features. Study of parent child relation. Feature based and Boolean 
+based modeling and Assembly Modeling. Study of various standard Translators. Design 
+of simple components. 
+3. Determination of deflection and stresses in 2D and 3D trusses and beams. 
+4. Determination of deflections, principal and Von -mises stresses in plane stress, plane 
+strain and Axi-symmetric components. 
+5. Determination of stresses in 3D and shell structures (at least one example in each case) 
+6. Estimation of natural frequencies and mode shapes, Harmonic response of 2D beam. 
+7. Study state heat transfer analysis of plane and axi-symmetric components. 
+8. Development of process sheets for various components based on Tooling and Machines. 
+9. Development of manufacturing defects and tool management systems. 
+10. Study of various post processors used in NC Machines. 
+11. Development of NC code for free form and sculptured surfaces using CAM software. 
+12. Machining of simple components on NC lathe and Mill by transferring NC Code / from 
+CAM software. 
+ 
+  
+
+R16 B.TECH MECHATRONICS. 
+ADVANCED ENGLISH COMMUNICATION SKILLS LAB  
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EN606HS                          0     0    3    2 
+ 
+Introduction 
+A course on Advanced English Communication Skills (AECS)  Lab is considered essential at 
+the third year level of B.Tech and B.Pharmacy courses. At this stage, the students need to 
+prepare themselves for their career which requires them to listen to, read, speak and write in 
+English both for their professional an d interpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+ 
+Course Objectives: This Lab focuses on using multi -media instruction for language 
+development to meet the following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioral skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes: Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus 
+The following course activities will be conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+1. Inter-personal Communication and Building Vocabulary - Starting a Conversation 
+– Responding Appropriately and Relevantly – Using Appropriate Body Language – 
+Role Play in Different Situations - Synonyms and Antonyms, One-word Substitutes, 
+Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+2. Reading Comprehension –General Vs Local Comprehension, Reading for Facts, 
+Guessing Meanings from Context, , Skimming, Scanning, Inferring Meaning. 
+3. Writing Skills – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+4. Presentation Skills – Oral Presentations (individual or group) through JAM 
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+5. Group Discussion and Interview Skills – Dynamics of Group Discussion, 
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance, 
+Fluency and Organization of Ideas and Rubrics of Evaluation- Concept and Process, 
+
+R16 B.TECH MECHATRONICS. 
+Pre-interview Planning, Opening Strategies, Answering Strategies, Interview through 
+Tele-conference & Video-conference and Mock Interviews. 
+ 
+Minimum Hardware Requirement : Advanced English Communication Skills (AECS) 
+Laboratory shall have the following infrastructural facilities to accommodate at least 35 
+students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+ 
+Suggested Software: The software consisting of the prescribed topics elaborated above 
+should be procured and used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+ 
+REFERENCES:              
+1. Kumar, Sanjay and Pushp Lata. English for Effective Communication, Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI 
+Learning Pvt. Ltd., 2011. 
+

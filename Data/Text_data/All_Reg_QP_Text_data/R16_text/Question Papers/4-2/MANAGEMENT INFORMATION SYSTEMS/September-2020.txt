@@ -1,0 +1,42 @@
+Code No:  138GJ                                      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, September - 2020 
+MANAGEMENT INFORMATION SYSTEM  
+(Common to CSE, IT) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) What is Information System strategic grid?  
+   b) Explain the reason for proliferation of application packages of various uses. [7+8]  
+ 
+2. Explain in detail the various stages of System Development Life Cycle.   [15] 
+  
+3.a) Why is there a need for control and audit of computer systems?    
+   b) When is information systems asset secure?                [7+8] 
+ 
+4.a) What are the controls of last resort?   
+   b) In what phase of an audit do you evaluate internal controls?    [7+8] 
+ 
+5.a) Write a brief note on evaluation of ERP.       
+   b) What is the importance of ‘value chain analysis’ in ERP.      [7+8] 
+ 
+6. Explain how Plant Maintenance System Module of ERP can be of use in a process 
+industry.                                                                          [15] 
+ 
+7.a) How does automation give rise to improved quality?   
+   b) How can ERP serve as a decision support system?      [8+7] 
+ 
+8. What are the aspects to be considered in linking information system plan to business plan?                                                                           
+            [15] 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used Papers 20-09-2020PM
+

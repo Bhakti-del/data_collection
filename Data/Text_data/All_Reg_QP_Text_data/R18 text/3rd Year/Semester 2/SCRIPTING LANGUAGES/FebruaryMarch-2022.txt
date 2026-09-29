@@ -1,0 +1,40 @@
+Code No: 156CU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ B. Tech III Year II Semester Examinations, February/March - 2022 
+SCRIPTING LANGUAGES 
+(Common to CSE, IT) 
+Time: 3 hours                                                          Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the Package Management with RUBYGEMS.  
+   b) List and explain the different canvas widget options.     [7+8] 
+ 
+2.a) Discuss the Ruby Type System.   
+   b) Illustrate the Embedding of Ruby to Other Languages.    [8+7] 
+ 
+3.a) List and explain the Characteristics of Scripting Languages.  
+   b) Using Perl program explain push and pop in array implementation.                       [5+10] 
+ 
+4.a) Give a brief note on dirty hands in internet programming.  
+   b) Discuss the pack and unpack, filesystem.      [8+7] 
+ 
+5.a) Explain Tk-Visual Tool Kits, Events, and Binding with example.  
+   b) Why TK is used? Explain TK with an example.     [8+7] 
+ 
+6.a) Explain the Tk module in Ruby.  
+   b) How does the jukebox work? Explain.      [8+7] 
+ 
+7. List and explain PERL data types with suitable examples.      [15] 
+ 
+8.a) How to run a package in tcl, how to remote login to a system A from system B, execute 
+commands in it. 
+   b) Give an example of how to write internet applications using TCL.   [8+7] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+R18 used paper feb/mar-2022 jntuh
+

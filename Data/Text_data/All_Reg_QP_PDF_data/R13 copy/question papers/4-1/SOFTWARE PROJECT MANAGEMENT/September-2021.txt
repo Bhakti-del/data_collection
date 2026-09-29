@@ -1,0 +1,39 @@
+ 
+Code No: 117HP      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, September - 2021 
+SOFTWARE PROJECT MANAGEMENT 
+ (Computer Science and Engineering) 
+Time: 3 Hours                     Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) Explain briefly waterfall model. Also explain conventional software management.   
+   b) List and explain five staffing principal offered by Boehm.             [8+7] 
+ 
+2.a) Explain the principle of modern software management.             
+   b) Explain about improving software process.               [7+8] 
+ 
+3.a) Define Artifact? Write in detail about programmatic artifact.           
+   b) Explain the overview of the artifact set.               [7+8]  
+ 
+4. Explain the goal of Inception phase, Elaboration phase, Construction phase and Transition 
+phase.                               [15] 
+ 
+5.a) Discuss the different engineering and production stage planning emphasis.      
+   b) Explain about the roles in a software line of business organization.                   [7+8] 
+ 
+6.a) Explain in detail about evolutionary work break down structure.                       
+   b) Explain in detail about typical sequence of life cycle check points.            [8+7] 
+ 
+7. Analyze the importance of COCOMO model for software estimation.           [15] 
+ 
+8. What is Software Quality Metrics? Explain in detail various categories of Software Quality 
+Metrics with suitable example each.                [15] 
+ 
+--ooOoo-- 
+   
+ 
+R13 
+

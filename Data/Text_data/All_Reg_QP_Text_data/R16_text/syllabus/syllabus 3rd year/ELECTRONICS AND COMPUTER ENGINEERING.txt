@@ -1,0 +1,1360 @@
+R16 B.TECH ECM. 
+ 1
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. ELECTRONICS AND COMPUTER ENGINEERING 
+III YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+III YEAR I SEMESTER 
+ 
+S. No. Course 
+Code Course Title L T P Credits 
+1 BM501PC Principles of Communications  4 0 0 4 
+2 EC502PC Linear and Digital IC Applications 4 0 0 4 
+3 CS503PC Software Engineering 4 0 0 4 
+4 SM504MS Fundamentals of Management 3 0 0 3 
+5  Open Elective – I 3 0 0 3 
+6 BM505PC Communications Lab  0 0 3 2 
+7 EI506PC Linear and Digital IC Applications Lab  0 0 3 2 
+8 CS507PC Software Engineering Lab 0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits 21 0 9 24 
+ 
+III YEAR II SEMESTER 
+ 
+S. No. Course 
+Code Course Title L T P Credits 
+1 EM601PC Computer Networks 4 0 0 4 
+2 EC602PC Microprocessors and Microcontrollers 4 0 0 4 
+3 EC603PC Digital Signal Processing 4 0 0 4 
+4  Open Elective-II 3 0 0 3 
+5  Professional Elective-I 3 0 0 3 
+6 EM604PC Computer Networks Lab 0 0 3 2 
+7 EC605PC Microprocessors and Microcontrollers Lab 0 0 3 2 
+8 EN606HS Advanced English Communications Skills Lab 0 0 3 2 
+  Total Credits 18 0 9 24 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+ 
+  
+
+R16 B.TECH ECM. 
+ 2
+Professional Elective – I 
+ 
+EM611PE  Computer Organization  
+EM612PE  Database Management Systems 
+EM613PE   Information Systems 
+EM614PE  Data Structures  
+ 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+ 
+  
+
+R16 B.TECH ECM. 
+ 3
+PRINCIPLES OF COMMUNICATIONS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: BM501PC                          4     0    0    4 
+ 
+Pre-requisites: Nil 
+ 
+Course Objective: To provide the basic concepts of communication systems. 
+ 
+Course Outcomes:  On successful completion of the module students will be able to: 
+ explain the main concepts of analogue and digital communication systems; 
+ analyze and design an AM and FM modulator/demodulator; 
+ explain, discuss, and compare different binary digital modulation techniques; 
+ explain types of noise & effects of noise on communication system  
+ 
+UNIT – I 
+Introduction: Block diagram of Electrical communication system, Radio communication : 
+Types of communications, Analog, pulse and digital Types of signals, Noise – Types of noise, 
+sources of noise, calculation of noise in Linear systems, and noise figure. 
+ 
+UNIT - II 
+Amplitude Modulation:  Need for modulation, Types of Amplitude modulation, AM, DSB 
+SC, SSB SC, Power and BW requirements, generation of AM, DSB SC, SSB SC, 
+Demodulation of AM: Diode detector, Product demodulation for DSB SC & SSB SC. 
+Angle Modulation:  Frequency & Phase modulati ons, advantages of FM over AM, 
+Bandwidth consideration, Narrow band and Wide band FM, Comparison of FM & PM. 
+ 
+UNIT - III 
+Pulse Modulations: Sampling, Nyquist rate of sampling, Sampling theorem for Band limited 
+signals, PAM, regeneration of base band signal, PWM and PPM, Time Divison Multiplexing, 
+Frequency Division Multiplexing, Asynchronous Multiplexing. 
+ 
+UNIT - IV 
+Digital Communication:  Advantages, Block diagram of PCM, Quantization, effect of 
+quantization, quantization error, Base band digital signal, DM , ADM, ADPCM and 
+comparison. 
+Digital Modulation: ASK, FSK, PSK, DPSK, QPSK demodulation, coherent and incoherent 
+reception, Modems. 
+ 
+UNIT - V 
+Information Theory:  Concept of information, rate of information and entropy, Source 
+coding for optimum rate of inf ormation, Coding efficiency, Shanon -Fano and Huffman 
+coding. 
+
+R16 B.TECH ECM. 
+ 4
+Error control coding: Introduction, Error detection and correction codes, block codes, 
+convolution codes. 
+ 
+TEXT BOOKS: 
+1. Communication Systems Analog and Digital – R.P. Singh and SD Sapre, TMH, 20 th 
+reprint, 2004. 
+2. Principles of Communications – H. Taub and D. Schilling, TMH, 2003. 
+ 
+REFERENCE BOOKS: 
+1. Electronic Communication Systems – Kennedy and Davis, TMH, 4th edition, 2004. 
+2. Communication Systems Engineering – John. G. Proakis and Masoud Salehi, PH I, 
+2nd Ed. 2004. 
+ 
+  
+
+R16 B.TECH ECM. 
+ 5
+LINEAR AND DIGITAL IC APPLICATIONS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC502PC                          4     0    0    4 
+ 
+Pre-requisites: Digital Logic and Pulse Circuits 
+ 
+Course Objectives: 
+1. The main objectives of the course are: 
+2. To introduce the basic building blocks of linear integrated circuits. 
+3. To teach the linear and non - linear applications of operational amplifiers. 
+4. To introduce the theory and applications of analog multipliers and PLL. 
+5. To teach the theory of ADC and DAC. 
+6. To introduce the concepts of waveform generation and introduce some special 
+function ICs. 
+7. To understand and implement the working of basic digital circuits 
+ 
+Course Outcomes: 
+1. On completion of this course, the students will have: 
+2. A thorough understanding of operational amplifiers with linear integrated circuits. 
+3. Understanding of the different families of digital integrated circuits and their 
+characteristics. 
+4. Also students will be able to design circuits using operational amplifiers for various 
+applications. 
+ 
+UNIT - I 
+Operational Amplifier: Ideal and Practical Op -Amp, Op-Amp Characteristics, DC and AC 
+Characteristics, Features of 741 Op -Amp, Modes of Operation - Inverting, Non -Inverting, 
+Differential, Instrumentation Amplifier, AC Amplifier, Differentiators and Integrators, 
+Comparators, Schmitt Trigger, Introduction to V oltage Regulators, Features of 723 Regulator, 
+Three Terminal V oltage Regulators. 
+ 
+UNIT - II 
+Op-Amp, IC-555 & IC 565 Applications: Introduction to Active Filters, Characteristics of 
+Band pass, Band reject and All Pass Filters, Analysis of 1st order LPF & HPF Butterworth 
+Filters, Waveform Generators – Triangular, Sawtooth, Square Wave, IC555 Timer - 
+Functional Diagram, Monostable, and Astab le Operations, Applications, IC565 PLL - Block 
+Schematic, Description of Individual Blocks, Applications. 
+ 
+
+R16 B.TECH ECM. 
+ 6
+UNIT - III 
+Data Converters: Introduction, Basic DAC techniques, Different types of DACs -Weighted 
+resistor DAC, R -2R ladder DAC, Inverted R -2R DAC, Di fferent Types of ADCs - Parallel 
+Comparator Type ADC, Counter Type ADC, Successive Approximation ADC and Dual 
+Slope ADC,  DAC and ADC Specifications. 
+ 
+UNIT - IV 
+Digital Integrated Circuits: Classification of Integrated Circuits, Comparison of Various 
+Logic Families Combinational Logic ICs – Specifications and Applications of TTL -74XX & 
+Code Converters, Decoders, Demultiplexers, LED & LCD Decoders with Drivers, Encoders, 
+Priority Encoders, Multiplexers, Demultiplexers, Priority Generators/Checkers, Parallel 
+Binary Adder/Subtractor, Magnitude Comparators. 
+ 
+UNIT - V 
+Sequential Logic IC’s and Memories: Familiarity with commonly available 74XX & 
+CMOS 40XX Series ICs – All Types of Flip-flops, Synchronous Counters, Decade Counters, 
+Shift Registers. 
+Memories - ROM Architecture, Types of ROMS & Applications, RAM Architecture, Static 
+& Dynamic RAMs. 
+ 
+TEXT BOOKS: 
+1. Op-Amps & Linear ICs – Ramakanth A. Gayakwad, PHI, 2003. 
+2. Digital Fundamentals – Floyd and Jain, Pearson Education, 8th Edition, 2005. 
+ 
+REFERENCE BOOKS: 
+1. Linear Integrated Circuits –D. Roy Chowdhury, New Age International (p) Ltd, 2nd 
+Ed., 2003. 
+2. Op Amps and Linear Integrated Circuits -Concepts and Applications James M. Fiore, 
+Cengage Learning/ Jaico, 2009. 
+3. Operational Amplifiers with Linear Integrated Circuits by K.Lal Kishore – Pearson, 
+2009. 
+4. Linear Integrated Circuits and Applications – Salivahana, MC GRAW HILL 
+EDUCATION. 
+5. Modern Digital Electronics – RP Jain – 4/e – MC GRAW HILL EDUCATION, 2010. 
+  
+  
+
+R16 B.TECH ECM. 
+ 7
+SOFTWARE ENGINEERING 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS503PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To understanding of software process models such as waterfall and evolutionary 
+models. 
+ To understanding of software requirements and SRS document. 
+ To understanding of different software architectural styles. 
+ To understanding of software testing approaches such as unit testing and integration 
+testing. 
+ To understanding on quality control and how to ensure good quality software. 
+ 
+Course Outcomes: 
+ Ability to identify the minimum requirements for the development of application. 
+ Ability to develop, maintain, efficient, reliable and cost effective software solutions  
+ Ability to critically thinking and evaluate assumptions and arguments. 
+ 
+UNIT- I 
+Introduction to Software Engineering: The evolving role of software, Changing Nature of 
+Software, legacy software, Software myths. 
+A Generic view of process: Software engineering - A layered technology, a process 
+framework, The Capabilit y Maturity Model Integration (CMMI), Process patterns, process 
+assessment, personal and team process models. 
+Process models: The waterfall model, Incremental process models, Evolutionary process 
+models, Specialized process models, The Unified process. 
+ 
+UNIT- II 
+Software Requirements: Functional and non -functional requirements, User requirements, 
+System requirements, Interface specification, the software requirements document. 
+Requirements engineering process: Feasibility studies, Requirements elicitation an d analysis, 
+Requirements validation, Requirements management. 
+System models: Context Models, Behavioral models, Data models, Object models, structured 
+methods. 
+ 
+UNIT- III 
+Design Engineering: Design process and Design quality, Design concepts, the design mo del, 
+pattern based software design. 
+Creating an architectural design: software architecture, Data design, Architectural styles and 
+patterns, Architectural Design, assessing alternative architectural designs, mapping data flow 
+into a software architecture. 
+
+R16 B.TECH ECM. 
+ 8
+Modeling component -level design: Designing class -based components, conducting 
+component-level design, object constraint language, designing conventional components. 
+Performing User interface design: Golden rules, User interface analysis, and design, interf ace 
+analysis, interface design steps, Design evaluation. 
+ 
+UNIT- IV 
+Testing Strategies: A strategic approach to software testing, test strategies for conventional 
+software, Black -Box and White -Box testing, Validation testing, System testing, the art of 
+Debugging. 
+Product metrics: Software Quality, Frame work for Product metrics, Metrics for Analysis 
+Model, Metrics for Design Model, Metrics for source code, Metrics for testing, Metrics for 
+maintenance.  
+Metrics for Process and Products: Software Measurement, Metrics for software quality. 
+ 
+UNIT- V 
+Risk management: Reactive vs Proactive Risk strategies, software risks, Risk identification, 
+Risk projection, Risk refinement, RMMM, RMMM Plan. 
+Quality Management: Quality concepts, Software quality assurance, Software Reviews, 
+Formal technical reviews, Statistical Software quality Assurance, Software reliability, The 
+ISO 9000 quality standards. 
+ 
+TEXT BOOKS: 
+1. Software engineering A practitioner’s Approach, Roger S Pressman, sixth edition 
+McGraw Hill International Edition. 
+2. Software Engineering, Ian Sommerville, seventh edition, Pearson education. 
+ 
+REFERENCE BOOKS: 
+1. Software Engineering, A Precise Approach, Pankaj Jalote, Wiley India, 2010. 
+2. Software Engineering : A Primer, Waman S Jawadekar, Tata McGraw-Hill, 2008 
+3. Fundamentals of Software Engineering, Rajib Mall, PHI, 2005 
+4. Software Engineering, Principles and Practices, Deepak Jain, Oxford University 
+Press. 
+5. Software Engineering1: Abstraction and modeling, Diner Bjorner, Springer 
+International edition, 2006. 
+6. Software E ngineering2: Specification of systems and languages, Diner Bjorner, 
+Springer International edition 2006. 
+7. Software Engineering Foundations, Yingxu Wang, Auerbach Publications, 2008. 
+8. Software Engineering Principles and Practice, Hans Van Vliet, 3 rd edition, John 
+Wiley &Sons Ltd. 
+9. Software Engineering 3: Domains, Requirements, and Software Design, D. Bjorner, 
+Springer International Edition. 
+10. Introduction to Software Engineering, R. J. Leach, CRC Press. 
+ 
+ 
+
+R16 B.TECH ECM. 
+ 9
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To understand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing, Leading, 
+Motivation and Control aspects are learnt in this course. The stu dents can explore the 
+Management Practices in their domain area. 
+  
+UNIT - I 
+Introduction to Management: Definition, Nature and Scope, Functions, Managerial Roles, 
+Levels of Management, Managerial Skills, Challenges of Management; Evolution of 
+Management- Classical Approach - Scientific and Administrative Management; The 
+Behavioral approach; The Quantitative approach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT - II 
+Planning and Decision Making: General Framework for Planning - Planning Process, Types 
+of Plans, Management by Objectives; Development of Business Strategy. Decision making 
+and Problem Solving - Programmed and Non Programmed Decisions, Steps in Problem 
+Solving and Decision Making; Bounded Rationality and Influences on Decision M aking; 
+Group Problem Solving and Decision Making, Creativity and Innovation in Managerial 
+Work.  
+ 
+UNIT - III 
+Organization and HRM: Principles of Organization: Organizational Design & 
+Organizational Structures; Departmentalization, Delegation; Empowerment, Centralization, 
+Decentralization, Recentralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent Management, Talent 
+Management Models and Strategic Human Resource Planning; Recruitment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT - IV 
+Leading and Motivation: Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situational Leadership, Leadership Skills, Leader as Mentor and Coach,  
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH ECM. 
+ 10
+Motivation - Types of Motivation; Relationship between Motivation, Performance and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor Theory, 
+Theory X and Theory Y. 
+ 
+UNIT - V 
+Controlling: Control, Types and Strategies for Control, Steps in Control Process, Budgetary 
+and Non - Budgetary Controls. Characteristics of Effective Controls, Establishing control 
+systems, Control frequency and Methods.  
+ 
+Text Books:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+References:  
+1. Essentials of Management, Koontz Kleihrich, Tata Mc - Graw Hill.  
+2. Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012 
+  
+
+R16 B.TECH ECM. 
+ 11
+COMMUNICATIONS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: BM505PC                          0     0    3    2 
+ 
+Note:  
+ Minimum 15 experiments should be conducted: 
+ All these experiments are to be simulated first either using MATLAB or any other 
+simulation package and then to be realized in hardware 
+ 
+Part-I 
+Analog Communications: 
+1. Amplitude modulation and demodulation.  
+2. DSB-SC Modulator & Detector 
+3. SSB-SC Modulator & Detector (Phase Shift Method) 
+4. Frequency modulation and demodulation. 
+5. Pre-emphasis & de-emphasis. 
+6. Time Division Multiplexing & De multiplexing 
+7. Frequency Division Multiplexing & De multiplexing 
+8. Pulse Amplitude Modulation & Demodulation 
+9. Pulse Width Modulation & Demodulation 
+10. Pulse Position Modulation & Demodulation 
+ 
+Part-II 
+Digital Communications: 
+11. PCM Generation and Detection 
+12. Differential Pulse Code Modulation 
+13. Delta Modulation 
+14. Time Division Multiplexing of 2 Band Limited  Signals 
+15. Frequency Shift Keying:  Generation and Detection 
+16. Phase Shift Keying:  Generation and Detection 
+17. Amplitude Shift Keying: Generation and Detection 
+18. DPSK :Generation and Detection 
+19. QPSK : Generation and Detection 
+20. OFDM: Generation and Detection  
+  
+
+R16 B.TECH ECM. 
+ 12
+LINEAR AND DIGITAL IC APPLICATIONS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EI506PC                          0     0    3    2 
+ 
+Note: 
+To perform any twelve experiments (choosing at least five from each part).  
+Verify the functionality of the IC in the given application. 
+ 
+PART - I 
+Linear IC Experiments 
+1. OP AMP Applications – Adder, Subtractor, Comparators. 
+2. Integrator and Differentiator Circuits using IC 741. 
+3. Active Filter Applications – LPF, HPF (first order) 
+4. IC 741 Waveform Generators – Sine, Square wave and Triangular waves. 
+5. IC 555 Timer – Monostable and Astable Multivibrator Circuits. 
+6. Schmitt Trigger Circuits – using IC 741  
+7. IC 565 – PLL Applications. 
+8. Voltage Regulator using IC 723, Three Terminal Voltage Regulators – 7805, 7809, 
+7912. 
+ 
+PART - II 
+Digital IC Applications 
+1. 3-8 decoder using 74138 
+2. 4-bit comparator using 7485. 
+3. 8*1 Multiplexer using 74151 and 2*4 Demultiplexer using 74155. 
+4. D, JK Flip Flops using 7474, 7483. 
+5. Decade counter using 7490. 
+6. UP/DOWN counter using 74163 
+7. Universal shift registers using 74194/195. 
+8. RAM (16*4) using 74189 (Read and Write operations). 
+ 
+EQUIPMENT REQUIRED: 
+1. 20 MHz/ 40 MHz/60 MHz Oscilloscope. 
+2. 1 MHz Function Generator (Sine, Square, Triangular and TTL). 
+3. Regulated Power Supply. 
+4. Multimeter / Volt Meter. 
+  
+
+R16 B.TECH ECM. 
+ 13
+SOFTWARE ENGINEERING LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: CS507PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To understand the software engineering methodologies involved in the phases for 
+project development. 
+ To gain knowledge about open source tools used for implementing software 
+engineering methods. 
+ To exercise developing product-startups implementing software engineering methods. 
+ Open source Tools: StarUML / UMLGraph / Topcased 
+ 
+Prepare the following documents and develop the software project startup, prototype model, 
+using software engineering methodology for at least two real time scenarios or for the sample 
+experiments. 
+ 
+ Problem Analysis and Project Planning -Thorough study of the problem – Identify 
+Project scope, Objectives and Infrastructure. 
+ 
+ Software Requirement Analysis – Describe the individual Phases/modules of the 
+project and Identify deliverables. Identify functional and non-functional requirements. 
+ 
+ Data Modeling – Use work products – data dictionary.  
+ 
+ Software Designing - Develop use case diagrams and activity diagrams, build and test 
+class diagrams, sequence diagrams and add interface to class diagrams. 
+ 
+ Prototype model – Develop the prototype of the product.  
+ 
+The SRS and prototype model should be submitted for end semester examination. 
+ 
+List of Sample Experiments: 
+ 
+1. Course management system (CMS) 
+A course management system  (CMS) is a collection of software tools providing an online 
+environment for course interactions. A CMS typically includes a variety of online tools and 
+environments, such as: 
+ An area for faculty posting of class materials such as course syllabus and handouts 
+ An area for student posting of papers and other assignments 
+ A grade book where faculty can record grades and each student can view his or her 
+grades 
+ An integrated email tool allowing participants to send announcem ent email messages 
+to the entire class or to a subset of the entire class 
+ A chat tool allowing synchronous communication among class participants 
+
+R16 B.TECH ECM. 
+ 14
+ A threaded discussion board allowing asynchronous communication among 
+participants 
+In addition, a CMS is typic ally integrated with other databases in the university so that 
+students enrolled in a particular course are automatically registered in the CMS as 
+participants in that course. 
+ 
+The Course Management System (CMS) is a web application for department personne l, 
+Academic Senate, and Registrar staff to view, enter, and manage course information formerly 
+submitted via paper. 
+Departments can use CMS to create new course proposals, submit changes for existing 
+courses, and track the progress of proposals as they mov e through the stages of online 
+approval. 
+ 
+2. Easy Leave  
+This project is aimed at developing a web based Leave Management Tool, which is of 
+importance to either an organization or a college. 
+The Easy Leave  is an Intranet based application that can be acces sed throughout the 
+organization or a specified group/Dept. This system can be used to automate the workflow of 
+leave applications and their approvals. The periodic crediting of leave is also automated. 
+There are features like notifications, cancellation of leave, automatic approval of leave, report 
+generators etc in this Tool. 
+ 
+Functional components of the project: 
+There are registered people in the system. Some are approvers. An approver can also be a 
+requestor. In an organization, the hierarchy could be E ngineers/Managers/Business 
+Managers/Managing Director etc. In a college, it could be Lecturer/Professor/Head of the 
+Department/Dean/Principal etc. 
+ 
+Following is a list of functionalities of the system: A person should be able to 
+ login to the system through the first page of the application 
+ change the password after logging into the system 
+ see his/her eligibility details (like how many days of leave he/she is eligible for etc) 
+ query the leave balance 
+ see his/her leave history since the time he/she joined the company/college 
+ apply for leave, specifying the from and to dates, reason for taking leave, address for 
+communication while on leave and his/her superior's email id 
+ see his/her current leave applications and the leave applications that are submitted to 
+him/her for approval or cancellation 
+ approve/reject the leave applications that are submitted to him/her 
+ withdraw his/her leave application (which has not been approved yet) 
+ Cancel his/her leave (which has been already approved). This will need to be 
+approved by his/her Superior 
+ get help about the leave system on how to use the different features of the system 
+
+R16 B.TECH ECM. 
+ 15
+ As soon as a leave application /cancellation request /withdrawal /approval /rejection 
+/password-change is made by the person, an automatic email should  be sent to the 
+person and his superior giving details about the action 
+ The number of days of leave (as per the assumed leave policy) should be 
+automatically credited to everybody and a notification regarding the same be sent to 
+them automatically 
+ An autom atic leave -approval facility for leave applications which are older than 2 
+weeks should be there. Notification about the automatic leave approval should be sent 
+to the person as well as his superior 
+3. E-Bidding 
+Auctions are among the latest economic insti tutions in place. They have been used since 
+antiquity to sell a wide variety of goods, and their basic form has remained unchanged. In this 
+dissertation, we explore the efficiency of common auctions when values are interdependent - 
+the value to a particular  bidder may depend on information available only to others -and 
+asymmetric. In this setting, it is well known that sealed -bid auctions do not achieve efficient 
+allocations in general since they do not allow the information held by different bidders to be 
+shared. 
+ 
+Typically, in an auction, say of the kind used to sell art, the auctioneer sets a relatively low 
+initial price. This price is then increased until only one bidder is willing to buy the object, and 
+the exact manner in which this is done varies. In my  model a bidder who drops out at some 
+price can "reenter" at a higher price. 
+ 
+With the invention of E -commerce technologies over the Internet the opportunity to bid from 
+the comfort of one’s own home has seen a change like never seen before. Within the spa n of 
+a few short years, what may have began as an experimental idea has grown to an immensely 
+popular hobby, and in some cases, a means of livelihood, the Auction Patrol gathers 
+tremendous response every day, all day. With the point and click of the mouse,  one may bid 
+on an item they may need or just want, and in moments they find that either they are the top 
+bidder or someone else wants it more, and you're outbid! The excitement of an auction all 
+from the comfort of home is a completely different experience. 
+ 
+Society cannot seem to escape the criminal element in the physical world, and so it is the 
+same with Auction Patrols. This is one area where in a question can be raised as to how safe 
+Auction Patrols. 
+ 
+Proposed system 
+To generate the quick reports 
+To make accuracy and efficient calculations 
+To provide proper information briefly 
+To provide data security 
+To provide huge maintenance of records 
+Flexibility of transactions can be completed in time 
+
+R16 B.TECH ECM. 
+ 16
+4. Electronic Cash counter 
+This project is mainly developed for the Account Division of a Banking sector to provide 
+better interface of the entire banking transactions. This system is aimed to give a better out 
+look to the user interfaces and to implement all the banking transactions like: 
+ Supply of Account Information 
+ New Account Creations 
+ Deposits 
+ Withdraws 
+ Cheque book issues 
+ Stop payments 
+ Transfer of accounts 
+ Report Generations. 
+ 
+Proposed System: 
+The development of the new system contains the following activities, which try to automate 
+the entire process keeping in view of the database integration approach. 
+ User friendliness is provided in the application with various controls. 
+ The system makes the overall project management much easier and flexible. 
+ Readily upload the latest updates, allows user to download the a lerts by clicking the 
+URL. 
+ There is no risk of data mismanagement at any level while the project development is 
+under process. 
+ It provides high level of security with different level of authentication 
+
+R16 B.TECH ECM. 
+ 17
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MC500HS                          3     0    0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers. The students will learn the rights and responsibilities 
+as an employee, team member and a global citizen.  
+  
+UNIT - I  
+Introduction to Professional Ethics : Basic Concepts, Governing Ethics, Personal & 
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelligence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, Professional Accountabilities, Professional Success, Ethics 
+and Profession. 
+ 
+UNIT - II 
+Basic Theories: Basic Ethical Principles, Moral Developments, Deontology, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, M oral Absolution, Moral Rationalism, Moral 
+Pluralism, Ethical Egoism, Feminist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT - III 
+Professional Practices in Engineering:  Professions and Norms of Professional Conduct, 
+Norms of Profess ional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC -10 Crash and Kansas City Hyatt Regency 
+Walkaway Collapse. 
+ 
+UNIT - IV 
+Work Place Rights & Responsibilities, Ethics in changing domains of Research, Engineers 
+and Managers; Organizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing domains of research - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+ 
+
+R16 B.TECH ECM. 
+ 18
+UNIT - V 
+Global issues in Professional Ethics: Introduction – Current Scenario, Technology 
+Globalization of MNCs, International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governance, Sustainable Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution, Ethics in Manufacturing and Marketing, Media Ethics; War Ethics; Bio 
+Ethics, Intellectual Property Rights.     
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R. Subramanian, Oxford University Press, 2015. 
+2. Ethics in Engineering Practice & Research, Caroline W hitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES  
+1. Engineering Ethics, Concepts Cases: Charles E Harris Jr., Michael S Pritchard , 
+Michael J Rabins, 4e , Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008. 
+
+R16 B.TECH ECM. 
+ 19
+COMPUTER NETWORKS 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EM601PC                          4     0    0    4 
+ 
+Pre-requisites: Nil 
+ 
+Course Objectives: 
+ To introduce the fundamental various types of computer networks. 
+ To demonstrate the TCP/IP and OSI models with merits and demerits. 
+ To explore the various layers of OSI Model. 
+ To introduce UDP and TCP Models. 
+ To have the concept of different routing techniques for data communications. 
+ 
+Course Outcomes: 
+ Students should understand and explore the basics of Computer Networks and 
+Various Protocols. He/She will be in a position to understand the World Wide Web 
+concepts. 
+ Students will be in a position to administrate a network and flow of information 
+further he/she can understand easily the concepts of network security, Mobile and ad 
+hoc networks. 
+ 
+UNIT - I 
+Introduction to Networks: Internet, Protocols and Standards, The OSI Model, Layers in OSI 
+Model, TCP/IP Suite, Addressing. 
+Physical Layer:  Multiplexing, T ransmission Media, Circuit Switched Networks, Datagram 
+Networks, and Virtual Circuit Networks. 
+ 
+UNIT - II 
+Data Link Layer:  Introduction, Checksum, Framing, Flow and Error Control, Noiseless 
+Channels, Noisy Channels, Random Access Controlled Access, Channelization, IEEE 
+Standards, Ethernet, Giga -Bit Ethernet, Wireless LANs, SONET -SDH, Frame Relay and 
+ATM. 
+ 
+UNIT - III 
+Network Layer: Logical Addressing, Internetworking, Tunneling, Address Mapping, ICMP, 
+IGMP, Forwarding, Routing -Flooding, Bellman& Ford, Disjkstra’s routing protocols, RIP, 
+OSPF, BGP,- and Multicast Routing Protocols. Connecting Devices-Passive Hubs, Repeaters, 
+Active Hubs, Bridges, Routers. 
+ 
+UNIT - IV 
+Transport Layer: Process to Process Delivery, UDP, TCP and SCTP Protocols, Congestion, 
+Congestion Control, Quality of Service. 
+
+R16 B.TECH ECM. 
+ 20
+Application Layer : Domain Name Space, DNS in Internet, Electronic Mail, File Transfer 
+Protocol, WWW, HTTP, SNMP, Multi-Media. 
+ 
+UNIT - V 
+Network Security: Security services, mechanisms and attacks, IPSec, SSL, VPN, Firewall. 
+Bluetooth, Zigbee, IPv4, IPv6. 
+ 
+TEXT BOOKS: 
+1. Data Communications and Networking – Behrouz A. Forouzan, 4 th Edition Mc Graw 
+Hill Education, 2006. 
+2. Computer Networks -- Andrew S Tanenbaum, 4th Edition, Pearson Education.  
+3. Computer Networking: A Top -Down Approach Featuring the Internet, James F.  
+Kurose, K. W. Ross, 3rd Edition, Pearson Education. 
+ 
+REFERENCES: 
+1. Data communications and Networks by william stallings 
+2. Data communication and Networks - Bhusan Trivedi,  Oxford university press 2016. 
+3. An Engineering Approach to Computer Networks -S.Keshav, 2nd Edition, Pearson 
+Education. 
+4. Understanding Communications and Networks, 3rd Edition,  W.A.Shay, Cengage 
+Learning. 
+  
+
+R16 B.TECH ECM. 
+ 21
+MICROPROCESSORS AND MICROCONTROLLERS 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC602PC                          4     0    0    4 
+ 
+Pre-requisites: Nil. 
+ 
+Course Objectives: 
+ To develop an understanding of the operations of microprocessors and micro 
+controllers; machine language programming and interfacing techniques. 
+ 
+Course Outcomes: 
+ Understands the internal architecture and organization of 8086, 8051 and ARM 
+processors/controllers. 
+ Understands the interfacing techniques to 8086 and 8051 and can develop assembly 
+language programming to design microprocessor/ micro controller based systems. 
+ 
+UNIT - I 
+8086 Architecture: 8086 Architecture-Functional diagram, Register Organization, Memory 
+Segmentation, Programming Model, Memory addresses, Physical Memory Organization, 
+Architecture of 8086, Signal descriptions of 8086, interrupts of 8086. 
+Instruction Set and Assembly Language Programming of 8086 : Instruction formats, 
+Addressing modes,  Instruction Set, Assembler Directives, Macros, and Simple Programs 
+involving Logical, Branch and Call Instructions, Sorting, String Manipulations. 
+ 
+UNIT - II 
+Introduction to Microcontrollers: Overview of 8051 Microcontroller, Architecture, I/O 
+Ports, Memory Organization, Addressing Modes and Instruction set of 8051. 
+8051 Real Time Control:  Programming Timer Interrupts, Programming External Hardware 
+Interrupts, Programming the Serial Communication Interrupts, Programming 8051 Timers 
+and Counters 
+ 
+UNIT – III 
+I/O And Memory Interface: LCD, Keyboard, External Memory RAM, ROM Interface, 
+ADC, DAC Interface to 8051. 
+Serial Communication and Bus Interface: Serial Communication Standards, Serial Data 
+Transfer Scheme, On board Communication Interfaces -I2C Bus, SPI Bu s, UART; External 
+Communication Interfaces-RS232,USB. 
+ 
+UNIT – IV 
+ARM Architecture: ARM Processor fundamentals, ARM Architecture – Register, CPSR, 
+Pipeline, exceptions and interrupts interrupt vector table, ARM instruction set – Data 
+processing, Branch inst ructions, load store instructions, Software interrupt instructions, 
+
+R16 B.TECH ECM. 
+ 22
+Program status register instructions, loading constants, Conditional execution, Introduction to 
+Thumb instructions. 
+ 
+UNIT – V 
+Advanced ARM Processors: Introduction to CORTEX Processor and its architecture, 
+OMAP Processor and its Architecture. 
+ 
+TEXT BOOKS: 
+1. Advanced Microprocessors and Peripherals – A. K. Ray and K.M. Bhurchandani, 
+MHE, 2nd Edition 2006. 
+2. The 8051 Microcontroller, Kenneth. J. Ayala, Cengage Learning, 3rd Ed. 
+3. ARM System Develop ers guide, Andrew N SLOSS, Dominic SYMES, Chris 
+WRIGHT, Elsevier, 2012 
+ 
+REFERENCE BOOKS: 
+1. Microprocessors and Interfacing, D. V. Hall, MGH, 2nd Edition 2006. 
+2. Introduction to Embedded Systems, Shibu K.V, MHE, 2009 
+3. The 8051 Microcontrollers, Architecture and Programming and Applications -K. Uma  
+Rao, Andhe Pallavi, Pearson, 2009. 
+ 
+
+R16 B.TECH ECM. 
+ 23
+DIGITAL SIGNAL PROCESSING 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC603PC                          4     0    0    4 
+ 
+Course Objectives: This course is an essential course that provides design techniques for 
+processing all type of signals in various fields. The main objectives are: 
+ To provide background and fundamental material for the analysis and processing of 
+digital signals. 
+ To familiarize the relationships between continuous -time and discrete time signals 
+and systems. 
+ To study fundamentals of time, frequency and Z -plane analysis and to discuss the 
+inter-relationships of these analytic method. 
+ To study the designs and structures of digital (IIR and FIR) filters from analysis to 
+synthesis for a given specifications. 
+ The impetus is to introduce a few real-world signal processing applications. 
+ To acquaint in FFT algorithms, Multi -rate signal processing techniques and finit e 
+word length effects. 
+ 
+Course Outcomes: On completion of this subject, the student should be able to: 
+ Perform time, frequency, and Z -transform analysis on signals and systems. 
+ Understand the inter-relationship between DFT and various transforms. 
+ Understand the significance of various filter structures and effects of round off errors. 
+ Design a digital filter for a given specification. 
+ Understand the fast computation of DFT and appreciate the FFT processing. 
+ Understand the tradeoffs between normal a nd multi rate DSP techniques and finite 
+length word effects. 
+ 
+UNIT - I 
+Introduction: Introduction to Digital Signal Processing: Discrete Time Signals & Sequences, 
+conversion of continuous to discrete signal, Normalized Frequency ,  Linear Shift Invariant 
+Systems, Stability, and Causality, linear differential equation to difference equation , Linear 
+Constant Coefficient Difference Equations, Frequency Domain Representation of Discrete 
+Time Signals and Systems 
+Realization of Digital Filters:  Applications of Z – Transforms, Solution of Difference 
+Equations of Digital Filters, System Function, Stability Criterion, Frequency Response of 
+Stable Systems, Realization of Digital Filters – Direct, Canonic, Cascade and Parallel Forms. 
+ 
+UNIT - II 
+Discrete Fourier Transforms: Properties of DFT, Linear Convolution of Sequences using 
+DFT, Computation of DFT: Over -Lap Add Method, Over -Lap Save Method, Relation 
+between DTFT, DFS, DFT and Z-Transform. 
+
+R16 B.TECH ECM. 
+ 24
+Fast Fourier Transforms:  Fast Fourier Transforms (FFT) - Radix-2 Decimation -in-Time 
+and Decimation-in-Frequency FFT Algorithms, Inverse FFT, and FFT with General Radix-N. 
+ 
+UNIT - III 
+IIR Digital Filters:  Analog filter approximations – Butterworth and Chebyshev, Design of 
+IIR Digital Filters from Analog Filters, Step and Impulse Inva riant Techniques, Bilinear 
+Transformation Method, Spectral Transformations. 
+ 
+UNIT - IV 
+FIR Digital Filters:  Characteristics of FIR Digital Filters, Frequency Response, Design of 
+FIR Filters: Fourier Method, Digital Filters using Window Techniques, Frequenc y Sampling 
+Technique, Comparison of IIR & FIR filters. 
+ 
+UNIT - V 
+Multirate Digital Signal Processing:  Introduction, Down Sampling,  Decimation, 
+Upsampling, Interpolation, Sampling Rate Conversion, Conversion of Band Pass Signals, 
+Concept of Resampling, Applications of  Multi Rate Signal Processing. 
+Finite Word Length Effects: Limit cycles, Overflow Oscill ations, Round -off Noise in IIR 
+Digital Filters, Computational Output Round Off  Noise, Methods to Prevent Overflow, 
+Trade Off Between Round Off and Overflow Noise, Measurement of Coefficient 
+Quantization Effects through Pole-Zero Movement, Dead Band Effects. 
+ 
+TEXT BOOKS: 
+1. Digital Signal Processing, Principles, Algorithms, and Applications: John G. Proakis, 
+Dimitris G. Manolakis, Pearson Education / PHI, 2007. 
+2. Discrete Time Signal Processing – A. V. Oppenheim and R.W. Schaffer, PHI, 2009 
+3. Fundamentals of Digital Signal Processing – Loney Ludeman, John Wiley, 2009 
+ 
+REFERENCES: 
+1. Digital Signal Processing – Fundamentals and Applications – Li Tan, Elsevier, 2008 
+2. Fundamentals of Digital Signal Processing using MATLAB – Robert J. Schilling, 
+Sandra L. Harris, Thomson, 2007 
+3. Digital Signal Processing - A Practical approach, Emmanuel C. Ifeachor and Barrie 
+W. Jervis, 2nd Edition, Pearson Education, 2009 
+ 
+  
+
+R16 B.TECH ECM. 
+ 25
+COMPUTER ORGANIZATION 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EM611PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To understand basic components of computers. 
+ To understand the architecture of 8086 processor. 
+ To understand the instruction sets, instruction formats and various addressing modes 
+of 8086. 
+ To understand the representation of data at the machine level and how computations 
+are performed at machine level. 
+ To understand the memory organization and I/O organization. 
+ To understand the parallelism both in terms of single and multiple processors. 
+ 
+Course Outcomes: 
+ Able to understand the basic components and the design of CPU, ALU and Contr ol 
+Unit. 
+ Ability to understand memory hierarchy and its impact on computer 
+cost/performance. 
+ Ability to understand the advantage o f instruction level parallelism and pipelining for 
+high performance Processor design. 
+ Ability to understand the instruction set, instruction formats and addressing modes of 
+8086. 
+ Ability to write assembly language programs to solve problems. 
+ 
+UNIT - I 
+Digital Computers: Introduction, Block diagram of Digital Computer, Definition of 
+Computer Organization, Computer Design and Computer Architecture. 
+Basic Computer Organization and Design:  Instruction codes, Computer Registers, 
+Computer instructions, Timing and Control, Instruction cycle , Memory  Reference 
+Instructions, Input – Output and Interrupt, Complete Computer Description. 
+Micro Programmed Control:  Control memory, Address sequencing, micro program 
+example, design of control unit. 
+ 
+UNIT - II 
+Central Processing Unit: The 8086 Processor Architecture, Register organization, Physical 
+memory organization, General Bus Operation, I/O Addressing Capability, Special Processor 
+Activities, Minimum and Maximum mode system and timings. 
+8086 Instruction Set and Assembler Directives -Machine language instruction formats, 
+Addressing modes, Instruction set of 8086, Assembler directives and operators.  
+ 
+
+R16 B.TECH ECM. 
+ 26
+ 
+UNIT - III 
+Assembly Language Programming with 8086 - Machine level programs, Machine coding the 
+programs, Programming with an assembler, Assembly Language example programs. 
+Stack structure of 8086, Interrupts and Interrupt service routines, Interrupt cycle of 8086, 
+Interrupt programming, Passing parameters to procedures, Macros, Timings and Delays.  
+  
+UNIT - IV 
+Computer Arithmetic: Introduction, Addition and Subtraction, Multiplication Algorithms, 
+Division Algorithms, Floating - point Arithmetic operations. 
+Input-Output Organization:  Peripheral Devices , Input-Output Interface, Asynchronous 
+data transfer, Modes of Transfer, Priority Interrupt, Direct memory Access, Input –Output 
+Processor (IOP),Intel 8089  IOP. 
+ 
+UNIT - V 
+Memory Organization: Memory Hierarchy, Main Memory, Auxiliary memory, Associate 
+Memory, Cache Memory. 
+Pipeline and Vector Processing:  Parallel Processing, Pipelining, Arithmetic Pipeline, 
+Instruction Pipeline, RISC Pipeline, Vector Processing, Array Processors. 
+Multi Processors:  Characteristics of Multiprocessors, Interconnection Structures, Int er 
+processor arbitration, Inter processor communication, and synchronization. 
+ 
+TEXT BOOKS: 
+1. Computer System Architecture, M. Moris Mano, Third Edition, Pearson. (UNITS-I 
+, IV , V) 
+2. Advanced Microprocessors and Peripherals, K M Bhurchandi, A.K Ray ,3 rd edition, 
+McGraw Hill India Education Private Ltd. (UNITS - II, III). 
+ 
+REFERENCES:  
+1. Microprocessors and Interfacing, D V Hall, SSSP Rao, 3 rd edition, McGraw Hill 
+India Education Private Ltd. 
+2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky: Computer Organization, 5 th 
+Edition, Tata McGraw Hill, 2002 
+3. Computer Organization and Architecture, William Stallings, 9th Edition, Pearson. 
+4. David A. Patterson, John L. Hennessy: Computer Organization and Design – The 
+Hardware / Software Interface ARM Edition, 4th Edition, Elsevier, 2009. 
+ 
+
+R16 B.TECH ECM. 
+ 27
+DATABASE MANAGEMENT SYSTEMS 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EM612PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To understand the basic concepts and the applications of database systems. 
+ To master the basics of SQL and construct queries using SQL. 
+ To understand the relational database design principles. 
+ To become familiar with the basic issues of transaction processing  and concurrency 
+control. 
+ To become familiar with database storage structures and access techniques. 
+ 
+Course Outcomes: 
+ Demonstrate the basic elements of a relational database management system. 
+ Ability to identify the data models for relevant problems. 
+ Ability to design entity relationship model and convert entity relationship diagrams 
+into RDBMS and formulate SQL queries on the data. 
+ Apply normalization for the development of application software. 
+ 
+UNIT - I 
+Introduction: Database System Applications, Purpose of Database Systems, View of Data, 
+Database Languages – DDL, DML, Relational Databases, Database Design,  Data Storage 
+and Querying, Transaction Management, Database Architecture, Data Mining and 
+Information Retrieval, Specialty Databases, Database Users and Administrators,  History of 
+Database Systems. 
+Introduction to Data base design:  Database Design and ER diagrams, Entities, Attributes 
+and Entity sets, Relationships and Relationship sets, Additional features of ER Model, 
+Conceptual Design with the ER Model, Conceptual Design for Large enterprises. 
+Relational Model:  Introduction to the Relational Model, Integrity Constraints over 
+Relations, Enforcing Integrity constraints, Querying relational data, Logical data base 
+Design: ER to Relational, Introduction to Views, Destroying /Altering Tables and Views. 
+ 
+UNIT - II 
+Relational Algebra and Calculus : Preliminaries, Relational Algebra, Relational calculus – 
+Tuple relational Calculus, Domain relational calculus, Expressive P ower of Algebra and 
+calculus. 
+SQL: Queries, Constraints, Triggers: Form of Basic SQL Query, UNION,INTERSECT, and 
+EXCEPT, Nested Queries, Aggregate Operators, NULL values  Complex Integrity 
+Constraints in SQL, Triggers and Active Data bases, Designing Active Databases.. 
+
+R16 B.TECH ECM. 
+ 28
+UNIT - III 
+Schema Refinement and Normal Forms : Introduction to Schema Refinement, Functional 
+Dependencies - Reasoning about FDs, Normal Forms, Properties of Decompositions, 
+Normalization, Schema Refinement in Database Design, Other Kinds of Dependencies. 
+ 
+UNIT- IV 
+Transaction Management:  Transactions, Transaction Concept, A Simple Transaction 
+Model, Storage Structure, Transaction Atomicity and Durability, Transaction Isolation, 
+Serializability, Transaction Isolation and Atomicity Transaction Isolation Levels, 
+Implementation of Isolation Levels. 
+Concurrency Control:  Lock–Based Protocols, Multiple Granularity, Timestamp -Based 
+Protocols, Validation-Based Protocols, Multiversion Schemes. 
+Recovery System -Failure Classification, Storage, Recovery an d Atomicity, Recovery 
+Algorithm, Buffer Management,  Failure with loss of nonvolatile storage, Early Lock Release 
+and Logical Undo Operations, Remote Backup systems. 
+ 
+UNIT- V 
+Storage and Indexing:  Overview of Storage and Indexing: Data on External Storage,  File 
+Organization and Indexing, Index Data Structures, Comparison of File Organizations. 
+Tree-Structured Indexing: Intuition for tree Indexes, Indexed Sequential Access Method 
+(ISAM), B+ Trees: A Dynamic Index Structure, Search, Insert, Delete. 
+Hash- Based Indexing:  Static Hashing, Extendible hashing, Linear Hashing, Extendible vs. 
+Linear Hashing. 
+ 
+TEXT BOOKS: 
+1. Data base Management Systems, Raghu Ramakrishnan, Johannes Gehrke, McGraw 
+Hill Education (India) Private Limited, 3 rd Edition. (Part of UNIT -I, UNIT-II, 
+UNIT-III, UNIT-V) 
+2. Data base System Concepts, A. Silberschatz, Henry. F. Korth,  S. Sudarshan, 
+McGraw Hill Education(India) Private Limited l,  6 th edition.( Part of UNIT -I, 
+UNIT- IV) 
+ 
+REFERENCE BOOKS: 
+1. Database Systems, 6 th edition, R Elmasri, Sham kant  B.Navathe,  Pearson 
+Education. 
+2. Database System Concepts, Peter Rob & Carlos Coronel, Cengage Learning. 
+3. Introduction to Database Management, M. L. Gillenson and others, Wiley Student 
+Edition. 
+4. Database Development and Management, Lee Chao, Auerbach pub lications, Taylor 
+& Francis Group. 
+5. Introduction to Database Systems, C. J. Date, Pearson Education. 
+  
+
+R16 B.TECH ECM. 
+ 29
+INFORMATION SYSTEMS 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EM613PE                          3     0    0    3 
+ 
+ 
+UNIT - I  
+Introduction: Definition, Objectives, Functional Overview, Relationship to DBMS, Digital 
+Libraries and Data Warehouses, Information Retrieval System Capabilities - Search, Browse, 
+Miscellaneous. 
+ 
+UNIT - II 
+Cataloging and Indexing : Objectives, Indexing Process, Automatic Indexing, Information 
+Extraction, Data Structures: Introduction, Stemming Algorithms, Inverted File Structures, N -
+Gram Data Structure, PAT Data Structure, Signature File Structure, Hypertext Data Structure 
+- Automatic Indexing: Classes of Automatic Indexing, Statistical Indexing, Natural 
+Language, Concept Indexing, Hypertext Linkages. 
+ 
+UNIT - III 
+Document and Term Clustering : Introduction, Thesaurus Generation, Item Clustering, 
+Hierarchy of Cl usters - User Search Techniques: Search Statements and Binding, Similarity 
+Measures and Ranking, Relevance Feedback, Selective  
+ 
+UNIT - IV 
+Dissemination of Information Search, Weighted Searches of Boolean Systems, Searching the 
+Internet and Hypertext - Information Visualization: Introduction, Cognition and Perception, 
+Information Visualization Technologies. 
+ 
+UNIT - V 
+Text Search Algorithms : Introduction, Software Text Search Algorithms, Hardware Text 
+Search Systems, Information System Evaluation: Introducti on, Measures used in System 
+Evaluation, Measurement Example – TREC Results. 
+ 
+TEXT BOOKS: 
+1. Information Storage and Retrieval Systems: Theory and Implementation by Kowalski, 
+Gerald, Mark T Maybury, Springer. 
+2. Modern Information Retrieval by Ricardo Baeza-Yates, Pearson Education, 2007. 
+3. Information Retrieval: Algorithms and Heuristics by David A Grossman and Ophir 
+Frieder, 2nd Edition, Springer, 2004. 
+ 
+REFERENCES: 
+1. Information Retrieval Data Structures and Algorithms by William B Frakes, Ricardo 
+Baeza-Yates, Pearson Education, 1992. 
+2. Information Storage & Retrieval by Robert Korfhage – John Wiley & Sons. 
+3. Introduction to Information Retrieval by Christopher D. Manning and Prabhakar 
+Raghavan, Cambridge University Press, 2008. 
+ 
+  
+
+R16 B.TECH ECM. 
+ 30
+DATA STRUCTURES 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EM614PE/MT621OE                        3     0    0    3 
+ 
+Course Objectives: 
+ To understand the basic concepts such as Abstract Data Types, Linear and Non Linear 
+Data structures. 
+ To understand the notations used to analyze the Performance of algorithms. 
+ To understand the behavior of data structures such as stacks, queues, trees, hash 
+tables, search trees, Graphs and their representations. 
+ To choose the appropriate data structure for a specified application. 
+ To understand and analyze various searching and sorting algorithms. 
+ To write programs in C to solve problems using data structures such as arrays, linked 
+lists, stacks, queues, trees, graphs, hash tables, search trees. 
+ 
+Course Outcomes: 
+ Learn how to use data structure concepts for realistic problems. 
+ Ability to identify appropriate data structure for solving computing problems in 
+respective language. 
+ Ability to solve problems independently and think critically. 
+ 
+UNIT - I  
+Basic concepts - Algorithm Specification -Introduction, Recursive algorithms, Data 
+Abstraction Performance analysis - time complexity and space complexity, Asymptotic 
+Notation-Big O, Omega and Theta notations, Introduction to Linear and  Non Linear data 
+structures.  
+Singly Linked Lists -Operations-Insertion, Deletion, Concatenating singly linked lists, 
+Circularly linked lists -Operations for Circularly linked lists, Doubly Linked Lists - 
+Operations- Insertion, Deletion. 
+Representation of sin gle, two dimensional arrays, sparse matrices -array and linked 
+representations. 
+ 
+UNIT- II 
+Stack ADT, definition, operations, array and linked implementations in C, applications -infix 
+to postfix conversion, Postfix expression evaluation, recursion implementa tion, Queue ADT, 
+definition and operations ,array and linked Implementations in C, Circular queues -Insertion 
+and deletion operations, Deque (Double ended queue)ADT, array and linked implementations 
+in C.  
+ 
+UNIT- III  
+Trees – Terminology, Representation of Trees, Binary tree ADT, Properties of Binary Trees, 
+Binary Tree Representations -array and linked representations, Binary Tree traversals, 
+Threaded binary trees, Max Priority Queue ADT -implementation-Max Heap -Definition, 
+Insertion into a Max Heap, Deletion from a Max Heap. 
+Graphs – Introduction, Definition, Terminology, Graph ADT, Graph Representations - 
+Adjacency matrix, Adjacency lists, Graph traversals- DFS and BFS. 
+
+R16 B.TECH ECM. 
+ 31
+UNIT- IV  
+Searching- Linear Search, Binary Search, Static Hashing -Introduction, hash tables , hash 
+functions, Overflow Handling. 
+Sorting-Insertion Sort, Selection Sort, Radix Sort, Quick sort, Heap Sort, Comparison of 
+Sorting methods. 
+ 
+UNIT- V  
+Search Trees-Binary Search Trees, Definition, Operations- Searching, Insertion and Deletion, 
+AVL Trees-Definition and Examples, Insertion into an AVL Tree ,B -Trees, Definition, B -
+Tree of order m, operations -Insertion and Searching, Introduction to Red -Black and Splay 
+Trees(Elementary treatment-only Definitions and Examples), Comparison of Search Trees. 
+Pattern matching algorithm- The Knuth-Morris-Pratt algorithm, Tries (examples only). 
+ 
+TEXT BOOKS: 
+1. Fundamentals of Data structures in C, 2 nd Edition, E.  Horowitz, S. Sahni and Susan 
+Anderson-Freed, Universities Press.  
+2. Data structures A Programming Approach  with C, D.  S. Kushwaha and A.  K. Misra, 
+PHI. 
+  
+REFERENCE BOOKS: 
+1. Data structures: A Pseudo  code Approach with C, 2 nd edition, R. F. Gilberg and B.A. 
+Forouzan, Cengage Learning. 
+2. Data structures and Algorithm Analysis in C, 2nd edition, M.A.Weiss, Pearson. 
+3. Data Structures using C, A. M. Tanenbaum,Y. Langsam, M. J. Augenstein, Pearson.  
+4. Data structures and Program Design in C, 2 nd edition, R. Kruse, C. L. Tondo and B.  
+Leung, Pearson. 
+5. Data Structures and Algorithms made easy in JAVA, 2 nd Edition, Narsimha 
+Karumanchi, Career Monk Publications. 
+6. Data Structures using C, R.Thareja, Oxford University Press. 
+7. Data Structures, S. Lipscutz, Schaum’s Outlines, TMH. 
+8. Data structures using C, A. K. Sharma, 2nd edition, Pearson. 
+9. Data Structures using C &C++, R. Shukla, Wiley India. 
+10. Classic Data Structures, D. Samanta, 2nd edition, PHI. 
+11. Advanced Data structures, Peter Brass, Cambridge. 
+ 
+ 
+  
+
+R16 B.TECH ECM. 
+ 32
+COMPUTER NETWORKS LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EM604PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To Understand the functionalities of various layers of OSI model 
+ To understand the operating System functionalities 
+ 
+Course Outcomes: 
+ Ability to understand the encryption and decryption concepts in Linux environment 
+ Ability to apply appropriate algorithm for the finding of shortest route. 
+ Ability to configure the routing table 
+ 
+System/ Software Requirement 
+ Intel based desktop PCs LAN CONNECTED with minimum of 166 MHZ or faster 
+processor with at least 64 MB RAM and 100 MB free disk space  
+ 
+Computer Networks Lab: 
+1. Implement the data link layer framing methods such as character, character stuffing, 
+and bit stuffing. 
+2. Implement on a data set of characters the three CRC polynomials – CRC 12, CRC 16 
+and CRC CCIP . 
+3. Implement Dijkstra‘s algorithm to compute the Shortest path thru a graph. 
+4. Take an example subnet graph with weights indicating delay between nodes. Now 
+obtain Routing table art each node using distance vector routing algorithm 
+5. Take an example subnet of hosts. Obtain broadcast tree for it. 
+6. Take a 64 bit playing text and encrypt the same using DES algorithm. 
+7. Write a program to break the above DES coding 
+8. Using RSA algorithm encrypts a text data and Decrypt the same. 
+  
+
+R16 B.TECH ECM. 
+ 33
+MICROPROCESSORS AND MICROCONTROLLERS LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC605PC                          0     0    3    2 
+ 
+Note: - Minimum of 12 experiments to be conducted. 
+The following programs/experiments are to be writeen for assembler and to be executed the 
+same with 8086 and 8051 kits. 
+ 
+List of Experiments: 
+1. Programs for 16 bit arithmetic operations 8086(using various addressing modes) 
+2. Programs for sorting an array for 8086. 
+3. Programs for searching for a number of characters in a string for 8086. 
+4. Programs for string manipulation for 8086. 
+5. Programs for digital clock design using 8086. 
+6. Interfacing ADC and DAC to 8086. 
+7. Parallel communication between two microprocessor kits using 8255. 
+8. Serial communication between two microprocessor kits using 8251. 
+9. Interfacing to 8086 and programming to control stepper motor. 
+10. Programming using arithmetic, logical and bit manipulation instructions of 8051. 
+11. Program and verify Timer/Counter in 8051. 
+12.  Program and verify interrupt handling in 8051. 
+13.  UART operation in 8051. 
+14. Communication between 8051 kit and PC 
+15. Interfacing LCD to 8051 
+16. Interfacing Matrix/Keyboard to 8051 
+17. Data transfer from peripheral to memory through DMA controller 8237/8257 
+  
+
+R16 B.TECH ECM. 
+ 34
+ 
+ADVANCED ENGLISH COMMUNICATION SKILLS (AECS) LAB  
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EN606HS                          0     0    3    2 
+  
+Introduction: 
+A course on Advanced English Communication Skills (AECS) Lab is considered essential at 
+the third year level of B.Tech and B.  Pharmacy courses. At this stage, the students need to 
+prepare themselves for their career which requires them to listen to, read, sp eak and write in 
+English both for their professional and interpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+ 
+Course Objectives : This Lab focuses on using multi -media instruction for  language 
+development to meet the following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioural skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes: Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus: The following course activities will be conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+ 
+1. Inter-personal Communication and Building Vocabulary - Starting a Conversation 
+– Responding Appropriately and Relevantly – Using Appropriate Body Language – 
+Role Play in Different Situations - Synonyms and Antonyms, One -word Substitutes, 
+Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+2. Reading Comprehensi on –General Vs Local Comprehension, Reading for Facts, 
+Guessing Meanings from Context, , Skimming, Scanning, Inferring Meaning. 
+3. Writing Skills  – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+4. Presentation Skills  – Oral Presentations (individual or group) through JAM 
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+5. Group Discussion and Interview Skills  – Dynamics of Group Discussion, 
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance, 
+Fluency and Organization of Ideas and Rubrics of Evaluation - Concept and Process, 
+
+R16 B.TECH ECM. 
+ 35
+Pre-interview Planning, Opening Strategies, Answering Strategies, I nterview through 
+Tele-conference & Video-conference and Mock Interviews. 
+ 
+Minimum Hardware Requirement: 
+Advanced English Communication Skills (AECS) Laboratory shall have the following 
+infrastructural facilities to accommodate at least 35 students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+ 
+Suggested Software: The software consisting of the prescribed topics elaborated above 
+should be procured and used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+ 
+REFERENCES:             
+1. Kumar, Sanjay and Pushp Lata. English for Effective Communication, Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI 
+Learning Pvt. Ltd., 2011. 
+

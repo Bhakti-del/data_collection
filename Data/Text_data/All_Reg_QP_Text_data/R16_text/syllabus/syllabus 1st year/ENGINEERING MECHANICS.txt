@@ -1,0 +1,47 @@
+ENGINEERING MECHANICS
+B.Tech. I Year I Sem. L   T/P/D  C
+Course Code: ME105ES 3 0/0/0 3
+Pre Requisites: None
+Course Objectives:
+ To understand the resolving forces and moments for a given force system
+ To analyze the types of friction for moving bodies and problems related to friction.
+ To determine the centroid and second moment of area
+UNIT-I
+Introduction to Mechanics : Basic Conce pts, system of Forces Coplanar Concurrent Forces -
+Components in Space Resultant -Moment of Forces and its Application - Couples and
+Resultant of Force Systems. Equilibrium of system of Forces: Free body diagrams, Equations
+of Equilibrium of Coplanar Systems and Spatial Systems.
+UNIT-II
+Friction: Types of friction -Limiting friction -Laws of Friction -static and Dynamic Frictions -
+Motion of Bodies –Wedge Screw, Screw-jack and differential screw –jack.
+UNIT-III
+Centroid and Center of Gravity : Introduction – Centroids of lines – Centroids of area -
+Centroids of Composite figures - Theorem of Pappus -Centre of Gravity of Bodies – Centroids
+of Volumes – Center of gravity of composite bodies.
+Area moments of Inertia : Introduction – Definition of Moment of Inerti a -Polar Moment of
+Inertia – Radius of gyration. Transfer Theorem for moment of inertia – Moments of inertia by
+integration - Moments of Inertia of Composite Figures, Product of Inertia, Transfer Formula
+for Product of Inertia.
+UNIT-IV
+Mass Moment of Inert ia: Introduction - Moment of Inertia of Masses – Radius of gyration -
+Transfer Formula for Mass Moments of Inertia – Mass moments of inertia by integration -
+Mass moment of inertia of composite bodies.
+Virtual Work: Theory of virtual work-Application.
+UNIT-V
+Kinetics: Kinetics of a particle-D’Alemberts principle-Motion in a curved path – work, energy
+and power. Principle of conservation of energy - Kinetics of rigid body in translation, rotation -
+work done-Principle of work-energy-Impulse-momentum.
+Mechanical Vibrations : Definitions, Concepts -Simple Harmonic motion - free vibrations -
+Simple and compound pendulums
+Text Books:
+1. Singer’s Engineering Mechanics Statics and Dynamics/ K. Vijaya Kumar Reddy, J.
+Suresh Kumar/ BSP
+
+2. Engineering Mechanics/ Irving Shames, G. Krishna Mohan Rao / Prentice Hall
+3. Foundations and applications of Engineering Mechanics by HD Ram and AK Chouhan,
+Cambridge publications.
+References:
+1. A Text of Engineering Mechanics  /YVD Rao/ K. Govinda Rajulu/ M. Manzoor Hussain /
+Academic Publishing Company
+2. Engineering Mechanics / Bhattacharyya/ Oxford.
+

@@ -1,0 +1,56 @@
+ 
+ 
+ 
+Code No: 118AA             
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, July - 2021 
+ADHOC AND SENSOR NETWORKS 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) What is a Manet? In what way it is different from conventional Mobile Networks and 
+ Wireless Networks?   
+   b) Distinguish the following design issues of a Manet:   
+ i) Interoperation Vs Interoperation with Internet 
+ ii) Energy Conservation Vs Node Cooperation.     [7+8] 
+ 
+2.a) Compare DSR and DSDV algorithms using the criteria.  
+   b) Illustrate the working of AODV algorithm. What are its pros and cons?   [7+8] 
+ 
+3.a) Explain the p roblem of redundant packet retransmission in Manet broadcast with an 
+ example.  
+   b) Write the algorithmic steps for MPR broadcast algorithm. Illustrate with an example.  
+            [7+8] 
+ 
+4.a) Explain the two Brach Reconstruction (BR) modules of AMRIS, a tree-based multicast 
+ algorithm for Manets.  
+   b) Distinguish the following terms: 
+ i) Sensor   ii) Sensor Node 
+ iii) Sensor Network  iv) Mobile Robots.     [7+8] 
+ 
+5.a) Explain why routing in Wireless Sensor Networks is different and challenging compared 
+ to conventional networks.  
+  b) Illustrate how a CH is decided in LEACH algorithm with a numeric example.  [7+8] 
+ 
+6.a) What are the security challenges in ad hoc and sensor networks?   
+   b) Explain how Diffie-Hellman algorithm is used for key management in Ad hoc and Sensor 
+ networks.           [7+8] 
+ 
+7.a) Write about Sensor Network Programming Challenges.  
+   b) List the features of nesC programming language. Explain any two.    [7+8] 
+ 
+8.a) Compare the two: TinyGALS and TOSSIM.  
+   b) Write about network simulator version 2 (NS2).      [7+8] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+R13 
+

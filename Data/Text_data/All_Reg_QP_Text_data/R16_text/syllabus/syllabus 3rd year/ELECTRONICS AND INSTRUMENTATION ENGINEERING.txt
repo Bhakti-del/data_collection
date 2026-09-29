@@ -1,0 +1,1149 @@
+R16 B.TECH EIE. 
+ 1
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. ELECTRONICS AND INSTRUMENTATION ENGINEERING 
+III YEAR COURSE STRUCTURE AND SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+  
+III YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 EI501PC Industrial Instrumentation 4 0 0 4 
+2 EC502PC Linear and Digital IC Applications 4 0 0 4 
+3 EI503PC Microprocessors and Microcontrollers 4 0 0 4 
+4 SM504MS Fundamentals of Management 3 0 0 3 
+5  Open Elective – I 3 0 0 3 
+6 EI505PC Industrial Instrumentation Lab 0 0 3 2 
+7 EI506PC Linear and Digital IC Applications Lab 0 0 3 2 
+8 EI507PC Microprocessors and Microcontrollers Lab 0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits  21 0 9 24 
+ 
+III YEAR II SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 EI601PC Process Dynamics and Control  4 0 0 4 
+2 EI602PC Analytical Instrumentation 4 0 0 4 
+3 EC603PC Digital Signal Processing 4 0 0 4 
+4  Open Elective-II 3 0 0 3 
+5  Professional Elective-I 3 0 0 3 
+6 EI604PC Process Control Lab 0 0 3 2 
+7 EI605PC Analytical Instrumentation Lab 0 0 3 2 
+8 EN606HS Advanced English Communications Skills 
+Laboratory 
+0 0 3 2 
+  Total Credits 18 0 9 24 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+  
+
+R16 B.TECH EIE. 
+ 2
+Professional Elective – I 
+ 
+EI611PE   Principles of Communications  
+EI612PE   Virtual Instrumentation 
+EI613PE   Object Oriented Programming  through JAVA 
+EI614PE   Hydraulic And Pneumatic Control Systems 
+ 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH EIE. 
+ 3
+INDUSTRIAL INSTRUMENTATION 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EI501PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To impart the knowledge on metrology and different instruments used in industry for 
+length, area, angle roughness/smoothness measurements 
+ To make the students able to analyze velocity, force and torque measuring instruments 
+used in industry 
+ To give the students knowledge about different flow meters, pressure meters, density 
+and level meters used in industry and their principles. 
+ 
+Course Outcomes: Upon successful completion of this course the student will be able to: 
+ Develop the ability to correctly design an instrument and make necessary adjustments 
+for assigned laboratory tasks. 
+ Prepare the standards required for the calibration of certain laboratory instruments and 
+industrial instruments used for pressure, flow, level etc. 
+ 
+UNIT – I 
+Metrology: Measurement of length – Plainness – Area – Diameter – Roughness – Angle – 
+Comparators – Gauge blocks. Optical Methods for length and distance measurements. 
+Velocity, Accele ration And Force Measurement:  Relative velocity – Translational and 
+Rotational velocity measurements – Revolution counters and Timers - Magnetic and 
+Photoelectric pulse counting stroboscopic methods. 
+Accelerometers-different types, Gyroscopes-applications. 
+Force Measurement:  Force measurement – Different methods –Gyroscopic Force 
+Measurement – Vibrating wire Force transducer. 
+ 
+UNIT – III 
+Pressure and Flow Measurement:  Basics of Pressure measurement – Deadweight Gauges 
+and Manometer types – Force-Balance and Vibrating Cylinder Transducers – High and Low 
+Pressure measurement – McLeod Gage, Knudsen Gage, Momentum Transfer Gages, Thermal 
+Conductivity Gages, Ionization Gazes, Dual Gage Techniques,. 
+Flow Measurement: Flow Meters- Head type, Area type (Rota meter), electromagnetic type, 
+Positive displacement type, mass flow meter, ultrasonic type, vertex shedding type, Hotwire 
+anemometer type, Laser Doppler Velocity meter. 
+ 
+UNIT – IV 
+Density and Level Measurement:  Volume Flow meter plus Density measurements – Strain 
+Gauge load cell method – Buoyancy method - Air pressure balance method – Gamma ray 
+method – Vibrating probe method. Direct Mass Flow meters. 
+Gauge glass techniques coupled with photoelectric readout system -Float type level 
+indication-Different schemes -Boiler drum level measurement -Differential pressure method -
+
+R16 B.TECH EIE. 
+ 4
+electrical types of level gauges using resistance, capacitance, nuclear radiation and ultrasonic 
+sensors. 
+ 
+UNIT – V 
+Radiation and Humidity Measurement:  Radiation fundamentals, Radiation detectors, 
+Radiation Thermometers, Optical Pyrometer, sound -Level Meter, Microphones, Time, 
+Frequency and Phase -angle measurement, Liquid level, Humidity terms -Dry and Wert bulb  
+psychrometers -Hot wire electrode type hygrometer -Dew cell-Electrolysis type Hygrometer -
+Commercial type dew point meter -Moisture terms -Different methods of moisture 
+measurement-Moisture measurement. 
+ 
+TEXT BOOKS: 
+1. Measurement Systems – Applications and Design – by Doeblin E.O., 4/e, McGraw 
+Hill International, 1990. 
+2. Principles of Industrial Instrumentation – Patranabis D. TMH. End edition 1997. 
+ 
+REFERENCE BOOKS: 
+1. Process Instruments and Control Handbook – by Considine D.M., 4/e, McGraw Hill 
+International, 1993. 
+2. Mechanical and Industrial Measurements – by Jain R.K., Khanna Publishers, 1986. 
+3. Instrument Technology, vol. I – by Jones E.B., Butterworths, 1981. 
+ 
+  
+
+R16 B.TECH EIE. 
+ 5
+LINEAR AND DIGITAL IC APPLICATIONS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC502PC                          4     0    0    4 
+ 
+Pre-requisites: Digital Logic and Pulse Circuits 
+ 
+Course Objectives: The main objectives of the course are: 
+ To introduce the basic building blocks of linear integrated circuits. 
+ To teach the linear and non - linear applications of operational amplifiers. 
+ To introduce the theory and applications of analog multipliers and PLL. 
+ To teach the theory of ADC and DAC 
+ To introduce the concepts of waveform generation and introduce some special 
+function ICs. 
+ To understand and implement the working of basic digital circuits 
+ 
+Course Outcomes: On completion of this course, the students will have: 
+ A thorough understanding of operational amplifiers with linear integrated circuits. 
+ Understanding of the different families of digital integrated circuits and their 
+characteristics.  
+ Also students will be able to design circuits using operational amplifiers for various 
+applications.  
+ 
+UNIT - I 
+Operational Amplifier: Ideal and Practical Op -Amp, Op-Amp Characteristics, DC and AC 
+Characteristics, Features of 741 Op -Amp, Modes of Operation - Inverting, Non -Inverting, 
+Differential, Instrumentation Amplifier, AC Amplifier, Differentiators and Integrators, 
+Comparators, Schmitt Trigger, Introduction to V oltage Regulators, Features of 723 Regulator, 
+Three Terminal V oltage Regulators. 
+ 
+UNIT - II   
+Op-Amp, IC-555 & IC 565 Applications:  Introduction to Active Filters, Characteristics of 
+Band pass, Band reject and All Pass Filters, Analysis of 1st order  LPF & HPF Butterworth 
+Filters, Waveform Generators – Triangular, Sawtooth, Square Wave,  IC555 Timer - 
+Functional Diagram, Monostable and Astable Operations, Applications, IC565 PLL - Block 
+Schematic, Description of Individual Blocks, Applications. 
+ 
+UNIT - III   
+Data Converters: Introduction, Basic DAC techniques, Different types of DACs -Weighted 
+resistor DAC, R -2R ladder DAC, Inverted R -2R DAC, Different Types of ADCs - Parallel 
+Comparator Type ADC, Counter Type ADC, Successive Approximation ADC and Dual 
+Slope ADC,  DAC and ADC Specifications. 
+ 
+
+R16 B.TECH EIE. 
+ 6
+UNIT - IV   
+Digital Integrated Circuits: Classification of Integrated Circuits, Comparison of Various 
+Logic Families, CMOS Transmission Gate, IC interfacing - TTL Driving CMOS & CMOS 
+Driving TTL, Combinational Logic I Cs – Specifications and Applications of TTL -74XX & 
+CMOS 40XX Series ICs - Code Converters, Decoders, Demultiplexers, LED & LCD 
+Decoders with Drivers , Encoders, Priority Encoders, Multiplexers, Demultiplexers, Priority 
+Generators/Checkers, Parallel Binary Adder/Subtractor, Magnitude Comparators.   
+ 
+UNIT - V  
+Sequential Logic ICs and Memories: Familiarity with commonly available 74XX & CMOS 
+40XX Series ICs – All Types of Flip -flops, Synchronous Counters, Decade Counters, Shift 
+Registers.  
+Memories - ROM Architecture, Types of ROMS & Applications, RAM Architecture, Static 
+& Dynamic RAMs. 
+ 
+TEXT BOOKS: 
+1. Op-Amps & Linear ICs – Ramakanth A. Gayakwad, PHI, 2003. 
+2. Operational Amplifiers - George Clayton and Steve Winder, 5th Ed, Elsevier 
+ 
+REFERENCE BOOKS: 
+1. Linear Integrated Circuits –D. Roy Chowdhury, New Age International (p) Ltd, 2 nd 
+Ed., 2003. 
+2. Modern Digital Electronics – RP Jain – 4/e – TMH, 2010.  
+3. Digital Fundamentals – Floyd and Jain, Pearson Education, 8th Edition, 2005 
+4. Digital Design Principles and Practices – John. F. Wakerly 3/e, 2005.  
+5. Operational Amplifiers with Linear Integrated Circuits, 4/e William D.  Stanley, 
+Pearson Education India, 2009. 
+  
+  
+
+R16 B.TECH EIE. 
+ 7
+MICROPROCESSORS AND MICROCONTROLLERS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EI503PC                          4     0    0    4 
+ 
+Pre-requisites: Nil. 
+ 
+Course Objectives: 
+ To develop an understanding of the operations of microprocessors and micro 
+controllers; machine language programming and interfacing techniques. 
+ 
+Course Outcomes: 
+ Understands the internal architecture and organization of 8086, 8051 and ARM 
+processors/controllers. 
+ Understands the interfacing techniques to 8086 and 8051 and can develop assembly 
+language programming to design microprocessor/ micro controller based systems. 
+ 
+UNIT - I 
+8086 Architecture: 8086 Architecture-Functional diagram, Register Organization, Memory 
+Segmentation, Programming Model, Memory addresses, Physical Memory Organization, 
+Architecture of 8086, Signal descriptions of 8086, interrupts of 8086. 
+Instruction Set and Assembly Language Programming of 8086 : Instruction formats, 
+Addressing modes, Instruction Set, Assembler Directives, Macros, and Simple Programs 
+involving Logical, Branch and Call Instructions, Sorting, String Manipulations. 
+ 
+UNIT - II 
+Introduction to Microcontrollers: Overview of 8051 Microcontroller, Architecture, I/O 
+Ports, Memory Organization, Addressing Modes and Instruction set of 8051. 
+8051 Real Time Control:  Programming Timer Interrupts, Programming Ex ternal Hardware 
+Interrupts, Programming the Serial Communication Interrupts, Programming 8051 Timers 
+and Counters 
+ 
+UNIT – III 
+I/O And Memory Interface: LCD, Keyboard, External Memory RAM, ROM Interface, 
+ADC, DAC Interface to 8051. 
+Serial Communication and Bus Interface: Serial Communication Standards, Serial Data 
+Transfer Scheme, On board Communication Interfaces -I2C Bus, SPI Bus, UART; External 
+Communication Interfaces-RS232,USB. 
+ 
+UNIT – IV 
+ARM Architecture: ARM Processor fundament als, ARM Architecture – Register, CPSR, 
+Pipeline, exceptions and interrupts interrupt vector table, ARM instruction set – Data 
+processing, Branch instructions, load store instructions, Software interrupt instructions, 
+
+R16 B.TECH EIE. 
+ 8
+Program status register instructions, loading constants, Conditional execution, Introduction to 
+Thumb instructions. 
+ 
+UNIT – V 
+Advanced ARM Processors: Introduction to CORTEX Processor and its architecture, 
+OMAP Processor and its Architecture. 
+ 
+TEXT BOOKS: 
+1. Advanced Microprocessors and Periphera ls – A. K. Ray and K.M. Bhurchandani, 
+MHE, 2nd Edition 2006. 
+2. The 8051 Microcontroller, Kenneth. J. Ayala, Cengage Learning, 3rd Ed. 
+3. ARM System Developers guide, Andrew N SLOSS, Dominic SYMES, Chris 
+WRIGHT, Elsevier, 2012 
+ 
+REFERENCE BOOKS: 
+1. Microprocessors and Interfacing, D. V. Hall, MGH, 2nd Edition 2006. 
+2. Introduction to Embedded Systems, Shibu K.V, MHE, 2009 
+3. The 8051 Microcontrollers, Architecture and Programming and Applications -K. Uma  
+Rao, Andhe Pallavi, Pearson, 2009. 
+  
+
+R16 B.TECH EIE. 
+ 9
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To understand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing, Leading, 
+Motivation, and Control aspects are learnt in  this course. The students can explore the 
+Management Practices in their domain area. 
+  
+UNIT - I 
+Introduction to Management: Definition, Nature and Scope, Functions, Managerial Roles, 
+Levels of Management, Managerial Skills, Challenges of Management; Evolu tion of 
+Management- Classical Approach - Scientific and Administrative Management; The 
+Behavioral approach; The Quantitative approach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT - II 
+Planning and Decision Making: General Framework for Planning - Planning Process, Types 
+of Plans, Management by Objectives; Development of Business Strategy. Decision making 
+and Problem Solving - Programmed and Non Programmed Decisions, Steps in Problem 
+Solving and Decision Making; Bounded Rationality and Inf luences on Decision Making; 
+Group Problem Solving and Decision Making, Creativity and Innovation in Managerial 
+Work.  
+ 
+UNIT - III 
+Organization and HRM: Principles of Organization: Organizational Design & 
+Organizational Structures; Departmentalization, Delegation; Empowerment, Centralization, 
+Decentralization, Recentralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent Management, Talent 
+Management Models and Strategic Human Resource Planning; Recruitment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT - IV 
+Leading and Motivation: Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situational Leadership, Leadership Skills, Le ader as Mentor and Coach, 
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH EIE. 
+ 10
+Motivation - Types of Motivation; Relationship between Motivation, Performance and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor Theory, 
+Theory X and Theory Y. 
+ 
+UNIT - V 
+Controlling: Control, Types and Strategies for Control, Steps in Control Process, Budgetary 
+and Non  - Budgetary Controls. Characteristics of Effective Controls, Establishing control 
+systems, Control frequency, and Methods.  
+ 
+TEXT BOOKS:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+REFERENCES:  
+1.  Essentials of Management, Koontz Kleihrich, Tata Mc - Graw Hill.  
+2.  Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012. 
+  
+
+R16 B.TECH EIE. 
+ 11
+INDUSTRIAL INSTRUMENTATION LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EI505PC                          0     0    3    2 
+ 
+Course Outcomes: The student is expected to acquire the knowledge is instruments used in 
+any industry and to learn latest simulation software to help his design. 
+ 
+Minimum of Twelve experiments should be conducted. 
+ 
+1. Linearization of Thermistor 
+2. Study of Level monitoring Instruments using PLC. 
+3. Calibration of P to I & I to P converters. 
+4. RPM indicator using Stroboscope and Tachometer 
+5. Torque Measurement using Gyroscope. 
+6. Torque measurement using Torsion bar 
+7. Measurement of Humidity. 
+8. Measurement of fluid density and fluid flow 
+9. Measurement of velocity of liquid using Ultrasonic (Doppler effect) method and also 
+flow measurement. 
+10. Measurement of Level using Capacitance method/Transducer. 
+11. Displacement measurement using inductive pickup and capacitive pickup. 
+12. Measurement of Sound intensity. Measurement of aceleration using piezoelectric 
+crystal. 
+13. Measurement of Blood Pressure. 
+14. Measurement of EGG. 
+ 
+  
+
+R16 B.TECH EIE. 
+ 12
+ LINEAR AND DIGITAL IC APPLICATIONS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EI506PC                          0     0    3    2 
+ 
+Note: 
+To perform any twelve experiments (choosing at least five from each part).  
+Verify the functionality of the IC in the given application. 
+ 
+PART - I 
+Linear IC Experiments 
+1. OP AMP Applications – Adder, Subtractor, Comparators. 
+2. Integrator and Differentiator Circuits using IC 741. 
+3. Active Filter Applications – LPF, HPF (first order) 
+4. IC 741 Waveform Generators – Sine, Square wave and Triangular waves. 
+5. IC 555 Timer – Monostable and Astable Multivibrator Circuits. 
+6. Schmitt Trigger Circuits – using IC 741  
+7. IC 565 – PLL Applications. 
+8. Voltage Regulator using IC 723, Three Terminal Voltage Regulators – 7805, 7809, 
+7912. 
+ 
+PART - II 
+Digital IC Applications 
+1. 3-8 decoder using 74138 
+2. 4-bit comparator using 7485. 
+3. 8*1 Multiplexer using 74151 and 2*4 Demultiplexer using 74155. 
+4. D, JK Flip Flops using 7474, 7483. 
+5. Decade counter using 7490. 
+6. UP/DOWN counter using 74163 
+7. Universal shift registers using 74194/195. 
+8. RAM (16*4) using 74189 (Read and Write operations). 
+ 
+EQUIPMENT REQUIRED: 
+1. 20 MHz/ 40 MHz/60 MHz Oscilloscope. 
+2. 1 MHz Function Generator (Sine, Square, Triangular and TTL). 
+3. Regulated Power Supply. 
+4. Multimeter / Volt Meter. 
+  
+
+R16 B.TECH EIE. 
+ 13
+MICROPROCESSORS AND MICROCONTROLLERS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EI507PC                          0     0    3    2 
+ 
+Note: - Minimum of 12 experiments to be conducted. 
+The following programs/experiments are to be written for assembler and to be executed the 
+same with 8086 and 8051 kits. 
+ 
+List of Experiments: 
+1. Programs for 16 bit arithmetic operations 8086(using various addressing modes) 
+2. Programs for sorting an array for 8086. 
+3. Programs for searching for a number of characters in a string for 8086. 
+4. Programs for string manipulation for 8086. 
+5. Programs for digital clock design using 8086. 
+6. Interfacing ADC and DAC to 8086. 
+7. Parallel communication between two microprocessor kits using 8255. 
+8. Serial communication between two microprocessor kits using 8251. 
+9. Interfacing to 8086 and programming to control stepper motor. 
+10. Programming using arithmetic, logical and bit manipulation instructions of 8051. 
+11. Program and verify Timer/Counter in 8051. 
+12.  Program and verify interrupt handling in 8051. 
+13.  UART operation in 8051. 
+14. Communication between 8051 kit and PC 
+15. Interfacing LCD to 8051 
+16. Interfacing Matrix/Keyboard to 8051 
+17. Data transfer from peripheral to memory through DMA controller 8237/8257 
+  
+
+R16 B.TECH EIE. 
+ 14
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MC500HS                          3     0    0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers. The students will learn the rights and responsibilities 
+as an employee, team member and a global citizen.  
+  
+UNIT - I  
+Introduction to Professional Ethics: Basic Concepts, Governing Ethics, Personal & 
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelligence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, Professional Accountabilities, Professional Success, Ethics 
+and Profession. 
+ 
+UNIT - II 
+Basic Theories: Basic Ethical Principles, Moral Developments, Deontology, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, Moral Absolution, Moral Rationalism, Moral 
+Pluralism, Ethical Egoism, Feminist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT - III 
+Professional Practices in Engineering: Professions and Norms of Professional Conduct, 
+Norms of Professional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC-10 Crash and Kansas City Hyatt Regency 
+Walk away Collapse. 
+ 
+UNIT - IV 
+Work Place Rights & Responsibilities, Ethics in changing domains of Research, Engineers 
+and Managers; Organizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing domains of research - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+ 
+
+R16 B.TECH EIE. 
+ 15
+UNIT - V 
+Global issues in Professional Ethics: Introduction – Current Scenario, Technology 
+Globalization of MNCs, International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governance, Sustainable Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution, Ethics in Manufacturing and Marketing, Media Ethics; War Ethics; Bio 
+Ethics, Intellectual Property Rights.     
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R. Subramanian, Oxford University Press, 2015. 
+2. Ethics in Engineering Practice & Research, Caroline Whitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES  
+1. Engineering Ethics, Concepts Cases: Charles E Harris Jr., Michael S Pritchard, 
+Michael J Rabins, 4e , Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008. 
+  
+
+R16 B.TECH EIE. 
+ 16
+PROCESS DYNAMICS AND CONTROL 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI601PC                          4     0    0    4 
+ 
+Course Objective s: To acquire the knowledge on dynami cs of simple processes, control 
+actions, control settings, operation of control elements and control valves. 
+ 
+Course Outcomes: Upon completion of this course the student shall be able to understand 
+the concept how control actions are performed in the industries. 
+ 
+UNIT – I  
+Process Dynamics: Process variables – Load variables – Dynamics of simple pressure, flow 
+level and temperature process – interacting and non -interacting systems – continuous and 
+batch process – self-regulation – Servo and Regulator operation - problems. 
+ 
+UNIT – II 
+Control Actions and Controllers:  Basic control actions – characteristics of two position, 
+three position, Proportional, Single speed floating, Integral and Derivative control modes – 
+PI, PD, PID control modes – Problems. 
+Types of Controllers:  Pneumatic, Hydraulic and Electronic Controllers to realize various 
+control actions. 
+ 
+UNIT – III 
+ Controller Settings: Evaluation criteria – 1/4th decay ratio, IEA, ISE, ITAE - determination 
+of optimum settings for mathematically described process using time response and frequency 
+response. 
+Tuning of Controllers: Tuning process curve reaction method – continuous oscillation 
+method – damped oscillation method – problems 
+ 
+UNIT – IV 
+Final Control Elements:  I/P Converter, P/I converter  - pneumatic, electric and hydraulic 
+actuators – valve Positioner 
+Control Valves:  Control valves – characteristic of control valves – valve body – Globe, 
+Butterfly, diaphragm, Ball valves – Control valve sizing – Cavitations, flashing - problems. 
+ 
+UNIT –V  
+Multiloop Control System:  Feed forward control – Ratio control – Cascade control – Split 
+range – Multivariable control and examples from distillation column and Boiler system. 
+ 
+TEXT BOOKS: 
+1. Chemical Process Control: An introduction to Theory and Practice – by 
+Stephanopoulos, Prentice Hall, New Delhi, 1999. 
+
+R16 B.TECH EIE. 
+ 17
+2. Process Dynamic Control - Dale E. Seborg, Thomas F. Edgar, and Duncan A. 
+Mellichamp, 2/3 Ed, JW 
+ 
+REFERENCE BOOKS: 
+1. Process Control, Third Edition – Liptak B.G., Chilton Book Company, Pennsylvania, 
+1995. 
+2. Process control – by Pollard A., Heinemann Educational Books, London, 1971. 
+3. Automatic Process Control – by Eckman D.P. , Wiley Eastern Ltd., New Delhi, 1993. 
+4. Process Control – Harriott P. , TMH, 1991. 
+  
+
+R16 B.TECH EIE. 
+ 18
+ANALYTICAL INSTRUMENTATION 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI602PC                          4     0    0    4 
+ 
+Course Objective s: To introduce spectroscopic methods, Chemical Instrumental Analysis, 
+Electro-analytical methods to numerous applications ranging across healthcare, 
+environmental, and pharmaceutical industries. 
+ 
+Course Outcomes: The student is expected to acquire the knowledge is instruments used in 
+Pharma and chemical Industries. 
+ 
+UNIT – I  
+pH and Conductivity & Dissolved Component Analyzer: Conductivity meters – pH 
+meters – Dissolved oxygen, hydrogen analyzers – Sodium analyzer – Silica analyzer and 
+sampling systems. 
+Gas Analyzers: Thermal conductivity types – CO monitor – NOX analyzer – H 2 S analyzer 
+system and sampling – Industrial analyzer circuits, Theory and problems on Beer – Lamberts 
+Law. 
+ 
+UNIT – II  
+Chromatography – I: Gas chromatography – Liquid chromatography – their principles and 
+applications. 
+Chromatography – II: Oxygen analyzer – paramagnetic type – detectors and sampling 
+systems. 
+ 
+UNIT – III  
+Spectrophotometers – I: UV, VIS Spectrophotometers – Single beam and double beam 
+instruments – Instrumentation associated with the above Spectrophotometers – Sources and 
+detectors – Sources and detectors for IR Spectrophotometers. 
+ 
+UNIT – IV  
+Spectrophotometers – II: FT IR Spectrometer – Flame emission and atomic absorption 
+Spectrophotometer – Atomic emission Spectrophotometer - sources for Flame Photometers 
+and online calorific value measurements. 
+ 
+UNIT – V  
+Principle of Nuclear Magnetic Resonance:  Instrumentation associated with NMR 
+Spectrophotometer – Introduction to mass spectrophotometers, Principle, and brief discussion 
+on ELECTRON SPIN RESONANCE (ESR.) 
+Special Analytical Instruments: Nuclear radiation detectors – Ionization chamber – GM 
+Counter – Proportional Counter – Solid state detectors ND PMT. 
+ 
+ 
+
+R16 B.TECH EIE. 
+ 19
+TEXT BOOKS: 
+1. Handbook of Analytical Instruments – by Khandpur. TMH. 
+2. Analytical Instrumentation by Bela G. Liptak, CRC Press -1994. 
+ 
+REFERENCE BOOKS: 
+1. Instrumental Methods of Analysis – by Willa rd H.H., Merrit L.L., Dean J.A. and 
+Seattle F.L., CBS Publishing and Distributors, 6/e, 1995. 
+2. Instrument Technology – by Jones B.E., Butterworth Scientific Publ., London, 1987. 
+3. Mechanical and Industrial Measurements – by Jain R.K., Khanna Publishing, New 
+Delhi, 2/e, 1992. 
+4. Principles of Instrumental Analysis – by Skoog D.A. and West D.M., Holt Sounder 
+Publication, Philadelphia, 1985. 
+5. Instrumental Analysis – by Mann C.K., Vickerks T.J. &  Gullick W.H., Harper and 
+Row Publishers, New York, 1974. 
+ 
+  
+
+R16 B.TECH EIE. 
+ 20
+DIGITAL SIGNAL PROCESSING 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC603PC                          4     0    0    4 
+ 
+Course Objectives: This course is an ess ential course that provides design techniques for 
+processing all type of signals in various fields. The main objectives are: 
+ To provide background and fundamental material for the analysis and processing of 
+digital signals. 
+ To familiarize the relationships  between continuous -time and discrete time signals 
+and systems. 
+ To study fundamentals of time, frequency and Z -plane analysis and to discuss the 
+inter-relationships of these analytic method. 
+ To study the designs and structures of digital (IIR and FIR) filters from analysis to 
+synthesis for a given specifications. 
+ The impetus is to introduce a few real-world signal processing applications. 
+ To acquaint in FFT algorithms, Multi -rate signal processing techniques and finite 
+word length effects. 
+ 
+Course Outcomes: On completion of this subject, the student should be able to: 
+ Perform time, frequency, and Z -transform analysis on signals and systems. 
+ Understand the inter-relationship between DFT and various transforms. 
+ Understand the significance of various filter structures and effects of round off errors. 
+ Design a digital filter for a given specification. 
+ Understand the fast computation of DFT and appreciate the FFT processing. 
+ Understand the tradeoffs between normal and multi rate DSP techniques and finite 
+length word effects. 
+ 
+UNIT - I 
+Introduction: Introduction to Digital Signal Processing: Discrete Time Signals & Sequences, 
+conversion of continuous to discrete signal, Normalized Frequency ,  Linear Shift Invariant 
+Systems, Stability, and Causality, linear diff erential equation to difference equation , Linear 
+Constant Coefficient Difference Equations, Frequency Domain Representation of Discrete 
+Time Signals and Systems 
+Realization of Digital Filters:  Applications of Z – Transforms, Solution of Difference 
+Equations of Digital Filters, System Function, Stability Criterion, Frequency Response of 
+Stable Systems, Realization of Digital Filters – Direct, Canonic, Cascade and Parallel Forms. 
+ 
+UNIT - II 
+Discrete Fourier Transforms: Properties of DFT, Linear Convolution of Sequences using 
+DFT, Computation of DFT: Over -Lap Add Method, Over -Lap Save Method, Relation 
+between DTFT, DFS, DFT and Z-Transform. 
+
+R16 B.TECH EIE. 
+ 21
+Fast Fourier Transforms:  Fast Fourier Transforms (FFT) - Radix-2 Decimation -in-Time 
+and Decimation-in-Frequency FFT Algorithms, Inverse FFT, and FFT with General Radix-N. 
+ 
+UNIT - III 
+IIR Digital Filters:  Analog filter approximations – Butterworth and Chebyshev, Design of 
+IIR Digital Filters from Analog Filters, Step and Impulse Invaria nt Techniques, Bilinear 
+Transformation Method, Spectral Transformations. 
+ 
+UNIT - IV 
+FIR Digital Filters:  Characteristics of FIR Digital Filters, Frequency Response, Design of 
+FIR Filters: Fourier Method, Digital Filters using Window Techniques, Frequency Sampling 
+Technique, Comparison of IIR & FIR filters. 
+ 
+UNIT - V 
+Multirate Digital Signal Processing:  Introduction, Down Sampling,  Decimation, 
+Upsampling, Interpolation, Sampling Rate Conversion, Conversion of Band Pass Signals, 
+Concept of Resampling, Applications of  Multi Rate Signal Processing. 
+Finite Word Length Effects: Limit cycles, Overflow Oscillations , Round -off Noise in IIR 
+Digital Filters, Computational Output Round off Noise, Methods to Prevent Overflow, Trade 
+off between Round Off and Overflow Noise, Measurement of Coefficient Quantization 
+Effects through Pole-Zero Movement, Dead Band Effects. 
+ 
+TEXT BOOKS: 
+1. Digital Signal Processing, Principles, Algorithms, and Applications: John G. Proakis, 
+Dimitris G. Manolakis, Pearson Education / PHI, 2007. 
+2. Discrete Time Signal Processing – A. V. Oppenheim and R.W. Schaffer, PHI, 2009 
+3. Fundamentals of Digital Signal Processing – Loney Ludeman, John Wiley, 2009 
+ 
+REFERENCES: 
+1. Digital Signal Processing – Fundamentals and Applications – Li Tan, Elsevier, 2008 
+2. Fundamentals of Digital Signal Processing using MATLAB – Robert J. Schilling, 
+Sandra L. Harris, Thomson, 2007 
+3. Digital Signal Processing - A Practical approach, Emmanuel C. Ifeachor and Barrie 
+W. Jervis, 2nd Edition, Pearson Education, 2009. 
+ 
+  
+
+R16 B.TECH EIE. 
+ 22
+PRINCIPLES OF COMMUNICATIONS 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI611PE                          3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+Course Objective: To provide the basic concepts of communication systems. 
+ 
+Course Outcomes:  On successful completion of the module students will be able to…  
+ explain the main concepts of analogue and digital communication systems; 
+ analyze and design an AM and FM modulator/demodulator; 
+ explain, discuss, and compare different binary digital modulation techniques; 
+ explain types of noise & effects of noise on commu nication system  
+ 
+UNIT - I 
+Introduction: 
+Block diagram of Electrical communication system, Radio communication : Types of 
+communications, Analog, pulse and digital Types of signals, Noise – Types of noise, sources 
+of noise, calculation of noise in Linear systems, and noise figure. 
+ 
+UNIT - II 
+Amplitude Modulation:  Need for modulation, Types of Amplitude modulation, AM, DSB 
+SC, SSB SC, Power and BW requirements, generation of AM, DSB SC, SSB SC, 
+Demodulation of AM: Diode detector, Product demodulation for DSB SC & SSB SC. 
+Angle Modulation:  Frequency & Phase modulations, advantages of FM over AM, 
+Bandwidth consideration, Narrow band and Wide band FM, Comparison of FM & PM. 
+ 
+UNIT - III 
+Pulse Modulations: Sampling, Nyquist rate of sampling, Sampling theorem for Band limited 
+signals, PAM, regeneration of base band signal, PWM and PPM, Time Division 
+Multiplexing, Frequency Division Multiplexing, Asynchronous Multiplexing. 
+ 
+UNIT - IV 
+Digital Communication:  Advantages, Block diagram of PCM, Quantization, effect of 
+quantization, quantization error, Base band digital signal, DM, ADM, ADPCM and 
+comparison. 
+Digital Modulation: ASK, FSK, PSK, DPSK, QPSK demodulation, coherent and incoherent 
+reception, Modems. 
+ 
+UNIT - V 
+Information Theory:  Concept of information, rate of information and entropy, Source 
+coding for optimum rate of information, Coding efficiency, Shanon -Fano and Huffman 
+coding. 
+
+R16 B.TECH EIE. 
+ 23
+Error control coding: Introduction, Error detection and correction codes, bloc k codes, 
+convolution codes. 
+ 
+TEXT BOOKS: 
+1. Communication Systems Analog and Digital – R.P. Singh and SD Sapre, TMH, 20 th 
+reprint, 2004. 
+2. Principles of Communications – H. Taub and D. Schilling, TMH, 2003. 
+ 
+REFERENCE BOOKS: 
+1. Electronic Communication Systems – Kennedy and Davis, TMH, 4th edition, 2004. 
+2. Communication Systems Engineering – John. G. Proakis and Masoud  Salehi, PHI, 
+2nd Ed. 2004. 
+ 
+  
+
+R16 B.TECH EIE. 
+ 24
+VIRTUAL INSTRUMENTATION 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI612PE                          3     0    0    3 
+ 
+Course Objective s: To introduce LabVIEW programming and simulation of real time 
+applications like instrument  control, Signal processing, image processing, Data acquisition 
+etc., 
+ 
+Course Outcomes: Upon completion of this course the student shall be able to develop their 
+own GSD and interface them with real world instruments. 
+ 
+UNIT - I 
+Virtual Instrumentation: An introduction Historical perspective, advantages, block diagram 
+and architecture of a virtual instrument, data -flow techniques, graphical programming in data 
+flow, comparison with conventional programming. Development of Virtual Instrument using 
+GUI, Real-time systems. 
+ 
+UNIT - II 
+VI programming techniques: VIs and sub-VIs, loops and charts, arrays, clusters and graphs, 
+case and sequence structures, formula nodes, local and global variables, string and file I/O, 
+Instrument Drivers, Publishing measurement data in the web. 
+ 
+UNIT - III 
+Data acquisition basics:  Introduction to da ta acquisition on PC, Sampling fundamentals, 
+Input/output techniques, and buses. ADC, DAC, Digital I/O, counters and timers, DMA, 
+Software and hardware installation, Calibration, Resolution, Data acquisition interface 
+requirements. 
+ 
+UNIT - IV 
+VI Interface requirements: Common Instrument Interfaces: Current loop, RS 232C/ RS485, 
+GPIB. Bus Interfaces: USB, PCMCIA, VXI, SCSI, PCI, PXI, Firewire. PXI system 
+controllers, Ethernet control of PXI. Networking basics for office & Industrial applications, 
+VISA and IVI. 
+ 
+UNIT - V 
+VI toolsets:  Distributed I/O modules. Application of Virtual Instrumentation: Instrument 
+Control, Development of process database management system, Simulation of systems using 
+VI, Development of Control system, Industrial Communication, Image  acquisition and 
+processing, Motion control. 
+ 
+ 
+ 
+
+R16 B.TECH EIE. 
+ 25
+TEXTBOOKS: 
+1. LabVIEW Graphical Programming, Gary Johnson, Second edition, McGraw Hill, 
+Newyork, 1997. 
+2. LabVIEW based Advanced Instrumentation Systems, S. Sumathi and P. Surekha, 
+Spinger. 
+ 
+REFERENCE BOOKS: 
+1. PC Interfacing and Data Acquisition: Techniques for Measurement, Instrumentation 
+and Control, Kevin James, Newnes, 2000. 
+2. WEB RESOURCES: www.ni.com 
+3. LabVIEW for everyone, Lisa K. wells & Jeffrey Travis Prentice Hall, New Jersey, 
+1997. 
+  
+
+R16 B.TECH EIE. 
+ 26
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI613PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To introduce the object oriented programming concepts. 
+ To understand object oriented programming concepts, and apply them in solving 
+problems. 
+ To introduce the principles of inheritance and polymorphism; and demonstrate how 
+they relate to the design of abstract classes 
+ To introduce the implementation of packages and interfaces 
+ To introduce the concepts of exception handling and multithreading. 
+ To introduce the design of Graphical User Interface using applets and swing controls. 
+ 
+Course Outcomes: 
+ Able to solve real world problems using OOP techniques. 
+ Able to understand the use of abstract classes. 
+ Able to solve problems using java collection framework and I/o classes. 
+ Able to develop multithreaded applications with synchronization.  
+ Able to develop applets for web applications. 
+ Able to design GUI based applications  
+ 
+UNIT - I 
+Object-oriented thinking - A way of viewing world – Agents and Communities, messages 
+and methods, Responsibilities, Classes and Instances, Class Hierarchies - Inheritance, Method 
+binding, Overriding and Exceptions, Summary of Object -Oriented concepts. Java buzzwords, 
+An Overview of Java, Data types, Variables and Arrays, operators, expressions, control 
+statements, Introducing classes, Methods and Classes, String handling. 
+Inheritance– Inheritance concept, Inheritance basics, Member access, Constructors, Creating 
+Multilevel hierarchy, super uses, using final with inheritance, Polymorphism -ad hoc 
+polymorphism, pure polymorphism, method overriding, abstract classes, Object class, forms 
+of inheritance- specialization, specification, constr uction, extension, limitation, combination, 
+benefits of inheritance, costs of inheritance. 
+ 
+UNIT - II 
+Packages- Defining a Package, CLASSPATH, Access protection, importing packages.  
+Interfaces- defining an interface, implementing interfaces, Nested interf aces, applying 
+interfaces, variables in interfaces and extending interfaces. 
+Stream based  I/O(java.io) – The Stream classes -Byte streams and Character streams, 
+Reading console Input and Writing Console Output, File class, Reading and writing Files, 
+Random access file operations, The Console class, Serialization, Enumerations, auto boxing, 
+generics. 
+
+R16 B.TECH EIE. 
+ 27
+UNIT - III 
+Exception handling - Fundamentals of exception handling, Exception types, Termination or 
+resumptive models, Uncaught exceptions, using try and catch, multiple catch clauses, nested 
+try statements, throw, throws and finally, built - in exceptions, creating own exception sub 
+classes.  
+Multithreading- Differences between thread -based multitasking and process -based 
+multitasking, Java thread model, creating t hreads, thread priorities, synchronizing threads, 
+inter thread communication.  
+    
+UNIT - IV 
+The Collections Framework (java.util) - Collections overview, Collection Interfaces, The 
+Collection classes- Array List, Linked List, Hash Set, Tree Set, Priority Q ueue, Array Deque. 
+Accessing a Collection via an Iterator, Using an Iterator, The For -Each alternative, Map 
+Interfaces and Classes, Comparators, Collection algorithms, Arrays, The Legacy Classes and 
+Interfaces- Dictionary, Hashtable ,Properties, Stack, Vector 
+More Utility classes, String Tokenizer, Bit Set, Date, Calendar, Random, Formatter, Scanner 
+ 
+UNIT - V 
+GUI Programming with Swing – Introduction, limitations of AWT, MVC architecture, 
+components, containers. Understanding Layout Managers, Flow Layout,  Border Layout, 
+Grid Layout, Card Layout, Grid Bag Layout. 
+Event Handling - The Delegation event model - Events, Event sources, Event Listeners, 
+Event classes, Handling mouse and keyboard events, Adapter classes, Inner classes, 
+Anonymous Inner classes. 
+ A Simple Swing Application,  Applets – Applets and HTML, Security Issues, Applets and 
+Applications, passing parameters to applets. Creating a Swing Applet, Painting in Swing, A 
+Paint example, Exploring Swing Controls - JLabel and Image Icon, JText Field, The Swin g 
+Buttons- JButton, JToggle Button, JCheck Box, JRadio Button, JTabbed Pane, JScroll Pane, 
+JList, JCombo Box, Swing Menus, Dialogs. 
+ 
+TEXT BOOKS 
+1. Java The complete reference, 9 th edition, Herbert Schildt, McGraw Hill Education 
+(India) Pvt. Ltd. 
+2. Understanding Object-Oriented Programming with Java, updated edition, T. Budd, 
+Pearson Education. 
+ 
+REFERENCE BOOKS 
+1. An Introduction to programming and OO design using Java, J. Nino and F.A. Hosch,  
+John Wiley & sons. 
+2. Introduction to Java programming, Y. Daniel Liang, Pearson Education. 
+3. Object Oriented Programming through Java, P. Radha Krishna, Universities Press. 
+4. Programming in Java, S. Malhotra, S. Chudhary, 2nd edition, Oxford Univ. Press.  
+5. Java Programming and Object oriented Application Development, R. A. Johnson,  
+Cengage Learning.  
+
+R16 B.TECH EIE. 
+ 28
+HYDRAULICS AND PNEUMATIC CONTROL SYSTEMS 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI614PE                          3     0    0    3 
+ 
+Course Objective: To study hydraulic and pneumatic control systems 
+ 
+Course Outcomes: Upon completion of this subject the students shall give the solution to 
+problem relating to system identification. 
+ 
+UNIT – I 
+Introduction to Fluid Power, merits and utility of Fluid Power in industries. Difference 
+between Hydraulic Systems & Pneumatic Systems. Fluid Power Components: Construction 
+and operation of – Pump, Relief valve, Non -return valve, Pilot operated relief valve, Series 
+and Parallel compensator of flow valve, Pressure compens ated pump, motor, actuators, Seals 
+used in the control systems. 
+Symbolic representation of Hydraulic and pneumatic Elements. Compressor and air line 
+installations. Various types of Pumps used in hydraulic systems. Hydraulic Fluid and 
+Effective contamination control. Purpose of Air-filters and types in Pneumatic systems. 
+ 
+UNIT – II 
+Transmission System:  Transmission of Fluid Power through various type of cylinders. 
+Compressibility and inertia loading. Hydraulic stiffness, stiffness of pneumatic system. 
+Component effectiveness, breakage, constant torque load, constant power load, inertia load, 
+viscous damping. 
+Valve controlled Systems:  Flow through a single speed control valve, Series Pressure 
+Compensation, combined directional and flow rate control valve , Steady reaction and 
+Transient Reaction force. 
+ 
+UNIT – III 
+Hydraulic and pneumatic circuits for different controls like – Sequencing circuit, counter 
+balancing, indexing, linear motion, rotation & Hydro copying circuit. Electro -Pneumatics & 
+Electro-Hydraulic controls, Hydro-Pneumatics, Cartridge valve design. 
+Analysis of Accumulator Systems: Accumulator system dynamics, Thermodynamics, 
+Thermodynamics consideration. Accumulator as Absorber of pressure shocks. Construction, 
+operation, and applications of Intensifier. 
+ 
+UNIT – IV 
+Feedback Systems: Pressure control, Position control, Pump/motor systems. Control with 
+variable capacity pumps. Pump stroke mechanisms. Position control using metering valve 
+Double acting actuators. 
+ 
+ 
+ 
+
+R16 B.TECH EIE. 
+ 29
+UNIT – V 
+Speed control, Inertia L oad position control systems. Programmable sequential control using 
+modular elements. Servo control systems. Trouble shooting and remedial measures in 
+Hydraulic & Pneumatic Systems. 
+ 
+TEXT BOOKS: 
+1. Fluid Power Systems, by A.B. Goodinain, McMillan Press Ltd. 
+2. The Control of Fluid Power, by McCloy & Martin, Longman Publications. 
+ 
+REFERENCE BOOKS: 
+1. Mechatronics, by Prof. C.V. Venkataramana, SBS Publishers and Distributors. 
+2. Production Drawing Practice, by Dr.  P. Narsimha Reddy, T.  A. Janardhan Reddy & 
+C. Srinivas Rao, The Hi-Tech Publishers. 
+ 
+  
+
+R16 B.TECH EIE. 
+ 30
+PROCESS CONTROL LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI604PC                          0     0    3    2 
+ 
+Course Objective: To provide better familiarity with the Theoretical concepts studied. 
+ 
+Course Outcomes: Upon completing these course students shall be able realize the process 
+and different controls applied to each process. 
+ 
+Minimum Twelve experiments should be conducted. 
+ 
+1. Study of Electronic controllers. 
+2. Control valve characteristics (Different types). 
+3. Control of Flow process 
+4. Interacting and Non- interacting systems. 
+5. Control of Temperature process 
+6. Process tuning – Process reaction curve method. 
+7. Tuning of PID controller 
+8. Operation of flow loop in plant. 
+9. Pneumatic actuator. 
+10. Hydraulic actuator. 
+11. Multi loop control systems – Ratio Control. 
+12. Multi loop control systems – Cascade Control. 
+13. Feed-forward control. 
+  
+
+R16 B.TECH EIE. 
+ 31
+ANALYTICAL INSTRUMENTATION LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EI605PC                          0     0    3    2 
+ 
+To perform All experiments. 
+ 
+1. Gas analyzers. 
+2. Gas and liquid chromatography. 
+3. Spectrometer: UV and VIS spectrometer. 
+4. Spectrometer: IR and FT IR Spectrometer. 
+5. Flame photometer. 
+6. Measurement of calorific value using Bomb Calorimeter 
+7. pH Meter 
+8. Conductivity Meter 
+9. GM Counter 
+10. Measurement of Gas Pollutants - Co, No, So 
+11. Water Purity Measurement  
+12. Turbidity Measurement 
+ 
+Equipment: 
+Gas/ Liquid chromatographer, Gas Analyzer, UV & VIS spectrometer, IR spectrophotometer, 
+Absorption spectrophotometer, Flame photometer, Bomb calorimeter. 
+  
+
+R16 B.TECH EIE. 
+ 32
+ADVANCED ENGLISH COMMUNICATION SKILLS (AECS) LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EN606HS                          0     0    3    2 
+  
+Introduction 
+A course on Advanced English Communication Skills (AECS) Lab  is considered essential at 
+the third year level of B.Tech and B.Pharmacy courses. At this stage, the students need to 
+prepare themselves for t heir career which requires them to listen to, read, speak and write in 
+English both for their professional and interpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+ 
+Course Objectives:  This Lab focuses on using multi -media instruction for language 
+development to meet the following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioral skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes: Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus 
+The following course activities will be conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+ 
+1. Inter-personal Communication and Building Vocabulary - Starting a Conversation 
+– Responding Appropriately and Relevantly – Using Appropriate Body Language – 
+Role Play in Different Situations - Synonyms and Antonyms, One -word Substitutes, 
+Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+2. Reading Comprehension  –General Vs Local Comprehension, Reading for Facts, 
+Guessing Meanings from Context, Skimming, Scanning, Inferring Meaning. 
+3. Writing Skills  – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+4. Presentation Skills  – Oral Presentations (individual or group) through JAM 
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+5. Group Discussion and Intervie w Skills  – Dynamics of Group Discussion, 
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance, 
+Fluency and Organization of Ideas and Rubrics of Evaluation - Concept and Process, 
+
+R16 B.TECH EIE. 
+ 33
+Pre-interview Planning, Opening Strategies, Answering Strat egies, Interview through 
+Tele-conference & Video-conference and Mock Interviews. 
+ 
+Minimum Hardware Requirement 
+Advanced English Communication Skills (AECS) Laboratory shall have the following 
+infrastructural facilities to accommodate at least 35 students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+ 
+Suggested Software: The software consisting of the prescribed topics elaborated above 
+should be procured and used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+ 
+REFERENCES: 
+1. Kumar, Sanjay, and Pushp Lata. English for Effective Communication, Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI 
+Learning Pvt. Ltd., 2011. 
+ 
+

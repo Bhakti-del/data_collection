@@ -1,0 +1,68 @@
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, May/June - 2019 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Describe the scope of NOS 9003.       [2]  
+   b) What are constraints of a security audit?      [3] 
+   c) Write technical skills of NOS 9004.          [2] 
+   d) Explain about internal security auditing tools.     [3] 
+   e) Define shoulder surfing.        [2] 
+   f) Draw a diagram for vulnerability management cycle.    [3]  
+   g) Define risk identification.          [2] 
+   h) Describe activities of assessment phase of Vulnerability Assessment.  [3] 
+   i) What are counter measures to prevent unauthorized access to administration interfaces?  
+            [2] 
+   j) What are top configuration management threats?     [3] 
+ 
+ 
+PART-B  
+(50 Marks) 
+2.a) Explain about testing security technology. 
+   b) Distinguish between information systems audit versus information security audit. [5+5] 
+OR 
+3.a) What is an information security audit? Explain scope of the audit. 
+   b) Explain professional skills to maintain a healthy, safe and secure working environment.  
+             [5+5] 
+ 
+4. What are information gathering 31-steps? Explain.     [10] 
+OR 
+5. Write steps for conducting external security auditing.     [10] 
+ 
+6.a) Explain about human based social engineering / non-technical attack vectors. 
+   b) Describe the weapons of social engineer.      [5+5] 
+OR 
+7.a) Explain key features advanced threat deterrence and detection capabilities. 
+   b) Write some of the other controls that should be taken care of, to reduce the success of a        
+ Social Engineering attack.        [5+5] 
+ 
+R13 
+JNTUH USED 22-05-2019PM
+
+ 
+ 
+8.a) Explain about vulnerability classification. 
+   b) What are characteristics of a good vulnerability assessment solutions and considerations?  
+             [5+5] 
+OR 
+9.a) What are types of vulnerability assessment? Explain. 
+   b) Explain about vulnerability analysis tools.      [5+5] 
+ 
+10.a) Explain about configuration management in brief. 
+     b) What is configuration item identification? Explain.     [5+5] 
+OR 
+11.a) What is configuration control board? Explain. 
+     b) Explain about deploying the baseline configuration.     [5+5] 
+  
+ 
+--ooOoo--  
+JNTUH USED 22-05-2019PM
+

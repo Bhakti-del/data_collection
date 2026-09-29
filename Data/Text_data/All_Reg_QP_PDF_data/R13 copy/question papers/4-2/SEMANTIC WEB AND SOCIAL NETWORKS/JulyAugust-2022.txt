@@ -1,0 +1,40 @@
+Code No: 118EQ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+SEMANTIC WEB AND SOCIAL NETWORKS 
+ (Computer Science and Engineering) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Define semantic Web. Describe logic on the semantic Web.    
+   b) What is machine intelligence? Explain.      [8+7] 
+ 
+2.a) What are limitations of today’s Web? Explain.      
+   b) Define software. Explain about software agents.      [8+7] 
+ 
+3.a) Discuss about Ontology-based Knowledge Representation.     
+   b) Explain about Ontology “Spot” example.        [8+7] 
+ 
+4.a) What are Ontology development tools? Explain.      
+   b) What is UML? Explain concepts of UML in detail.      [8+7] 
+ 
+5.a) What are semantic Web applications? Explain.      
+   b) Discuss about RDF inference engine in detail.      [8+7] 
+ 
+6.a) Explain about logic and inference in detail.      
+   b) What is e-learning? Explain about semantic bioinformatics.    [8+7] 
+ 
+7.a) Discuss about semantic search technology.      
+   b) Explain in detail about electronic discussion networks.     [8+7] 
+ 
+8.a) Explain the various features of social network.      
+   b) Explain the Blogs and online communities.       [8+7]  
+ 
+---oo0oo---  
+ 
+R13 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

@@ -1,0 +1,66 @@
+Code No: 117BW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2018 
+ COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) What is the use of computer forensics in law enforcement?    [2]  
+   b) Explain military computer forensic technology.     [3] 
+   c) What is a digital crime scene?         [2] 
+   d) Explain the purpose of Digital IDs.       [3] 
+   e) What is network forensics?        [2] 
+   f) Explain the purpose of digital hash in computer forensics.    [3]  
+   g) What are mobile forensics tools?         [2]  
+   h) Explain e-mail crimes.        [3] 
+   i) What is a FAT Disk?         [2] 
+   j) Explain windows registry.        [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) What is computer forensics? List and explain the various services of computer forensics? 
+    b) What is computer forensic? Who can use computer forensic evidence?  [5+5] 
+OR 
+3.a) Describe the types of Law enforcement. 
+   b) What is data recovery? Explain the role of back-up in computer forensics data recovery? 
+            [5+5] 
+4.a) Explain the different types of evidence. 
+   b) Discuss the purpose of chain of custody in controlling data contamination.  [5+5] 
+OR 
+5.a) Describe the steps in processing computer evidence. 
+   b) Explain the special needs of evidential authentication.    [5+5] 
+ 
+6.a) Briefly, explain the process of determining what data to collect and analyze. 
+   b) What is remote acquisition? Explain how remote acquisition is performed.  [5+5] 
+OR 
+7.a) Explain the collection of evidence in private sector incident scenes. 
+   b) Explain seizing digital evidence at the scene.      [5+5] 
+ 
+ 
+R13 
+JNTUH USED 19-12-18AM Set 1
+
+ 
+8.a) Explain the different types of computer forensic tools. 
+   b) Explain the validation and testing of computer forensic software.   [5+5] 
+OR 
+9.a) Discuss the role of email in computer forensic investigation.   
+   b) Explain mobile device forensics.       [5+5] 
+ 
+10. In detail explain the Microsoft File structures.     [10] 
+OR 
+11. Write short notes on:  
+       a) Virtual Machines 
+       b) NTFS Disks.         [5+5] 
+  
+ 
+--ooOoo—  
+JNTUH USED 19-12-18AM Set 1
+

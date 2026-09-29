@@ -1,0 +1,57 @@
+ 
+Code No: 152AE      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, June - 2022 
+APPLIED PHYSICS 
+(Common to EEE, CSE, IT, CSIT, ITE, CE(SE), CSE(CS), CSE(DS),CSE(Networks)) 
+Time: 3 Hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Derive an expression for the wavelength λ of the matter waves.    
+   b) Describe an experiment to verify the existence of matter waves.   [5+10] 
+ 
+2.a) Explain Heisenberg’s Uncertainty principle of position and momentum variables. 
+   b) Write a note on wave particle duality and properties of matter waves.   [8+7] 
+ 
+3.a) What are intrinsic and extrinsic semiconductors? 
+   b) Derive an expression for Fermi level in an intrinsic semiconductor and hence show  that 
+the Fermi level lies exactly in the middle of the forbidden band.    [5+10] 
+ 
+4.a) What is a photo detector? Explain the working principle of semiconductor photodiode. 
+   b) When 3 × 10 11 photons each with wavelength of 0.85µm are incident on a photodiode,      
+on average 1.2 × 10 11 electrons are generated . Determine the quantum efficiency and     
+responsivity.            [8+7] 
+ 
+5.a) Explain the construction, principle and working of Ruby laser. 
+   b) Explain about the different modes that are propagated through step -index and graded  
+index fiber?           [10 +5] 
+ 
+6.a) Discuss the concept of Acceptance angle and Acceptance cone of a fiber.  
+   b) Derive a  relation between acceptance angle and the refractive indices of core and 
+cladding materials.           [8+7] 
+ 
+7.a) What is dielectric polarization? Describe briefly types of polarizations. 
+   b) Derive Clausius-Mosotti relation for dielectric material.      [6+9] 
+ 
+8.a) Explain the classification of magnetic materials.  
+   b) When a magnetic material is subjected to a m agnetic field of intensity  250 Am –1, its  
+relative permeability is 15. Calculate its magnetization and magnetic flux density . Given 
+that µo= 4π × 10–7.           [9+6] 
+    
+--ooOoo-- 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R18 
+ 
+JNTUH Used Papers June 22
+

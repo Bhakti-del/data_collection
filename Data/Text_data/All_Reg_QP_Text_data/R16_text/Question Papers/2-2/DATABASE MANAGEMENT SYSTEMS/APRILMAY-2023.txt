@@ -1,0 +1,100 @@
+Code No: 134AP 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, April/May - 2023 
+DATABASE MANAGEMENT SYSTEMS  
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A 
+(25 Marks) 
+ 
+1.a) What is a relation? Differentiate between a relation schema and a relation instance.
+            [2] 
+b) What is the difference between a candidate key and the primary key for a given 
+relation? What is a super key?        [3] 
+   c) What is Trigger? Why it is used?        [2] 
+   d) Describe the projection operator. What can you say about the cardinality of the input 
+and output tables for this operator?        [3] 
+   e) What are the problems related to decompositions?      [2] 
+   f) Define ‘Functional Dependencies’. How are primary keys related to FDs?   [3] 
+   g) What functionality does the recovery manager of a DBMS provide?   [2] 
+   h) Define the terms transaction, schedule, complete schedule, and serial schedule. [3] 
+   i) What is the search key for an index?        [2] 
+   j) What is an index? What is the relationship between files and indexes? Can we have 
+several indexes on a single file of records?      [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a) Explain i) The data definition language ii) The data manipulation language  iii) The 
+buffer manager iv) The data model.   
+ b) What are integrity constraints? Define the terms primary key constraint and foreign key 
+constraint. How are these constraints expressed in SQ L? What other kinds of 
+constraints can we express in SQL?       [5+5] 
+OR 
+3.a) What guidelines would you use for each of these choices when doing ER design: 
+Whether to use an attribute or an entity set, an entity or a relationship set, a binary or 
+ternary relationship, or aggregation.        
+b) A company database needs to store information about employees (identified by ssn, 
+with salary and phone as attributes), departments (identified by dn, with dname and 
+budget as attributes), and children of employees ( with name and age as attributes). 
+Employees work in departments; each department is managed by an employee; a child 
+must be identified uniquely by name when the parent (who is an employee; assume that 
+only one parent works for the company) is known. We are  not interested in information 
+about a child once the parent leaves the company. Draw an ER diagram that captures 
+this information.          [5+5] 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+4.a) Describe the set operations of relational algebra, including union(U), intersection(n), 
+set-difference(-), and cross-product(x). For each, what can you say about the cardinality 
+of their input and output tables?       
+ b) What are nested queries? What is correlation in nested queries? How would you use the 
+operators IN, EXISTS, UNIQUE, ANY, and ALL in wri ting nested queries? Why are 
+they useful?          [4+6] 
+OR 
+5.a) What aggregate operators does SQL support?      
+ b) Consider the following relational schema. An employee can work in more than one 
+department; the pct_time field of the Works relation shows the percentage of time that a 
+given employee works in a given department.  
+Emp( eid: integer, ename: string, age: integer, salary: real)  
+Works( eid: integer, did: integer, pct_time: integer)  
+Dept( did: integer, budget: real, managerid: integer)  
+Write SQL integrity constraints (domain, key, foreign key, or CHECK constraints; or 
+assertions) or SQL  triggers to ensure each of the following requirements, considered 
+independently.  
+i) Employees must make a minimum salary of $1000.  
+ii) Every manager must be also be an employee.  
+iii) A manager must always have a higher salary than any employee that he or she 
+manages. 
+iv) Whenever an employee is given a raise, the department's budget must be increased 
+to be greater than the sum of salaries of all employees in the department.  [4+6] 
+ 
+6.a) What are normal forms? What is their purpose?      
+b) Define 1NF and 2NF.  What is the motivatio n for putting a relation in BCNF? What is 
+the motivation for 3NF?        [3+7] 
+OR 
+7. Define multi-valued dependencies, explain 4NF.       [10] 
+ 
+8.a) Explain how the use of Strict 2PL would prevent interference between the two 
+transactions. 
+b) What is the phantom problem? What impact does it have on performance?  [4+6] 
+OR 
+9. Discuss about remote backup systems.        [10] 
+ 
+10. Discuss in detail about ISAM.         [10] 
+OR 
+11. Explain extendible hashing with example.        [10] 
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

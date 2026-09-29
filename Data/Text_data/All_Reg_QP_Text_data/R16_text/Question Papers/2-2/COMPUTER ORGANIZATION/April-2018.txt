@@ -1,0 +1,79 @@
+ 
+ 
+Code No: 134AK  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, April - 2018 
+COMPUTER ORGANIZATION 
+(Common to CSE, IT) 
+Time: 3 Hours                            Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.                   
+ Part B consists of 5 Units. Answer any one full question from each unit. Each question 
+ carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+ 
+1.a) Explain RTL and its control function.     [2]   
+   b) Compare horizontal and vertical organization.    [3] 
+   c) Differentiate jump and loop instructions.        [2] 
+   d) Briefly explain special processor activities.     [3] 
+   e) What is an assembler?        [2] 
+   f) Explain the machine code for:  LES DI,[0600H] and NEG 50[BP].  [3] 
+   g) Explain overflow and underflow.        [2]   
+   h) Differentiate isolated I/O and memory mapped I/O.     [3] 
+   i) Explain the cache incoherence.      [2] 
+   j) Explain the locality of reference.      [3] 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2.a) List and explain different performance measures used to represent a computer system 
+ performance.      
+   b) Elucidate the functioning of a Micro program sequencer.    [5+5] 
+OR 
+3.a) Elucidate common bus system. 
+   b) Formulate a mapping procedure that provides eight consecutive micro instructions for 
+ each routine. The operation code has 7 bits and control memory has 4096 words. [5+5] 
+  
+4.a) Explain the register organization in 8086. 
+   b) Elucidate machine language instruction formats.     [5+5] 
+OR 
+5.a) Explain the pin configuration details of 8086. 
+   b) Explain the assembler directives with examples.     [5+5] 
+ 
+6.a) Explain the steps involved in writing a program using an assembler. 
+   b) Write a program to find out the number of positive numbers and negative numbers from a 
+ given series of signed numbers.       [5+5]  
+OR 
+7.a) Add the contents of the memory location 4000H:0600H to cont ents of 5000H:0700H and 
+store the result in 8000H:0900H 
+   b) Write a program for addition of two numbers.     [5+5] 
+ 
+ 
+ 
+R16 
+JNTUH USED 19-04-2018PM
+
+ 
+8.a) Draw a flow chart for Floating point Add/subtract operations. 
+   b) Illustrate asynchronous communication interface in detail.    [5+5] 
+OR 
+9.a) Explain in detail with neat sketch Booth Multiplication Algorithm. 
+   b) Explain different types of modes of control.      [5+5] 
+  
+10.a) Explain arithmetic pipeline with example. 
+     b) Elucidate Inter processor communication.      [5+5] 
+OR 
+11.a) Elucidate array processor in detail. 
+     b) Explain various Interconnection Structures.      [5+5] 
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 19-04-2018PM
+

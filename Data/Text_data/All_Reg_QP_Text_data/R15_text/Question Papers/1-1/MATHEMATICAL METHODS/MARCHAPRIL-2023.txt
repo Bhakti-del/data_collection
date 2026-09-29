@@ -1,0 +1,151 @@
+Code No: 121AL 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year Examinations, March/April - 2023 
+   MATHEMATICAL METHODS 
+(Common to EEE, ECE, CSE, EIE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)    Show that 𝐸 − 1 = (1 − ∇)−1 − 1.       [2] 
+   b)      If 𝑓(𝑥) = sin(𝑝𝑥 + 𝑞), find Δ2𝑓(𝑥).       [3] 
+   c)      If the first two approximations for the root of 𝑥3 − 𝑥2 + 1 = 0  are -1 and 0, find the 
+next two approximations using Regula falsi method.     [2] 
+   d)      The values of x and f(x) are given below. Find ∫ 𝑓(𝑥)𝑑𝑥.
+𝜋 2⁄
+0    [3] 
+ 
+ 
+        
+   e)      If f(x)= |sinx| in (-L,L), then find the Fourier coefficient bn.    [2] 
+   f)      Find the finite Fourier cosine transform of 𝑓(𝑥) = 𝑥2, 0<x< 4.   [3] 
+   g)      Find the general solution of 𝑝𝑞𝑧 = 𝑝2(𝑞𝑥 + 𝑝2)+𝑞2(𝑝𝑦 + 𝑞2).   [2] 
+   h)      Solve px+qy=1 using the method of separation of variables.   [3] 
+   i)       If 
+222 czbyax  satisfies Laplacian equation, then find the value of a + b + c. [2] 
+ j)  If 
+kczjbyiaxF  where a, b, c are constants evaluate 
+,. dsnF where S is the surface 
+of the unit sphere.         [3] 
+ 
+PART - B  
+(50 Marks) 
+2.a)  Find f(2.4) from the following data using appropriate interpolation method. 
+x 1.0 1.5 2.0 2.5 
+f(x) 3 3.375 5.0 12.072 
+   b) Fit a second degree polynomial to the following data by the method of least squares.[5+5] 
+ 
+ 
+ 
+OR 
+3.a) Using Lagrange’s interpolation formula find y(8) from the following table: 
+X 5 6 9 11 
+Y 12 13 15 18 
+   b) Fit a
+xaby by the method of least squares to the data given below.  [5+5] 
+x 0 1 2 3 4 5 6 7 
+y 10 21 35 59 92 200 400 610 
+  
+x 0 𝜋 6⁄  𝜋 3⁄  𝜋 2⁄  
+f 1 1.6487 2.3774 2.71828 
+x 0 1 2 3 4 
+y 1 1.8 1.3 2.5 6.3 
+ R15 
+JNTUH Used papers 2023
+
+4.a) Solve the system 10x-2y-z-w=3;  -2x+10y-z-w=15; -x-y+10z-2w=15; -x-y-2z+10w= -9  
+using Gauss Seidel method. 
+   b) Find the root of the equation 
+2.1)(log10 xx  using False position method.  [5+5] 
+OR 
+5.a)  Evaluate 
+
+
+2
+0
+2
+dxe x  using Simpson’s rule taking h = 0.25. 
+ b) Using Milne’s method, find y(4.5), given 5𝑥𝑦′ + 𝑦2 −  2 = 0,  y(4)=1, y(4.1)= 1.0049,     
+y(4.2)= 1.0097, y(4.3) =1.0143 and y(4.4)= 1.0187.     [5+5] 
+  
+6.a)  Find the Fourier series of 
+2
+2)( 
+
+
+
+  xxf   in the interval 
+20  x . 
+   b)  Find the finite Fourier sine transform of 
+.0,)(   xxxf    [5+5] 
+OR 
+7.a) Obtain the Fourier cosine series for f(x) = x sin x, 
+ x0  
+   b) Find the Fourier transform of 
+||
+1)(
+x
+xf  .      [5+5] 
+8.a) Find the partial differential equation arising from
+0),( 222  zyxzyx . 
+   b)  Solve
+)2)(()2( 322 xyzqyzyzpx  .      [5+5] 
+OR 
+9.a) Solve 
+yeyzy
+z
+x
+z 38),0(,04 
+
+  by the method of separation of variables. 
+   b)  Solve 
+02
+2
+2
+2
+
+
+
+y
+u
+x
+u  subject to the conditions u(0, y) = 0, u(l, y) = 0, u(x, 0) = 0 and             
+u(x, a) = sin
+l
+xn , where 
+aylx  0,0 and n is a positive integer.  [5+5] 
+ 
+10.a) Find the angle of intersection of the spheres x2 + y2 + z2 = 39  and   
+x2 + y2 + z2 + 4x – 6y – 8z + 52 = 0 at the point (4, -3, 2). 
+ b)  Evaluate 
+
+C
+drF.  where 
+jyixyF 23   and C is the curve y = 2x 2 in xy-plane from        
+(0, 0) to (1, 2).          [5+5] 
+OR 
+11.a) Find the directional derivative of 
+xzxyz 2  at (1, 1, 1) in a direction of the normal to the 
+surface 
+zyxy 23 at (0, 1, 1). 
+     b)  Evaluate
+
+S
+dsnF. , if
+kxzjyiyzF 222   and S is the surface of the cylinder                  
+x2 + y2 = 9 contained in the first octant between the planes z = 0 and z = 2.  [5+5] 
+  
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+JNTUH Used papers 2023
+

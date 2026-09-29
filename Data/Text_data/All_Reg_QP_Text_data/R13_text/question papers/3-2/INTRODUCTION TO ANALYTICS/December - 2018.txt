@@ -1,0 +1,57 @@
+ 
+ 
+Code No: 116FA           
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, December - 2018 
+ INTRODUCTION TO ANALYTICS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      What are the challenges in analysis of data?      [2] 
+   b)      Justify R has a data analytics software.      [3] 
+   c)      List the types of variables available in R.        [2] 
+   d)      Define effective communication skills.      [3] 
+   e)      What is R connector?         [2] 
+   f)      Give the uses of NOSQL databases.       [3] 
+   g)      How correlation is used for data analysis?      [2] 
+   h)      Expand ANOVA and list its unique features      [3] 
+   i)       What type of data analysis is feasible for automating department activities? [2] 
+   j)       Name different business problems related to various businesses.   [3] 
+ 
+PART - B  
+(50 Marks) 
+2.a) Explain R data frames with example. 
+   b) Write a R program for matrix multiplication.      [5+5] 
+OR 
+3.a)  What are the looping structures available in R? 
+   b)  How to you find outliers in R?       [5+5] 
+  
+4. What is summarization of data? Explain different types of summarization in R.   [10] 
+OR 
+5. Give an account on probability distribution and its computation in R.    [10] 
+  
+6. Write a R program to illustrate database connectivity.       [10] 
+OR 
+7. Write about stored procedures in NOSQL. Explain with examples.       [10] 
+   
+8. Explain regression analysis. Give example.          [10] 
+OR 
+9.a) Justify the importance of correlation for prediction. 
+   b)  Explain OLS regression.        [5+5] 
+ 
+10. Write short note on understanding engineering design and manufacturing.    [10]  
+OR 
+11. Compare and contrast the man ufacturing and production activities data analysis with 
+respect to technology.               [10] 
+---ooOoo--- 
+R13 
+used paper 29-12-2018 AM
+

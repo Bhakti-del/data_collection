@@ -1,0 +1,56 @@
+ 
+ 
+ 
+Code No: 118CR             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2022 
+MANAGEMENT SCIENCE 
+(Common to CSE, IT) 
+Time: 3 Hours                        Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. Is there anything common between Hertzberg’s two factor motivational theory and 
+Maslow’s hierarchical need theory?  If so, point  it out, after explaining briefly the two 
+theories of motivation.                 [15]                                                                      
+  
+2. What is ‘corporate social responsibility’? Give any good example of CSR initiative. 
+            [15] 
+  
+3. What are the documents used in store for receipt an d issue of materials? What are the 
+systems of accounting of materials in store?            [15]                            
+     
+4. A group of 10 workers working 8 hours per day (one shift) on a group of engine lathes 
+produced 384 pieces of acceptable quali ty. During the study, it was observed that 
+workmen were idle for 20 percent of the total available time and 80 percent of the time 
+they worked at an average performance of 75%. Calculate the standard time for the job 
+assuming 
+a) the operation to be completely manual. 
+b) the workmen are entitled for 20%  rest & relaxation allowance for this work.   [8+7] 
+ 
+5.a) What are the advantages of job evaluation?       
+   b) What is the scope of performance management system?       [8+7] 
+  
+6. Explain the following two methods of merit rating: 
+a) Paired comparison    b) forced distribution method.       [8+7]             
+ 
+7. Draw the network diagram for a project consisting of 12 tasks (A,B,…,L) in which the 
+following precedence relationship must hold(X<Y means X must be completed before 
+Y can start); 
+A<C; A<B; B<D; B<G: B<K; C<D; C<G; D<E; E<F; F<H; F<I; F<L; G<I; G<L; H<J: 
+I<J; K<L.  
+Given the following task times (in days) for the above project, locate the critical path: 
+task A B C D E F G H I J K L 
+time 30 7 10 14 10 7 21 7 12 15 30 15 
+Also find the free and total floats for the non-critical activities.           [15] 
+  
+8.a) Why do organizations need strategy?     
+   b) What are the steps in strategy implementation?       [8+7] 
+  
+  
+ 
+--ooOoo--- 
+R13 
+JNTUH Used Papers
+

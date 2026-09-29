@@ -1,0 +1,81 @@
+Code No: 156DP 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+DISASTER PREPAREDNESS AND PLANNING MANAGEMENT 
+(Common to EEE, ME, ECE, CSE, IT, AE, MIE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Explain Vulnerability Assessment.       [2] 
+   b)      Illustrate Hazard Mapping.        [3] 
+   c)      Briefly explain the causes of climate change.        [2] 
+   d)      Write a note on Disaster and development.      [3] 
+   e)      Explain disaster impact on ecology.       [2] 
+   f)      Explain disaster impact on health.       [3] 
+   g)      Discuss the role of resilience in crisis management.       [2] 
+   h)      How Early Warning Systems (EWS) prevents disaster to happen?   [3] 
+   i)       Explain disaster recovery policy.       [2] 
+   j)       Explain disaster preventive mechanism.      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  What do you understand by the terms Hazard, vulnerability, risk, capacity and cri sis, 
+mitigation, early warning, capacity. 
+   b)  Describe the relationship between hazard, risk, vulnerability and capacity.  [5+5] 
+OR 
+3.a)  What are the ‘unsafe conditions’ and ‘dynamic pressures’ operating in your area? 
+   b)  Which tool will you use to analyze the risk of your area?    [5+5] 
+  
+4.a)  Discuss about the vulnerability of India to earthquake related hazards. Give examples 
+including the salient features of major disasters caused by earthquakes in different parts 
+of India during the last three decades. 
+   b)  Explain classification and types of disasters.      [5+5] 
+OR 
+5.a)  Vulnerability is an essential element for defining disaster impacts and its threat to 
+people. How and in what ways can vulnerability to disasters be characterized? Discuss 
+different types of vulnerability with reference to disasters. 
+b)  The frequency of earthquakes appears to have increased in the Indian subcontinent. 
+However, India’s preparedness for mitigating their impact has significant gaps. Discuss 
+various aspects.         [5+5] 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+6.a)  Which demographic aspects do you consider to assess the disaster impact? 
+   b)  Explain global and national disaster trends.      [5+5] 
+OR 
+7.a)  Write a note on global climate change and its impact. 
+   b)  Explain few urban disasters, also explain which factors are effecting.  [5+5] 
+ 
+8.a)  Discuss the recent measures initiated in disaster management by the Government of 
+India departing from the earlier reactive approach. 
+   b)  Why does disaster risk matter? How do you measure disaster risk?   [5+5] 
+OR 
+9.a)  Discuss the role of IT in disaster prevention. 
+   b)   Explain the role and functions of a disaster communication systems.  [5+5] 
+ 
+10.a)  What are the factors that contribute to the vulnerability of the community to the hazard 
+and disaster? 
+     b)  Explain how urbanization is effecting the environment and development.  [5+5] 
+OR 
+11.a)  What do you mean by environment and development after disaster. 
+     b)  Illustrate sustainable and environmental friendly system.    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

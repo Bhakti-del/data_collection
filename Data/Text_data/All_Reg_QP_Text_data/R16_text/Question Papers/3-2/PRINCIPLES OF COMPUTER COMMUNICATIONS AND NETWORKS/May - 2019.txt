@@ -1,0 +1,77 @@
+ 
+ 
+ 
+ 
+Code No: 136FT             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, May - 2019 
+ PRINCIPLES OF COMPUTER COMMUNICATIONS AND NETWORKS 
+(Common to CE, EEE, ME, CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question ca rries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What is computer communication system?      [2] 
+   b) List the uses of computer in communication.      [3] 
+   c) What are the advantages of multiplexing?      [2] 
+   d) Give a note on application layer protocol.       [3] 
+   e) How are analog signals transmitted?       [2] 
+   f) What is analog signal in data communication?     [3] 
+   g) Write the main functions of the data link layer.      [2] 
+   h) List the different types of wireless communication with applications.  [3] 
+   i) What are connectors?         [2] 
+   j) Draw the bridge protocol architecture.      [3] 
+ 
+PART - B 
+(50 Marks)       
+    
+2.a) List and explain the types of computer networks.  
+   b) Explain the telephone system and data communications.    [5+5] 
+OR 
+3.a) Give a brief note on network standards.  
+   b) Describe the applications of networks.      [5+5] 
+  
+4. List and explain the OSI References models in detail.        [10] 
+OR 
+5.a) Explain the communication service methods and data transmission modes.  
+   b) Discuss the analog and digital communications.     [5+5] 
+  
+6. List and explain the characteristics of analog signals.      [10] 
+OR 
+7.a) Why are digital signals better than analog signals? Explain.  
+   b) How do you convert analog signal to digital signal? Discuss.    [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper 18-05-19 PM
+
+ 
+ 
+ 
+ 
+8. Explain the physical and electrical characteristics of wire.      [10] 
+OR 
+9. Draw and explain the fiber optic media.        [10] 
+  
+10.a) Compare and contrast Switches Vs Routers.  
+     b) Give a brief note on repeaters.       [5+5] 
+OR 
+11. List and explain the types of In-Device and Inter-Device Connectors.    [10] 
+ 
+ 
+ 
+ 
+---oo0oo--- 
+used paper 18-05-19 PM
+

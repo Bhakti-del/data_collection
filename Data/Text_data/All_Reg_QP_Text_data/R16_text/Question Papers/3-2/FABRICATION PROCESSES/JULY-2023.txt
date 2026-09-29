@@ -1,0 +1,77 @@
+Code No: 136FB   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, July - 2023 
+FABRICATION PROCESSES 
+(Common to CE, EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define volumetric shrinkage.        [2] 
+   b)      What is the purpose of riser in casting?      [3] 
+   c)      Explain resistance welding.        [2] 
+   d)      What is braze welding?        [3] 
+   e)      What is recrystallization temperature?      [2] 
+   f)      What is strain hardening?        [3] 
+   g)      What fluids are used in hydrostatic extrusion?       [2] 
+   h)      What is tube extrusion?        [3] 
+   i)       Define open die forging.        [2] 
+   j)       What is rolling, write its applications?       [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a)  Sketch and explain the working of a crucible furnace. Give its applications. 
+   b)  What are the elements of Gating System? Explain with sketches.   [5+5] 
+OR 
+3.a)  Explain various stages in investment casting process using suitable sketches. Also, list 
+the applications of the process. 
+b)  What are the casting defects? Explain the reasons for such defects and suggest suitable   
+remedies.          [5+5] 
+  
+4.a)  Explain types of welding joints with sketches. Also, give different welding positions. 
+b)  Describe different types of gas welding flames with sketches. Suggest suitable flame 
+type for a given metal.        [5+5] 
+OR 
+5.a)  Give the advantages and limitations of TIG welding over MIG welding. 
+   b)  Discuss various destructive and non-destructive methods of testing weld quality. [5+5] 
+ 
+ R16 
+used paper July/Aug-2023
+
+6.a)  What are the specific merits of cold working over hot working? 
+b)  A cup of height 10 mm, diameter 5 mm and corner radius 0.2 mm is to be  made from 
+sheet metal of 2.5 mm thickness. Find the suitable number of draws?  [5+5] 
+OR 
+7.a)  The shear strength of cold rolled steel is 300 MPa. Determine the punch force required 
+for making a blank of 120 mm diameter from a strip of 3 mm thickness of th e above 
+material. What is the theoretical and maximum punch force required? 
+b)  Sketch and explain wire drawing and Tube drawing processes in detail. Give their 
+applications and advantages.        [5+5] 
+ 
+8.a)  Distinguish between cold and hot extrusion processes. 
+   b)   List out the advantages, disadvantages and limitations of extrusion.   [5+5] 
+OR 
+9.  Explain with a neat sketch impact Extrusion process.      [10] 
+ 
+10.a)  Distinguish between drop and press forging process with reference to the process and     
+products obtained. 
+     b)  Classify forging defects and give the necessary remedies.    [5+5] 
+OR 
+11.a)  Explain the rolling process in detail with the help of a sketch. What is Rolling Hill?  
+     b)  Give the advantages of closed die forging over open die forging.   [5+5] 
+  
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

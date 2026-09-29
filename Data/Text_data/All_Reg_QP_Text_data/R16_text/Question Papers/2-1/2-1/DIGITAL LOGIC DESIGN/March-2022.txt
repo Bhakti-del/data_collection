@@ -1,0 +1,56 @@
+Code No: 133AJ      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, March – 2022 
+DIGITAL LOGIC DESIGN 
+(Common to CSE, IT) 
+Time: 3 Hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Convert the given Gray code number to equivalent binary 1001001011110010. 
+   b)  Convert (A0F9.0EB)16 to decimal, binary, octal.      
+   c) What is meant by ‘min -term’ and ‘max -term’? Write the procedure to ob tain the 
+canonical SOP form of a given logic functions.               [5+5+5] 
+ 
+2.a) Express the following functions in sum of min-terms and product of max-terms.          
+            i) (xy+z) (y+xz)   ii) B′D+A′D+BD.       
+   b) Obtain the minimal SOP expression for the switching function using k-map. 
+Y= ∑ m(1,5,7,13,14,15,17,18,21,22,25,29) + ∑ d(6,9,19,23,30)  draw and explain the 
+logic diagram.          [5+10] 
+  
+3.a) Simplify the expression Y= π (7, 9, 10, 11, 12, 13, 14, 15) using the k-map method. 
+b) Draw the schematic diagram and truth table for half adder. Explain the design approach 
+for half adder using universal gates. Draw the logic diagrams with relevant expressions.  
+            [7+8] 
+ 
+4.a) Design, draw and explain a 4-bit binary carry look ahead adder.      
+   b) Describe the operations performed by the following logic circuits with an example:  
+(i) Comparator  (ii) Decoder  (iii) Encoder.    [9+6] 
+ 
+5.a) Explain the operation of a 3 -to-8 decoder 74LS138. Realize 4 -to-16 decoder using two  
+ 3-to-8 decoders.          
+    What is meant by ‘edge triggered’? Differentiate SR-FF and JK-FF with their functional 
+operation and excitation tables.  
+   b) Draw and explain the circuit diagram of positive edge triggered J -K flip-flop using NOR
+ gates with its truth table. How race around conditions are eliminated?  [7+8] 
+  
+6.a) Discuss about synchronous and ripple counters. Compare their merits and demerits.  
+b) What do you mean by universal shift register? Draw and explain its circuit diagram and 
+operation.          [7+8] 
+ 
+7.a) Using PLA logic, implement a BCD to excess -3 code converter. Draw and explain its   
+ truth table and logic diagram.  
+b) Explain in brief, about logic construction of 32 ×4 ROM. Draw and explain the relevant 
+logic diagram.          [7+8] 
+  
+8.a) Derive the PLA programming table for the combinational circuit that squares a 3 -bit  
+number. Draw the relevant logic diagram.  
+   b)  A ROM chip of 4,096 × 8 bits has two chip select inputs and operates from a 5 -volt     
+ power supply. How many pins are needed for the integrated circuit package? Draw    
+ and explain the relevant block diagram.      [7+8] 
+ 
+---ooOoo--- 
+R16 
+JNTUH Usedpapers March 2022
+

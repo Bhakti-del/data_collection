@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 126EP     
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, December - 2017 
+ WEB TECHNOLOGIES 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)    How can you find the number of rows in a table using MySQL?   [2] 
+   b)    What are the rules of PHP syntax?          [3] 
+   c)    Define XML Schema.         [2] 
+   d)    What are the elements and attributes in XML?     [3] 
+   e)    How cookies are created?           [2] 
+   f)    Explain about common gateway interface.          [3] 
+   g)   What is Bean? Explain.              [2] 
+   h)    List the scripting components of JSP.       [3] 
+   i)    What is DATE object in Java script?          [2] 
+   j)    How does one access cookie in a java script?     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  What are the pitfalls commonly seen with the practice of inserting HTML inside PHP? 
+   b)  Explain how PHP fits with MySQL.       [5+5] 
+OR 
+3.a)  Write a PHP code to open and read contents from a given file in designated directory. 
+   b)  Is it possible to set a time expire page in PHP? Explain how.   [5+5] 
+  
+4.a)  When constructing an XML DTD, how do you create an external entity reference in an  
+         attributed value? 
+   b)  What are the common tags of XHTML? Discuss.     [5+5] 
+OR 
+5.a)  Explain about various types of XML parsers. 
+   b)  Discuss about XML flow control tags and transformation tags.   [5+5] 
+ 
+6.a)  Describe the servlet architecture and the interfaces invoked by the servlet container. 
+   b)  What is session management? Explain about session management in servlets. [5+5] 
+OR 
+7.a)  Explain with suitable examples, the differences between get request and post request 
+type in Servlets. 
+   b)  Explain how to connect to a database using JDBC. Illustrate with example.  [5+5] 
+  
+ 
+ 
+ 
+R13 
+used paper 07-12-2017
+
+ 
+ 
+ 
+ 
+8.a)  Discuss various implicit objects in JSP. 
+   b)  Write a JSP program to validate user name and password.    [5+5] 
+OR 
+9.a)  What are the features of Java Server Pages technology? Explain. 
+   b)  Write a JSP to demonstrate the usage of page and include directives.  [5+5] 
+ 
+10.a)  Explain the control structures used in java script with suitable examples. 
+     b)  Discuss the keyboard events in java script with examples.    [5+5] 
+OR 
+11.a)  Explain how to write functions in java script. 
+     b)  Write a java script for sorting the elements of an array using function.  [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+used paper 07-12-2017
+

@@ -1,0 +1,1254 @@
+R16 B.TECH PETROLEUM ENGG. 
+1 
+ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. PETROLEUM ENGINEERING 
+III YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+ 
+III YEAR I SEMESTER 
+ 
+S. No. Course  
+Code Course Title L T P Credits 
+1 PE501PC Instrumentation and Process Control 4 1 0 4 
+2 PE502PC Well Logging and Formation Evaluation 4 0 0 4 
+3 PE503PC Thermodynamics for Petroleum Engineers 4 1 0 4 
+4  Open Elective - I  3 0 0 3 
+5 SM504MS Fundamentals of Management 3 0 0 3 
+6 PE505PC Instrumentation and Process Control Lab 0 0 3 2 
+7 PE506PC Well Logging and Formation Evaluation Lab  0 0 3 2 
+8 PE507PC Energy and Environmental Engineering Lab 0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits 21 2 9 24 
+ 
+ 
+ 
+III YEAR II SEMESTER 
+ 
+S. No. Course  
+Code Course Title L T P Credits 
+1  Open Elective - II 3 0 0 3 
+2  Professional Elective - I 3 0 0 3 
+3 PE601PC Drilling Technology 4 0 0 4 
+4 PE602PC Petroleum Reservoir Engineering 4 0 0 4 
+5 PE603PC Petroleum Refinery Engineering 4 0 0 4 
+6 PE604PC Drilling Fluids Lab 0 0 3 2 
+7 PE605PC Petroleum Reservoir Engineering Lab 0 0 3 2 
+8 EN606HS Advanced English Communication Skills Lab 0 0 3 2 
+  Total Credits 18 0 9 24 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+ 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+2 
+ 
+Professional Elective - I 
+ 
+PE611PE 
+PE612PE 
+PE613PE 
+Pipeline Engineering  
+Natural Gas Processing  
+Petrochemical Engineering 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives fro m all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+3 
+ 
+INSTRUMENTATION AND PROCESS CONTROL 
+ 
+B.Tech. III Year I Sem. L    T/P/D  C 
+Course Code: PE501PC 4     1/0/0    4 
+ 
+Prerequisites: Chemical Engineering Fluid Mechanics and Process Heat Transfer 
+ 
+Course Objectives: The subject is designed to understand the fundamentals and principles of 
+Process Control and instrumentation It also provides the details of performance 
+characteristics and applications of various instruments used in petroleum industry. 
+ 
+Course Outcomes: The student would be able to understand Process modeling fundamentals, 
+idealized dynamic behavior, transfer functions, control system context like evaluate stability, 
+frequency response, and other characteristics relevant to process control. 
+ 
+UNIT - I 
+Elements of instruments, static and dynamic characteristics, mercury in glass thermometer, 
+bimetallic thermometer, pressure spri ng thermometer, static accuracy . Thermo electricity: 
+Industrial thermocouples, thermocouple wires, thermo couple wells 
+Composition analysis, spectroscopic analysis by absorption, emission, mass and color 
+measurement by spectrometers, gas analysis by thermal conductivity, analysis of mois ture, 
+gas chromatography, refractometer 
+ 
+UNIT - II 
+Measurement of Pressure and vacuum: liquid column manometers, measuring elements for 
+gauge pressure and vacuum, indicating elements for pressure gauges, measurement of 
+absolute pressure, measuring pressure in corrosive liquids 
+Measurement of head and level: Head, density and specific gravity, direct measurement of 
+liquid level, pressure measurement in open vessels, level measurements in pressure vessels.. 
+ velocity meters, quantity meters, viscosity measure ments. Recording instruments, indicating 
+and signalling instruments, transmission of instrument readings, control center, 
+instrumentation diagram  
+ 
+UNIT - III 
+Introduction to process control: Response of First order system s, Transfer Function  of 
+mercury thermometer , Transient response to step, impulse, sinusoidal forcing function, 
+physical examples of first order systems, liquid level, mixing process,  RC circuit, response of 
+first order systems in series: Noninteracting and interacting systems  
+ 
+UNIT - IV 
+Response of Second order system to step, impulse and sinusoidal forcing function. 
+Transportation lag . 
+
+R16 B.TECH PETROLEUM ENGG. 
+4 
+ 
+The control system: Servo and Regulatory control problems, Development of Block diagram, 
+Controllers and final control elements, Ideal trans fer functions of  P, PI, PD and PID 
+Controllers. closed loop transfer functions, Stability: Stability analysis by Routh’s Criterion 
+ 
+UNIT - V 
+Root locus: concept of root locus, plotting the root locus diagram. 
+Introduction to f requency response: substitution rule, Bode diagram s for  First order, first 
+order systems in series, second order system and for controllers and transportation lag. Bode 
+stability criterion. Gain margin and phase margin, Z-N controller settings 
+ 
+TEXT BOOKS: 
+1. Industrial instrumentation by Donald P. Eckman, Wiley eastern, 1950. 
+2. Donald R. Coughanowr, Process Systems Analysis and Control, 2 nd edition McGraw-
+Hill,1991 
+ 
+REFERENCE BOOKS: 
+1. Principles of industrial instrumentation by Patra Nabis, TMH. 
+2. Chemical Process Control Stephanoupoulou s, G., Prentice Hall, India New Delhi. 
+1990. 
+
+R16 B.TECH PETROLEUM ENGG. 
+5 
+ 
+WELL LOGGING AND FORMATION EVALUATION 
+ 
+B.Tech. III Year I Sem. L    T/P/D  C 
+Course Code: PE502PC 4     0/0/0    4 
+ 
+Prerequisites: General Geology and Petroleum Geology 
+ 
+Course Objectives: 
+ To know the logging terminology. 
+ To delineate hydrocarbons through direct and indirect means/methods. 
+ Determination of formation lithology through logs like S.P, G.R etc. and also 
+depositional environment with the help of Gamma rays spectroscopy and Dip -meter 
+tools. 
+ Determination of physical properties of the subsurface, strata like resistivity, porosity, 
+thickness etc. through tools like latero, induction, density, neutron, etc. 
+ Hydrocarbon saturation estimation with the data acquired by the logging tools. 
+ Hydrocarbons reserves estimation in a particular block. 
+ Refinement of the log interpretation data with the help of advanced technology tools 
+namely, Scanner, NMR, Modular formation tester etc. 
+ 
+Course Outcomes: From the well logs: 
+ Will be able to identify the lithology, depositional environment of subsurface strata. 
+ Will be able to calculate the porosity, permeability, thickness of different interesting 
+layers in a well. 
+ Finally, the hydrocarbon saturation in different reservoir rocks can be calculated at the 
+well site itself. 
+ 
+UNIT-I 
+Direct Methods: Mud logging- coring – conventional and sidewall coring - Core analysis. 
+Concepts of well logging : What is well logging? - Logging terminology -Borehole 
+environment-Borehole temperature and pressure -Log header and depth scale-Major 
+components of well logging unit and logging setup - Classification of well logging methods -
+Log presentation- Log quality control. 
+ 
+UNIT-II 
+Open hole logging: SP Logging - Origin of SP, uses of SP log -Calculation of salinity of 
+formation water- Shaliness-Factors influence SP log. 
+Resistivity log: Single point resistance log (SPR)- Conventional resistivity logs- Response of 
+potential and gradient logs over thin and thick conductive and resistive formations -
+Limitations of conventional resistivity too ls. Focused resistivity log - Advantages of focused 
+resistivity tools over conventional resistivity tools.  
+Micro resistivity log: Conventional and focused micro resistivity logs and their application. 
+
+R16 B.TECH PETROLEUM ENGG. 
+6 
+ 
+Induction log : Principle of induction tool and the adva ntages. Criteria for selection of 
+induction and lateral logging tool. Determination of true resistivity (Rt) of the formation -
+Resistivity index-Archie’s equation. 
+ 
+UNIT-III  
+Gamma ray log : principle of radioactivity -Uses of gamma ray log - Determination of 
+shaliness of formation -API counts - Calibration of Gamma ray tool -Statistical fluctuation - 
+Time constant. 
+Natural Spectral Gamma ray log: Principle and application. 
+Caliper log: Principle and application of caliper tool. 
+Density log : Principle of density to ol- Environmental corrections -Porosity determination -
+Tool calibration. Litho density log. 
+Neutron log: Principle and application of neutron tool. Porosity determination. 
+Sonic log: Principle and application of sonic log -Bore hole compensation -Determination of 
+primary and secondary porosity, determination of mechanical properties of rock, elastic 
+constants, fractures etc. 
+ 
+UNIT-IV 
+Cased hole logging: Gamma ray spectral log-Neutron decay time log-Determination of fluid 
+saturation behind casing -Cement bond log - Casing collar log -Depth control - Perforation 
+technique- Free point locater and Plug setting-Casing inspection logs.  
+Production logging: Solving production problems with the help of Fluid Density log - 
+Temperature log and Flow meter logs. 
+ 
+UNIT-V 
+Advances in Well logging: Dip meter log -Formation tester -Cased hole resistivity logs -
+Nuclear magnetic resonance log & Scanner logs (Sonic scanner, MR scanner Rt scanner). 
+Outcome: Calculating the dip of the formations, collection of fluid samples from wel ls for 
+confirmation of log interpretation, and also recording resistivity in cased holes. 
+Interpretation: Quick look interpretation - Cross plots. Neutron - Density, Sonic - Density, 
+Sonic- Neutron cross plots-Hingle plot-Mid plot –Correlation- Hydrocarbon reserve estimate. 
+ 
+TEXT BOOKS: 
+1. Formation evaluation, Edward J. Lynch, Harper & Row, 1962. 
+2. Well logging and formation evaluation, Toby Darling, Elsevier, New York, 2005. 
+3. Well Logging & Reservoir Evaluation, Oberto Serra, Editions Technip, 2007. 
+
+R16 B.TECH PETROLEUM ENGG. 
+7 
+ 
+THERMODYNAMICS FOR PETROLEUM ENGINEERS 
+ 
+B.Tech. III Year I Sem. L    T/P/D  C 
+Course Code: PE503PC 4     1/0/0    4 
+ 
+Prerequisites: Engineering Mathematics, Engineering Physics 
+ 
+Course Objective: This course is to understand the laws of thermodynamics and their 
+application in the analysis of chemical and engineering problems and to calculate 
+thermodynamics properties of fluids and fluid mixtures using equation of state. 
+ 
+Course Outcome: Student should be able to identify a system and apply the laws of 
+thermodynamics and should be able to estimate thermodynamic properties of substances in 
+gas or liquid state 
+ 
+UNIT-I 
+Introduction: The scope of thermodynamics, defined quantities; temperature, volume, 
+pressure, work, energy, heat, Joules Experiments, SI units. 
+The fir st law and other basic concepts : The first law of thermodynamics, thermodynamic 
+state and state functions, enthalpy, the steady -state steady flow process, equilibrium, the 
+reversible process, constant-V and constant- P processes, heat capacity. 
+ 
+UNIT-II 
+Volumetric properties of pure fluids: The PVT behavior of pure substances, virial equations, 
+the ideal gas, the applications of the virial equations, Cubic equations of state, generalized 
+correlations for gases. 
+The second law of thermodynamics -1: Statements of the second law, heat engines, 
+thermodynamic temperature scales, thermodynamic temperature and the ideal-gas scale. 
+ 
+UNIT-III 
+The second law of thermodynamics -2: Entropy, Entropy changes of an ideal gas, 
+mathematical statement of the second law, the t hird law of thermodynamics. Mollier diagram 
+and steam tables. 
+Thermodynamics of flow processes; principles of conservation of mass and energy for flow 
+systems, analysis of expansion processes; turbines, throttling; compression processes –
+compressors and pumps; calculation of ideal work and last work. Examples on hydrocarbons 
+and natural gas. 
+ 
+UNIT-IV 
+Solution thermodynamics: Basic concepts of chemical potential, phase equilibria, partial 
+properties, fugacity coefficient, residual and excess Gibbs free energy, correlations for the 
+estimation of fugacity coefficient, residual and excess Gibbs energy in vapor liquid equilibria. 
+ 
+ 
+
+R16 B.TECH PETROLEUM ENGG. 
+8 
+ 
+UNIT-V 
+Phase Equilibria: Gamma/Phi formulation of VLE, VLE from Virial equations of state, and 
+cubic equations of state, Introdu ction to vapor- liquid–liquid equilibrium (VLLE), solid -
+liquid equilibrium (SLE), and solid vapor equilibrium (SVE), equilibrium adsorption of gases 
+on solids. Correlations for petroleum fluids. 
+ 
+TEXT BOOK: 
+1. Introduction to Chemical Engineering Thermodynami cs, J.M. Smith, H.C. Van Ness 
+and M.M. Abbott, 7th ed. McGraw Hill, 2005. 
+ 
+REFERENCE BOOKS: 
+1. Characterization and Properties of Petroleum Fractions. M. R. Riaze, ASTM, USA, 
+2005. 
+2. Equation of state and PVT analysis. Tarek Ahmed, Gulf publishing company, 
+Houston, 2007. 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+9 
+ 
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To understand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing, Leading, 
+Motivation and Control aspects are learnt in this course. The students can explore the 
+Management Practices in their domain area. 
+  
+UNIT - I 
+Introduction to Management: Definition, Nature and Scope, Functions, Managerial Roles, 
+Levels of Management, Manage rial Skills, Challenges of Management; Evolution of 
+Management- Classical Approach - Scientific and Administrative Management; The 
+Behavioral approach; The Quantitative approach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT - II 
+Planning and Decision Making: General Framework for Planning - Planning Process, 
+Types of Plans, Management by Objectives; Development of Business Strategy. Decision 
+making and Problem Solving - Programmed and Non Programmed Decisions, Steps in 
+Problem Solving and Decision Making; Bounded Rationality and Influences on Decision 
+Making; Group Problem Solving and Decision Making, Creativity and Innovation in 
+Managerial Work.  
+ 
+UNIT - III 
+Organization and HRM: Principles of Organization: Organizational Design & 
+Organizational Structures; Departmentalization, Delegation; Empowerment, Centralization, 
+Decentralization, Recentralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent Management,  Talent 
+Management Models and Strategic Human Resource Planning; Recruitment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT - IV 
+Leading and Motivation: Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situa tional Leadership, Leadership Skills, Leader as Mentor and Coach, 
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH PETROLEUM ENGG. 
+10 
+ 
+Motivation - Types of Motivation; Relationship between Motivation, Performance and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor Theory, 
+Theory X and Theory Y. 
+ 
+UNIT - V 
+Controlling: Control, Types and Strategies for Control, Steps in Control Process, Budgetary 
+and Non - Budgetary Controls. Characteristics  of Effective Controls, Establishing control 
+systems, Control frequency and Methods.  
+ 
+Text Books:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+References:  
+1. Essentials of Management, Koontz Kleihrich, Tata McGraw Hill.  
+2. Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012. 
+
+R16 B.TECH PETROLEUM ENGG. 
+11 
+ 
+INSTRUMENTATION AND PROCESS CONTROL LAB 
+ 
+B.Tech. III Year I Sem. L    T/P/D  C 
+Course Code: PE505PC 0     0/3/0    2 
+ 
+Prerequisites: Basic knowledge of Instrumentation and Process Control 
+ 
+Course Objectives: Instrumentation and Process Control laboratory enables a “hands -on” 
+environment that is important  for developing students’ understanding of theoretical ideas. 
+Instrumentation and Process Control laboratory is equipped with different instruments like 
+computer based temperature measurement, level detection, pressure measurement, flow 
+measurement etc. and different types of valves, and operations in process control  loop. On 
+different panels or rigs these are arranged in different control configurations to achieve 
+specific control objectives. 
+ 
+Course Outcomes: By the end of the course, students should be able to:  
+ develop awareness of safety in the laboratory so that  all laboratory work is carried out 
+in a safe manner  
+ develop the ability to carry out experimental investigations of  processes which 
+include  creating equipment diagrams and comprehensive safe operating procedures 
+for various unit operations 
+ determine a specific set of experimental objectives  
+ develop the ability to work in a team and develop confidence through the application 
+of previously acquired knowledge of unit operations, chemical reactions, process 
+safety, and process control 
+ learn how to apply software tools typically used by process control professionals 
+ 
+List of Experiments: 
+1.  Calibration and determination of time lag of various first and second order instruments 
+Major equipment - First order instrument like Mercury-in-Glass thermometer and Overall 
+second order instrument like Mercury-in-Glass thermometer in a thermal well 
+ 
+2.  Experiments with single and two capacity systems with and without interaction Major 
+equipment- Single tank system, Two-tank systems (Interacting and Non-Interacting)   
+ 
+3.  Level control trainer  
+Major equipment - Level control trainer set up with computer  
+ 
+4.  Temperature control trainer  
+Major equipment - Temperature control trainer with computer 
+ 
+5.  Cascade control  
+Major equipment - Cascade control apparatus with computer  
+
+R16 B.TECH PETROLEUM ENGG. 
+12 
+ 
+6.  Experiments on proportional, reset, rate mode of control etc. 
+     Major equipment – PID control apparatus 
+ 
+7.  Control valve characteristics 
+     Major equipment – Control valve set up 
+ 
+8.  Estimation of damping coefficient for U-tube manometer 
+     Major equipment - U-tube manometer 
+ 
+9. Calibration of Mercury in glass thermometer  
+ 
+10 Calibration of Thermocouple 
+ 
+11 Calibration of Pressure Gauge  
+ 
+12 Calibration of Rotameter 
+
+R16 B.TECH PETROLEUM ENGG. 
+13 
+ 
+WELL LOGGING AND FORMATION EVALUATION LAB  
+ 
+B.Tech. III Year I Sem. L    T/P/D  C 
+Course Code: PE506PC 0     0/3/0    2 
+ 
+Prerequisites: Well Logging and Formation Evaluation 
+ 
+Course Objectives:  
+ To delineate hydrocarbons through direct and indirect means/methods. 
+ To determine lithology using different logs 
+ To estimate hydrocarbon and water saturation for geological formations 
+ 
+Course Outcome: The students will get the basic knowledge to interpret well logs for 
+hydrocarbon and coal exploration. 
+ 
+List of Practicals: 
+1.  To study SP and Gamma Ray logs to identify bed boundaries 
+2.  To compute porosity of the formation using different types of input data  
+3.  To compute water saturation from resistivity logs  
+4.  To apply borehole correction on SP and resistivity logs 
+5.  To apply borehole correction on gamma ray log 
+6.  To calculate formation temperature 
+7.  To calculate formation factor from resistivity log 
+8. To find out litho-inuts from different cross-plots 
+9.  Use of porosity logs to distinguish oil and gas 
+10. To cross plot resistivity versus sonic travel time 
+11.  To determine porosity from neutron density and sonic logs 
+12. To identify lithology using MN plots 
+13. To identify lithology using MID plots 
+14. To interpret dipmeter log 
+15. To interpret coal log data 
+16. To compute resistivity of formation water from SP logs  
+
+R16 B.TECH PETROLEUM ENGG. 
+14 
+ 
+ENERGY AND ENVIRONMENTAL ENGINEERING LAB 
+ 
+B.Tech. III Year I Sem. L    T/P/D  C 
+Course Code: PE507PC 0     0/3/0    2 
+ 
+Prerequisites: Environmental Engineering and Energy Engineering 
+ 
+Course Objectives:  
+ To estimate pH, TDS & Conductivity, Hardness,  Turbidity, Fluoride of ground & 
+surface water 
+ To analyse the air to understand the pollution level 
+ To understand different parameters of fuel cell and concept of energy audit 
+ 
+Course Outcome: The student will be able to understand various aspects of energ y and 
+environment which are very much essential in the industry 
+ 
+List of Experiments: 
+1. Estimation of chemical and physical parameters of Ground and Surface water:  
+pH, TDS & Conductivity, Hardness, Turbidity, Fluoride, Color analysis. Pesticide 
+Microbial analysis:  e-coli/ total coli forms  bacteria 
+2. Estimation of physical parameters of waste water:  pH, TDS, Hardness, Turbidity, 
+Alkalinity etc.   
+3. Estimation of chemical parameters of waste water: COD, BOD, TSS 
+4. Water and waste water treatment: Small RO system for treatment of ground water. 
+Same above system with UF membrane for turbidity removal and water disinfection. 
+5. Analysis of Air: Estimation of SPM, RSPM, Sox, Nox, CO and ozone in atmospheric 
+air to study air pollution. 
+6. Fuel cell Test Kit [Energy] : A small ½ watt to 1 watt fuel cell with water electrolysis  
+kit (H2 and O2 Generation) plus small volt meter and ammeter for measuring fuel cell 
+performance (Three experiments can be conducted using this kit). 
+7. One small transparent anaerobic/aerobic biological re actor with slurry pump and 
+aerator for treatment of industrial effluents to reduce COD levels. 
+8. Energy auditing of your Department. 
+ 
+List of Equipment: 
+pH  meter, Colorimeter, TDS meter, Aerobic /Anaerobic reactor 25L capacity, BOD 
+incubator, High accuracy analytical balance (5 digit), Desiccators, RO system with domestic 
+2’’x12’’ Membrane module, H2S vial kit, Water analysis kit, UV -Vis spectrophotometer, 
+High volume air sampler, Bomb calorimeter, Fuel cell test kit, Microscope. 
+
+R16 B.TECH PETROLEUM ENGG. 
+15 
+ 
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem. L    T/P/D  C 
+Course Code: MC500HS 3     0/0/0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers . The students will learn the rights and responsibilities  
+as an employee, team member and a global citizen.  
+ 
+UNIT - I  
+Introduction to Professional Ethics : Basi c Concepts, Governing Ethics, Personal & 
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelligence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, P rofessional Accountabilities, Professional Success, Ethics 
+and Profession. 
+ 
+UNIT- II  
+Basic Theories: Basic Ethical Principles, Moral Developments, Deontology, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, Moral Absolution, Moral Rationalis m, Moral 
+Pluralism, Ethical Egoism, Feminist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT - III   
+Professional Practices in Engineering:  Professions and Norms of Professional Conduct, 
+Norms of Professional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC -10 Crash and Kansas City Hyatt Regency 
+Walk away Collapse. 
+ 
+UNIT - IV  
+Work Place Rights & Responsibilities, Ethics in changing domains of Research, Engineers 
+and Managers; Organizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing do mains of research - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+UNIT - V  
+Global issues in Professional Ethics: Introduction – Current Scenario, Technology 
+Globalization of MNCs,  International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governanc e, Sustainable Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution,  Ethics in Manufacturing and  Marketing, Media Ethics; War Ethics; 
+Bio Ethics, Intellectual Property Rights.     
+
+R16 B.TECH PETROLEUM ENGG. 
+16 
+ 
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R.Subramanian,  Oxford University Press, 2015. 
+2. Ethics in Engineering Practice &  Research, Caroline Whitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES:  
+1. Engineering Ethics, Concepts Cases : Charles E Harris Jr., Michael S Pritchard , 
+Michael J Rabins, 4e , Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008. 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+17 
+ 
+PIPELINE ENGINEERING 
+ (Professional Elective - I) 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: PE611PE 3     0/0/0    3 
+ 
+Course Objectives: 
+ To familiarize the students with the various elements and stages involved in 
+transportation of oil and gas. 
+ To understand international standards and practices in piping design. 
+ To know various equipment and their operation in pipeline transportation. 
+ To understand modern trends in transportation of oil and gas 
+ 
+Course Outcome: The students would get an understanding of the key steps in a pipeline’s 
+lifecycle: design, construction, installation, asset management and maintenance. 
+ 
+UNIT-I 
+Elements of pipeline design: Fluid properties – Environment - Effects of pressure and 
+temperature - Supply / Demand scenario - Route selection - Codes and standards - 
+Environmental and hydrological considerations – Economics - Materials / Construction – 
+Operation - Pipeline protection - Pipeline integrity monitoring. 
+Pipeline route selection, survey and geotechnical guidelines: Introduction - Preliminary 
+route selection - Key factors for route selection - Engineering survey - Legal survey - 
+Construction / As-built survey - Geotechnical design. 
+ 
+UNIT-II 
+Natural gas transmission: General flow equation – Steady state - Impact of gas molecular 
+weight and compressibility factor on flow capacity - Flow regimes - Widely used steady-state 
+flow equations – Summary of the impact of different gas and pipeline parame ters on the gas 
+flow efficiency – Pressure drop calculation for pipeline in series and parallel – Pipeline gas 
+velocity – Erosional velocity – Optimum pressure drop for design purposes – Pipeline 
+packing – Determining gas leakage using pressure drop method  – Wall thickness / pipe grade 
+– Temperature profile – Optimization process – Gas transmission solved problems. 
+ 
+UNIT-III 
+Gas compression and coolers: Types of compressors – Compressor drivers – Compressor 
+station configuration – Thermodynamics of isotherm al and adiabatic gas compression – 
+Temperature change in adiabatic gas compression – Thermodynamics of polytropic gas 
+compression – Gas compressors in series – Centrifugal compressor horsepower – Enthalpy / 
+Entropy charts (Mollier diagram) – Centrifugal compressor performance curve – Influence of 
+pipeline resistance on centrifugal compressor performance -Reciprocating compressors – Gas 
+compression solved problems – Gas coolers – Air-cooled heat exchangers – Coolers heat 
+
+R16 B.TECH PETROLEUM ENGG. 
+18 
+ 
+transfer equations – Fan air mass flow  rate – Required fan power – Gas pressure drop in 
+coolers – Iterative procedure for calculations based on unknown T2. 
+ 
+UNIT-IV 
+Liquid flow and pumps: Fully developed laminar flow in a pipe – Turbulent flow – 
+Centrifugal pumps – Retrofitting for centrifugal pumps (Radial-flow) – Pump station control 
+– Pump station piping design. 
+Transient flow in liquid and gas pipelines: Purpose of transient analysis – Theoretical 
+fundamentals and transient solution technique – Applications – Computer applications. 
+Pipeline mechanical design: Codes and standards – Location classification – Pipeline design 
+formula – Expansion and flexibility – Joint design for pipes of unequal wall thickness. 
+ 
+UNIT-V 
+Materials selection and quality management: Elements of design – Materials designation 
+standards – Quality management. 
+Pipeline construction: Construction – Commissioning. 
+Pipeline protection, Instrumentation, pigging & Operations: Pipeline coating – Cathodic 
+protection – Cathodic protection calculations for land pipelines – Internal corrosion – Flow 
+meters and their calibration – Sensors – Pigs-Pipeline Operations and maintenance. 
+ 
+TEXT BOOKS: 
+1. Pipeline Design and Construction: A Practical Approach, M. Mahitpour, H. Golshan 
+and M.A. Murray, 2nd Edition, ASME Press, 2007. 
+2. Pipeline Engineering, Henry Liu, Lewis Publishers (CRC Press), 2003. 
+ 
+REFERENCE BOOKS: 
+1. Piping Calculation Manual, E. Shashi Menon, McGraw-Hill, 2004. 
+2. Piping and Pipeline Engineering: Design, Construction, Maintenance Integrity and 
+Repair, George A. Antaki, CRC Press, 2003. 
+3. Pipeline Planning and Construction Field Manual, E. Shashi Menon, Gulf 
+Professional Publishing, 2011. 
+4. Pipeline Rules of Thumb Handbook, E. W. McAllister, 7th Edition, 2009. 
+5. Liquid Pipeline Hydraulics, E. Shashi Menon, Mareel Dekker Inc., 2004. 
+6. Gas Pipeline Hydraulics, E. Shashi Menon, Taylor & Francis, 2005. 
+
+R16 B.TECH PETROLEUM ENGG. 
+19 
+ 
+NATURAL GAS PROCESSING 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: PE612PE 3     0/0/0    3 
+ 
+Course Objectives: 
+ To enhance student's knowledge about natural gas produced in the reservoirs, surface 
+handling and processing equipment 
+ To educate student about knowledge of natural gas, basic chemical properties and 
+physical laws  
+ To update student with the understanding of operations of separators, heaters and glycol 
+dehydrators. 
+ 
+Course Outcome: The student would be able to describe the basic components of processing 
+equipment and explain various gas plant operational procedures. 
+ 
+UNIT-I 
+Overview of natural gas Industry : Introduction- The world picture for natural gas- Natural 
+Gas in India - Nonconventional gas reserves in India - Sources of natural gas -  Natural gas 
+compositions – Classification- Processing and principal products -  Product specifications - 
+Combustion characteristics - Overview of gas plant pro cessing- Roles of gas plants - Plant 
+processes. 
+Field operations and inlet receiving : Field operations- Gas hydrates Inlet receiving - Safety 
+and environmental considerations.  
+ 
+UNIT-II 
+Gas treating : Introduction- Solvent absorption processes - Physical abso rption- Adsorption- 
+Cryogenic fractionation - Membranes- Nonregenerable hydrogen Sulfide scavengers - 
+Biological processes- Safety and environmental considerations. 
+Gas dehydration: Introduction- Water content of hydrocarbons- Gas dehydration processes - 
+Safety and environmental considerations. 
+ 
+UNIT-III 
+Hydrocarbon recovery: Introduction- Process components- Recovery processes - Safety and 
+environmental considerations. 
+Nitrogen rejection : Introduction - Nitrogen rejection for gas upgrading - Nitrogen rejection  
+for enhanced oil recovery- Safety and environmental considerations. 
+Trace component recovery or removal : Introduction-Helium-Mercury- (BTEX) Benzene, 
+Toluene, Ethyl benzene, and Xylene. 
+ 
+ 
+ 
+
+R16 B.TECH PETROLEUM ENGG. 
+20 
+ 
+UNIT-IV 
+Liquids processing:  Introduction- Condensate processing- NGL processing - Safety and 
+environmental considerations. 
+Sulphur recovery: Introduction- Properties of sulphur- Sulphur recovery - Sulphur storage- 
+Safety and environmental considerations. 
+Transportation and storage: Introduction-Gas – Liquids. 
+ 
+UNIT-V 
+Liquefied Natural Gas: Gas treating before liquefaction - Liquefaction cycles - Storage of 
+LNG- Transportation- Regasification and cold utilization of LNG - Economics - Plant 
+efficiency - Safety and environmental considerations. 
+ 
+TEXT BOOK: 
+1. Fundamental of Natural Gas Processing, Arthur J. Kidnay, William R. Parrish, Taylor 
+and Francis, 2006. 
+ 
+REFERENCES: 
+1. Natural Gas: A Basic Handbook, James G. Speight, Gulf Publishing Company, 2007. 
+2. Gas Conditioning and Processing, John M. Campbell, Volume 2, 7 th Edition, 
+Campbell Petroleum Series, 1992. 
+3. Gas Conditioning and Processing, Robert N. Maddox, Volume 3, 3 rd Edition, 
+Campbell Petroleum Series, 1982. 
+4. Petroleum & Gas Field Processing, H. K. Abdel – Aal, Mohamed Aggour  and M. A. 
+Fahim, Marcel Dekker, Inc., 2003. 
+5. Engineering Data Book 12 th Edition (Electronic), FPS Version, Volume I & II, Gas 
+Processers Suppliers Association (GPSA), 2005. 
+6. Handbook of Natural Gas Transmission and Processing, Saeid Mokhatab, William A. 
+Poe, James G. Speight, Gulf Professional Publishing, 2006. 
+7. Surface Production Operations, Ken Arnold, Maurice Stewart, Volume 2, 2 nd Edition, 
+Elsevier Science, 1989. 
+8. Field Handling of Natural Gas, J. Leecraft, 4th Edition, PETEX, 2007. 
+9. Plant Processing of Natural Gas, Doug Elliot, J.C. Kuo, Pervo uz Nasir, 2 nd Edition, 
+PETEX, 2012. 
+
+R16 B.TECH PETROLEUM ENGG. 
+21 
+ 
+PETROCHEMICAL ENGINEERING 
+ (Professional Elective - I) 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: PE613PE 3     0/0/0    3 
+ 
+Course Objectives: The course is designed to   
+ Impart knowledge to the students about the latest developments in petrochemical 
+engineering. 
+ To understand the various  feed stocks of petro-chemical  and  its products.  
+ To get acquainted with basic manufacturing processes of various petro -chemical 
+products. 
+ 
+Course Outcome: The student would be in a position to have a knowledge of feed -stocks 
+used in the petro -chemical engineering, various techniques  used to produce various 
+petrochemical products. 
+ 
+UNIT - I 
+Introduction: Petrochemical industry-Structures of petrochemical complexes-Feedstock for 
+petrochemicals-Profile of petrochemicals and their end products -Indian Petrochemical 
+industries-Profile of Indian petroleum and petrochemical Industry. 
+ 
+UNIT - II 
+Petrochemical Feed stocks-Naphtha cracking-Gas cracking and Gas reforming. 
+Chemicals from gas reforming: Methanol- Acetic acid- Ammonia and urea. 
+Production of ethylene & propylene: Separation of cracking products - Emerging 
+technologies. 
+ 
+UNIT - III 
+Chemicals from C 2 and C 3 olefins: Ethylene oxide - MEG- Ethyl benzene -styrene. 
+Acrylonitrile–butyraldehydes and butanols, 2-ethyl hexanol. 
+ Polymers based on olefins: LDPE, HDPE & LLDPE and Polypropylene- and polystyrene. 
+C4 based Chemicals and others:  Butadiene–1-Butene–n-Butenes-Isobutylene–n-Butene–
+Octenes–1,4-Butanediol–Chloroprene–Isoprene- Maleic anhydride. 
+ 
+UNIT - IV 
+Aromatic production: Petroleum feedstock for aromatic hydrocarbons -Aromatic 
+hydrocarbon production - catalytic reforming -Reactions in catalytic reforming -Reforming 
+catalyst-Reforming process -Process variables in catalytic reforming -Pyrolysis gasoline as 
+aromatics feedstock -Aromatic separation from reformate and pyrolysis gasoline - Emerging 
+technologies for the production of BTX. 
+ 
+ 
+
+R16 B.TECH PETROLEUM ENGG. 
+22 
+ 
+UNIT - V 
+Production of Chemicals based on aromatics : Phthalic anhydride –Linear alkyl benzene –
+Phenol–– Nitrobenzene and aniline 
+Chemicals for Fibres : Cyclohexane – Caprolactam – Adipic acid –Adiponitrile–
+Hexamethylene diamene and Dimethyl terephthalete, Terephthalic acid –Polyester fibre 
+(Polyethylene terephthalate)–Nylon 66–Nylon 6– Acrylic fibres. 
+ 
+TEXT BOOK: 
+1. Petrochemical Process Technology, ID Mall, Macmillan India Ltd., New Delhi. 2007. 
+ 
+REFERENCE BOOKS: 
+1. Chemistry of Petrochemical Processes, Sami Matar and Lewis F.Hatch, 2nd Edition, 
+Gulf Publishing Company, Houston, 2000. 
+2. Fundamentals of Petroleum Chemical Technology, P Belov, Mir Publishers, 1970. 
+3. Petrochemical Processes, A. Chauvel and G.Lefebvre, Volume 1 & 2, Gulf Publishing 
+Company, 1989. 
+4. Petrochemical Production Processes, N.Naderpour, SBS Publishers, 2009. 
+5. Petrochemicals, B. K. Bhaskara Rao, Oxford & IBH Publishing, 2002. 
+ 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+23 
+ 
+DRILLING TECHNOLOGY 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: PE601PC 4     0/0/0    4 
+ 
+Prerequisites: Elements of Mechanical Engineering, Chemical Engineering Fluid Mechanics 
+Course Objectives: 
+ To understand various aspects involved in drilling a well including completion. 
+ To understand the plan of drilling a well, the process of drilling and various 
+equipment used for drilling and design of the drill string. 
+ To know the drilling fluid importance and its properties and hydraulics. 
+ To understand different types of casings lowered in a well, the requirement of 
+cementation in a well and cement slurry design. 
+ To understand different tools used for directional drilling and various techniques, 
+fishing, stuck pipe and well control concepts. 
+ 
+Course Outcomes: The students will be able to 
+ apply the drilling concepts of a well from planning to rig mobilization to the location 
+ apply the concept of a drill string design for drilling 
+ decide the suitable drilling fluids during drilling 
+ do Casing and Cementation design 
+ carry out Directional drilling 
+ manage rouble shoot well control, stuck pipe and fishing problems 
+ to select the proper drilling equipment. 
+ 
+UNIT - I 
+Overview of drilling: Drilling plan- GTO -Types of drilling, Rotary bit technology - Drilling 
+string basics. Drilling fluid properties - Drilling fluid hydraulics calculations - Bit Hydraulics- 
+Optimization- Swab & Surge-pressures- Mud hydraulics analysis report- Lost circulation. 
+Disposing of the drilling fluids waste and drill cuttings waste. 
+ 
+UNIT - II 
+Hydrostatic pressure, Pore pressure, Causes of abnormal pore pressure, abnormal pore 
+pressure evaluation - Mud logging methods - Measurement while drilling & logging while 
+drilling data-Direct measurements of pore pressure.  Formation integrity tests – Fracture 
+gradient determination – Theory of wellbore – FIT procedural Guidelines – Predicting 
+fracture gradient HPHT well design. 
+ 
+UNIT - III 
+Wellbore stability –Determination of the magnitude and direction of the in situ stress  
+Determination of rock properties, Failure criteria – Stress distribution around a wellbore 
+Procedure for determining safe mud weights to prevent hole collapse  Preventing borehole 
+instability Gas behavior in a well – Kick tolerance How to calculate kick tolerance – 
+Influence of FG on kick tolerance – Kick tolerance while drilling – Kick tolerance graph – 
+
+R16 B.TECH PETROLEUM ENGG. 
+24 
+ 
+Modifying the calculate kick tolerance – Use of kick tolerance to calculate wellbore 
+pressures. 
+ 
+UNIT - IV 
+Casing  Functions of casing – Types of casing – Casing properties  Casing specifications – 
+Casing connections – Factors influencing casing design  – Collapse criterion – Burst criterion 
+– Combination strings – Tension criterion  Compression loads – Biaxial effects – Triaxial 
+analysis – Triaxial load capacity diagram Casing seat selection method. 
+Cementation: Introduction cement slurries -Typical field calculations - Cementing 
+nomenclature- Cement additives – Cementation of liners. 
+ 
+UNIT - V 
+Directional drilling: Applications- Well planning - Down-hole motors- Deflection tools and 
+techniques- Face orientation - Direction control with rotary assemblies - Navigation drilling 
+systems. 
+Horizontal wells : Well profile design considerations – Torque and drag – Horizontal 
+borehole stability – Extended reach well design – Multilateral wells. 
+Stuck pipe, well control : Kicks- Kick control - Pressure control theory - BOP-Special kick 
+problems and procedures to free the pipes and Fishing operations. Types of fishing tools, 
+Case studies of blow out control. 
+ 
+TEXT BOOKS: 
+1. Petroleum Engineering: Drilling and Well Completion, Carl Gatlin, Prentice -Hall, 
+Inc., 1960. 
+2. Drilling Engineering, J.J. Azar and G. Robello Samuel, Pennwell Books, 2007. 
+3. Working Guide to Drilling Equipment and Operations, William Lyons, Gulf 
+Publishing, 2009. 
+ 
+REFERENCE BOOKS: 
+1. Oil Well Drilling Engineering: Principles and Practice, H. Rabia, Graham & Trotman, 
+1985. 
+2. Drilling Engineering: A Complete Well Planning Approach, Neal Adams, Tommie 
+Charrier Pennwell, 1985. 
+3. Practical Well Planning and Drilling Manual, Steve Devereux, Pennwell, 1998. 
+4. Primer of Oil Well Service, Workover and Completion, Petroleum Extension Service, 
+University of Texas at Austin, 1997. 
+5. Formulas and Calculation for Drilling,  Production and workover, Norton J. 
+Lapeyrouse, 2
+nd
+Edition, Gulf Publishing, 2002. 
+6. Applied Drilling Engineering, Adam T. Bourgoyne Jr., Keith K. Millheim, Martine E. 
+Chenevert and F. S. Young Jr., Society of Petroleum Engineers, 1991. 
+7. Well Engineering and Construction, Hussain Rabia, Entrac Consulting, 2002. 
+8. Drilling Fluids Processing Handbook, ASME Shale Shaker Committee, Gulf 
+Professional Publishing, 2005. 
+9. Fundamentals of Drilling Engineering, Robert F. Mitchell, Stefan Z. Miska, Society 
+of Petroleum Engineers, 2011. 
+
+R16 B.TECH PETROLEUM ENGG. 
+25 
+ 
+PETROLEUM RESERVOIR ENGINEERING 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: PE602PC 4     0/0/0    4 
+ 
+Prerequisites: Chemical Engineering Fluid Mechanics, Petroleum Geology, Chemical 
+Process Calculations 
+ 
+Course Objectives: 
+ Recognize the central role of reservoir engineers in describing, evaluating and managing 
+the reservoir system and, therefore, strive to gain a sound understanding of scientific 
+principles used in the basic activities of reservoir engineering. 
+ Emphasize the impact of reservoir fluid behavior on reservoir exploitation. 
+ Understand the mechanics of oil and gas production in reservoirs and be able to apply the 
+basic quantitative tools of reservoir engineering to analyze and/or predict the behavior o f 
+the reservoir under potentially useful production schemes. 
+ 
+Course Outcome: The student would be able to u nderstand mechanics of oil production 
+(natural reservoir energies and expulsion of fluids), and basic performance characteristics of 
+various reservoir types to interpret performance characteristic curves for each reservoir type.  
+ 
+UNIT-I 
+Some basic concept s in Reservoir Engineering: Calculation of Hydrocarbon volumes – fluid 
+pressure regimes – oil recovery and recovery factor – volumetric gas reservoir engineering – 
+application of the real gas equation of state – gas material balance and recovery factor – 
+Hydrocarbon phase behavior. 
+PVT analysis for oil: definition of the basic PVT parameters – collection of fluid samples – 
+determination of the basic parameters in the laboratory and conversion for field operating 
+conditions – alternative manner of expressing  PVT lab analysis results – complete PVT 
+analysis. 
+ 
+UNIT-II 
+Material balance applied to oil reservoirs : general form – the material balance expressed as a 
+linear equation – reservoir drive mechanism – solution gas drive – gascap drive – natural 
+water drive – compaction drive under related pore compressibility phenomena.  
+Darcy’s law and applications: Darcy’s law and field potential – sign convention – units and 
+units conversion – real gas potential – datum pressures – radial steady state flow and well 
+stimulation– two phase flow – effective and relative permeabilities. 
+ 
+UNIT-III 
+The basic differential equation for radial flow in a porous medium – derivation of the basic 
+radial differential equation – conditions of solution – the linearization of the equatio n for 
+fluids of small and constant  compressibility. 
+
+R16 B.TECH PETROLEUM ENGG. 
+26 
+ 
+Well inflow estimation for stabilized flow conditions: Semi - steady – state solution – steady 
+state solution – example of the application of the stabilized inflow equations – generalized 
+form of inflow equation under semi steady state conditions. 
+ 
+UNIT-IV 
+The constant terminal rate solution of the radial diffusivity equation and its application to oil 
+well testing: The constant terminal rate solution – transient, semi steady state and steady state 
+flow c onditions – dimensionless variables – general theory of well testing – the Mathews, 
+Brons, Hazebroek pressure build up theory - pressure build up analysis techniques – Multi 
+Rate Drawdown testing – the effects of partial well completion – after flow analysis. 
+ 
+UNIT-V 
+Gas well testing: Linearization and solution of the basic differential equation for the radial 
+flow of a real gas – the Russel, Goodrich etal. solution technique – the Al Hussainy, Ramey 
+Crowford solution techniques – non– Darcy flow – determination of the non -Darcy 
+coefficient F – the constant terminal rate solution for the flow  of a real gas – general theory 
+of gas well testing – multi rate testing of gas wells – pressure build up testing of gas wells – 
+pressure build up analysis in solution gas drive reservoirs. 
+Natural Water influx: the unsteady state water influx theory of Hurst and Van Everdingen and 
+its application in history matching – the approximate water influx theory of Fetkovitch for 
+finite acquifiers predicting the amount o f mater influx – application of influx calculation 
+techniques to steam soaking . 
+ 
+TEXT BOOK: 
+1. Fundamentals of Reservoir Engineering , L.P. Dake, Elsevier Science, 1978 (17 th 
+Impression 1998). 
+ 
+REFERENCE BOOKS:  
+1. Reservoir Engineering Handbook, Tarek Ahmed, 3rd Edition, Gulf Professional 
+Publishing, 2006. 
+2. Petroleum Engineering: Principles and Practice, J.S Archer & C.G. Wall, Graham 
+&Trotman Inc. 1986.  
+3. Basic Reservoir Engineering, Rene Cosse, Editions Technip, 1993. 
+4. Petroleum Reservoir Engineering, James W Amyx, Daniel M. Bass Jr., Robert L. 
+Whiting, McGraw Hill, 1960. 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+27 
+ 
+PETROLEUM REFINERY ENGINEERING 
+ 
+B.Tech. III Year  II Sem. L    T/P/D  C 
+Course Code: PE603PC 4     0/0/0    4 
+ 
+Prerequisites: Engineering Chemistry, Chemical Process Calculations 
+ 
+Course Objectives: 
+ To understand the various feed stocks of refinery and petroleum products.  
+ To get acquainted with basic separation and conversion processes used in refining of 
+crude oil. 
+ To get familiarized with challenges involved in refining from viewpoint o f 
+environment. 
+ 
+Course Outcome: The student would be in a position to have advanced knowledge of feed -
+stocks used in the refinery, various conversion processes used to produce various petroleum 
+products. 
+ 
+UNIT - I 
+Introduction: Overall refinery operations & Indian scenario. 
+Refinery feed stocks : Crude oil classification -Composition and properties -Composition of 
+petroleum crude suitable for asphalt manufacture – Crude distillation curves. 
+ 
+UNIT - II 
+Petroleum Products: Low boiling products – Gasoline – Gasoline specifications – Distillate 
+fuels – Jet and turbine fuels – Automotive diesel fuels; Heating oils –Residual fuel oils; wax 
+and asphalt-Product blending. 
+Crude distillation: Atmosphere topping unit – Vacuum distillation –Auxiliary equipment – 
+Products of these two units. 
+ 
+UNIT - III 
+Thermal & catalytic processes : Visbreaking, Hydrovisbreaking, Thermal cracking – 
+Catalytic cracking fluidized bed catalytic cracking and Hydrocracking - Feed stocks – Feed 
+treating – Catalysts process variables – Yield estimation -Latest developments in cracking 
+processes. 
+Coking: Types  of petroleum coke-Properties and uses process description of delayed coking 
+- Flexicoking and fluid coking – Yields. 
+ 
+UNIT - IV 
+Hydroprocessing and residue processing : Composition of vacuum tower bottoms – 
+Processing options – Hydroprocessing options – Moving bed hydro processes – Solvent 
+extraction Hydrotreating catalysts – aromatics 
+reduction – Process variables. 
+
+R16 B.TECH PETROLEUM ENGG. 
+28 
+ 
+Catalytic reforming and isomerization: Catalytic reforming processes –Feed preparation & 
+catalysts – Yields-Isomerization Processes and yields. 
+ 
+UNIT-V 
+Alkylation and polymerization : Alkylation feed stocks – Products –Catalysts – 
+Hydrofluoric Acid and sulphuric acid alkylation processes –Comparison of processes -
+Polymerization processes. 
+Supporting processes: Hydrogen production and purification – Gas processing unit - Acid 
+gas removal – Sulphur recovery processes – Waste water treatment and control of 
+atmospheric pollution. 
+ 
+TEXT BOOK: 
+   1. Petroleum Refining: Technology and Economics, J.H. Gary and G.E.Handwerk, 4th 
+Edition, Marcel Dekkar, Inc.,  New York, 2001. 
+ 
+REFERENCE BOOKS: 
+1. Petroleum Refinery Engineering, W. L. Nelson, 4th Edition, McGraw Hill, New 
+York, 1958. 
+2. Modern Petroleum Refining  processes, 5th Edition, B. K. Bhaskara Rao, Oxford and 
+IBH Publishing Co. Pvt.    Ltd., 2008. 
+3. Practical Advances in Petroleum Processing, Chang S. Hsu and Paul Robinson, Vol. 1 
+& 2, Springer, 2006. 
+ 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+29 
+ 
+DRILLING FLUIDS LAB 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: PE604PC 0     0/3/0    2 
+ 
+Prerequisites: Drilling Technology 
+ 
+Course Objectives: 
+ To inform the students about the primary functions of drilling fluid 
+ To introduce the test procedures for controlling the properties of drilling fluid 
+ To introduce the common additives used to obtain the desirable properties under 
+various drilling conditions 
+ To explain main factors governing the selection of drilling fluids 
+ To improve technical report writing skills 
+ 
+Course Outcome: 
+ The students will be able to design desired drilling fluid. 
+ They will be aware of weighing additives and viscofiers. 
+ They can control filter loss. 
+ They can maintain hydrostatic pressure to prevent the well and rig from getting 
+damage. 
+ 
+List of Experiments: 
+1. Determination drilling fluid weight.  
+Equipment: Mud Balance 
+2. Determination of mud viscosity. 
+Equipment: Marsh Funnel 
+3. Determination of pH of mud. 
+Equipment: pH meter and Hydrion pH dispensers 
+4. Determination of mud rheology (Viscosity, Gel strength, and Yield point). 
+Equipment: Rheometer / Fann Viscometer 
+5. Determination of the loss of liquid from a mud. 
+Equipment: Standard API Filter-press 
+6. Determination of a drilling mud cake and evaluate resistivity. 
+Equipment: Fann Digital Resistivitymeter 
+7. Determination of the effect of adding bentonite on mud properties. 
+8. Drilling fluid contamination test (Salt, Gypsum & Cement contamination). 
+9. Determination of solid and liquid content and emulsion characteristics of drilling 
+fluid. 
+Equipment: Sand Content Set, Fann Emulsion and Electrical Stability Tester 
+10. Oil, water, solid and clay content determination. 
+Equipment: Oil-Water Retort Kit  
+11. Determination of water ratios for portland cement slurry. 
+
+R16 B.TECH PETROLEUM ENGG. 
+30 
+ 
+(Effect of water ratio on free water separation normal and minimum water content and 
+thickening time) 
+Equipment: The Atmospheric Consistometer 
+ 
+12. Determination of compressive strength of cement test moulds. 
+Equipment: Compressive Strength Testing Machine / UTM 
+ 
+
+R16 B.TECH PETROLEUM ENGG. 
+31 
+ 
+PETROLEUM RESERVOIR ENGINEERING LAB 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: PE605PC 0     0/3/0    2 
+ 
+Prerequisites: Petroleum Geology, Reservoir Engineering 
+ 
+Course Objective: To make familiar students with reservoir fluid and rock properties such as 
+Porosity,  Permeability, Saturation, Wettability, Viscosity, Contact Angle, Surface Tension 
+and Interfacial Tension  
+ 
+Course Outcome: The students should be in a position to 
+ predict the type of rock 
+ find out the amount of hydrocarbon in the reservoir 
+ determine the amount of recoverable hydrocarbon 
+ 
+List of Experiments 
+1. Determination of effective porosity by gas expansion method. 
+Equipment: Helium Porosimeter (Nitrogen gas can be used in place of helium). 
+2. Determination of porosity and pore size distribution by mercury injection. 
+Equipment: Mercury Porosimeter 
+3. Measurement of surface tension & interfacial tension with the ring tensiometer. 
+Equipment: Ring Tensiometer 
+4. Determination of fluid density using Pycnometer and Hydrometer methods. 
+Equipment: Pycnometer and Hydrometer 
+5. Liquid viscosity measurement using capillary tube viscometer (Ostwald type). 
+Equipment: Capillary Tube Viscometer. 
+6. Determination of capillary pressure of reservoir rock  (core) using porous plate 
+method. 
+Equipment: Capillary Pressure Cell 
+7. Measurement of contact angle (between oil, water and solid surface) using imaging 
+method. 
+Equipment: Image System Set-up 
+8. Measurement of Air Permeability. 
+Equipment: Constant Head Permeameter with the Hassler cell / Gas Permeameter 
+9. Absolute permeability measurement of water. 
+Equipment: Darcy Apparatus / Liquid Permeameter 
+10. Determination of relative permeability of oil-water using unsteady state method. 
+Equipment: Relative Permeability Apparatus 
+11. Determination of relative permeability of gas-oil using unsteady state method. 
+Equipment: Relative Permeability Apparatus 
+  
+
+R16 B.TECH PETROLEUM ENGG. 
+32 
+ 
+ADVANCED ENGLISH COMMUNICATIONS SKILLS LAB 
+ 
+B.Tech. III Year II Sem. L    T/P/D  C 
+Course Code: EN606HS 0     0/3/0    2 
+ 
+Introduction: 
+A course on Advanced English Communication Skills (AECS) Lab  is considered essential at 
+the third year level of B.Tech and B.Pharmacy courses. At this stage, the students need to 
+prepare themselves for their career which requires them to listen to, read, speak and write in 
+English both for their professional and in terpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+ 
+Course Objectives: This Lab focuses on using multi -media instruction for language 
+development to meet the following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioral skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes: Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus: 
+The following cour se activities will be conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+ 
+1. Inter-personal Communication and Building Vocabulary - Starting a 
+Conversation – Responding Appropriately and Relevantly – Using Appropriate Body 
+Language – Role Play in Different Situations - Synonyms and Antonyms, One -word 
+Substitutes, Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+2. Reading Comprehension  –General Vs Local Comprehension, Reading for Facts, 
+Guessing Meanings from Context, , Skimming, Scanning, Inferring Meaning. 
+3. Writing Skills  – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+
+R16 B.TECH PETROLEUM ENGG. 
+33 
+ 
+4. Presentation Skills  – Oral Presentations (individual or group) through JAM  
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+5. Group Discussion and Interview Skills  – Dynamics of Group Discussion, 
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance,  
+Fluency and Organization of Ideas and Rubrics of Evaluation - Concept and Process, 
+Pre-interview Planning, Opening Strategies, Answering Strategies, Interview through 
+Tele-conference & Video-conference and Mock Interviews. 
+ 
+Minimum Hardware Requirement: 
+Advanced English Communication Skills (AECS) Laboratory shall have the following 
+infrastructural facilities to accommodate at least 35 students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+ 
+Suggested Software: The software consisting of the prescribed topics elaborated above 
+should be procured and used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+ 
+REFERENCES:             
+1. Kumar, Sanjay and Pushp Lata. English for Effective Communication , Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI 
+Learning Pvt. Ltd., 2011. 
+

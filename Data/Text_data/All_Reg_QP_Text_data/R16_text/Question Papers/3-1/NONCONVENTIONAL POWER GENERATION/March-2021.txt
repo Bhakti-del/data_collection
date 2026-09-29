@@ -1,0 +1,58 @@
+Code No: 135CU              
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, March - 2021 
+ NON-CONVENTIONAL POWER GENERATION 
+(Common to CE, ME, ECE, CSE) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+Illustrate your answers with NEAT sketches wherever necessary. 
+1.a)  What features of solar energy make it attractive for use in irrigation water pump? With 
+a schematic diagram, explain the working of a solar thermal water pump. 
+b)  What is solar time, and why is it different from standard clock time of the country? 
+Derive an expression for solar day length.      [7+8] 
+ 
+2.a)  With a schematic diagram, explain the working of a solar pond electric power plant. 
+b)  Calculate the angle of incidence on a horizontal plane surface at Kolkata at 14.00 hrs 
+IST on March 21 st in a leap year. The north, longitude and latitude of Kolkata are         
+880 20′ E and 220 32′ N respectively. The standard longitude of IST is 810 44′ E. [8+7] 
+ 
+3.a) With a neat sketch, discuss the operating characteristics of photo voltaic module. 
+   b) Explain the design considerations/strategies for MPPT operations.   [7+8] 
+ 
+4.a)  Explain the following systems used for converting solar radiation into electrical energy: 
+        (i) Central receiver system (ii) Distributed collector system. 
+   b)  Draw the equivalent circuit of a solar cell, and discuss its V – I characteristics. [8+7] 
+    
+5.  Wind blows with a velocity of 15 m /s at 150C and 1 standard atm pressure. The turbine 
+diameter is 120 m with operating speed of 40 rpm at maximum efficiency. Propeller 
+type wind turbine is considered. Calculate the following : (a) total power de nsity in the 
+wind stream, (b) the maximum obtainable power density, ( c) a reasonably obtainable 
+power density, ( d) total power, ( e) torque at maximum efficiency and ( f) maximum 
+axial thrust. Assume R = 0.287 kJ/kg K and efficiency = 35 %.     [15] 
+ 
+6.a)  Explain the basic principle of wind energy conversion. 
+   b)  Discuss the merits and demerits associated with wind energy systems.   [7+8] 
+ 
+7.a)  List out various types of Geothermal resources. 
+b)  The following data are given for a family biogas digester s uitable for the output of four 
+cows:  
+Retention time = 22 days;  
+Temperature = 300C;  
+Dry matter consumed = 1.8 kg/day;   
+Biogas yield = 0.25 m3 per kg;   
+Burner efficiency = 60%;   
+Methane proportion = 0.82;   
+Heat of combustion of Methane may be assumed as 28 MJ/m3 at STP.  
+Calculate the volume of the biogas digester and the power available from the digester.
+           [6+9] 
+ 
+8.a)  Explain the total flow concept of liquid-dominated geothermal system. 
+   b)  List the factors affecting biogas generation. Explain any four in brief.  [7+8] 
+---ooOoo--- 
+     
+R16 
+19-03-2021 AM
+USED PAPER MARCH-2021
+

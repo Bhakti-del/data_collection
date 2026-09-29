@@ -1,0 +1,43 @@
+Code No: 133BM  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, September - 2021 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA   
+(Common to CSE, IT) 
+Time: 3 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.  Write a program to implement multilevel hierarchy, use super keyword to define methods 
+in sub classes.          [15] 
+ 
+2.a) How is abstraction different from information hiding? 
+   b)  What features of Java make it a robust language?     [8+7] 
+ 
+3. Write a program to merge the content of two files (user’s contacts in a mobile) into a 
+target file.          [15] 
+ 
+4.a) Discuss access protection for packages. 
+   b) How to inherit an interface to another?      [7+8] 
+ 
+5.a) Describe the life cycle of a thread. 
+   b) How to assign priorities to threads in Java program?     [7+8] 
+ 
+6.   What is an exception? How is it different from an error? What are the basic keywords 
+used to handle exceptions in Java? Explain their usage.    [15] 
+ 
+7.a) How to obtain an array from an ArrayList? 
+   b) What steps need to be followed to use an iterator to cycle through the contents of a  
+ collection?          [7+8] 
+ 
+8.  Create a user interface using MVC architecture and sw ing concepts to book a seat in a 
+bus [like redbus/abhibus applications].      [15] 
+  
+ 
+---oo0oo--- 
+ 
+ 
+R16 
+ 
+Used Papers SEP 2021
+

@@ -1,0 +1,48 @@
+Code No: 135SC 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+OPERATING SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Describe the difference between short -term, medium -term and long term scheduling .
+              [15] 
+ 
+2. Explain the different types of operating system interfaces and operations in detail. [15] 
+ 
+3. For the follo wing scheduling algorithms draw the Gantt chart and calculate average 
+waiting time and turnaround time in each of the following algorithms. 
+a) First-come, First-Served:  
+Process:   P1    P2     P3     
+Burst Time:     24    3     3 
+b) Shortest-Job-First:  
+Process:    P1    P2     P3     P4 
+Burst Time:    6     8   7     3 
+c) Priority Scheduling:  
+Process:    P1      P2       P3        P4        P5 
+Burst Time:   10    1    2     1    5    
+Priority:   3    1    4     5      2       [15] 
+ 
+4. What is a critical section problem? How i t can be solved for process synchronization?
+              [15] 
+ 
+5. Define cylinder, seek time, Latency time, Transfer time. Discuss FCFS and shortest 
+seek time first disk scheduling algorithms.        [15] 
+ 
+6. Differentiate paging and segmentation. Give the criteria for allocation of frames.   [15] 
+ 
+7. What is an access matrix? How the protection and security is achieved with access 
+matrix?            [15] 
+ 
+8. Write short notes on: 
+ a) fork() 
+ b) exec() 
+ c) wait()                                                            [5+5+5] 
+ 
+---ooOoo--- 
+ RA 
+USED PAPERSSEP-2021
+

@@ -1,0 +1,70 @@
+Code No: 133BC 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, August/September - 2022 
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+(Common to CSE, IT) 
+Time: 3 Hours         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Prove that 
+RS can be derived from the premises     
+ 
+ ,p Q S
+RP and Q 
+   b) Prove that
+   p q r p q r           [8+7] 
+ 
+2.a) Prove that
+SR is tautologically implied by
+     ,,P Q P R Q S    
+   b) Obtain the principal conjunctive normal form of
+   P RQ p    [8+7] 
+ 
+3. Consider the relation R={(a,b),(b,c),(b,d),(d,a),(c,c)}. 
+ a) Draw a digraph for the relation R. 
+ b) Draw a digraph for the relation inverse of R that is R-1. 
+ c) Draw a digraph for the relation complement of R, that is Rc (or) R. 
+ d) Draw a digraph for the relation intersection of R and inverse of R, R∩R-1. [15]  
+ 
+4. An advertising agency has 1,000 clients. Suppose that T is the set of clientsthat use 
+television advertising, R is the set of clients that use radio advertising, and N is the set of 
+clients who use newspaper advertising. Suppose that |T| = 415, |R| = 350, |N|  = 280,      
+100 clients use all 3 types of advertising,  175 use television and radio, 180 use radio and 
+newspapers, and 165 use televisionand newspapers. Find: 
+ a) How many clients use radio and newspaper advertising but not television? 
+ b) How many clients use television and radio advertising but not newspapers? 
+ c) How many uses television but do not use newspaper advertising and do  not use radio 
+advertising?  
+ d) How many clients do not use all three types of advertisements?   [15] 
+ 
+5.a) How many integral solutions are there to x1+x2+x3+x4+x5 ≤19? 
+  b) Find the number of integers <500 and divisible by 9 or 11 or 13.   [7+8] 
+ 
+6.a) A certain question paper contains two parts A and B each containing five questions. How 
+many different ways a student can answer six questions by selecting at least two 
+questions from each part. 
+   b) A survey of 500 television viewers of a sports channel produced the following  
+ information 285 watch cricket, 195 watch hockey, 115 watch football, 45 watch cricket  
+ and football, 70 watch cricket and hockey, 50 watch hockey and football and 50 do not  
+ watch any of the three kinds of games. 
+i) How many viewers in the survey watch all three kinds of games? 
+ii) How many viewers watch only cricket.      [8+7] 
+R16 
+JNTUH Used paper Aug-2022
+
+ 
+ 
+7.a) Solve the recurrence relation an-6an-1+12an-2-8an-3=0 for n≥3. 
+   b) Solve the recurrence relation an - 3an-1 + 2an-2 = 0, n≥2, a1=5 and a2=3.  [7+8] 
+ 
+8.a) Distinguish In-degree and Out- degree of vertex. Explain with an example. 
+    b) Define isomorphism. Check whether the following graphs  shown in figure  are  
+ isomorphic or not.         [6+9] 
+ 
+ 
+ 
+---oo0oo--- 
+JNTUH Used paper Aug-2022
+

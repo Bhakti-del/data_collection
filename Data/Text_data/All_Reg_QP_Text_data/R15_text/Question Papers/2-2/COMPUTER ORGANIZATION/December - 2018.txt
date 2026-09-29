@@ -1,0 +1,62 @@
+Code No: 124CN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, December - 2018 
+COMPUTER ORGANIZATION 
+(Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+ Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+ Part B consists of 5 Units. Answer any one full question from each unit.                 
+ Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+          PART - A                            (25 Marks) 
+ 
+1.a) What is the difference between direct and indirect address instruction? [2] 
+   b) What is an interrupt?        [3] 
+   c) What is an I/O interface?       [2] 
+   d) Compare I/O bus Vs memory bus.       [3] 
+   e) What is cache coherence?        [2] 
+   f) Compare RAM with ROM.        [3] 
+   g) What is segment register of 8086?      [2] 
+   h) What are the roles of SP and BP registers of 8086?     [3] 
+   i) What are JNS and JNBE 8086 instructions?      [2] 
+   j) Write 8086 machine control instructions.     [3] 
+   
+              PART - B                                     (50 Marks) 
+ 
+2. Explain various conditional branch instructions.    [10] 
+OR 
+3. State and explain the various types of interrupts.    [10] 
+ 
+4. Explain DMA mode of data transfer.      [10] 
+OR 
+5. Explain the CPU-IOP communication.     [10] 
+ 
+6.a) Explain the direct memory mapping of cache memory. 
+   b) What is ‘Write-through’ and ‘Write-back’ of cache memory?  [5+5] 
+OR 
+7. An address space is specified by 24 bits and the corresponding memory space by  
+ 16 bits. 
+ a) How many words are there in the address space? 
+ b) How many words are there in the memory space? 
+ c) If a page consists of 2K words, how many pages and blocks are there in  the  
+     system?                  [3+3+4] 
+ 
+    R15 
+JNTUH Used Papers23-12-2018 PM
+
+ 
+8. Draw and explain the pin diagram of 8086.     [10] 
+OR 
+9. Explain the addressing modes of 8086.      [10] 
+ 
+10. Write an 8086 assembly language program to find out the product of two  
+ matrices.         [10] 
+OR 
+11. Write a 8086 assembly language program to find whether the given number ‘n’ is  
+ prime number or not.         [10] 
+ 
+--ooOoo-- 
+JNTUH Used Papers23-12-2018 PM
+

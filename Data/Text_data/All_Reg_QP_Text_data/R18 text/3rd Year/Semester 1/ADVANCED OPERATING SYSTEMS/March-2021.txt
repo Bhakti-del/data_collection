@@ -1,0 +1,36 @@
+Code No: 155AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2021 
+ADVANCED OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) List Characteristics of distributed operating system.. 
+   b) Compare message communication model Vs remote procedure call.  [7+8] 
+ 
+2. Discuss vector clocks and compare with logical clocks.      [15] 
+ 
+3. Explain Lamport’s algorithm for ensure mutual exclusion in distributed systems.   [15] 
+ 
+4. Explain about Raymonds Heuristic algorithm.       [15] 
+ 
+5. Write edge chasing and global state detection algorithms for deadlock detection in 
+distributed operating system.          [15] 
+ 
+6. Describe about the Hierarchical deadlock detection algorithm.     [15] 
+ 
+7. Write the design issues in implementing of multi processor system and explain its 
+architecture.            [15] 
+ 
+8. Explain sender initiated load distributing algorithm in detail.     [15] 
+ 
+ 
+ 
+---ooOoo--- 
+ R18 
+22-03-2021 AM
+USED PAPER MARCH-2021
+

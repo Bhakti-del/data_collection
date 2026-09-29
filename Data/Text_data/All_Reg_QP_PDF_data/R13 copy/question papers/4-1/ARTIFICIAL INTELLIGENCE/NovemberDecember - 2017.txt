@@ -1,0 +1,76 @@
+ 
+Code No: 117AN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2017 
+ARTIFICIAL INTELLIGENCE 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+ Part A is compulsory which carries 25 marks. Answer all questions in Part A.         
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each question 
+ carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+ 
+1.a) Define State Space Search.        [2]  
+   b) Why do we go for AI to solve a problem rather than conventional methods? [3] 
+   c) Define semantic nets.            [2] 
+   d) Describe refutation in propositional logic.      [3] 
+   e) What are the uses of certainity factors?      [2] 
+   f) List down the applications of expert system.      [3]  
+   g) Define supervised learning.          [2]  
+   h) Discuss about recurrent networks.       [3]  
+   i) Discuss the role of semantic analysis.      [2] 
+   j) Discuss about case grammars.       [3] 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2.   Explain how to define a problem as a state space search, with a suitable example. [10] 
+OR 
+3.  Explain A* algorithm with a suitable example. State the limitations in the algorithm. 
+            [10] 
+ 
+4.  Consider the following facts and represent them in predicate form: 
+ F1. There are 500 employees in ABC Company.  
+ F2. Employees earning more than 5000 pay tax.  
+ F3. Managers earns Rs. 10,000  
+ F4. John is manager in ABC Company.  
+ Converts the facts in predicate form to clauses and then prove by resolution “John pays 
+ tax”.           [10] 
+OR 
+5.  Give an example to explain the various approaches used for knowledge representation. 
+            [10] 
+ 
+6. Explain the use of expert system shells. What are the different ways (support for 
+ explanation) to make the expert system effective?     [10] 
+OR 
+7.  Give an example to explain the concept of Bayesian belief network for measuring the  
+ uncertainity.          [10] 
+R13 JNTUH USED 02-12-17PM Set 1
+
+ 
+ 
+ 
+8.  Write short note on the following: 
+ a) Learning by taking advice  
+ b) Learning in problem solving – learning by parameter adjustment, learning by 
+ chunking.          [5+5]   
+OR 
+9.  Describe in detail about the concept of single layer feed forward networks.  [10]  
+ 
+10. With an example explain the steps used for processing a natural language sentence.[10]  
+OR 
+11.  Draw a neat sketch to explain universal networking knowledge.   [10] 
+ 
+ 
+ 
+ 
+ 
+---ooOoo— 
+ 
+ 
+JNTUH USED 02-12-17PM Set 1
+

@@ -1,0 +1,944 @@
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. METALLURGICAL AND MATERIALS ENGINEERING 
+III YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+III YEAR I SEMESTER 
+S. No Course 
+Code Course Title L T P Credits 
+1 MM501PC Heat Treatment 4 0 0 4 
+2 MM502PC Iron Making 4 0 0 4 
+3 MM503PC Mechanical Working 4 0 0 4 
+4 SM504MS Fundamentals of Management 3 0 0 3 
+5  Open Elective – I 3 0 0 3 
+6 MM505PC Heat Treatment Lab 0 0 3 2 
+7 MM506PC Mechanical Working Lab 0 0 3 2 
+8 MM507PC Basic Metallurgical Computations Lab 0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits  21 0 9 24 
+ 
+III YEAR II SEMESTER 
+S. No Course 
+Code Course Title L T P Credits 
+1 MM601PC Steel Making 4 0 0 4 
+2 MM602PC Welding Metallurgy 4 0 0 4 
+3 MM603PC Foundry Technology 4 0 0 4 
+4  Open Elective – II 3 0 0 3 
+5  Professional Elective - I 3 0 0 3 
+6 MM604PC Welding Metallurgy Lab 0 0 3 2 
+7 MM605PC Foundry Technology Lab  0 0 3 2 
+8 EN606HS Advanced English Communication Skills Lab 0 0 3 2 
+  Total Credits 18 0 9 24 
+  
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+ 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+Professional Elective – I 
+ 
+MM611PE 
+MM612PE 
+MM613PE 
+Non Ferrous Extractive Metallurgy 
+Surface Engineering 
+Electronic and Magnetic Materials 
+ 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+HEAT TREATMENT  
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MM501PC                          4     0    0    4 
+ 
+Course Objective 
+This course is mainly focused to develop knowledge among the students about the basic 
+practices and process variables of heat treatment. Thermo-mechanical treatment, surface 
+hardening techniques, heat treatment of steels, non ferrous alloys 
+ 
+Course Outcome: end of the course student is in a position to, know how to approach the 
+problem of choosing an alloy for a particular application and know how to approach the 
+design of a heat treatment for an alloy for a particular application.  
+ 
+UNIT-I 
+Annealing, Normalizing, Hardening, Mechanism of heat removal during quenching, 
+quenching media, sixe and mass effect, Tempering and its stages  
+ 
+UNIT-II  
+Time Temperature Transformation (TTT) and CCT Curves,  effect of cooling on 
+transformation of Austenitic, perarlitic, bainite, and martensite.  
+ 
+UNIT-III 
+Effect of alloying elements on Fe-C system and TTT curves, Hardenability of Steels, Factors 
+affecting and its determination 
+   
+UNIT-IV 
+Thermo-mechanical treatments, Austempering, Martempering, Patenting, Spheoridizing, 
+Ausforming strain tempers, Subzero treatment, Isoforming, Cryoforming  
+ 
+UNIT-V 
+Surface Hardenting: Carburizing, Nitriding, Cyaniding, Carbonitiriding, Induction and  Flame 
+Hardening. Heat treatment of Cast Irons, Carbon Steels and Alloy Steels, Maraging Steels, 
+and Al- Alloys 
+ 
+TEXT BOOK: 
+1. Heat Treatment Principle and Techniques - Rajan & Sharma 
+2. Heat Treatment of Metals – Zakharov, Mir Publishers, Moscow 
+ 
+REFERENCES: 
+1. Engineering Physical Metallurgy and Heat Treatment by Yu. Lakhtin 
+2. Physical Metallurgy Principles – Reza Abbaschian, Lara Abbaschian and Robert E. 
+Reed-Hill. 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+IRON MAKING 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MM502PC                          4     0    0    4 
+  
+Course Objective: 
+The course objective is to provide the knowledge of Iron making by Blast Furnace, Physio - 
+chemical principles involved in iron making, recent advances. Necessity and advantages of 
+alternative routes of iron making. 
+ 
+Outcome: 
+The student will be in a position to understand the process of Iron Making  in detail, there by 
+he/she would be understanding the process variables to enhance the productivity and 
+efficiency of the Blast Furnace and alternative routes of Iron Making.    
+ 
+UNIT-I 
+History of Iron making, valuation of iron ores and classification of iron ores, Principles of 
+Iron making, Reduction, Smelting, Direct Reduction, Smelt Reduction; Raw materials for 
+Iron making, their distribution, occurrence in India and in the world.  
+ 
+UNIT-II 
+Preparation of iron ores; Agglomeration of Iron ore fines, Sintering;  Principles, Factors 
+affecting sintering, sintering bonds, sintering machines; Pelletisation; Theory of Pelletisatio n, 
+Water-particles system. Production of green pellets in; disk and drum pelletizers, Induration 
+of pellets, Shaft, traveling grate and continues grate kiln machine. 
+ 
+UNIT-III 
+Blast Furnace profile and its design, Refractory lining. Water cooling system. R aw materials 
+handling and charging, Burden distribution, Construction and operation of Hot blast Stoves. 
+Gas cleaning system and its utilization  
+ 
+UNIT-IV 
+Physical chemistry of Iron making, Blast furnace reactions, Physical and chemical factors 
+affecting reduction of ores; Effect of temperature CO/CO 2 and H2/H2O on reduction of iron 
+ore. Control of C, Si, S, P in pig iron. Types of Pig Irons &  Blast furnace Slags and its 
+properties. Blast furnace operations and difficulties, Modern Trends in Blast furnace; Burden 
+calculations, Limitations of Blast furnace Iron production,;  
+ 
+UNIT-V 
+Alternate Routes of Iron Making, Principles of Sponge Iron Making, Degree of Metallization, 
+Percentage Reduction, Classification of Sponge Iron making methods. Using gases reducing 
+agent, process  as Midrex , HY and Krupp -Renn, Using solid reducing agent process such as 
+SL/RN process, S melt Reduction Methods; COREX, INRED, ELRED, Plasma Smelting; 
+Sponge Iron making in India. 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+ 
+TEXT BOOKS: 
+1. Principles of Blast furnace Iron making – A.K Biswas 
+2. Beyond Blast furnace – Amit Chaterjee – CRC Press 
+3. Modern Iron Making – Dr. R. H. Tupkary 
+ 
+REFERENCES: 
+1. Iron making and Steel making – Ahindra Ghosh & Amit Chaterjee PMI Pvt. Ltd. 
+2008 
+2. Hand Book of Extractive Metallurgy – Fathi Habhashi Vol. 1 Metals Industry Ferrous 
+Metals 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+MECHANICAL WORKING  
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MM503PC                          4     0    0    4 
+  
+Course Objective: This course is mainly designed to provide knowledge about various metal 
+forming operations, their process parameters, and mathematica l equations associated with the 
+process. 
+ 
+Course Outcome : The student will be able to solve problems on calculation of required 
+stress, extent of deformation in metal forming techniques.  
+ 
+UNIT-I 
+Stress and Strain Relationship for Elastic Behavior : Description of stress at a point. State 
+of stress in two dimensions.Mohrs circle of stress in two dimensions, state of stress in three 
+dimensions. Mohr’s circle of stress in three dimensions. Description of strain at point. 
+ 
+UNIT-II 
+Elements of Theory of Plasticity : The flow curve. True stress and true strain. Von Mises 
+distortion energy criterion, maximum shear stress or Tresca criterion. Octahedral shear stress 
+and shear strain. Basics of the theories of plasticity. 
+ 
+UNIT-III 
+Fundamentals of Metal Working : Classification of forming processes, Mechanics of metal 
+working for slab method and uniform deformation energy method. Cold working,  Recovery, 
+recrystallisation and grain growth, hot working, Strain -Rate effects, Work of plastic 
+deformation. 
+Forging: Classification of forging processes, forging equipment. Forging in plane strain. 
+Open-die forging, closed-die forging, Forging of a cylinder in plane-strain. Forging defects,. 
+ 
+UNIT-IV 
+Rolling of Metals : Classification of rolling process, rolling mills. Hot rolling, cold ro lling, 
+rolling of bars and shapes, forging and geometrical relationships in rolling. 
+Simplified analysis of rolling load, rolling variables, problems and defects in rolled products. 
+Theories of hot rolling, torque and horsepower, theories of cold rolling, torque and 
+horsepower. 
+ 
+UNIT-V 
+Extrusion: Classification of extrusion processes, extrusion equipment. Hot extrusion. 
+Deformation and defects in extrusion. Analysis of the extrusion process. Cold extrusion. 
+Extrusion of tubing and production of seamless pipe and tubing. 
+Drawing of Rods, Wires and Tube : rod and wire drawing, tube drawing processes, deep 
+drawing, residual stresses in rod, wire and tubes. 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+TEXT BOOKS: 
+1. Mechanical Metallurgy by GE Dieter (3rd edition) 
+2. Technology of Metal Forming Processes – Surender Kumar PHI 2008 
+ 
+REFERENCES: 
+1. Mechanical Working of Metals - Avitzur. 
+2. Engineering Metallurgy – Part II - Higgins. 
+3. Mechanical Metallurgy - White and Lemay. 
+ 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To understand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing, Leading, 
+Motivation and Control aspects are learnt in this course. The stu dents can explore the 
+Management Practices in their domain area. 
+  
+UNIT-I 
+Introduction to Management: Definition, Nature and Scope, Functions, Managerial Roles, 
+Levels of Management, Managerial Skills, Challenges of Management; Evolution of 
+Management- Classical Approach - Scientific and Administrative Management; The 
+Behavioral approach; The Quantitative approach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT-II 
+Planning and Decision Making: General Framework for Planning - Planning Process, Types 
+of Plans, Management by Objectives; Development of Business Strategy. Decision making 
+and Problem Solving - Programmed and Non Programmed Decisions, Steps in Problem 
+Solving and Decision Making; Bounded Rationality and Influences on Decision Makin g; 
+Group Problem Solving and Decision Making, Creativity and Innovation in Managerial 
+Work.  
+ 
+UNIT-III 
+Organization and HRM: Principles of Organization: Organizational Design & 
+Organizational Structures; Departmentalization, Delegation; Empowerment, Centra lization, 
+Decentralization, Recentralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent Management, Talent 
+Management Models and Strategic Human Resource Planning; Recrui tment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT-IV 
+Leading and Motivation: Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situational Leadership, Leadership Skills, Leader as Mentor and Coach, 
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+Motivation - Types of Motivation; Relationship between Motivation, Performance and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor T heory, 
+Theory X and Theory Y. 
+ 
+UNIT-V 
+Controlling: Control, Types and Strategies for Control, Steps in Control Process, Budgetary 
+and Non - Budgetary Controls. Characteristics of Effective Controls, Establishing control 
+systems, Control frequency and Methods.  
+ 
+Text Books:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+References:  
+1. Essentials of Management, Koontz Kleihrich, Tata Mc - Graw Hill.  
+2. Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012.  
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+HEAT TREATMENT LAB 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MM505PC                          0     0    3    2 
+ 
+Course Objective: 
+This Laboratory course is designed to make the student understand and demonstrate the 
+various types of heat treatment processes, process variables and surface hardening treatments 
+for ferrous and non-ferrous metals and alloys.    
+ 
+Course Outcome: The stude nt would gain hands on experience to define heat treatment 
+cycles for ferrous and non -ferrous metals and alloys with proper understanding of different 
+heat treatment process variables.    
+ 
+LIST OF EXPERIMENTS: 
+1. Annealing of plain carbon steel and observation of hardness and microstructure 
+2. Normalizing of plain carbon steel and observation of hardness and microstructure 
+3. Hardening of plain carbon steel and observation of hardness and microstructure 
+4. Study of tempering characteristics of hardened steel. 
+5. Study of age hardening phenomenon in an Al-Cu alloy or Cu-Be alloy 
+6. Spheroidizing of high carbon steel 
+7. Determination of hardenability of a steel using Jominy End Quench Test 
+8. Re-crystallization studies on cold worked Cu or Cu alloys 
+ 
+EQUIPMENT: 
+1. Muffle Furnaces 1200 0C 
+2. Hardenability Apparatus 
+3. Microscopes 
+4. Rockwell Hardness Tester 
+ 
+ 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+MECHANICAL WORKING LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MM506PC                          0     0    3    2   
+  
+Course Objective  
+This lab course is mainly designed to know the various testing methods for evaluation of 
+metal forming techniques. 
+ 
+Course Outcome 
+Upon successful completion of this course, the student will be able to understand various 
+deformation processes in materials.  
+ 
+LIST OF EXPERIMENTS 
+1. To determine the formability of given materials by Erichson cup test  
+2. To manufacture washer components using fly press (progressive dies /compound dies) 
+3. Deep drawing of a cup with / without blank holder by hydraulic press 
+4. To determine the friction factor by ring compression test 
+5. Determination of strain hardening exponent ‘n’ and strength coefficient ‘k’ 
+6. To verify hall petch relation in MS specimen 
+ 
+EQUIPMENT 
+1. UTM 
+2. Hydraulic press 
+3. Fly press 
+4. Erichson cup  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+BASIC METALLURGICAL COMPUTATIONS LAB 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MM507PC                          0     0    3    2 
+ 
+LIST OF EXPERIMENTS: Programming of  
+1. Estimation of proportion of  phases using Lever rule 
+2. Determination of ASTM grain size  
+3. Determination of packing factor for bcc, fcc and hcp 
+4. Determination of H using Kirchhoff's equation 
+5. Determination of G from thermal data 
+6. Determination of Entropy  
+7. To solve the problems on conductions 
+8. Hall Petch relation 
+9. Calculation of UTS and YS 
+ 
+TEXT BOOKS:  
+1. Computer oriented Numerical methods – V. Rajaraman (PHI Publicatons) 
+2. Computer programming and Numerical methods – S. Saran 
+3. Numerical methods in engineering – Mario G. Salvadori and Melvin L. Baron  
+4. Matrix operation on Computer – L.L. Brirud (LCUE Publication) 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MC500HS                          3     0    0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers. The students  will learn the rights and responsibilities 
+as an employee, team member and a global citizen.  
+  
+UNIT-I  
+Introduction to Professional Ethics : Basic Concepts, Governing Ethics, Personal & 
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelli gence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, Professional Accountabilities, Professional Success, Ethics 
+and Profession. 
+ 
+UNIT-II 
+Basic Theories: Basic Ethical Principles, Moral Developments, Deontology, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, Moral Absolution, Moral Rationalism, Moral 
+Pluralism, Ethical Egoism, Feminist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT-III 
+Professional Practices in Engineering:  Professions and Norms of Professional Conduct, 
+Norms of Professional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC -10 Crash and Kansas City Hyatt Regency 
+Walkaway Collapse. 
+ 
+UNIT-IV 
+Work Place Rights & Responsibil ities, Ethics in changing domains of Research, Engineers 
+and Managers; Organizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing domains of re search - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+ 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+UNIT-V 
+Global issues in Professional Ethics: Introduction – Current Scenario, Technology 
+Globalization of MNCs, International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governance, Sustainable  Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution, Ethics in Manufacturing and Marketing, Media Ethics; War Ethics; Bio 
+Ethics, Intellectual Property Rights.     
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R. Subramanian, Oxford University Press, 2015. 
+2. Ethics in Engineering Practice & Research, Caroline Whitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES  
+1. Engineering Ethics, Concepts Cases: Charles E Harris Jr., Michael S Pritchard , 
+Michael J Rabins, 4e , Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008.  
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+STEEL MAKING 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM601PC                          4     0    0    4 
+ 
+Course Objective: This course is primarily of industrial oriented ore and designed to make 
+the student to understand and demonstrate the various types of primary steel making 
+processes, Hot metal route and scrap route, casting pit side practice, Continuous casting of 
+steel and secondary steel making process to produce quality steels.  
+ 
+Course Outcomes:  The student would gain knowledge on different primary and secondary 
+steel making processes to produce quality steels with less cost and more efficiently.  
+ 
+UNIT-I 
+Introduction to Steel Making : Current scenario of steel making in India and world, Raw 
+materials of steel making. Factors affecting the efficiency of steel making.  
+Principles of Steel making ;- Removal of Carbon, Silicon, Manganese, phosphorous and 
+sulphur. Role of slag, types and properties of slags. Molecular and ionic theory of slags. 
+Principles of deoxidation. Precipitation and diffusion deoxidation. 
+ 
+ UNIT-II 
+Primary Steel Making (Hot Metal):  Steel making by Acid and Basic Bessemer Processes, 
+Construction and lining details, sequence of elimination of impurities, Steel Making by LD 
+process, Construction, lining and process details in LD, LD -AC or OLP, Kaldo, LD -Kaldo, 
+Rotor oxygen steel making, Oxygen bottom blowing (OBM), Hybrid process of steel making , 
+Improvements and modification of the above steel making process. 
+ 
+UNIT-III 
+Primary Steel Making (From Scrap): Open Hearth Steel Making: Construction and process 
+details; Electric Arc Furnace (EAF); Construction and Process details: Induction furnace. 
+Stainless steel making. 
+ 
+UNIT-IV 
+Secondary Steel Making: Secondary steel making processes. Electro Slag Remelting (ESR), 
+Vacuum Arc Remelting (VAR). Brief outline of manufacture of alloy steels. Vacuum 
+treatment of steels. AOD, VOD, Synthetic slag treatments,  De-carburization techniques de -
+gassing of steel Powder injection etc. methods 
+ 
+UNIT-V 
+Solidification of steels:  Ingot defects and remedies; Casting pit side practice: Types of 
+Moulds, Teeming Methods, Killed, Semi Killed, capped and rimmed Steels, Continuous 
+casting of steels.  
+TEXT BOOKS: 
+1. Steel Making – V. Kudrin  
+2. Modern Steelmaking – Dr. R.H. Tupkary and V. H. Tupkary 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+3. Steel Making – A. K. Chakrabarthi (PHI) 2007 
+ 
+REFERENCES: 
+1. Iron Making & Steel Making Theory and Practice -  Ahindra Ghosh & Amit 
+chatterjee 
+2. Secondary Steel Making; Principles and applications – Ahindra Ghosh  
+3. Physical Chemistry of Iron & Steel by Bodsworth. 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+WELDING METALLURGY 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM602PC                          4     0    0    4  
+ 
+Course Objective: The basic objective of this course is to provide in depth knowledge about 
+various metal joining techniques, the thermal, residual, and transformational stresses 
+associated with, the equipment used, their modern developments, and defects and 
+defectoscopy of weldments. 
+ 
+Course Outcome: The student will be able to apply various metal joining techniques for 
+various ferrous and nonferrous alloys, fixing of process parameters to obtain a sound 
+welding, precautionary measures to be taken to avoid weld defects, and advancements in 
+Metal Joining technologies.  
+ 
+UNIT-I 
+Classification of welding processes.  Principles, advantages disadvantages and fields of 
+application of the following welding processes:  Gas Welding, Arc Welding processes, 
+MMAW, GTAW, GMAW, SAW, ESW & EGW, Resistance Welding. Other metal joining 
+techniques: Brazing, Soldering and Adhesive bonding. 
+ 
+UNIT-II 
+Working principle. Advantages and limitations of solid state welding processes. Friction, 
+friction stir, explosive, diffusion and ultrasonic welding 
+Advanced Metal Joining Techniques: Plasma Arc Welding, El ectron Beam Welding, Laser 
+welding.  
+ 
+UNIT-III 
+Weldability, Microstructure of fusion zone and heat affected zone. Influence of heat input, 
+thermal and residual stresses, pre heat and cooling rate, PWHT. Weldability of high carbon 
+steel, cast irons, stainless steels use of Schaffler and Delong diagrams.Welding of non-ferrous 
+alloys - Aluminum alloys and Cu-base alloys.  
+ 
+UNIT-IV 
+Welding of dissimilar metals, Joining of ceramics with case studies. 
+ 
+UNIT-V 
+Quality Testing of Weldments by Dye Penetrant and Radiography Testing,  
+Defects in weldments, causes, effects and remedies, hot and cold cracking. 
+ 
+TEXT BOOKS: 
+1. Welding Technology – R.S. Parmar  
+2. Welding Technology – O.P. Khanna 
+ 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+REFERENCES: 
+1. Welding Metallurgy - JF Lancaster 
+2. Welding and Welding Technology - Little 
+3. Welding and Metal Fabrication–Larry Jeffres –Yesdee Publishing Pvt. Ltd., 2012 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+FOUNDRY TECHNOLOGY 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM603PC                          4     0    0    4  
+  
+Course Objective : This course is mainly intended to introduce and explain various 
+moulding, casting techniques and equipment used. Principles of Solidification of casting, 
+defects in castings and their remedies are also dealt in detail 
+ 
+Course Outcome: This course would pave a platform for students to develop a thorough 
+understanding on the casting technology, solidification of metals and alloys.  
+ 
+UNIT-I 
+Introduction to Foundry  – Types of Foundries and Patterns: Materials for patterns, types 
+of patterns; functions and pattern allowance.  Moulding materials; moulding sands, properties 
+and selection of materials and additives. 
+Moulding Processes:  Green and dry sand moulding; shell mo ulding, CO2 moulding.  Core 
+making.  Plaster moulding, Gating Risering and their design. 
+ 
+UNIT-II 
+Casting Methods: Permanent mould casting, pressure die-casting, Gravity die casting, 
+Vacuum die casting, centrifugal casting, Investment Casting, Squeeze casting and Composite 
+Casting 
+ 
+UNIT-III: 
+Melting and Solidification : Cupola and Induction Melting.  Nucleation and growth.  
+Freezing of metals and alloys. Dendritic freezing. Progressive and Directional Solidification.  
+Melting of Gray Iron in cupola 
+ 
+UNIT-IV: 
+Modern Developments: Recently developed processes -V-Forming Full Mould Process, 
+Furon-No-Bake Sand Moulds and Cores, continuous Casting, Cold Setting and Self Setting 
+Processes. 
+ 
+UNIT-V: 
+Casting Defects and Remedial Measures:  Casting defects arising due to moulding, cores, 
+melting and pouring practice.  Inspection and Testing of castings 
+ 
+TEXT BOOKS: 
+1. Principles of Metal casting by Heine – Loper and Rosenthal, Tata Mc Graw Hill, 2nd 
+Edition. 
+2. Foundry Technology – Dharmendra Kumar & S.K.Jain, CBS Publisher, 2007. 
+ 
+REFERENCES: 
+1. Fundamentals of Metals Casting, P. C. Mukherjee, Oxford & IBH Pub. Co., 1988  
+2. Casting Technology and Cast Alloys – AK Chakrabarti – PHI 2011 Edition 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+NONFERROUS EXTRACTIVE METALLURGY 
+(Professional Elective - I) 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM611PE                          3     0    0    3 
+ 
+Course Objective: The main objective of the course is to expose the student to understand 
+basic principles of extraction of important non ferrous metals. 
+ 
+Course Outcome : Student will be in a position to ascertain the method of extraction of a 
+particular metal and also un derstands the importance of recovery of byproducts during 
+extraction. Upon successful completion of this course, the student will be able to: 
+ Describe and explain processes and reactors for extraction and refining of metals and 
+alloys 
+ Explain processes based on an thermodynamic perspective 
+ Describe and explain material and energy flows related to extraction of metals and 
+alloys 
+ Describe and explain ore treatment techniques 
+ Plan and carry out experimental work related to extraction and refining of non ferrous 
+metals  
+ 
+UNIT-I 
+COPPER: Principal Ores and Minerals: Matte smelting – Blast furnace, Reverberatory, 
+Electric furnace, Flash: Converting: Continuous production of blister Copper: Fire refining: 
+Electrolytic refining: Hydro -Metallurgical copper extraction: Leaching processes, Recovery 
+of copper from leach solutions: Electro-winning. 
+ 
+UNIT-II 
+ZINC: General Principles: Roasting, Horizontal and vertical retort processes: Production by 
+imperial smelting: Leaching purification: Electrolysis, Refining.  
+LEAD: Smelting – smelting, Reduction process, Roast Reaction process, direct smelting 
+reduction process – Air flash smelting, oxygen flash, oxygenslip bath smelting, QSL process, 
+refining of lead bullion. Pyro and electrolytic refining 
+ 
+UNIT-III 
+ALUMINUM: Raw materials, production of pure Al 2O3,  Bayer’s  process, Devillepechiney 
+Process, Hall - Heroult cell, electrolyte, electrode reactions, Current efficiency, Cell Voltage,  
+Anode effect: Refining of Aluminum, Alternative processes of aluminium production. 
+ 
+UNIT-IV 
+MAGNESIUM: Production of a hydrous Magnesium chloride from sea water and magnesite. 
+Electro-winning practice and problem. Refining, Pidgeon and Hansgrig processes.  
+TITANIUM: Upgrading of ilmenite, chlorination of titania, Kroll’s process. Refining. 
+ 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+UNIT-V 
+URANIUM: Acid and alkali processes for digestion of uranium ores, Purification of crude 
+salt, Production of reactor grade UO 2 and uranium. Simplified flow sheets for the extraction 
+of nickel, tungsten and gold. Review of non -ferrous metal industries in India. Extraction of 
+Zirconium 
+ 
+TEXT BOOKS: 
+1. Extraction of Non-Ferrous Metals - HS Ray, KP Abraham and R. Sridhar 
+2. Non Ferrous Extractive Metallurgy – G B Gill John Wiley & Sons 1980 
+ 
+REFERENCES: 
+1. Extractive Metallurgy of Copper -  WGL Davln Port, U King, M Schelesinge r and 
+A.K. Biswas, Elsevier Science 2002 
+2. Metallurgy of Non-Ferrous Metals - WH Dennis. 
+3. Nuclear Chemical Engineering - Manstion Bendict and Thomas H. Pigfort 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+SURFACE ENGINEERING 
+(Professional Elective - I)  
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM612PE                          3     0    0    3 
+ 
+Course Objective:  This course is mainly designed to make the students understand the 
+importance of surface engineering techniques, scope, limitations and areas of applications. 
+This course also focuses on industrially significant coating techniques, selection and 
+evaluation of coating characteristics. 
+ 
+Course Outcomes: at the end of the course, the student will be able to 
+1. Understand the significance of surface modification processes 
+2. Describe the principles of surface modification processes 
+3. Identify the testing approaches to evaluate a modified surface 
+4. Suggest a surface modification process for a particular wear situation  
+UNIT-I 
+Importance and necessity of surface engineering;  past, present and future scenario of 
+surface engineering; classification of surface engineering processes; substrates and their 
+pretreatments; coating characteristics: coating thickness, continuity, ha rdness, adhesion, 
+porosity, and bond strength 
+ 
+UNIT-II 
+Thermally Sprayed Coatings : Plasma spraying; flame spraying, detonation spray coating, 
+High velocity oxy -fuel spraying; cod gas dynamic spray process; thermal barrier coatings. 
+Factors influencing thermal spray coatings. Electrochemical coatings. 
+ 
+UNIT-III 
+Diffusion Coatings : Process fundamentals, advantages, limitations and applications of 
+carburizing, liquid nitriding, carbonitriding, nitrocarburizing, and boronizing. Aluminized, 
+chromized, and siliconized coatings. 
+ 
+UNIT-IV 
+Thin Film Coating Technology : Chemical Vapor deposition (CVD); Physical Vapor 
+Deposition (PVD); Electron beam evaporation; magnetron sputtering; diamond like carbon 
+coating technology; sol-gel coating technologies 
+Plasma Processes : Plasma carburizing and plasma nitriding; plasma immersed ion 
+implantation; plasma enhanced physical vapor deposition; plasma enhanced chemical vapor 
+deposition. 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+UNIT-V 
+Thermal Modification Processes : different types of lasers and their applications. Laser 
+assisted surface modification processes. 
+Evaluation of Coatings: Thickness, bond strength and porosity measurement; hardness, wear 
+resistance and corrosion resistance. 
+ 
+TEXT BOOKS: 
+1. K G Budinski, Surface Engineering for wear resistance, Prentice Hall,  New Jersey, 
+1998 
+2. Surface Engineering, Process fundamentals and applications, Vol I and II, Lecture 
+Notes of SERC school of Surface Engineering 
+3. Howard E. Boyer (Editor), Case Hardening of Steel, ASM International, metals Park, 
+OH 44073 
+ 
+REFERENCES: 
+1. Materials science- Van Vlack 
+2. Electroplating: Basic Principles and Practice - Kanan. N (Elsevier) 2004 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+ELECTRONIC AND MAGNETIC MATERIALS  
+(Professional Elective - I) 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM613PE                          3     0    0    3 
+  
+Course Objective 
+With the ever growing material world, the subject of metallurgy and materials engineering 
+has grown in alarming complex manner. At the present the study of materials science has 
+been greatly developed in many modern fields due to the new material such as magnetic, 
+microelectronic and smart alloys. This subject is formulated to expose the students to the 
+fundamentals and processing of magnetic and electronic materials 
+ 
+Course Outcome 
+At the end of the course the student will be able to 
+1. Understand the properties to be considered in designing magnetic and electronic 
+materials know the manufacturing process of electronic  materials 
+2. Understand the concepts in development of smart materials and devices  
+ 
+UNIT-I 
+Magnetic Materials: Definition of Magnetic field, Magnetic Induction, Magnetic Field 
+Intensity, Magnetic Susceptibility.  
+Types of Magnetic Materials: Paramagnetic, Diamagnetic, Ferromagn etic, Anti 
+Ferromagnetic, Ferrimagnetic materials.  
+ 
+UNIT-II 
+Theories of Para, Dia and Ferromagnetism, Curie Temperature, Domain theory of 
+Ferromagnetism, Reversible and Irreversible domains. Bark Haussan Effect.  
+ 
+UNIT-III 
+Hysteresis loop, Domain Interpretation of Hysteresis curve, interpretation of hysteresis and 
+hand magnetic Materials, differences in magnetic properties of hard and soft magnetic 
+materials, magnetic anisotropy and magnetostriction.  
+Applications of magneti c materials: soft and hard, high energy hard magnetic materials, 
+magnetic storage, ferrite core memories, bubble memories 
+ 
+UNIT-IV 
+Semi conductors, Band theory and solids, distribution of energy states, classification of semi 
+conductors, intrinsic and extr insic , n type and p type, variation of carrier concentration with 
+temperature, Hall effect, forward baising and reverse baising semi conductor devices 
+ 
+UNIT-V  
+Production of metallurgical grade silicon, photo lithography pattern transfer, metallization, 
+silicon IC chip, packaging, encapsulation of IC chip, tape automated bonding, smart, 
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+intelligent, active materials, piezo electric ceramics, polymers, chemical se nsors, 
+electrochemical sensors, shape memory alloys 
+ 
+TEXT BOOKS: 
+1. Electronic properties of materials, R E Hummel 
+2. Ferromagnetic materials structure and properties, RA Macurie 
+ 
+REFERENCES: 
+1. An introduction to materials science , HL Mancini 
+2. Magnetic Materials fundamentals and devices, Nicols Spaldin 
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+WELDING METALLURGY LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM604PC                          0     0    3    2 
+  
+Course Objective: 
+This Laboratory course is designed to make the student to understand and demonstrate the 
+various types Welding processes and its variables, testing methods and correlation between 
+micro structure and Mechanical properties of the Welded joints. 
+ 
+Course Outcomes:  
+The student would g ain hands on experience in various methods of welding and joining of 
+metals and understand the mechanical behavior of the joint with respect to microstructure and 
+mechanical properties.      
+ 
+LIST OF EXPERIMENTS 
+1. Study of gas welding equipment and process. Identification of flames, making Butt 
+joint with gas welding.  
+2. Study of Arc welding process, comparison of the bead geometry with DCSP, DCRP 
+and A.C.  
+3. Study of resistance spot welding process and plot the variati on of spot area with time 
+and current variation  
+4. Study of Tungsten Inert Gas (TIG) welding process and measurement of temperature 
+during TIG welding process.  
+5. Study of fundamental aspects of Submerged Arc Welding (SAW) process and finding 
+out deposition efficiency of the process.  
+6. Study of fundamental aspects of MIG welding process  
+7. To conduct tests on weld joints to evaluate the mechanical prope rties of the joints, 
+like bend test and ram tensile test. 
+8. To evaluate the microstructure of welded joint and understand the structural 
+difference in  
+Weld zone, Heat Affected Zone and Base metal.  
+  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+FOUNDRY TECHNOLOGY LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: MM605PC                          0     0    3    2 
+ 
+Course Objective: This lab course is mainly designed to provide hands on practice on the  
+various foundry testing methods for evaluation of moulding sand properties  
+ 
+Course Outcome: Upon successful completion of this course, the student will be able to: 
+1. Determine moulding sand dry, hot and green strength  
+2. Understand the preparation of moulding sand 
+3. Determine moulding sand properties by varying additives 
+4. Understand the Melting of Al alloys  
+ 
+LIST OF EXPERIMENTS 
+1. Preparation of gating system using green moulding sand. 
+2. Study of particle size distribution of the sand. 
+3. Study of the variation of permeability of the green sand with clay and water. 
+4. Determination of the variation of sand properties like green hardness, green compact 
+strength with additives in sands. 
+5. Determination of the variation of hot compact hardness and hot shear strength with 
+additives in sands. 
+6. Determination of clay content in sand. 
+7. Determination of the shatter index of green sand. 
+8. Melting of Al alloys in a pit furnace and casting into light components. 
+9. Study of Charge calculations and melting practice of cast iron in cupola. 
+10. Preparation of a shell-by-shell moulding process. 
+11. Study of Non-destructive testing of few components. 
+ 
+EQUIPMENT 
+1. Mould Boxes, Patterns, Core 
+Boxes, Tool Boxes. 2. Rotap Sieve Shaker with Sieves 
+3. Permeability Apparatus. 4. Universal Sand Testing Machine 
+with Accessories. 
+5. Sand Hardness tester. 6. Clay Content Apparatus 
+7. Shatter Index test. 8. For Melting; Pit Furnace; Electric 
+Furnace 
+9. Shell Moulding Machine 10. Centrifugal Casting Machine 
+11. Ultra Sonic Tester 12. Ladles, Crucibles and other 
+Accessories 
+13. Muffle Furnace 10000C  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+ADVANCED ENGLISH COMMUNICATION SKILLS (AECS) LAB 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EN606HS                          0     0    3    2 
+  
+Introduction 
+A course on Advanced English Communication Skills (AECS) Lab  is considered essential at 
+the third year level of B.Tech and B.Pharmacy courses. At this stage, the students need to 
+prepare themselves for their career which requires them to listen to, read, speak and write in 
+English both for their professional and in terpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+ 
+Course Objectives 
+This Lab focuses on using multi -media instruction for language development to meet the 
+following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioural skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes  
+Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus 
+The following course  activities will be conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+ 
+1. Inter-personal Communication and Building Vocabulary - Starting a Conversation 
+– Responding Appropriately and Relevantly – Using Appropriate Body Language – 
+Role Play in Different Situations - Synonyms and Antonyms, One -word Substitutes, 
+Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+ 
+2. Reading Comprehension  –General Vs Local Comprehension, Reading for Facts, 
+Guessing Meanings from Context, , Skimming, Scanning, Inferring Meaning. 
+ 
+3. Writing Skills  – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+4. Presentation Skills  – Oral Presentations (individual or group) through JAM  
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+
+R16 B.TECH METALLURGY AND MATERIALS ENGG. 
+ 
+5. Group Discussion and Interview Skills  – Dynamics of Group Discussion, 
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance , 
+Fluency and Organization of Ideas and Rubrics of Evaluation - Concept and Process, 
+Pre-interview Planning, Opening Strategies, Answering Strategies, Interview through 
+Tele-conference & Video-conference and Mock Interviews. 
+ 
+Minimum Hardware Requirement 
+            Advanced English Communication Skills (AECS) Laboratory shall have the following    
+infrastructural facilities to accommodate at least 35 students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+ 
+Suggested Software: 
+The software consisting of the prescribed topics elaborated above should be procured and 
+used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+ 
+REFERENCES:        
+1. Kumar, Sanjay and Pushp Lata. English for Effective Communication , Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI 
+Learning Pvt. Ltd., 2011.  
+

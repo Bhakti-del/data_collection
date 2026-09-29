@@ -1,0 +1,37 @@
+ENGINEERING GRAPHICS
+B.Tech. I Year I Sem. L   T/P/D  C
+Course Code: ME106ES/ME205ES 2 0/0/4 4
+Pre-requisites: None
+Course objectives:
+ To provide basic concepts in engineering drawing.
+ To impart knowledge about standard principles of orthographic projection of objects.
+ To draw sectional views and pictorial views of solids.
+Course Outcomes:
+ Preparing working drawings to communicate the ideas and information.
+ Read, understand and interpret engineering drawings.
+UNIT – I
+Introduction to Engineering Drawing: Principles of Engineering Graphics and their
+Significance, Conic Sections including the Rectangular Hyperbola – General method only.
+Cycloid, Epicycloid and Hypocycloid Involute. Scales – Plain, Diagonal and Vernier Scales.
+UNIT- II
+Orthographic Projections: Principles of Orthographic Projections – Conventions – Projections
+of Points and Lines Projections of Plane regular geometric figures.—Auxiliary Planes.
+UNIT – III
+Projections of Regular Solids – Auxiliary Views.
+UNIT – IV
+Sections or Sectional views of Right Regular Solids – Prism, Cylinder, Pyramid, Cone –
+Auxiliary views – Sections of Sphere. Development of Surfaces of Right Regular Solids – Prism,
+Cylinder, Pyramid and Cone
+UNIT – V
+Isometric Projections: Principles of Isometric Projection – Isometric Scale – Isometric Views –
+Conventions – Isometric Views of Lines, Plane Figures, Simple and Compound Solids –
+Isometric Projection of objects having non - isometric lines.  Isometric Projection of Spherical
+Parts. Conversion of Isometric Views to Orthographic Views and Vice -versa – Conventions Auto
+CAD: Basic principles only.
+Text books:
+ Engineering Drawing / Basant Agrawal and Mc Agrawal/ Mc Graw Hill
+ Engineering Drawing/ M.B. Shah, B.C. Rane / Pearson.
+Reference books:
+ Engineering Drawing / N.S. Parthasarathy and Vela Murali/ Oxford
+ Engineering Drawing N.D. Bhatt / Charotar
+

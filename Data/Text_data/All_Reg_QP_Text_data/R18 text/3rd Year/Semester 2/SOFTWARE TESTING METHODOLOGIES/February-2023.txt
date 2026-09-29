@@ -1,0 +1,73 @@
+Code No: 156CW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+SOFTWARE TESTING METHODOLOGIES 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+     and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)  Define path testing.         [2] 
+   b)  What is the difference between an error and a bug?     [3] 
+   c)  Write a short note on random testing.       [2] 
+   d)  What is the significance of data flow testing?       [3] 
+   e)  Write a short note on path expressions.      [2] 
+   f)  List out the different operators that are used to solve any boolean algebra.  [3] 
+   g)  Define a transition bug.        [2] 
+   h)  What is good state graph?        [3] 
+   i)  Define a connection matrix.        [2] 
+   j)  List the applications of graph matrices.      [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a)  Differentiate between testing and debugging.      
+   b)  Describe the model for testing.       [5+5] 
+OR 
+3.  Classify the different types of bugs and explain.       [10] 
+  
+4.a)  State and explain the transaction flow testing techniques.     
+   b)  Compare static slicing with dynamic slicing.      [6+4] 
+OR 
+5. How developers and testers treat nice and ugly domains? Illustrate with the help of 
+examples.            [10] 
+ 
+6.a)  Illustrate maximum path count arithmetic with an example.     
+   b)  Describe the usage of regular expression in flow anomaly detection.  [6+4]  
+OR 
+7.a)  Justify the use of decision table implementation for designing test cases.   
+   b)  Explain the procedure for specification validation using KV charts.   [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+8.  Explain the following terms: 
+    a) Design guideline for building finite state machine 
+    b) Inessential finite state behavior.       [5+5] 
+OR 
+9.a)  Write short notes on testability tips.        
+   b)  Summarize the concept transition testing.      [5+5] 
+ 
+10.a)  Describe node-term reduction optimization.       
+     b)  Give a brief summary on relations.       [5+5]  
+OR 
+11.  Write an algorithm for node reduction using matrix operations and explain.   [10]    
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

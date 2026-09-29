@@ -1,0 +1,81 @@
+ 
+ 
+ 
+Code No: 138BE             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                               Max. Marks: 75 
+ 
+Note:  i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+  and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is a worm?         [2]  
+   b)      What do you mean by digital forensics?      [3] 
+   c)      In cyber crime, what is volatile data?       [2] 
+   d)      Explain forensics duplication.       [3] 
+   e)      List out the network forensics tools.       [2] 
+   f)       Write a note on evidence validation.       [3]  
+   g)      What are computer forensics hardware tools?     [2]  
+   h)      Write the need of evaluation of digital forensic tool.     [3]  
+   i)       What is NTFS disk?         [2] 
+   j)       Explain MS-DOS startup tasks.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+ 
+2.a) What is a cybercrime? Explain the different types of cybercrimes. 
+   b) Discuss role of computer in cybercrime.      [5+5] 
+OR 
+3. What is incident response in detail? Explain the incident response methodology. [10] 
+  
+4. Discuss about the initial response and forensic duplication in windows systems. [10] 
+OR 
+5.a) How do you create forensics duplicate of a hard drive? Explain. 
+   b) Explain the forensic duplication tool requirements?     [5+5] 
+ 
+6.a) Explain the rules of collecting and validating electronic evidence. 
+   b) What is remote acquisition? Explain how remote acquisition is performed?  [5+5] 
+OR 
+7.a) Describe the standard procedures for network forensics. 
+   b) How does network forensics conducted using network tools?   [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+Used Papers 2024
+
+ 
+ 
+ 
+8.a) Explain the role of e-mail in cybercrime investigation. 
+   b) What are the needs of computer forensic tools?     [5+5] 
+OR 
+9.a) Explain mobile device forensics. 
+   b) Discuss validation and testing of forensics software.     [5+5] 
+ 
+10.a) Why do we require to understand file systems in computer forensics? 
+     b) Explain the Microsoft file structures.       [5+5] 
+OR 
+11. With respect to computer forensics explain the following: 
+             a) Microsoft startup tasks 
+             b) Virtual machines.         [5+5] 
+       
+  
+ 
+ 
+---ooOoo--- 
+ 
+Used Papers 2024
+

@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 126AP            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, May - 2019 
+ DISTRIBUTED SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      List down the examples of distributed systems.     [2] 
+   b)      Present a note on peer-to-peer architecture.      [3] 
+   c)      Differentiate synchronous and asynchronous systems.      [2] 
+   d)      Discuss about Lamport distributed mutual exclusion algorithm.   [3] 
+   e)      Discuss about client-server communication.      [2] 
+   f)      What is interprocess communication? Explain.     [3] 
+   g)      List down the characteristics of file systems.     [2] 
+   h)      Write a short note on directory service interface.     [3] 
+   i)       Give a brief idea about transactions in distributed systems.    [2] 
+   j)       Write about flat transactions.        [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  What are the challenges of resource sharing and web? 
+   b)  Differentiate fundamental and architectural models.     [5+5] 
+OR 
+3.  Explain the following. 
+    a) Intranet 
+    b) Mobile Computing  
+    c) Secure Channels.                                     [3+3+4] 
+  
+4.a) Explain about distributed debugging. 
+   b)  Discuss about time and global states in distributed systems.    [5+5] 
+OR 
+5.a)  What is multicast communication? Explain. 
+   b) Explain about synchronizing physical clocks.     [5+5] 
+  
+6.  Explain in detail about external data representation and Marshalling.    [10] 
+OR 
+7.a)  Explain about events and notifications. 
+   b)  Discuss about JAVA RMI.        [5+5] 
+ 
+ 
+ 
+ 
+ 
+R13 
+used paper 18-05-19 PM
+
+ 
+ 
+ 
+8.a)   Explain about name services and the domain name Systems.  
+   b)   Explain about sun network file system.      [5+5] 
+OR 
+9.a)   Explain about global name services. 
+   b)  Discuss about File service architecture.      [5+5] 
+ 
+10.a)  Discuss about locks in distributed systems. 
+     b)  What are the different comparison methods for concurrency control?  [5+5] 
+OR 
+11.a)  Explain about transaction recovery in distributed systems. 
+     b)  Explain about distributed deadlocks.       [5+5] 
+ 
+ 
+ 
+  
+---ooOoo--- 
+used paper 18-05-19 PM
+

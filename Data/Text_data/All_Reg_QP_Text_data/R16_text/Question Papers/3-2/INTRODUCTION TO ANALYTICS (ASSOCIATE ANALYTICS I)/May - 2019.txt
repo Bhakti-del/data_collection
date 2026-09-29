@@ -1,0 +1,74 @@
+ 
+ 
+ 
+ 
+Code No: 136CF             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, May - 2019 
+INTRODUCTION TO ANALYTICS (ASSOCIATE ANALYTICS -I) 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+  
+1.a)      Name the meeting requirements.       [2] 
+   b)      Explain different file formats permissible in R.     [3] 
+   c)      Define central limit theorem.           [2] 
+   d)      What is effective work?        [3] 
+   e)      List the advantages of R over Excel.       [2] 
+   f)       How R is integrated with Excel?       [3] 
+   g)      Expand ANOVA and give its uses.       [2] 
+   h)      Differentiate forecasting and prediction.      [3] 
+   i)       What is a smart utility?        [2] 
+   j)       Give some business data formats.       [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) What is a data frame in R? Give example. 
+   b) Explain usage of loops in R with example.      [5+5] 
+OR 
+3. Elaborate on Quality standards Adherence.        [10] 
+     
+4.a) Elucidate on any 5 data summarizing functions in R.  
+   b) What do you know about bivariate random variables?     [5+5] 
+OR 
+5. With an example scenario explain the importance of communication skills for effective 
+work.              [10] 
+     
+6. Describe the role of NOSQL in data analytics using an example.     [10] 
+OR 
+7. For a soap manufacturing unit, design a purchase system, and read and write to R  data 
+base.              [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 jntuh used paper13-05-19PM
+
+ 
+ 
+ 
+8. Elaborate on different types of regression with an example.      [10] 
+OR 
+9.     What is  a) heteroscedasticity?  b) Auto correlation?     [5+5]  
+ 
+10. Elaborate on the steps for preparation, processing and interpretation of data analytics 
+for the business improvement of super market.       [10]  
+OR 
+11. Elaborate on production line of automotive technology and its data analysis.   [10] 
+       
+  
+ 
+ 
+---ooOoo--- 
+jntuh used paper13-05-19PM
+

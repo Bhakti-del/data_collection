@@ -1,0 +1,68 @@
+Code No: 117EF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, May/June - 2019 
+  MACHINE LEARNING  
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Define learning.         [2] 
+   b) What is the need of a target function?       [3] 
+   c) List the four steps in rule-post pruning method.      [2] 
+   d) Which is the most commonly used ANN learning technique? List its characteristics.[3] 
+   e) Mention two practical difficulties in applying Bayesian methods.    [2]  
+   f) Provide an example of Bayesian belief network.      [3] 
+   g) Define kernel function.         [2] 
+   h) How does kNN handle the curse of dimensionality?     [3] 
+   i) Generate two off springs using mutation from 11101001000.   [2] 
+   j) State the problem of crowding in genetic algorithm application.    [3] 
+ 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2. What are the various disciplines influenced machine learning? With suitable example 
+justify your opinion.         [10] 
+OR 
+3. “Concept learning is viewed as the task of searching through a large space of  hypotheses 
+implicitly defined b y the hypothesis representation”. Support or oppose this statement 
+with relevant discussion.        [10] 
+ 
+4. Define entropy and explain how information gain measure s the expected reduction in 
+entropy.          [10] 
+OR 
+5.a) What is the representational power of perceptrons? 
+   b) Differentiate between perceptron rule and delta rule.     [5+5] 
+ 
+6.a) What is the significance of jackknife cross-validation test in machine learning? 
+   b) How to prevent over-fitting in machine learning?     [5+5] 
+OR 
+7. Demonstrate Naïve Bayesian classification of news articles. Consider any five articles of 
+your choice.          [10] 
+ 
+ 
+R13 
+JNTUH USED 10-06-2019PM
+
+8. What are the properties shared by  the instance methods, kNN and locally weighted 
+regression? Make a comparison of these approaches with case based reasoning. [10] 
+OR 
+9. Explain how the CADET system employs case based reasoning to assist in the conceptual 
+design of simple mechanical devices such as water faucets.    [10] 
+ 
+10.a) State schema theorem utilized in genetic algorithm. 
+     b) How does genetic programming handle block-stacking problem?   [5+5] 
+OR 
+11.a) What is the essential difference between analytical and inductive learning methods? 
+     b) Describe the explanation based learning algorithm, PROLOG-EBG.  [5+5] 
+  
+ 
+--ooOoo--  
+ 
+JNTUH USED 10-06-2019PM
+

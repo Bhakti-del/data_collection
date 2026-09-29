@@ -1,0 +1,45 @@
+Code No: 118AA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, December - 2020 
+ADHOC AND SENSOR NETWORKS  
+(Computer Science and Engineering) 
+Time: 2 Hours                Max.Marks:75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. Explain about the Optimized Linked state routing protocol.      [15] 
+ 
+2. Explain how to find the route from the source to destination in Associativity Based            
+Routing protocol.         [15] 
+  
+3. Explain about the Light Weight Adaptive Multicast Protocol.   [15] 
+ 
+4. Describe about the TCP exponential backoff algorithm in MANETs.  [15]  
+ 
+5. Explain why traditional routing protocols are not well suitable for wireless sensor 
+networks.          [15] 
+ 
+6. Describe the design issues which are involved in the design of MAC protocols in WSNs . 
+            [15] 
+ 
+7. Explain the different types of attacks based on Fabrification.   [15] 
+ 
+8. Explain about the ns-2 simulator and its sensor network extensions.  [15] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED Papers
+

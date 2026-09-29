@@ -1,0 +1,42 @@
+ 
+ 
+Code No: 155DN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2021 
+WEB TECHNOLOGIES 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Explain different types of arrays used in PHP with examples. 
+   b)  Write a PHP script to read and write into a file.     [7+8] 
+ 
+2.a)  What is XML DOM? How DOM parses the XML file? 
+   b)  Explain different data types in XML schema.     [8+7] 
+ 
+3.a)  Demonstrate the use of cookies in servlets with an example. 
+   b)  Describe how an HTTP Servlet handles its client requests.    [7+8] 
+ 
+4.a)  What are JSP Code snippets? Develop a JSP program to display current date and time. 
+   b)  Discuss various implicit objects in JSP.      [7+8] 
+ 
+5.a)  Write a JavaScript to display whether given number is a prime or not. 
+   b)  How do you create a function using function overloading?    [7+8] 
+ 
+6.a)  Differentiate between for and foreach statements in PHP with examples. 
+   b)  Discuss the use of frames in creation of HTML document.    [7+8] 
+ 
+7.a)  Explain with suitable examples, the difference between get and post in Servlets. 
+   b)  Describe the procedure for validating XML documents against a schema.  [7+8] 
+ 
+8.a)   How to create a Date object using JavaScript? 
+b)  What is CSS? Describe various methods to include CSS in webpage.  [7+8] 
+ 
+ 
+---ooOoo--- 
+ R18 
+17-03-2021 AM
+USED PAPER MARCH-2021
+

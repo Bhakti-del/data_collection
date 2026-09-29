@@ -1,0 +1,39 @@
+Code No: 124CB  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year II Semester Examinations, July/August - 2021 
+DESIGN AND ANALYSIS OF ALGORITHMS  
+(Computer Science and Engineering) 
+Time: 3 hours                               Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Write an algorithm to search a key k in a N*N matrix, in which each row is sorted is 
+ascending order. What is the time complexity of your algorithm?   [15] 
+ 
+2.a) Explain non recursive pre order tree traversal technique with example. 
+   b) Explain how to improve the time complexity of union algorithm.   [8+7] 
+ 
+3. Solve the following instance of 0/1 Knapsack problem using Dynamic programming.  
+n = 3; (W1, W2, W3) = (3, 5, 7);  
+           (P1, P2, P3) = (3, 7, 12); M = 4.        [15] 
+ 
+4.a) Explain with the example how to find a Hamiltonian cycle. 
+   b) Explain how branch and bound technique is used to solve knapsack problem.  [7+8] 
+ 
+5.a) Write the differences between NP complete and NP hard problems. 
+   b) State and prove Cook’s theorem.       [6+9] 
+ 
+6. Derive the time complexity of strassen’s matrix multiplication.   [15] 
+ 
+7.a) Write an algorithm of AND/OR graph. 
+   b) Differentiate between BFS and DFS.       [9+6] 
+ 
+8. Explain about multistage graph with an example.     [15] 
+ 
+ 
+---ooOoo--- 
+R15 
+ 
+JNTUH Used 24-07-21 AM
+

@@ -1,0 +1,46 @@
+Code No: 156CU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August - 2022 
+SCRIPTING LANGUAGES 
+(Common to CSE, IT) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Compare ruby language with Perl with respect to various features  and list the                     
+ advantages of Ruby language.        
+   b)  What is a cookie? Write the code in Ruby to demonstrate handling of cookies. [8+7] 
+ 
+2.a)  What are web services and how do we use SOAP to implement web services in Ruby?        
+   b)  Describe different canvases available in Ruby-Tk.     [8+7] 
+ 
+3.a)  How do we embed a ruby language interpreter in C program?    
+   b)  Explain about Ruby type system.        [7+8] 
+ 
+4.a)  Write the syntax and explain the usage of differe nt memory allocation functions
+ available in Ruby.          
+   b)  Explain about global variables concept in Ruby with an example.   [8+7] 
+ 
+5.a)  How do we create a list and tuple in Perl? Demonstrate with a suitable coding example.        
+   b)  Discuss about defining regular expressions in Perl with examples.   [8+7] 
+ 
+6.a)  Enumerate various usages of Scripting languages.                                            
+b)  Discuss about different conditional and iterative statement s available in Perl with their 
+syntaxes.          [7+8] 
+ 
+7.a)  Explain about pack and unpack commands in Perl with examples.    
+   b)  Write the steps for interfacing with operating system in Perl.   [8+7] 
+ 
+8.a)  Describe the control flow structures available in TCL.     
+   b)  Explain about event binding in Tk applications.     [8+7] 
+ 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ R18 
+jntuh used paperaug-2022
+

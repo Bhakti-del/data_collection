@@ -1,0 +1,103 @@
+ 
+ 
+ 
+Code No: 138GY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+ SENSORS AND TRANSDUCERS 
+ (Common to EEE, ECE, CSE) 
+Time: 3 Hours                       Max. Marks: 75 
+Note:  i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+  and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Classify different transducers in measurements.     [2] 
+   b)      Differentiate between sensors and transducers.     [3] 
+   c) Illustrate how mathematical models can be used to analyze the dynamic characteristics of 
+transducers.          [2] 
+   d)      How does a second order transducer respond to a step input?    [3] 
+   e)      Explain the concept of temperature compensation in strain gauge measurements. [2] 
+   f) Discuss the ad vantages and limitations of using a potentiometer for measurement 
+applications.          [3] 
+   g)      State the principle of operation of mutual inductive transducers.   [2] 
+   h)      What are the advantages of using an LVDT for precision measurements?  [3] 
+   i)       How Hall Effect is applied in the operation of Hall Effect transducers.  [2] 
+   j)     Discuss the key characteristics of nano sensors.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)   Explain the fundamental process involved in the basic method of m easurement. Provide         
+ an example to illustrate this process. 
+   b)  Discuss the classification of sensors based on the measurement of physical quantities.         
+ Provide detailed explanations of specific sensors within each classification and their         
+ applications.          [5+5] 
+OR 
+3.a)  Define errors in measurements and discuss the difference between systematic and random  
+errors. Explain how each type of error can impact the accuracy of measurements. 
+b)  List and explain the basic requirement s of a transducer in a measurement system. Why is  
+sensitivity to input physical quantities crucial for transducers?   [5+5] 
+  
+4.a)   Define static characteristics of transducers and discuss their importance in measurement        
+ Systems. 
+b)  What is a mat hematical model of a transducer, and how is it developed? Discuss the  key 
+parameters and variables involved in creating a mathematical model for transducers.[5+5] 
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+Used Papers 2024
+
+ 
+ 
+5.a)  Discuss the frequency response of first -order transducers. Analyze how the frequency       
+ of the input signals affects the performance and sensitivity of first -order transducers in        
+ different applications. 
+   b)  Explain the response of a zero -order transducer to an impulse input. Discuss how the        
+ transducer react s to sudden changes in input and its ability to capture instantaneous         
+ variations in the measured quantity.       [5+5] 
+ 
+6.a)  Describe the working principle of a potentiometer and its significance in precision 
+measurements. 
+b)  Explain the concept of operation of strain gauges and their role in measuring mechanical 
+deformation.          [5+5] 
+OR 
+7.a)  Discuss in detail the construction and characteristics of resistance thermometers compared 
+to thermistors. 
+b)  How does a hot wire anemometer measure  airflow velocity, and what are its advantages 
+over other airflow measurement techniques?      [5+5] 
+ 
+8.a)  Explain the principle of operation of a self -inductive transducer and its applications in 
+electrical measurement systems. 
+b)  Describe the construct ion and working principle of an LVDT and explain how it converts 
+mechanical displacement into electrical signals.     [5+5] 
+OR 
+9.a)  Describe the operating principles of accelerometers and their role in measuring acceleration 
+in dynamic systems. 
+b)  Explain how changes in the area of capacitive plates affect the capacitance and signal 
+output.           [5+5] 
+ 
+10.a)  Discuss the design and operation of Hall Effect transducers in detecting current, position,  
+and speed. 
+b)  Explain the working principle of fib er optic sensors and how they utilize light propagation 
+for sensing applications.        [5+5] 
+OR 
+11.a)  Describe the construction and properties of film sensors for measuring physical quantities. 
+b)  Explain the concept of digital transducers and how they  convert physical quantities into 
+digital signals for processing and communication.     [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+Used Papers 2024
+

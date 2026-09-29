@@ -1,0 +1,48 @@
+Code No: 158DG        
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech IV Year II Semester Examinations, July/August - 2022 
+FUNDAMENTALS OF ROBOTICS 
+(Common to CSE, IT) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+ 
+1.a) Describe the classification of Robots by control system.                                      
+   b) Explain working of tactile sensors used in robots. 
+   c) Explain the different types of actuators.       [5+5+5] 
+ 
+2.a) What are the different robot applications in industry?  
+   b) Compare hydraulic  and electric actuator based on weight, operating pressure and cost .  
+             [5+10] 
+ 
+3.a) A rectangular block weighing 12 kg is gripped at middle and lifted vertically. If it 
+accelerates at 25 m/s 2 and the coefficient of friction between gripping pad and  block is 
+0.42. Calculate gripping force and draw gripper force analysis?  
+    b) Differentiate forward and inverse kinematics?      [10+5] 
+ 
+4.a) What factors to be considered in gripper selection?  
+   b) Explain the role of D-H notation in Robotics.      [7+8]                                                         
+ 
+5.a) Solve fifth order polynomial trajectory planning with suitable example.  
+   b) Sketch and explain procedure to obtain robot joint Jacobian matrix?   [8+7] 
+ 
+6.a) Explain Newton-Euler formulation and its applications.                                
+   b) Discuss in detail trajectory planning of robot with suitable example.   [7+8] 
+ 
+7.a) Explain robot program language structure with suitable example.  
+b) Discuss the following categories of programming instructions in VAL Robot 
+programming:                                                                                            
+        i) Robot configuration control 
+            ii) Motion control.         [7+8]         
+ 
+8.a) Discuss the influence of the processing characteristics in robot cell design.  
+   b) Explain the application of robot in industry for material handling.   [8+7] 
+ 
+---oo0oo--- 
+ 
+R18 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

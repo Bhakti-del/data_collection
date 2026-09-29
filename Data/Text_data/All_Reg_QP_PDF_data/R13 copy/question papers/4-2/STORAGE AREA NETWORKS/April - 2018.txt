@@ -1,0 +1,75 @@
+ 
+ 
+ 
+Code No: 118ET             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, April - 2018 
+STORAGE AREA NETWORKS  
+(Common to CSE, IT) 
+Time: 3 hours                                         Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 10 
+marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) Define data storage.         [2]  
+   b) What are the logical constructs of a physical disk?     [3] 
+   c) What is intelligent storage system?            [2] 
+   d) Write about RAID 6.         [3] 
+   e) Discuss about impact of down time.       [2]  
+   f)      Define Disaster recovery.        [3]  
+   g)      What is data backup?         [2]  
+   h)      Why do we need replication technology?      [3]  
+   i) What are the advantages of Virtualization technology?    [2] 
+   j) What is storage virtualization        [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) Describe in   brief about the Key protocols and concepts used by each component. 
+   b) Discuss in brief about the role of each element in supporting business activities. [5+5] 
+OR 
+3.a) Define Data center? What are the Core elements of a data center infrastructure? 
+   b) Describe in brief about the physical components of a disk drive.   [5+5] 
+ 
+4.a) Differentiate between FC-SAN and IP-SAN topologies. 
+   b) Explain in brief about High-level architecture and working of an intelligent storage system. 
+            [5+5] 
+OR 
+5.a) Explain in brief about the Architecture of FC-SAN. 
+   b) Write about the network storage options for different application environments. [5+5] 
+  
+6.a) Differentiate between  RTO and RPO. 
+b) Describe in brief about Identification single points of failure in a storage infrastructure and 
+list solutions.          [5+5] 
+OR 
+7.a) Differentiate between business continuity (BC) and disaster recovery (DR). 
+   b) What are the advantages and disadvantages of RPO?    [5+5] 
+  
+R13 
+JNTUH USED 28-04-18AM Set 1
+
+ 
+ 
+ 
+8.a) Describe in brief about data replication technologies. 
+   b) Draw the architecture of data backup technology.     [5+5] 
+OR 
+9.a) Write about different back up technologies. 
+   b) What is the role of replication technology in ensuring information availability? [5+5] 
+ 
+10.a) What are the limitations of file level virtualization technology. 
+     b) What are the  key areas to monitor in a data center?     [5+5] 
+OR 
+11.a) Describe in brief about block-level and file-level virtualization technologies. 
+     b) Describe in brief about the Critical security attributes for information systems. [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH USED 28-04-18AM Set 1
+

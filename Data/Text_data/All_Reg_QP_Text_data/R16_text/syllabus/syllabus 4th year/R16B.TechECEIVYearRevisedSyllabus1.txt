@@ -1,0 +1,2082 @@
+R16 B.TECH ECE. 
+ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. ELECTRONICS AND COMMUNICATION ENGINEERING 
+IV YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+IV YEAR I SEMESTER 
+S.No. Course 
+Code Course Title L T P Credits 
+1 EC701PC Microwave Engineering 4 0 0 4 
+2  Professional Elective - II 3 0 0 3 
+3  Professional Elective  - III 3 0 0 3 
+4  Professional Elective  - IV 3 0 0 3 
+5 EC702PC VLSI Design 4 0 0 4 
+6 EC703PC VLSI and E-CAD Lab 0 0 3 2 
+7 EC704PC Microwave Engineering Lab 0 0 3 2 
+8 EC705PC Industry Oriented Mini Project 0 0 3 2 
+9 EC706PC Seminar 0 0 2 1 
+  Total Credits 17 0 11 24 
+ 
+IV YEAR II SEMESTER 
+S.No. Course 
+Code Course Title L T P Credits 
+1  Open Elective – III 3 0 0 3 
+2  Professional Elective -V 3 0 0 3 
+3  Professional Elective -VI 3 0 0 3 
+4 EC801PC Major Project 0 0 30 15 
+  Total Credits 9 0 30 24 
+ 
+Professional Elective – I 
+EC611PE Computer Organization and Operating System 
+EC612PE Digital Image Processing 
+EC613PE Spread Spectrum Communications 
+EC614PE  Digital system Design 
+ 
+Professional Elective – II 
+EC721PE  Computer Networks 
+EC722PE  FPGA Programming 
+EC723PE Coding Theory and Techniques 
+EC724PE Soft Computing Techniques 
+ 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+Professional Elective – III 
+EC731PE  Wireless Communications and Networks 
+EC732PE  Internet of Things 
+EC733PE  Radar Systems 
+EC734PE   Embedded Sytem Design 
+ 
+Professional Elective – IV 
+EC741PE  Optimization Techniques 
+EC742PE  Object Oriented Programming 
+EC743PE  Electronic Measurements and Instrumentation 
+EC744PE  Artificial Intelligence 
+ 
+Professional Elective – V 
+EC851PE  Network Security and Cryptography 
+EC852PE  System Design Using FPGAs 
+EC853PE  Optical Communications 
+EC854PE  Machine Learning 
+ 
+Professional Elective – VI 
+EC861PE  Actuators and Robot Systems 
+EC862PE  Analog CMOS IC Design 
+EC863PE  Global Positioning System 
+EC864PE  Computer Vision 
+ 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH ECE. 
+ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+LIST OF OPEN ELECTIVES OFFERED BY VARIOUS DEPARTMENTS FOR 
+B.TECH. III AND IV YEARS 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective – I 
+(Semester – V) 
+Open Elective – II 
+(Semester – VI) 
+1 Aeronautical Engg. AE511OE: Introduction 
+to Space Technology 
+AE621OE: Introduction to 
+Aerospace Engineering 
+2 Automobile Engg. CE511OE: Disaster 
+Management 
+MT512OE: Intellectual 
+Property Rights 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+3 Biomedical Engg. BM511OE: Reliability 
+Engineering 
+BM621OE: Medical 
+Electronics 
+4 Civil Engg. CE511OE: Disaster 
+Management. 
+CE621OE: Remote 
+Sensing and GIS 
+CE622OE: Geo-
+Informatics 
+CE623OE: Intellectual 
+Property Rights 
+5 Civil and Environmental 
+Engg. 
+CE511OE: Disaster 
+Management 
+CN621OE: Environmental 
+Impact Assessment  
+CE623OE: Intellectual 
+Property Rights 
+6 Computer Science and Engg. 
+/ Information Technology 
+CS511OE: Operating 
+Systems  
+CS512OE: Database 
+Management Systems 
+CS621OE: Java 
+Programming  
+CS622OE: Software 
+Testing Methodologies  
+CS623OE: Cyber Security 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC511OE: Principles of 
+Electronic 
+Communications 
+EC621OE: Principles of 
+Computer Communications 
+and Networks 
+8 Electronics and Computer 
+Engg. 
+EM511OE: Scripting 
+Languages 
+EM621OE: Soft 
+Computing Techniques 
+9 Electrical and Electronics 
+Engg. 
+EE511OE: Non-
+Conventional Power 
+Generation  
+EE512OE: Electrical 
+Engineering Materials  
+EE513OE: 
+Nanotechnology 
+EE621OE: Design 
+Estimation and Costing of 
+Electrical Systems  
+EE622OE: Energy Storage 
+Systems 
+EE623OE: Introduction to 
+Mechatronics 
+10 Electronics and 
+Instrumentation Engg. 
+EI511OE: Electronic 
+Measurements and 
+Instrumentation 
+EI621OE: Industrial 
+Electronics 
+11 Mechanical Engg. ME511OE: Optimization 
+Techniques  
+ME512OE: Computer 
+Graphics 
+ME513OE: Introduction 
+ME621OE: World Class 
+Manufacturing  
+ME622OE: Fundamentals 
+of Robotics 
+ME623OE: Fabrication 
+
+R16 B.TECH ECE. 
+ 
+to Mechatronics 
+ME514OE: 
+Fundamentals of 
+Mechanical Engineering 
+Processes 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT511OE: Fabrication 
+Processes 
+NT512OE: Non 
+destructive Testing 
+Methods 
+NT513OE: 
+Fundamentals of 
+Engineering Materials 
+NT621OE: Introduction to 
+Material Handling 
+NT622OE: Non-
+Conventional Energy 
+Sources 
+NT623OE: Robotics 
+13 Mechanical Engg. 
+(mechatronics) 
+MT511OE: Analog and 
+Digital I.C. Applications 
+MT512OE: Intellectual 
+Property Rights 
+MT513OE: Computer 
+Organization 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+MT623OE: Industrial 
+Management 
+ 
+14 Metallurgical and Materials 
+Engg. 
+MM511OE: Materials 
+Characterization 
+Techniques 
+MM621OE: Science and 
+Technology of Nano 
+Materials 
+MM622OE: Metallurgy of 
+Non Metallurgists 
+15 Mining Engg. MN511OE: Introduction 
+to Mining Technology 
+MN621OE: Coal 
+Gasification, Coal Bed 
+Methane and Shale Gas 
+16 Petroleum Engg. PE511OE: Materials 
+Science and Engineering 
+PE512OE: Renewable 
+Energy Sources 
+PE513OE: 
+Environmental 
+Engineering 
+PE621OE: Energy 
+Management and 
+Conservation 
+PE622OE: Optimization 
+Techniques 
+PE623OE: 
+Entrepreneurship and 
+Small Business Enterprises 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective –III 
+(Semester – VIII) 
+1 Aeronautical Engg. AE831OE: Air Transportation Systems 
+AE832OE: Rockets and Missiles 
+2 Automobile Engg. AM831OE: Introduction to Mechatronics 
+AM832OE: Microprocessors and Microcontrollers 
+3 Biomedical Engg. BM831OE: Telemetry and Telecontrol  
+BM832OE: Electromagnetic Interference and 
+Compatibility 
+4 Civil Engg. CE831OE: Environmental Impact Assessment  
+CE832OE: Optimization Techniques in Engineering 
+CE833OE: Entrepreneurship and Small Business 
+Enterprises 
+5 Civil and Environmental 
+Engg. 
+CN831OE: Remote Sensing and GIS  
+CE833OE: Entrepreneurship and Small Business 
+
+R16 B.TECH ECE. 
+ 
+Enterprises 
+6 Computer Science and 
+Engg. / Information 
+Technology 
+CS831OE: Linux Programming  
+CS832OE: R Programming  
+CS833OE: PHP Programming 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC831OE: Electronic Measuring Instruments 
+8 Electronics and Computer 
+Engg. 
+EM831OE: Data Analytics 
+9 Electrical and Electronics 
+Engg. 
+EE831OE: Entrepreneur Resource Planning 
+EE832OE: Management Information Systems 
+EE833OE: Organizational Behaviour  
+10 Electronics and 
+Instrumentation Engg. 
+EI831OE: Sensors and Transducers,  
+EI832OE: PC Based Instrumentation 
+11 Mechanical Engg. ME831OE: Total Quality Management  
+ME832OE: Industrial Safety, Health, and 
+Environmental Engineering  
+ME833OE: Basics of Thermodynamics  
+ME834OE: Reliability Engineering 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT831OE: Concepts of Nano Science And Technology  
+NT832OE: Synthesis of Nanomaterials  
+NT833OE: Characterization of Nanomaterials 
+13 Mechanical Engg. 
+(mechatronics) 
+MT831OE: Renewable Energy Sources 
+MT832OE: Production Planning and Control 
+CE833OE: Entrepreneurship and Small Business 
+Enterprises 
+14 Metallurgical and Materials 
+Engg. 
+MM831OE: Design and Selection of Engineering 
+Materials 
+15 Mining Engg. MN831OE: Solid Fuel Technology 
+MN832OE: Health & Safety in Mines 
+16 Petroleum Engg. PE831OE: Disaster Management 
+PE832OE: Fundamentals of Liquefied Natural Gas 
+PE833OE: Health, Safety and Environment in 
+Petroleum Industry  
+ 
+*Open Elective – Students should take Open Electives from List of Open Electives Offered 
+by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+  
+
+R16 B.TECH ECE. 
+ 
+MICROWAVE ENGINEERING 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC701PC/ET743PE                         4     0    0    4 
+ 
+Course Objectives: This  is  a  core  course  in  Microwave  Communications  domain,  and  
+covers  contents  related  to  Microwave  Theory  and  Techniques.  The main objectives of 
+the course are: 
+ To get familiarized with microwave frequency bands, their applications and to 
+understand the limitations and losses of conventional tubes at these frequencies. 
+ To develop the theory related to microwave transmission lines, and to determine the 
+characteristics of rectangular waveguides, microstrip lines, and different types of 
+waveguide components and ferrite devices. 
+ To distinguish between different types of microwave tubes,  their structures and 
+principles of microwave power generation, and to characterize their performance 
+features and applications - at tube levels as well as with solid state devices. 
+ To impart the knowledge of Scattering Matrix, its formulation and utility, and 
+establish the S-Matrix for various types of microwave junctions. 
+ To understand the concepts of microwave measurements, identify the equipment 
+required and precautions to be  taken, and get familiarized with the methods of 
+measurement of microwave power and various other microwave parameters. 
+ 
+Course Outcomes: Having gone through this course covering different aspects of microwave 
+theory and techniques, the students would be able to 
+ To analyze  completely the rectangular waveguides, their mode characteristics, and 
+design waveguides for solving practical microwave transmission line problems. 
+ To distinguish between the different types of waveguide and ferrite components, 
+explain their functioning and select proper components for engineering applications. 
+ To distinguish between the methods of power generation at microwave frequencies, 
+derive the performance characteristics of 2 -Cavity and Relfex Klystrons, Magnetrons, 
+TWTs and estimate their efficiency levels, and solve related numerical problems 
+ To realize the need for solid state microwave sources, understand the concepts of 
+TEDs, RWH Theory and explain the salient features of Gunn Diodes and ATT 
+Devices. 
+ To establish the propertie s of Scattering Matrix, formulate the S -Matrix for various  
+microwave junctions, and understand the utility of S -parameters in microwave 
+component design. 
+ To set up a microwave bench, establish  the measurement procedure and conduct the 
+experiments in microwave lab for measurement of various microwave parameters. 
+ 
+UNIT - I 
+Microwave Transmission Lines - I: Introduction, Microwave Spectrum and Bands, 
+Applications of Microwaves.  Rectangular Waveguides – Solution of Wave Equations in 
+
+R16 B.TECH ECE. 
+ 
+Rectangular Coordinates, TE /TM mode analysis, Expressions for Fields, Characteristic 
+Equation and Cut -off Frequencies, Filter Characteristics, Dominant and Degenerate Modes, 
+Sketches of TE and TM mode fields in the cross -section, Mode Characteristics – Phase and 
+Group Velocities, Wavelengths and Impedance Relations, Power Transmission, Impossibility 
+of TEM Mode. Illustrative Problems, Micro strip Lines– Introduction, Zo Relations, Effective 
+Dielectric Constant. 
+ 
+UNIT - II 
+Cavity Resonators – Introduction, Rectangular Cavities, Dominant Modes and Resonant 
+Frequencies, Q Factor and Coupling Coefficients, Illustrative Problems 
+Waveguide Components and Applications: Coupling Mechanisms – Probe, Loop, Aperture 
+types. Waveguide Discontinuities – Waveguide Windows, Tuning Screws and Po sts, 
+Matched Loads. Waveguide Attenuators – Different Types, Resistive Card and Rotary Vane 
+Attenuators; Waveguide Phase Shifters – Types, Dielectric and Rotary Vane Phase Shifters, 
+Waveguide Multiport Junctions – E plane and H plane Tees, Magic Tee.  Dire ctional 
+Couplers – 2 Hole, Bethe Hole types, Illustrative Problems 
+Ferrites– Composition and Characteristics, Faraday Rotation, Ferrite Components – Gyrator, 
+Isolator, Circulator. 
+ 
+UNIT - III 
+Microwave Tubes: Limitations and Losses of conventional Tubes at  Microwave 
+Frequencies, Microwave Tubes – O Type and M Type Classifications, O -type Tubes : 2 
+Cavity Klystrons – Structure, Reentrant Cavities, Velocity Modulation Process and Applegate 
+Diagram, Bunching Process and Small Signal Theory – Expressions for O/ P Power and 
+Efficiency.  Reflex Klystrons – Structure, Velocity Modulation and Applegate Diagram, 
+Mathematical Theory of Bunching, Power Output, Efficiency, Oscillating Modes and O/P 
+Characteristics, Illustrative Problems. 
+Helix TWTs: Significance, Types and Characteristics of Slow Wave Structures; Structure of 
+TWT and Amplification Process (qualitative treatment), Suppression of Oscillations, Gain 
+Considerations. 
+ 
+UNIT - IV 
+M-Type Tubes: 
+Introduction, Cross-field Effects, Magnetrons – Different Types, Cylindrical Traveling Wave 
+Magnetron – Hull Cut -off and Hartree Conditions, Modes of Resonance and PI -Mode 
+Operation, Separation of PI-Mode,  o/p characteristics, Illustrative  Problems 
+Microwave Solid State Devices: Introduction, Classification, Applications.  TEDs – 
+Introduction, Gunn Diodes – Principle, RWH Theory, Characteristics, Modes of Operation -  
+Gunn Oscillation Modes,  Introduction to Avalanche Transit Time Devices. 
+ 
+UNIT - V 
+Scattering Matrix– Significance, Formulation and Properties, S Matrix Calcu lations for – 2 
+port Junctions, E plane and H plane Tees, Magic Tee, Circulator and Isolator, Illustrative 
+Problems. 
+
+R16 B.TECH ECE. 
+ 
+Microwave Measurements: Description of Microwave Bench – Different Blocks and their 
+Features, Errors and Precautions, Microwave Power Measu rement, Bolometers.  
+Measurement of Attenuation, Frequency. Standing Wave Measurements – Measurement of 
+Low and High VSWR, Cavity Q, Impedance Measurements. 
+ 
+TEXT BOOKS: 
+1. Microwave Devices and Circuits – Samuel Y. Liao, Pearson, 3rd Edition, 2003. 
+2. Microwave Principles – Herbert J. Reich, J.G. Skalnik, P.F. Ordung and H.L. Krauss, 
+CBS Publishers and Distributors, New Delhi, 2004. 
+ 
+REFERENCES: 
+1. Foundations for Microwave Engineering – R.E. Collin, IEEE Press, John Wiley, 2nd 
+Edition, 2002. 
+2. Microwave Engineering - G.S.  Raghuvanshi, Cengage Learning India Pvt. Ltd.,   
+2012. 
+3. Microwave Engineering   Passive Circuits – Peter A. Rizzi, PHI, 1999. 
+4. Microwave Engineering - David M. Pozar, John Wiley & Sons (Asia) Pvt Ltd., 1989, 
+3r ed., 2011 Reprint. 
+  
+
+R16 B.TECH ECE. 
+ 
+COMPUTER NETWORKS 
+(PROFESSIONAL ELECTIVE – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: ET702PC/EC721PE                         3     0    0    3 
+ 
+Course Objectives: 
+ To introduce the fundamental various types of computer networks. 
+ To demonstrate the TCP/IP and OSI models with merits and demerits. 
+ To explore the various layers of OSI Model. 
+ To introduce UDP and TCP Models. 
+ To have the concept of different routing techniques for data communications. 
+ 
+Course Outcomes: 
+ Students should understand and explore the basics of Computer Networks and 
+Various Protocols. He/ She will be in a position to understand the World Wide Web 
+concepts. 
+ Students will be in a position to administrate a network and flow of information 
+further he/she can understand easily the concepts of network security, Mobile and ad 
+hoc networks. 
+ 
+UNIT - I 
+Introduction to Networks: Internet, Protocols and Standards, the OSI Model, Layers in OSI 
+Model, TCP/IP Suite, Addressing. 
+Physical Layer: Multiplexing, Transmission Media, Circuit Switched Networks, Datagram 
+Networks, and Virtual Circuit Networks. 
+ 
+UNIT - II 
+Data Link Layer:  Introduction, Checksum, Framing, Flow and Error Control, Noiseless 
+Channels, Noisy Channels, Random Access Controlled Access, Channelization, I EEE 
+Standards, Ethernet, Giga -Bit Ethernet, Wireless LANs, SONET -SDH, Frame Relay and 
+ATM. 
+ 
+UNIT - III 
+Network Layer: Logical Addressing, Internetworking, Tunneling, Address Mapping, ICMP, 
+IGMP, Forwarding, Routing -Flooding, Bellman& Ford, Disjkstra’s rout ing protocols, RIP, 
+OSPF, BGP,- and Multicast Routing Protocols. Connecting Devices-Passive Hubs, Repeaters, 
+Active Hubs, Bridges, Routers. 
+ 
+UNIT - IV 
+Transport Layer: Process to Process Delivery, UDP, TCP and SCTP Protocols, Congestion, 
+Congestion Control, Quality of Service. 
+
+R16 B.TECH ECE. 
+ 
+Application Layer: Domain Name Space, DNS in Internet, Electronic Mail, File Transfer 
+Protocol, WWW, HTTP, SNMP, Multi-Media. 
+ 
+UNIT - V 
+Network Security: Security services, mechanisms and attacks, IPSec, SSL, VPN, Firewall. 
+Bluetooth, Zigbee, IPv4, IPv6. 
+ 
+TEXT BOOKS: 
+1. Data Communications and Networking – Behrouz A. Forouzan, 4 th Edition Mc Graw 
+Hill Education, 2006. 
+2. Computer Networks -- Andrew S Tanenbaum, 4th Edition, Pearson Education.  
+3. Computer Networking: A Top -Down Approach Featuring the Internet, James F. 
+Kurose, K. W. Ross, 3rd Edition, Pearson Education. 
+ 
+REFERENCES: 
+1. Data communications and Networks by William Stallings, Pearson Edu. 10th Edition. 
+2. Data communication and Networks - Bhusan Trivedi, Oxford University Press 2016. 
+3. An Engineering Approach to Computer Networks -S.Keshav, 2nd Edition, Pearson 
+Education. 
+4.  Understanding Communications and Networks, 3rd Edition, W.A.Shay, Cengage 
+Learning. 
+
+R16 B.TECH ECE. 
+ 
+FPGA PROGRAMMING 
+(PROFESSIONAL ELECTIVE – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC722PE                          3     0    0    3 
+ 
+Prerequisite: Switching Theory & Logic Design 
+ 
+UNIT - I 
+ Simple Programmable Logic Devices (SPLDS): 
+Programmable Read Only Memories (PROMs), Programmable Logic Arrays (PLAs), 
+Programmable Array Logic (PALs), the Masked Gate Array ASIC. 
+Complex Programmable Logic Devices (CPLDs): 
+CPLD Architectures, Function Blocks, I/O Blocks, Clock Drivers, Interconnect CPLD 
+Technology and Programmable Elements, Embedded Devices. 
+Field Programmable Gate Arrays (FPGAs): 
+FPGA Architectures, Configurable Logic Blocks, Configurable I/o Blocks, Embedded 
+Devices, Programmable Inter Connect, Clock Circuitry, SRAM vs. Anti -fuse programming, 
+FPGA Selection Criteria. 
+ 
+UNIT - II 
+ Universal Design Methodology for Programmable Devices: 
+Introduction to UDM and UDM-PD, writing a Specification, Specification Review, Choosing 
+Device and Tools, Design, Verification, Final Review, System Integration and Test. 
+Hardware Descriptive Languages, Structure of VHDL  & Verilog module, operator, Data 
+types, Top -Down Design, Synchronous Design, Floating Nodes, Bus Contention, One -Hot 
+state Encoding.  
+ 
+UNIT - III 
+ Data flow Description and Behavioral Descriptions: 
+Introduction to styles types of hardware description –Behavioral, Structural, Dataflow and 
+Mixed type and language descriptions.  
+Data flow Description:  Structure of the dataflow description, Signal Declara tion and 
+Assignment Statements, Concurrent Signal assignments, Constant declaration and 
+assignments, assigning a delay time to the signal, Data type-Vectors. 
+Behavioral Descriptions: Structure of the HDL Behavioral description, The VHDL/ Verilog 
+HDL variab le – assignment statement, sequential statement – IF, signal and variable 
+assignment, CASE & LOOP statements 
+ 
+UNIT - IV 
+ Structural and Switch level Descriptions. 
+Structural Description: Organization of the structural description, binding, state machines, 
+Generate (HDL), Generic (VHDL), and parameter (Verilog). 
+
+R16 B.TECH ECE. 
+ 
+Switch level Description : Useful definitions, Single NMOS & PMOS switches -verilog & 
+VHDL description of NMOS & PMOS Switches, serial and parallel combinations of 
+switches, Switch level Description of  –primitive gates, Simple combinational logics, simple 
+sequential circuits, Bidirectional Switches. 
+ 
+UNIT - V 
+Procedures, Tasks, Functions and Verification: 
+Mixed type descriptions, Procedures and Tasks : Procedures (VHDL), Tasks (Verilog), 
+Examples of Procedures and Tasks, Functions in VHDL & Verilog HDL. 
+Verification: Introduction to verification, simulation, static timing Analysis, Association 
+languages and formal verification. 
+ 
+TEXT BOOKS: 
+1. Designing with FPGAS & CPLDS - Bob Zeidman, CMP Books, First Printed in India 
+2011 
+2. HDL Programming Fundamental -VHDL & Verilog, Botros, Cengage Learning, Third 
+Indian Reprint 2012 
+ 
+
+R16 B.TECH ECE. 
+ 
+CODING THEORY AND TECHNIQUES 
+(PROFESSIONAL ELECTIVE – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC723PE/ET732PE                         3     0    0    3 
+ 
+Pre-requisite: Digital Communications 
+ 
+Course Objectives: 
+ To acquire the knowledge in measurement of information and errors. 
+ Understand the importance of various codes for communication systems. 
+ To design encoder and decoder of various codes. 
+ To known the applicability of source and channel codes. 
+ 
+Course Outcomes: Upon completing this course, the student will be able to  
+ Learn measurement of information and errors. 
+ Obtain knowledge in designing various source codes and channel codes. 
+ Design encoders and decoders for block and cyclic codes. 
+ Understand the significance of codes in various applications. 
+ 
+UNIT - I 
+ Coding for Reliable Digital Transmission and storage: 
+Mathematical model of Information, A Logarithmic Measure of Information, Average and 
+Mutual Information and Entropy, Types of Errors, Error Control Strategies. 
+Source Codes: Shannon-fano coding, Huffman coding 
+ 
+UNIT - II 
+ Linear Block Codes: 
+Introduction to Linear Block Codes, Syndrome and Error Detection, Minimum Distance of a 
+Block code, Error -Detecting and Error -correcting Capabilities of a Block code, Standard 
+array and Syndrome Decoding, Probability of an undetected error for Linear Codes over a 
+BSC, Hamming Codes. Applications of Block codes for Error control in data storage system 
+ 
+UNIT - III 
+Cyclic Codes: 
+Description, Generator and Parity -check Matrices, Encoding, Syndrome Computation and 
+Error Detection, Decoding, Cyclic Hamming Codes, shortened cyclic codes, Error -trapping 
+decoding for cyclic codes, Majority logic decoding for cyclic codes. 
+ 
+UNIT - IV 
+ Convolution Codes: 
+Encoding of Convolution Codes - Structural and  Distance Properties, state, tree, trellis 
+diagrams, maximum likelihood decoding, Se quential decoding, Majority - logic decoding of 
+
+R16 B.TECH ECE. 
+ 
+Convolution codes. Application of Viterbi Decoding and Sequential Decoding, Applications 
+of Convolution codes in ARQ system. 
+ 
+UNIT - V 
+BCH Codes: 
+Minimum distance and BCH bounds, Decoding procedure for BCH cod es, Syndrome 
+computation and iterative algorithms, Error locations polynomials for single and double error 
+correction. 
+ 
+TEXT BOOKS: 
+1. Error Control Coding - Fundamentals and Applications –Shu Lin, Daniel J.  Costello, 
+Jr, Prentice Hall, Inc 2014. 
+2. Error Correcting Coding Theory-Man Young Rhee, McGraw – Hill Publishing, 1989. 
+ 
+REFERENCES: 
+1. Digital Communications- John G. Proakis, 5th Ed., TMH, 2008.  
+2. Introduction to Error Control Codes-Salvatore Gravano, oxford 
+3. Error Correction Coding – Mathematical Methods and Algorithms - Todd K. Moon, 
+Wiley India, 2006. 
+4. Information Theory, Coding and Cryptography – Ranjan Bose, 2nd Ed., TMH, 2009. 
+ 
+
+R16 B.TECH ECE. 
+ 
+SOFT COMPUTING TECHNIQUES 
+(PROFESSIONAL ELECTIVE – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC724PE                          3     0    0    3 
+ 
+Course Objectives: This course makes the students to Understand  
+ Fundamentals of Neural Networks & Feed Forward Networks.  
+ Associative Memories & ART Neural Networks.  
+ Fuzzy Logic & Systems.  
+ Genetic Algorithms and Hybrid Systems.  
+ 
+Course Outcomes: On completion of this course the students will be able to  
+ Identify and employ suitable soft computing techniques in classification and 
+optimization problems.  
+ Design hybrid systems to suit a given real – life problem.  
+ 
+UNIT – I 
+Fundamentals of Neural Networks & Feed Forward Networks: 
+Basic Concept of Neural Networks, Human Brain, Models of an Artificial Neuron, Learning 
+Methods, Neural Networks Architectures, Single Layer Feed Forward Neural Network: The 
+Perceptron Model, Multilayer Feed Forward Neural Network: Architecture  of a Back-
+Propagation Network (BPN), The Solution, Backpropagation Learning, Selection of various 
+Parameters in BPN . Application of Back propagation Networks in Pattern Recognition & 
+Image Processing. 
+ 
+UNIT – II 
+Associative Memories & ART Neural Networks: 
+Basic concepts of Linear Associative, Basic concepts of Dynamical systems, Mathematical 
+Foundation of Discrete -Time Hop field Networks (H PF), Mathematical Foundation of 
+Gradient-Type Hopfield Networks, Transient response of Continuous Time Networks, 
+Applications of HPF in Solution of Optimization Problem: Minimization of the Traveling 
+salesman tour length, Summing networks with digital outp uts, Solving Simultaneous Linear 
+Equations, Bidirectional Associative Memory Networks; Cluster Structure, Vector 
+Quantization, Classical ART Networks, Simplified ART Architecture. 
+ 
+UNIT – III 
+Fuzzy Logic & Systems: 
+Fuzzy sets, Crisp Relations, Fuzzy Relati ons, Crisp Logic, Predicate Logic, Fuzzy Logic, 
+Fuzzy Rule based system, Defuzzification Methods, Applications: Greg Viot’s Fuzzy Cruise 
+Controller, Air Conditioner Controller.  
+ 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+UNIT – IV 
+Genetic Algorithms: 
+Basic Concepts of Genetic Algorithms (GA), Biological background, Creation of Offsprings, 
+Working Principle, Encoding, Fitness Function, Reproduction, Inheritance Operators, Cross 
+Over, Inversion and Deletion, Mutation Operator, Bit -wise Operators used in GA, 
+Generational Cycle, Convergence of Genetic Algorithm.  
+ 
+UNIT – V 
+Hybrid Systems: 
+Types of Hybrid Systems, Neural Networks, Fuzzy Logic, and Genetic Algorithms Hybrid, 
+Genetic Algorithm based BPN: GA Based weight Determination, Fuzzy Back Propagation 
+Networks: LR-type fuzzy numbers, Fuzzy Neuron, Fuzzy BP Architecture, Learning in Fuzzy 
+BPN, Inference by fuzzy BPN. 
+ 
+TEXT BOOKS: 
+1. Introduction to Artificial Neural Systems - J.M. Zurada, Jaico Publishers 
+2. Neural Networks, Fuzzy Logic & Genetic Algorithms: Syn thesis & Applications -S. 
+Rajasekaran, G.A. Vijayalakshmi Pai, PHI, 2011. 
+3. Genetic Algorithms by David E. Gold Berg, Pearson Education India, 2006. 
+4. Neural Networks & Fuzzy Sytems- Kosko.B., PHI, Delhi, 1994. 
+ 
+REFERENCES: 
+1. Artificial Neural Networks - Dr. B. Yagananarayana, , PHI, 1999. 
+2. An introduction to Genetic Algorithms - Mitchell Melanie, MIT Press, 1998 
+3. Fuzzy Sets, Uncertainty and Information- Klir G.J. & Folger. T. A., PHI, Delhi, 1993. 
+ 
+
+R16 B.TECH ECE. 
+ 
+WIRELESS COMMUNICATIONS AND NETWORKS 
+(PROFESSIONAL ELECTIVE – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC731PE                          3     0    0    3 
+ 
+Prerequisite: Digital Communications 
+ 
+Course Objectives: 
+ To provide the students with the fundamental treatment  about many practical and 
+theoretical concepts that forms basic of wireless communications. 
+ To equip the students with various kinds of wireless networks and its operations. 
+ To provide an analytical perspective on the design and analysis of the traditional  and 
+emerging wireless networks, and to discuss the nature of, and solution methods to, the 
+fundamental problems in wireless networking. 
+ To train students to understand the architecture and operation of various wireless wide 
+area networks such as GSM, IS-95, GPRS and SMS. 
+ 
+Course Outcomes: Upon completion of the course, the student will be able to: 
+ Understand cellular system design concepts. 
+ Analyze various multiple access schemes used in wireless communication. 
+ Demonstrate wireless Local and Wide area networks and their specifications. 
+ Familiar with some of the existing and emerging wireless standards. 
+ Understand the concept of orthogonal frequency division multiplexing. 
+ 
+UNIT - I  
+The Cellular Concept-System Design Fundamentals: 
+Introduction, Frequency  Reuse, Channel Assignment Strategies, Handoff Strategies - 
+Prioritizing Handoffs, Practical Handoff Considerations, Interference and system capacity – 
+Co channel Interference and system capacity, Channel planning for Wireless Systems, 
+Adjacent Channel interference, Power Control for Reducing interference, Trunking and 
+Grade of Service, Improving Coverage & Capacity in Cellular Systems - Cell Splitting, 
+Sectoring.  
+ 
+UNIT – II 
+Mobile Radio Propagation: Large-Scale Path Loss: 
+Introduction to Radio Wave Propagat ion, Free Space Propagation Model, Relating Power to 
+Electric Field, The Three Basic Propagation Mechanisms, Reflection -Reflection  from 
+Dielectrics, Brewster Angle, Reflection from prefect conductors, Ground Reflection (Two -
+Ray) Model, Diffraction -Fresnel Zone Geometry, Knife -edge  Diffraction Model, Multiple 
+knife-edge Diffraction, Scattering, Outdoor Propagation Models - Longley-Rice Model,  
+Okumura Model, Hata Model, PCS Extension to Hata Model, Walfisch and Bertoni Model, 
+Wideband PCS Microcell Model, I ndoor Propagation Models -Partition losses (Same Floor), 
+
+R16 B.TECH ECE. 
+ 
+Partition losses between Floors, Log -distance path loss model, Ericsson Multiple Breakpoint 
+Model, Attenuation Factor Model, Signal penetration into buildings,  Ray Tracing and Site 
+Specific Modeling. 
+ 
+UNIT – III 
+Mobile Radio Propagation: Small –Scale Fading and Multipath: 
+Small Scale Multipath propagation -Factors influencing small scale fading, Doppler shift, 
+Impulse Response Model of a multipath channel - Relationship between Bandwidth and 
+Received po wer, Small -Scale Multipath Measurements -Direct RF Pulse System, Spread 
+Spectrum Sliding Correlator Channel Sounding, Frequency Domain Channels Sounding, 
+Parameters of Mobile Multipath Channels -Time Dispersion Parameters, Coherence 
+Bandwidth, Doppler Spread  and Coherence Time, Types of Small -Scale Fading -Fading 
+effects Due to Multipath Time Delay Spread, Flat fading, Frequency selective fading, Fading 
+effects Due to Doppler Spread -Fast fading, slow fading, Statistical Models for multipath 
+Fading Channels -Clarke’s model for flat fading, spectral shape due to Doppler spread in 
+Clarke’s model, Simulation of Clarke and Gans Fading Model, Level crossing and fading 
+statistics, Two-ray Rayleigh Fading Model. 
+ 
+UNIT - IV 
+Equalization and Diversity: 
+Introduction, Funda mentals of Equalization, Training A Generic Adaptive Equalizer, 
+Equalizers in a communication Receiver, Linear Equalizers, Non-linear Equalization-
+Decision Feedback Equalization (DFE), Maximum Likelihood Sequence Estimation (MLSE) 
+Equalizer, Algorithms for adaptive equalization-Zero Forcing Algorithm, Least Mean Square 
+Algorithm, Recursive least squares algorithm. Diversity Techniques -Derivation of selection 
+Diversity improvement, Derivation of Maximal Ratio Combining improvement, Practical 
+Space Diversity Consideration-Selection Diversity, Feedback or Scanning Diversity, 
+Maximal Ratio Combining, Equal Gain Combining, Polarization Diversity, Frequency 
+Diversity, Time Diversity, RAKE Receiver. 
+ 
+UNIT - V 
+Wireless Networks: 
+Introduction to wireless Networks, Advantages and disadvantages of Wireless Local Area 
+Networks, WLAN Topologies, WLAN Standard IEEE 802.11,  IEEE 802.11 Medium Access 
+Control, Comparision of IEEE 802.11 a,  b, g and n standards, IEEE 802.16 and its 
+enhancements, Wireless PANs, Hiper Lan, WLL.  
+ 
+TEXT BOOKS: 
+1. Wireless Communications, Principles, Practice – Theodore, S. Rappaport, 2 nd Ed., 
+2002, PHI. 
+2. Wireless Communications-Andrea Goldsmith, 2005 Cambridge University Press. 
+3. Principles of Wireless Networks – Kaveh Pah Laven and P. Krishna Murthy, 2002, 
+PE     
+
+R16 B.TECH ECE. 
+ 
+4. Mobile Cellular Communication – Gottapu Sasibhushana Rao, Pearson Education, 
+2012. 
+ 
+REFERENCES: 
+1. Wireless Digital Communications – Kamilo Feher, 1999, PHI. 
+2. Wireless Communication and Networking – William Stallings, 2003, PHI. 
+ 
+
+R16 B.TECH ECE. 
+ 
+INTERNET OF THINGS 
+(PROFESSIONAL ELECTIVE – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS724PE/EC732PE                         3     0    0    3 
+  
+Course Objectives:  
+ To introduce the terminology, technology and its applications 
+ To introduce the concept of M2M (machine to machine) with necessary protocols 
+ To introduce the Python Scripting Language which is used in many IoT devices 
+ To introduce the Raspberry PI platform, that is widely used in IoT applications 
+ To introduce the implementation of web-based services on IoT devices. 
+ 
+UNIT - I 
+Introduction to Internet of Things  -Definition and Characteristics of IoT, Physical Design of 
+IoT – IoT Protocols, IoT communication models, IoT Communication APIs, IoT enabled 
+Technologies – Wireless Sensor Networks, Cloud Computing, Big data analytics, 
+Communication protocols, Embedded Systems, IoT Levels and Templates, Domain Specific 
+IoTs – Home, City, Environment, Energy, Retail, Logistics, Agriculture, Industry, health and 
+Lifestyle. 
+ 
+UNIT - II 
+IoT and M2M  - Software defined networks, network function virtualization, difference 
+between SDN and NFV for IoT. Basics of IoT System Management with NETCOZF, YANG  
+-NETCONF, YANG, SNMP NETOPEER 
+ 
+UNIT - III 
+Introduction to Python - Language features of Python, Data types, data structures, Control of 
+flow, functions, modules, packaging, file handling, data/time operations, classes, Exception 
+handling. Python packages - JSON, XML, HTTP Lib, URL Lib, SMTP Lib. 
+ 
+UNIT - IV 
+IoT Physical Devices and Endpoints  - Introduction to Raspberry PI - Interfaces (serial, SPI, 
+I2C). Programming – Python program with Raspberry PI with focus of interfacing external 
+gadgets, controlling output, reading input from pins. 
+ 
+UNIT - V 
+IoT Physical Servers and  Cloud Offerings  - Introduction to Cloud Storage models and 
+communication APIs. Webserver – Web server for IoT, Cloud for IoT, Python web 
+application framework. Designing a RESTful web API 
+ 
+TEXT BOOK:  
+1. Internet of Things - A Hands -on Approach, Arshdeep Bah ga and Vijay Madisetti, 
+Universities Press, 2015, ISBN: 9788173719547 
+
+R16 B.TECH ECE. 
+ 
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly 
+(SPD), 2014, ISBN: 9789350239759 
+ 
+
+R16 B.TECH ECE. 
+ 
+RADAR SYSTEMS 
+(PROFESSIONAL ELECTIVE – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC733PE                          3     0    0    3 
+ 
+Prerequisite: Analog and Digital Communications 
+ 
+Course Objectives: 
+ To explore the concepts of radar and its frequency bands. 
+ To understand Doppler effect and get acquainted with the working principles of CW 
+radar,  FM-CW  radar. 
+ To impart the knowledge of functioning of MTI and Tracking Radars.   
+ To  explain  the  deigning of  a Matched  Filter  in  radar  receivers.  
+ 
+Course Outcomes: Upon completing this course, the student will be able to  
+ Derive the complete radar range equation. 
+ Understand  the  need  and  functioning  of  CW,  FM-CW and MTI  radars 
+ Known various Tracking methods. 
+ Derive the matched filter response characteristics for radar receivers. 
+ 
+UNIT – I 
+Basics of Radar : Maximum Unambiguous Range, Simple form of Radar Equation, Radar 
+Block Diagram and Operation, Radar Frequencies and Applications. Prediction of Range 
+Performance, Minimum Detectable Signal, Receiver Noise, Modified Radar Range Equation. 
+Radar Equation: SNR, Envelope Detector – False Alarm Time and Probability, Integration 
+of Radar Pulses, Radar Cross Section of Targets, Transmitter Power, PRF and Range 
+Ambiguities, System Losses (qualitative treatment). 
+ 
+UNIT – II 
+CW and Frequency Modulated Radar: Doppler Effect, CW Radar – Block Diagram, 
+Isolation between Transmitter and Receiver, Non -zero IF Receiver, Receiver Bandwidth 
+Requirements, Applications of CW radar. 
+FM-CW Radar: Range and Doppler Measurement, Block Diagram and Characteristics, FM-
+CW altimeter. 
+ 
+UNIT - III 
+MTI and Pulse Doppler Radar: Principle, MTI Radar - Power Amplifier Transmitter and 
+Power Oscillator Transmitter, Delay Line Cancellers – Filter Characteristics, Blind Speeds, 
+Double Cancellation, Staggered PRFs. Range Gated Doppler Filters. MTI Radar Parameters, 
+Limitations to MTI Performance, MTI versus Pulse Doppler Radar. 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+UNIT – IV 
+Tracking Radar: Tracking with Radar, Sequential Lobing, Conical Scan, Mono pulse 
+Tracking Radar – Amplitude Comparison Mono pulse (one - and two - coordinates), Phase 
+Comparison Mono pulse, Tracking in Range, Acquisition and Scanning Patterns, Comparison 
+of Trackers. 
+ 
+UNIT – V 
+Detection of Radar Signals in Noise Matched Filter Receiver – Response Characteristics 
+and Derivati on, Correlation Function and Cross -correlation Receiver, Efficiency of Non -
+matched Filters, Matched Filter with Non-white Noise. 
+Radar Receivers – Noise Figure and Noise Temperature, Displays – types. Duplexers – 
+Branch type and Balanced type, Circulators as Duplexers. Introduction to Phased Array 
+Antennas – Basic Concepts, Radiation Pattern, Beam Steering and Beam Width changes, 
+Applications, Advantages and Limitations. 
+ 
+TEXT BOOK: 
+1. Introduction to Radar Systems – Merrill I. Skolnik, TMH Special Indian Edit ion, 
+2ndEd., 2007. 
+ 
+REFERENCE BOOKS: 
+1. Radar: Principles, Technology, Applications – Byron Edde, Pearson Education, 2004. 
+2. Radar Principles – Peebles, Jr., P.Z., Wiley, New York, 1998. 
+3. Principles of Modern Radar: Basic Principles – Mark A. Richards, James A. Scheer, 
+William A. Holm, Yesdee, 2013 
+4. Radar Handbook - Merrill I. Skolnik, 3rd Ed., McGrawHill Education, 2008. 
+ 
+ 
+  
+
+R16 B.TECH ECE. 
+ 
+EMBEDDED SYSTEM DESIGN 
+(Professional Elective - III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI701PC/EC734PE/ET742PE                       3     0    0    3 
+ 
+Course Objectives: 
+ To provide an overview of Design Principles of Embedded System. 
+ To provide clear understanding about the role of firmware, operating systems in 
+correlation with hardware systems. 
+ 
+Course Outcomes: 
+ Expected to understand the selection procedure of Processors in the embedded 
+domain. 
+ Design Procedure for Embedded Firmware. 
+ Expected to visualize the role of Real time Operating Systems in Embedded Systems. 
+ Expected to evaluate the Correlation between task synchronization and latency issues 
+ 
+UNIT - I 
+Introduction to Embedded Systems: Definition of Embedded System, Embedded Systems 
+Vs General Computing Systems, History of Embedded Systems, Classification, Major 
+Application Areas, Purpose of Embedded Systems, Characteristics and Quality Attributes of 
+Embedded Systems. 
+ 
+UNIT - II 
+Typical Embedded System: Core of the Embedded System: General Purpose and Domain 
+Specific Processors, ASICs, PLDs, Commercial Off -The-Shelf Components (COTS). 
+Memory: ROM, RAM, Memory according to the type of Interface, Memory Shadowing, 
+Memory selection for Embedded Systems, Sensors and Actuators, Communication Interface: 
+Onboard and External Communication Interfaces. 
+ 
+UNIT - III 
+Embedded Firmware: Reset Circuit, Brown -out Protection Circuit, Oscillator Unit, Real 
+Time Clock, Watchdog Timer, Embedded Firmware Design Approaches and Development 
+Languages. 
+ 
+UNIT - IV 
+RTOS Based Embedded System Design: Operating System Basics, Types of Operatin g 
+Systems, Tasks, Process and Threads, Multiprocessing and Multitasking, Task Scheduling. 
+ 
+UNIT - V 
+Task Communication : Shared Memory, Message Passing, Remote Procedure Call and 
+Sockets, Task Synchronization: Task Communication/Synchronization Issues, Task  
+Synchronization Techniques, Device Drivers, How to Choose an RTOS. 
+
+R16 B.TECH ECE. 
+ 
+TEXT BOOKS: 
+1. Introduction to Embedded Systems - Shibu K.V, Mc Graw Hill. 
+ 
+REFERENCE BOOKS: 
+1. Embedded Systems - Raj Kamal, MC GRAW HILL EDUCATION. 
+2. Embedded System Design - Frank Vahid, Tony Givargis, John Wiley. 
+3. Embedded Systems – Lyla, Pearson, 2013 
+4. An Embedded Software Primer - David E. Simon, Pearson Education. 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+OPTIMIZATION TECHNIQUES 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EE734PE/EC741PE                         3     0    0    3 
+ 
+Prerequisite: Mathematics –I & Mathematics –II 
+ 
+Course Objectives: 
+ To introduce various  optimization techniques i.e  classical, linear programming, 
+transportation problem, simplex algorithm, dynamic programming 
+ Constrained and unconstrained optimization techniques for solving and optimizing an 
+electrical and electronic engineering circuits design problems in real world situations.  
+ To explain the concept of Dynamic programming and its applications to project 
+implementation. 
+ 
+Course Outcomes: After completion of this course, the student will be able to 
+ explain the need of optimization of engineering systems 
+ understand optimization of electrical and electronics engineering problems  
+ apply classical optimization techniques, linear programming, simplex algorithm, 
+transportation problem 
+ apply unconstrained optimization and constrained non -linear programming and 
+dynamic programming 
+ Formulate optimization problems.  
+ 
+UNIT – I 
+Introduction and Classical Optimization Techniques: Statement of an Optimization 
+problem – design vector – design constraints – constraint surface – objective function – 
+objective function surfaces – classification of Optimization problems. 
+Classical Optimization Techniques: Single variable Optimization – multi variable 
+Optimization without constraints – necessary and sufficient conditions for 
+minimum/maximum – multivariable Optimization with equality constraints. 
+Solution by method of Lagrange multipliers – Multivariable Optimization with inequality 
+constraints – Kuhn – Tucker conditions. 
+ 
+UNIT – II 
+Linear Programming: Standard form of a linear programming problem – geometry of linear 
+programming problems – definitions and theorems – solution of a system of linear 
+simultaneous equations – pivotal reduction of a general system of equations – motivation to 
+the simplex method – simplex algorithm. 
+Transportation Problem: Finding initial basic feasible solution by north – west corner rule, 
+least cost method and Vogel’s approximation method – testing for optimality of balanced 
+transportation problems. 
+
+R16 B.TECH ECE. 
+ 
+ 
+UNIT – III 
+Unconstrained Nonlinear Programming: One dimensional minimization methods, 
+Classification, Fibonacci method and Quadratic interpolation method 
+Unconstrained Optimization Techniques: Univariant method, Powell’s method and 
+steepest descent method. 
+ 
+UNIT – IV 
+Constrained Nonlinear Programming: Characteristics of a constrained problem - 
+classification - Basic approach of Penalty Function method - Basic approach of Penalty 
+Function method - Basic approaches of Interior and Exterior penalty function methods - 
+Introduction to convex programming problem. 
+ 
+UNIT – V 
+Dynamic Programming:  Dynamic programming  multistage decision processes – types – 
+concept of sub optimization and the principle of optimality – computational procedure in 
+dynamic programming – examples illustrating the calculus method of solution - examples 
+illustrating the tabular method of solution. 
+ 
+TEXT BOOKS: 
+1. Singiresu S. Rao, Engineering Optimization: Theory and Practice by John Wiley and 
+Sons, 4th edition, 2009.  
+2. H. S. Kasene & K. D. Kumar, Introductory Operations Research, Springer (India), 
+Pvt. Ltd., 2004 
+ 
+REFERENCE BOOKS: 
+1. George Bernard Dantzig, Mukund Narain Thapa, “Linear programming”, Springer 
+series in operations research 3rd edition, 2003. 
+2. H.A. Taha, “Operations Research: An Introduction”, 8 th Edition, Pearson/Prentice 
+Hall, 2007. 
+3. Kalyanmoy Deb, “Optimization for Engineering Design – Algorithms and Examples”, 
+PHI Learning Pvt. Ltd, New Delhi, 2005. 
+ 
+
+R16 B.TECH ECE. 
+ 
+OBJECT ORIENTED PROGRAMMING  
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC742PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To introduce the object-oriented programming concepts. 
+ To understand object-oriented programming concepts, and apply them in solving 
+problems. 
+ To introduce the principles of inheritance and polymorphism; and demonstrate how 
+they relate to the design of abstract classes 
+ To introduce the implementation of packages and interfaces 
+ To introduce the concepts of exception handling and multithreading. 
+ To introduce the design of Graphical User Interface using applets and swing controls. 
+ 
+Course Outcomes 
+ Able to solve real world problems using OOP techniques. 
+ Able to understand the use of abstract classes. 
+ Able to solve problems using java collection framework and I/o classes. 
+ Able to develop multithreaded applications with synchronization.  
+ Able to develop applets for web applications. 
+ Able to design GUI based applications  
+ 
+UNIT - I 
+Object-oriented thinking- A way of viewing world – Agents and Communities, messages 
+and methods, Responsibilities, Classes and Instances, Class Hierarchies- Inheritance, Method 
+binding, Overriding and Exceptions, Summary of Object-Oriented concepts. Java buzzwords, 
+An Overview of Java, Data types, Variables and Arrays, operators, expressions, control 
+statements, Introducing classes, Methods and Classes, String handling. 
+Inheritance– Inheritance concept, Inheritance basics, Member access, Constructors, Creating 
+Multilevel hierarchy, super uses, using final with inheritance, Polymorphism -ad hoc 
+polymorphism, pure polymorp hism, method overriding, abstract classes, Object class, forms 
+of inheritance- specialization, specification, construction, extension, limitation, combination, 
+benefits of inheritance, costs of inheritance. 
+ 
+UNIT - II 
+Packages- Defining a Package, CLASSPATH, Access protection, importing packages.  
+Interfaces- defining an interface, implementing interfaces, Nested interfaces, applying 
+interfaces, variables in interfaces and extending interfaces. 
+Stream based  I/O(java.io) – The Stream Classes-Byte streams and  Character streams, 
+reading console Input and Writing Console Output, File class, Reading and writing Files, 
+
+R16 B.TECH ECE. 
+ 
+Random access file operations, The Console class, Serialization, Enumerations, auto boxing, 
+generics. 
+ 
+UNIT - III 
+Exception handling - Fundamentals of exception handling, Exception types, Termination or 
+resumptive models, Uncaught exceptions, using try and catch, multiple catch clauses, nested 
+try statements, throw, throws and finally, built - in exceptions, creating own exception sub 
+classes.  
+Multithreading- Differences between thread -based multitasking and process -based 
+multitasking, Java thread model, creating threads, thread priorities, synchronizing threads, 
+inter thread communication.  
+    
+UNIT - IV 
+The Collections Framework (java.util) - Collections overview, Collection Interfaces, The 
+Collection classes- Array List, Linked List, Hash Set, Tree Set, Priority Queue, Array Deque. 
+Accessing a Collection via an Iterator, Using an Iterator, The For -Each alternative, Map 
+Interfaces and Classes, Comparators, Collection algorithms, Arrays, The Legacy Classes and 
+Interfaces- Dictionary, Hashtable, Properties, Stack, Vector 
+More Utility classes, String Tokenizer, Bit Set, Date, Calendar, Random, Formatter, Scanner 
+ 
+UNIT - V 
+GUI Programming with Swing – Introduction, limitations of AWT, MVC architecture, 
+components, containers. Understanding Layout Managers, Flow Layout, Border Layout, Grid 
+Layout, Card Layout, Grid Bag Layout. 
+Event Handling - The Delegation event model - Events, Event sources, Event Lis teners, 
+Event classes, Handling mouse and keyboard events, Adapter classes, Inner classes, 
+Anonymous Inner classes. 
+A Simple Swing Application,  Applets – Applets and HTML, Security Issues, Applets and 
+Applications, passing parameters to applets. Creating a  Swing Applet, Painting in Swing, A 
+Paint example, Exploring Swing Controls - JLabel and Image Icon, JText Field, The Swing 
+Buttons- JButton, JToggle Button, JCheck Box, JRadio Button, JTabbed Pane, JScroll Pane, 
+JList, JCombo Box, Swing Menus, Dialogs. 
+ 
+TEXT BOOKS: 
+1. Java The complete reference, 9 th edition, Herbert Schildt, McGraw Hill Education 
+(India) Pvt. Ltd. 
+2. Understanding Object -Oriented Programming with Java, updated edition, T. Budd, 
+Pearson Education. 
+ 
+REFERENCE BOOKS: 
+1. An Introduction to programming and OO design using Java, J. Nino and F.A. Hosch,  
+John Wiley & sons. 
+2. Introduction to Java programming, Y. Daniel Liang, Pearson Education. 
+3. Object Oriented Programming through Java, P. Radha Krishna, Universities Press. 
+
+R16 B.TECH ECE. 
+ 
+4. Programming in Java, S. Malhotra, S. Chudhary, 2nd edition, Oxford Univ. Press.  
+5. Java Programming and Object-oriented Application Development, R. A. Johnson, 
+Cengage Learning. 
+ 
+
+R16 B.TECH ECE. 
+ 
+ELECTRONIC MEASUREMENTS AND INSTRUMENTATION 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC743PE                          3     0    0    3 
+ 
+Course Objectives: 
+ It provides an understanding of various measuring systems functioning and metrics 
+for performance analysis. 
+ Provides understanding  of principle of operation, working of different electronic 
+instruments viz. signal generators, signal analyzers, recorders and measuring 
+equipment. 
+ Provides understanding of use of various measuring techniques for measurement of 
+different physical parameters using different classes of transducers. 
+ 
+Course Outcomes: On completion of this course student can be able to 
+ Identify the various electronic instruments based on their specifications for carrying 
+out a particular task of measurement. 
+ Measure various physical parameters by appropriately selecting the transducers. 
+ Use various types of signal generators, signal analyzers for generating and analyzing 
+various real-time signals. 
+ 
+UNIT - I 
+Block Schematics of Measuring Systems:  Performance Characteristics, St atic 
+Characteristics, Accuracy, Precision, Resolution, Types of Errors, Gaussian Error, Root Sum 
+Squares formula, Dynamic Characteristics, Repeatability, Reproducibility, Fidelity, Lag; 
+Measuring Instruments: DC Voltmeters, D’ Arsonval Movement, DC Current  Meters, AC 
+Voltmeters and Current Meters, Ohmmeters, Multi meters, Meter Protection, Extension of 
+Range, True RMS Responding Voltmeters, Specifications of Instruments. 
+ 
+UNIT - II 
+Signal Analyzers : AF, HF Wave Analyzers, Harmonic Distortion, Heterodyne wave 
+Analyzers, Spectrum Analyzers, Power Analyzers, Capacitance -Voltage Meters, Oscillators. 
+Signal Generators: AF, RF Signal Generators, Sweep Frequency Generators, Pulse and 
+Square wave Generators, Function Generators, Arbitrary Waveform Generator, Vide o Signal 
+Generators, and Specifications 
+ 
+UNIT - III 
+Oscilloscopes: CRT, Block Schematic of CRO, Time Base Circuits, Lissajous Figures, CRO 
+Probes, High Frequency CRO Considerations, Delay lines, Applications: Measurement of 
+Time, Period and Frequency Specifications. 
+Special Purpose Oscilloscopes :  Dual Trace, Dual Beam CROs, Sampling Oscilloscopes, 
+Storage Oscilloscopes, Digital Storage CROs. 
+ 
+
+R16 B.TECH ECE. 
+ 
+UNIT - IV 
+Transducers:  Classification, Strain Gauges, Bounded, unbounded; Force and Displacement 
+Transducers, Resi stance Thermometers, Hotwire Anemometers, LVDT, Thermocouples, 
+Synchros, Special Resistance Thermometers, Digital Temperature sensing system, 
+Piezoelectric Transducers, Variable Capacitance Transducers, Magneto Strictive Transducers. 
+ 
+UNIT - V 
+Bridges:  Wheat Stone Bridge, Kelvin Bridge, and Maxwell Bridge. 
+Measurement of Physical Parameters :  Flow Measurement, Displacement Meters, Liquid 
+level Measurement, Measurement  of Humidity and Moisture, Velocity, Force, Pressure – 
+High Pressure, Vacuum level, Temperature -Measurements, Data Acquisition Systems. 
+ 
+TEXT BOOKS: 
+1. Electronic Measurements and Instrumentation – K. Lal Kishore, Pearson Education 
+2010. 
+2. Electronic Instrumentation: H. S. Kalsi – Mc Graw Hill Education, 2nd Edition 2004. 
+3. Electronic Instrumentation  and Measurements – David A. Bell, 3rd Edition Oxford 
+Univ. Press, 2013. 
+ 
+REFERENCES: 
+1. Electronic Instrumentation and Measurements – David A. Bell, Oxford Univ. Press, 
+1997. 
+2. Modern Electronic Instrumentation and Measurement Techniques: A.D. Helbincs, 
+W.D. Cooper: PHI 5th Edition 2003. 
+3. Electronic Measurements and Instrumentation: B.M. Oliver, J.M. Cage MC GRAW 
+HILL EDUCATION Reprint 2009. 
+4. Industrial Instrumentation: T.R. Padmanabham Springer 2009. 
+ 
+
+R16 B.TECH ECE. 
+ 
+ARTIFICIAL INTELLIGENCE 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: IT733PE/EC744PE                         3     0    0    3 
+ 
+Prerequisites: 
+1. A course on “Computer Programming and Data Structures” 
+2. A course on “Advanced Data Structures” 
+3. A course on “Design and Analysis of Algorithms” 
+4. A course on “Mathematical Foundations of Computer Science” 
+5. Some background in linear algebra, data structures and algorithms, and probability 
+will all be helpful 
+ 
+Course Objectives: 
+ To learn the distinction between optimal reasoning Vs. human like reasoning 
+ To understand the concepts of state space representation, exhaustive search, heuristic 
+search together with the time and space complexities. 
+ To learn different knowledge representation techniques. 
+ To understand the applications of AI, namely game playing, theorem proving, and 
+machine learning.  
+ 
+Course Outcomes: 
+ Ability to formulate an efficient problem space for a problem expressed in natural 
+language. 
+ Select a search algorithm for a problem and estimaate its time and space complexities. 
+ Possess the skill for representing knowledge using the appropriate technique for a 
+given problem. 
+ Possess the ability to apply AI techniques to solve problems of game playing, and 
+machine learning. 
+ 
+UNIT - I 
+Problem Solving by Search-I: Introduction to AI, Intelligent Agents  
+Problem Solving by Search –II: Problem-Solving Agents, Searching for Solutions, 
+Uninformed Search Strategies: Breadth-first search, Uniform cost search, Depth -first search, 
+Iterative deepening D epth-first search, Bidirectional search,  Informed (Heuristic) Search 
+Strategies: Greedy best -first search, A* search,  Heuristic Functions, Beyond Classical 
+Search: Hill -climbing search,  Simulated annealing search, Local Search in Continuous 
+Spaces, Searc hing with Non -Deterministic Actions, Searching wih Partial Observations,  
+Online Search Agents and Unknown Environment . 
+ 
+UNIT - II   
+Problem Solving by Search-II and Propositional Logic 
+
+R16 B.TECH ECE. 
+ 
+Adversarial Search: Games, Optimal Decisions in Games, Alpha –Beta Pru ning, Imperfect 
+Real-Time Decisions. 
+Constraint Satisfaction Problems: Defining Constraint Satisfaction Problems, Constraint 
+Propagation, Backtracking Search for CSPs, Local Search for CSPs, The Structure of 
+Problems. 
+Propositional Logic: Knowledge-Based Agents, The Wumpus World, Logic, Propositional 
+Logic, Propositional Theorem Proving:  Inference and proofs, Proof by resolution, Horn 
+clauses and definite clauses, Forward and backward chaining, Effective Propositional Model 
+Checking, Agents Based on Propositional Logic. 
+ 
+UNIT - III   
+Logic and Knowledge Representation  
+First-Order Logic: Representation, Syntax and Semantics of First -Order Logic, Using First-
+Order Logic, Knowledge Engineering in First-Order Logic. 
+Inference in First -Order Logic: Propositional vs. First -Order Inference, Unification and 
+Lifting, Forward Chaining, Backward Chaining, Resolution. 
+Knowledge Representation: Ontological Engineering, Categories and Objects, Events. 
+Mental Events and Mental Objects, Reasoning Systems for Ca tegories, Reasoning with 
+Default Information. 
+ 
+UNIT - IV      
+Planning  
+Classical Planning: Definition of Classical Planning, Algorithms for Planning with State -
+Space Search, Planning Graphs, other Classical Planning Approaches, Analysis of Planning 
+approaches. 
+Planning and Acting in the Real World: Time, Schedules, and Resources, Hierarchical 
+Planning, Planning and Acting in Nondeterministic Domains, Multi agent Planning. 
+ 
+UNIT - V   
+Uncertain knowledge and Learning 
+Uncertainty: Acting under Uncertainty, B asic Probability Notation, Inference Using Full 
+Joint Distributions, Independence, Bayes’ Rule and Its Use,  
+Probabilistic Reasoning: Representing Knowledge in an Uncertain Domain, The Semantics 
+of Bayesian Networks, Efficient Representation of Conditional  Distributions, Approximate 
+Inference in Bayesian Networks, Relational and First-Order Probability, Other Approaches to 
+Uncertain Reasoning; Dempster-Shafer theory. 
+Learning: Forms of Learning, Supervised Learning, Learning Decision Trees.Knowledge in 
+Learning: Logical Formulation of Learning, Knowledge in Learning, Explanation -Based 
+Learning, Learning Using Relevance Information, Inductive Logic Programming. 
+ 
+TEXT BOOKS 
+1. Artificial Intelligence A Modern Approach, Third Edition, Stuart Russell and Peter 
+Norvig, Pearson Education. 
+ 
+
+R16 B.TECH ECE. 
+ 
+REFERENCES: 
+1. Artificial Intelligence, 3rd Edn., E. Rich and K. Knight (TMH)   
+2. Artificial Intelligence, 3rd Edn., Patrick Henny Winston, Pearson Education. 
+3. Artificial Intelligence, Shivani Goel, Pearson Education. 
+4. Artificial Intelligence and Expert systems – Patterson, Pearson Education. 
+ 
+  
+
+R16 B.TECH ECE. 
+ 
+VLSI DESIGN 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC702PC/ET721PE/EI741PE                       4     0    0    4 
+ 
+Course Objectives: The objectives of the course are to: 
+ Give exposure to different steps involved in the fabrication of ICs using MOS 
+transistor, CMOS/BICMOS transistors, and passive components. 
+ Explain electrical properties of MOS and BiCMOS devices to analyze the behavior of 
+inverters designed with various loads. 
+ Give exposure to the design rules to be followed to draw the layout of any logic 
+circuit. 
+ Provide concept to design different types of logic gates using CMOS inverter and 
+analyze their transfer characteristics. 
+ Provide design concepts to design building blocks of data path of any system using 
+gates. 
+ Understand basic programmable logic devices and testing of CMOS circuits. 
+ 
+Course Outcomes: Upon successfully completing the course, the student should be able to: 
+ Acquire qualitative knowledge about the fabrication process of integrated circuit 
+using MOS transistors. 
+ Choose an appropriate inverter depending on specifications required for a circuit 
+ Draw the layout of any logic circuit which helps to understand and estimate p arasitic 
+of any logic circuit 
+ Design different types of logic gates using CMOS inverter and analyze their transfer 
+characteristics 
+ Provide design concepts required to design building blocks of data path using gates. 
+ Design simple memories using MOS transis tors and can understand design of large 
+memories. 
+ Design simple logic circuit using PLA, PAL, FPGA and CPLD. 
+ Understand different types of faults that can occur in a system and learn the concept 
+of testing and adding extra hardware to improve testability of system 
+ 
+UNIT – I 
+Introduction: Introduction to IC Technology – MOS, PMOS, NMOS, CMOS & BiCMOS 
+Basic Electrical Properties: Basic Electrical Properties of MOS and BiCMOS Circuits: I ds-
+Vds relationships, MOS transistor threshold Voltage, g m, g ds, Figure of merit ωo; Pass 
+transistor, NMOS Inverter, Various pull ups, CMOS Inverter analysis and design, Bi -CMOS 
+Inverters. 
+ 
+UNIT - II 
+VLSI Circuit Design Processes: VLSI Design Flow, MOS Layers, Stick Diagrams, Design 
+Rules and Layout, 2 μm CMOS Design rules for wires, Contacts and Transistors Layout 
+Diagrams for NMOS and CMOS Inverters and Gates, Scaling of MOS circuits. 
+
+R16 B.TECH ECE. 
+ 
+ 
+UNIT – III 
+Gate Level Design: Logic Gates and Other complex gates, Switch logic, Alternate gate 
+circuits, Time delays, Driving large capacitive loads, Wiring capacitance, Fan – in, Fan – out, 
+Choice of layers. 
+ 
+UNIT - IV 
+Data Path Subsystems: Subsystem Design, Shifters, Adders, ALUs, Multipliers, Parity 
+generators, Comparators, Zero/One Detectors, Counters. 
+Array Subsystems: SRAM, DRAM, ROM, Serial Access Memories. 
+ 
+UNIT - V 
+Programmable Logic Devices: PLAs, FPGAs, CPLDs, Standard Cells, Programmable 
+Array Logic, Design Approach, Parameters influencing low power design. 
+CMOS Testing: CMOS Testing, Need for testing, Test Principles, Design Strategies for test, 
+Chip level Test Techniques. 
+ 
+TEXT BOOKS: 
+1. Essentials of VLSI circuits and systems – Kamran Eshraghian, Eshraghian Dougles 
+and A. Pucknell, PHI, 2005 Edition 
+2. CMOS VLSI Design – A Circuits and Systems Perspective, Neil H. E Weste, David 
+Harris, Ayan Banerjee, 3rd Ed, Pearson, 2009. 
+ 
+REFERENCE BOOKS: 
+1. CMOS logic circuit Design - John .P. Uyemura, Springer, 2007. 
+2. Modern VLSI Design - Wayne Wolf, Pearson Education, 3rd Edition, 1997. 
+  
+
+R16 B.TECH ECE. 
+ 
+VLSI & E-CAD LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC703PC                          0     0    3    2 
+ 
+List of Experiments 
+Design and implementation of the following CMOS digital/analog circuits using Cadence / 
+Mentor Graphics / Synopsys /Equival ent CAD tools. The design shall include Gate -level 
+design, Transistor -level design, Hierarchical design, Verilog HDL/VHDL design, Logic 
+synthesis, Simulation and verification, Scaling of CMOS Inverter for different technologies, 
+study of secondary effects ( temperature, power supply and process corners), Circuit 
+optimization with respect to area, performance and/or power, Layout, Extraction of parasitics 
+and back annotation, modifications in circuit parameters and layout consumption, 
+DC/transient analysis, Verification of layouts (DRC, LVS) 
+ 
+E-CAD programs: 
+Programming can be done using any complier. Down load the programs on FPGA/CPLD  
+boards and performance testing may be done using pattern generator (32 channels) and logic 
+analyzer apart from verification by simulation with any of the front end tools. 
+ 
+1. HDL code to realize all the logic gates 
+2. Design of  2-to-4 decoder 
+3. Design of  8-to-3 encoder (without and with priority) 
+4. Design of  8-to-1 multiplexer and 1-to-8 demultiplexer 
+5. Design of  4 bit binary to gray code converter 
+6. Design of  4 bit comparator 
+7. Design of Full adder using 3 modeling styles 
+8. Design of flip flops: SR, D, JK, T 
+9. Design of  4-bit binary, BCD counters ( synchronous/ asynchronous reset) or any 
+sequence counter 
+10. Finite State Machine Design 
+ 
+VLSI programs: 
+ Introduction to layout design rules. Layout, physical verification, placement & route for 
+complex design, static timing analy sis, IR drop analysis and crosstalk analysis of the 
+following: 
+1. Basic logic gates 
+2. CMOS inverter 
+3. CMOS NOR/ NAND gates 
+4. CMOS XOR and MUX gates 
+5. Static / Dynamic logic circuit (register cell) 
+6. Latch 
+7. Pass transistor 
+8. Layout of any combinational circuit (complex CMOS logic gate). 
+9. Analog Circuit simulation (AC analysis) – CS & CD amplifier 
+ 
+Note: Any SIX of the above experiments from each part are to be conducted (Total 12) 
+
+R16 B.TECH ECE. 
+ 
+MICROWAVE ENGINEERING LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EC704PC                          0     0    3    2 
+ 
+Note: Minimum of 12 experments to be conducted  
+ 
+1. Reflex Klystron Characteristics 
+2. Gunn Diode Characteristics 
+3. Directional Coupler Characteristics 
+4. VSWR Measurement of Mached load 
+5. VSWR mesurement of with open and short circuit loads  
+6. Measurement of Waveguide Parameters 
+7. Measurement of Impedance of a given Load 
+8. Measurement of Scattering Parameters of a E plane Tee 
+9. Measurement of Scattering Parameters of a H plane Tee 
+10. Measurement of Scattering Parameters of a Magic Tee 
+11. Measurement of Scattering Parameters of a Circulator 
+12. Attenuation Measurement 
+13. Microwave Frequency Measurement 
+14. Antenna Pattern Measurements. 
+  
+
+R16 B.TECH ECE. 
+ 
+NETWORK SECURITY AND CRYPTOGRAPHY 
+(PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC851PE                          3     0    0    3 
+ 
+Course Objectives: 
+ Understand the basic concept of Cryptography and Network Security, their 
+mathematical models 
+ To understand the necessity of network security, threats/vulnerabilities to networks 
+and countermeasures 
+ To understand Authentication functions with Message Authentication Codes and 
+Hash Functions. 
+ To provide familiarity in Intrusion detection and Firewall Design Principles 
+ 
+Course Outcomes: Upon completing this course, the student will be able to  
+ Describe network security fundamental concepts and principles  
+ Encrypt and decrypt messages using block ciphers and network security technology 
+and protocols 
+ Analyze key agreement algorithms to identify their weaknesses 
+ Identify and assess different types of threats, malware, spyware, viruses, 
+vulnerabilities 
+ 
+UNIT - I  
+Security Services, Mechanisms and Attacks, A Model for Internetwork security, Classical 
+Techniques: Conventional Encryption model, Steganography, Classical Encryption 
+Techniques.  
+Modern Techniques: Simplified DES, Block Cipher Principles, Data Encryption standard, 
+Strength of DES, Block Cipher Design Principles. 
+ 
+UNIT - II 
+ Encryption: Triple DES, International Data  Encryption algorithm, Blowfish, RC5, 
+Characteristics of Advanced Symmetric block Ciphers. Placement of Encryption function, 
+Traffic confidentiality, Key distribution, Random Number Generation. 
+ 
+UNIT – III 
+Public Key Cryptography: Principles, RSA Algorithm, Key Management, Diffie -Hellman 
+Key exchange, Elliptic Curve Cryptograpy. 
+Number Theory: Prime and Relatively prime numbers, Modular arithmetic, Fermat’s and 
+Euler’s theorems, Testing for primality, Euclid’s Algorithm, the Chinese remainder theorem, 
+Discrete logarithms. 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+UNIT - IV 
+Message Authentication and Hash Functions: Authentication requirements and functions, 
+Message Authentication, Hash functions, Security of Hash functions and MACs. 
+Hash and Mac Algorithms: MD-5, Message digest Algorithm, Secure Hash Algorithm. 
+Digital signatures and Authentication protocols: Digital signatures, Authentication Protocols, 
+Digital signature standards. 
+Authentication Applications: Kerberos, Electronic Mail Security: Pretty Good Privacy, 
+SIME/MIME. 
+ 
+UNIT – V 
+IP Security: Overview, Architecture, Authentication, Encapsulating Security Payload, Key 
+Management. Web Security: Web Security requirements, Secure sockets layer and Transport 
+layer security, Secure Electronic Transaction. 
+Intruders, Viruses and Worms: Intruders, Viruses and Related threats.  
+Fire Walls: Fire wall Design Principles, Trusted systems. 
+ 
+TEXT BOOKS: 
+1. Cryptography and Network Security: Principles and Practice - William Stallings, 
+Pearson Education. 
+2. Network Security: The complete reference, Robert Bragg, Mark Rhodes, TMH,2004. 
+ 
+ REFERENCE BOOKS: 
+1. Network Security Essentials (Applications and Standards) by William Stallings 
+Pearson Education. 
+2. Fundamentals of Network Security by Eric Maiwald (Dreamtech press) 
+3. Principles of Information Security, Whitman, Thomson. 
+4. Introduction to Cryptography, Buchmann, Springer. 
+ 
+
+R16 B.TECH ECE. 
+ 
+SYSTEM DESIGN USING FPGAs 
+(PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC852PE                          3     0    0    3 
+ 
+Prerequisite: Switching Theory and Logic Design 
+ 
+UNIT - I  
+Integrated Design Process and Methodology, Hardware Descriptive language and digital 
+circuit primitives- Flip flop, latch, Three state Buffer, combi national gates, HDL Synthesis 
+Rules, pads. 
+HDL Simulation Environment, Synthesis Environment, synthesis Technology library, HDL 
+Design process for a Block. 
+ 
+UNIT - II  
+Design of Basic Combinational circuits through VHDL/Verilog HDL 
+Selectors, Encoder, Code Converter, Equality Checker, Comparators, Half adder, Full adder, 
+Carry ripple adder, carry look ahead adder, Count one circuit, leading zero Circuit, Barrel 
+Shifter. 
+ 
+UNIT - III  
+Design of Basic Sequential Circuit Through VHDL/Verilog HDL 
+Signal manipulator, counter, Shift Register, Parallel to serial Converter, Serial to parallel 
+convertor, General framework to design registers - Interrupt Registers, DMA and control 
+Register, configuration registers, Register Block portioning and synthesis. 
+ 
+UNIT - IV 
+Clock and Reset Circuits 
+Clock Buffer and Clock Tree, Clock Tree generation, Reset Circuitry, Clock Skew and Fixes, 
+Synchronization between clock domains, clock Divider, Gated clock. 
+ 
+UNIT - V  
+Design Case Study 
+Design Description, Design partition, Design verification, Design Synthesis, Worst -case 
+Timing analysis, Best -case Timing Analysis, Net list Generation, Post layout Verification, 
+Design Management.  
+ 
+TEXT BOOK: 
+1. Digital Systems Design with VHDL and Synthesis – K. C. Chang, Wiley-India Edition 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+OPTICAL COMMUNICATIONS 
+(PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC853PE                          3     0    0    3 
+ 
+Prerequisite: Analog Communications and Digital Communications 
+ 
+Course Objectives: The objectives of the course are: 
+ To realize the significance of optical fibre communications. 
+ To understand the construction and characteristics of optical fibre cable. 
+ To develop the knowledge of optical signal sources and power launching. 
+ To identify and understand the operation of various optical detectors. 
+ To understand the design of optical systems and WDM. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Understand and analyze the constructional parameters of optical fibres. 
+ Be able to design an optical system. 
+ Estimate the losses due to attenuation, absorption, scattering and bending. 
+ Compare various optical detectors and choose suitable one for different applications. 
+ 
+UNIT - I 
+Overview of Optical Fiber Communication: - Historical development, The general system, 
+Advantages of Optical Fiber Communications, Optical Fiber Wave Guides- Introduction, Ray 
+Theory Transmission, Total Internal Reflection, Accepta nce Angle, Numerical Aperture, 
+Skew Rays, Cylindrical Fibers- Modes, Vnumber, Mode Coupling, Step Index Fibers, Graded 
+Index Fibers. 
+Single Mode Fibers- Cut Off Wavelength, Mode Field Diameter, Effective Refractive Index, 
+Fiber Materials Glass, Halide, Active Glass, Chalgenide Glass, Plastic Optical Fibers. 
+ 
+UNIT - II 
+Signal Distortion in Optical Fibers:  Attenuation, Absorption, Scattering and Bending 
+Losses, Core and Cladding Losses, Information Capacity Determination, Group Delay, Types 
+of Dispersion - Material Dispersion, Wave-Guide Dispersion, Polarization Mode Dispersion, 
+Intermodal Dispersion, Pulse Broadening, Optical Fiber Connectors - Connector Types, 
+Single Mode Fiber Connectors, Connector Return Loss. 
+ 
+UNIT - III 
+Fiber Splicing:  Splicing Techniques, Splicing Single Mode Fibers, Fiber Alignment and 
+Joint Loss- Multimode Fiber Joints, Single Mode Fiber Joints. 
+Optical Sources - LEDs, Structures, Materials, Quantum Efficiency, Power, Modulation, 
+Power Bandwidth Product, Injection Las er Diodes- Modes, Threshold Conditions, External 
+
+R16 B.TECH ECE. 
+ 
+Quantum Efficiency, Laser Diode Rate Equations, Resonant Frequencies, Reliability of LED 
+& ILD. 
+Source to Fiber Power Launching: - Output Patterns, Power Coupling, Power Launching, 
+Equilibrium Numerical Aperture, Laser Diode to Fiber Coupling. 
+ 
+UNIT - IV 
+Optical Detectors:  Physical Principles of PIN and APD, Detector Response Time, 
+Temperature Effect on Avalanche Gain, Comparison of Photo Detectors, Optical Receiver 
+Operation- Fundamental Receiver Operation, Digital Signal Transmission, Error Sources, 
+Receiver Configuration, Digital Receiver Performance, Probability of Error, Quantum Limit, 
+Analog Receivers. 
+ 
+UNIT - V 
+Optical System Design:  Considerations, Component Choice, Multiplexing, Point -to- Point 
+Links, System Considerations, Link Power Budget with Examples, Overall Fiber Dispersion 
+in Multi-Mode and Single Mode Fibers, Rise Time Budget with Examples. 
+Transmission Distance, Line Coding in Optical Links, WDM, Necessity, Principles, Types of 
+WDM, Measurement of Attenuation and Dispersion, Eye Pattern. 
+ 
+TEXT BOOKS: 
+1. Optical Fiber Communications – Gerd Keiser, TMH, 4th Edition, 2008. 
+2. Optical Fiber Communications – John M. Senior, Pearson Education, 3 rd Edition, 
+2009. 
+ 
+REFERENCE BOOKS: 
+1. Fiber Optic Communications – D.K. Mynbaev, S.C. Gupta and Lowell L. Scheiner, 
+Pearson Education, 2005.  
+2. Text Book on Optical Fibre Communication and its Applications – S.C. Gupta, PHI, 
+2005. 
+3. Fiber Optic Communication Systems – Govind P. Agarwal, John Wiley, 3rd  Ediition, 
+2004. 
+4. Introduction to Fiber Optics by Donald J.Sterling Jr. – Cengage learning, 2004. 
+5. Optical Communication Systems – John Gowar, 2nd Edition, PHI, 2001. 
+ 
+
+R16 B.TECH ECE. 
+ 
+MACHINE LEARNING 
+(PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC854PE/EI864PE                         3     0    0    3 
+ 
+Prerequisites: 
+ Data Structures 
+ Knowledge on statistical methods 
+ 
+Course Objectives: 
+ This course explains machine learning techniques such as decision tree learning, 
+Bayesian learning etc. 
+ To understand computational learning theory. 
+ To study the pattern comparison techniques. 
+ 
+Course Outcomes: 
+ Understand the concepts of computational intelligence like machine learning  
+ Ability to get the skill to apply machine learning techniques to address the real time 
+problems in different areas 
+ Understand the Neural Networks and its usage in machine learning application. 
+ 
+UNIT - I   
+Introduction - Well-posed learning problems, designing a learning system, Perspectives and 
+issues in machine learning 
+Concept learning and the general to specific ordering – introduction, a concept learning task, 
+concept learning as search, find -S: finding a maximally specific hypothesis, version spaces 
+and the candidate elimina tion algorithm, remarks on version spaces and candidate 
+elimination, inductive bias. 
+Decision Tree Learning – Introduction, decision tree representation, appropriate problems 
+for decision tree learning, the basic decision tree learning algorithm, hypothesi s space search 
+in decision tree learning, inductive bias in decision tree learning, issues in decision tree 
+learning. 
+ 
+UNIT - II 
+Artificial Neural Networks -1– Introduction, neural network representation, appropriate 
+problems for neural network learning, perceptions, multilayer networks and the back -
+propagation algorithm. 
+Artificial Neural Networks-2- Remarks on the Back -Propagation algorithm, An illustrative 
+example: face recognition, advanced topics in artificial neural networks. 
+Evaluation Hypotheses – Motivation, estimation hypothesis accuracy, basics of sampling 
+theory, a general approach for deriving confidence intervals, difference in error of two 
+hypotheses, comparing learning algorithms. 
+
+R16 B.TECH ECE. 
+ 
+ 
+UNIT - III 
+Bayesian learning – Introduction, Bayes theorem, Bayes theorem and concept learning, 
+Maximum Likelihood and least squared error hypotheses, maximum likelihood hypotheses 
+for predicting probabilities, minimum description length principle, Bayes optimal classifier, 
+Gibs algorithm, Naïve Bayes classifier, a n example: learning to classify text, Bayesian belief 
+networks, the EM algorithm. 
+Computational learning theory – Introduction, probably learning an approximately correct 
+hypothesis, sample complexity for finite hypothesis space, sample complexity for infi nite 
+hypothesis spaces, the mistake bound model of learning. 
+Instance-Based Learning - Introduction, k-nearest neighbour algorithm, locally weighted 
+regression, radial basis functions, case-based reasoning, remarks on lazy and eager learning. 
+ 
+UNIT - IV 
+Genetic Algorithms – Motivation, Genetic algorithms, an illustrative example, hypothesis 
+space search, genetic programming, models of evolution and learning, parallelizing genetic 
+algorithms. 
+Learning Sets of Rules – Introduction, sequential covering algorith ms, learning rule sets: 
+summary, learning First -Order rules, learning sets of First -Order rules: FOIL, Induction as 
+inverted deduction, inverting resolution. 
+Reinforcement Learning – Introduction, the learning task, Q –learning, non -deterministic, 
+rewards and actions, temporal difference learning, generalizing from examples, relationship 
+to dynamic programming. 
+ 
+UNIT - V 
+Analytical Learning-1- Introduction, learning with perfect domain theories: PROLOG-EBG, 
+remarks on explanation -based learning, explanation -based learning of search control 
+knowledge. 
+Analytical Learning -2-Using prior knowledge to alter the search objective, using prior 
+knowledge to augment search operators.  
+Combining Inductive and Analytical Learning  – Motivation, inductive -analytical 
+approaches to learning, using prior knowledge to initialize the hypothesis. 
+ 
+TEXT BOOK: 
+1. Machine Learning – Tom M. Mitchell, - MGH 
+ 
+REFERENCE: 
+1. Machine Learning: An Algorithmic Perspective, Stephen  Marshland, Taylor & 
+Francis 
+ 
+
+R16 B.TECH ECE. 
+ 
+ACTUATORS AND ROBOT SYSTEMS 
+(PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC861PE                          3     0    0    3 
+ 
+UNIT - I 
+Introduction & Basic Definitions 
+Introduction, Control Programs for Robots,  Industry Applications of Robots, Pick and Place, 
+Gantry and Arm type Robots in typical set-ups like Automobile Industry 
+Coordinate Systems: Cartesian, Cylindrical, Polar, and Revolute systems: Robot Positioning: 
+Robot Arms; Axes, their ranges, offset and In-line Wrist: Roll, Pitch and Yaw, their meaning 
+in Robotics 
+ 
+UNIT - II 
+Mechanical Aspects 
+Kinematics, Inverse Kinematics, Motion Planning and Mobile Mechanisms 
+ 
+UNIT - III  
+Sensors and Applications 
+Range and Use of Sensors, Microswitches, Resistance Transducers, Piezo -electric, Infrared 
+and Lasers Applications of Sensors: Reed Switches, Ultrasonic, Barcode Readers and RFID 
+ 
+UNIT - IV  
+Robot Systems 
+Hydraulic and Electrical Systems Including Pumps, valves, solenoids, cylinders, stepper 
+motors, Encoders and AC Motors 
+ 
+UNIT - V 
+Programming of Robots 
+Programming of Robots such as Lego Robots, Programming environment, Example 
+Applications, Safety considerations 
+ 
+TEXT BOOKS: 
+1. Introduction to Robotics – P.J. Mckerrow, ISBN: 0201182408 
+2. Introduction to Robotics – S. Nikv, 2001, Prentice Hall, 
+3. Mechatronics and Robotics: Design & Applications – A. Mutanbara, 1999, CRC 
+Press. 
+ 
+REFERENCE BOOK: 
+1. Robotics – K.S. Fu, R.C. Gonzalez and C.S.G. Lee, 2008, TMH. 
+ 
+
+R16 B.TECH ECE. 
+ 
+ANALOG CMOS IC DESIGN 
+(PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC862PE                          3     0    0    3 
+ 
+Pre-Requisite: Analog Electronics 
+ 
+Course Objectives: Analog circuits play a very crucial role in all electronic systems and due 
+to continued miniaturization; many of the analog blocks are not getting realized in CMOS 
+technology.  
+ To understand most important building blocks of all CMOS analog Ics.  
+ To study the basic principle of operation, the circuit choices and the tradeoffs 
+involved in the   MOS transistor level design common to all analog CMOS ICs. 
+ To understand specific design issues related to single and multistage voltage, current 
+and differential amp lifiers, their output and impedance issues, bandwidth, feedback 
+and stability. 
+ To understand the design of differential amplifiers, current amplifiers and OP AMPs. 
+ 
+Course Outcomes: After studying the course, each student is expected to be able to 
+ Design basic building blocks of CMOS analog ICs. 
+ Carry out the design of single and two stage operational amplifiers and voltage 
+references. 
+ Determine the device dimensions of each MOSFETs involved. 
+ Design various amplifiers like differential, current and operational amplifiers. 
+ 
+UNIT - I 
+MOS Devices and Modeling  
+The MOS Transistor, Passive Components - Capacitor & Resistor, Integrated circuit Layout, 
+CMOS Device Modeling - Simple MOS Large -Signal Model, Other Model Parameters, 
+Small-Signal Model for the MO S Transistor, Computer Simulation Models, Sub -threshold 
+MOS Model. 
+ 
+UNIT - II 
+Analog CMOS Sub-Circuits 
+ MOS Switch, MOS Diode, MOS Active Resistor, Current Sinks and Sources, Current 
+Mirrors-Current mirror with Beta Helper, Degeneration, Cascode current Mi rror and Wilson 
+Current Mirror, Current and Voltage References, Band gap Reference. 
+ 
+UNIT - III 
+CMOS Amplifiers  
+Inverters, Differential Amplifiers, Cascode Amplifiers, Current Amplifiers, Output 
+Amplifiers, High Gain Amplifiers Architectures. 
+
+R16 B.TECH ECE. 
+ 
+ 
+UNIT - IV 
+CMOS Operational Amplifiers 
+Design of CMOS Op Amps, Compensation of Op Amps, Design of Two -Stage Op Amps, 
+Power- Supply Rejection Ratio of Two -Stage Op Amps, Cascode Op Amps, Measurement 
+Techniques of OP Amp. 
+ 
+UNIT - V 
+Comparators  
+Characterization of Comparator, Two -Stage, Open -Loop Comparators, Other Open -Loop 
+Comparators, Improving the Performance of Open -Loop Comparators, Discrete -Time 
+Comparators. 
+ 
+TEXT BOOKS 
+1. CMOS Analog Circuit Design - Philip E. Allen and Douglas R. Holberg, Oxford 
+University Press, International Second Edition/Indian Edition, 2010. 
+2. Analysis and Design of Analog Integrated Circuits- Paul R. Gray, Paul J. Hurst, S. 
+Lewis and R. G. Meyer, Wiley India, Fifth Edition, 2010. 
+ 
+REFERENCES 
+1. Analog Integrated Circuit Design - David A. Joh ns, Ken Martin, Wiley Student Edn, 
+2013. 
+2. Design of Analog CMOS Integrated Circuits- Behzad Razavi, TMH Edition. 
+3. CMOS: Circuit Design, Layout and Simulation- Baker, Li and Boyce, PHI. 
+ 
+
+R16 B.TECH ECE. 
+ 
+GLOBAL POSITIONING SYSTEM 
+(PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC863PE                          3     0    0    3 
+ 
+UNIT - I  
+Introduction: Basic concept, system architecture, GPS and GLONASS Overview, Satellite 
+Navigation, Time and GPS, User position and velocity calculations, GPS, Satellite 
+Constellation, Operation Segment, User receiving Equipment, Space Segment Phased 
+development, GPS aided Geoaugmented navigation (GAGAN) architecture. 
+   
+UNIT - II  
+Signal Characteristics: GPS signal components, purpose, properties and power level, signal 
+acquisition and tracking, Navigation information extraction, pseudorange estimation, 
+frequency estimation, GPS satellite position calculation, Signal structure, anti spoofing (AS), 
+selective availability, Difference between GPS and GALILEO satellite construction.  
+ 
+UNIT - III 
+GPS Receivers & Data Errors: Receiver Architecture, receiver design options, Anten na 
+design, GPS error sources, SA errors, propagation errors, ionospheric  error, tropospheric 
+error, multipath, ionospheric error, estimation using dual frequency GPS receiver, Methods of 
+multipath mitigation, Ephemeris data errors, clock errors.  
+ 
+UNIT - IV  
+Differential GPS: Introduction, LADGPS, WADGPS, Wide Area Augmentation systems, 
+GEO Uplink subsystem, GEO downlink systems, Geo Orbit determination, Geometric 
+analysis, covariance analysis, GPS /INS Integration Architectures 
+ 
+UNIT - V  
+GPS Applications:  GPS in surveying, Mapping and Geographical Information System, 
+Precision approach Aircraft landing system, Military and Space application, intelligent 
+transportation system. 
+GPS orbital parameters, description of receiver independent exchange format (RINE X) , 
+Observation data and navigation message data parameters, GPS position determination, least 
+squares method   
+ 
+TEXT BOOK: 
+1. Mohinder S.Grewal, Lawrence R.Weill, Angus P.Andrews, “ Global positioning 
+systems, Inertial Navigation and Integration”, Wiley 2007. 
+ 
+REFERENCE: 
+1. E.D.Kaplan, Christopher J. Hegarty, “ Understanding GPS Principles and 
+Applications”, Artech House Boston 2005.  
+
+R16 B.TECH ECE. 
+ 
+COMPUTER VISION 
+(PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC864PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To review image processing techniques for computer vision. 
+ To understand shape and region analysis. 
+ To understand Hough Transform and its applications to detect lines, circles, ellipses. 
+ To understand three-dimensional image analysis techniques. 
+ To understand motion analysis. 
+ To study some applications of computer vision algorithms. 
+ 
+Course Outcomes: Upon completion of this course, the students should be able to 
+ Implement fundamental image processing techniques required for computer vision. 
+ Perform shape analysis. 
+ Implement boundary tracking techniques. 
+ Apply chain codes and other region descriptors. 
+ Apply Hough Transform for line, circle, and ellipse detections. 
+ Apply 3D vision techniques. 
+ Implement motion related techniques. 
+ Develop applications using computer vision techniques. 
+ 
+UNIT - I 
+Image Processing Foundations: Review of image processing techniques – classical filtering 
+operations – thresholding techniques – edge detection techniques – corner and interest point 
+detection – mathematical morphology – texture. 
+ 
+UNIT - II  
+Shapes and Regions: Binary shape analysis – connectedness – object labeling and counting 
+– size filtering – distance functions – skeletons and thinnin g – deformable shape analysis – 
+boundary tracking procedures – active contours – shape models and shape recognition – 
+centroidal profiles – handling occlusion –boundary length measures – boundary descriptors – 
+chain codes – Fourier descriptors – region descriptors – moments. 
+ 
+UNIT - III  
+Hough Transform : Line detection – Hough Transform (HT) for line detection – foot-of-
+normal method – line localization – line fitting – RANSAC for straight line detection – HT 
+based circular object detection– accurate center location – speed problem – ellipse detection – 
+Case study: Human Iris location – hole detection – generalized Hough Transform (GHT) – 
+spatial matched filtering – GHT for elli pse detection – object location – GHT for feature 
+collation. 
+
+R16 B.TECH ECE. 
+ 
+ 
+UNIT - IV  
+3D Vision and Motion: Methods for 3D vision – projection schemes – shape from shading – 
+photometric stereo – shape from texture – shape from focus – active range finding – surface 
+representations – point-based representation – volumetric representations – 3D object 
+recognition – 3D reconstruction – introduction to motion – triangulation – bundle adjustment 
+– translational alignment – parametric motion – spline-based motion – optical flow – layered 
+motion. 
+ 
+UNIT - V  
+Applications: Application: Photo album – Face detection – Face recognition – Eigen faces – 
+Active appearance and 3D shape models of faces Application: Surveillance – foreground-
+background separation – particle filters – Chamfer matching, tracking, and occlusion – 
+combining views from multiple cameras – human gait analysis Application: In-vehicle vision 
+system: locating roadway – road markings – identifying road signs – locating pedestrians. 
+ 
+TEXT BOOKS: 
+1. Simon J. D. Prince, ―Computer Vision: Models, Learning, and Inferenceǁ, 
+Cambridge University Press, 2012. 
+2. Mark Nixon and Alberto S. Aquado, ―Feature Extraction & Image Processing for 
+Computer Visionǁ, Third Edition, Academic Press, 2012. 
+3. E. R. Davies, ―Computer & Machine Vision, Fourth Edition, Academic Press, 2012. 
+ 
+REFERENCES: 
+1. D. L. Baggio et al., ―Mastering OpenCV with Practical Computer Vision Projectsǁ, 
+Packt Publishing, 2012. 
+2. Jan Erik Solem, ―Programming Computer Vision with Python: Tools and algorithms 
+for analyzing images, O'Reilly Media, 2012. 
+2. R. Szeliski, ―Computer Vision: Algorithms and Applicationsǁ, Springer 2011. 
+

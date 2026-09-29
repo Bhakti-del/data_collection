@@ -1,0 +1,38 @@
+ 
+Code No: 126ER            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, November/December - 2020 
+SOFTWARE TESTING METHODOLOGIES 
+(Common to CSE, IT) 
+Time: 2 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) State the myths and facts about software testing. 
+   b) Write about taxonomy of bugs.       [7+8] 
+  
+2. What is meant by transaction flow testing? Discuss its significance.    [15] 
+ 
+3. Discuss in detail the domains and interface testing.        [15] 
+ 
+4.a) Explain the application to find the minimum number of paths in a graph? Explain with  
+         example.  
+   b)  Explain Unit Test Planning.        [7+8] 
+ 
+5.a)  What are graph matrices and write a short note on their applications. 
+   b)  With a suitable example explain the State graphs.      [7+8] 
+ 
+6.a) Explain in detail about the model of software testing. 
+   b) Write short note on domains and testability.      [7+8] 
+ 
+7. What is meant by data-flow anomalies? How data flow testing will explore them.   [15] 
+ 
+8. Explain how one – dimensional domains are tested.       [15] 
+  
+ 
+ 
+---ooOoo--- 
+R13 
+JNTUH USED PAPERS NOV 2020
+

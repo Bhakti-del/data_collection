@@ -1,0 +1,39 @@
+Code No: 117BN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+CLOUD COMPUTING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Give an example to explain the concept of distributed system models. 
+   b) Describe the five essential characteristics of Cloud Computing.                      [8+7] 
+ 
+2.a)   Give an example to explain how virtualization of data centers are formed.              
+   b) How do you achieve scalable parallel computing using clusters?   [7+8] 
+ 
+3.a) Explain the process of migration in to a cloud. 
+   b) Give an overview of enterprise cloud computing paradigm.    [7+8] 
+ 
+4.a)  Illustrate in detail about the concept of enriching the “Integration as a service”?     
+   b) List and explain the characteristics of cloud computing.    [7+8] 
+ 
+5.a) What are the suitable conditions of platform as a service? Discuss briefly. 
+   b) With a neat diagram, explain the workflow engine for cloud?             [8+7] 
+ 
+6.a) Give an overview secure distributed data storage in cloud computing. 
+   b)  Illustrate in detail about the Aneka cloud computing platform.              [8+7] 
+  
+7.   With a neat diagram, explain the architecture for federated cloud computing platform. 
+            [15]  
+ 
+8. With the help of a case study, explain how data security is achieved in the cloud. 
+            [15]  
+ 
+---oo0oo--- 
+ 
+R13 
+JNTUH Used Papers
+

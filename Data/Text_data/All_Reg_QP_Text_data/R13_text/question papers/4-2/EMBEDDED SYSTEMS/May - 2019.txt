@@ -1,0 +1,74 @@
+ 
+ 
+ 
+Code No: 118BJ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, May - 2019 
+EMBEDDED SYSTEMS  
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      Discuss the use of interrupts in 8051 microcontroller.       [2] 
+   b)      What are the requirements of embedded system?        [3] 
+   c)      Explain the need of Decimal Arithmetic instruction in 8051.     [2] 
+   d)      Discuss about Assembly Language Programming Tools.       [3] 
+   e)      Explain the necessity of RTOS in embedded system?        [2] 
+   f)       Explain about the function of Message Queues in RTOS.       [3] 
+   g)      Define hard-real time and soft-real time embedded systems.      [2] 
+   h)      Write a short note on Linker in embedded software        [3] 
+   i)       List the features of ARM7.                                  [2] 
+   j)       Explain different data processing instructions in detail.       [3] 
+ 
+PART - B  
+(50 Marks) 
+2. Explain in detail about embedded system design process with examples.  [10] 
+                                                                         OR 
+3.a) What are the different types of memories used in 8051 Micro controller? 
+   b) Explain the interrupt handling mechanism of 8051.     [5+5] 
+ 
+4. Explain the various Arithmetic instructions of 8051, with examples.     [10] 
+OR 
+5.a) Describe 
+       i) Interrupt priority  
+       ii) Interrupt deadline 
+   b) Explain about data transfer and logical instructions with examples.   [4+6] 
+ 
+6.a) Explain in detail A/D convertor interfacing with a microcontroller. 
+b) Explain the concept of semaphore. How these help us in solving the shared -data 
+problem in embedded system?       [6+4] 
+OR 
+7.a) Explain about the standard 8-bit UART mode of serial communication. 
+   b) What is a Task and briefly explain about the task scheduling mechanism?  [4+6] 
+  
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 12-05-2019PM Set 1
+
+ 
+ 
+ 
+8. Describe the main features of Micro Controller open source RTOS.      [10] 
+                                                                             OR 
+9.  Write about Embedded software Development tools briefly.    [10] 
+ 
+10. Explain the necessity of Architecture Revisions in ARM processor.   [10] 
+OR 
+11. Describe the basic concepts CAN bus protocol.     [10] 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 12-05-2019PM Set 1
+

@@ -1,0 +1,80 @@
+ 
+ 
+ 
+Code No: 126AP            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, February - 2023 
+ DISTRIBUTED SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      Define authentication.         [2] 
+   b)      Define and explain about the distributed systems.     [3] 
+   c)      What reconfiguration would you expect to occur in the NTP synchronization subnet?
+            [2] 
+   d)      What is an election algorithm?       [3] 
+   e)      Write the characteristics of inter process communications.    [2] 
+   f)      Differentiate between unicast and multicast communication.   [3] 
+   g)      List the characteristics of distributed file systems.      [2] 
+   h)      What are the requirements of the distributed file systems?    [3] 
+   i)       Write the comparisons of methods for concurrency control.    [2] 
+   j)       What is deadlock? Give the characteristics of a deadlock cond ition to hold in a 
+distributed system.         [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.  Explain in brief about system models of distributed systems.     [10]    
+OR 
+3.a)  Explain about architectural elements.                 
+   b)  Write short notes on characteristics of distributed systems.     [5+5] 
+  
+4.a)  Devise a protocol for basic multicast over IP multicast.               
+   b)  Is it possible to implement either a reliable or an unreliable failure detector using an                    
+ unreliable communication channel?        [5+5] 
+OR 
+5.a)  Discuss about global states.                 
+   b)  Discuss about distributed mutual exclusion.       [5+5] 
+  
+6.  Discuss about the API for the Internet protocols.                  [10] 
+OR 
+7.  What is a Remote Procedure Call(RPC)? Explain.                  [10] 
+  
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+ 
+ 
+8.  Why should UFIDs be unique across all possible file system? How is uniqueness for                  
+ UFIDs ensured? Explain.                     [10]   
+OR 
+9.  Explain about design and implementation issues of distributed shared memory.    [10] 
+    
+10.a)  Discuss about timestamp ordering.                
+     b)  Discuss the concurrency control in distributed transactions.    [5+5] 
+OR 
+11.  Explain about flat and nested distributed transactions.                 [10] 
+      
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

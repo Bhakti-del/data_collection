@@ -1,0 +1,46 @@
+Code No: 153AG  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, March - 2021 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+(Computer Science and Engineering) 
+Time: 3 hours                                 Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Discuss the functional units of a digital computer. 
+   b) Demonstrate construction of a common bus system with multiplexers.  [7+8] 
+ 
+2.a) Design a 4-bit combinational circuit decrementer using  four full-adder circuits. 
+  b) What is the difference between a direct and an indirect address instruction? How many 
+ references to memory are needed for each type of instruction to bring an operand into a 
+ processor register?         [7+8] 
+ 
+3.a) Discuss the need of memory stack and stack limits. 
+   b) Explain the general register organization of the processor.    [7+8] 
+ 
+4. Explain addition and subtraction of floating point numbers with an example and 
+ necessary flowchart.         [15] 
+ 
+5.a) A two way set associative cache has lines of 16 bytes and a total size of 8 K bytes. The 
+ 64 Mbytes main memory is byte addressable. Show the format of main memory address. 
+   b) How does SDRAM differ from ordinary DRAM?     [8+7] 
+ 
+6.a) Explain the major diff erences between the central computer and peripheral. How to 
+ resolve these differences?  
+   b) Discuss the Strobe control method of Asynchronous data transfer.   [8+7] 
+ 
+7.a) What is parallel processing? Explain Flynn’s classification of computer. 
+   b) Illustrate vector operations and vector processing.     [8+7] 
+ 
+8.a) Discuss about RISC Pipeline. 
+   b) What is cache coherence problem? Discuss solutions for it.      [7+8] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+     
+R18 
+18-03-2021 AM
+

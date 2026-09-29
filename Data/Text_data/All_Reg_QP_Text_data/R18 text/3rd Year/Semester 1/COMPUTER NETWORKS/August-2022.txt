@@ -1,0 +1,40 @@
+Code No: 155AN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August - 2022 
+COMPUTER NETWORKS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  What is the importance of layered architecture in network models? Discuss in detail.       
+   b) Differentiate between TCP/IP network model and ISO-OSI reference model.      [7+8]        
+     
+2.a)  Discuss about Network hardware components in detail.       
+   b)  What are the advantages of fiber optic cables? Explain with a neat sketch.   [7+8] 
+  
+3.a) What are the design issues of Data Link Layer? Explain in detail.                   
+   b)  Compare and contrast CSMA/CD and CSMA/CA for channel allocation.           [7+8] 
+ 
+4. What are various types of Error Detection methods? Explain about Cyclic Redundancy  
+Check Error Detection Method with suitable example.      [15]     
+ 
+5.a) Define Routing. Explain Distance Vector Routing Algorithm with an example.             
+   b) What are the advantages and limitations of flooding?    [9+6]
+    
+6.a) Describe link state vector routing algorithm example.      
+   b)  How to achieve quality of service using leaky bucket algorithm.    [7+8] 
+ 
+7.a) Explain connection management in transport layer.       
+    b)  Compare and contrast TCP and UDP Protocols.     [7+8] 
+ 
+8.a) What are the major components in E -mail system? A nd explain the role of SMTP for 
+sending and receiving messages.        
+    b) Discuss about HTTP request and response mechanisms.    [8+7] 
+ 
+ 
+---ooOoo--- 
+ R18 
+jntuh used paper aug-2022
+

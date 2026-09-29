@@ -1,0 +1,80 @@
+Code No: 133BD        
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, August/September - 2022 
+MATHEMATICS - IV 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM, CEE, 
+MSNT) 
+Time: 3 Hours         Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Show that f(z) = 
+z  is not differentiable at z = 0.     
+   b)  Find ‘k’ such that 
+32( , ) 3u x y x kxy is Harmonic and find its Conjugate.  [7+8] 
+ 
+2.a)  Check the continuity of 
+0
+()
+00
+z if zzfz
+if z
+ 
+      
+   b)  Find the analytic function 
+()fz  whose real part 
+sin coshu x y    [8+7] 
+ 
+3.a)  Evaluate ∮ (𝑧 − 𝑎)𝑛𝑑𝑧 = 0 𝑖𝑓(𝑛 ≠ −1)∁  Where ∁ is the circle 
+.z a r  
+   b)  Evaluate ∮
+𝑒−3𝑧
+𝑧+2𝑐  where c is the circle   |z| = 4using Cauchy’s integral formula. [8+7] 
+ 
+4.a)  Find the Laurent’s series of f(z) =
+z
+(z2−1)(z2−4)  for 1 <|z|<2. 
+   b) Evaluate ∮
+1+𝑧
+𝑧(2−𝑧)𝐶 dz Where c :|z| = 1 using Cauchy’s residue theorem.  [7+8] 
+ 
+5.a)  Evaluate  
+1
+3 2cos0
+d
+
+  using Residue theorem. 
+   b)  Evaluate 
+2
+22( 1)( 4)
+x dx
+xx
+
+   using Residue theorem.    [8+7] 
+6.a)  Evaluate  ∫
+𝑥sin2𝑥
+(16+𝑥2) 𝑑𝑥 
+∞
+0
+using Residue theorem.
+    
+ 
+b)  Find the bilinear transformation which maps the points 
+1, , 1zi respectively onto 
+,0,w i i
+          [8+7] 
+ 
+7.a)  Find the Fourier series of 𝑓(𝑥) = {−1, −𝜋 < 𝑥 < 0
+1,   0 < 𝑥 < 𝜋,f(x + 2) = f(x)  x. 
+   b)    Find the Finite Fourier sine transform of   f(x) =
+𝑥
+𝜋  in (0,π).    [8+7] 
+ 
+8. A Rod of length 10 cm has its ends A and B kept at 50 0C and 1000C until steady state 
+conditions prevail. The temperature at A is then suddenly raised to 90 0C and that at B is 
+lowered to 60 0C an d the end temperatures are there after maintained.  Find the 
+temperature at a distance x from one end at a time.             [15] 
+---oo0oo--- 
+R16 JNTUH Used paper Aug-2022
+

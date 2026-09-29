@@ -1,0 +1,36 @@
+Code No: 157DW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+SOFT COMPUTING           
+(Common to CSE, IT) 
+Time: 3 Hours                            Max. Marks: 75 
+Answer Any Five Questions   
+All Questions carry equal marks 
+- - - 
+ 
+1.  Differentiate between soft computing and hard computing.     [15] 
+  
+2.  Explain the significance of hybrid models and discuss types of hybrid models. [15] 
+     
+3.a)  Describe the different ways of representation of fuzzy sets. 
+   b)  Illustrate fuzzy max-min composition, fuzzy max-product composition.  [8+7] 
+     
+4. Compare conventional programs with rule -based systems. Describe the major 
+components of a rule-based system.        [15] 
+  
+5.   How is multi -person decision making different from individual decision making? 
+Describe the model which represents this type of decision making.   [15] 
+  
+6.a)  Elucidate the procedure of multi-objective PSO. 
+   b) What is the basic idea behind rough fuzzy C-means algorithm?   [8+7] 
+ 
+7. Describe the various methods of selecting chromosomes for parents to crossover.  [15] 
+ 
+ 
+8.  Discuss the basic properties of rough approximations.     [15] 
+  
+ 
+---ooOoo--- 
+ R18 
+JNTUH Used Papers Feb 2022
+

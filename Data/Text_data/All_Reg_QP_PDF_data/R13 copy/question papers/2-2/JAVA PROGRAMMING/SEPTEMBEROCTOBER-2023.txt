@@ -1,0 +1,73 @@
+Code No: 114CX 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, September/October - 2023 
+JAVA PROGRAMMING 
+(Common to CSE, IT) 
+Time: 3 Hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What is Byte code?         [2] 
+   b) What is the purpose of ‘this’ keyword in java?     [3] 
+   c) What is an Inner class?        [2] 
+   d) Define Abstract class and Abstract method.      [3] 
+   e)      What are the two ways of implementing thread in Java?    [2] 
+   f) Compare and contrast throw and throws.      [3] 
+   g)     What are the advantages of Collections Framework?     [2] 
+   h) What is JDBC? List the JDBC components?       [3] 
+   i)       Define Adapter classes.        [2] 
+   j)       What is an Event Listener in java?       [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Explain any five features of object oriented programming.  
+   b) Write a Program to illustrate static variables and static methods.   [5+5] 
+OR 
+3.a) What is garbage collection in Java? How it is achieved?   
+   b) Write a Java program to implement constructor overloading.         [5+5] 
+ 
+4.a) What is Method overriding? Write a program to demonstrate method overriding. 
+   b) What is a Package? Write down the steps for creating user defined package. [7+3] 
+OR 
+5.  Explain how interface is used to achieve multiple inheritance in Java?    [10] 
+     
+6. What is an exception? Write a program to accept a password from user and throw 
+“Authentication Denied” exception if the password is incorrect.     [10] 
+OR 
+7.a) Explain with a neat diagram the life cycle of a thread.     
+   b) Differentiate between an error and an exception. Give examples for the same. [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ R13 
+JNTUH USED PAPERS 2023
+
+8. Explain JDBC type 1 to type 4 drivers.        [10] 
+OR 
+9.a) What is a stream? Explain Byte Stream and Character Stream.   
+   b)  What is the use of ArrayList class? Describe any two methods of Array List class. [5+5] 
+  
+10.a) Write a java Program to handle various keyboard events.     
+     b)  Explain the lifecycle of an applet.       [5+5] 
+OR 
+11.a) Compare and contrast Swing and Abstract Window Toolkit (AWT) in Java. 
+     b) Briefly explain Delegation Event Model.       [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+JNTUH USED PAPERS 2023
+

@@ -1,0 +1,272 @@
+ 
+Code No: 151AA 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, March/April - 2023 
+ MATHEMATICS - I  
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, MMT, ECM, AE, MIE, PTM, 
+CSBS, CSIT, ITE, CE(SE), CSE(CS), CSE(AI&ML), CSE(DS), CSE(IOT), CSE(N), 
+TTE, AI&DS, AI&ML, CSD) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Find the rank of the matrix by reducing to Echelon form A =
+
+
+
+
+
+
+
+
+
+
+
+
+
+12633
+3432
+1241  [2] 
+    b)     Check whether the matrix 
+  is Skew-Hermitian or not.  [3] 
+   c)      If A=
+1 2 3
+0 3 2
+0 0 2
+
+
+
+ , then find the eigenvalues of 3A3 +5A2 -6A +2I.   [2] 
+   d)  If A=
+1 0 3
+2 1 1
+1 1 1
+
+ 
+ , then find A3 using Cayley Hamilton theorem.   [3]  
+   e) Test for convergence of the series 
+1
+( 1) .(2 1)
+n
+n n
+
+
+
+        [2] 
+    f) Test for convergence of the series
+1
+1log 1n n
+
+
+ .       [3] 
+    g) Evaluate 
+
+
+
+0
+2 2
+dxex x  using Beta-Gamma function.     [2] 
+    h)    Find the value of 
+''c using Cauchy's mean value theorem for the function f(x) = x 2 and   
+g(x) = x3 [1, 2] .         [3] 
+    i)      If 
+33 30x y axy    then find the value of 
+dy
+dx .     [2] 
+    j)      Using Euler’s theorem find the value of
+uuxy xy
+ , if 
+33
+33 .xyu xy    [3] 
+  
+  
+ 
+ R18 
+JNTUH Used papers 2023
+
+PART - B  
+(50 Marks)  
+2.a)   Find rank of matrix 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0822
+0411
+1210
+1201
+A  by reducing it to normal form. 
+b) Solve the system of equations x – y + 2z = 4, 3x + y + 4z = 6, x + y + z = 1 by using 
+Gauss elimination method.        [5+5] 
+OR 
+3.a) Find the inverse of the matrix by using Gauss-Jordan method 
+ . 
+ b) Solve the system of equations x+y+54z=110; 27x +6y –z =85; 6x+15y +2z =72 using 
+Gauss Seidel method.         [5+5] 
+  
+4.a) Find the Eigen values and Eigen vectors of 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6410
+527
+7411
+A  . 
+   b) Verify Cayley Hamilton theorem for the Matrix 
+1 3 2
+1 9 1
+3 7 0
+A
+
+
+  and hence find
+1A . 
+            [5+5] 
+OR 
+5.   Reduce the quadratic form 
+323121
+2
+3
+2
+2
+2
+1 222333 xxxxxxxxx   to canonical form  
+using orthogonal transformation. Also find signature and rank of the quadratic form .
+           [10] 
+  
+6.a)  Examine the convergence of 
+2
+3....9.6.3
+)23....(7.4.1
+ 
+
+
+ 
+n
+n . 
+   b)  Examine the convergence of 
+)0(....,432
+432
+ xxxxx .   [5+5] 
+OR 
+7.a)  Test for convergence of 
+....13.10.7
+9.6.3
+10.7
+6.3
+7
+31 32  xxx  
+   b) Test for convergence of  
+.1
+2n
+n
+n
+ 
+
+        [5+5] 
+  
+8.a) If f(x) =  
+x  and g(x) =  
+x
+1  prove that ‘c’ of the Cauchy’s generalized mean value 
+theorem is the geometric mean of ‘a’ and ‘b’ for a > 0, b > 0. 
+   b)  Find Maclaurin’s series expansion of the f(x, y) =
+x2sin .    [5+5] 
+OR 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+9.a) Find the area bounded by pair of curve 
+22 and 2(2 ).y x y x       
+   b)  Evaluate
+
+
+
+ dxe xa 22 .         [5+5] 
+  
+10.a) Find
+y
+uyx
+ux 
+
+ using Euler’s theorem for the function 
+
+
+
+
+
+
+
+ 
+yx
+yxu 1cos .  
+     b)  If u =
+x
+yz , v =
+y
+xz , w =
+z
+xy  find
+),,(
+),,(
+zyx
+wvu
+
+ .      [5+5] 
+OR 
+11.a) Determine whether the functions U =
+zy
+x
+ , V =
+xz
+y
+ , W=
+yx
+z
+  are dependent. If 
+dependent find the relationship between them. 
+b)  Find the temperature at any point (x, y, z) in space is
+2400xyzf  . Find the highest 
+temperature on the surface of the unit sphere
+1222  zyx .   [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+JNTUH Used papers 2023
+
