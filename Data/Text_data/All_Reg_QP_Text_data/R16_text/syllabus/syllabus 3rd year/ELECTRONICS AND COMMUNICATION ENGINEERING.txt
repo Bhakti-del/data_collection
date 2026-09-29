@@ -1,0 +1,1350 @@
+R16 B.TECH ECE. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. ELECTRONICS AND COMMUNICATION ENGINEERING 
+III YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+III YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 EC501PC Electromagnetic Theory and Transmission 
+Lines 4 1 0 4 
+2 EC502PC Linear and Digital IC Applications 4 0 0 4 
+3 EC503PC Digital Communications 4 1 0 4 
+4 SM504MS Fundamentals of Management 3 0 0 3 
+5  Open Elective – I 3 0 0 3 
+6 EC505PC Linear IC Applications Lab 0 0 3 2 
+7 EC506PC Digital IC Applications Lab 0 0 3 2 
+8 EC507PC Digital Communications  Lab 0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits 21 2 9 24 
+ 
+III YEAR II SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1  Open Elective-II 3 0 0 3 
+2  Professional Elective-I 3 0 0 3 
+3 EC601PC Antennas and Wave Propagation 4 0 0 4 
+4 EC602PC Microprocessors and Microcontrollers 4 0 0 4 
+5 EC603PC Digital Signal Processing 4 0 0 4 
+6 EC604PC Digital Signal Processing Lab 0 0 3 2 
+7 EC605PC Microprocessors and Microcontrollers Lab 0 0 3 2 
+8 EN606HS Advanced English Communication Skills Lab 0 0 3 2 
+  Total Credits 18 0 9 24 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+  
+
+R16 B.TECH ECE. 
+ 
+2 
+ 
+Professional Elective – I 
+ 
+EC611PE Computer organization and operating system 
+EC612PE Digital Image Processing 
+EC613PE Spread Spectrum Communications 
+EC614PE  Digital system Design 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH ECE. 
+ 
+3 
+ 
+ELECTROMAGNETIC THEORY AND TRANSMISSION LINES 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC501PC                          4     1    0    4 
+ 
+Course Objectives: 
+This  is  a  structured  foundation  course,  dealing  with  concepts,  formulations  and  
+applications  of  Electromagnetic  Theory  and  Transmission  Lines,   and    is   the   basic  
+primer   for  all    electronic  communication  engineering  subjects .  The main objectives of 
+the course are 
+ To   learn  the  Basic  Laws,  Concepts  and  proofs  related  to  Electrostatic  Fields  
+and   Magnetostatic  Fields,  and  apply them  to  solve  physics  and  engineering  
+problems. 
+ To  distinguish  between  stat ic  and  time -varying  fields,  and  understand  the  
+significance  and  utility  of  Maxwell’s  Equations  and  Boundary  Conditions,  and  
+gain  ability  to  provide  solutions  to  communication engineering  problems. 
+ To  analyze  the  characteristics  of  Uniform   Plane  Waves (UPW),  determine  their  
+propagation  parameters  and  estimate  the  same  for  dielectric  and  dissipative  
+media. 
+ To  conceptually  understand  the  UPW  Polarization  features  and  Poynting  
+Theorem,  and  apply  them  for  practical  problems. 
+ To  determine  the  basic  Transmission  Line  Equations  and  telephone line 
+parameters  and  estimate  the  distortions  present. 
+ To  understand  the  concepts  of  RF  Lines  and  their  characteristics,  Smith Chart  
+and  its  ap plications,  acquire  knowledge  to  configure  circuit  elements,  QWTs  
+and  HWTs,  and  to  apply  the  same  for  practical  problems. 
+ 
+Course Outcomes : Having  gone  through  this  foundation  course,  the  s tudents  would  be  
+able  to 
+ Distinguish  between  the  static and  time -varying  fields,   establish  the  
+corresponding  sets  of   Maxwell’s  Equations  and  Boundary  Conditions,   and  use  
+them  for  solving  engineering  problems. 
+ Analyze  the  Wave  Equations  for  good  conductors  and  g ood  dielectrics,  and  
+evaluate  the  UPW  Characteristics  for  several  practical media  of  interest. 
+ Establish  the  proof  and  estimate  the  polarization  features,  reflection  and  
+transmission coefficients  for  UPW  propagation,  distinguish  b etween  Brewster  
+and  Critical  Angles,  and  acquire  knowledge  of  their  applications. 
+ Determine  the  Transmission  Line  parameters  for  different  lines,  characterize  the  
+distortions  and  estimate  the  characteristics  for  different lines. 
+ Analyze  the  RF Line  features  and  configure  them  as  SC,  OC  Lines,  QWTs  and  
+HWTs,  and  design the  same  for  effective  impedance  transformation. 
+ Study  the  Smith  Chart  profile  and  stub  matching  features,   and  gain  ability  to  
+practically  use  the  same  for  solving  practical  problems. 
+
+R16 B.TECH ECE. 
+ 
+4 
+ 
+UNIT – I 
+Electrostatics: Coulomb’s Law, Electric Field Intensity – Fields due to Different Charge 
+Distributions, Electric Flux Density, Gauss Law and Applications, Electric Potential, 
+Relations Bet ween E and V, Maxwell’s Two Equations for Electrostatic Fields, Energy 
+Density, Illustrative Problems.  Convection and Conduction Currents, Dielectric Constant, 
+Isotropic and Homogeneous Dielectrics, Continuity Equation, Relaxation Time, Poisson’s 
+and Lapl ace’s Equations; Capacitance – Parallel Plate, Coaxial, Spherical Capacitors,  
+Illustrative  Problems. 
+ 
+UNIT – II 
+Magnetostatics: Biot-Savart’s Law, Ampere’s Circuital Law and Applications, Magnetic 
+Flux Density, Maxwell’s Two Equations for Magnetostatic F ields, Magnetic Scalar and 
+Vector Potentials, Forces due to Magnetic Fields, Ampere’s Force Law,  Illustrative  
+Problems. 
+Maxwell’s Equations (Time Varying Fields): Faraday’s Law and Transformer EMF, 
+Inconsistency of Ampere’s Law and Displacement Current D ensity, Maxwell’s Equations in 
+Different Final Forms and Word Statements, Conditions at a Boundary Surface : Dielectric -
+Dielectric and Dielectric-Conductor Interfaces, Illustrative Problems . 
+ 
+UNIT – III 
+EM Wave Characteristics - I: Wave Equations for Cond ucting and Perfect Dielectric 
+Media, Uniform Plane Waves – Definition, All Relations Between E & H, Sinusoidal 
+Variations, Wave Propagation in Lossless and Conducting Media, Conductors & Dielectrics 
+– Characterization, Wave Propagation in Good Conductors a nd Good Dielectrics, 
+Polarization,  Illustrative Problems. 
+EM Wave Characteristics – II: Reflection and Refraction of Plane Waves – Normal and 
+Oblique Incidences for both Perfect Conductor and Perfect Dielectrics, Brewster Angle, 
+Critical Angle and Total I nternal Reflection, Surface Impedance, Poynting Vector and 
+Poynting Theorem – Applications, Illustrative Problems. 
+ 
+UNIT – IV 
+Transmission Lines - I: Types, Parameters, Transmission Line Equations, Primary &  
+Secondary Constants, Expressions for Characteristic Impedance, Propagation Constant, Phase 
+and Group Velocities, Infinite Line Concepts, Losslessness/Low Loss Characterization, 
+Distortion – Condition for Distortionlessness and Minimum Attenuation, Loading  - Types of 
+Loading,  Illustrative Problems. 
+ 
+UNIT – V 
+Transmission Lines – II: Input Impedance Relations, SC and OC Lines, Reflection 
+Coefficient, VSWR. UHF Lines as Circuit Elements; λ/4, λ/2, λ/8 Lines – Impedance 
+Transformations, Significance of  Z min  and  Z max , Smith Chart – Configuration and 
+Applications, Single Matching,  Illustrative  Problems. 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+5 
+ 
+TEXT BOOKS: 
+1. Principles of Electromagnetics – Matthew N.O. sadiku and S.V. Kulkarni, 6 th Ed., 
+Oxford University Press, Aisan Edition, 2015. 
+2. Electromagnetic Waves and Radiating Systems – E.C. Jordan and K.G. Balmain, 2 nd 
+Ed. 2000, PHI. 
+3. Transmission Lines and Networks – Umesh Sinha, Satya Prakashan, 2001, (Tech. 
+India Publications), New Delhi. 
+ 
+REFERENCE BOOKS: 
+1. Engineering Electromagnetics – Nathan Ida, 2 nd Ed., 2005, Springer (India) Pvt. Ltd., 
+New Delhi. 
+2. Networks, Lines and Fields – John D. Ryder, 2nd Ed., 1999, PHI. 
+3. Engineering Electromagnetics – William H. Hayt Jr. and John A. Buck, 7 th Ed., 2006, 
+MC GRAW HILL EDUCATION. 
+  
+
+R16 B.TECH ECE. 
+ 
+6 
+ 
+LINEAR AND DIGITAL IC APPLICATIONS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC502PC                          4     0    0    4 
+ 
+Course Objectives: 
+1. The main objectives of the course are: 
+2. To introduce the basic building blocks of linear integrated circuits. 
+3. To teach the linear and non - linear applications of operational amplifiers. 
+4. To introduce the theory and applications of analog multipliers and PLL. 
+5. To teach the theory of ADC and DAC. 
+6. To introduce the concepts of waveform ge neration and introduce some special 
+function ICs. 
+7. To understand and implement the working of basic digital circuits 
+ 
+Course Outcomes: On completion of this course, the students will have: 
+1. A thorough understanding of operational amplifiers with linear integrated circuits. 
+2. Understanding of the different families of digital integrated circuits and their 
+characteristics. 
+3. Also students will be able to design circuits using operational amplifiers for various 
+applications. 
+ 
+UNIT - I 
+Operational Amplifier: Ideal and Practical Op -Amp, Op-Amp Characteristics, DC and AC 
+Characteristics, Features of 741 Op -Amp, Modes of Operation - Inverting, Non -Inverting, 
+Differential, Instrumentation Amplifier, AC Amplifier, Differentiators and Integrators, 
+Comparators, Schmitt Trigger, Introduction to V oltage Regulators, Features of 723 Regulator, 
+Three Terminal V oltage Regulators. 
+ 
+UNIT - II 
+Op-Amp, IC-555 & IC 565 Applications:  Introduction to Active Filters, Characteristics of 
+Band pass, Band reject and All Pass Filters, Analysis of 1st order LPF & HPF Butterworth 
+Filters, Waveform Generators – Triangular, Saw  tooth, Square Wave, IC555 Timer - 
+Functional Diagram, Monostable, and Astable Operations, Applications, IC565 PLL - Block 
+Schematic, Description of Individual Blocks, Applications. 
+ 
+UNIT - III 
+Data Converters: Introduction, Basic DAC techniques, Different types of DACs -Weighted 
+resistor DAC, R -2R ladder DAC, Inverted R -2R DAC, Different Types of ADCs - Parallel 
+Comparator Type ADC, Counter Type ADC, Successive Approxi mation ADC and Dual 
+Slope ADC,  DAC and ADC Specifications. 
+ 
+
+R16 B.TECH ECE. 
+ 
+7 
+ 
+UNIT - IV 
+Digital Integrated Circuits : Classification of Integrated Circuits, Comparison of Various 
+Logic Families Combinational Logic ICs – Specifications and Applications of TTL -74XX & 
+Code Converters, Decoders, Demultiplexers, LED & LCD Decoders with Drivers, Encoders, 
+Priority Encoders, Multiplexers, Demultiplexers, Priority Generators/Checkers, Parallel 
+Binary Adder/Subtractor, Magnitude Comparators. 
+ 
+UNIT - V 
+Sequential Logic IC’s and Mem ories: Familiarity with commonly available 74XX & 
+CMOS 40XX Series ICs – All Types of Flip-flops, Synchronous Counters, Decade Counters, 
+Shift Registers. 
+Memories - ROM Architecture, Types of ROMS & Applications, RAM Architecture, Static 
+& Dynamic RAMs. 
+ 
+TEXT BOOKS: 
+1. Op-Amps & Linear ICs – Ramakanth A. Gayakwad, PHI, 2003. 
+2. Digital Fundamentals – Floyd and Jain, Pearson Education, 8th Edition, 2005. 
+ 
+REFERENCE BOOKS: 
+1. Linear Integrated Circuits –D. Roy Chowdhury, New Age International (p) Ltd, 2nd 
+Ed., 2003. 
+2. Op Amps and Linear Integrated Circuits -Concepts and Applications James M. Fiore, 
+Cengage Learning/ Jaico, 2009. 
+3. Operational Amplifiers with Linear Integrated Circuits by K.  Lal Kishore – Pearson, 
+2009. 
+4. Linear Integrated Circuits and Applications – Salivahanan, MC GRAW HILL 
+EDUCATION. 
+5. Modern Digital Electronics – RP Jain – 4/e – MC GRAW HILL EDUCATION, 2010. 
+  
+
+R16 B.TECH ECE. 
+ 
+8 
+ 
+DIGITAL COMMUNICATIONS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC503PC                          4     1    0    4 
+ 
+Course Objectives: 
+ To understand the functional block diagram of Digital communication system. 
+ To understand the need for source and channel coding. 
+ To study various source and channel coding techniques. 
+ To understand a mathematical model of digital communication system for bit error 
+rate analysis of different digital communication systems. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Understand basic components of Digital Communication Systems. 
+ Design optimum receiver for Digital Modulation techniques. 
+ Analyze the error performance of Digital Modulation Techniques. 
+ Understand the redundancy present in Digital Communication by using various source 
+coding techniques. 
+ Know about different error detecting and error c orrection codes like block codes, 
+cyclic codes and convolution codes. 
+ 
+UNIT - I 
+Elements of Digital Communication Systems: Model of Digital Communication Systems, 
+Digital Representation of Analog Signal, Certain Issues in Digital Transmission, Advantages 
+of Digital Communication Systems, Sampling Theorem, Types of Sampling – Impulse 
+Sampling , Natural Sampling , Flat – Top Sampling. Introduction to Baseband Sampling. 
+ 
+Waveform Coding Techniques : PCM Generation and Reconstruction, Quantization Noise, 
+Non Uni form Quantization and Companding, DPCM, Adaptive DPCM, DM and Adaptive 
+DM, Noise in PCM and DM. 
+ 
+UNIT - II 
+Information theory: Information and Entropy, Conditional Entropy and Redundancy, 
+Shannon-Fano Coding Mutual information, Information Loss due to Noise, Source coding -
+Huffman Code, Variable Length Coding,  Lempel-ziv coding,  Source coding to increase 
+average information per bit, Lossy Source coding, Bandwidth -S/N Trade off,  Hartley 
+Shannon Law.    
+Error Control Codes 
+Linear Block Codes: Matrix Description of Linear Block Codes, Error Detection and Error 
+Correction Capabilities of Linear Block Codes. Cyclic Codes: Algebraic Structure, Encoding, 
+Syndrome Calculation, Decoding. Convolution Codes: Encoding, Decoding,  
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+9 
+ 
+UNIT - III 
+Baseband Pulse Transmission:  Introduction, Matched Filter, Error Rate Due to Noise, 
+intersymbol interference Nyquist's criterion for Distortionless Baseband Binary 
+Transmission, Correlative -Level Coding Baseband M -Array PAM Transmission PAM 
+Transmission, Digital subscr iber Lines, Optimal Liner Receiver, Adaptive Equalization, Eye 
+patterns.        
+Digital pass  band transmission: pass band transmission model, Gram -Schmidt 
+orthogonalization procedure, Geometric interpretation of signals Coherent detection of 
+signals in noise, probability of error, Correlation receiver. 
+ 
+UNIT - IV 
+Digital Modulation Techniques: Introduction, ASK, ASK Modulator, Coherent ASK 
+Detector, Non -Coherent ASK Detector, FSK, Bandwidth and Frequency Spectrum of FSK, 
+Non Coherent FSK Detector, Coherent FSK Detector, FSK Detection using PLL, BPSK, 
+Coherent PSK Detection, QPSK,  8-PSK, 16-PSK   Differential PSK, QAM  . 
+ 
+UNIT - V 
+Spread Spectrum Modulation: Use of Spread Spectrum, Direct Sequence Spread  (DSSS), 
+and Code Division Multiple Access, Ranging usi ng DSSS,  Frequency Hopping Spread 
+Spectrum, PN - Sequence: Generation and characteristics, Synchronization in Spread 
+Spectrum Systems.        
+ 
+TEXT BOOKS: 
+1. Communications system, S. Haykin, Wiley, 4 edition 2009. 
+2. Digital and Analog Communication Systems – Sam Shanmugam, John Wiley, 2005. 
+ 
+REFERENCES: 
+1. Principles of Communication Systems - Herbert Taub, Donald L Schilin g, Goutam 
+Saha, 3rd Edition, McGraw-Hill, 2008 
+2. Electronic communication systems, Wayne Tomasi, 5 edition, Pearson   
+3. Communication Systems: Analog and Digital,   R. P. Singh  , S. Sapre, McGraw -Hill 
+Education, 2012 
+4. Digital Communications – John G. Proakis , Masoud Salehi – 5th Edition, McG raw-
+Hill, 2008. 
+  
+
+R16 B.TECH ECE. 
+ 
+10 
+ 
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To u nderstand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing, Leading, 
+Motivation and Control aspects are learnt  in this course . The students can explore the 
+Management Practices in their domain area. 
+  
+UNIT - I 
+Introduction to Management : Definition, Nature and Scope , Functions, Managerial Roles, 
+Levels of Management, Managerial Skills, Challenges of M anagement; Evolution of 
+Management- Classical Approach - Scientific and Ad ministrative M anagement; The 
+Behavioral approach; The Quantitative approach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT - II 
+Planning and Decision Making: General Framework for Planning - Planning Process, Types 
+of Plans, Management by  Objectives; Development of Business Strategy. Decision making 
+and Problem Solving - Programmed and Non Programmed Decisions, Steps in Problem 
+Solving and Decision Making; Bounded Rationality and Influences on Decision Making; 
+Group Problem Solving and Dec ision Making, Creativity and Innovation in Managerial 
+Work.  
+ 
+UNIT - III 
+Organization and HRM:  Principles of Organization: Organizational Design & 
+Organizational Structures; Departmentalization, Delegation; Empowerment, Centralization, 
+Decentralization, Re centralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent Management, Talent 
+Management Models and Strategic Human Resource Planning; Recruitment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT - IV 
+Leading and Motivation: Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situational Leadership, Leadership Skills, Leader as Mentor and Coach, 
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH ECE. 
+ 
+11 
+ 
+Motivation - Types of Motivation; Relationship between Motivation, Performance and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor Theory, 
+Theory X and Theory Y. 
+ 
+UNIT - V 
+Controlling: Control, Types and Strategies for Control, Steps in Control Process, Budgetary 
+and Non - Budgetary Controls. Characteristics of Effective Controls, Establishing control 
+systems, Control frequency and Methods.  
+ 
+TEXT BOOKS:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+REFERENCES:  
+1. Essentials of Management, Koontz Kleihrich, Tata McGraw Hill.  
+2. Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012 
+  
+
+R16 B.TECH ECE. 
+ 
+12 
+ 
+LINEAR IC APPLICATIONS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC505PC                          0     0    3    2 
+ 
+Note: 
+ To perform any twelve experiments  
+ Verify the functionality of the IC in the given application. 
+ 
+Design and Implementation of: 
+1. Inverting and Non-inverting Amplifiers using Op Amps. 
+2. Adder and Subtractor using Op Amp. 
+3. Comparators using Op Amp. 
+4. Integrator Circuit using IC 741. 
+5. Differentiator circuit using Op Amp. 
+6. Active Filter Applications – LPF, HPF (first order) 
+7. IC 741 Waveform Generators – Sine, Square wave and Triangular waves. 
+8. Mono-stable Multivibrator using IC 555. 
+9. Astable Multivibrator using IC 555. 
+10. Schmitt Trigger Circuits – using IC 741. 
+11. IC 565 – PLL Applications. 
+12. Voltage Regulator using IC 723. 
+13. Three Terminal Voltage Regulators –7805, 7809, 7912. 
+  
+
+R16 B.TECH ECE. 
+ 
+13 
+ 
+DIGITAL IC APPLICATIONS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC506PC                          0     0    3    2 
+ 
+Note: 
+ To perform any twelve experiments  
+ Verify the functionality of the IC in the given application. 
+ 
+Design and Implementation of: 
+ 
+1. Design a 16 x 4 priority encoder using two 8 x 3 priority encoder. 
+2. Design a 16 bit comparator using 4 bit Comparators. 
+3. Design a model to 53 counter using two decade counters. 
+4. Design a 450 KHz clock using NAND / NOR gates. 
+5. Design a 4 bit pseudo random sequence generator using 4 – bit ring counter. 
+6. Design a 16 x 1 multiplexer using 8 x 1 multiplexer. 
+7. Design a 16 bit Adder / Subtractor using 4 – bit Adder / Subtractor IC’s 
+8. Plot the transform Characteristics of 74H, LS, HS series IC’s. 
+9. Design a 4 – bit Gray to Binary and Binary to Gray Converter. 
+10. Design a two Digit 7 segment display unit usin g this display the Mod counter output 
+of experiment 3. 
+11. Design an 8 bit parallel load and serial out shift register using two 4 bit shift register. 
+12. Design an 8 bit Serial in and serial out shift register using two 4 bit shift register. 
+13. Design a  Ring counter and Twisted ring  counter using a 4-bit shift register 
+14. Design a 4 digit hex counter using synchronous one digit hex counters.  
+15. Design a 4 digit hex counter using Asynchronous one digit hex counters.  
+  
+
+R16 B.TECH ECE. 
+ 
+14 
+ 
+DIGITAL COMMUNICATIONS LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: EC507PC                          0     0    3    2 
+ 
+Note: 
+ Perform any twelve experiments.  
+ Hardware Testing to be done 
+ 
+List of Experiments: 
+1. PCM Generation and Detection 
+2. Differential Pulse Code Modulation 
+3. Delta Modulation  
+4. Adaptive Delta modulation  
+5. Time Division Multiplexing of 2 Band Limited  Signals 
+6. Frequency Shift Keying:  Generation and Detection 
+7. Phase Shift Keying:  Generation and Detection 
+8. Amplitude Shift Keying: Generation and Detection 
+9. Study  of the  spectral characteristics of PAM 
+10. Study  of the  spectral characteristics of PWM 
+11. Study of the spectral characteristics of QAM. 
+12. DPSK :Generation and Detection 
+13. QPSK : Generation and Detection 
+14. OFDM: Generation and Detection 
+  
+
+R16 B.TECH ECE. 
+ 
+15 
+ 
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MC500HS                          3     0    0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers. The students will learn the rights and responsibilities 
+as an employee, team member and a global citizen.  
+  
+UNIT - I  
+Introduction to Profes sional Ethics : Basic Concepts, Governing Ethics, Personal & 
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelligence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, Professional Accountabilities, Professional Success, Ethics 
+and Profession. 
+ 
+UNIT - II 
+Basic Theories: Basic Ethical Principles, Moral Developments, Deontology, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, Moral Absolutio n, Moral Rationalism, Moral 
+Pluralism, Ethical Egoism, Feminist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT - III 
+Professional Practices in Engineering:  Professions and Norms of Professional Conduct, 
+Norms of Professional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC -10 Crash and Kansas City Hyatt Regency 
+Walk away Collapse. 
+ 
+UNIT - IV 
+Work Place Rights & Responsibilities, Ethics in changing domains of Research, Engineers 
+and Managers; Orga nizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing domains of research - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+16 
+ 
+UNIT - V 
+Global issues in Professional Ethics: Introduction – Current Scenario, Technology 
+Globalization of MNCs, International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governance, Sustainable Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution, Ethics in Manufacturing and Marketing, Media Ethics; War Ethics; Bio 
+Ethics, Intellectual Property Rights.     
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R. Subramanian, Oxford University Press, 2015. 
+2. Ethics in Engineering Practice & Research, Car oline Whitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES  
+1. Engineering Ethics, Concepts Cases: Charles E Harris Jr., Michael S Pritchard, 
+Michael J Rabins, 4e , Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008. 
+  
+
+R16 B.TECH ECE. 
+ 
+17 
+ 
+COMPUTER ORGANIZATION AND OPERATING SYSTEMS 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC611PE                          3     0    0    3 
+ 
+Course Objectives: The course objectives are 
+ To have a thorough understanding of the basic structure and operation of a digital 
+computer. 
+ To discuss in detail the operation of the arithmetic unit including the algorithms & 
+implementation of fixed -point and floating -point addition, subt raction, multiplication 
+& division. 
+ To study the different ways of communicating with I/O devices and standard I/O 
+interfaces. 
+ To study the hierarchical memory system including cache memories and virtual 
+memory. 
+ To demonstrate the knowledge of functions of operating system memory management 
+scheduling, file system and interface, distributed systems, security and dead locks. 
+ To implement a significant portion of an Operating System. 
+ 
+Course Outcomes: Upon completion of the course, students will have thorough  knowledge 
+about: 
+ Basic structure of a digital computer 
+ Arithmetic operations of binary number system 
+ The organization of the Control unit, Arithmetic and Logical unit, Memory unit and 
+the I/O unit. 
+ Operating system functions, types, system calls. 
+ Memory m anagement techniques and dead lock avoidance operating systems' file 
+system implementation and its interface. 
+ 
+UNIT - I 
+Basic Structure of Computers: Computer Types, Functional UNIT, Basic OPERATIONAL 
+Concepts, Bus Structures, Software, Performance, Multip rocessors and Multi Computers, 
+Data Representation, Fixed Point Representation, Floating – Point Representation. 
+Register Transfer Language and Micro Operations: Register Transfer 
+Language, Register Transfer Bus and Memory Transfers, Arithmetic Micro Opera tions, 
+Logic Micro Operations, Shift Micro Operations, Arithmetic Logic Shift Unit, Instruction 
+Codes, Computer Registers Computer Instructions– Instruction Cycle. 
+Memory – Reference Instructions, Input – Output and Interrupt, STACK 
+Organization, Instruction Formats, Addressing Modes, DATA Transfer and Manipulation, 
+Program Control, Reduced Instruction Set Computer. 
+ 
+ 
+
+R16 B.TECH ECE. 
+ 
+18 
+ 
+UNIT - II 
+Micro Programmed Control: Control Memory, Address Sequencing, 
+Microprogram Examples, Design of Control Unit, Hard Wired Control, 
+Microprogrammed Control. 
+The Memory System: Basic Concepts of Semiconductor RAM Memories, Read -Only 
+Memories, Cache Memories Performance Considerations, Virtual99 Memories Secondary 
+Storage, Introduction to RAID. 
+ 
+UNIT - III 
+Input-Output Organization: Peripheral Devices, Input-Output Interface, 
+Asynchronous Data Transfer Modes, Priority Interrupt, Direct Memory Access, Input –
+Output Processor (IOP), Serial Communication; Introduction to Peripheral Components, 
+Interconnect (PCI) Bus, Introduction to S tandard Serial Communication Protocols like 
+RS232, USB, IEEE1394. 
+ 
+UNIT - IV 
+Operating Systems Overview: Overview of Computer Operating Systems Functions, 
+Protection and Security, Distributed Systems, Special Purpose Systems, Operating Systems 
+Structures-Operating System Services and Systems Calls, System Programs, Operating 
+Systems Generation. 
+Memory Management: Swapping, Contiguous Memory Allocation, Paging, Structure of 
+The Page Table, Segmentation, Virtual Memory, Demand Paging, Page -Replacement 
+Algorithms, Allocation of Frames, Thrashing Case Studies - UNIX, Linux, Windows 
+Principles of Deadlock: System Model, Deadlock Characterization, 
+Deadlock Prevention, Detection and Avoidance, Recovery from Deadlock. 
+ 
+UNIT - V 
+File System Interface: The Concept of a File, Access Methods, Directory Structure, File 
+System Mounting, File Sharing, Protection. 
+File System Implementation: File System Structure, File System 
+Implementation, Directory Implementation, Allocation Methods, Free-Space Management. 
+ 
+TEXT BOOKS: 
+1. Computer Organization – Carl Hamacher, Zvonks Vranesic, Safea  Zaky, 5th Edition, 
+McGraw Hill. 
+2. Computer Systems Architecture – M. Moris Mano, 3rd Edition, Pearson 
+3. Operating System Concepts- Abraham Silberchatz, Peter B. Galvin,  Greg Gagne, 8th 
+Edition, John Wiley. 
+ 
+REFERENCE BOOKS: 
+1. Computer Organization and Architecture – William Stallings 6th Edition, Pearson 
+2. Structured Computer Organization – Andrew S. Tanenbaum, 4th Edition PHI 
+3. Fundamentals of Computer Organization and Design – Sivaraama Dandamudi 
+Springer Int. Edition. 
+
+R16 B.TECH ECE. 
+ 
+19 
+ 
+4. Operating Systems – Internals and Design Principles, Stallings, 6 th Edition–2009, 
+Pearson Education. 
+5. Modern Operating Systems, Andrew S Tanenbaum 2nd Edition, PHI. 
+6. Principles of Operating Systems, B. L. Stuart, Cengage Learning, India Edition. 
+  
+
+R16 B.TECH ECE. 
+ 
+20 
+ 
+DIGITAL IMAGE PROCESSING 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC612PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To comprehend the relation between  human visual system and machine perception 
+and processing of digital images. 
+ To provide a detailed approach towards image processing applications like 
+enhancement, segmentation, and compression. 
+Course Outcomes: 
+ Exploration of the limitations of the computational methods on digital images. 
+ Expected to implement the spatial and frequency domain image transforms on 
+enhancement and restoration of images. 
+ Elaborate understanding on image enhancement techniques. 
+ Expected to define the need for compression and e valuate the basic compression 
+algorithms. 
+ 
+UNIT - I 
+Digital Image Fundamentals & Image Transforms: Digital Image Fundamentals, 
+Sampling and Quantization, Relationship between Pixels. 
+Image Transforms: 2-D FFT, Properties, Walsh Transform, Hadamard Transfor m, Discrete 
+Cosine Transform, Haar Transform, Slant Transform, Hotelling Transform. 
+ 
+UNIT - II 
+Image Enhancement (Spatial Domain): Introduction, Image Enhancement in Spatial 
+Domain, Enhancement through Point Processing, Types of Point Processing, Histogram  
+Manipulation, Linear and Non – Linear Gray Level Transformation, Local or Neighborhood 
+criterion, Median Filter, Spatial Domain High-Pass Filtering. 
+Image Enhancement (Frequency Domain): Filtering in Frequency Domain, Low Pass 
+(Smoothing) and High Pass (Sharpening) Filters in Frequency Domain. 
+ 
+UNIT - III 
+Image Restoration: Degradation Model, Algebraic Approach to Restoration, Inverse 
+Filtering, Least Mean Square Filters, Constrained Least Squares Restoration, Interactive 
+Restoration. 
+ 
+UNIT – IV 
+Image Segmentation: Detection of Discontinuities, Edge Linking And Boundary Detection, 
+thresholding, Region Oriented Segmentation. 
+Morphological Image Processing: Dilation and Erosion: Dilation, Structuring Element 
+Decomposition, Erosion, Combining Dilation and Erosion, Opening and Closing, Hit or Miss 
+Transformation. 
+
+R16 B.TECH ECE. 
+ 
+21 
+ 
+UNIT - V 
+Image Compression:  Redundancies and their Removal Methods, Fidelity Criteria, Image 
+Compression Models, Huffman and Arithmetic Coding, Error Free Compression, Lossy 
+Compression, Lossy and Lossless Predictive Coding, Transform Based Compression, JPEG 
+2000 Standards. 
+ 
+TEXT BOOKS: 
+1. Digital Image Processing  - Rafael C. Gonzalez, Richard E. Woods, 3 rd Edition, 
+Pearson, 2008 
+2. Digital Image Processing - S Jayaraman, S Esakkirajan, T Veerakumar - MC GRAW 
+HILL EDUCATION, 2010. 
+ 
+REFERENCE BOOKS: 
+1. Digital Image Processing and Analysis -Human and Computer Vision Application 
+with using CVIP Tools - Scotte Umbaugh, 2nd Ed, CRC Press, 2011 
+2. Digital Image Processing using MATLAB – Rafael C. Gonzalez, Richard E Woods 
+and Steven L. Eddings, 2nd Edition, MC GRAW HILL EDUCATION, 2010. 
+3. Digital Image Pr ocessing and Computer Vision – Somka, Hlavac, Boyle - Cengage 
+Learning (Indian edition) 2008. 
+4. Introductory Computer Vision Imaging Techniques and Solutions- Adrian low, 2008, 
+2nd Edition 
+  
+
+R16 B.TECH ECE. 
+ 
+22 
+ 
+SPREAD SPECTRUM COMMUNICATIONS 
+(Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC613PE                          3     0    0    3 
+ 
+Course Objectives: The objectives of this course are to make the student  
+ Understand the concept of Spread Spectrum and study various types of Spread 
+spectrum sequences and their generation.  
+ Understand the principles of Code Division Multiple Access (CDMA) and use of 
+Spread spectrum concept in CDMA 
+ Understand various Code traci ng loops for optimum tracking of wideband signals viz 
+spread spectrum signals 
+ Understand the procedure for synchronization of receiver for receiving the Spread 
+spectrum signal.  
+ Study the performance of spread spectrum systems in Jamming environment, syste ms 
+with Forward Error Correction and Multiuser detection in CDMA cellular radio. 
+ 
+Course Outcomes: On completion of this course student will be able to 
+ Generate various types of Spread spectrum sequences and can simulate CDMA 
+system (Both Transmitter & Receiver). 
+ Analyze the performance of Spread spectrum systems in Jamming environment and 
+systems with Forward Error Correction. 
+ Can provide detection and cancellation schemes for Multiusers in CDMA cellular 
+radio. 
+ 
+UNIT - I  
+Introduction to Spread Spectrum Sy stems: Fundamental Concepts of Spread Spectrum 
+Systems, Pseudo Noise Sequences, Direct Sequence Spread Spectrum, Frequency Hop 
+Spread Spectrum, Hybrid Direct Sequence Frequency Hop Spread Spectrum, Code Division 
+Multiple Access. 
+Binary Shift Register Sequences for Spread Spectrum Systems:  Introduction, Definitions, 
+Mathematical Background and Sequence Generator Fundamentals, Maximal Length 
+Sequences, Gold Codes. 
+ 
+UNIT - II  
+Code Tracking Loops: Introduction, Optimum Tracking of Wideband Signals, Base B and 
+Delay-Lock Tracking Loop, Tau -Dither Non- Coherent Tracking Loop, Double Dither Non -
+Coherent Tracking Loop. 
+ 
+
+R16 B.TECH ECE. 
+ 
+23 
+ 
+UNIT - III  
+Initial Synchronization of the Receiver Spreading Code: Introduction, Problem Definition 
+and the Optimum Synchronizer, Serial Searc h Synchronization Techniques, Synchronization 
+using a Matched Filter, Synchronization by Estimated the Received Spreading Code. 
+ 
+UNIT - IV  
+Cellular Code Division Multiple Access (CDMA) Principles: Introduction, Wide Band 
+Mobile Channel, The Cellular CDMA System, Single User Receiver in a Multi User Channel, 
+CDMA System Capacity.  
+Multi-User Detection in CDMA Cellular Radio: Optimal Multi -User Detection, Linear 
+Suboptimal Detectors, Interference Combat Detection Schemes, Interference Cancellation 
+Techniques. 
+ 
+UNIT - V  
+Performance of Spread Spectrum Systems in Jamming Environments: Spread Spectrum 
+Communication System Model, Performance of Spread Spectrum Systems without Coding. 
+Performance of Spread Spectrum Systems with Forward Error Correction: Elementary  Block 
+Coding Concepts, Optimum Decoding Rule, Calculation of Error Probability, Elementary 
+Convolution Coding Concepts, Viterbi Algorithm, Decoding and Bit-Error Rate. 
+ 
+TEXT BOOKS: 
+1. Rodger E Ziemer, Roger L. Peterson and David E Borth - “Introduction to Sp read 
+Spectrum Communication- Pearson, 1st Edition, 1995. 
+2. Mosa Ali Abu-Rgheff – “Introduction to CDMA Wireless Communications.” Elsevier 
+Publications, 2008. 
+ 
+REFERENCE BOOKS: 
+1. George R. Cooper, Clare D. Mc Gillem - “Modern Communication and Spread 
+Spectrum,” McGraw Hill, 1986. 
+2. Andrew j. Viterbi - “CDMA: Principles of spread spectrum communication,” Pearson 
+Education, 1st Edition, 1995. 
+  
+
+R16 B.TECH ECE. 
+ 
+24 
+ 
+DIGITAL SYSTEM DESIGN 
+ (Professional Elective – I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC614PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To provide extended knowledge of digital logic circuits in the form of state model 
+approach. 
+ To provide an overview of system design approach using programmable logi c 
+devices. 
+ To provide and understand of fault models and test methods. 
+ 
+Course Outcomes: 
+ To understands the minimization of Finite state machine. 
+ To exposes the design approaches using ROM’s, PAL’s and PLA’s. 
+ To provide in depth understanding of Fault models. 
+ To understands test pattern generation techniques for fault detection. 
+ To design fault diagnosis in sequential circuits. 
+ 
+UNIT - I 
+Minimization and Transformation of Sequential Machines : The Finite State Model – 
+Capabilities and limitations of FSM – State equivalence and machine minimization – 
+Simplification of incompletely specified machines. 
+Fundamental mode model – Flow table – State reduction – Minimal closed covers – Races, 
+Cycles and Hazards. 
+ 
+UNIT - II 
+Digital Design: Digital Design Using ROMs, PALs and PLAs , BCD Adder, 32 – bit adder, 
+State graphs for control circuits, Scoreboard and Controller, A shift and add multiplier, Array 
+multiplier, Keypad Scanner, Binary divider. 
+ 
+UNIT - III 
+SM Charts : State machine charts, Derivation of SM Charts, Re alization of SM Chart, 
+Implementation of Binary Multiplier, dice game controller. 
+ 
+UNIT - IV: 
+Fault Modeling & Test Pattern Generation : Logic Fault model – Fault detection & 
+Redundancy- Fault equivalence and fault location –Fault dominance – Single stuck at fault 
+model – Multiple stuck at fault models –Bridging fault model. 
+Fault diagnosis of combinational circuits by conventional methods – Path sensitization 
+techniques, Boolean Difference method – Kohavi algorithm – Test algorithms – D algorithm, 
+
+R16 B.TECH ECE. 
+ 
+25 
+ 
+PODEM, R andom testing, Transition count testing, Signature analysis and test bridging 
+faults. 
+ 
+UNIT - V 
+Fault Diagnosis in Sequential Circuits : Circuit Test Approach, Transition Check Approach 
+– State identification and fault detection experiment, Machine identifi cation, Design of fault 
+detection experiment 
+ 
+TEXT BOOKS: 
+1. Fundamentals of Logic Design – Charles H. Roth, 5th ed., Cengage Learning. 
+2. Digital Systems Testing and Testable Design – Miron Abramovici, Melvin A. Breuer 
+and Arthur D. Friedman- John Wiley & Sons Inc. 
+ 
+REFERENCE BOOKS: 
+1. Switching and Finite Automata Theory – Z. Kohavi , 2nd ed., 2001, McGraw Hill 
+2. Digital Design – Morris Mano, M.D.Ciletti, 4th Edition, Pearson  
+  
+
+R16 B.TECH ECE. 
+ 
+26 
+ 
+ANTENNAS AND WAVE PROPAGATION 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC601PC                          4     0    0    4 
+ 
+Course Objectives:  This  can  be  termed  a  middle  level  course  in  the  electronic 
+communication engineering domain.  The  course  deals  with  antenna  basics,  different  
+types  of  antennas,  some  design  features, antenna  measurements  and  wave propagation,  
+and  has  the  following  main  objectives: 
+ To  understand  the  concept  of  radiation,  antenna  definitions  and  significance  of  
+antenna  parameters,  to  derive  and  analyze  the  radiation  characteristics  of  thin  
+wire  dipole  antennas    and  solve  numerical  problems. 
+ To  distinguish  between  UHF,  VHF  and  Microwave  Antennas,  their  
+requirements,   specifications,  characteristics  and  design relations. 
+ To  analyze  the  characteristics  of  yagi -uda  antennas,  helical  antennas,  pyramidal  
+horns,  microstrip  patch antennas  and  parabolic  reflectors  and  identify  the  
+requirements  to  facilitate  their  design. 
+ To  identify  the  antenna  array  requirements,   to  determine  the  characteristics  of  
+ULAs    and  estimate  the  patterns  of  BSA,  EFA,  and  Binomial  Arrays. 
+ To  understand  the  concepts  and  set -up  requirements  for  microwave  
+measurements,  and  familiarize  with  the  procedure  to  enable  antenna  
+measurements. 
+ To  define  and  distinguish  between  different  phenomenon  of    wave  propagation 
+(ground wave,  space  wave  and  sky wave), their frequency dependence,    and  
+estimate  their characteristics,  identifying  their  profiles  and  parameters  involved. 
+ 
+Course Outcomes:  Having  gone  through  this  course  on  Antenna  Theory  and  
+Techniques,  and  Wave Propagation,  the  students  would  be  able  to: 
+ Explain  the  mechanism  of  radiation,  distinguish between  different  antenna  
+characteristic  parameters,  establish  their  mathematical  relations,  estimate  them  
+for  different  practical  cases. 
+ Distinguish  between short dipoles,  half -wave dipoles,  quarter-wave monopoles  and 
+small  loops,  configure  their  current  distributions,  derive  their  far  fields  and  
+radiation  characteristics  and  sketch  their  patterns. 
+ Characterize  the  antennas  based   on  frequency,  configure  the  geometry  and  
+establish the radiation patterns  of  folded dipole,  Yagi -Uda Antenna, Helical  
+Antennas,  Horn  Antennas,  and  to  acquire the knowledge  of  their  analysis, design  
+and  development. 
+ Analyze  a  microstrip  rectangular  patch antenna  and  a parabolic  r eflector  antenna,  
+identify  the  requirements  and   relevant  feed structure,  carry  out  the  design and 
+establish  their  patterns. 
+ Specify  the  requirements  for  microwave measurements  and  arrange  a  setup  to  
+carry out  the  antenna  far zone  pattern  and  gain  measurements in the laboratory. 
+
+R16 B.TECH ECE. 
+ 
+27 
+ 
+ Carry  out  the  Linear  Array  Analysis,  estimate  the  array  factor  and  
+characteristics  and  sketch  the  pattern  for  2 -element   array,  N -element  BSA, 
+EFA, modified  EFA,  Binomial  Arrays. 
+ Classify  the  different  wave  propagation  mechanisms,  identify  their  frequency  
+ranges,  determine  the  characteristic  features  of   ground wave,  ionospheric wave,  
+space wave,  duct  and  tropospheric   propagations,  and  estimate  the  paramet ers 
+involved. 
+ 
+UNIT - I 
+Antenna Basics: Introduction, Basic Antenna Parameters – Patterns, Beam Area, Radiation 
+Intensity, Beam Efficiency, Directivity -Gain-Resolution, Antenna Apertures, Effective 
+Height, Illustrative Problems. 
+Fields from Oscillating Dip ole, Field Zones, Front - to-back Ratio, Antenna Theorems, 
+Radiation, Retarded Potentials – Helmholtz Theorem 
+Thin Linear Wire Antennas  – Radiation from Small Electric Dipole, Quarter Wave 
+Monopole and Half Wave Dipole – Current Distributions, Field Compon ents, Radiated 
+Power, Radiation Resistance, Beam Width, Directivity, Effective Area and Effective Height, 
+Natural Current Distributions, Far Fields and Patterns of Thin Linear Centre -fed Antennas of 
+Different Lengths, Illustrative Problems.  Loop Antennas - Introduction, Small Loop, 
+Comparison of Far Fields of Small Loop and Short Dipole, Radiation Resistances and 
+Directivities of Small Loops (Qualitative Treatment). 
+ 
+UNIT - II 
+VHF, UHF and Microwave Antennas - I :  Arrays with Parasitic Elements, Yagi -Uda 
+Array, Folded Dipoles and their Characteristics, Helical Antennas – Helical Geometry, Helix 
+Modes, Practical Design Considerations for Mono  filar Helical Antenna in Axial and Normal 
+Modes,  Horn Antennas – Types, Fermat’s Principle, Optimum Horns, Design Considerations 
+of Pyramidal Horns, Illustrative Problems. 
+ 
+UNIT - III 
+VHF, UHF and Microwave Antennas - II:  Microstrip Antennas – Introduction, Features, 
+Advantages and Limitations, Rectangular Patch Antennas – Geometry and Parameters, 
+Characteristics of M icrostrip Antennas.  Reflector Antennas – Introduction, Flar Sheet and 
+Corner Reflectors,  Paraboloidal Reflectors – Geometry, Pattern Characteristics, Feed 
+Methods,  Reflector Types – Related Features, Illustrative Problems. 
+ 
+UNIT - IV 
+Antenna Arrays: Point Sources – Definition, Patterns , arrays of 2 Isotropic Sources  -  
+Different Cases, Principle of Pattern Multiplication, Uniform Linear Arrays – Broadside 
+Arrays, End fire Arrays, EFA with Increased Directivity, Derivation of their Characteristics 
+and Comparison, BSAs with Non-uniform Amplitude Distributions – General Considerations 
+and Binomial Arrays, Illustrative Problems. 
+
+R16 B.TECH ECE. 
+ 
+28 
+ 
+Antenna Measurements:  Introduction, Concepts - Reciprocity, Near and Far Fields, 
+Coordinate System, Sources of Errors.  Patterns to  be Measured, Directivity Measurement, 
+Gain Measurements (by Comparison, Absolute and 3-Antenna Methods) 
+ 
+UNIT - V 
+Wave Propagation – I:  Introduction, Definitions, Categorizations and General 
+Classifications, Different Modes of Wave Propagation, Ray/Mode Concepts, Ground Wave 
+Propagation (Qualitative Treatment) – Introduction, Plane Earth Reflections, Space and 
+Surface Waves, Wave Tilt, Curved Earth Reflections.  Space Wave Propagation – 
+Introduction, Field Strength Variation with Distance and Height, Effe ct of Earth’s Curvature, 
+Absorption, Super Refraction,   M -Curves and Duct Propagation, Scattering Phenomena, 
+Tropospheric Propagation. 
+Wave Propagation – II: Sky Wave Propagation – Introduction, Structure of Ionosphere, 
+Refraction and Reflection of Sky  Waves by Ionosphere, Ray Path, Critical Frequency, MUF, 
+LUF, OF, Virtual Height and Skip Distance,  Relation between MUF and Skip Distance, 
+Multi-hop Propagation. 
+ 
+TEXT BOOKS: 
+1. Antennas and Wave Propagation – J.D. Kraus, R.J. Marhefka and Ahmad S. Khan, 
+MC GRAW HILL EDUCATION, New Delhi, 4th ed., (Special Indian Edition), 2010. 
+2. Electromagnetic Waves and Radiating Systems – E.C. Jordan and K.G. Balmain, PHI, 
+2nd ed., 2000. 
+ 
+REFERENCE BOOKS: 
+1. Antenna Theory - C.A. Balanis, John Wiley & Sons, 3rd Ed., 2005. 
+2. Antennas and Wave Propagation – K.D. Prasad, Satya Prakashan, Tech India 
+Publications, New Delhi, 2001. 
+  
+
+R16 B.TECH ECE. 
+ 
+29 
+ 
+MICROPROCESSORS AND MICROCONTROLLERS 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC602PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To develop an understanding of the operations of microprocessors and micro 
+controllers; machine language programming and interfacing techniques. 
+ 
+Course Outcomes: 
+ Understands the internal architecture and organization of 8086, 8051 and ARM 
+processors/controllers. 
+ Understands the interfacing techniques to 8086 and 8051 and can develop assembly 
+language programming to design microprocessor/ micro controller based systems. 
+ 
+UNIT - I 
+8086 Architecture: 8086 Architecture-Functional diagram, Register Organization, Memory 
+Segmentation, Programming Model, Memory addresses, Physical Memory Organization, 
+Architecture of 8086, Signal descriptions of 8086, interrupts of 8086. 
+Instruction Set and Assembly Language Progra mming of 8086 : Instruction formats, 
+Addressing modes, Instruction Set, Assembler Directives, Macros, and Simple Programs 
+involving Logical, Branch and Call Instructions, Sorting, String Manipulations. 
+ 
+UNIT - II 
+Introduction to Microcontrollers: Overview o f 8051 Microcontroller, Architecture, I/O 
+Ports, Memory Organization, Addressing Modes and Instruction set of 8051. 
+8051 Real Time Control:  Programming Timer Interrupts, Programming External Hardware 
+Interrupts, Programming the Serial Communication Interru pts, Programming 8051 Timers 
+and Counters 
+ 
+UNIT – III 
+I/O And Memory Interface: LCD, Keyboard, External Memory RAM, ROM Interface, 
+ADC, DAC Interface to 8051. 
+Serial Communication and Bus Interface: Serial Communication Standards, Serial Data 
+Transfer Scheme, On board Communication Interfaces -I2C Bus, SPI Bus, UART; External 
+Communication Interfaces-RS232,USB. 
+ 
+UNIT – IV 
+ARM Architecture: ARM Processor fundamentals, ARM Architecture – Register, CPSR, 
+Pipeline, exceptions and interrupts interrupt vector tabl e, ARM instruction set – Data 
+processing, Branch instructions, load store instructions, Software interrupt instructions, 
+Program status register instructions, loading constants, Conditional execution, Introduction to 
+Thumb instructions. 
+ 
+
+R16 B.TECH ECE. 
+ 
+30 
+ 
+UNIT – V 
+Advanced ARM Processors: Introduction to CORTEX Processor and its architecture, 
+OMAP Processor and its Architecture. 
+ 
+TEXT BOOKS: 
+1. Advanced Microprocessors and Peripherals – A. K. Ray and K.M. Bhurchandani, 
+MHE, 2nd Edition 2006. 
+2. The 8051 Microcontroller, Kenneth. J. Ayala, Cengage Learning, 3rd Ed. 
+3. ARM System Developers guide, Andrew N SLOSS, Dominic SYMES, Chris 
+WRIGHT, Elsevier, 2012 
+ 
+REFERENCE BOOKS: 
+1. Microprocessors and Interfacing, D. V. Hall, MGH, 2nd Edition 2006. 
+2. Introduction to Embedded Systems, Shibu K.V, MHE, 2009 
+3. The 8051Microcontrollers, Architecture and Programming and Applications -K.Uma 
+Rao, Andhe Pallavi, Pearson, 2009. 
+  
+
+R16 B.TECH ECE. 
+ 
+31 
+ 
+DIGITAL SIGNAL PROCESSING 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC603PC                          4     0    0    4 
+ 
+Course Objectives:  This course is an essential course that provides design techniques for  
+processing all type of signals in various fields. The main objectives are: 
+ To provide background and fundamental material for the analysis and processing of 
+digital signals. 
+ To familiarize the relationships between continuous -time and discrete time signals 
+and systems. 
+ To study fundamentals of time, frequency and Z -plane analysis and to discuss the 
+inter-relationships of these analytic method. 
+ To study the designs and structures of digital (IIR and FIR) filters from analysis to 
+synthesis for a given specifications. 
+ The impetus is to introduce a few real-world signal processing applications. 
+ To acquaint in FFT algorithms, Multi -rate signal processing techniques and finite 
+word length effects. 
+ 
+Course Outcomes: On completion of this subject, the student should be able to: 
+ Perform time, frequency, and Z -transform analysis on signals and systems. 
+ Understand the inter-relationship between DFT and various transforms. 
+ Understand the significance of various filter structures and effects of round off errors. 
+ Design a digital filter for a given specification. 
+ Understand the fast computation of DFT and appreciate the FFT processing. 
+ Understand the tradeoffs between normal and multi rate DSP techniques and finite 
+length word effects. 
+ 
+UNIT - I 
+Introduction: Introduction to Digital Signal Processing: Discrete Time Signals & Sequences, 
+conversion of continuous to discrete signal, Normalized Frequ ency,  Linear Shift Invariant 
+Systems, Stability, and Causality, linear differential equation to difference equation , Linear 
+Constant Coefficient Difference Equations, Frequency Domain Representation of Discrete 
+Time Signals and Systems 
+Realization of Digi tal Filters:  Applications of Z – Transforms, Solution of Difference 
+Equations of Digital Filters, System Function, Stability Criterion, Frequency Response of 
+Stable Systems, Realization of Digital Filters – Direct, Canonic, Cascade and Parallel Forms. 
+ 
+UNIT - II 
+Discrete Fourier Transforms: Properties of DFT, Linear Convolution of Sequences using 
+DFT, Computation of DFT: Over -Lap Add Method, Over -Lap Save Method, Relation 
+between DTFT, DFS, DFT and Z-Transform. 
+
+R16 B.TECH ECE. 
+ 
+32 
+ 
+Fast Fourier Transforms:  Fast Fourier Transfor ms (FFT) - Radix-2 Decimation -in-Time 
+and Decimation-in-Frequency FFT Algorithms, Inverse FFT, and FFT with General Radix-N. 
+ 
+UNIT - III 
+IIR Digital Filters:  Analog filter approximations – Butterworth and Chebyshev, Design of 
+IIR Digital Filters from Analog Filters, Step and Impulse Invariant Techniques, Bilinear 
+Transformation Method, Spectral Transformations. 
+ 
+UNIT - IV 
+FIR Digital Filters:  Characteristics of FIR Digital Filters, Frequency Response, Design of 
+FIR Filters: Fourier Method, Digital Filters using Window Techniques, Frequency Sampling 
+Technique, Comparison of IIR & FIR filters. 
+ 
+UNIT - V 
+Multirate Digital Signal Processing:  Introduction, Down Sampling,  Decimation, 
+Upsampling, Interpolation, Sampling Rate Conversion, Conversion of Band Pass Signals, 
+Concept of Resampling, Applications of  Multi Rate Signal Processing. 
+Finite Word Length Effects: Limit cycles, Overflow Oscillations , Round -off Noise in IIR 
+Digital Filters, Computational Output Round off Noise, Methods to Prevent Overflow, Trade 
+off between Round Off and Overflow Noise, Measurement of Coefficient Quantization 
+Effects through Pole-Zero Movement, Dead Band Effects. 
+ 
+TEXT BOOKS: 
+1. Digital Signal Processing, Principles, Algorithms, and Applications: John G. Proakis, 
+Dimitris G. Manolakis, Pearson Education / PHI, 2007. 
+2. Discrete Time Signal Processing – A. V. Oppenheim and R.W. Schaffer, PHI, 2009 
+3. Fundamentals of Digital Signal Processing – Loney Ludeman, John Wiley, 2009 
+ 
+REFERENCES: 
+1. Digital Signal Processing – Fundamentals and Applications – Li Tan, Elsevier, 2008 
+2. Fundamentals of Digital Signal Processing using MATLAB – Robert J. Schilling, 
+Sandra L. Harris, Thomson, 2007 
+3. Digital Signal Processing - A Practical approach, Emmanuel C. Ifeachor and Barrie 
+W. Jervis, 2nd Edition, Pearson Education, 2009 
+  
+
+R16 B.TECH ECE. 
+ 
+33 
+ 
+DIGITAL SIGNAL PROCESSING LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC604PC                          0     0    3    2 
+ 
+Note: 
+1. The Programs shall be implemented in Software (Using MATLAB / Lab View / C 
+Programming/ Equivalent) and Hardware (Using TI / Analog Devices / Motorola / 
+Equivalent DSP processors). 
+2. Minimum of 12 experiments to be conducted. 
+ 
+List of Experiments 
+1. Generation of Sinusoidal Waveform / Signal based on Recursive Difference 
+Equations 
+2. Histogram of White Gaussian Noise and Uniformly Distributed Noise. 
+3. To find DFT / IDFT of given DT Signal 
+4. To find Frequency Res ponse of a given System given in Transfer Function/ 
+Differential equation form. 
+5. Obtain Fourier series coefficients by formula and using FET and compare for half 
+sine wave. 
+6. Implementation of FFT of given Sequence 
+7. Determination of Power Spectrum of a given Signal(s). 
+8. Implementation of LP FIR Filter for a given Sequence/Signal. 
+9. Implementation of HP IIR Filter for a given Sequence/Signal 
+10. Generation of Narrow Band Signal through Filtering 
+11. Generation of DTMF  Signals 
+12. Implementation of Decimation Process 
+13. Implementation of Interpolation Process 
+14. Implementation of I/D Sampling Rate Converters 
+15. Impulse Response of First order and Second Order Systems. 
+  
+
+R16 B.TECH ECE. 
+ 
+34 
+ 
+      MICROPROCESSORS AND MICROCONTROLLERS LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EC605PC                          0     0    3    2 
+ 
+Note: - Minimum of 12 experiments to be conducted. 
+The following programs/experiments are to be writ ten for assembler and to be executed the 
+same with 8086 and 8051 kits. 
+ 
+List of Experiments: 
+1. Programs for 16 bit arithmetic operations 8086(using various addressing modes) 
+2. Programs for sorting an array for 8086. 
+3. Programs for searching for a number of characters in a string for 8086. 
+4. Programs for string manipulation for 8086. 
+5. Programs for digital clock design using 8086. 
+6. Interfacing ADC and DAC to 8086. 
+7. Parallel communication between two microprocessor kits using 8255. 
+8. Serial communication between two microprocessor kits using 8251. 
+9. Interfacing to 8086 and programming to control stepper motor. 
+10. Programming using arithmetic, logical and bit manipulation instructions of 8051. 
+11. Program and verify Timer/Counter in 8051. 
+12.  Program and verify interrupt handling in 8051. 
+13.  UART operation in 8051. 
+14. Communication between 8051 kit and PC 
+15. Interfacing LCD to 8051 
+16. Interfacing Matrix/Keyboard to 8051 
+17. Data transfer from peripheral to memory through DMA controller 8237/8257 
+  
+
+R16 B.TECH ECE. 
+ 
+35 
+ 
+ADVANCED ENGLISH COMMUNICATION SKILLS (AECS) LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EN606HS                          0     0    3    2 
+  
+Introduction 
+A course on Advanced English Communication Skills (AECS) Lab  is considered essential at 
+the third year level of B.Tech and B.Pharmacy courses. At this stage, the students need  to 
+prepare themselves for their career which requires them to listen to, read, speak and write in 
+English both for their professional and interpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+ 
+Course Objectives: This Lab focuses on using multi -media instruction for language 
+development to meet the following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioural skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes: Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus 
+The following course activities will b e conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+ 
+1. Inter-personal Communication and Building Vocabulary - Starting a Conversation 
+– Responding Appropriately and Relevantly – Using Appropriate Body Language – 
+Role Play in Differen t Situations - Synonyms and Antonyms, One -word Substitutes, 
+Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+2. Reading Comprehension  –General Vs Local Comprehension, Reading for Facts, 
+Guessing Meanings from Context, , Skimming, Scanning, Inferring Meaning. 
+3. Writing Skills  – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+4. Presentation Skills  – Oral Presentations (individual or group) through JAM 
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+5. Group Discussion and Interview Skills  – Dynamics of Group Discussion, 
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance, 
+Fluency and Organiz ation of Ideas and Rubrics of Evaluation - Concept and Process, 
+
+R16 B.TECH ECE. 
+ 
+36 
+ 
+Pre-interview Planning, Opening Strategies, Answering Strategies, Interview through 
+Tele-conference & Video-conference and Mock Interviews. 
+ 
+Minimum Hardware Requirement: 
+Advanced English Communication Skills (AECS) Laboratory shall have the following 
+infrastructural facilities to accommodate at least 35 students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+ 
+Suggested Software: The software consisting of the prescribed topics elaborated above 
+should be procured and used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+ 
+REFERENCES:             
+1. Kumar, Sanjay and Pushp Lata. English for Effective Communication , Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI 
+Learning Pvt. Ltd., 2011. 
+

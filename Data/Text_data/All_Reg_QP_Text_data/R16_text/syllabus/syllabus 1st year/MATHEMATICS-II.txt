@@ -1,0 +1,55 @@
+MATHEMATICS- II
+(Advanced Calculus)
+B.Tech. I Year I Sem. L T/P/D  C
+Course Code: MA102BS/MA202BS 4 1/0/0 4
+Prerequisites: Foundation course (No prerequisites).
+Course Objectives:
+To learn
+ concepts & properties of Laplace Transforms
+ solving differential equations using Laplace transform techniques
+ evaluation of integrals using Beta and Gamma Functions
+ evaluation of multiple integrals and applying them to compute the volume and areas
+of regions
+ the physical quantities involved in engineering field related to the vector valued
+functions.
+ the basic properties of vector valued functions and their applicatio ns to line, surface
+and volume integrals.
+Course Outcomes:
+After learning the contents of this course the student must be able to
+ use Laplace transform techniques for solving DE’s
+ evaluate integrals using Beta and Gamma functions
+ evaluate the multiple integrals and can apply these concepts to find areas, volumes,
+moment of inertia etc of regions on a plane or in space
+ evaluate the line, surface and volume integrals and converting them from one to
+another
+UNIT–I
+Laplace Transforms : Laplace transforms of standard functions, Shifting theorems,
+derivatives and integrals, properties - Unit step function, Dirac’s delta function, Periodic
+function, Inverse Laplace transforms, Convolution theorem (without proof).
+Applications: Solving ordinary differential equati ons (initial value problems) using Laplace
+transforms.
+UNIT-II
+Beta and Gamma Functions: Beta and Gamma functions, properties, relation between Beta
+and Gamma functions, evaluation of integrals using Beta and Gamma functions.
+Applications: Evaluation of integrals.
+UNIT–III
+Multiple Integrals : Double and triple integrals, Change of variables, Change of order of
+integration.
+Applications: Finding areas, volumes& Center of gravity (evaluation using Beta and Gamma
+functions).
+
+UNIT–IV
+Vector Differentiation : Scalar and vector point functions, Gradient, Divergence, Curl and
+their physical and geometrical interpretation, Laplacian operator, Vector identities.
+UNIT–V
+Vector Integration: Line Integral, Work done, Potential function, area, surface and volume
+integrals, Vector integral theorems: Greens, Stokes and Gauss divergence theorems (without
+proof) and related problems.
+Text Books:
+1. Advanced Engineering Mathematics by R K Jain & S R K Iyengar, Narosa Publishers
+2. Engineering Mathematics by Srimanthapal and Subodh C. Bhunia, Oxford Publishers
+References:
+1. Advanced Engineering Mathematics by Peter V. O. Neil, Cengage Learning
+Publishers.
+2. Advanced Engineering Mathematics by Lawrence Turyn, CRC Press
+

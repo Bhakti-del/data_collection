@@ -1,0 +1,1161 @@
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. CIVIL AND ENVIRONMENTAL ENGINEERING 
+ 
+COURSE STRUCTURE & SYLLABUS (2016-17) 
+ 
+ 
+II YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 MA301BS Mathematics - IV 4 1 0 4 
+2 CE302ES Strength of Materials - I 4 1 0 4 
+3 CE303ES Fluid Mechanics – I 4 1 0 4 
+4 CV304ES Engineering Geology 3 0 0 3 
+5 CE305ES Surveying 3 0 0 3 
+6 CE306ES Strength of Materials Lab 0 0 3 2 
+7 CV307ES Engineering Geology Lab 0 0 3 2 
+8 CE308ES Surveying  Lab – I 0 0 3 2 
+9 *MC300HS Gender Sensitization Lab 0 0 3 0 
+  Total Credits 18 3 12 24 
+ 
+ 
+ 
+II YEAR II SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 CE401ES Strength of Materials - II 4 1 0 4 
+2 CE402ES Fluid Mechanics - II 4 1 0 4 
+3 CE403ES Structural Analysis 4 1 0 4 
+4 CE404ES Building Materials,  Construction and  Planning 3 0 0 3 
+5 SM405MS Business Economics & Financial Analysis 3 0 0 3 
+6 CE406ES Fluid Mechanics Lab 0 0 3 2 
+7 CE407ES Computer Aided Design – I Lab 0 0 3 2 
+8 CE408ES Surveying – II Lab 0 0 3 2 
+9 *MC400ES Environmental Science and Technology 3 0 0 0 
+  Total Credits  21 3 9 24 
+ 
+  
+
+MA301BS: MATHEMATICS - IV 
+(Complex Variables and Fourier Analysis) 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+ 
+Prerequisites: Foundation course (No Prerequisites). 
+ 
+Course Objectives: To learn  
+ differentiation and integration of complex valued functions 
+ evaluation of integrals using Cauchy’s integral formula 
+ Laurent’s series expansion of complex functions 
+ evaluation of integrals using Residue theorem 
+ express a periodic function by Fourier series and a non -periodic function by Fourier 
+transform  
+ to analyze the displacements of one dimensional wave and distribution of one 
+dimensional heat equation 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ analyze the complex functions with reference to their analyticity, integration using 
+Cauchy’s integral theorem 
+ find the Taylor’s and Laurent’s series expansion of complex functions 
+ the bilinear transformation 
+ express any periodic function in term of sines and cosines 
+ express a non-periodic function as integral representation 
+ analyze one dimensional wave and heat equation 
+ 
+UNIT–I 
+Functions of a complex variable: Introduction, Continuity, Differentiability, Analyticity, 
+properties, Cauchy, Riemann equations in Cartesian and polar coordinates . Harmonic and 
+conjugate harmonic functions-Milne-Thompson method 
+ 
+UNIT-II 
+Complex integration: Line integral, Cauchy’s integral theorem, Ca uchy’s integral formula, 
+and Generalized Cauchy’s integral formula, Power series: Taylor’s series - Laurent series, 
+Singular points, isolated singular points, pole of order m – essential singularity, Residue, 
+Cauchy Residue theorem (Without proof). 
+ 
+UNIT–III  
+Evaluation of Integrals: Types of real integrals: 
+(a) Improper real integrals ( )f x dx
+
+
+   (b) 
+2
+(cos ,sin )
+c
+c
+f d
+
+  
+
+  
+Bilinear transformation- fixed point- cross ratio- properties- invariance of circles. 
+
+UNIT–IV  
+Fourier series and Transforms: Introduction, Periodic functions, Fourier series of periodic 
+function, Dirichlet’s conditions, Even and odd functions, Change of interval, Half range sine 
+and cosine series. 
+Fourier integral theorem (without proof), Fourier s ine and cosine integrals, sine and cosine, 
+transforms, properties, inverse transforms, Finite Fourier transforms. 
+ 
+UNIT–V  
+Applications of PDE: Classification of second order partial differential equations, method of 
+separation of variables, Solution of one dimensional wave and heat equations. 
+ 
+TEXT BOOKS: 
+1. A first course in complex analysis with applications by Dennis G. Zill and Patrick 
+Shanahan, Johns and Bartlett Publishers. 
+2. Higher Engineering Mathematics by Dr. B. S. Grewal, Khanna Publishers. 
+3. Advanced engineering Mathematics  with MATLAB by Dean G. Duffy 
+ 
+REFERENCES: 
+1. Fundamentals of Complex Analysis by Saff, E. B. and A. D. Snider, Pearson. 
+2. Advanced Engineering Mathematics by Louis C. Barrett, McGraw Hill. 
+
+CE302ES: STRENGTH OF MATERIALS - I 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+ 
+Pre Requisites: Engineer Mechanics 
+ 
+Course Objectives: The subject provide the knowledge of simple stress strains flexural 
+stresses in members, shear stresses and deflection in beams so that the concepts can be 
+applied to the Engineering problems. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Analyze the statically determinate and indeterminate problems.  
+ Determine the stresses and strains in the members subjected to axial, bending. 
+ Evaluate the slope and deflection of beams subjected to loads. 
+ Determine the principal stresses and strains in structural members. 
+ 
+UNIT – I 
+Simple Stresses and Strains: Elasticity and plasticity – Types of stresses and strains – 
+Hooke’s law – stress – strain diagram for mild steel – Working stress – Factor of safety – 
+Lateral strain, Poisson’s ratio and volumetric strain – Elastic moduli and the relationship 
+between them – Bars of varying section – composite bars – Temperature stresses. Elastic 
+constants. 
+Strain Energy – Resilience – Gradual, sudden, impact and shock loadings – simple 
+applications. 
+ 
+UNIT – II 
+Shear Force and Bending Moment: Definition of beam – Types of beams – Concept of 
+shear force and bending moment – S.F and B.M diagrams for ca ntilever, simply supported 
+and overhanging beams subjected to point loads, uniformly distributed load, uniformly 
+varying loads and combination of these loads – Point of contra flexure – Relation between 
+S.F., B.M and rate of loading at a section of a beam. 
+ 
+UNIT – III 
+Flexural Stresses: Theory of simple bending – Assumptions – Derivation of bending 
+equation: M/I = f/y = E/R - Neutral axis – Determination of bending stresses – Section 
+modulus of rectangular and circular sections (Solid and Hollow), I,T, Angl e and Channel 
+sections – Design of simple beam sections. 
+Shear Stresses: Derivation of formula – Shear stress distribution across various beam 
+sections like rectangular, circular, triangular, I, T angle sections.  
+ 
+ 
+ 
+
+UNIT – IV 
+Deflection of Beams: 
+Bending into a circular arc – slope, deflection and radius of curvature – Differential equation 
+for the elastic line of a beam – Double integration and Macaulay’s methods – Determination 
+of slope and deflection for cantilever and simply supported beams  subjected to point loads,  
+U.D.L, Uniformly varying load -Mohr’s theorems – Moment area method – application to 
+simple cases including overhanging beams. 
+Conjugate Beam Method: Introduction – Concept of conjugate beam method. Difference 
+between a real beam and a conjugate beam. Deflections of determinate beams with constant 
+and different moments of inertia. 
+ 
+UNIT – V 
+Principal Stresses and Strains : Introduction – Stresses on an inclined section of a bar under 
+axial loading – compound stresses – Normal and tangential stresses on an inclined plane for 
+biaxial stresses – Two perpendicular normal stresses accompanied by a state of simple shear 
+– Mohr’s circle of stresses – Principal stresses and strains – Analytical and graphical 
+solutions. 
+Theories of Failure : Introduction – Various theories of failure - Maximum Principal Stress 
+Theory, Maximum Principal Strain Theory, Maximum shear stress theory - Strain Energy and 
+Shear Strain Energy Theory (Von Mises Theory).  
+ 
+TEXT BOOKS: 
+1. Strength of Materials by R. K. Bansal, Lakshmi Publications House Pvt. Ltd. 
+2. Strength of Materials by R. Subramanian, Oxford University Press. 
+3. Strength of Materials by W.A Nash, MC Graw Hills 2014 6th edition. 
+4. Mechanics of Materials by James M Gere and Barry J Goodno Cengage Learning 
+India Pvt. Ltd Eight edition.  
+           
+REFERENCES: 
+1. Strength of Materials by S. S. Bhavikatti, Vikas Publishing House Pvt. Ltd. 
+2. Mechanics of Structures Vol –I by H. J. Shah and S. B. Junnarkar, Charotar 
+Publishing House Pvt. Ltd. 
+3. Strength of Materials by S. S. Rattan, McGraw Hill Education Pvt. Ltd. 
+4. Fundamentals of Solid Mechanics by M. L. Gambhir, PHI Learning Pvt. Ltd. 
+5. Strength of Materials and Structures by John Case et al., Butterworth-Heinemann. 
+6. Strength of Materials by Dr.Sadhu Singh Khanna Publishers 11th   edition 2015. 
+
+CE303ES: FLUID MECHANICS - I  
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+Pre Requisites: Engineering Mechanics  
+ 
+Course Objectives: Students who take this class can expect to  
+ Develop an appreciation for the properties of Newtonian fluids.  
+ Study analytical solutions to variety of simplified problems. 
+ Understand the dynamics of fluid flows and the governing non -dimensional 
+parameters. 
+ Apply concepts of mass, momentum and energy conservation to flows. 
+ Grasp the basic ideas of turbulence.  
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Apply conservation laws to derive governing equations of fluid flows.  
+ Compute hydrostatic and hydrodynamic forces.  
+ Analyze and design simple pipe systems. 
+ Apply principles of dimensional analysis to design experiments. 
+ Compute drag and lift coefficients.  
+ 
+UNIT - I 
+Introduction: Dimensions and units – Physical properties of fluids specific gravity, 
+viscosity, surface tensio n, vapor pressure and their influences on fluid motion pressure at a 
+point, Pascal’s law, Hydrostatic law - atmospheric, gauge and vacuum pressure- measurement 
+of pressure. Pressure gauges, Manometers: differential and Micro Manometers. Hydrostatic 
+forces on submerged plane, Horizontal, Vertical, inclined and curved surfaces – Center of 
+pressure. Derivations and problems. 
+ 
+UNTI – II 
+Buoyancy and floatation: stability of bodies, meta centre, liquids in relative equilibrium. 
+Fluid Kinematics: Description of fluid flow, Stream line, path line and streak lines and 
+stream tube. Classification of flows : Steady, unsteady, uniform, non uniform, laminar, 
+turbulent, rotational and irrotational flows – Equation of continuity for one, two , three 
+dimensional flows – stream and velocity potential functions,  circulation and vorticity,  
+flownet analysis. 
+ 
+UNIT – III 
+Fluid Dynamics and Measurement of Flow: Surface and body forces – Euler’s and 
+Bernoulli’s equations for flow along a stream line for 3 -D flow, (Navier  – stokes equations 
+(Explanationary) Momentum equation and its application – forces on pipe bend. Pitot tube, 
+Venturi meter, and orifice meter – classification of orifices, flow over rectangular, triangular 
+and trapezoidal and Stepped notches - –Broad crested weirs. 
+
+UNIT - IV 
+Closed Conduit Flow: Reynold’s experiment – Characteristics of Laminar & Turbulent 
+flows. Laws of Fluid friction – Darcy’s equation, ,variation of friction factor with Reynold’s 
+number – Moody’s Chart, Minor losses – pipes in series – pipes in parallel – Total energy 
+line and hydraulic gradient line. Pipe network problems Flow between parallel plates, Flow 
+through long tubes, flow through inclined tubes, water hammer. 
+ 
+UNIT – V 
+Boundary Layer Theory: Approximate Solutions of Navier Stok es Equations – Boundary 
+layer – concepts, Prandtl contribution, Characteristics of boundary layer along a thin flat 
+plate, Vonkarmen momentum integral equation, laminar and turbulent Boundary layers (no 
+derivations) BL in transition, separation of BL, cont rol of BL, flow around submerged 
+objects-Drag and Lift- Magnus effect. 
+ 
+TEXT BOOKS: 
+1. Fluid Mechanics by F.M. White  McGraw Hill Education (India)  Pvt. Ltd, New 
+Delhi, 2011 
+2. Fluid Mechanics by V.L. Streeter., E.B.Wylie and K.W. Bedford, McGraw Hill 
+Education (India)  Pvt. Ltd, New Delhi2016. 
+3. Fluid Mechanics by P.N. Modi and S.M.Seth, Standard Book House, Delhi, 2011. 
+ 
+REFERENCES: 
+1. Mechanics of Fluids by Potter, M.C D.C Wiggers, B.H Ramdan Cengage, 2012.  
+2. Fluid Mechanics by J F Douglas, J M Gasiorek, J A Swaffi eld and L B Jack, Pearson 
+2015. 
+3. Fluid Mechanics and Fluid Machines by S. K. Som, Gautam Biswas and  S. 
+Chakraborty,  McGraw Hill Education (India)  Pvt. Ltd, New Delhi 2015. 
+4. Engineering Fluid Mechanics by K L Kumar, S Chand, Eurasia Publishing House, 
+New Delhi, 2014. 
+5. Fluid Mechanics by Dr. A. K. Jain Khanna Publishers, twelfth edition 2014. 
+
+CV304ES: ENGINEERING GEOLOGY 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  3     0/0/0    3 
+ 
+Course Objectives: The objectives was course is to give the basics knowledge of Geology 
+that is required for constructing various Civil Engineering Structures, basic Geology, 
+Geological Hazardous and Environmental Geology which gives a complete picture on the 
+Geological aspects that are to be considered for the planning and construction of major Civil  
+Engineering projects 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Understand weathering process and mass movement 
+ Distinguish geological formations 
+ Identify geological structures and processes for rock mass quality 
+ Identify subsurface information and groundwater potential sites through geophysical 
+investigations 
+ Apply geological principles for mitigation of natural hazards and select sites for dams 
+and tunnels 
+ 
+UNIT - I 
+Introduction: Importance of geology from Civil Engineering point of view. Brief study of 
+case histories of failure of some Civil Engineering constructions due to geological draw 
+backs. Importance of Physical geology, Petrology and Structural geology. 
+Weathering of Rocks : Its effect over the properties of rocks importance of weathering with 
+reference to dams, reservoirs and tunnels weathering of common rock like “Granite” 
+ 
+UNIT - II 
+Mineralogy: Definition of mineral, Importance of study of minerals, Different methods of 
+study of minerals. Advantages of study of minerals by physical properties. Role of study of 
+physical properties of minerals in the identification of minerals. Study of physical pr operties 
+of following common rock forming minerals: Feldsper, Quartiz, Flint, Jasper, Olivine, 
+Augite, Hornblende, Muscovite, Biotite, Asbestos, Chlorite, Kyanite, Garnet, Talc, Calcite. 
+Study of other common economics minerals such as Pyrite, Hematite , M agnetite, Chrorite , 
+Galena , Pyrolusite, Graphite, Magnesite, and Bauxite. 
+Petrology: Definition of rock: Geological classification of rocks into igneous, Sedimentary 
+and metamorphic rocks. Dykes and sills, common structures and textures of igneous. 
+Sedimentary and metamorphic rocks. Their distinguishing features, Megascopic and 
+microscopic  and microscopic study of Granite, Dolerite, Basalt, Pegmatite, Laerite, 
+Conglomerate, Sand Stone, Shale, Limestone, Gneiss, Schist, Quartzite, Marble and Slate. 
+ 
+ 
+ 
+
+UNIT - III 
+Structural Geology: Out crop, strike and dip study of common geological structures 
+associating with the rocks such as folds, faults uncomfornities, and joints - their important 
+types and case studies. Their importance Insitu and drift soils, common  types of soils, their 
+origin and occurrence in India, Stabilisation of soils. Ground water, Water table, common 
+types of ground water, springs, cone of depression, geological controls of ground water 
+movement, ground water exploration. 
+ 
+UNIT - IV 
+Earth Quakes: Causes and effects, shield areas and seismic belts. Seismic waves, Richter 
+scale, precautions to be taken for building construction in seismic areas. Landslides, their 
+causes and effect; measures to be taken to prevent their occurrence. Importance of  study of 
+ground water, earth quakes and landslides. 
+Importance of Geophysical Studies: Principles of geophysical study by Gravity methods. 
+Magnetic methods, Electrical methods. Seismic methods, Radio metric methods and 
+geothermal method. Special importanc e of Electrical resistivity methods, and seismic 
+refraction methods. Improvement of competence of sites by grouting etc. Fundamental 
+aspects of Rock mechanics and Environmental Geology. 
+ 
+UNIT - V 
+Geology of Dams, Reservoirs, and Tunnels: Types of dams and bearing of Geology of site 
+in their selection, Geological Considerations in the selection of a dam site. Analysis of dam 
+failures of the past. Factors contributing to the success of a reservoir. Geological factors 
+influencing water Lightness and life of re servoirs - Purposes of tunneling, Effects of 
+Tunneling on the ground Role of Geological Considerations (i.e. Tithological, structural and 
+ground water) in tunneling over break and lining in tunnels. 
+ 
+TEXT BOOKS: 
+1. Engineering Geology by N. Chennakesavulu, McMillan, India Ltd. 2005 
+2. Engineering Methods by D. Venkat Reddy; Vikas Publishers 2015.   
+3. Engineering Geology by S K Duggal, H K Pandey Mc Graw Hill Education Pvt Ltd 
+2014 
+4. Principles of Engineering Geology by K.V.G.K. Gokhale – B.S publications 
+ 
+REFERENCES: 
+1. F.G. Bell, Fundamental of Engineering B.S. Publications, 2005. 
+2. Krynine & Judd, Principles of Engineering Geology & Geotechnics, CBS Publishers 
+& Distribution  
+3. Engineering Geology by Subinoy Gangopadhyay, Oxford university press. 
+4. Engineering Geology for Civil Engineers – P.C. Varghese PHI 
+
+CE305ES: SURVEYING  
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  3     0/0/0    3 
+ 
+Course Objectives:  The first step in engineering practice is surveying and the soundness of 
+any civil engineering work is dependent on the reliability and accuracy of surveying. 
+Therefore, it is imperative that a student of engineering should have good knowledge of 
+surveying. To impart the knowledge of surveying and latest technologies in surveying it is 
+necessary to introduce this subject in the curriculum. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Calculate angles, distances and levels  
+ Identify data collection methods and prepare field notes  
+ Understand the working principles of survey instruments  
+ Estimate measurement errors and apply corrections  
+ Interpret survey data and compute areas and volumes 
+ 
+UNIT - I   
+Introduction and Basic Concepts: Introduction, Objectives, classification and principles of 
+surveying, Scales, Shrinkage of Map, Conventional  symbols and Code of Signals, Surveying 
+accessories, phases of surveying.  
+Measurement of Distances and Directions 
+Linear distances -   Approximate methods, Direct Methods - Chains- Tapes, ranging, Tape 
+corrections, indirect methods- optical methods- E.D.M. method. 
+Prismatic Compass- Bearings, included angles, Local Attraction, Magnetic Declination and 
+dip. 
+ 
+UNIT - II 
+Levelling and Contouring 
+Leveling- Basics definitions, types of levels and levelling staves, temporary adjustments, 
+methods of levelling, booking and Determination of levels- HI Method-Rise and Fall method, 
+Effect of Curvature of Earth and Refraction.  
+Contouring- Characteristics and uses of Contours, Direct & Indirect methods of contour 
+surveying, interpolation and sketching of Contours. 
+Computation of Areas and Volumes 
+Areas - Determination of areas consisting of irregular boundary and regular boundary 
+(coordinates, MDM, DMD methods), Planimeter.  
+Volumes - Computation of areas for level section and two level sections with and without 
+transverse slopes, determination of volume of earth work in cutting and embankments, 
+volume of borrow pits, capacity of reservoirs. 
+ 
+ 
+
+UNIT - III 
+Theodolite Surveying: Types of Theodolites, Fundamental Lines, temporary adjustments, 
+measurement of horizontal angle by repetition method and reiteration method, measurement 
+of vertical Angle, Trigonometrical levelling when base is accessible and inaccessible.  
+Traversing: Methods of traversing, traverse computations and adjustments, Gale’s traverse 
+table, Omitted measurements. 
+ 
+UNIT - IV 
+Tacheometric Surveying: Principles of Tacheometry, stadia and tangential methods of 
+Tacheometry. 
+Curves: Types of curves and their necessity, elements of simple curve, setting out of simple 
+Curves, Introduction to compound curves. 
+ 
+UNIT - V 
+Modern Surveying Methods: Total Station and Global Positioning System. : Basic 
+principles, classifications, applications, comparison with conventional surveying. 
+Electromagnetic wave theory - electromagnetic distance measuring system - principle of 
+working and EDM instruments, Components of GPS – space segment, control segment and 
+user segment, reference systems, satellite orbits, GPS observations. Applications of GPS.   
+ 
+TEXT BOOKS: 
+1. Surveying and levelling by R. Subramanian, Oxford university press, New Delhi. 
+2. Chandra A M, “Higher Surveying”, New age International Pvt. Ltd., Publishers, New 
+Delhi, 2002. 
+3. Hoffman. B, H. Lichtenegga and J. Collins, Global Positioning System - Theory and 
+Practice, Springer -Verlag Publishers, 2001.  
+ 
+REFERENCES: 
+1. Arthur R Bento n and Philip J Taety, Elements of Plane Surveying, McGraw Hill – 
+2000. 
+2. Arora K R “Surveying Vol 1, 2 & 3), Standard Book House, Delhi, 2004. 
+3. Surveying (Vol – 1, 2 & 3), by B. C. Punmia, Ashok Kumar Jain and Arun Kumar 
+Jain - Laxmi Publications (P) ltd., New Delhi. 
+4. Chandra A M, “Plane Surveying”, New Age International Pvt. Ltd., New Delhi, 2002. 
+5. Surveying by Bhavikatti; Vikas publishing house ltd. 
+6. Duggal S K, “Surveying (Vol – 1 & 2), Tata McGraw Hill Publishing Co. Ltd. New 
+Delhi, 2004. 
+7. Surveying and leveling by R. Agor Khanna Publishers 2015.  
+
+CE306ES: STRENGTH OF MATERIALS LAB 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Pre Requisites:  – Theory 
+Course Objectives:  The objective of the course is to make the student understand the 
+behavior of materials under different types of loading for different types structures 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Conduct tension test on Materials like steel etc. 
+ Conduct compression tests on spring, wood and concrete  
+ Conduct flexural and torsion test to determine elastic constants  
+ Determine hardness of metals 
+ 
+List of Experiments: 
+1. Tension test 
+2. Bending test on (Steel / Wood) Cantilever beam. 
+3. Bending test on simple support beam. 
+4. Torsion test 
+5. Hardness test 
+6. Spring test 
+7. Compression test on wood or concrete 
+8. Impact test 
+9. Shear test 
+10. Verification of Maxwell’s Reciprocal theorem on beams. 
+11. Use of electrical resistance strain gauges 
+12. Continuous beam – deflection test. 
+ 
+List of Major Equipment: 
+1. UTM for conducting tension test on rods 
+2. Steel beam for flexure test 
+3. Wooden beam for flexure test 
+4. Torsion testing machine 
+5. Brinnell’s / Rock well’s hardness testing machine 
+6. Spring testing machine 
+7. Compression testing machine 
+8. Izod Impact machine 
+9. Shear testing machine 
+10. Beam setup for Maxwell’s theorem verification. 
+11. Continuous beam setup 
+12. Electrical Resistance gauges. 
+
+CV307ES: ENGINEERING GEOLOGY LAB 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Pre Requisites: Engineering Geology Theory 
+ 
+Course Objectives: The object of this lab is that to provide practical knowledge about 
+physical properties of minerals, rocks, drawing of geological maps, showing faults, 
+uniformities etc. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+Identify the various rocks, minerals depending on geological classifications  
+ 
+1.   Study of physical properties and identification of minerals referred under theory. 
+2.  Megascopic description and identification of rocks referred under theory. 
+3.  Microscopic study of rocks.    
+4.  Interpretation and drawing of sections for geological maps showing tilted beds, faults, 
+uniformities etc. 
+5.  Simple Structural Geology problems. 
+6.   Electrical resistivity meter.                               
+ 
+LAB EXAMINATION PATTERN: 
+ 
+1.  Description and identification of SIX minerals 
+2.  Description and identification of Six (including igneous, sedimentary and metamorphic 
+rocks) 
+3.  Interpretation of a Geological map along with a geological section.  
+4.  Simple strike and Dip problems. 
+5.   Microscopic identification of rocks. 
+
+CE308ES: SURVEYING LAB – I 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Pre Requisites: Surveying Theory 
+ 
+Course Objectives: To impart the practical knowledge in the field, it is essential to introduce 
+in curriculum. Drawing of Plans and Maps and determining the area are pre requisites before 
+taking up any Civil Engineering works. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+Practically able to draw plans & maps to determine the areas before taking up any civil 
+engineering works.  
+ 
+1. Surveying of an area by chain survey (closed traverse) & plotting.  
+2. Chaining across obstacles 
+3. Determine of distance between two inaccessible points with compass 
+4. Survey of a given area by prismatic compass (closed traverse) and plotting after 
+adjustment. 
+5. Radiation method, intersection methods by plane table survey. 
+6. Two point and three point problems in plane table survey. 
+7. Levelling – Longitudinal and cross-section and plotting 
+8. Trigonometric leveling using theodolite  
+9. Height and distances using principles of tacheometric surveying  
+10. a) Measurement of Horizontal angle & vertical angle. 
+b) Distance between inaccessible point by theodolite 
+
+MC300HS: GENDER SENSITIZATION LAB 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+Course Objectives:  
+ To develop students’ sensibility with regard to issues of gender in contemporary 
+India. 
+ To provide a critical perspective on the socialization of men and women. 
+ To introduce students to information about some key biological aspects of genders. 
+ To expose the students to debates on the politics and economics of work. 
+ To help students reflect critically on gender violence. 
+ To expose students to more egalitarian interactions between men and women. 
+ 
+Course Outcomes: 
+ Students will have developed a better understanding of important issues related to 
+gender in contemporary India. 
+ Students will be sensitized to basic dimensions of the biological, sociological, 
+psychological and legal aspects of gender. This will be achieved through discussion of 
+materials derived from research, facts, everyday life, literature and film. 
+ Students will attain a finer grasp of how gender discrimination works in our society 
+and how to counter it. 
+ Students will acquire insight into the gendered division of labour and its relation to 
+politics and economics. 
+ Men and women students and professionals will be better equipped to work and live 
+together as equals. 
+ Students will develop a sense of appreciation of women in all walks of life. 
+ Through providing accounts of studies and movements as well as the new laws that 
+provide protection and relief to women, the t extbook will empower students to 
+understand and respond to gender violence. 
+  
+UNIT-I          
+UNDERSTANDING GENDER 
+Gender: Why Should We Study It?  (Towards a World of Equals: Unit -1) 
+Socialization: Making Women, Making Men (Towards a World of Equals: Unit -2) 
+Introduction.  Preparing for Womanhood. Growing up Male. First lessons in Caste. Different 
+Masculinities. 
+ 
+UNIT-II       
+GENDER AND BIOLOGY 
+ Missing Women: Sex Selection and Its Consequences (Towards a World of Equals: Unit -4) 
+ Declining Sex Ratio. Demographic Consequences. 
+Gender Spectrum: Beyond the Binary (Towards a World of Equals: Unit -10) 
+Two or Many?  Struggles with Discrimination. 
+
+UNIT-III      
+GENDER AND LABOUR  
+Housework: the Invisible Labour (Towards a World of Equals: Unit -3) 
+“My Mother doesn’t Work.”  “Share the Load.” 
+Women’s Work: Its Politics and Economics (Towards a World of Equals: Unit -7) 
+Fact and Fiction. Unrecognized and Unaccounted work. Additional Reading: Wages and 
+Conditions of Work. 
+ 
+UNIT-IV  
+ISSUES OF VIOLENCE 
+Sexual Harassment: Say No! (Towards a World of Equals: Unit -6) 
+Sexual Harassment, not Eve -teasing- Coping with Everyday Harassment - Further Reading: 
+“Chupulu”.  
+Domestic Violence: Speaking Out (Towards a World of Equals: Unit -8) 
+Is Home a Safe Place? -When Women Unite [Film]. Rebuilding Lives.  Additional Reading: 
+New Forums for Justice. 
+Thinking about Sexual Violence (Towards a World of Equals: Unit -11) 
+Blaming the Victim -“I Fought for my Life….” - Additional Reading: The Caste Face of 
+Violence. 
+ 
+UNIT-V  
+GENDER:  CO - EXISTENCE  
+Just Relationships: Being Together as Equals (Towards a World of Equals: Unit -12) 
+Mary Kom and Onler. Love and Acid just do not Mix. Love Letters. Mothers and Fathers. 
+Additional Reading: Rosa Parks-The Brave Heart. 
+ 
+TEXTBOOK  
+All the five Units in the Textbook , “Towards a World of Equals: A Bilingual Textbook on 
+Gender”  written by A. Suneetha,  Uma Bhrugubanda, Duggirala Vasanta, Rama Melkote, 
+Vasudha Nagaraj, Asma Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu and 
+published by Telugu Akademi, Hyderabad,Telangana State in the year 2015. 
+ 
+Note: Since it is an Interdisciplinary Course, Resource Persons can be drawn from the fields 
+of English Literature or Sociology or Political Science or any other qualified faculty who has 
+expertise in this field from engineering departments. 
+ 
+REFERENCE BOOKS: 
+1. Menon, Nivedita. Seeing like a Feminist. New Delhi: Zubaan-Penguin Books, 2012  
+2. Abdulali Sohaila. “ I Fought For My Life…and Won .”Available online at: 
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal/ 
+ 
+ 
+ 
+ 
+
+CE401ES: STRENGTH OF MATERIALS – II 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+ 
+Pre Requisites: Strength of Materials - I 
+ 
+Course Objectives: Study of the subject provides the understanding of principal stress, 
+strains, springs, columns, and structures. 
+ 
+Course Outcomes: At the end of the course, the student will be able to 
+ Determine stresses in the member subjected to Torsion  
+ Analyze columns and struts 
+ Understand the concept of direct and bending stresses  
+ Analyze and design springs, thin and thick cylinders 
+ Understand the concept of unsymmetrical bending. 
+ 
+UNIT – I 
+Torsion of Circular Shafts: Theory of pure torsion – Derivation of Torsion equations : T/J = 
+q/r = Nθ/L – Assumptions made in the theory of pure torsion – Torsional moment of 
+resistance – Polar section modulus – Power transmitted by shafts – Combined bending and 
+torsion and end thrust – Design of shafts according to theories of failure. 
+Springs: Introduction – Types of springs – deflection of close and open coiled helical springs 
+under axial pull and axial couple – springs in series and parallel – Carriage or leaf springs. 
+ 
+UNIT – II 
+Columns and Struts: Introduction – Types of columns – Short, medium and long columns – 
+Axially loaded compression members – Crushing load – Euler’s theorem for long columns - 
+assumptions- derivation of Euler’s critical load formulae for  various end conditions – 
+Equivalent length of a column – slenderness ratio – Euler’s critical stress – Limitations of 
+Euler’s theory – Rankine – Gordon formula – Long columns subjected to eccentric loading – 
+Secant formula – Empirical formulae – Straight line formula – Prof. Perry’s formula.  
+Beam Columns: Laterally loaded struts – subjected to uniformly distributed and 
+concentrated loads – Maximum B.M. and stress due to transverse and lateral loading.  
+ 
+UNIT - III 
+Direct and Bending Stresses: Stresses under the combined action of direct loading and 
+bending moment, core of a section – determination of stresses in the case of chimneys, 
+retaining walls and dams – conditions for stability – stresses due to direct loading and 
+bending moment about both axis. 
+Beams Curved In Plan: Introduction – circular beams loaded uniformly and supported on 
+symmetrically placed Columns – Semi-circular beam simply -supported on three equally 
+spaced supports. 
+
+UNIT – IV 
+Thin Cylinders: Thin seamless cylindrical shells – Derivation of formula for longitudinal 
+and circumferential stresses – hoop, longitudinal and Volumetric strains – changes in dia, and 
+volume of thin cylinders – Thin spherical shells. 
+Thick Cylinders: Introduction -  Lame’s theory for thick cylinders – Derivation of Lame’s 
+formulae – distribution of hoop and radial stresses across thickness – design of thick 
+cylinders – compound cylinders – Necessary difference of radii for shrinkage – Thick 
+spherical shells. 
+ 
+UNIT – V 
+Unsymmetrical Bending: Introduction – Centroidal principal axes of section – Graphical 
+method for locating principal axes – Moments of inertia referred to any set of rectangular 
+axes – Stresses in beams subjected to unsymmetrical bending – Principal axes – Resolution of 
+bending moment into two rectang ular axes through the centroid – Location of neutral axis - 
+Deflection of beams under unsymmetrical bending. 
+Shear Centre: Introduction - Shear centre for symmetrical and unsymmetrical (channel, I, T 
+and L) sections 
+  
+TEXT BOOKS: 
+1. Mechanics of Materials Ferdinand P. Beer et al., Tata McGraw Hill Education Pvt. 
+Ltd 5th edition 2009.   
+2. Strength of Materials R. Subramanian, Oxford University Press 2010 
+3. Strength of Materials by B.S. Basavarajaiah, B.S. Mahadevappa, Universities Press 
+3rd Edition 2015. 
+ 
+REFERENCES: 
+1. Fundamentals of Solid Mechanics by M. L. Gambhir, PHI Learning Pvt. Ltd 
+2. Introduction to Strength of Materials by U. C. Jindal, Galgotia Publications Pvt. Ltd. 
+3. Mechanics of Materials by R. C. Hibbeler, Pearson Education 
+4. Strength of Materials by S. S. Rattan, Tata McGraw Hill Education Pvt. Ltd. 
+5. Strength of Materials by R.K Rajput, S. Chand & Company Ltd. 
+6. Strength of Materials by S.S Bhavikatti, Vikas Publishing House Pvt. Ltd.  
+  
+
+CE402ES: FLUID MECHANICS - II 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+ 
+Pre Requisites: Fluid Mechanics  
+ 
+Course Objectives: To understand basic concept of fluid flow and its application to chemical 
+process industries including pipe flow, fluid machinery and agitation & mixing. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Understand the concepts o channel flows. 
+ Compute flow profiles in channel transitions and analyze hydraulic transients  
+ Design the working proportions of hydraulic machines  
+ 
+UNIT – I 
+Open Channel Flow: Types of flows - Type of channels – Velocity distribution – Energy 
+and momentum correction factors – Chezy’s, Manning’s; and Bazin formulae for uniform 
+flow Stickler’s formula for Mannings ‘n’ – Most Economical sections. Critical flow: Specific 
+energy-critical depth – computation of critical depth – critical sub-critical and super critical 
+flows. Non uniform flow -Dynamic equation for G.V.F., Mild, Critical, Steep, horizontal and 
+adverse slopes-surface profiles-direct step method- for surface profiles -Rapidly varied flow, 
+hydraulic jump, energy dissipation. Surges – Types 
+ 
+UNIT - II 
+Hydraulic Similitude: Dimensional analysis -Rayleigh’s method and Buckingham’s pi 
+theorem-study of Hydraulic models – Geometric, kinematic and dynamic similarities -
+dimensionless numbers – model and prototype relations. Distorted and non -distorted models. 
+Scale Effect. 
+ 
+UNIT – III 
+Basics of Turbo Machinery: Hydrodynamic force of jets on stationary and moving flat, 
+inclined and curved vanes, jet striking centrally and at tip, velocit y triangles at inlet and 
+outlet, expressions for work done and efficiency -Angular momentum principle, Applications 
+to radial flow turbines. 
+UNIT - IV 
+Hydraulic Turbines: Layout of a typical Hydropower installation – Heads and efficiencies-
+classification of  turbines-pelton wheel -Francis turbine -Kaplan turbine -working, working 
+proportions, velocity diagram, work done and efficiency, hydraulic design, draft tube – theory 
+and function efficiency. Governing of turbines -surge tanks -unit and specific turbines -unit 
+speed-unit quantity -unit power -specific speed performance characteristics -geometric 
+similarity-cavitation and preventive measures 
+ 
+
+UNIT – V 
+Centrifugal Pump: installation details -classification-types work done - Manometric head-
+minimum starting speed -losses and efficiencies -specific speed multistage pumps -pumps in 
+parallel- performance of pumps-characteristic curves- NPSH-cavitation. 
+Reciprocating pumps: Basics, types, air vessels, slip   
+Classification of Hydropower plants  – Definition of terms – load factor, utilization factor, 
+capacity factor, estimation of hydropower potential.  
+ 
+TEXT BOOKS: 
+1. Open Channel flow by K. Subramanya, Tata McGraw Hill Education (India) Pvt Ltd. 
+2. Fluid Mechanics & Machinery by CSP Ojha, P.N. Chandramouli and R. Berndtsson 
+Oxford University Press. 
+3. Hydraulic Machines by K. Subramanya McGraw Hill Education(India) Pvt Ltd, 2013 
+ 
+REFERENCES: 
+1. Fluid Mechanics, Hydraulic and Hydraulic Machines by Modi & Seth, Standard Book 
+House, New Delhi. 
+2. Elements of Open channel flow by Ranga Raju, McGraw Hill Education(India) Pvt 
+Ltd, 2013 
+3. Flow Through Open Channels by Rajesh Srivastava, Oxford University Press, 2011 
+4. Open Channel flow Hydraulics by R.H. French, McGraw Book Company, New York, 
+1986. 
+5. Fluid Mechanics by Dr. A. K. Jain Khanna Publishers 2016 
+
+CE403ES: STRUCTURAL ANALYSIS 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+ 
+Pre Requisites: Strength of Materials –I 
+ 
+Course Objectives: To make the students to understand the principles of analysis of 
+structures subjected to static and moving loads by various methods. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Analyze Perfect , Imperfect And Redundant Frames 
+ Formulate Equilibrium and compatibility equations for structural members 
+ Analyze one dimensional and two dimensional problems using classical methods 
+ Analyze indeterminate structures 
+ Analyse structures for gravity loads, moving loads and lateral loads 
+ 
+UNIT - I 
+Introduction to Structures and Indeterminacy:  Equilibrium and compatibility equations - 
+types of supports and reactions, types of joints and equilibrium equations, Static and 
+kinematic indeterminacies of beams and frames. Effect of force releases lik e moment hinge, 
+shear releases, link on static indeterminacy, Relative Merits of indeterminate structures over 
+determinate structures. 
+Propped Cantilever and Fixed Beams: Types of props  : Elastic and Rigid props, 
+Determination of - Analysis of Propped cantilever and fixed beams, including the beams with 
+different moments of inertia, subjected to uniformly distributed load, central point load, 
+eccentric point load, number of point loads, uniformly varying load, couple and combination 
+of loads - Shear force a nd Bending moment diagrams for Propped Cantilever and Fixed 
+Beams-Deflection of Propped cantilever and fixed beams; effect of sinking of support, effect 
+of rotation of a support. 
+ 
+UNIT – II 
+Frames: Classification- plane and space frames, pin jointed and rigid jointed frames.  
+Analysis of Perfect Frames: Types of frames- Perfect, Imperfect and Redundant pin jointed 
+frames, assumptions, transfer of load to joints from wind and other forces - Analysis of 
+determinate pin jointed frames using method of joints an d  method of sections for vertical 
+loads, horizontal loads and inclined loads.  
+ 
+UNIT – III 
+Energy Theorems: Introduction-Strain energy in linear elastic system, expression of strain 
+energy due to axial load, bending moment and shear forces - Castigliano’s first theorem-Unit 
+Load Method. Deflections of simple beams and pin- jointed plane trusses.  
+
+Three Hinged Arches – Introduction – Types of Arches – Comparison between Three 
+hinged and Two hinged Arches. Linear Arch. Eddy’s theorem.  Analysis of Three hinged 
+arches. Normal Thrust and radial shear in an arch. Geometrical properties of parabolic and 
+circular arch. Three hinged circular arch at different levels. Absolute maximum bending 
+moment diagram for a three hinged arch. 
+ 
+ 
+ 
+UNIT – IV 
+Slope Deflection Method: Derivation of slope-deflection equation, application to continuous 
+beams with and without settlement of supports.  Shear force and bending moment diagrams 
+and Elastic curve. 
+Moment Distribution Method: application to continuous b eams with and without settlement 
+of supports. Shear force and bending moment diagrams and Elastic curve. 
+ 
+UNIT – V 
+Moving Loads and Influence Lines: Introduction-applications to bridges (only description), 
+Definition of influence line for SF, Influence line for BM- load position for maximum SF at a 
+section-Load position for maximum BM at a section - Point loads, UDL longer than the span, 
+UDL shorter than the span - maximum SF and BM at a given section and absolute maximum 
+S.F. and B.M due to single concentra ted load UDL  longer than the span, UDL shorter than 
+the span, two point loads with fixed distance between them and several point loads -
+Equivalent uniformly distributed load -Focal length. Influence lines for forces in members of 
+deck and through type truss es like Pratt and Warren trusses. Equivalent uniformly distributed 
+load. Focal length. Muller Breslau’s principle for determinate and indeterminate beams 
+(qualitative)  
+ 
+TEXT BOOKS:  
+1. Structural Analysis Vol –I & II by V. N. Vazirani and M. M. Ratwani, Khan na 
+Publishers. 
+2. Structural Analysis Vol  I & II by G. S. Pandit and S. P. Gupta, Tata McGraw Hill 
+Education Pvt. Ltd. 
+3. Mechanics of Structures Vol – I and II by H. J. Shah and S. B. Junnarkar, Charotar 
+Publishing House Pvt. Ltd. 
+ 
+REFERENCES: 
+1. Structural Analysis by R. C. Hibbeler, Pearson Education 
+2. Structural Analysis by Devdas Menon, Narosa Publishing House. 
+3. Basic Structural Analysis by C. S. Reddy., Tata McGraw Hill Education Pvt. Ltd. 
+4. Fundamentals of Structural Analysis by M. L. Gamhir, PHI Learning Pvt. Ltd 
+5. Structural Analysis -I by S. S. Bhavikatti, Vikas Publishing House Pvt. Ltd. 
+  
+
+CE404ES: BUILDING MATERIALS, CONSTRUCTION AND PLANNING 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  3     0/0/0    3 
+ 
+Course Objectives: To give the students a basic idea about the construction materials, 
+building components and to introduce various. 
+ 
+Course Outcomes: At the end of the course, the student will be able to identify various 
+building materials required for construction & planning. 
+ 
+UNIT - I 
+Stones and Bricks, Tiles: Building stones – classifications and quarrying – properties – 
+structural requirements – dressing. 
+Bricks – Composition of Brick earth – manufacture and structural requirements, Fly ash, 
+Ceramics. 
+Timber, Aluminum, Glass, Paints and Plastics: Wood - structure – types and properties – 
+seasoning – defects; alternate materials for Timber – GI / fibre – reinforced glass bricks, steel 
+& aluminum, Plastics. 
+ 
+UNIT - II 
+Cement & Admixtures: Ingredients of cement – manufacture – Chemical composition – 
+Hydration - field & lab tests. 
+Admixtures – mineral & chemical admixtures – uses. 
+ 
+UNIT - III 
+Building Components : Lintels, Arches, walls, vaults – stair cases – types of floors, types of 
+roofs – flat, curved, trussed ; foundati ons – types ; Damp Proof Course ; Joinery  – doors – 
+windows – materials – types.  
+Building Services:  Plumbing Services: Water Distribution, Sanitary – Lines & Fittings; 
+Ventilations: Functional requirements systems of ventilations. Air -conditioning - Essentials 
+and Types; Acoustics – characteristic – absorption – Acoustic design; Fire protection – Fire 
+Harzards – Classification of fire resistant materials and constructions 
+ 
+UNIT - IV 
+Mortars, Masonry and Finishing’s  
+Mortars: Lime and Cement Mortars 
+Brick masonry – types – bonds; Stone masonry – types; Composite masonry – Brick-stone 
+composite; Concrete, Reinforced brick.  
+Finishers: Plastering, Pointing, Painting, Claddings – Types – Tiles – ACP. 
+Form work: Types : Requirements – Standards – Scaffolding – Design; Shoring, 
+Underpinning.    
+ 
+ 
+
+UNIT – V 
+Building Planning: Principles of Building Planning, Classification of buildings and Building 
+by laws.  
+ 
+TEXT BOOKS: 
+1. Building Materials and Construction – Arora & Bindra, Dhanpat Roy Publications.  
+2. Building Construction by B. C. Punmia, Ashok Kumar Jain and Arun Kumar Jain - 
+Laxmi Publications (P) ltd., New Delhi. 
+ 
+REFERENCES: 
+1. Building Materials and Construction by G C Sahu, Joygopal Jena McGraw hill Pvt 
+Ltd 2015. 
+2. Building Materials by Duggal, New Age International. 
+3. Building Materials by P. C. Varghese, PHI. 
+4. Building Construction by PC Varghese PHI. 
+5. Construction Technology – Vol – I & II by R. Chubby, Longman UK.  
+6. Alternate Building Materials and Technology, Jagadish, Venk atarama Reddy and 
+others; New Age Publications. 
+
+SM405MS: BUSINESS ECONOMICS AND FINANCIAL ANALYSIS 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  3     0/0/0    3 
+ 
+Course Objective: To learn the basic Business types, impact of the Economy on Business 
+and Firms specifically. To analyze the Business from the Financial Perspective. 
+ 
+Course Outcome: The students will understand the various Forms of Business and the 
+impact of economic variables on the Business. The Demand, Supply, Production, Cost, 
+Market Structure, Pricing aspects are learnt. The Students can study the firm’s financial 
+position by analysing the Financial Statements of a Company.   
+   
+UNIT – I  
+Introduction to Business and Economics: 
+Business: Structure of Business Firm, Theory of Firm, Types of Business Entities, Limited 
+Liability Companies,  Sources of Capital for a Company, Non -Conventional Sources of 
+Finance. 
+Economics: Significance of Economics, Micro and Macro Economic Concepts, Concepts 
+and Importance of National Income, Inflation, Money Supply in Inflation, Business Cycle, 
+Features and Phases of Business Cycle. Nature and Scope of Business Economics, Role of 
+Business Economist, Multidisciplinary nature of Business Economics. 
+ 
+UNIT – II 
+Demand and Supply Analysis: 
+Elasticity of Demand:  Elasticity, Types of Elasticity, Law of Demand, Measurement and 
+Significance of Elasticity of Demand, Factors affecting Elasticity of D emand, Elasticity of 
+Demand in decision making, Demand Forecasting: Characteristics of Good  Demand 
+Forecasting, Steps in Demand Forecasting, Methods of Demand Forecasting. 
+Supply Analysis: Determinants of Supply, Supply Function & Law of Supply. 
+ 
+UNIT- III 
+Production, Cost, Market Structures & Pricing:  
+Production Analysis: Factors of Production, Production Function, Production Function with 
+one variable input, two variable inputs, Returns to Scale, Different Types of Production 
+Functions. 
+Cost analysis: Types of Costs, Short run and Long run Cost Functions. 
+Market Structures : Nature of Competition, Features of Perfect competition, Monopoly, 
+Oligopoly, and Monopolistic Competition. 
+Pricing: Types of Pricing, Product Life Cycle based Pricing, Break Even Analy sis, and Cost 
+Volume Profit Analysis. 
+
+UNIT-IV 
+Financial Accounting:  Accounting concepts and Conventions, Accounting Equation, 
+Double-Entry system of Accounting, Rules for maintaining Books of Accounts, Journal, 
+Posting to Ledger, Preparation of Trial Balance, Elements of Financial Statements, 
+Preparation of Final Accounts. 
+ 
+UNIT -V 
+Financial Analysis through Ratios: 
+Concept of Ratio Analysis, Liquidity Ratios, Turnover Ratios, Profitability Ratios, 
+Proprietary Ratios, Solvency, Leverage Ratios (simple problems). 
+Introduction to Fund Flow and Cash Flow Analysis (simple problems). 
+ 
+TEXT BOOKS: 
+1. D. D. Chaturvedi, S. L. Gupta, Business Economics - Theory and Applications, 
+International Book House Pvt. Ltd. 2013. 
+2. Dhanesh K Khatri, Financial Accounting, Tata Mc –Graw Hill, 2011. 
+3. Geethika Ghosh, Piyali Gosh, Purba Roy Choudhury, Ma nagerial Economics, 2e, 
+Tata Mc Graw Hill Education Pvt. Ltd. 2012. 
+ 
+REFERENCES: 
+1. Paresh Shah, Financial Accounting for Management 2e, Oxford Press, 2015.  
+2. S. N. Maheshwari, Sunil K Maheshwari, Sharad K Maheshwari, Financial 
+Accounting, 5e, Vikas Publications, 2013 
+ 
+
+CE406ES: FLUID MECHANICS LAB 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Pre Requisites: FM Theory  
+ 
+Course Objectives: To give the student an exposure to various hydraulic devices and Pipe 
+Flow. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Determine coefficient of discharge for orifice and mouthpiece. 
+ Calibrate notches venturimeter orifice meters 
+ Determine miner losses in pipes 
+ 
+List of Experiments:  
+1. Determination of Coefficient of discharge for a small orifice.  
+2. Determination of Coefficient of discharge for a mouthpiece by constant head method. 
+3. Calibration of contracted Rectangular Notch / Triangular Notch/Trapezoidal Notch.  
+4. Determination of friction factor of a pipe 
+5. Calibration of Venturimeter  
+6. Calibration of  Orifice meter 
+7. Determination of Coefficient for minor losses - Sudden Expansion 
+8. Determination of Coefficient for minor losses-  Sudden Contraction 
+9. Verification of Bernoulli’s equation. 
+10. Study of Water Hammer due to sudden Closure of valve 
+
+CE407ES: COMPUTER AIDED DRAFTING LAB - I 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Course Objectives: The objective of this lab is to teach the student basic drawing 
+fundamentals in various civil engineering applications, specially in building drawing. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+Master the usage of Autocad commands for drawing 2D & 3D building drawings required  
+for different civil engg applications.  
+ 
+1. Introduction to computer aided drafting  
+ 
+2. Software for CAD – Introduction to different softwares  
+ 
+3. Practice exercises on CAD software 
+ 
+4. Drawing of plans of buildings using software 
+    a) Single storied buildings   b) multi storied buildings 
+ 
+5. Developing sections and elevations for  
+       a) Single storied buildings   b) multi storied buildings 
+ 
+6. Detailing of building components like D oors, Windows, Roof Trusses etc. using CAD 
+softwares 
+ 
+7. Exercises on development of  working drawings of buildings 
+ 
+TEXT BOOKS:  
+1. Computer Aided Design Laboratory by M. N. Sesha Praksh & Dr. G. S. Servesh –
+Laxmi Publications. 
+2. Engineering Graphics by P. J. Sha – S. Chand & Co.  
+
+CE408ES: SURVEYING LAB – II 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+ 
+Pre-Requisites: Surveying Theory  
+ 
+Course Objective: To impart the practical knowledge in the field to set out any Civil 
+Engineering work 
+ 
+Course Outcome: Perform surveying on any civil engineering work  
+ 
+1. Determine of area using total station  
+2. Traversing using total station 
+3. Contouring using total station 
+4. Determination of remote height using total station  
+5. Stake out using total station  
+6. Distance, gradient, differential height between two inaccessible points using total 
+station. 
+7. Curve settling using total station  
+8. Resection using total station  
+9. Setting out works for buildings and pipe lines 
+10. Finding position of stations using G.P.S 
+
+MC400ES: ENVIRONMENTAL SCIENCE AND TECHNOLOGY 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  3     0/0/0    0 
+ 
+Course Objectives: 
+ Understanding the importance of ecological balance for sustainable development. 
+ Understanding the impacts of developmental activities and mitigation measures 
+ Understanding the environmental policies and regulations  
+ 
+Course Outcomes: Based on this course, the Engineering graduate will understand /evaluate 
+/ develop technologies on the basis of ecological principles and environmental regulations 
+which in turn helps in sustainable development  
+ 
+UNIT - I  
+Ecosystems: Definition, Scope and Importance of ecosystem. Classification, structure and 
+function of an ecosystem, Food chains, food webs and ecological pyramids. Flow of energy, 
+Biogeochemical cycles, Bioaccumulation, Biomagnification, ecosystem value, services and 
+carrying capacity, Field visits. 
+ 
+UNIT - II   
+Natural Resources: Classification of Resources:  Living and Non-Living resources, water 
+resources: use and over utilization of surface and ground water, floods and droughts, Dams: 
+benefits and problems. Mineral resources:  use and exploitation, environmental effects of 
+extracting and using mineral resources, Land resources:  Forest resources,  Energy 
+resources: growing energy needs, renewable and non renewable energy sources, use of 
+alternate energy source, case studies.  
+ 
+UNIT - III  
+Biodiversity And Biotic Resources: Introduction, Definition, genetic, species and ecosystem 
+diversity. Value of biodiversity ; consumptive use, productive use, social, ethical, aesthetic 
+and optional values. India as a mega diversity nation, Hot spots of biodiversity. Field visit. 
+Threats to biodiversity: habitat loss, poaching of wildlife, man -wildlife conflicts; 
+conservation of biodiversity: In-Situ and Ex-situ conservation.  National Biodiversity act.  
+ 
+UNIT - IV  
+Environmental Pollution and Control Technologies: Environmental Pollution:  
+Classification of pollution, Air Pollution: Primary and secondary pollutants, Automobile and 
+Industrial pollution, Ambient air quality standards. Water pollution:  Sources and types of 
+pollution, drinking water quality standards. Soil Pollution:  Sources and types, Impacts of 
+modern agriculture, degradation of soil. Noise Pollution: Sources and Health hazards, 
+standards, Solid waste: Municipal Solid Waste management, composition and characteristics 
+
+of e -Waste and its management. Pollution control technologies:   Wastewater Treatment 
+methods: Primary, secondary and Tertiary.  
+Overview of air pollut ion control technologies, Concepts of bioremediation. Global 
+Environmental Problems and Global Efforts: C limate change and impacts on human 
+environment. Ozone depletion and Ozone depleting substances (ODS). Deforestation and 
+desertification.  International  conventions / Protocols: Earth summit, Kyoto protocol and 
+Montréal Protocol.  
+ 
+UNIT - V  
+Environmental Policy, Legislation & EIA: Environmental  Protection act, Legal aspects 
+Air Act- 1981, Water Act, Forest Act, Wild life Act,  Municipal solid waste management and 
+handling rules, biomedical waste management  and handling rules, hazardous waste 
+management and handling rules. EIA: EIA  structure, methods of baseline data acquisition. 
+Overview on Impacts of air, water, biological and Socio -economical aspects. Strategies for 
+risk assessment, Concepts of Environmental Management Plan (EMP). Towards 
+Sustainable Future: Concept of Sustainabl e  Development, Population and its explosion, 
+Crazy Consumerism, Environmental Education,  Urban Sprawl, Human health, 
+Environmental Ethics, Concept of Green Building, Ecological Foot Print, Life Cycle 
+assessment (LCA), Low carbon life style. 
+ 
+TEXT BOOKS: 
+1. Textbook of Environmental Studies for Undergraduate Courses by Erach Bharucha 
+for University Grants Commission. 
+2. Environmental Studies by R. Rajagopalan, Oxford University Press. 
+ 
+REFERENCE BOOKS: 
+1. Environmental Science: towards a sustainable future by Richard T. Wright. 2008 PHL 
+Learning Private Ltd. New Delhi. 
+2. Environmental Engineering and science by Gilbert M. Masters and Wendell P. Ela. 
+2008 PHI Learning Pvt. Ltd.  
+3. Environmental Science by Daniel B. Botkin & Edward A. Keller, Wiley INDIA 
+edition. 
+4. Environmental Studies by Anubha Kaushik, 4th Edition, New age international 
+publishers. 
+5. Text book of Environmental Science and Technology - Dr. M. Anji Reddy 2007, BS 
+Publications 
+

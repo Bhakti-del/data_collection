@@ -1,0 +1,1113 @@
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. PETROLEUM ENGINEERING 
+ 
+COURSE STRUCTURE & SYLLABUS (2016-17) 
+ 
+ 
+II YEAR I SEMESTER 
+ 
+S. No. Course  
+Code Course Title L T P Credits 
+1 MA301BS Mathematics - IV 4 1 0 4 
+2 PE302ES General Geology 3 0 0 3 
+3 PE303ES Surveying and Offshore Structures 3 0 0 3 
+4 PE304ES Chemical Process Calculations 4 1 0 4 
+5 PE305ES Elements of Mechanical Engineering 4 0 0 4 
+6 PE306ES Geology Lab 0 0 3 2 
+7 PE307ES Basic Engineering (Mechanical + Electrical) 
+Lab 
+0 0 3 2 
+8 PE308ES Surveying Lab 0 0 3 2 
+9 *MC300HS Gender Sensitization Lab    - 
+  Total Credits 18 2 9 24 
+ 
+ 
+ 
+II YEAR  II SEMESTER 
+ 
+S. No. Course  
+Code Course Title L T P Credits 
+1 PE401ES Petroleum Geology 4 0 0 4 
+2 PE402ES Chemical Engineering Fluid Mechanics 4 1 0 4 
+3 PE403ES Process Heat Transfer 4 1 0 4 
+4 SM405MS Business Economics and Financial Analysis 3 0 0 3 
+5 PE404ES Petroleum Exploration Methods  3 0 0 3 
+6 PE406ES Chemical Engineering Fluid Mechanics Lab 0 0 3 2 
+7 PE407ES Process Heat Transfer Lab 0 0 3 2 
+8 PE408ES Mathematical Methods for Petroleum 
+Engineers Lab 
+0 0 3 2 
+9 *MC400ES Environmental Science and Technology 3 0 0 0 
+  Total Credits 21 2 9 24 
+ 
+  
+
+MA301BS: MATHEMATICS - IV 
+(Complex Variables and Fourier Analysis) 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+Prerequisites: Foundation course (No Prerequisites). 
+ 
+Course Objectives: To learn  
+ differentiation and integration of complex valued functions 
+ evaluation of integrals using Cauchy’s integral formula 
+ Laurent’s series expansion of complex functions 
+ evaluation of integrals using Residue theorem 
+ express a periodic function by Fourier series and a non -periodic function by Fourier 
+transform  
+ to analyze the displacements of one dimensional wave and distribution of one 
+dimensional heat equation 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ analyze the complex functions with reference to their analyticity, integration using 
+Cauchy’s integral theorem 
+ find the Taylor’s and Laurent’s series expansion of complex functions 
+ the bilinear transformation 
+ express any periodic function in term of sines and cosines 
+ express a non-periodic function as integral representation 
+ analyze one dimensional wave and heat equation 
+ 
+UNIT–I 
+Functions of a complex variable: Introduction, Continuity, Differentiability, Analyticity, 
+properties, Cauchy, Riemann equations in Cartesian and polar coordinates . Harmonic and 
+conjugate harmonic functions-Milne-Thompson method 
+ 
+UNIT-II 
+Complex integration: Line integral, Cauchy’s integral theorem, Cauchy’s integral formula, 
+and Generalized Cauchy’s integral formula, Power series: Taylor’s series - Laurent series, 
+Singular points, isolated singular points, pole of order m – essential singularity, Residue, 
+Cauchy Residue theorem (Without proof). 
+ 
+UNIT–III  
+Evaluation of Integrals: Types of real integrals: 
+(a) Improper real integrals ( )f x dx
+
+
+   (b) 
+2
+(cos ,sin )
+c
+c
+f d
+
+  
+
+  
+Bilinear transformation- fixed point- cross ratio- properties- invariance of circles. 
+ 
+
+UNIT–IV  
+Fourier series and Transforms: Introduction, Periodic functions, Fourier series of periodic 
+function, Dirichlet’s conditions, Even and odd functions, Change of interval, Half range sine 
+and cosine series. 
+Fourier integral theorem (without proof), Fourier sine and cosine integrals, sine and cosine, 
+transforms, properties, inverse transforms, Finite Fourier transforms. 
+ 
+UNIT–V  
+Applications of PDE: Classification of second order partial differential equations, method of 
+separation of variables, Solution of one dimensional wave and heat equations. 
+ 
+TEXT BOOKS: 
+1. A first course in complex analysis with applications by Dennis G. Zill and Patrick 
+Shanahan, Johns and Bartlett Publishers. 
+2. Higher Engineering Mathematics by Dr. B. S. Grewal, Khanna Publishers. 
+3. Advanced engineering Mathematics  with MATLAB by Dean G. Duffy 
+ 
+REFERENCES: 
+1. Fundamentals of Complex Analysis by Saff, E. B. and A. D. Snider, Pearson. 
+2. Advanced Engineering Mathematics by Louis C. Barrett, McGraw Hill. 
+
+PE302ES: GENERAL GEOLOGY 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+   3     0/0/0    3 
+Prerequisites: None 
+ 
+Course Objective: To expose the students to different geological environments, which relate 
+to petroleum industry 
+Course Outcome: The student would understand the basics of geology, viz: formation of 
+earth, layers of earth, different types of rocks, formation of sedimentary basins and the micro 
+fossils and their relationship to oil and gas. 
+ 
+UNIT- I 
+Dimensions of earth, structure, composition and origin of earth -envelops of the Earth - crust, 
+mantle, core.  Internal dynamic process - Plate tectonics - continental drift, Earthquake and 
+volcanoes.  External dynamic process- weathering, erosion and deposition.   
+ 
+UNIT-II 
+Fundamental concepts in Geomorphology -geomorphic processes distribution of landforms -
+drainage patterns –development, Landforms in relation to rocks types, paleochannels, buried 
+channels. 
+ 
+UNIT-III 
+Geological work of rivers, wind, Ocean and glaciers and the landforms created by them. 
+. 
+UNIT-IV 
+Origin of igneous, sedimentary and metamorphic rocks. Sedimentary structures -petrographic 
+character of conglomerate, sandstone, shale, limestones.  
+Introduction to sedimentary basins and deltaic systems.  Topographic maps, thematic maps, 
+Topographic and thematic profiles.    
+ 
+UNIT-V 
+Palaeontology: Introduction to Palaeontology, Fossils and Fossilization. 
+Micropaleontology - Palynology: Distribution of microfossils -Foraminifera, Radiolaria, 
+Conodonts, Ostracodes, Diatoms. Importance of micro fossils in oil exploration.  
+ 
+TEXT BOOK: 
+    1. Engineering Geology, F. G. Bell, 2nd Edition, Butterworth Heimann, 2007. 
+ 
+REFERENCE BOOKS: 
+1. Text book of Geology, P.K Mukharjee, The World Press Pvt Ltd., Calcutta, 2005. 
+2. Rutleys Elements of Mineralogy, 27 Ed., N.H.Read, Allen & Unwin Australia 1988. 
+  
+
+PE303ES: SURVEYING AND OFFSHORE STRUCTURES 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  3     0/0/0    3 
+ 
+Prerequisites: None 
+ 
+Course Objectives: The students will be trained to: 
+ Demonstrate the principles of surveying for the measurement of distance and angles. 
+ Explain the concepts of levelling and contouring. 
+ Introduce the concepts of advanced surveying and implementation in shoreline 
+surveying. 
+ Demonstrate the principles of sea surveying. 
+ Introduce the concepts of wave and current data collection. 
+ Explain various stages of fixed offshore structure in view of the operation. 
+ Introduce the concept and types of compliant structures. 
+ Demonstrate the basic terminology and floatation principles of floating structures. 
+ 
+Course Outcomes: After successful completion of the course, the student can understand: 
+ The basic principles and significance of measurement of distance and direction. 
+ Horizontal and vertical angles. 
+ Principles, importance and measurement of angles using Theodolite. 
+ Concepts and terminology in contour mapping. 
+ Measurement and to plotting the contour maps. 
+ Basics of total station and GPS. 
+ Shore line survey and basics of acoustics, application in the field. 
+ Basics of sea surveying and bathymetry, importance of bathymetry survey, seismic 
+survey, positioning and wave and current data collection and significance of data 
+collection. 
+ Types and functions of fixed offshore structures, methodology of fabrication 
+transportation, installation and operation of fixed offshore structures, Significance and 
+types of compliant structures. 
+ The basic principles of floatation and stability of floating structures.  
+ Stability criteria of neutrally and positively buoyant structures. 
+ 
+UNIT–I 
+Distance and Direction: Objectives, Principles and classifications of Surveying, chain, tape, 
+Electronic distance measurements, Meridians Azimuths and Barings, declination, 
+computation of angle. 
+Theodolite: Theodolite, description, uses and adjustments – temporary, measurement of 
+horizontal and vertical angles. Principles of Electronic Theodolite. 
+ 
+ 
+
+UNIT-II 
+Levelling and Contouring: Concept and Terminology, Temporary - method of levelling. 
+Characteristics and Uses of contours - methods of conducting contour s urveys and their 
+plotting. 
+ 
+UNIT-III 
+Introduction to Advanced Surveying:  Total Station and Global positioning system and 
+Differential GPS. 
+Hydrographic surveying : Introduction - Shoreline Surveys - Sounding Methods 
+(Bathymetry).  
+ 
+UNIT–IV 
+Subsea surveying and Geomatics, introduction to the principles of subsea surveying and 
+geomatics is including bathymetry and seismic survey, positioning systems (surface 
+positioning, visual positioning techniques) distance from shore & water depth, generat ion of 
+surface waves in oceans, wave data collection, and current data collection. 
+ 
+UNIT–V 
+Functions of offshore structures, fixed offshore structures, types of fixed structures, 
+fabrication, transportation, installation and operation of offshore structure s, construction of 
+offshore concrete structures, definition of compliant structures, types of complaint structures. 
+Floating structures, basic hydrostatics, Centre of gravity, center of buoyancy, displacement, 
+law of floatation, draft, keel, Simpson’s rule for areas and centroids, second moments of area, 
+moments of inertia, mass moment of inertia, calculation of metacentric height, stability of 
+floating structures, definition of neutrally and positively buoyant structures. 
+ 
+TEXT BOOKS FOR UNITS I-III: 
+1. Surveying (Vol – 1, 2) ; Higher Surveying, Punmia, B.C., Ashok Kumar Jain and 
+Arun Kumar Jain , Vol 3, Laxmi Publications, 2005. 
+2. Surveying (Vol – 1 & 2), Duggal S K, Tata McGraw Hill, 2004.  
+3. Text book of Surveying, Venkataramaiah, C., Universities Press, 1996. 
+ 
+TEXT BOOKS FOR UNITS IV-VI: 
+1. Handbook of Offshore Engineering, Subrata K. Chakrabarti, Volume 1, Elsevier, 
+2005. 
+2. Ship Stability for Masters and Mates, Barrass, C. B. and D. R. Derret, 7 th Edition, 
+Butterworth-Heinemann, 2012. 
+3. Construction of Marine an d Offshore Structure, Gerwick, Jr., C., 3 rd Edition, CRC 
+Press, 2007. 
+
+PE304ES: CHEMICAL PROCESS CALCULATIONS 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+ 
+Prerequisites: Engineering Mathematics, Engineering Physics, Engineering Chemistry 
+ 
+Course Objective: To introduce calculations for both material and energy balances for 
+different industrial processes. It is prerequisite for several other courses in the curriculum, 
+including courses like process dynamics, heat transfer and thermodynamics.  
+ 
+Course Outcome: The student would be in a position to have knowledge of chemical 
+engineering calculations, which is a pre-requisite for several other courses in the syllabus.  
+ 
+UNIT-I  
+Stoichiometric & Composition relations: Stoichiometric  relation, basis of calculations, 
+methods of expressing compositions of mixtures and solutions, density and specific gravity, 
+Baume and API gravity scales. 
+Behavior of Ideal gases: Kinetic theory of gases, application of ideal gas law, gaseous 
+mixtures, gases in chemical reactions. 
+ 
+UNIT-II 
+Vapour pressure: Liquefaction and liquid state, vaporization, boiling point, effect of 
+temperature  on vapour pressure, Antoine equation, vapour pressure plots, estimation of 
+critical properties, vapour pressure of immis cible liquids and ideal solutions, Raoult’s law, 
+Non volatile solutes. 
+Humidity and Saturation: Partial saturation, Humidity - Absolute Humidity, Vaporization 
+process, Molal humidity, Relative and percentage saturation, dew point, humid heat, wet bulb 
+and dry bulb temperatures, use of humidity charts, adiabatic vaporization. 
+ 
+UNIT-III 
+Material balances: Tie substance, Yield, conversion, limiting reactant, excess reactant, 
+processes involving reactions, Material balances with the help of Stoichiometric equati ons, 
+Material balances involving drying, dissolution, & crystallization. Material balance 
+calculations for processes involving recycle, bypass and purge. 
+ 
+UNIT-IV  
+Thermo physics: Energy, energy balances, heat capacity of gases, liquid and mixture 
+solutions. Kopp’s rule, latent heats, heat of fusion and heat of vaporization, Trouton’s rule, 
+Kistyakowsky equation for non polar liquids enthalpy and its evaluation. 
+Thermo chemistry: Calculation and applications of heat of reaction, combustion, formation 
+and ne utralization, Kirchhoff’s equation, enthalpy concentration change, calculation of 
+theoretical and actual flame temperatures. 
+ 
+
+UNIT-V 
+Combustion Calculations: Introduction, fuels, calorific value of fuels, coal, liquid fuels, 
+gaseous fuels, air requirement and flue gases, combustion calculations, incomplete 
+combustion, material and energy balances, thermal efficiency calculations. 
+ 
+TEXT BOOK: 
+1. Chemical process principles, Part -I, Material and Energy Balance, Hougen O A, 
+Watson K.M. and Ragatz R.A. 2nd Edition, John Wiley and Sons, New York, 1963. 
+ 
+REFERENCE BOOKS:  
+1. Basic principles and calculations in chemical engineering by D.H. Himmelblau, 7 th 
+Ed. PHI, 2013 
+2. Stoichiometry by B.I. Bhatt and S.M. Vora  (3rd Ed.) Tata McGraw Hill publishing 
+company, Ltd. New Delhi (1996) 
+
+PE305ES: ELEMENTS OF MECHANICAL ENGINEERING 
+ 
+B. Tech. II Year I Sem.  L    T/P/D  C 
+  4     0/0/0    4 
+Prerequisites: None 
+ 
+Course Objective: To give an insight to students about the behaviour of materials under 
+external forces. The concept of stress, strain, elasticity etc. as applied to various structures 
+under loading are included.  
+ 
+Course Outcome: The student would be exposed to basic mechanical engineering 
+machinery. 
+ 
+UNIT-I 
+Stresses and strains: kinds of – stress-strains, elasticity and plasticity, Hooks law, stress –
+strain diagrams, modules of elasticity, Poisson’s ratio, linear and volumetric strain, relation 
+between E, N, and K, bars of uniform strength, compound bars and temperature stresses. 
+ 
+UNIT-II 
+Types of supports – loads – Shear force and bending moment for cantilever and simply 
+supported beams without overhanging for all types of loads.  Theory of simple bending, 
+simple bending formula,  Distribution of Flexural and Shear stress in Beam section – Shear 
+stress formula – Shear stress distribution for some standard sections. 
+ 
+UNIT-III 
+Thin cylindrical shells: stress in cylindrical shells due to internal pressures, circumferent ial 
+stress, longitudinal stress, design of thin cylindrical shells, spherical shells, change in 
+dimension of the shell due to internal pressure, change in volume of the shell due to internal 
+pressure  
+Thick Cylinders: Lame’s equation - cylinders subjected t o inside and outside pressures 
+Columns and Struts. 
+ 
+UNIT-IV 
+Internal combustion engines: classification of IC engines, basic engine components and 
+nomenclature, working principle of engines, Four strokes and two stroke petrol and diesel 
+engines, comparison of CI and SI engines, comparison of four stroke and two stroke engines, 
+simple problems such as indicated power, brake power, friction power, specific fuel 
+consumption, brake thermal efficiency, indicated thermal efficiency and mechanical 
+efficiency. 
+ 
+UNIT-V 
+Belts –Ropes and chain: belt and rope drives, velocity ratio, slip, length of  belt , open belt 
+and cross belt drives, ratio  of friction  tensions, centrifugal tension in a belt, power 
+transmitted by belts and  ropes, initial tensions in the belt, simple problems. 
+
+Gear trains: classification of gears, gear trains velocity ratio, simple, compound –reverted and 
+epicyclic gear trains.  
+ 
+TEXT BOOKS: 
+1. “Strength of Materials and Mechanics of Structures”, B.C.Punmia, Standard 
+Publications and distributions, 9 th ed. (units I – III) 
+2. Thermal Engineering, Ballaney,P.L., Khanna Publishers, 2003 (Units IV. 
+3. Theory of Machines, S.S. Rattan , Tata McGraw Hill (Units V). 
+
+PE306ES: GEOLOGY LAB 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Prerequisites: Basic knowledge of Geology 
+ 
+Course Objectives:  
+ The students should be in a position to 
+ read, understand and interpret the supplied maps 
+ understand the steps to be followed for completing any field job successfully 
+ 
+Course Outcomes: The student will be in a position to 
+ read, understand and interpret different maps like Toposheet, Structural Geology maps, 
+Stratigraphic maps, geological cross -sections, Isopach maps, Structural Contour maps 
+etc. 
+ understand how to locate own / outcrop positions on Toposheet an d how to take 
+traverse  
+ understand geological formations and measure dip and strike reading correctly in the 
+filed 
+ calculate true dip, true thickness, Oil Water Contact (OWC) from given maps 
+ explain different sediment depositional environments from stratigraphic columns 
+ 
+List of Experiments: 
+1. Study of physical properties of minerals in hand specimen 
+2. Study of common rocks with reference to their common structures, mineral 
+composition and uses. 
+3. Identification of minerals under microscopes 
+4. Identification of rocks under microscopes 
+5. Location of observed outcrops on the Toposheet. Geological mapping and 
+Traversing. 
+6. Measurement of the strike and dip in the field 
+7. Interpretation of Topographic Maps 
+8. Interpretation of Geological Maps: (1) Attitude, (2) Cross -sections, (3) 
+Unconformable beds, (4) Folded beds, (5) Faults and geological intrusions (dykes and 
+sills) 
+9. Interpretation of isopach maps 
+10. Interpretation of litho stratigraphic columns and litho stratigraphic correlation 
+11. Interpretation of structural contour map and location of Oil Water Contact (OWC)  
+12. Interpretation of isopach map and depositional model. 
+13. Estimation of Thickness, Distance, and Depth of subsurface Ore Bodies 
+  
+
+PE307ES: BASIC ENGINEERING (MECHANICAL + ELECTRICAL) LAB 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+Section A: Mechanical Engineering Laboratory: 
+ 
+Course Objective: To impart practical exposure on the performance evaluation methods of 
+various mechanical components like, I.  C. Engine, Hydraulic turbine, hydraulic pump, Air 
+compressor etc. and also understand the various processes that can be performed on a lathe 
+machine. 
+ 
+Course Outcome: The student will be able to predict the performance of several mechanical 
+components and operate a lathe machine to produce the required job work. 
+ 
+List of Experiments 
+1. Draw the valve timing diagram of a 4 -stroke diesel engine and port timing diagram of 
+a 2-stroke petrol engine. 
+2. Perform load test on a 4-stroke I.C .Engine and draw the performance curves. 
+3. Pattern design and making – for one casting drawing. 
+4. Taper turning and thread cutting on a Lathe machine. 
+5. Performance on an Impulse/Reaction Hydraulic Turbine. 
+6. Performance of Centrifugal/Reciprocating Pump. 
+7. Find the volumetric efficiency, isothermal efficiency of an Air compressor. 
+ 
+Section B: Electrical Engineering Laboratory 
+ 
+Course Objectives: This course imparts knowledge to the students to: 
+ Learn the estimation of efficiency of a DC machine as motor & generator. 
+ Learn the estimation of efficiency of transformer at different load conditions & power 
+factors. 
+ Study the performance of a 3-Phase induction motor by conducting direct test. 
+ Pre-determine the regulation of an alternator by Synchronous impedance method. 
+ Understand the speed control of a DC shunts motor. 
+ Study the performance of a DC shunts motor by conducting direct test. 
+ 
+Course Outcomes: After successful completion of the course, the students will be able to: 
+ Estimate the efficiency of a DC machine as motor & generator. 
+ Estimate the efficiency of transformer at different load conditions & power factors. 
+ Understand the performance of a 3-Phase induction motor by conducting direct test. 
+ Pre-determine the regulation of an alternator by Synchronous impedance method. 
+ Control the speed of a DC shunt motor by Field flux control method & Armature   
+Voltage control method. 
+
+ Understand the performance characteristics of a DC shunt motor by conducting direct 
+test. 
+ 
+List of Experiments: 
+1. Swinburne’s test on D.C. Shunt machine. (Predetermination of efficiency of a given 
+D.C. Shunt machine working as motor and generator).  
+2. OC and SC tests on single phase transformer (Predetermination of efficiency and 
+regulation at given power factors)  
+3. Brake test on 3-phase Induction motor (Determination of performance characteristics)  
+4. Regulation of alternator by Synchronous impedance method. 
+5. Speed control of D.C. Shunt motor by  
+a) Armature Voltage control                          b) Field flux control method 
+6. Brake test on D.C Shunt Motor 
+
+PE308ES: SURVEYING LAB 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+Prerequisites: Basic knowledge of Civil Engineering and Survey 
+Course Objectives: 
+ To have the ability for applying knowledge of mathematics, science, and engineering 
+to understand the measurement techniques and equipment used in land surveying 
+ To gain an appreciation of the need for lifelong learning through the discussion of 
+recent changes in survey procedures and equipment 
+ To have the ability  for using techniques, skills, and modern engineering tools 
+necessary for engineering practice 
+ To build the ability for working as a member of a team 
+ To understand the importance of professional licensure to protect the public in the 
+practice of land surveying. 
+ 
+Course Outcomes: After the completion of the said lab, the students will 
+ appreciate the need for accurate and thorough note taking in field work to serve as a 
+legal record 
+ gain the ability to use modern survey equipment to measure angles and distances  
+ gain a basic understanding of the principles and operation of the Global Positioning 
+System 
+ gain the ability to measure differences in elevation, draw and utilize contour plot s, 
+and calculate volumes for earthwork 
+ improve ability to function as a member of a survey party in completing the 
+assigned field work 
+ Appreciate the need for licensed surveyors to establish positioning information for 
+property and structures. 
+ 
+List of Experiments: 
+ Study of linear measuring instruments and chain surveying. 
+ Study of theodolite and traversing with theodolite,  
+ Study of levels and ordinary levelling with tilting level, Profile levelling,  
+ Study of total station and measurement with total station. 
+ Study of Global Positioning System (GPS) and measurement with GPS. 
+ Determination of distance between two inaccessible points with compass. 
+ Surveying of a given area by prismatic compass (closed traverse) and plotting after 
+adjustment 
+ Radiation method and Intersection method by plane table survey. 
+ Two point problems in plane table survey. 
+ Three point problems in plane table survey. 
+ Traversing by plane table survey. 
+ Fly levelling (differential levelling) 
+
+MC300HS: GENDER SENSITIZATION LAB 
+ 
+B.Tech. II Year I Sem.  L    T/P/D  C 
+  0     0/3/0    0 
+Course Objectives:  
+ To develop students’ sensibility with regard to issues of gender in contemporary 
+India. 
+ To provide a critical perspective on the socialization of men and women. 
+ To introduce students to information about some key biological aspects of genders. 
+ To expose the students to debates on the politics and economics of work. 
+ To help students reflect critically on gender violence. 
+ To expose students to more egalitarian interactions between men and women. 
+ 
+Course Outcomes: 
+ Students will have developed a better understanding of important issues related to 
+gender in contemporary India. 
+ Students will be sensitized to basic dimensions of the biological, sociological, 
+psychological and legal aspects of gender. This will be achieved through discussion of 
+materials derived from research, facts, everyday life, literature and film. 
+ Students will attain a finer grasp of how gender discrimination works in our society 
+and how to counter it. 
+ Students will acquir e insight into the gendered division of labour and its relation to 
+politics and economics. 
+ Men and women students and professionals will be better equipped to work and live 
+together as equals. 
+ Students will develop a sense of appreciation of women in all walks of life. 
+ Through providing accounts of studies and movements as well as the new laws that 
+provide protection and relief to women, the textbook will empower students to 
+understand and respond to gender violence. 
+ 
+UNIT – I  
+UNDERSTANDING GENDER: 
+Gender: Why Should We Study It?  (Towards a World of Equals: Unit -1) 
+Socialization: Making Women, Making Men (Towards a World of Equals: Unit -2) 
+Introduction.  Preparing for Womanhood. Growing up Male. First lessons in Caste. Different 
+Masculinities. 
+ 
+UNIT – II      
+GENDER AND BIOLOGY 
+Missing Women: Sex Selection and Its Consequences (Towards a World of Equals: Unit-4) 
+Declining Sex Ratio. Demographic Consequences. 
+Gender Spectrum: Beyond the Binary (Towards a World of Equals: Unit -10) 
+Two or Many?  Struggles with Discrimination. 
+
+UNIT – III      
+GENDER AND LABOUR  
+Housework: the Invisible Labour (Towards a World of Equals: Unit -3) 
+“My Mother doesn’t Work.”  “Share the Load.” 
+Women’s Work: Its Politics and Economics (Towards a World of Equals: Unit -7) 
+Fact and Fiction. Unrecognized and Unaccounted work. Additional Reading: Wages and 
+Conditions of Work. 
+ 
+UNIT – IV  
+ISSUES OF VIOLENCE 
+Sexual Harassment: Say No! (Towards a World of Equals: Unit -6) 
+ Sexual Harassment, not Eve -teasing- Coping with Everyday Harassmen t- Further Reading: 
+“Chupulu”.  
+Domestic Violence: Speaking Out (Towards a World of Equals: Unit -8) 
+ Is Home a Safe Place? -When Women Unite [Film]. Rebuilding Lives.  Additional Reading: 
+New Forums for Justice. 
+Thinking about Sexual Violence (Towards a World of Equals: Unit -11) 
+ Blaming the Victim -“I Fought for my Life….” - Additional Reading: The Caste Face of 
+Violence. 
+ 
+UNIT – V 
+GENDER :  CO - EXISTENCE  
+Just Relationships: Being Together as Equals (Towards a World of Equals: Unit -12) 
+Mary Kom and Onl er. Love and Acid just do not Mix. Love Letters. Mothers and Fathers. 
+Additional Reading: Rosa Parks-The Brave Heart. 
+ 
+Prescribed Textbook : All the five Units in the Textbook , “Towards a World of Equals: A 
+Bilingual Textbook on Gender”  written by A.Suneetha,  Uma Bhrugubanda, Duggirala 
+Vasanta, Rama Melkote, Vasudha Nagaraj, Asma Rasheed, Gogu Shyamala, Deepa 
+Sreenivas and Susie Tharu and published by Telugu Akademi, Hyderabad ,Telangana State 
+in the year 2015. 
+ 
+Note: Since it is an Interdisciplinar y Course, Resource Persons can be drawn from the fields 
+of English Literature or Sociology or Political Science or any other qualified faculty who has 
+expertise in this field from engineering departments. 
+ 
+REFERENCE BOOKS: 
+1. Menon, Nivedita. Seeing like a Feminist. New Delhi: Zubaan-Penguin Books, 2012  
+2. Abdulali Sohaila. “ I Fought For My Life…and Won .”Available online at: 
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal/  
+
+PE401ES: PETROLEUM GEOLOGY 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  4     0/0/0    4 
+ 
+Prerequisites: General Geology 
+ 
+Course Objective: To expose the students to different source, reservoir and cap rocks, 
+hydrocarbon migration and generation of oil and gas from sediments. 
+ 
+Course Outcome: The students will learn different source, reservoir and cap rocks, concepts 
+of porosity, permeability and their relation to hydrocarbon migration and entrapment. 
+Temperature-pressure conditions for the generation of oil and gas from organic rich 
+sediments. 
+ 
+UNIT-I 
+Source Rocks: Definition of source rock. Organic rich sediments as source rocks. Nature and 
+type of source rocks - Claystone / shale. The process of diagenesis, catagenesis and 
+metagenesis in the formation of source rocks. Evaluation of petroleum source rock potential. 
+Limestone as source rocks. Subsurface pressure temperature conditions for the generation of 
+oil and gas from the source sediments. Oil window. 
+ 
+UNIT-II 
+Reservoir Rocks: Characteristics of Reservoir rocks – classification and nomenclature: 
+Clastic Reservoir Rocks, Carbonate Reservoir Rocks, Unconventional, fractured and 
+miscellaneous reservoir rocks. Marine and non-marine reservoir rocks. 
+Reservoir pore space - porosity – primary and secondary porosity, Effective porosity, fracture 
+porosity - permeability – effective and relative permeability  Relationship between porosity, 
+permeability and texture. Cap rocks: Definition and characteristics of ‘cap Rocks’. 
+ 
+UNIT-III 
+Hydrocarbon Migration: Geological framework of migration and accumulation. The 
+concept of hydrocarbon migration from source beds to the carrier beds - Carrier beds to the 
+reservoir - Free-path ways for migration - Short distance and long dis tance migration - 
+Evidence for migration – oil and gas seepages. 
+ 
+UNIT-IV 
+Entrapment of Hydrocarbons: Entrapment and accumulation of hydrocarbons - 
+Classification and types of traps: Structural, stratigraphic and combination type of traps - 
+Traps associated with salt domes. 
+ 
+UNIT-V 
+Sedimentary Basins: Sedimentary basins -origin and classification. Types of basins and their 
+relationship to hydrocarbon prospects. Tectonic classification, stratigraphic evolution and 
+
+hydrocarbon accumulations of the following b asins: Krishna-Godavari basin, Cambay basin 
+and Mumbai off-shore 
+ 
+TEXT BOOK: 
+1. Levorsen, A.I. Geology of Petroleum, 1967, 2nd Edn., CBS, New Delhi. 
+ 
+REFERENCE BOOKS: 
+1. Richard, C. Selley, 1998. Elements of Petroleum Geology, Academic Press, London 
+2. Sedimentary basins of India- ONGC bulletin. 
+
+PE402ES: CHEMICAL ENGINEERING FLUID MECHANICS 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  4     1/0/0     4 
+ 
+Prerequisites: Engineering Mathematics, Engineering Physics 
+ 
+Course Objective: To introduce the concepts, principles, laws, observations and models of 
+fluids at rest and in motion and also to provide the basis for understanding the fluid behavior, 
+engineering design and control of fluid systems. 
+ 
+Course Outcomes: The student would be able to get  knowledge  related to compressible & 
+incompressible fluids and also transportation of fluids. 
+ 
+UNIT-I 
+Unit operations and unit processes, unit systems, basic concepts, nature of fluids, hydrostatic 
+equilibrium, applications of fluid statics. 
+Fluid flow phenomena -Laminar flow, Shear rate, Shear stress, Rheological properties of 
+fluids, Turbulence, Boundary layers, Basic equation of fluid flow –Mass balance in a flowing 
+fluid; continuity equation,  differential momentum balan ce; equations of motion, 
+Macroscopic momentum balances, Bernoulli equation, pump work in Bernoulli equation. 
+ 
+UNIT-II 
+Incompressible Flow in pipes and channels - shear stress and skin friction in pipes, laminar 
+flow in pipes and channels, turbulent flow in pipes and channels, friction from changes in 
+velocity or direction, Dimensional analysis including Buckingham π Theorem and Rayleigh’s 
+method. 
+ 
+UNIT-III 
+Flow of compressible fluids - Definitions and basic equations, Processes of compressible 
+flow, Isentropi c flow through nozzles, adiabatic frictional flow, and isothermal frictional 
+flow. 
+ 
+UNIT-IV 
+Flow past immersed bodies, Drag and Drag coefficient, friction in flow through beds of 
+solids, Kozeny -Carman, Blake -Plummer and Ergun equations, and motion of parti cles 
+through fluids.  
+Fluidization, Conditions for fluidization, Minimum fluidization velocity, Types of 
+fluidization, Expansion of fluidized beds, Applications of fluidization. Continuous 
+fluidization; slurry and pneumatic transport. 
+ 
+UNIT-V 
+Transportation and Metering of fluids - Pipes, fittings and valves, Fluid - moving machinery, 
+Fans, blowers, and compressors.  
+
+Measurement of flowing fluids - variable head meters - Orifice meter, Venturi meter, Pitot 
+tube; Area meters- Rota meter. 
+ 
+TEXT BOOKS: 
+1. Unit Operat ions of Chemical Engineering by W.L.McCabe, J.C.Smith & Peter 
+Harriot, McGraw-Hill,  7th ed, 2007 
+2. Chemical Engineering Fluid Mechanics by Ron Darby, 2 nd Edition, CRC press, 
+Taylor & Francis group,2001 
+ 
+REFERENCE BOOKS: 
+1. Transport processes and unit operations by Christie J. Geankoplis, PHI 
+2. P rinciples of Unit Operations, Foust et al, 2nd ed., John Wiley, 1999 
+3. Chemical Engineering, Vol-I, Coulson and Richardson, Pergamon Press 
+
+PE403ES: PROCESS HEAT TRANSFER 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  4     1/0/0    4 
+ 
+Prerequisites: Engineering Mathematics, Engineering Physics 
+ 
+Course Objective: The objective of this course is to understand the principles of heat 
+transfer (conduction, convection and radiation) and also principles and working of heat 
+transfer equipments. 
+ 
+Course Outcome: The student would be in a position to design of heat transfer equipments 
+which are used in the process industry. 
+ 
+UNIT-I 
+Introduction: Nature of heat flow, conduction, convection, natural  and forced convection, 
+radiation. 
+Heat transfer by conduction in Solids: Fourier’s law, thermal conductivity, steady state 
+conduction in plane wall & composite walls, compound resistances in series, heat flow 
+through a cylinder, conduction in spheres. 
+Unsteady state heat conduction: Equation for one -dimensional conduction, Semi -infinite 
+solid. 
+ 
+UNIT-II 
+Principles of heat flow in fluids: Typical heat exchange equipment, countercurrent and 
+parallel current flows, energy balances, rate of heat transfer, overa ll heat transfer coefficient, 
+electrical analogy, critical radius of insulation, logarithmic mean temperature difference, 
+variable overall coefficient, multi -pass exchangers, individual heat transfer coefficients, 
+resistance form of overall coefficient, fouling factors, classification of individual heat transfer 
+coefficients, magnitudes of heat transfer coefficients, effective coefficients for unsteady -state 
+heat transfer. 
+ 
+UNIT-III 
+Heat Transfer to Fluids without Phase change: Regimes of heat transfer in f luids, thermal 
+boundary layer, heat transfer by forced convection in laminar flow, heat transfer by forced 
+convection in turbulent flow, the transfer of heat by turbulent eddies and analogy between 
+transfer of momentum and heat, heat transfer to liquid met als, heating and cooling of fluids in 
+forced convection outside tubes. 
+ 
+UNIT-IV 
+Natural convection: Natural convection to air from vertical shapes and horizontal planes, 
+effect of natural convection in laminar-flow heat transfer.  
+Heat transfer to fluids w ith phase change: Heat transfer from condensing vapors, heat 
+transfer to boiling liquids. 
+
+Radiation: Introduction, properties and definitions, black body radiation, real surfaces and 
+the gray body, absorption of radiation by opaque solids, radiation betwee n surfaces, radiation 
+shielding, radiation to semi transparent materials, combined heat transfer by conduction, 
+convection and radiation. 
+ 
+UNIT-V 
+Heat exchange equipment: General design of heat exchange equipment, heat exchangers, 
+condensers, boilers and calendrias, extended surface equipment, heat transfer in agitated 
+vessels, scraped surface heat exchangers, heat transfer in packed beds, heat exchanger 
+effectiveness (NTU method) 
+Evaporators: Evaporators, performance of tubular evaporators, capacity and economy, 
+multiple effect evaporators, methods of feeding, vapor recompression. 
+ 
+TEXT BOOK: 
+1. Unit Operations of Chemical Engineering by W.L.McCabe, J.C.Smith & Peter 
+Harriot, McGraw-Hill,  7th ed, 2007 
+ 
+REFERENCE BOOKS: 
+1. Process Heat Transfer, D.Q. Kern, Tata McGraw-Hill, New Delhi, 1997. 
+2. Heat Transfer, 4th ed., J.P. Holman, McGraw-Hill, New York, 1976. 
+
+SM405MS: BUSINESS ECONOMICS AND FINANCIAL ANALYSIS 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  3     0/0/0    3 
+ 
+Prerequisites: None 
+ 
+Course Objective: To learn the basic Business types, impact of the Economy on Business 
+and Firms specifically. To analyze the Business from the Financial Perspective.  
+ 
+Course Outcome: The students will understand the various Forms of Business and the 
+impact of economic variables on the Business. The Demand, Supply, Production, Cost, 
+Market Structure, Pricing aspects are learnt. The Students can study the firm’s financial 
+position by analysing the Financial Statements of a Company.   
+ 
+UNIT – I  
+Introduction to Business and Economics: 
+Business: Structure of Business Firm, Theory of Firm, Types of Business Entities, Limited 
+Liability Companies,  Sources of Capital for a Company, Non -Conventional Sources of 
+Finance. 
+Economics: Significance of Economics, Micro and Macro Economic Concepts, Concepts 
+and Importance of National Income, Inflation, Money Supply in Inflation, Business Cycle, 
+Features and Phases of Business Cycle. Nature and Scope of Business Economics, Role o f 
+Business Economist,  Multidisciplinary nature of Business Economics. 
+ 
+UNIT - II  
+Demand and Supply Analysis: 
+Elasticity of Demand:  Elasticity, Types of Elasticity, Law of Demand, Measurement and 
+Significance of Elasticity of Demand, Factors affecting Elasticity of Demand, Elasticity of 
+Demand in decision making, Demand Forecasting: Characteristics of Good  Demand 
+Forecasting, Steps in Demand Forecasting, Methods of Demand Forecasting. 
+Supply Analysis: Determinants of Supply, Supply Function & Law of Supply. 
+ 
+UNIT- III  
+Production, Cost, Market Structures & Pricing:  
+Production Analysis: Factors of Production, Production Function, Production Function with 
+one variable input, two variable inputs, Returns to Scale, Different Types of Production 
+Functions. 
+Cost analysis: Types of Costs, Short run and Long run Cost Functions. 
+Market Structures : Nature of Competition, Features of Perfect  competition, Monopoly, 
+Oligopoly, Monopolistic Competition. 
+Pricing: Types of Pricing, Product Life Cycle based Pricing, Break Even Analysis, Cost 
+Volume Profit Analysis. 
+ 
+
+UNIT - IV  
+Financial Accounting:  Accounting concepts and Conventions, Accounting Equation, 
+Double-Entry system of Accounting, Rules for maintaining Books of Accounts, Journal, 
+Posting to Ledger, Preparation of Trial Balance, Elements of Financial Statements, 
+Preparation of Final Accounts. 
+ 
+UNIT -V  
+Financial Analysis through Ratios: Concept of Ratio Analysis, Liquidity Ratios, Turnover 
+Ratios, Profitability Ratios, Proprietary Ratios, Solvency, Leverage Ratios (simple problems). 
+Introduction to Fund Flow  and Cash Flow Analysis (simple problems). 
+ 
+TEXT BOOKS: 
+1. D.D.Chaturvedi, S.L.Gupta, Business Economics - Theory and Applications, 
+International Book House Pvt. Ltd. 2013. 
+2. Dhanesh K Khatri, Financial Accounting, Tata McGraw Hill, 2011. 
+3. Geethika Ghosh, Piyali Gosh, Purba Roy Choudhury , Managerial Economics, 2e, 
+Tata McGraw Hill Education Pvt. Ltd. 2012. 
+ 
+REFERENCES: 
+1. Paresh Shah, Financial Accounting for Management 2e, Oxford Press, 2015.  
+2. S.N.Maheshwari, Sunil K Maheshwari, Sharad K Maheshwari, Financial Accounting, 
+5e, Vikas Publications, 2013. 
+
+PE404ES: PETROLEUM EXPLORATION METHODS 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  3     0/0/0    3 
+ 
+Prerequisites: Basic knowledge of Geology and Petroleum Geology 
+ 
+Course Objectives: The syllabus for Petroleum Exploration should be aimed at the student 
+to have a broad knowledge of exploration history in India. The student should know what are 
+the basic methods which are used in petroleum exploration with special emphasis on 
+gravity/magnetic and more importantly the students should understand in detail about the 
+Seismic methods which are the back bone of the whole gamut of oil exploration. 
+At the same time sedimentology and biostratigraphy are also important to understand the 
+sedimentary sequences holding hydrocarbons as the knowledge of these will help in the log 
+interpretation also. 
+ 
+Course Outcomes: The outcome this is to give insight for the student to have a broad based 
+understanding of the seismic exploration, viz its acquisition methods, processing and 
+interpretation, as they have already  had geology in 2 ndyear course. The knowledge of these 
+methods will go a long way along with the other paper i.e, logging methods for them to opt 
+for upstream industry jobs if they so desire.  
+ 
+UNIT-I 
+Introduction: Overview of petroleum exploration in Indi a, Introduction to 
+Geophysical/Geological methods used in Petroleum Exploration. 
+ 
+UNIT-II 
+Sedimentlogical and biostratigraphic approaches in hydrocarbon exploration. 
+ 
+UNIT-III 
+Basic concepts of Gravity/Magnetic methods:  Newton’s gravitational law - Units of 
+gravity- Gravity measuring instruments - Gravity survey - Gravity anomalies - Gravity data 
+reduction- Drift- latitude- Elevation and free air correction - Free air &bouguer anomalies - 
+Gravity response of simple shapes - Interpretation of gravity anomalies - Application of 
+gravity methods. The geomagnetic field - Magnetic anomalies- Magnetic survey-instruments- 
+Field method of magnetic surveys - Reduction of magnetic data -Diurnal correction and 
+geomagnetic correction- Interpretation of magnetic anomaly - Response of magnetic method 
+for different type of bodies and geological structure - Application of magnetic surveys both 
+overland and from air. 
+ 
+UNIT-IV 
+Basic Concepts of seismic methods:   Seismic refraction surveys - Geometry of re fracted 
+path, planar interface - Two layer case with horizontal interface - Methodology of refraction 
+
+profiling- Recording instruments & energy sources - Corrections applied to refraction data 
+Interpretation of refraction data- Application of seismic refraction method. 
+ 
+UNIT-V 
+Geometry of reflected ray path: Single horizontal reflector- The reflection seismograph and 
+seismogram (Seismic traces)- Importance of seismic reflection survey over seismic refraction 
+survey technique- Common depth point (CDP) profiling  & stacking- 2D, 3D, & 4D seismic 
+surveys- Field procedures & principles - Time corrections applied to seismic data - Data 
+processing - Introduction to 2D & 3D data acquisition &interpretationof reflection data for 
+identification of drillable structures. 
+Well  seismic  shooting  for  velocity  determination  and  Vertical  Seismic  Profiling (VSP).  
+ 
+Text Books: 
+1. Introduction to Geophysical Prospecting, Milton B. Dobrin, and Carl H. Savit, 
+4
+th
+Edition, McGraw Hill, 1988. 
+2. Outlines of Geophysical Prospecting: A Manual for Geologists,  M.B. Ramachandra 
+Rao, EBD Educational Pvt Ltd., 1993. 
+3. Field Geophysics, John Milsom and Asger Eriksen, 4
+th 
+Edition, John Wiley, 2011.   
+ 
+Reference Books: 
+1. Elements of Geology: Oil and Gas Explora tion Techniques, J. Guillemot, Technip 
+1991. 
+2. Hydrocarbon well logging recommended practice, Society of professional well log 
+analysts. 
+3. Open – Hole log analysis and formation evaluation, Richard M. Batemons , 
+International Human Resources Development Corporation, Bostan, 1985. 
+4. Well Logging for Earth Scientists, Darwin V. Ellis, Julian M. Singer, Springer, 2007. 
+5. Fundamentals of Well Log Interpretation: The Acquisition of Data, Oberto Serra, 
+Elsevier, 1984. 
+6. Well Logging Handbook, Oberto Serra, Editions Technip, 2008. 
+
+PE406ES: CHEMICAL ENGINEERING FLUID MECHANICS LAB 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Prerequisites: Basic knowledge of Fluid Mechanics 
+ 
+Course Objectives: The lab provides knowledge on various flow patterns, flow measuring 
+devices and pumps. 
+ 
+Course Outcomes: Student will be able to understand the concept of fluid flow phenomena, 
+different flow regimes, flow measuring devices like venturi, orifice and rotameter. 
+ 
+List of Experiments 
+1. Identification of laminar and turbulent flows  
+     Major equipment - Reynolds apparatus  
+2. Measurement of point velocities  
+    Major equipment - Pitot tube setup 
+3. Verification of Bernoulli’s equation 
+     Major equipment – Bernoulli’s Apparatus 
+4. Calibration of Rotameter 
+     Major equipment – Rotameter Assembly 
+5. Variation of Orifice coefficient with Reynolds Number 
+    Major equipment - Orifice meter Assembly 
+6. Determination of Venturi coefficient 
+    Major equipment – Venturi meter Assembly 
+7. Friction losses in Fluid flow in pipes 
+    Major equipment -  Pipe Assembly with provision for Pressure measurement  
+8. Pressure drop in a packed bed for different fluid velocities 
+     Major equipment - Packed bed with Pressure drop measurement 
+9. Pressure drop and void fraction in a fluidized bed 
+     Major equipment - Fluidized bed with Pressure drop measurement 
+10. Studying the coefficient of contraction for a given open orifice 
+     Major equipment - Open Orifice Assembly  
+11. Studies of performance characteristics of a Reciprocating Pump 
+12. Studying the Characteristics of a centrifugal pump 
+     Major equipment - Centrifugal Pump  
+
+PE407ES: PROCESS HEAT TRANSFER LAB 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Prerequisites: Basic knowledge of Process Heat Transfer 
+ 
+Course Objectives: This lab will provide practical knowledge on various heat transfer 
+process and equipment like heat exchangers and evaporators 
+ 
+Course Outcomes: The student will be able to understand the thermal conductivity 
+measurement, heat transfer coefficient, calculation in natural and forced convection and some 
+of the radiation aspects. 
+ 
+List of Experiments 
+1. Determination of total thermal resistance and thermal conductivity of composite wall. 
+       Major equipment - Composite wall Assembly 
+2. Determination of thermal conductivity of a metal rod. 
+      Major equipment - Thermal Conductivity apparatus 
+3. Determination of natural convective heat transfer coefficient for a vertical tube. 
+     Major equipment - Natural convection heat transfer apparatus  
+4. Determination of critical heat flux point for pool boiling of water. 
+    Major equipment- Pool boiling apparatus 
+5. Determination of forced convective heat transfer coefficient for air flowing through a pipe 
+      Major equipment – Forced convection heat transfer apparatus 
+6. Determination of overall heat transfer coefficient in double pipe heat exchanger.  
+     Major equipment - Double pipe heat exchanger apparatus 
+7.  Determination of heat transfer coefficient for a helical coil in an agitated vessel. 
+     Major equipment – Helical coil in a agitated vessel. 
+8. Study of the temperature distribution along the length of a pin -fin under natural and forced 
+convection conditions 
+     Major equipment - Pin fin apparatus 
+9. Estimation of un -steady state film heat transfer coefficient between the medium in which 
+the body is cooled. 
+     Major equipment - Heat transfer coefficient determination  apparatus 
+10. Determination of Stefan – Boltzmann constant.  
+      Major equipment - Stefan Boltzmann apparatus 
+11. Determination of emissivity of a given plate at various temperatures. 
+      Major equipment - Emissivity determination apparatus 
+12. Determination of overall heat transfer coefficient in 1-2 heat exchanger.  
+      Major equipment - 1-2 heat exchanger 
+
+PE408ES: MATHEMATICAL METHODS FOR PETROLEUM ENGINEERS LAB 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  0     0/3/0    2 
+ 
+Prerequisites: Mathematical Methods 
+ 
+Course Objectives: The Lab emphasizes on writing MATLAB code, execution and doing 
+what if analysis of the variations in the parameters for the given problems. 
+ 
+Course Outcomes: The Students will be able to  
+ apply mathematical methods to Petroleum Engineering Problems. 
+ write code in MATLAB. 
+ 
+List of problems: 
+1. Determination of Molar volume and Compressibility from Redlich-Kwong Equation 
+2. Calculation of flow rate in a pipeline 
+3. Correlation of the physical properties 
+4. Compressibility factor variation from vanderwaals equation 
+5. Isothermal compression of gas using Redlich-Kwong Equation of state 
+6. Thermodynamic properties of steam from Redlich-Kwong Equation 
+7. Solution of Stiff Ordinary Differential Equations 
+8. Iterative Solution of ODE boundary value problem 
+9. Shooting method for solving two-point boundary value problems 
+10. Expediting the solution of systems of nonlinear algebraic equations 
+11. Solving differential algebraic equations –DAEs 
+12. Method of lines for Partial Differential Equations 
+13. Estimating model parameters involving ODEs using fermentation data 
+ 
+TEXTBOOK: 
+1. Problem solving in Chemical and Biochemical Engineering with POLYMATH, Excel 
+and MATLAB by Michael B. Cutlip and Mordechai Shacham, Prentice Hall, 2008. 
+
+MC400ES: ENVIRONMENTAL STUDIES 
+ 
+B.Tech. II Year II Sem.  L    T/P/D  C 
+  3     0/0/0    0 
+ 
+Course Objectives: 
+1. Understanding the importance of ecological balance for sustainable development. 
+2. Understanding the impacts of developmental activities and mitigation measures. 
+3. Understanding the environmental policies and regulations  
+ 
+Course Outcomes:  
+1. Based on this course, the Engineering graduate will understand /evaluate / develop 
+technologies on the basis of ecological principles and environmental regulations 
+which in turn helps in sustainable development 
+ 
+UNIT-I  
+Ecosystems: Definition, Scope and Importance of ecosystem. Classification, structure, and 
+function of an ecosystem, Food chains, food webs, and ecological pyramids.  Flow of energy, 
+Biogeochemical cycles, Bioaccumulation, Biomagnification, ecosystem value, services and 
+carrying capacity, Field visits. 
+ 
+UNIT-II   
+Natural Resources: Classification of Resources:  Living and Non-Living resources, water 
+resources: use and over utilization of surface and ground water, floods and droughts, Dams: 
+benefits and problems. Mineral resources:  use and exploitation, environmental effects of 
+extracting and using mineral resources, Land resources:  Forest resources,  Energy 
+resources: growing energy needs, renewable and non renewable energy sources, use of 
+alternate energy source, case studies.  
+ 
+UNIT-III  
+Biodiversity And Biotic Resources: Introduction, Definition, genetic, species and ecosystem 
+diversity. Value of biodiversity; consu mptive use, productive use, social, ethical, aesthetic 
+and optional values. India as a mega diversity nation, Hot spots of biodiversity. Field visit. 
+Threats to biodiversity: habitat loss, poaching of wildlife, man -wildlife conflicts; 
+conservation of biodiversity: In-Situ and Ex-situ conservation.  National Biodiversity act.  
+ 
+UNIT-IV  
+Environmental Pollution and Control Technologies: Environmental Pollution:  
+Classification of pollution, Air Pollution: Primary and secondary pollutants, Automobile and 
+Industrial pollution, Ambient air quality standards. Water pollution:  Sources and types of 
+pollution, drinking water quality standards. Soil Pollution:  Sources and types, Impacts of 
+modern agriculture, degradation of soil. Noise Pollution: Sources and Health ha zards, 
+standards, Solid waste: Municipal Solid Waste management, composition and characteristics 
+
+of e -Waste and its management. Pollution control technologies:   Wastewater Treatment 
+methods: Primary, secondary and Tertiary.  
+Overview of air pollution contr ol technologies, Concepts of bioremediation. Global 
+Environmental Problems and Global Efforts: C limate change and impacts on human 
+environment. Ozone depletion and Ozone depleting substances (ODS). Deforestation and 
+desertification.  International conventi ons / Protocols: Earth summit, Kyoto protocol, and 
+Montréal Protocol.  
+ 
+UNIT-V  
+Environmental Policy, Legislation & EIA: Environmental  Protection act, Legal aspects 
+Air Act- 1981, Water Act, Forest Act, Wild life Act,  Municipal solid waste management and  
+handling rules, biomedical waste management  and handling rules, hazardous waste 
+management and handling rules. EIA: EIA structure, methods of baseline data acquisition. 
+Overview on Impacts of air, water, biological and Socio -economical aspects. Strategie s for 
+risk assessment, Concepts of Environmental Management Plan (EMP). Towards 
+Sustainable Future: Concept of Sustainable  Development, Population and its explosion, 
+Crazy Consumerism, Environmental Education,  Urban Sprawl, Human health, 
+Environmental Et hics, Concept of Green Building, Ecological Foot Print, Life Cycle 
+assessment (LCA), Low carbon life style. 
+ 
+TEXT BOOKS: 
+1 Textbook of Environmental Studies for Undergraduate Courses by Erach Bharucha 
+for University Grants Commission. 
+2 Environmental Studies by R. Rajagopalan, Oxford University Press. 
+ 
+REFERENCE BOOKS: 
+1. Environmental Science: towards a sustainable future by Richard T. Wright. 2008 PHL 
+Learning Private Ltd. New Delhi. 
+2. Environmental Engineering and science by Gilbert M.  Masters and Wendell P. Ela  . 
+2008 PHI Learning Pvt. Ltd.  
+3. Environmental Science by Daniel B.  Botkin & Edward A.  Keller, Wiley INDIA 
+edition. 
+4. Environmental Studies by Anubha Kaushik, 4 th Edition, New age international 
+publishers. 
+5. Text book of Environmental Science and Technology -  Dr. M. Anji Reddy 2007, BS 
+Publications. 
+

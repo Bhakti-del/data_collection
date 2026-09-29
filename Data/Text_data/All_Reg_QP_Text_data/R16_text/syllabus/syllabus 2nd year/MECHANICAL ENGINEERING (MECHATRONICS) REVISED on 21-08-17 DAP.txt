@@ -1,0 +1,1041 @@
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. MECHANICAL ENGINEERING (MECHATRONICS) 
+ 
+COURSE STRUCTURE & SYLLABUS (2016-17) 
+ 
+ 
+II YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 MA301BS Mathematics - IV  4 1 0 4 
+2 ME303ES Mechanics of Solids 3 0 0 3 
+3 MT302ES Electronic Circuits 3 0 0 3 
+4 MT304ES Thermal Science 4 0 0 4 
+5 ME305ES Metallurgy & Material Science 4 0 0 4 
+6 ME307ES Mechanics of Solids Lab 0 0 3 2 
+7 MM308ES Metallurgy Lab 0 0 3 2 
+8 EC306ES Electronic Devices & Circuits Lab  0 0 3 2 
+9 *MC300HS Gender Sensitization Lab 0 0 3 0 
+  Total Credits 18 0 12 24 
+ 
+ 
+II YEAR II SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 MT401ES Electrical Engineering 4 0 0 4 
+2 MT402ES Fluid Mechanics & Heat Transfer 4 0 0 4 
+3 ME402ES Kinematics of Machinery  4 1 0 4 
+4 SM405MS Business Economic and Financial Analysis 3 0 0 3 
+5 EC401ES Switching Theory and Logic Design 3 0 0 3 
+6 ME407ES Fluid Mechanics and Hydraulic Machines Lab 0 0 3 2 
+7 MT406ES Thermal Engineering Lab 0 0 3 2 
+8 MT408ES Electrical Engineering Lab 0 0 3 2 
+9 *MC400ES Environmental Science and Technology 3 0 0 0 
+  Total Credits  21 1 9 24 
+ 
+  
+
+MA301BS: MATHEMATICS - IV 
+(Complex Variables and Fourier Analysis) 
+  
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  4     1    0    4 
+Prerequisites: Foundation course (No Prerequisites). 
+ 
+Course Objectives: To learn  
+ differentiation and integration of complex valued functions 
+ evaluation of integrals using Cauchy’s integral formula 
+ Laurent’s series expansion of complex functions 
+ evaluation of integrals using Residue theorem 
+ express a periodic function by Fourier series and a non -periodic function by Fourier 
+transform  
+ to analyze the displacements of one dimensional wave and distribution of one 
+dimensional heat equation 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ analyze the complex functions with reference to their ana lyticity, integration using 
+Cauchy’s integral theorem 
+ find the Taylor’s and Laurent’s series expansion of complex functions 
+ the bilinear transformation 
+ express any periodic function in term of sines and cosines 
+ express a non-periodic function as integral representation 
+ analyze one dimensional wave and heat equation 
+ 
+UNIT – I 
+Functions of a complex variable: Introduction, Continuity, Differentiability, Analyticity, 
+properties, Cauchy, Riemann equations in Cartesian and polar coordinates . Harmonic and 
+conjugate harmonic functions-Milne-Thompson method 
+ 
+UNIT - II 
+Complex integration: Line integral, Cauchy’s integral theorem, Cauchy’s integral formula, 
+and Generalized Cauchy’s integral formula, Power series: Taylor’s series - Laurent series, 
+Singular point s, isolated singular points, pole of order m – essential singularity, Residue, 
+Cauchy Residue theorem (Without proof). 
+ 
+UNIT–III  
+Evaluation of Integrals: Types of real integrals: 
+(a) Improper real integrals ( )f x dx
+
+
+   (b) 
+2
+(cos ,sin )
+c
+c
+f d
+
+  
+
+  
+Bilinear transformation- fixed point- cross ratio- properties- invariance of circles. 
+ 
+
+UNIT – IV  
+Fourier series and Transforms: Introduction, Periodic functions, Fourier series of periodic 
+function, Dirichlet’s conditions, Even and odd functions, Change of interval, Half range sine 
+and cosine series. 
+Fourier integral theorem (without proof), Fourier sine and cosine integrals, sine and cosine, 
+transforms, properties, inverse transforms, Finite Fourier transforms. 
+ 
+UNIT–V  
+Applications of PDE: Classification of second order partial differential equations, method of 
+separation of variables, Solution of one dimensional wave and heat equations. 
+ 
+TEXT BOOKS: 
+1. A first course in complex analysis with applications by Dennis G. Zill and Patrick 
+Shanahan, Johns and Bartlett Publishers. 
+2. Higher Engineering Mathematics by Dr. B. S. Grewal, Khanna Publishers. 
+3. Advanced engineering Mathematics  with MATLAB by Dean G. Duffy 
+ 
+REFERENCES: 
+1. Fundamentals of Complex Analysis by Saff, E. B. and A. D. Snider, Pearson. 
+2. Advanced Engineering Mathematics by Louis C. Barrett, McGraw Hill. 
+  
+
+ME303ES: MECHANICS OF SOLIDS 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  3     0    0    3 
+ 
+UNIT – I 
+Simple Stresses & Strains: Elasticity and plasticity – Types of stresses & strains –Hooke’s 
+law– stress – strain diagram for mild steel – Working stress – Factor of safety – Lateral strain, 
+Poisson’s ratio & volumetric strain – Elastic moduli & the relationship between them – Bars 
+of varying section – composite bars – Temperature stresses. Strain energy – Resilience – 
+Gradual, sudden, impact and shock loadings. 
+ 
+UNIT – II 
+Shear Force and Bending Moment : Definition of beam – Types of bea ms – Concept of 
+shear force and bending moment – S.F and B.M diagrams for cantilever, simply supported 
+and overhanging beams subjected to point loads, u.d.l., uniformly varying loads and 
+combination of these loads – Point of contra flexure – Relation between S.F., B.M and rate of 
+loading at a section of a beam. 
+ 
+UNIT – III 
+Flexural Stresses : Theory of simple bending – Assumptions – Derivation of bending 
+equation: M/I = f/y = E/R Neutral axis – Determination bending stresses – section modulus of 
+rectangular and circular sections (Solid and Hollow), I, T, Angle and Channel sections – 
+Design of simple beam sections. 
+Shear Stresses: Derivation of formula – Shear stress distribution across various beams 
+sections like rectangular, circular, triangular, I, T angle sections. 
+ 
+UNIT - IV 
+Principal Stresses and Strains: Introduction – Stresses on an inclined section of a bar under 
+axial loading – compound stresses – Normal and tangential stresses on an inclined plane for 
+biaxial stresses – Two perpendicular normal stre sses accompanied by a state of simple shear 
+– Mohr’s circle of stresses – Principal stresses and strains – Analytical and graphical 
+solutions. 
+Theories of Failure : Introduction – Various theories of failure - Maximum Principal Stress 
+Theory, Maximum Princi pal Strain Theory, Strain Energy and Shear Strain Energy Theory 
+(Von Mises Theory).  
+ 
+UNIT – V 
+Torsion of Circular Shafts : Theory of pure torsion – Derivation of Torsion equations : T/J 
+= q/r = Nθ/L – Assumptions made in the theory of pure torsion – Torsional moment of 
+resistance – Polar section modulus – Power transmitted by shafts – Combined bending and 
+torsion and end thrust – Design of shafts according to theories of failure. 
+
+Thin Cylinders: Thin seamless cylindrical shells – Derivation of formula for longitudinal 
+and circumferential stresses – hoop, longitudinal and Volumetric strains – changes in dia, and 
+volume of thin cylinders– Thin spherical shells. 
+ 
+TEXT BOOKS: 
+1. Strength of materials – R.S. Kurmi and Gupta. 
+2. Solid Mechanics, by Popov 
+3. Strength of Materials – Ryder. G.H.; Macmillan Long Man Pub. 
+4. Strength of Materials – W.A. Nash, TMH 
+ 
+REFERENCES: 
+1. Strength of Materials -By Jindal, Umesh Publications. 
+2. Analysis of structures by Vazirani and Ratwani. 
+3. Mechanics of Structures Vol –I by H . J. Shah and S. B. Junnarkar, Charotar 
+Publishing House Pvt. Ltd. 
+4. Strength of Materials by D.S Prakash Rao, Universities Press Pvt. Ltd. 
+5. Strength of Materials by S. S. Rattan, Tata McGraw Hill Education Pvt. Ltd. 
+6. Fundamentals of Solid Mechanics by M. L. Gambhir, PHI Learning Pvt. Ltd 
+7. Strength of Materials by R.K Rajput, S. Chand & Company Ltd. 
+  
+
+MT302ES: ELECTRONIC CIRCUITS 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  3     0    0    3 
+ 
+Course Objectives:  
+ To understand the operation, design and analysis of single stage amplifiers using BJT 
+& FET. 
+ To understand the concept of feedback amplifiers, large signal amplifiers and 
+oscillators. 
+ To understand the operation of wave shaping circuits. 
+ To understand the switching characteristics of diode and transistor. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Apply the knowledge of BJT to design practical amplifier circuits. 
+ Design electronic subsystems such as feedback amplifiers, oscillators and power 
+amplifiers to meet the required specifications. 
+ Design wave shaping circuits with different inputs. 
+ 
+UNIT - I   
+Single Stage Amplifiers:  Review of CE, CB &  CC configurations, Classification of 
+Amplifiers, analysis of transistor amplifier using h -parameter model, analysis of CE, CB & 
+CC amplifiers using exact and approximate model (simplified model), comparison of CE, CB 
+& CC amplifiers, distortion in amplifi ers, low frequency analysis, low frequency response of 
+BJT amplifiers & FET amplifiers, UJT and its characteristics. 
+ 
+UNIT - II   
+Feedback Amplifiers: Concept of feedback, types of feedback amplifiers, general 
+characteristics of negative feedback amplifiers, effect of feedback on amplifier 
+characteristics, voltage series feedback amplifier, voltage shunt feedback amplifier, current 
+series feedback amplifier, current shunt feedback amplifier feedback configurations. 
+Illustrative problems and applications of feedback amplifier. 
+ 
+UNIT - III  
+Stability & Oscillators: Classification of oscillators – sinusoidal oscillators, resonant 
+oscillators, condition for oscillations (Barkhausen Criterion), generalized analysis of LC 
+Oscillators – Hartley oscillator, Colpitt’s oscillator, Clapp oscillator and crystal oscillator, RC 
+Oscillators – RC Phase shift oscillator, Wien -bridge oscillator, frequency and amplitude 
+stability of oscillators and applications of oscillators. 
+ 
+UNIT - IV  
+Large Signal Amplifiers:  Introduction, classification of power amplifiers, class – A power 
+amplifier, maximum efficiency of class – A amplifier, transformer coupled amplifier, class – 
+B amplifier, transformer coupled push pull amplifier, complimentary symmetry amplifier, 
+
+transistor power dissipation, thermal runaway, thermal stability and heat sinks, application of 
+large signal amplifiers. 
+ 
+UNIT - V  
+Switching Characteristics of Devices & Wave Shaping Circuits:  DIODE as a switch, 
+piecewise linear diode characteristics, transistor as a switch, breakdown voltage consideration 
+of transistor, design of transistor switch, transistor switching times. 
+ 
+Clippers & Clamp ers: Diode clippers, transistor clippers, clipping at two independent 
+levels, transfer characteristics of clippers, comparators, clamping circuits using diode with 
+different inputs, clamping circuit theorem, practical clamping circuits and applications of 
+clippers and clampers. 
+ 
+TEXT BOOKS: 
+1. Electronic Devices and Circuit Theory – R. L. Boylestad and Louis Nashelsky, 10 
+Ed., 2009, PEI/PHI. 
+2. Electronic Devices and Circuits – S. Salivahanan, N. Suresh Kumar, A. Vallavaraj, 2 
+Ed., 2008, TMH. 
+3. “Solid State Pulse Circuits - David A. Bell, 4th Ed, 2007, PHI. 
+ 
+REFERENCE BOOKS: 
+1. Introductory Electronic Devices and Circuits – Robert T. Paynter, 7th Ed, 2009, PEI 
+2. Electronic Devices and Circuits – Anil K. Maini, Varsha Agarwal, 1 Ed., 2009, Wiley 
+India Pvt. Ltd. 
+3. Pulse Digital & Switching Waveforms – Jacob Millman, Harbert Taub and Mothiki S 
+Prakash Rao, 2nd Ed, 2008, TMH. 
+  
+
+MT304ES: THERMAL SCIENCE  
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                4     0    0    4 
+UNIT - I 
+Introduction: Basic Concepts: System, Control Volume, Surrounding, Boundaries, 
+Universe, Types of Systems,  Macroscopic and Microscopic viewpoints,  Concept  of  
+Continuum,  Thermodynamic Equilibrium, State Property, Process, Cycle – Reversibility – 
+Quasi – static Process, Irreversible Process Work and Heat, Point and Path function. 
+ 
+UNIT - II 
+Zeroth  Law  of  Thermodynamics: Concept  of  quality  of  Temperature  –  Principles  of  
+Thermometry  – Reference Points – Const. Volume gas Thermometer – Scales of 
+Temperature, Ideal Gas Scale – PMM I - Joule’s Experiments – First law of Thermodynamics 
+– Corollaries – First law applied to a Pr ocess – applied to a  flow system – Steady Flow 
+Energy Equation. Limitations of the First Law 
+ 
+UNIT – III 
+Second Law of Thermodynamics: Kelvin-Planck and Clausius Statements and their 
+Equivalence / Corollaries, PMM  of  Second  kind,  Carnot’s  principle,  Carnot  cycle  and  
+its  specialties,  Thermodynamic  scale  of Temperature, Clausius Inequality, Entropy, 
+Principle of Entropy Increase – Energy Equation, S tatement of Third Law of 
+Thermodynamics. 
+ 
+UNIT - IV 
+Power Cycles: Otto, Diesel, Dual Combustion cycles, –  Description, and representation on 
+P–V and T-S diagram, Thermal Efficiency, Mean Effective Pressures on Air standard basis 
+– comparison with Ideal and Actual Cycles. 
+ 
+UNIT - V 
+I.C. Engines: Classification – Two & Four Stroke Engines, Working principles, Valve and 
+Port Timing Diagrams, - Types Engine arrangement systems. Fuels used, Modes of fuel 
+Admission to engine cylinder, carburetor, Fuel Injector, Ignition, Cooling and Lubrication 
+systems. 
+ 
+TEXT BOOKS: 
+1. Thermal Engineering / Rajput / Lakshmi Publications 
+2. Engineering Thermodynamics – P.K Nag, TMH 
+3. I.C. Engines – V. Ganesan, TMH 
+4. Thermal Sciences – Merle C. Potter, Elaine P. Scott, Cengage Learning 
+REFERENCE BOOKS: 
+1. Engineering Thermodynamics – Jones & Dugan 
+2. Thermodynamics – An Engineering Approach – Yunus Cengel & Boles /TMH 
+3. Thermodynamics – J. P. Holman / Mc Graw Hill 
+4. An introduction to Thermodynamics / YVC Rao / University Press  
+
+ME305ES: METALLURGY AND MATERIALS SCIENCE 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  4     0    0    4 
+ 
+UNIT – I 
+Structure of Metals: Crystallography, Miller’s indices, Packing Efficiency, Density 
+calculations. Grains and Grain Boundaries. Effect of grain size on the properties. 
+Determination of grain size by different methods . Constitution of Alloys: Necessity of 
+alloying, Types of solid solutions, Hume - Rothery rules, Intermediate alloy phases. 
+ 
+UNIT –II 
+ Phase Diagrams: Construction and interpretation of phase diagrams, Phase rule. Lever rule. 
+Binary phase Diagrams, Isomorphous, Eutectic and Eutectoid transformations with examples.  
+ 
+UNIT – III 
+Engineering Materials –I Steels: Iron -Carbon Phase Diagram and Heat Treatment: 
+Study of Fe -Fe3C phase diagram. Construction of TTT diagrams. Annealing, Normalizing, 
+Hardening, and Tempering of steels, Hardenability. Alloy steels. 
+ 
+UNIT –IV 
+Engineering Materials –II: Cast Irons:  Structure and properties of White Cast iron, 
+Malleable Cast iron, Grey cast iron. Engineering Materials-III: Non-ferrous Metals and 
+Alloys: Structure and properties of copper and its alloys, Aluminium and its alloys, Al -Cu 
+phase diagram, Titanium and its alloys. 
+ 
+UNIT – V 
+Engineering Materials –IV: Ceramics, Polymers and Composites: Crystalline ceramics, 
+glasses, cermets: structure, properties and applications. Classification, properties, and 
+applications of composites. Classification, Properties, and applications of Polymers.  
+ 
+TEXT BOOKS: 
+1. Material Science and Metallurgy/ Kodgire 
+2. Essentials of Materials Science and engineering / Donald R. Askeland / Thomson. 
+ 
+REFERENCES: 
+1. Introduction to Physical Metallurgy / Sidney H. Avner. 
+2. Materials Science and engineering / William and callister. 
+3. Elements of Material science / V. Rahghavan 
+4. Engineering Material and Metallurgy – Er Amandeep Singh Wadhva   
+5. Materials Science for Engineering Students- Traugott Fischer 2009 Edition. 
+  
+
+ME307ES: MECHANICS OF SOLIDS LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  0     0    3    2 
+ 
+Course Objectives: 
+The objective is to learn the fundamental concepts of stress, strain, and deformation of solids 
+with applications to bars, beams, and columns. Detailed study of engineering properties of 
+materials is also of interest. Fundamentals of applying equilibrium, compatibility, and force -
+deformation relationships to structural elements are emphasized. The students are introduced 
+to advanced concepts of flexibility and stiffness method of structural analysis. The course 
+builds on the fundamental concepts of engineering mechanics course. 
+ 
+The students will advance the students’ development of the following broad capabilities: 
+1. Students will be able to understand basic concepts of stress, strain and their relations 
+based on linear elasticity. Material behaviors due to different types of loading will  be 
+discussed. 
+2. Students will be able to understand and know how to calculate stresses and 
+deformation of a bar due to an axial loading under uniform and non -uniform 
+conditions. 
+3. Students will understand how to develop shear -moment diagrams of a beam and fin d 
+the maximum moment/shear and their locations  
+4. Students will understand how to calculate normal and shear stresses on any cross -
+section of a beam. Different cross -sections (including I -beam) will be discussed and 
+applied Continuous Assessment Test 10 marks Mid Semester Test 15 marks End  
+ 
+Course Outcomes 
+1. Analyze the behavior of the solid bodies subjected to various types of loading. 
+2. Apply knowledge of materials and structural elements to the analysis of simple 
+structures. 
+3. Undertake problem identification, formulation and solution using a range of analytical 
+methods 
+4. Analyze and interpret laboratory data relating to behavior of structures and the 
+materials they are made of, and undertake associated laboratory work individually and 
+in teams.  
+5. Expectation and capacity to undertake lifelong learning. 
+ 
+Any 10 experiments from the following  
+ 
+1. Direct tension test 
+2. Bending test on Simple supported beam 
+3   Bending test on Cantilever beam 
+4. Torsion test 
+5.  Brinell hardness test 
+
+6. Rockwell hardness test 
+7. Test on springs 
+8. Compression test on cube 
+9.  Izod Impact test 
+10 .Charpy Impact test 
+11. Punch shear test 
+  
+
+MM308ES: METALLURGY LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  0     0    3    2 
+ 
+Conduct any 10 experiments: 
+1. Study of Metallographic Specimen preparation  
+2. Study of the Micro Structure of pure ferrous metals  
+3. Study of the Micro Structure of pure Non ferrous metals  
+4. Study of the Microstructure of plain carbon steels. 
+5. Study of the Micro Structures of Cast Irons. 
+6. Study of the Micro Structures of Non-Ferrous alloys. 
+7. To carry out the annealing treatment to the given plain carbon steel and study of the 
+Micro structures and hardness 
+8. To carry out the Nor malizing treatment to the given plain carbon steel and study of 
+the Micro structures and hardness  
+9. To carry out the Hardening treatment to the given plain carbon steel and study of the 
+Micro structures and hardness  
+10. To carry out the tempering treatment to the given hardened plain carbon steel and 
+study of the Micro structures and hardness  
+11. Determine Hardenability of a given steels by Jominy End Quench Test. 
+  
+
+EC306ES: ELECTRONIC DEVICES AND CIRCUITS LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  0     0    3    2 
+Course Objectives:  
+ To identify various components and testing of active devices. 
+ To study and operation of millimeters, function generators ,regulated power supplies 
+and  CRO  To know the characteristics of various active devices. 
+ To study frequency response amplifier. 
+ 
+Course Outcomes:  
+ After Completion of the course the student is able to Apply various devices to real 
+time problems. 
+ Compute frequency response of various amplifiers. 
+ 
+PART A: (Only for Viva-voce Examination) 
+ 
+Electronic Workshop Practice (In 3 Lab Sessions): 
+1. Identification, Specifications, Testing of R, L, C Components (Color Codes), 
+Potentiometers, Switches (SPDT, DPDT, and DI P), Coils, Gang Condensers, Relays, 
+Bread Boards, PCB’s 
+2. Identification, Specifications and Testing of Active Devices, Diodes, BJT’s, Low 
+power JFET’s, MOSFET’s, Power Transistors, LED’s, LCD’s, SCR, UJT. 
+3. Study and operation of 
+i. Multimeters (Analog and Digital) 
+ii. Function Generator 
+iii. Regulated Power Supplies 
+iv. CRO. 
+PART B: (For Laboratory Examination – Minimum of 10 experiments) 
+1. Forward & Reverse Bias Characteristics of PN Junction Diode. 
+2. Zener diode characteristics and Zener as voltage Regulator. 
+3. Input & Outp ut Characteristics of Transistor in CB Configuration and h -parameter 
+calculations. 
+4. Input & Output Characteristics of Transistor in CE Configuration and h -parameter 
+calculations. 
+5. Half Wave Rectifier with & without filters. 
+6. Full Wave Rectifier with & without filters. 
+7. FET characteristics. 
+8. Design of Self-bias circuit. 
+9. Frequency Response of CC Amplifier. 
+10. Frequency Response of CE Amplifier. 
+11. Frequency Response of Common Source FET amplifier. 
+12. SCR characteristics. 
+13. UJT Characteristics 
+
+PART C: Equipment required for Laboratory: 
+1. Regulated Power supplies (RPS)  : 0-30 V 
+2. CRO’s          : 0-20 MHz. 
+3. Function Generators                     : 0-1  MHz. 
+4. Multimeters 
+5. Decade Resistance Boxes/Rheostats 
+6. Decade Capacitance Boxes 
+7. Ammeters (Analog or Digital)       : 0-20 µA, 0-50µA, 0-100µA, 0-200µA,10 mA. 
+8. Voltmeters (Analog or Digital)      : 0-50V, 0-100V, 0-250V 
+9. Electronic Com ponents          : Resistors, Capacitors, BJTs, LCDs, SCRs, UJTs, 
+FETs, LEDs, MOSFETs, Diodes -Ge & Si type, 
+Transistors – NPN, PNP type. 
+  
+
+MC300HS: GENDER SENSITIZATION LAB 
+ 
+B.Tech. II Year I Sem.                                      L    T    P   C 
+                              0     0    3    0 
+Course Objectives:  
+ To develop students’ sensibility with regard to issues of gender in contemporary 
+India. 
+ To provide a critical perspective on the socialization of men and women. 
+ To introduce students to information about some key biological aspects of genders. 
+ To expose the students to debates on the politics and economics of work. 
+ To help students reflect critically on gender violence. 
+ To expose students to more egalitarian interactions between men and women. 
+ 
+Course Outcomes: 
+ Students will have developed a better understanding of important issues related to 
+gender in contemporary India. 
+ Students will be sensiti zed to basic dimensions of the biological, sociological, 
+psychological and legal aspects of gender. This will be achieved through discussion of 
+materials derived from research, facts, everyday life, literature, and film. 
+ Students will attain a finer grasp of how gender discrimination works in our society 
+and how to counter it. 
+ Students will acquire insight into the gendered division of labour and its relation to 
+politics and economics. 
+ Men and women students and professionals will be better equipped to work  and live 
+together as equals. 
+ Students will develop a sense of appreciation of women in all walks of life. 
+ Through providing accounts of studies and movements as well as the new laws that 
+provide protection and relief to women, the textbook will empower students to 
+understand and respond to gender violence. 
+  
+UNIT-I          
+UNDERSTANDING GENDER 
+Gender: Why Should We Study It?  (Towards a World of Equals: Unit -1) 
+Socialization: Making Women, Making Men (Towards a World of Equals: Unit -2) 
+Introduction.  Preparing for Womanhood. Growing up Male. First lessons in Caste. Different 
+Masculinities. 
+ 
+UNIT-II       
+GENDER AND BIOLOGY 
+ Missing Women: Sex Selection and Its Consequences (Towards a World of Equals: Unit -4) 
+Declining Sex Ratio. Demographic Consequences. 
+Gender Spectrum: Beyond the Binary (Towards a World of Equals: Unit -10) 
+Two or Many?  Struggles with Discrimination. 
+
+UNIT-III      
+GENDER AND LABOUR  
+Housework: the Invisible Labour (Towards a World of Equals: Unit -3) 
+“My Mother doesn’t Work.”  “Share the Load.” 
+Women’s Work: Its Politics and Economics (Towards a World of Equals: Unit -7) 
+Fact and Fiction. Unrecognized and Unaccounted work. Additional Reading: Wages and 
+Conditions of Work. 
+ 
+UNIT-IV  
+ISSUES OF VIOLENCE 
+Sexual Harassment: Say No! (Towards a World of Equals: Unit -6) 
+ Sexual Harassment, not Eve -teasing- Coping with Everyday Harassment - Further Reading: 
+“Chupulu”.  
+Domestic Violence: Speaking Out (Towards a World of Equals: Unit -8) 
+ Is Home a Safe Place? -When Women Unite [Film]. Rebuilding Lives.  Additional Reading: 
+New Forums for Justice. 
+Thinking about Sexual Violence (Towards a World of Equals: Unit -11) 
+ Blaming the Victim -“I Fought for my Life….” - Additional Reading: The Caste Face of 
+Violence. 
+ 
+UNIT-V  
+GENDER:  CO - EXISTENCE  
+Just Relationships: Being Together as Equals (Towards a World of Equals: Unit -12) 
+Mary Kom and Onler. Love and Acid just do not Mix. Love Letters. Mothers and Fathers. 
+Additional Reading: Rosa Parks-The Brave Heart. 
+ 
+TEXTBOOK  
+All the five Units in the Textbook, “Towards a World of Equals: A Bilingual Textbook on 
+Gender”  written by A. Suneetha,  Uma Bhrugubanda, Duggirala Vasanta, Rama Melkote, 
+Vasudha Nagaraj, Asma Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu and 
+published by Telugu Akademi, Hyderabad,Telangana State in the year 2015. 
+ 
+Note: Since it is an Interdisciplinary Course, Resource Persons can be drawn from the fields 
+of English Literature or Sociology or Political Science or any other qualified faculty who has 
+expertise in this field from engineering departments. 
+ 
+REFERENCE BOOKS: 
+1. Menon, Nivedita. Seeing like a Feminist. New Delhi: Zubaan-Penguin Books, 2012  
+2. Abdulali Sohaila. “ I Fought For My Life…and Won .”Available online at: 
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal/ 
+  
+
+MT401ES: ELECTRICAL ENGINEERING 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                               4     0    0    4 
+ 
+Course Objective: This course introduces the concepts of electrical DC and AC circuits, 
+basic law’s of electricity, instruments to measure the electrical quantities, different methods 
+to solve the electrical networks, construction operational features of energy conversion 
+devices i.e. DC machines, transformers, induction motors and synchronous machines.  
+ 
+Course Outcome: After going through this course the student gets a thorough knowledge on 
+basic electrical circuits, parameters, and operation of the transformers in the ene rgy 
+conversion process, electromechanical energy conversion, construction operation 
+characteristics different types  applications of DC and AC machines and the constructional 
+features and operation of measuring instruments like voltmeter, ammeter, wattmete r etc..., 
+With which he/she can able to apply the above conceptual things to real -world electrical and 
+electronics problems and applications. 
+ 
+UNIT - I 
+Introduction: SI Unit’s ohm’s law, series, and parallel circuits, Kirchhoff’s laws, Star -delta 
+transformation (Simple Problems)– Force on a current carrying conductor in magnetic field – 
+electromagnetic induction, Faraday’s law, Lenz’s law – Self and mutual inductances. 
+Electrical Instruments: Basic principles of indicating instruments – moving coil and moving 
+iron instruments (Ammeters and voltmeters). 
+ 
+UNIT - II 
+Single Phase AC Circuits:  Generation of an alternating EMF – average and RMS values of 
+alternating quantity – representation of alternating quantities by phasors – single phase series 
+and parallel circuits (simple problems)– series and parallel resonance – three phase balanced 
+systems – single and three phase power calculations. 
+ 
+UNIT - III 
+DC Generators:  Principle of operation of DC machines – EMF equation – types of 
+generators – Magnetization and Load characteristics of DC generators 
+DC Motors: Principle of operation of DC Motor, Types of Motors, Back EMF Equation, 
+Characteristics of DC motor, Torque Equation, DC Motor Starter (Three Point starter), 
+Efficiency Calculation, Swinburne’s Test and speed control. 
+ 
+UNIT-IV 
+Transformers: Construction and principle of operation of single phase transformer –EMF 
+equation O.C. & S.C. tests – efficiency and regulation. 
+Induction Motors:  Principle and operation of three phase induction motors – types of 
+motors, Squirrel cage and slip ring motor – slip torque characteristics. 
+ 
+
+ 
+UNIT-V 
+Alternators: Principle and operation of alternators – O.C. &  S.C. tests – regulation by 
+synchronous impedance method. 
+ 
+TEXT BOOKS: 
+1. Basic concepts of Electrical Engineering, PS Subramanyam, BS Publications. 
+2. Basic Electrical Engineering, S.N. Singh, PHI. 
+ 
+REFERENCE BOOKS: 
+1. Basic Electrical Engineering, Abhijit Chakrab arthi, Sudipta nath, Chandrakumar 
+Chanda, Tata-McGraw-Hill. 
+2. Principles of Electrical Engineering, V.K Mehta, Rohit Mehta, S.Chand Publications. 
+3. Basic Electrical Engineering, T.K.Nagasarkar and M.S. Sukhija, Oxford University 
+Press. 
+4. Fundamentals of Electrical Engineering, RajendraPrasad, PHI. 
+5. Basic Electrical Engineering by D.P.Kothari , I.J. Nagrath, McGraw-Hill. 
+  
+
+MT402ES: FLUID MECHANICS AND HEAT TRANSFER 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                               4     0    0    4 
+ 
+UNIT-I 
+Properties of fluids, Measurement of pressure. fluid kinematics - Streamline, path line and 
+streak lines and stream tube, classification of flows, steady, unsteady, uniform, non-uniform, 
+laminar, turbulent.  Rotational and irrotational flows – Equation of continuity for one 
+dimensional flows – Stream and velocity potential functions  
+ 
+UNIT-II 
+Fluid Dynamics: Surface and body forces – Euler’s and Bernoulli’s equations for flow 
+along a stream line. Bernoulli’s equations for real fluids, Flow measurement by 
+Venturimeter and orifice meter.  
+ 
+UNIT-III 
+Conduction: Modes of Heat Transfer, Fourier heat conduction equation, general heat 
+condition equation, conduction through homogeneous slab, cylinder and sphere, Heat 
+Transfer through Composite structures  as plane wall, cylinder. 
+ 
+UNIT-IV 
+Convection: Dimensional analysis, Rayleigh and Buckingham methods applied to heat 
+transfer, Non- dimensional members in heat transfer. Thermal and velocity boundary  layer, 
+Mean temperature for evaluation of fluid properties. Forced convection of laminar flow inside 
+ducts and over bodies. Local and average heat transfer coefficients. 
+ 
+UNIT-V 
+Radiation: Emission characteristics and laws of Black body radiation, Incident radiation, total 
+and Monochromatic quantities. Laws of black, Kirchoff, Lambart, Stephan and Boltzman. 
+concept of shape factor, Emissivity. Classification of heat exchangers – overall heat transfer 
+Coefficient and fouling factor – Concepts of LMTD and NTU methods  
+ 
+TEXT BOOKS 
+1. Heat Transfer – Sachdev - TMH 
+2. Heat Transfer - PK Nag – TMH 
+3. Fluid Mechanics and Hydraulics Machines by Dr.R.K.Bansal 
+ 
+REFERENCE TEXT BOOKS: 
+1. Heat Transfer / Sukhatme. 
+2. Heat Transfer – A Practical Approach – Yunus Cengel, Boles / TMH. 
+3. Fundamentals of Engineering Thermodynamics / Michael J Moran /  John Wiley & 
+Sons 
+4. Engineering Fluid Mechanics by K.L.Kumar, S.Chand & Co. 
+  
+
+ME402ES: KINEMATICS OF MACHINERY 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                               4     1    0    4 
+ 
+UNIT – I 
+Mechanisms:  Elements or Links – Classification – Rigid Link, flexible and fluid link – 
+Types of kinematics pairs –Types of constrained motion-kinetic chain-. Mechanism-machine-
+Structure - inversions of mechanism – inversions of quadric cycle chain, single and double  
+slider crank chains, Mechanical Advantage-Grubler’s Criterion. 
+ 
+UNIT – II 
+Kinematics:    Velocity and acceleration – Motion of link in machine – Determination of 
+Velocity and acceleration – Graphical method – Application of relative velocity method. 
+Plane Motion of Body:   Instantaneous center of rotation - centrodes and axodes – Three 
+centers in line theorem – Graphical determination of instantaneous center, determination of 
+angular velocity of points and links by instantaneous center method. 
+Kliens constru ction - Coriolis acceleration - determination of Coriolis component of 
+acceleration 
+Analysis of Mechanisms:   Analysis of slider crank chain for displacement - velocity and 
+acceleration of slider – Acceleration diagram for a given mechanism. 
+ 
+UNIT – III 
+Straight-Line Motion Mechanisms:   Exact and approximate copied and generated types – 
+Peaucellier - Hart - Scott Russel – Grasshopper – Watt -Tchebicheff’s and Robert Mechanism 
+- Pantographs 
+Steering Gears:  Conditions for correct steering – Davis Steering gear, Ackerman’s steering 
+gear. 
+Hooke’s Joint: Single and double Hooke’s joint –velocity ratio – application – problems. 
+ 
+UNIT – IV 
+CAMS:  Definitions of cam and followers – their uses – Types of followers and cams – 
+Terminology – Types of follower motion - Uniform velocity, Simple harmonic motion and 
+uniform acceleration and retardation. Maximum velocity and maximum acceleration during 
+outward and return strokes in the above 3 cases. 
+Analysis of Motion Of Followers: Tangent cam with Roller follower – circular arc cam with 
+straight, concave and convex flanks. 
+ 
+UNIT – V 
+Higher Pair:  Friction wheels and toothed gears – types – law of gearing, condition for 
+constant velocity ratio for transmission of motion – velocity of sliding 
+Forms of teeth, cycloidal and in volutes profiles – phenomena of interferences – Methods of 
+interference. Condition for minimum number of teeth to avoid interference – expressions for 
+
+arc of contact and path of contact of Pinion & Gear and Pinion & Rack Arrangements – 
+Introduction to Helical – Bevel and worm gearing 
+Gear Trains:   Introduction – Types – Simple – compound and reverted gear trains – 
+Epicyclic gear train.  Methods of finding train value or velocity ratio of Epicyclic gear trains. 
+Selection of gear box - Differential gear for an automobile 
+ 
+TEXT BOOKS: 
+1. Theory of Machines and Mechanisms/JOSEPH E. SHIGLEY/Oxford/3 rd 
+Edition/International Edition 
+2. Theory of Machines / Thomas Bevan/Pearson/3rd Edition 
+ 
+REFERENCE BOOKS: 
+1. Theory of Mechanism and Machines /Jagdish Lal/Metropolitan Book Company 
+2. Theory of Machines /S.S.Rattan / Tata McGraw Hill Publishers. 
+3. Kinematics & Dynamics Of machinery/Norton/TMH 
+4. Theory of Machines / Sadhu Singh / Pearson. 
+5. Mechanism and Machine Theory / JS Rao and RV Duggipati / New Age 
+6. Theory of Machines by / R.K. Bansal (Lakshmi Publications). 
+  
+
+SM405MS: BUSINESS ECONOMICS AND FINANCIAL ANALYSIS 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                              3     0    0    3 
+  
+Course Objective: To learn the basic Business types, impact of the Economy on Business 
+and Firms specifically. To analyze the Business from the Financial Perspective. 
+ 
+Course Outcome: The students will understand the various Forms of Business and the 
+impact of economic variables on the Business. The Demand, Supply, Production, Cost, 
+Market Structure, Pricing aspects are learnt. The Students can study the firm’s financial 
+position by analysing the Financial Statements of a Company.   
+   
+UNIT – I  
+Introduction to Business and Economics: 
+Business: Structure of Business Firm, Theory of Firm, Types of Business Entities, Limited 
+Liability Companies,  Sources of Capital for a Company, Non -Conventional Sources of 
+Finance. 
+Economics: Significance of Economics, Micro and Macro Economic Concepts, Concepts 
+and Importance of National Income, Inflation, Money Supply in Inflation, Business Cycle, 
+Features and Phases of Business Cycle. Nature and Scope of Business Economics, Role of 
+Business Economist, Multidisciplinary nature of Business Economics. 
+ 
+UNIT – II 
+Demand and Supply Analysis: 
+Elasticity of Demand:  Elasticity, Types of Elasticity, Law of Demand, Measurement and 
+Significance of Elasticity of Demand, Factors affecting Elasticity of D emand, Elasticity of 
+Demand in decision making, Demand Forecasting: Characteristics of Good  Demand 
+Forecasting, Steps in Demand Forecasting, Methods of Demand Forecasting. 
+Supply Analysis: Determinants of Supply, Supply Function & Law of Supply. 
+ 
+UNIT- III 
+Production, Cost, Market Structures & Pricing:  
+Production Analysis: Factors of Production, Production Function, Production Function with 
+one variable input, two variable inputs, Returns to Scale, Different Types of Production 
+Functions. 
+Cost analysis: Types of Costs, Short run and Long run Cost Functions. 
+Market Structures : Nature of Competition, Features of Perfect competition, Monopoly, 
+Oligopoly, and Monopolistic Competition. 
+Pricing: Types of Pricing, Product Life Cycle based Pricing, Break Even Analy sis, and Cost 
+Volume Profit Analysis. 
+  
+
+UNIT-IV 
+Financial Accounting:  Accounting concepts and Conventions, Accounting Equation, 
+Double-Entry system of Accounting, Rules for maintaining Books of Accounts, Journal, 
+Posting to Ledger, Preparation of Trial Balance, Elements of Financial Statements, 
+Preparation of Final Accounts. 
+ 
+UNIT -V 
+Financial Analysis through Ratios: 
+Concept of Ratio Analysis, Liquidity Ratios, Turnover Ratios, Profitability Ratios, 
+Proprietary Ratios, Solvency, Leverage Ratios (simple problems). 
+Introduction to Fund Flow and Cash Flow Analysis (simple problems). 
+ 
+TEXT BOOKS: 
+1. D. D. Chaturvedi, S. L. Gupta, Business Economics - Theory and Applications, 
+International Book House Pvt. Ltd. 2013. 
+2. Dhanesh K Khatri, Financial Accounting, Tata Mc –Graw Hill, 2011. 
+3. Geethika Ghosh, Piyali Gosh, Purba Roy Choudhury , Managerial Economics, 2e, 
+Tata Mc Graw Hill Education Pvt. Ltd. 2012. 
+ 
+REFERENCES: 
+1. Paresh Shah, Financial Accounting for Management 2e, Oxford Press, 2015.  
+2. S. N. Maheshwari, Sunil K Maheshwari, Sharad K Maheshwari, Financial 
+Accounting, 5e, Vikas Publications, 2013. 
+  
+
+EC401ES: SWITCHING THEORY AND LOGIC DESIGN 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                              3     0    0    3 
+ 
+Course Objectives: This course provides in -depth knowledge of switching theory and the 
+design techniques of digital circuits, which is the basis for design of any digital circuit. The 
+main objectives are: 
+ To learn basic techniques for the design of digital circuits and fundamental concepts 
+used in the design of digital systems. 
+ To understand common forms of number representation in digital electronic circuits 
+and to be able to convert between different representations. 
+ To implement simple logical operations using  combinational logic circuits 
+ To design combinational logic circuits, sequential logic circuits. 
+ To impart to student the concepts of sequential circuits, enabling them to analyze 
+sequential systems in terms of state machines. 
+ To implement synchronous state machines using flip-flops. 
+ 
+Course Outcomes: Upon com pletion of the course, students should possess the following 
+skills:  
+ Be able to manipulate numeric information in different forms, e.g. different bases, 
+signed integers, various codes such as ASCII, Gray, and BCD.  
+ Be able to manipulate simple Boolean exp ressions using the theorems and postulates 
+of Boolean algebra and to minimize combinational functions.  
+ Be able to design and analyse small combinational circuits and to use standard 
+combinational functions/building blocks to build larger more complex circuits.   
+ Be able to design and analyze small sequential circuits and devices and to use 
+standard sequential   functions/building blocks to build larger more complex circuits. 
+ 
+UNIT -I 
+Number System and Boolean Algebra And Switching Functions: Number Systems, Base 
+Conversion Methods, Complements of Numbers, Codes - Binary Codes, Binary Coded 
+Decimal Code and its Properties, Unit Distance Codes, Alpha Numeric Codes, Error 
+Detecting and Correcting Codes. 
+Boolean Algebra:  Basic Theorems and Properties, Swi tching Functions, Canonical and 
+Standard Form, Algebraic Simplification of Digital Logic Gates, Properties of XOR Gates, 
+Universal Gates, Multilevel NAND/NOR realizations. 
+ 
+UNIT - II 
+Minimization and Design of Combinational Circuits: Introduction, The Minimization with 
+theorem, The Karnaugh Map Method, Five and Six Variable Maps, Prime and Essential 
+Implications, Don’t Care Map Entries, Using the Maps for Simplifying, Tabular Method, 
+Partially Specified Expressions, Multi -output Minimization, Minimization a nd 
+
+Combinational Design, Arithmetic Circuits, Comparator, Multiplexers, Code Converters, 
+Wired Logic, Tristate Bus System, Practical Aspects related to Combinational Logic Design, 
+Hazards and Hazard Free Relations. 
+ 
+UNIT - III 
+Sequential Machines Fundamentals: Introduction, Basic Architectural Distinctions 
+between Combinational and Sequential circuits, The Binary Cell, Fundamentals of Sequential 
+Machine Operation, The Flip -Flop, The D-Latch Flip-Flop, The “Clocked T” Flip-Flop, The 
+“ Clocked J-K” Flip-Flop, Design of a Clocked Flip -Flop, Conversion from one type of Flip -
+Flop to another, Timing and Triggering Consideration, Clock Skew. 
+ 
+UNIT - IV 
+Sequential Circuit Design and Analysis: Introduction, State Diagram, Analysis of 
+Synchronous Sequential Circuits, Approaches to the Design of Synchronous Sequential Finite 
+State Machines, Design Aspects, State Reduction, Design Steps, Realization using Flip-Flops 
+Counters - Design of Single mode Counter, Ripple Counter, Ring Counter, Shift  Register, 
+Shift Register Sequences, Ring Counter Using Shift Register. 
+ 
+UNIT - V  
+Sequential Circuits: Finite state machine -capabilities and limitations, Mealy and Moore 
+models-minimization of completely specified and incompletely specified sequential 
+machines, Partition techniques, and Merger chart methods-concept of minimal cover table. 
+Algorithmic State Machines: Salient features of the ASM chart -Simple examples-System 
+design using data path and control subsystems -control implementations -examples of 
+Weighing machine and Binary multiplier. 
+ 
+TEXT BOOKS: 
+1. Switching and Finite Automata Theory - Zvi Kohavi & Niraj K. Jha, 3 rd Edition, 
+Cambridge. 
+2. Digital Design- Morris Mano, PHI, 3rd Edition. 
+ 
+REFERENCE BOOKS: 
+1. Introduction to Switching Theory and Logic Design – Fredriac J. Hill, Gerald R. 
+Peterson, 3rd Ed, John Wiley & Sons Inc. 
+2. Digital Fundamentals – A Systems Approach – Thomas L. Floyd, Pearson, 2013. 
+3. Digital Logic Design - Ye Brian and Holds Worth, Elsevier. 
+4. Fundamentals of Logic Design - Charles H. Roth, Cenga ge Learning, 5 th, Edition, 
+2004. 
+5. Digital Logic Applications and Design - John M. Yarbrough, Thomson Publications, 
+2006.  
+6. Digital Logic and State Machine Design – Comer, 3rd, Oxford, 2013.  
+
+ME407ES: FLUID MECHANICS AND HYDRAULIC MACHINES LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                              0     0    3    2 
+List of Experiments: 
+1. Study of Impact of jets on Vanes. 
+2. Performance Test on Pelton Wheel. 
+3. Performance Test on Francis Turbine. 
+4. Performance Test on Kaplan Turbine  
+5. Verification of Bernoulli’s theorem 
+6. Study and Calibration of Venturimeter. 
+7. Study and Calibration of Orifice meter. 
+8. Determination of friction factor for a given pipe. 
+9. Study and Calibration of V-Notch and rectangular notches 
+10. Performance test on single stage centrifugal pump. 
+11. Performance test on multi stage centrifugal pump. 
+12. Performance test on reciprocating pump  
+ 
+Note: Conduct any TEN experiments of the above. 
+  
+
+MT406ES: THERMAL ENGINEERING LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                              0     0    3    2 
+ 
+List of Experiments. 
+1. I.C. Engines Performance Test of 4 -S single cylinder Diesel Engine  
+2. Heat Balance test on 4 -S single cylinder Diesel Engine 
+3. I.C. Engines Performance Test of 4 -S double cylinder Diesel Engine 
+4. I.C. Engines - Determination of A/F Ratio and Volumetric Efficiency 
+5. Performance Test on Variable Compression Ratio Engines. 
+6. I C Engine Performance test on 2-Stroke SI Engine 
+7. I C Engine Morse and retardation Test 
+8. Performance Test on Reciprocating Air Compressor 
+9. Study of  I.C. Engines Valve / Port Timing Diagrams 
+10. Performance test on Air-Conditioning Unit 
+11. Dis-Assembly and Assembly of a automobile vehicle 
+12. Study of Boiler Models 
+ 
+NOTE: Perform any ten out of twelve experiments from the above. 
+  
+
+MT408ES: ELECTRICAL ENGINEERING LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                              0     0    3    2 
+ 
+List of Experiments. 
+1. Verification of KVL and KCL. 
+2. Serial and Parallel Resonance. 
+3. Time response of first order RC/RL network for periodic non -sinusoidal inputs – time  
+constant and steady state error determination. 
+4. Verification of Superposition theorem. 
+5. Verification of Reciprocity theorem. 
+6. Verification of maximum power transfer theorem.  
+7. Verification of Thevenin’s theorem. 
+8. Verification of compensation theorem. 
+9. Verification of Milliman’s theorem. 
+10. Verification of Norton’s theorem.  
+11. Magnetization characteristics of D.C. Shunt generator.  
+12. Swinburne’s Test on DC shunt machine. 
+13. Brake test on DC shunt motor. 
+14. OC & SC tests on Single-phase transformer. 
+15. Load Test on Single Phase Transformer. 
+ 
+Note: Any 12 of the above experiments are to be conducted. 
+  
+
+MC400ES: ENVIRONMENTAL SCIENCE AND TECHNOLOGY  
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             3     0    0    0 
+ 
+Course Objectives: 
+1. Understanding the importance of ecological balance for sustainable development. 
+2. Understanding the impacts of developmental activities and mitigation measures. 
+3. Understanding the environmental policies and regulations  
+ 
+Course Outcomes:  
+1. Based on this course, the Engineering graduate will understand /evaluate / develop 
+technologies on the basis of ecological princi ples and environmental regulations 
+which in turn helps in sustainable development 
+ 
+UNIT-I  
+Ecosystems: Definition, Scope and Importance of ecosystem. Classification, structure, and 
+function of an ecosystem, Food chains, food webs, and ecological pyramids. Flow of energy, 
+Biogeochemical cycles, Bioaccumulation, Biomagnification, ecosystem value, services and 
+carrying capacity, Field visits. 
+ 
+UNIT-II   
+Natural Resources: Classification of Resources:  Living and Non-Living resources, water 
+resources: use and over utilization of surface and ground water, floods and droughts, Dams: 
+benefits and problems. Mineral resources:  use and exploitation, environmental effects of 
+extracting and using mineral resources, Land resources:  Forest resources,  Energy 
+resources: growing energy needs, renewable and non renewable energy sources, use of 
+alternate energy source, case studies.  
+ 
+UNIT-III  
+Biodiversity And Biotic Resources: Introduction, Definition, genetic, species and ecosystem 
+diversity. Value of biodiversity; consumptive use, productive use, social, ethical, aesthetic 
+and optional values. India as a mega diversity nation, Hot spots of biodiversity. Field visit. 
+Threats to  biodiversity: habitat loss, poaching of wildlife, man -wildlife conflicts; 
+conservation of biodiversity: In-Situ and Ex-situ conservation.  National Biodiversity act.  
+ 
+UNIT-IV  
+Environmental Pollution and Control Technologies: Environmental Pollution:  
+Classification of pollution, Air Pollution: Primary and secondary pollutants, Automobile and 
+Industrial pollution, Ambient air quality standards. Water pollution:  Sources and types of 
+pollution, drinking water quality standards. Soil Pollution:  Sources and t ypes, Impacts of 
+modern agriculture, degradation of soil. Noise Pollution: Sources and Health hazards, 
+standards, Solid waste: Municipal Solid Waste management, composition and characteristics 
+
+of e -Waste and its management. Pollution control technologies:   Wastewater Treatment 
+methods: Primary, secondary and Tertiary.  
+Overview of air pollution control technologies, Concepts of bioremediation. Global 
+Environmental Problems and Global Efforts: C limate change and impacts on human 
+environment. Ozone depletion and Ozone depleting substances (ODS). Deforestation and 
+desertification.  International conventions / Protocols: Earth summit, Kyoto protocol, and 
+Montréal Protocol.  
+ 
+UNIT-V  
+Environmental Policy, Legislation & EIA: Environmental  Protection act, Legal as pects 
+Air Act- 1981, Water Act, Forest Act, Wild life Act,  Municipal solid waste management and 
+handling rules, biomedical waste management  and handling rules, hazardous waste 
+management and handling rules. EIA: EIA structure, methods of baseline data ac quisition. 
+Overview on Impacts of air, water, biological and Socio -economical aspects. Strategies for 
+risk assessment, Concepts of Environmental Management Plan (EMP). Towards 
+Sustainable Future: Concept of Sustainable  Development, Population and its expl osion, 
+Crazy Consumerism, Environmental Education,  Urban Sprawl, Human health, 
+Environmental Ethics, Concept of Green Building, Ecological Foot Print, Life Cycle 
+assessment (LCA), Low carbon life style. 
+ 
+TEXT BOOKS: 
+1 Textbook of Environmental Studies for U ndergraduate Courses by Erach Bharucha 
+for University Grants Commission. 
+2 Environmental Studies by R. Rajagopalan, Oxford University Press. 
+ 
+REFERENCE BOOKS: 
+1. Environmental Science: towards a sustainable future by Richard T. Wright. 2008 PHL 
+Learning Private Ltd. New Delhi. 
+2. Environmental Engineering and science by Gilbert M.  Masters and Wendell P. Ela .  
+2008 PHI Learning Pvt. Ltd.  
+3. Environmental Science by Daniel B.  Botkin & Edward A.  Keller, Wiley INDIA 
+edition. 
+4. Environmental Studies by Anubha Kaushik, 4 th Edition, New age international 
+publishers. 
+5. Text book of Environmental Science and Technology -  Dr. M. Anji Reddy 2007, BS 
+Publications. 
+
