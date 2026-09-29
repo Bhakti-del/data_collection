@@ -1,0 +1,70 @@
+Code No: 117BN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2018 
+CLOUD COMPUTING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a)     Write a short note on Degrees of Parallelism.      [2] 
+   b) Define Cloud Computing and explain the Cloud Landscape.   [3] 
+   c) Write a short note on IaaS.        [2] 
+   d) Explain .NET Service Bus with a neat diagram.     [3] 
+   e) Explain briefly the technologies used for data security in cloud computing.  [2] 
+   f) Write a short note on Preparation and Runtime Overhead created by VMs.  [3] 
+   g) What are the technical benefits of Cloud Computing?    [2] 
+   h) Write about admission control in cloud.      [3] 
+   i) What are the main objectives of service design.     [2] 
+   j) Write the strength and weakness of Information Card.    [3] 
+ 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) Write a short note on Design Objectives of Computer Clusters. 
+   b) Explain briefly about Fundamental Cluster Design Issues.    [5+5] 
+OR 
+3.a) Write a short note on various Implementation levels of Virtualization. 
+   b) Write a short note on Physical versus Virtual Clusters.     [5+5] 
+ 
+4.a) Explain the iterative Seven-Step model of Migration to Cloud with a neat diagram. 
+   b) Explain the issues for enterprise applications on the cloud.    [5+5] 
+OR 
+5.a) Write a short note on three major Cloud Integration Scenarios. 
+   b) Explain various deployment models for Enterprise Cloud Computing.  [5+5] 
+ 
+6.a) Explain with a neat diagram about Aneka Hybrid Cloud Architecture. 
+   b) Write a short note on Autonomic Cloudbursts using Comet Cloud with neat sketch.[5+5] 
+OR 
+7.a) Explain how Aneka is used for Workflow Execution. 
+   b) Explain the architecture of SAGA Map Reduce framework.    [5+5] 
+ 
+ 
+R13 JNTUH USED 03-12-18PM Set 1
+
+ 
+ 
+ 
+ 
+8.a) Explain with a neat diagram about a model for federated cloud computing. 
+b) Draw and explain the flowchart of the SLA management in cloud.   [5+5] 
+OR 
+9.a) Write a short note on Life Cycle of SLA in Cloud Computing. 
+   b) Write a short note on Business benefits of Cloud Computing.   [5+5] 
+ 
+10.a) Write a short note on the CROPS  Change Management Framework. 
+     b) Explain Cloud Service Life Cycle with a neat diagram.    [5+5] 
+OR 
+11.a) Write a short note on how to assess the production readiness of a Cloud Service. 
+b) Write a short note on Commercial and Business Considerations from a Cloud User ’s 
+Viewpoint.          [5+5] 
+  
+ 
+--ooOoo--  
+JNTUH USED 03-12-18PM Set 1
+

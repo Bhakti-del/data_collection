@@ -1,0 +1,52 @@
+Code No: 117BN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, May/June - 2019 
+CLOUD COMPUTING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 10 
+marks and may have a, b, c as sub questions. 
+ 
+PART – A  
+(25 Marks) 
+1.a) Explain about Virtual Machines.       [2] 
+   b) Discuss about Computer Clusters.       [3] 
+   c) What is Cloud computing?        [2] 
+   d) Write a short note on ‘integration as a Service’ in cloud?    [3] 
+   e) What is T-Systems?         [2] 
+   f) Discuss about Software as a service (SAAS) in cloud.    [3] 
+   g) What is SLA Mangement in Cloud?       [2] 
+   h) How to build content delivery networks using cloud. Discuss?   [3] 
+   i) How data secure in the cloud?       [2] 
+   j) What is organizational readiness in cloud?      [3] 
+ 
+PART – B  
+(50 Marks) 
+2. Discuss in detailed about distributed system models.     [10] 
+OR 
+3. Explain in detail about virtualization of clusters and data centers.   [10] 
+ 
+4. Explain about paradigm used for cloud era.      [10] 
+OR 
+5. Discuss the factors influenced to migration into cloud.    [10] 
+ 
+6. Explain about work flow engines for cloud computing.    [10] 
+OR 
+7. How cloud provides Infrastructure as a service (IAAS)? Explain.   [10] 
+ 
+8. Explain about best practices in architecting cloud applications in AWS cloud. [10] 
+OR 
+9. Explain the architecture for federated cloud computing environment.  [10] 
+ 
+10.a) Explain the pros and cons of content level security. 
+     b) Explain the Change Management Maturity Model (CMMM).   [5+5] 
+OR 
+11.a) Explain the legal issues in cloud computing. 
+     b) Explain the Cloud service lifecycle.       [5+5] 
+ 
+--ooOoo-- 
+R13 
+JNTUH USED 03-06-2019PM
+

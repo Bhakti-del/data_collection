@@ -1,0 +1,40 @@
+Code No: 136AW  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February/March - 2022 
+CRYPTOGRAPHY AND NETWORK SECURITY 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.  Develop a model for network security and elaborate its components.    [15] 
+ 
+2.  Illustrate on ‘substitution and transposition ’ techniques used for cryptography with 
+example.            [15] 
+  
+3.  Evaluate the key generation, encryption and decryption in Elgamal Cryptosystem.   [15] 
+ 
+4.a)  Describe RSA algorithm. 
+   b)  Perform encryption and decryption for the following using RSA algorithm. [7+8] 
+         P=7, q=11, e=7, M=9. 
+ 
+5.  Give the structure of S HA-512 compression function. Explain the structure of each 
+round. Is MAN in the Middle attack possible on SHA-512? Explain.    [15] 
+ 
+6.a)  What is X.509 certificate? How it works and give the detailed format of X.509 
+certificate?  
+   b) What is the job of key distribution center?                                                [12+3] 
+ 
+7.a)  What is the need for IEEE 802.11i wireless LAN security? Adapt a suitable solution for 
+achieving security in IEEE 802.11i. 
+   b) Interpret the benefit of HTTPS.                                                 [10+5] 
+ 
+8.a)  Explain the general format of S/MIME. 
+   b)  Explain the basic combinations of security associations in IPSec.   [7+8] 
+  
+ 
+---ooOoo--- 
+ 
+ R16 used paper feb/mar-2022 jntuh
+

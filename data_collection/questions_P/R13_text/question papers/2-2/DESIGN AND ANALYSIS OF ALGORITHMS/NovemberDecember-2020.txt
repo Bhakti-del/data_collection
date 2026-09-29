@@ -1,0 +1,41 @@
+Code No: 114CS  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year II Semester Examinations, November/December - 2020 
+DESIGN AND ANALYSIS OF ALGORITHMS  
+(Computer Science and Engineering) 
+Time: 2 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the properties of algorithm with real time example. 
+b) How was the Strassen’s matrix  multiplication better than general matrix multiplication 
+method?          [7+8] 
+ 
+2.a) Explain non recursive in order tree traversal technique with example. 
+   b) List the differences between connected and bi-connected components.  [7+8] 
+ 
+3. Write an algorithm of OBST.        [15] 
+ 
+4. Write a back tracking algorithm for sum of subset problem using the state space tree 
+corresponding to the variable tuple size formulation.     [15] 
+ 
+5.a) Write the differences between Deterministic polynomial, Non deterministic polynomial 
+algorithms. 
+   b) Explain about cook’s theorem.       [8+7] 
+ 
+6. Sort the following data using quick sort. 
+29, 14, 19, 10, 7, 17, 16, 4, 3, 5.       [15] 
+ 
+7.a) Write an algorithm of weighted union. 
+   b) Differentiate between BFS and DFS.       [8+7] 
+ 
+8.a) Write an algorithm of Greedy knapsack. 
+   b) Explain about the Reliability design.       [8+7] 
+ 
+ 
+---ooOoo--- 
+R13 
+ 
+JNTUH USED 18-11-2020AM
+

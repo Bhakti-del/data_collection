@@ -1,0 +1,73 @@
+Code No: 136CF  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+INTRODUCTION TO ANALYTICS  
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define R data frame. Give example.       [2] 
+   b)      List various data types in R.         [3] 
+   c)      Name any 4 bivariate methods and its uses in statistics.    [2] 
+   d)      Explain how data is summarized in R.      [3] 
+   e)      Elucidate NOSQL databases.        [2] 
+   f)      Compare SQL and NOSQL.        [3] 
+   g)      Define a statistical model. Give examples.      [2] 
+   h)      What is heteroscedasticity?        [3] 
+   i)       Name the 5Vs of data analytics.       [2] 
+   j)       What are the data analytics methods that could be used to predict the Gold price for the 
+next  year?          [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. Give an account on outliers? How are they handled with R functions? Give example.
+              [10] 
+OR 
+3. Write short notes on:  
+a) File handling in R  
+    b) Matrix in R.         [5+5] 
+  
+4. Elaborate on population and theoretical distributions.      [10]    
+OR 
+5.  Explain:  
+a) Scatter plots 
+    b) Central limit theorem.        [5+5] 
+ 
+6. With code explain the process of connecting different file types and NoSQL databases 
+to R.             [10]    
+OR 
+7.  Brief on:  
+a) Multivalue NoSQL databases   
+    b) Handling unnormalized data in NoSQL database.     [5+5] 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+8. Enumerate the types of regression. Explain them with example.        [10] 
+OR 
+9.  Discuss  
+a) Autocorrelation with example 
+    b) Forecasting methods.        [5+5] 
+ 
+10. Explain various phases in the process of understanding a system.     [10]    
+OR 
+11.  Explain requirements gathering process in detail.     [5+5] 
+      
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

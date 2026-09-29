@@ -1,0 +1,46 @@
+ 
+ 
+ 
+Code No: 135CU            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, September - 2021 
+ NON-CONVENTIONAL POWER GENERATION 
+(Common to CE, ME, ECE, CSE) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  What are solar collectors? Compare different types of solar collectors on the basis of 
+construction and application. 
+   b)  Explain the principle of conversion of solar energy into heat.   [8+7] 
+ 
+2. Discuss with sketch and equations how solar radiation measurement is calculated on a 
+ horizontal surface.           [15] 
+ 
+3.a)  Discuss about  the main elements of a PV system and its Equivalent Circuit. 
+   b)  Draw the V-I characteristics of PV system and explain.    [8+7] 
+ 
+4.a)  Define Maximum Power Point Tracking(MPPT) and explain its significance. 
+   b)  Enumerate the design parameters to be considered to implement MPPT technique. [7+8] 
+  
+5. What is the total power of a  wind stream? What do you mean by coefficient of 
+performance and tip speed ratio of a windmill? On what factors does the performance of 
+windmills depend?             [15] 
+ 
+6. How do vertical shaft windmills compare with windmills having horizontal shaft? 
+Explain the use of windmills.            [15] 
+ 
+7.a)  List out the Biomass resources. What are biofuels? 
+   b)  What do you understand by thermochemical and biochemical conversions?   [7+8] 
+ 
+8.a)  State the merits and demerits of OTEC plants.  Explain the major problems that need to 
+be solved. 
+b)  How does a fuel cell operate? How is it different from a battery? Explain the hydrogen -
+oxygen and carbon-oxygen fuel cells.       [7+8] 
+ 
+ 
+---ooOoo--- 
+R16 
+USED PAPERSSEP-2021
+

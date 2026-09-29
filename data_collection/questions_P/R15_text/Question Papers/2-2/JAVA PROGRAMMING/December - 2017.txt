@@ -1,0 +1,65 @@
+Code No: 124CX 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, December - 2017 
+JAVA PROGRAMMING 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Define data abstraction.       [2]  
+   b) What is the size of char data type? Why does it differ from C language?  [3] 
+   c) What is the use of anonymous inner class?       [2] 
+   d) What is a package? How to define it and access it?    [3] 
+   e) Differentiate between error and exception.      [2]  
+   f) How to assign priorities to threads?      [3]  
+   g) List the functions of Stack class.      [2]  
+   h) What is the need of JDBC type 3, type 4 drivers?     [3]  
+   i) What are the sources for item event?      [2] 
+   j) Give the hierarchy for swing components.     [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) What feature of Java makes it platform independent and portable?  
+   b) Is Java a robust language? Justify your answer.    [5+5] 
+OR 
+3.a) Differentiate between a class and object. 
+   b) Demonstrate constructor overloading concept.    [5+5] 
+  
+4.   What is inheritance? Explain different forms of inheritance with suitable program 
+segments and real world example classes.     [10] 
+OR 
+5.a) Differentiate between interface and abstract class. 
+   b) What is meant by dynamic method dispatch?    [5+5] 
+  
+6.a) Write a program to illustrate the use of multiple catch blocks for a try block. 
+   b) What are the uses of ‘throw’ and ‘throws’ clauses for exception handling? [5+5] 
+OR 
+7.a) What is the difference between a thread and a process? 
+   b) How to achieve synchronization among threads? Write suitable code. [5+5] 
+  
+R15 
+JNTUH USED 14-12-2017AM
+
+8.a) What is a vector? How does it differ from array, list? 
+   b) Write a program to count number of words in a given sentence.  [5+5] 
+OR 
+9.a) Write a program to copy the contents of file1 to file 2. Read the names of files as 
+command line arguments. 
+   b) Write about driver manager class for database connectivity.   [5+5] 
+ 
+10.a) Why swing components are preferred over AWT components? 
+     b) What is an adapter class? What is their role in event handling?  [5+5] 
+OR 
+11.a) Explain the life cycle of an applet. 
+     b) What are the various layout managers used in Java?    [5+5] 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 14-12-2017AM
+

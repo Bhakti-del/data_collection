@@ -1,0 +1,93 @@
+Code No: 124AG 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, April/May - 2023 
+FORMAL LANGUAGES AND AUTOMATA THEORY  
+(Computer Science and Engineering) 
+Time: 3 Hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What are Moore and Melay Machines?      [2] 
+   b) Give the general procedure for drawing a state diagram from the transition table.  [3] 
+   c) Represent the language that contains strings over ∑ = {0,1}and has even number of 0’s.
+            [2] 
+   d) State and define Kleene’s theorem.       [3] 
+   e) Write down the formal statement of pumping lemma.    [2] 
+   f) Give the CFG for the following language: L = {0n 1m 0n+m | n ≥ 0, m ≥ 0}.  [3] 
+   g) What is a Turing Machine?        [2] 
+   h)      Design a TM to find the value of log 2(n), where n is any binary number and a perfect
+ power of  2.           [3] 
+   i)       What is meant by the Halting problem?      [2] 
+   j)       Discuss about various types of grammars.      [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Write down the steps in converting NFA to DFA.  
+b) Convert the NFA: N=[{p,q,r,s},{0,1},δ,p,{s}], where δ is given in the table below to  its 
+equivalent DFA.          [4+6] 
+                Σ 
+Q 
+0 1 
+ 
+p p,q p 
+q r r 
+r s - 
+s s s 
+ 
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+ R15 
+JNTUH Used papers 2023
+
+ 
+ 
+3.a) Minimize the following DFA. 
+ 
+b) Design a Moore Machine to determine the residue mod 4 for each binary string treated 
+as integer.           [5+5] 
+  
+4.a) Show that (a*b*)* = (a+b)*.  
+   b) Construct the NFA for the regular expression r = ((0+1)*(00)*(11)*.   [4+6] 
+OR 
+5.a)  Using a regular expression represent the set of all strings of a’s and b’s containing at 
+least one combination of double letters.  
+   b) List and explain the closure properties of regular sets with examples.   [4+6] 
+  
+6.  Explain in detail about Greiback normal form with suitable example.     [10] 
+OR 
+7.a)  Construct the PDA to the following grammar:  
+S→AB 
+A→BS/b 
+B→SA/a 
+   b)  List the properties of a context-free language and explain.     [6+4] 
+   
+8. Design a T.M for copying of information from one place to the other place. Make  all               
+the necessary assumptions. Give example of the working of your T.M.     [10] 
+OR 
+9.a) Design a Turing Machine that accepts the language {0n1n0n | n ≥ 1}.  
+   b)  Design a TM that recognized binary palindrome.      [5+5] 
+ 
+10. Describe in detail about undecidability of Post’s Correspondence Problem.    [10] 
+OR 
+11.a) Discuss briefly about decidability and undecidability problems.  
+     b)  Explain in detail about Turing reducibility.       [5+5]  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

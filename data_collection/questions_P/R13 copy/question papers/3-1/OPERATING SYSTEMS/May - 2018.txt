@@ -1,0 +1,95 @@
+ 
+ 
+ 
+ 
+Code No: 115EH             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, May - 2018 
+ OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) Under what circumstances would a user be better off using a time sharing system rather 
+than a PC or single user workstations?      [2] 
+   b) What are tradeoffs inherent in handled computers?       [3] 
+   c) In general one  process is not allowed to access the memory of another process, then 
+how shared memory is working?       [2] 
+d) Can a thread ever be preempted by a clock interrupt? If so, under what circumstances? 
+If not, why not?         [3] 
+   e) Under what circumstances do page faults occurs?       [2] 
+   f) What is the purpose of paging the page tables?     [3] 
+   g) How mounting takes place in different operating system?    [2] 
+   h) In a disk jukebox, what would be the effect of having more open files than the numbe r 
+of drives in the jukebox?        [3] 
+   i) What is Deadlock? How Deadlock can be avoided?     [2] 
+   j) A system has p processes and r resources are available each process need maximum of 
+m resources. What condition must hold to make system deadlock free?  [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a) What is System call? Discuss major System calls of Operating Systems.  
+b) List and explain the major activities of an operating system with regard to file 
+management.           [5+5] 
+OR 
+3.a) Why is the separation of mechanism and policy desirable? Explain.   
+   b) Identify which of the functionalities listed below need to be supported by the operating 
+system for (i) handled devices (ii) Real Time systems   
+I) Batch programming 
+II) Virtual Memory 
+III) Time sharing         [5+5] 
+   
+ 
+  
+R13 
+used paper 16-05-2018
+
+ 
+ 
+ 
+4. How parent and child relationship is created between processes? Explain how parent 
+and child behave on its termination.         [10] 
+OR 
+5.a) Consider a system where counting semaphore initialized to +17, on this semaphore 
+variable the vario us operations like 23P, 18V, 16P, 14V and 1P are performed. Then 
+what is the final value of semaphore?  
+b) Describe the actions taken by a thread library to context switch between user level 
+threads.          [5+5] 
+  
+6. Discuss the hardware support required to support demand paging.     [10] 
+OR 
+7. Explain about FIFO, LRU page replacement algorithms with example.    [10] 
+  
+8. List and explain the different techniques used to improve the efficiency and 
+performance of secondary storage.         [10] 
+OR 
+9. What is file structure? How file structure is supported by different operating systems?
+              [10] 
+    
+10. Consider a system with three processes and four resources. Resource R1 and R3 with 
+one instance, R2 with two instance, process P1 holding an insta nce of R2 and waiting 
+for r1, process P2 is holding an instance of  R1 and R2 and waiting for R3,process P3 is 
+holding an instance of R3.  
+    a) Draw resource allocation graph to the given system.  
+b) Is it possible to apply the Resource allocation graph algorithm to avoid deadlock? 
+Explain.          [5+5] 
+OR 
+11. Discuss the strengths and weakness of implementing an access matrix using access list 
+that are associated with objects.          [10] 
+ 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+used paper 16-05-2018
+

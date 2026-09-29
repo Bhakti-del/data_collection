@@ -1,0 +1,48 @@
+ 
+ 
+ 
+Code No: 135AF            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, October - 2020 
+ DESIGN AND ANALYSIS OF ALGORITHMS 
+(Common to CSE, IT) 
+Time: 2 hours                                   Max. Marks: 75 
+ 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Explain the  general method of divide and conquer with an example. 
+b)  Write an algorithm for stressan’s matrix multiplication and analyze the complexity of 
+your algorithm.         [7+8] 
+ 
+2.a)  List the disjoint set operations and explain with  examples.  
+b)  Explain GRAPH coloring problem with example . Analyze the  running time  for that  
+problem/algorithm.         [7+8] 
+ 
+3.  Differentiate between prim’s algorithm and krushkars algorithm for finding the 
+minimum cost spanning tree.          [15] 
+ 
+4.a) Write an algorithm of all pairs shortest path problem. 
+b)  Solve the following 0/1 Knapsack problem using dynamic programming  
+P= (11, 21, 31, 33), W= (2, 12, 23, 15), C=42, n=4.     [7+8] 
+ 
+5.a)  Compare NP Hard and NP Complete. 
+   b)  Explain about 0/1 Knapsack Problem using branch and bound with example. [7+8] 
+ 
+6.  Explain the merge sort algorithm with an example . Design an algorithm for merge sort .
+             [15] 
+ 
+7.a) Explain the major drawbacks of backtracking method with example. 
+   b)  Write an algorithm for sum of subsets problem.     [8+7] 
+ 
+8.a)  Write an algorithm for Knapsack problem using Greedy method. 
+b)  Find the optimal solution by using primis minimum cost spanning of the following 
+graph.           [7+8] 
+ 
+ 
+ 
+---ooOoo--- 
+R16 
+JNTUH Used Paper BTECH-13-10-2020PM
+

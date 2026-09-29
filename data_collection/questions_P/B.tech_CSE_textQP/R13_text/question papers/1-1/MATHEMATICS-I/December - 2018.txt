@@ -1,0 +1,131 @@
+ 
+ 
+ 
+Code No: 111AB      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, HYDERABAD  
+B .Tech I Year Examinations, December - 2018 
+MATHEMATICS-I 
+(Common to CE, EEE, ME, ECE, CSE, CHEM, EIE, BME, IT, MCT, ETM, MMT, AE, AME, 
+MIE, PTM, AGE) 
+Time: 3 hours                             Max. Marks: 75 
+ 
+Note: This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+PART - A 
+( 25 Marks) 
+1.a)  Examine the consistency of the following system of equations: 
+             12𝑥−𝑦−𝑧 = 2;    𝑥 + 2𝑦 +𝑧 = 2;    4𝑥− 7𝑦− 5𝑧 = 2.    [2] 
+   b) Find 𝐴2 using Cayley-Hamilton theorem, given 𝐴 = 3 1
+−1 2 .   [3] 
+   c) State Lagrange’s Mean Value theorem.      [2] 
+   d) Find the stationary points of 𝑥3𝑦2(1−𝑥−𝑦).     [3] 
+   e)    𝑥2 +𝑦2 𝑑𝑥 𝑑𝑦
+ 𝑎 2−𝑦 2
+0
+𝑎
+0    Transform to polar coordinates.   [2] 
+   f) Evaluate  𝑥5𝑒−2𝑥 𝑑𝑥.
+∞
+0         [3] 
+   g) Find the particular integral of  𝐷2 + 4 𝑦 = 2𝑒𝑥 sin𝑥.    [2] 
+   h) Find 
+ke .          [3] 
+   i) Find 
+tL te .          [2] 
+   j) Find  𝐿−1 
+1
+𝑠(𝑠+𝑎)          [3] 
+ 
+ 
+PART - B  
+(50 Marks) 
+2.  Find the matrix which transforms the matrix 𝐴 = 
+3 1 4
+2 2 4
+4 1 3
+  to diagonal form. [10] 
+OR 
+3. Reduce the quadratic form 6𝑥1
+2 + 3𝑥2
+2 + 3𝑥3
+2− 4𝑥1𝑥2− 2𝑥2𝑥3 + 4𝑥3𝑥1 to canonical 
+form.           [10] 
+  
+4.a) Verify Rolle’s theorem for the function 𝑓 𝑥 = 2𝑥3 +𝑥2− 4𝑥− 2 in  − 2,  2 . 
+Also find the value of C. 
+   b) Show that the functions 𝑢 =𝑥 +𝑦−𝑧, 𝑣 =𝑥−𝑦 +𝑧, 𝑤 =𝑥2 +𝑦2 +𝑧2− 2𝑦𝑧 are 
+not independent of one another. Also find the relation among them.   [5+5] 
+OR 
+5.a) Verify Cauchy Mean Value theorem for the functions 𝑓 𝑥 = log𝑥,   𝑔 𝑥 =
+1
+𝑥in [1,𝑒]. 
+   b) Find the stationary value of 𝑓 𝑥,𝑦,𝑧 =𝑥2𝑦3𝑧4 subject to the condition                        
+ 𝑥 +𝑦 +𝑧 = 5.          [5+5] 
+  
+ 
+ 
+ 
+R13 
+JNTUH USED 24-12-18PM
+JNTUH USED 24-12-2018PM
+
+ 
+ 
+6.a) Change the order of integration in the integral and hence evaluate it   
+   𝑥𝑦 𝑑𝑥 𝑑𝑦.
+2−𝑦
+ 𝑦
+1
+0
+ 
+   b)  Find the area included between the curve 𝑟 =𝑎(sec𝜃 + cos𝜃)and its asymptote. 
+[5+5] 
+OR 
+7.a) Derive the relationship between beta and gamma functions 
+   b) Evaluate      𝑒𝑥+𝑦+𝑧𝑑𝑧 𝑑𝑦 𝑑𝑥.
+𝑥+𝑦
+0
+𝑥
+0
+𝑎
+0        [5+5] 
+  
+8.a) The rate of disintegration of a radioactive substance is proportional at any instant to the 
+amount of substance present. It is found that 0.5% of the substance disappears in 12 
+years. What percentage will disappear in 1000 years?  
+  b) Solve the differential equa tion 𝑦′′ +𝑦 =− cot𝑥 using the method of variation of 
+parameters.           [5+5] 
+OR 
+9.a) Find the orthogonal trajectories of the confocal conics 
+𝑥 2
+𝑎 2 +
+𝑦 2
+𝑏 2+𝜆 = 1, where 𝜆 is the 
+parameter. 
+   b)    Solve the differential equation 
+2( 5 6) xD D y xe    .     [5+5] 
+ 
+10.a) Find the Laplace transform of 
+sin . tt t e . 
+     b)  Find  𝐿−1 log 
+𝑠+𝑎
+𝑠+𝑏           [5+5] 
+OR 
+11.a)  State convolution theorem of Laplace transform and use it to find the inverse Laplace 
+transform of  
+𝑠
+ 𝑠2+𝑎 2 2. 
+     b)     Solve the equation 𝑥′′ + 2𝑥′ + 5𝑥 =𝑒−𝑡 sin𝑡 under the conditions  
+ 𝑥 0 = 0, 𝑥′ 0 = 1.         [5+5] 
+  
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+JNTUH USED 24-12-18PM
+JNTUH USED 24-12-2018PM
+

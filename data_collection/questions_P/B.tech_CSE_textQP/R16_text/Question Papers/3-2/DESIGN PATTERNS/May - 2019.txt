@@ -1,0 +1,53 @@
+Code No: 136BC   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, May - 2019 
+DESIGN PATTERNS  
+ (Computer Science and Engineering) 
+Time: 3 Hours                      Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART – A  
+(25 Marks) 
+ 
+1.a)  What is Design Pattern? Explain it.       [2] 
+   b)  Briefly discuss about how to organise Design Pattern catalog.   [3] 
+   c)  What is Document Formatting? Explain it.      [2] 
+   d)  Write a short note on Design problems.      [3] 
+   e)  Explain about abstract factory.       [2] 
+   f)  Discuss about creational pattern.       [3] 
+   g)  Explain about adapter design pattern.       [2] 
+   h)  Discuss about composite design pattern.      [3] 
+   i)  Explain about command design pattern.      [2] 
+   j)  What is visitor design pattern? Explain it.      [3] 
+      
+PART – B  
+(50 Marks) 
+ 
+2. Explain in detail about design patterns in Smalltalk MVC.      [10] 
+OR 
+3. Discuss in detail about how design patterns solve design problems.     [10] 
+ 
+4. Explain in detail about Look-and-Feel Standards in document editors.    [10] 
+OR 
+5. Discuss about how to make user interface more attractive in document editors.   [10] 
+ 
+6. Explain in detail about Singleton design pattern.       [10] 
+OR 
+7. Discuss in detail about factory method of design pattern.       [10] 
+ 
+8. Explain in detail about bridge design pattern.       [10] 
+OR 
+9. Discuss in detail about proxy design pattern.        [10] 
+ 
+10. Explain in detail about Interpreter design pattern.       [10] 
+OR 
+11. Discuss in detail about strategy design pattern.       [10] 
+ 
+---ooOoo--- 
+R16 
+jntuh used paper13-05-19PM
+

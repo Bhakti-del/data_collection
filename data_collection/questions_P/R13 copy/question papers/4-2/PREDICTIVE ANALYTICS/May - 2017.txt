@@ -1,0 +1,75 @@
+ 
+Code No: 118GM             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, May - 2017 
+PREDICTIVE ANALYTICS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+1.a) Why Data Analytics is  required?       [2] 
+   b) Write about Missing imputation.       [3] 
+   c) What is meant by Pruning?        [2] 
+   d) Write any two differences between Regression vs segmentation.   [3] 
+    e) What is meant by Tree building?       [2] 
+    f) How competences will be enhanced?       [3] 
+    g) What is Arima model where it is used? Describe about STL approach.  [2] 
+    h) Write briefly Arima.         [3] 
+    i) What is meant by knowledge sharing?      [2] 
+    h) What is meant by white papers?       [3] 
+ 
+PART - B  
+(50 Marks) 
+2.a) Explain the factors need for Business modeling. 
+   b) Write about Data Modeling Techniques.      [5+5] 
+OR 
+3.a) What is regression and explain various regression concepts 
+   b) Write about the Variable Rationalization.      [5+5] 
+  
+4. Write in detail about  
+     a) Supervised vs Un-supervised learning with suitable example 
+    b) Model Fit Statistics.         [5+5] 
+OR 
+5.a) Write about Over fitting concept with suitable example. 
+   b) Explain about Multiple decision Trees.      [5+5] 
+  
+6.a) What is classification explain with example? 
+   b) What is Pruning and complexity explain them in detail?     [5+5] 
+OR 
+7.a) Explain in detail about Training and development.  
+   b) Explain about policies and Record keeping.      [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 04-05-17PM Set 2
+
+ 
+ 
+8. Describe the various measures to be taken for Forecast accuracy using suitable  
+  example.          [10]
+      OR 
+9. Describe how features are extracted from generated model and analyzed for prediction 
+using suitable example.        [10]
+  
+10.a) How do you define purpose and scope of  documents in detail? 
+     b) Explain in detail about articles and Technical report writing.   [5+5] 
+OR 
+11.a) What is intellectual property and copyright and explain in detail? 
+     b) Write about accessing and updating corporate knowledge base in detail.  [5+5] 
+  
+ 
+---ooOoo--- 
+ 
+JNTUH USED 04-05-17PM Set 2
+

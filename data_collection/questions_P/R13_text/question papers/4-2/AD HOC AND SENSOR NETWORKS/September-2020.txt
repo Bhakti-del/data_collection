@@ -1,0 +1,44 @@
+ 
+ 
+ 
+Code No: 118AA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2020 
+ADHOC AND SENSOR NETWORKS  
+(Common to CSE, IT) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) Explain three phases of ABR protocol.       
+   b) Enumerate the important characteristics of MANETs.    [8+7] 
+ 
+2.  Explain the working principle of  
+   a) Voronoi Diagram based Geo-casting  
+   b) Mesh based Geo-cast   Routing protocol.      [7+8] 
+ 
+3. Explain the operation of the following WSN routing algorithms  
+a) Cluster Based Routing Protocol (CBRP)  
+b) Threshold-sensitive Energy Efficient Network Protocol (TEEN).   [7+8] 
+ 
+4.a) Explain about the N-Party Diffie Hellman Key Agreement protocol. 
+   b) What are the challenges of sensor network programming?    [15] 
+ 
+5. Describe TinyOS with details of “Field Monitor” application and Timer component 
+Interfacing.          [15] 
+      
+6.a) Describe the design goals of a MAC Protocols for ad hoc wireless networks. 
+   b) Explain the role of directional antennas in MAC protocols.    [8+7] 
+ 
+7. Describe in detail about Mobility-related solutions for TCP over Ad hoc networks .
+            [15] 
+ 
+8.a) Explain about the Multipath based routing in WSNs.     
+b) Specify the need of High level application layer support for specific application of 
+WSNs.                               [10+5] 
+ 
+---ooOoo--- 
+R13 
+JNTUH Used Papers 27-09-2020PM
+

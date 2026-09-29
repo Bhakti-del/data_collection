@@ -1,0 +1,65 @@
+Code No: 117FN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+MOBILE COMPUTING 
+(Computer Science and Engineering) 
+Time: 3 Hours                 Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) What is meant by GSM?        [2]  
+   b) State the limitations of mobile computing.      [3] 
+   c) Write a short note on COA.          [2] 
+   d) List the disadvantages of FDMA.       [3] 
+   e) What are the disadvantages of hoarding?      [2]  
+   f) What is snooping TCP?        [3]  
+   g) What is selective tuning?        [2]  
+   h) Write a short note on pull-based mechanism.      [3]  
+   i) What is meant by mobile ad-hoc network?      [2] 
+   j) List the features of symbian OS.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Describe the features of GSM.        
+   b) What is GPRS? How billing and charging is done in GPRS?   [5+5] 
+OR 
+3. Explain in detail the architecture reference model of mobile computing.  [10] 
+  
+4.a) Differentiate between TDMA and CDMA.       
+   b) Explain the IEEE 802.11 architecture with neat diagram.    [4+6] 
+OR 
+5. Explain the following. 
+    a) Route optimization.         
+    b) Location management.        [5+5] 
+ 
+6.a) Describe the process of data recovery.              
+   b) Explain client-server computing for mobile computing and adaptation.  [5+5]  
+OR 
+7.a) Discuss the problems with traditional TCP in wireless environments.   
+   b) Compare different TCP enhancements.      [5+5] 
+R13 
+JNTUH Used papers 2023
+
+ 
+ 
+8. Explain in detail the classification of data delivery mechanisms.   [10]  
+OR 
+9. Explain in detail data synchronization process.     [10]  
+ 
+10.a) State and explain the applications of a MANET.      
+     b) Give a brief summary on mobile agents.      [5+5] 
+OR 
+11.a) Draw and explain Bluetooth protocol architecture.      
+     b) Differentiate between Android and iOS.      [6+4] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

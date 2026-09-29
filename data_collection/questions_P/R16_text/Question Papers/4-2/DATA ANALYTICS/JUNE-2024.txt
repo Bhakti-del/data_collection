@@ -1,0 +1,63 @@
+ 
+Code No: 138BJ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+DATA ANALYTICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) What are the drawbacks of randomized block design?    [2]  
+   b) What is the difference between transaction data and reference data?  [3] 
+   c) What is the need of analytics?       [2] 
+   d) Give examples for MNAR and MCAR category.     [3] 
+   e) What is meant by residual in linear regression?     [2]  
+   f) List the three amin purposes for using linear regression.    [3]  
+   g) What is unsupervised learning?       [2]  
+   h) What is a regression tree?        [3]  
+   i) Give examples for complex relations.      [2] 
+   j) Illustrate the usage of Chernoff faces.      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. Describe the general approach of designing data architecture at three levels of specifications. 
+            [10] 
+OR 
+3. Differentiate between noise and outlier. Describe techniques to handle them. [10] 
+  
+4. Does repeated imputation improve the quality of estimation? Justify your answer with 
+suitable examples.         [10] 
+OR 
+5. Explain the difference between reporting and analytics. Enumerate vario us applications of 
+analytics.          [10] 
+ 
+6. With appropriate data set demonstrate ordinary least square technique for linear regression. 
+            [10] 
+OR 
+7. Compare and contrast linear regression and logistic regression.   [10] 
+ 
+R16 
+Used Papers 2024
+
+ 
+8. Illustrate the working of CHAID algorithm for constructing decision tree using suitable data. 
+            [10] 
+OR 
+9. What are the various components of time-series data? Explain them with examples.[10] 
+ 
+10. Describe the importance of data visualization and illustrate geometric  projection 
+visualization.          [10] 
+OR 
+11. Which domains need data visualization applications for complex data? Explain suitable 
+applications and domains.        [10] 
+  
+---ooOoo--- 
+Used Papers 2024
+

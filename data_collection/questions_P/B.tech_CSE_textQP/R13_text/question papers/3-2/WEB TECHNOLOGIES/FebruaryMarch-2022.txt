@@ -1,0 +1,40 @@
+ 
+ 
+ 
+Code No: 126EP   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester (Special) Examinations, February/March - 2022 
+WEB TECHNOLOGIES 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+     
+1. List and explain different file handling operations in PHP.      [15] 
+ 
+2.a) Explain the process of reading data from web form.  
+   b) Define directories? How to list directories using PHP?    [7+8] 
+    
+3. Briefly explain about parsing XML in detail.        [15] 
+ 
+4.a) Write a short note on XML DTD.  
+   b) What is XHTML? Explain the XHTML.      [7+8] 
+  
+5. Describe how an HTTP servlet handles its client request.        [15] 
+ 
+6.a) How can you invoke other web resources such as servlets /JSPs?  
+b) Define environment variables. Name and discuss any two CGI environment variables.  
+           [8+7] 
+    
+7. Explain the benefits of using JavaBeans to separate business logic from presentation 
+markup within the JSP environment.          [15] 
+ 
+8. Explain about Document Object Model in JavaScript in detail.     [15] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+R13 used paper feb/mar-2022 jntuh
+

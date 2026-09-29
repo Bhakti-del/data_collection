@@ -1,0 +1,43 @@
+ 
+ 
+Code No: 135CX            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, March - 2021 
+ PRINCIPLES OF ELECTRONIC COMMUNICATIONS 
+(Common to CE, EEE, CSE, EIE, IT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.  Explain the frequency translation concept with examples.      [15] 
+ 
+2.  Describe the need for modulation, in detail with examples.      [15]              
+ 
+3.a)  Define PWM and explain the modulation process with neat diagram.  
+b)  Explain AM with spectrum . Show that non -linear device can be used for generating 
+AM signal. What are its limitations?                                                               [7+8] 
+ 
+4.a)  An AM signal is represented by v(t) =0.1(1+0.1cos(2512t)+0.5cos(6280t))sin(107+450)  
+       volts. What information can you get from this? Plot the amplitude spectrum of the                  
+ signal.                                                                                                        
+   b)   Explain the indirect method of generation of FM wave.                         [7+8] 
+ 
+5.a)  Draw the general block diagram of cordless telephone and explain.  
+   b)  Describe token ring LAN.                                                                     [8+7] 
+ 
+6.a)  What are the components of a facsimile system and explain each one in detail.  
+   b)  Discuss about paging systems in detail.                                                 [8+7] 
+ 
+7.a)  Discuss the importance of GPs with respect to satellite communication.    
+   b)  Explain different fiber optic cables used in optical communications.    [7+8] 
+ 
+8.a)  Explain about CDMA.                                                                  
+   b)  Discuss about Network and Switching Subsystem.                        [8+7] 
+ 
+ 
+---ooOoo--- 
+R16 
+19-03-2021 AM
+USED PAPER MARCH-2021
+

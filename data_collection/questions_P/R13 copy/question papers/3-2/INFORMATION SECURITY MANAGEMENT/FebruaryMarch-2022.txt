@@ -1,0 +1,34 @@
+Code No: 116FB            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, February/March - 2022 
+ INFORMATION SECURITY MANAGEMNET 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.  Define attack. Explain various types of attacks.       [15] 
+  
+2.a)  Differentiate virus and Trojan horse. 
+   b)  Define Cavity Virus. How is it different from other virus?    [8+7] 
+  
+3.a)  What are the implications of not meeting commitments on individuals and organization. 
+   b)  What Barriers to Effective Communication.      [8+7] 
+  
+4. Explain the fundamental concepts of information security in detail.     [15] 
+  
+5. Explain in detail on various techniques for content analysis.      [15] 
+  
+6. Define Data leakage. Illustrate data leakage features and solutions in detail.    [15] 
+ 
+7. Explain COSO framework elaborately.        [15] 
+  
+8. Explain the need for information security and elaborate on risk analysis process.   [15] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+R13 used paper feb/mar-2022 jntuh
+

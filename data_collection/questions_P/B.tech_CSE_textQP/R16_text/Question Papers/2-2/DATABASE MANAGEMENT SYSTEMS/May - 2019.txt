@@ -1,0 +1,81 @@
+Code No: 134AP  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, May - 2019 
+DATABASE MANAGEMENT SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                           Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b as sub questions. 
+    
+ 
+PART – A 
+(25 Marks) 
+1.a) What is DBMS? What are the advantages of DBMS?    [2] 
+   b) Explain generalization, specialization and  aggregation in  E-R  Model.  [3] 
+   c) Define the terms primary key constrains and foreign key and check constraints. [2] 
+   d) Explain the following Operators in SQL with examples: i) SOME ii) NOT IN. [3] 
+   e) What is normalization ? What are the conditions required for a relation to be in 1NF,  
+2NF?           [2]  
+   f) Explain what are the problems caused by redundancy.    [3] 
+   g) What is locking Protocol?        [2] 
+   h) Explain the ACID Properties of transaction with examples.    [3] 
+   i) What is Indexing and Hashing?       [2] 
+   j) Explain what are the differences between tree based and Hash based indexes. [3]  
+ 
+PART – B 
+(50 Marks) 
+2.a) Develop an E-R Diagram for Banking enterprise system. 
+   b) Explain the functions of Database Administrator.     [5+5] 
+OR 
+3.a) Compare between super key, Candidate key, Primary Key for a relation with examples.  
+b) Construct an ER-Diagram for a hospital with a set of patients and set of medical doctors . 
+Associated with each patient a log of the various tests and examinations conducted. [5+5] 
+  
+4.a) Explain the fundamental operations in relational algebra with examples. 
+   b) Explain various Domain constraints in SQL with examples.    [5+5] 
+OR 
+5.a) Let R =(ABC) and  S=(DEF) let r(R) and s(S)  both relations on schema Rand S. 
+Formulate an expression in the Tuple relational calculus that is equivalent to each of the 
+following. 
+i) ∏A(r)  ii) σp=19(r) iii) rXs   iv) ∏A,F,( σC=D(rXs)). 
+   b) Explain various DML functions in SQL with examples.    [5+5] 
+ 
+  
+R16 
+JNTUH USED 12-05-2019AM
+
+6.a) When is a decomposition said to be dependency preserving? Why this property Useful?  
+Explain. 
+b) Determine the closer of the following set of functional dependencies for a relation 
+scheme.  R(A,B,C,D,E,F,G,H), 
+          F={ ABC, BDEF, ADG,AH} 
+List the candidate keys of R.        [5+5] 
+OR 
+7.a) Suppose that we decompose the schema R = ( A, B, C, D, E)   into R 1 (A, B, C) and         
+R2 (A, D, E). Determine that this decomposition is a lossless -join decomposition or 
+dependency preserving if the following set F of functional dependencies holds: 
+          A → BC, CD → E,B → D,E → A 
+   b) Explain 2NF,  3NF and BCNF Normal forms with example. What is the difference  
+between 3NF and BCNF?        [5+5] 
+ 
+8.a) Explain the Time Stamp - Based Concurrency Control protocol. How is it used to ensure   
+serializability? 
+   b) Explain the Check point log based recovery scheme for recovering the data base. [5+5] 
+OR 
+9.a) Explain multiple granularity of locking protocol with example. 
+   b) What is serializability? Explain.       [5+5] 
+ 
+10.a) Explain about Validation-Based Protocol. 
+     b) Explain the Insertion and deletion Operations in B+ trees with example.  [5+5] 
+OR 
+11.a) Explain Deletion and insertion operations in ISAM with example. 
+     b) Explain how does it handles insert and delete operations Extendable hashing? [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 12-05-2019AM
+

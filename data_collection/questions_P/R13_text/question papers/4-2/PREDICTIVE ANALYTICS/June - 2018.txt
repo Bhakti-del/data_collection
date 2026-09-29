@@ -1,0 +1,81 @@
+ 
+ 
+ 
+Code No: 118GM             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2018 
+PREDICTIVE ANALYTICS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 10 
+marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What is Data Analytics?         [2] 
+   b) What is the meaning of epsilon (ε) in regression equation?    [3] 
+   c) List the different components of Logistic Regression.     [2] 
+   d)      Describe about OLS.         [3] 
+   e)      What is decision tree?         [2] 
+   f)       List the applications of decision trees.        [3] 
+   g)      What is Time series?         [2] 
+   h) What is STL approach?        [3] 
+   i)       Write the scope of document.        [2] 
+   j)       Give the structure of minutes of meeting.      [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) “Finding a relation among dependent and one or more independent variables” Suggest 
+suitable modeling technique in detail. 
+   b) How to impute missing Data in R? Explain PMM approach.    [5+5]  
+OR 
+3.a) Illustrate the performance of binary classifier with ROC curve plot. 
+   b) Explain the cluster analysis.        [5+5] 
+  
+4.a) What is nonlinearity and Explain about the logistic regression  
+   b) Describe the confusion matrix, and its importance in classification.   [5+5] 
+OR 
+5.a) Distinguish between bivariate and multivariate logistic Regression. 
+b) Explain about Hosmer –Lemeshow statistical test for goodness of fit for logistic  
+regression models.          [5+5] 
+ 
+6.a) What is the difference between CHAID and CART? 
+   b) List the advantages of Decision Trees.      [5+5] 
+OR 
+7.a) Discuss different methods are used by the organization to review skills and knowledge. 
+   b) Describe the terms(KSC) :Understanding knowledge, skills and competence. [5+5] 
+  
+ 
+ 
+ 
+R13 
+JNTUH USED 21-06-18AM Set 2
+
+ 
+ 
+ 
+8.a) Discuss the different components of time series analysis. 
+   b) What is the difference between ARMA and ARIMA?    [5+5] 
+OR 
+9.a) To perform the analytics task as  predict the death for 5 years in future by using hist orical 
+death cases and using ARIMA  on “Employee Health and Safety Data”. What are the 
+steps need to follow. 
+   b) How to clean the data, if data is incomplete?      [5+5] 
+ 
+10.a) Explain the steps in writing a case study. 
+     b) What is the purpose of documentation and give different documentation formats. [5+5] 
+OR 
+11.a) Give the structure of technical report and steps in client reports. 
+b) Write the steps required to create a new flowchart for a simple human resources recruiting 
+process having seven process steps and one decision in Microsoft VISIO.  [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH USED 21-06-18AM Set 2
+

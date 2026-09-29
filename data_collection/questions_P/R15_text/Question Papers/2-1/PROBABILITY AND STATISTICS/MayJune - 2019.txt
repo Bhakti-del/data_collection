@@ -1,0 +1,158 @@
+Code No: 123AN                      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, May/June - 2019 
+PROBABILITY AND STATISTICS 
+(Common to ME, CSE, IT, MCT, AME, MIE, MSNT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) If the moment ge nerating function of a random variable X is
+3( ) (1 2 )XM t t  , 
+then find the mean.        [2] 
+b) A continuous Random variable has the p.d.f
+ 
+6 0 3
+0
+K x if xfx otherwise
+  
+ . 
+Determine K.         [3] 
+ 
+   c) If the two coefficients of regression  are 0.1 and 0.4, then find  the coefficient of 
+correlation.         [2]  
+d) The joint probability density function is given by 
+x y,0 1,1 y 5() 5
+0,
+Kxfx
+elsewhere
+     
+
+. Find the value of K.   [3]  
+   e) Define Null hypothesis.       [2] 
+   f) If the sample number is 500 and the standard deviation is 15, then find the 
+maximum error with 95% confidence.     [3] 
+   g) Define Reneging.        [2]   
+   h) Define Mean arrival rate.       [3]  
+   i) Define recurrent state.          [2] 
+   j) If 
+00
+0.31 0.42
+0 0.172
+x
+y
+z
+
+
+
+  is Transition probability matrix, then find the values of x, y 
+and z.          [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) Six cards are drawn from a pack of 52 cards. Find the probability that:   
+i) At least three are diamonds                  ii) 4 are diamonds. 
+b) In a test on electrical bulbs, it was found that the life of a particular make was 
+normally distributed with an average life of 2040 hours and S.D of 4 0 hrs. 
+Estimate the number of bulbs likely to burn for more than 2140 hrs. [5+5] 
+OR 
+R15 
+JNTUH USED 22-05-2019AM
+
+3.a) A sample of 5  items is selected at  random from a box containing  15 items of 
+which 8 are defective find: 
+ i) Mean ii) variance of defective items. 
+b) 1000 students appear for an examination. It was found that the marks are normally 
+distributed with mean 35 and standard deviation 5. Find the number of students 
+who get marks between 25 and 40.      [5+5] 
+ 
+4. The joint probability density  function is given by   
+   
+ 
+, 0 1,0 1, 0,
+x y x yf x y elsewhere
+    
+
+ 
+ 
+Find: 
+a) Marginal probability density function for X 
+b) Marginal probability density function for Y 
+c) Conditional P.D.F of X given Y 
+d) Conditional P.D.F of Y given X.      [10] 
+OR 
+5.a) The equations of two Regression lines are 7x -16y+9=0,5y-4x-3=0, find the  
+Coefficient of Correlation  and the means of x and y. 
+   b) Calculate the coefficient of rank correlation:     [5+5] 
+ 
+ 
+ 
+ 
+ 
+6. Given below is the No . of male births  in 1000 families with 5 children each. Is 
+this result coincides with t he hypothesis that male births are equally probable?                 
+          [10]      
+ 
+No. of boys 0 1 2 3 4 5 
+No. of families 40 300 250 200 30 180 
+OR 
+7.  The following figures refer to the observations in independent samples 
+ 
+ 
+ 
+Analyze whether the samples have been drawn from the populations of equal 
+means.          [10] 
+ 
+8. The milk plant at a city distributes its products by trucks, loaded at the loading 
+dock. It was i ts own fleet of trucks plus trucks of a private transport company. 
+The trucks arrive at the interval of 20 minutes. The service time is 4 minutes.  
+a) What is t he probability that there are more than or equal to 4 trucks  in the 
+queue.  
+b) What is the waiting time of a truck in the queue? 
+c) What is the variance of queue length? 
+d) What is the probability that the waiting time will exeeds 10 minutes? [10] 
+OR 
+x 68 64 75 50 64 80 75 40 55 64 
+y 62 58 68 45 81 60 68 48 50 70 
+Sample-I 25 30 28 34 24 20 13 32 22 38 
+Sample-II 40 34 22 20 31 40 30 23 36 17 
+JNTUH USED 22-05-2019AM
+
+9.  Workers come to tool store room to enquire about special tools. The average time 
+between two arrivals is 90 seconds and the ar rivals are assumed to be in Poisson 
+distribution. The average service time is 50 seconds. Determine: 
+a) Average queue length   
+b) Average length of non empty queue 
+c)  Average waiting time of an arrival who waits.    [10] 
+ 
+10.a) Define: 
+ i) Marcov chain   ii) Absorbing marcov chain.  
+     b) Find the equilibrium vector of 
+0.25 0.75
+0.5 0.5
+
+ .      [5+5] 
+OR 
+11. If the transition probability matrix is  
+0.5 0.25 0.25
+0.5 0 0.5
+0.25 0.25 0.5
+
+
+
+  and the initial 
+probabilities are 
+111,,333
+ then find: 
+a) the probabilities after three periods  b) Equilibrium vector.    [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 22-05-2019AM
+

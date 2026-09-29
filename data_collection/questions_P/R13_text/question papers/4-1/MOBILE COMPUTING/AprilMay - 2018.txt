@@ -1,0 +1,67 @@
+ 
+Code No: 117FN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, April/May - 2018 
+MOBILE COMPUTING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.               
+Part B consists of 5 Units. Answer any one full question from each unit.                      
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+ 
+1.a) What is mean by modulation?           [2]  
+   b)      Compare DECT and GPRS.        [3] 
+   c)      Define polling technique.           [2] 
+   d)      Write short notes on location management.      [3] 
+   e)      Write short notes mobile TCP.                  [2] 
+   f)       Discuss the problem associated with the cache.     [3] 
+   g)      What is communications asymmetry?      [2] 
+   h)      Explain broadcast addressing.       [3] 
+   i)       Define symbian operating system.        [2] 
+   j)       What are the applications of MANET?      [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) Write a short note on radio interfaces. 
+   b)  Explain in brief about mobile and handheld devices.     [5+5] 
+OR 
+3. Explain in detail about guided transmission media and unguided transmission media. 
+            [10] 
+ 
+4.a)  Briefly explain Medium Access Control. 
+   b)  Explain about SDMA.         [5+5] 
+OR 
+5.  Explain the methods of tunneling and encapsulation in mobile IP.   [10] 
+ 
+6. Describe about indirect TCP and Snooping TCP of Mobile Transport layer. [10] 
+OR 
+7.a) Explain about caching invalidation mechanisms. 
+   b)  What is query processing? Explain in detail.      [5+5] 
+ 
+ 
+ 
+R13   JNTUH USED 21-05-18AM Set 2
+
+ 
+ 
+8.a)  What is synchronizer? Explain with an example. 
+   b)  What are different types of broadcast disk models?     [5+5] 
+OR 
+9. Explain in detail about the push-based data delivery mechanisms.   [10] 
+  
+10.a)  Explain about mobile agent. 
+     b)  Discuss the security issues in MANET.      [5+5] 
+OR 
+11.a)  Explain linux for mobile devices. 
+     b)  What is palm OS? Explain its memory management.    [5+5] 
+  
+ 
+--ooOoo--  
+JNTUH USED 21-05-18AM Set 2
+

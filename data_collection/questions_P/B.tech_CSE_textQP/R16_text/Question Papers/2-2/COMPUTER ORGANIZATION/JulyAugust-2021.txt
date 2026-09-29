@@ -1,0 +1,45 @@
+Code No: 134AK  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, July/August - 2021 
+COMPUTER ORGANIZATION 
+(Common to CSE, IT) 
+Time: 3 Hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Draw the block diagram of the microprogram sequencer for a control memory and 
+explain its operations in detail.       [15] 
+ 
+2. A digital computer has a memory unit with a capacity of 16384 words 40 bits per word. 
+The instruction code format consists of six bits for the operation part and 14 bits for the 
+address part. Two instructions are packed in one memory word, and a 40 -bit instruction 
+register IR is available in the control unit. Formulate a procedure for fetching and 
+executing instructions for this computer.          [15] 
+ 
+3. Explain the 8086 Processor Architecture.      [15] 
+ 
+4. Draw and discuss a typical minimum mode of 8086 system.    [15] 
+ 
+5. Elaborate the stack structure of the 8086.       [15] 
+ 
+6. Describe the pro cedure for coding the intersegment and int ersegment jump and call 
+instructions.            [15] 
+ 
+7. How many characters per second can be transmitted over a 1200 baud line in each of the 
+following modes? 
+a) Synchronous serial transmission 
+b) Asynchronous serial transmission with two stop bits. 
+c) Asynchronous serial transmission with one-stop bits             [5+5+5] 
+ 
+8.a) Multiprocessing can improve performance by decomposing a program into parallel 
+executable tasks. Explain how this is achieved. 
+   b) What is associative memory? Why is it faster than the main memory? Explain its 
+hardware organization in detail.       [8+7] 
+ 
+ 
+ 
+---ooOoo--- 
+R16 
+JNTUH Used 24-07-21 AM
+

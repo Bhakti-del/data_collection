@@ -1,0 +1,35 @@
+ 
+ 
+Code No: 136AG             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester (Special) Examinations, January/February - 2021 
+ARTIFICIAL INTELLIGENCE 
+(Computer Science and Engineering) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  What is artificial intelligence technique?  
+   b)  Explain why problem formulation must follow goal formulation.            [5+10] 
+ 
+2.  Explain A* algorithm with suitable example.       [15] 
+ 
+3.  What are the various approaches used to represent knowledge representation? Illustrate 
+the first order logic to represent the knowledge.        [15] 
+ 
+4.  Discuss about extended semantic networks for knowledge representation.    [15] 
+ 
+5.  Describe different phases in building expert systems.      [15] 
+ 
+6.  Explain the Expert system architecture with a neat sketch.      [15] 
+     
+7.  Describe the decision tree learning algorithm.       [15] 
+ 
+8.   What are the phases of sentence analysis? Elaborate each phase in detail.      [15]       
+ 
+ 
+---ooOoo--- 
+R16 
+used paper jan-feb-2021
+

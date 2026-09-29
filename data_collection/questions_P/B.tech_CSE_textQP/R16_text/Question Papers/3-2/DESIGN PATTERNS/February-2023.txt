@@ -1,0 +1,72 @@
+ 
+Code No: 136BC  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+DESIGN PATTERNS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What do you mean by design Pattern?      [2] 
+   b)      Write about framework.        [3] 
+   c)      What is Decorator pattern?        [2] 
+   d)      With suitable example, explain about compositor and composition.   [3] 
+   e)      Draw the structure of Prototype pattern.      [2] 
+   f)      What are benefits of Singleton pattern?      [3] 
+   g)      What are related patterns of Façade pattern?       [2] 
+   h)      List the consequences of Composite pattern.      [3] 
+   i)       Write the intent of Observer pattern.       [2] 
+   j)       Describe motivation of Strategy pattern.       [3] 
+ 
+PART – B  
+(50 Marks) 
+  
+2.a)  What are some common causes of redesign? Explain briefly.      
+   b) How to use a design pattern? Discuss in brief.     [5+5] 
+OR 
+3. Discuss about design patterns in Smalltalk MVC in detail.       [10] 
+  
+4.  Explain in detail about supporting multiple window systems problem in Lexi’s design.
+              [10] 
+OR 
+5.  Describe user operations problem in Lexi’s design.        [10] 
+ 
+6.a)  Write and explain the sample code of Prototype pattern.     
+   b)  Describe motivation, applicability and structure of Builder pattern.    [5+5] 
+OR 
+7.a)  Discuss about implementation issues of Abstract Factory pattern.    
+   b)  Explain sample code and known issues of Factory Method pattern.    [5+5] 
+ 
+ 
+  
+ R16 
+JNTUH Used papers 2023
+
+ 
+8.a)  Describe implementation issues of Composite pattern.     
+   b)  Discuss about the implementation of Proxy pattern.      [5+5] 
+OR 
+9.a)  Explain about the motivation and applicability of Flyweight pattern.    
+   b)  Write about the sample code of Decorator pattern.      [5+5] 
+ 
+10.  Explain the following:         
+      a) Sample code of Iterator 
+      b) Template method pattern.        [5+5] 
+OR 
+11.  Write about:          
+     a) Implementation of Chain of Responsibility pattern 
+      b) Sample code of State pattern.       [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

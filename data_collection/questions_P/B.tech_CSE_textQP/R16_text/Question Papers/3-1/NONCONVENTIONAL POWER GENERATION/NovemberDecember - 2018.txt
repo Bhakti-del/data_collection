@@ -1,0 +1,79 @@
+ 
+ 
+Code No: 135CU            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, November/December - 2018 
+ NON-CONVENTIONAL POWER GENERATION 
+(Common to CE, ME, ECE, CSE) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) What is the basic difference between active and passive solar heating system ? [2] 
+   b)      Explain solar pond. Write its applications.      [3] 
+   c)      What is PV cell? What type of energy will be obtained from it?   [2] 
+   d)     Draw the equivalent circuit of PV system and explain briefly.   [3] 
+   e)     What are the principles used for measurement of wind speed ‘?   [2] 
+   f)      Explain the major application of wind power?     [3] 
+   g)      Describe the factors that affect bio digestion.      [2] 
+   h)      Classify geothermal sources.        [3]  
+   i)      List the applications of fuel cells.       [2]      
+   j)       Explain briefly the components of tidal power plant.     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2. What are the losses affecting the efficiency of flat plate collector? Explain how do you 
+reduce the same?           [10] 
+OR 
+3.a)  With the help of schematic diagram explain technique of solar heating and cooling. 
+   b)  How the solar radiation effect on titled surface?     [5+5] 
+  
+4.a)  Describe the principle of solar photo voltaic energy conversion? 
+   b)  Explain how inverters are used to maximize the efficiency of a solar power system.
+            [5+5] 
+OR 
+5.a)  Explain the method of solar thermal energy storage using sensible heat. 
+   b)  Why Tracking is needed and what advantage does MPPT give in the real world?  [5+5] 
+ 
+6. Using Betz model of a wind turbine, derive the expression  for power extracted from 
+wind? What is th e maximum theoretical power that can be extracted and under what 
+condition?               [10] 
+OR 
+7.a)  Discuss the advantages and disadvantages of both  horizontal and vertical axis  wind        
+ mill. 
+b)  Explain how the energy produced by a wind turbine c an be stored for re -use. What are 
+the arrangements used for starting a Darrieus wind turbine?    [5+5] 
+ 
+ 
+ 
+R16 
+used paper 16-12-2018PM
+
+ 
+ 
+ 
+8.a)  Explain the simple digester system used for bio- conversion, with a neat sketch. 
+   b)  Classify Wet and Dry Processes.       [5+5] 
+OR 
+9.a)   Discuss about Magma Resources?  
+   b)  Enumerate the Prime movers used in Geo thermal power stations.   [5+5] 
+   
+10.a)  Discuss the scope of utilizing ocean wave energy to generate electricity. 
+     b)  What are the various methods of tidal energy generation? Explain in detail.  [5+5] 
+OR 
+11.  Explain the advantages of fuel cell power sources. Draw a simple sketch of H2,-O2, fuel 
+cell and explain its working.          [10] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+used paper 16-12-2018PM
+

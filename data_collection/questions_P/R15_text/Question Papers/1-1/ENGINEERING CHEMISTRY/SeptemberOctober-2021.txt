@@ -1,0 +1,51 @@
+ 
+Code No: 121AE 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year Examinations, September/October - 2021 
+ENGINEERING CHEMISTRY 
+(Common to CE, EEE, ME, ECE, CSE, IT, MCT, AE, MIE, PTM) 
+Time: 3 Hours                                           Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Discuss the construction and working principle of methanol oxygen fuel cell. 
+   b) Discuss various factors affecting rate of corrosion.     [7+8] 
+  
+2.a) Explain electroplating of copper. 
+   b) How to determine PH of a unknown solution using glass electrode.   [7+8] 
+ 
+3.a)  Write the preparation, properties and engineering applications of Bakelite.   
+   b) Write preparation of poly vinyl acetate and polylactic acid.    [7+8] 
+  
+4.a) Explain sol gel and chemical vapour deposition of preparing Nano materials.  
+   b) What is lubricant ? Explain cloud point , flash and fire points and wri te their 
+ significance.          [7+8] 
+ 
+5.a)  What is the principle of reverse osmosis? What is the main advantage  of reverse 
+ osmosis over ion exchange process? 
+   b) Write the chemical reactions involved in lime soda process where lime and soda is 
+ required to remove impurities.       [7+8]  
+ 
+6.a) What is break point chlorination? State its significance. 
+   b) Explain formation of scales and sludges in boilers and write methods of prevention. 
+   c) Calculate the quantity of lim e and soda required for softening 10,000 litres of water 
+ containing following constituents.  
+ CaCO3 = 1.85mg/L, CaSO4 = 0.34mg/L, MgCO3 = 0.42mg/L;   
+            MgCl2 = 0.76 mg/L, MgSO 4 = 0.90 mg/L,  NaCl = 2.34 mg/L and                             
+ SiO2 = 2.32 mg/L.                  [5+5+5] 
+ 
+7.a) Explain ultimate analysis of coal and write its significance.     
+   b)  What is meant by cracking of petroleum? Explain fluid bed catalytic cracking of 
+ gasoline and give its significance.       [7+8] 
+ 
+8.a) What are colloids? Explain their electrical properties.     
+   b) Discuss the applications of phase rule to water system.     
+   c) Explain Freundlich adsorption isotherm and its applications.                      [5+5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+R15 
+JNTUH USED SEPT-2021
+

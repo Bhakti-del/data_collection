@@ -1,0 +1,72 @@
+Code No: 114CN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, February -2024 
+COMPUTER ORGANIZATION  
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)  Define instruction formats.        [2] 
+   b)  How do addressing modes influence the execution of instructions?   [3] 
+   c)  What is meant by asynchronous data transfer?       [2] 
+   d)  What triggers interrupt initiated I/O?       [3] 
+   e)  Define virtual memory.        [2] 
+   f)  How is memory connected to the CPU in a computer system?   [3] 
+   g)  Which addressing mode is commonly used for accessing data stored in consecutive 
+ memory locations?           [2] 
+   h)  How does the 8086 handle memory segmentation?     [3] 
+   i)  Which register is often used as an index register in 8086 assembly language programs?
+           [2] 
+j)  What is the advantage of using the LOOP instruction in assembly language programs?
+           [3] 
+ 
+PART - B  
+(50 Marks) 
+2.a)  Give an in-depth overview of memory and its functions in a computer.  
+   b)  Elaborate on the significance of status bit conditions in program control.  [5+5] 
+OR 
+3.  What are program interrupts? Differentiate between the types of interrupts in computer 
+ organization, giving examples of each.      [10] 
+  
+4.  Discuss the modes of transfer in asynchronous serial transfer. Highlight the advantages 
+and disadvantages of each mode.       [10] 
+OR 
+5.a)  Discuss the features and applications of the Intel 8089 IOP.     
+   b)  Differentiate between isolated I/O and memory-mapped I/O.   [6+4] 
+  
+6.a)  Provide a detailed explanation of the Memory Hierarchy and its significance in 
+computer systems.          
+   b)  Differentiate between associative and set associative mapping.   [6+4] 
+OR 
+7.a)  Describe the concept of miss and hit ratio in cache memory. How do these ratios impact 
+ system performance?          
+   b)  State and explain the factors influencing the access time.    [6+4] 
+  
+ 
+ 
+ R13 
+
+ 
+ 
+8.  Explain the special functions of general purpose registers in the 8086 microprocessor.
+                                                                                                                                       [10] 
+OR 
+9.  Explain the following terms. 
+    a) 8086 CPU pin diagram.        
+ b) Addressing modes of 8086.       [5+5] 
+  
+10.  Describe the instruction format of the 8086 microprocessor with examples. [10] 
+OR 
+11.  Write an assembly program in 8086 to evaluate a simple  arithmetic expression 
+involving multiplication, and division.      [10] 
+ 
+ 
+---ooOoo--- 
+ 
+

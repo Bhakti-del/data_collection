@@ -1,0 +1,76 @@
+Code No: 136BC  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, March - 2024 
+DESIGN PATTERNS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is the need of  design pattern?       [2] 
+   b)      How would you select design patterns?      [3] 
+   c)      How would you describe formatting document?     [2] 
+   d)      Write about advantages of user interface.                  [3] 
+   e)      State about the prototype.                   [2] 
+   f)      How would you explain about builder for construct objects?   [3] 
+   g)      Illustrate about the proxy.                   [2] 
+   h)      What is the use of adapter?        [3] 
+   i)       Outline about the mediator.        [2] 
+   j)       How would you summarize the interpreter?      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Explain about organizing the catalog. And mention the importance of it.  
+   b)   Can you explain the how to solve the complex problems use of design patterns. [5+5] 
+OR 
+3.a)   Summarize the catalog of design patterns. 
+   b)   Explain about design patterns in smalltalk MVC.      [5+5] 
+  
+4.a)   Discuss about document structure and explain design problems. 
+   b)   Mention the importance of multiple look and feel standards.   [5+5] 
+OR 
+5.a)    List and explain user operations for spelling checking. 
+   b)   Summarization of design document patterns editor.     [5+5] 
+ 
+6.a)   Can you justify yours answer, how  abstract factory  create a relationship between 
+groups.  
+   b)   Illustrate the factory methods.       [5+5] 
+OR 
+7.a)   Explain prototype patterns with suitable examples. 
+   b)   Discuss about singleton. And mention the need of it.    [5+5] 
+ 
+ 
+ 
+ 
+ 
+ R16 
+Used paper March-2024
+
+ 
+8.a)   Demonstrate composite patterns composes objects as trees with suitable example . 
+   b)   Can you elaborate the proxy for structural pattern matching?   [5+5] 
+OR 
+9.a)   Examine the  facade interface for structural patterns. 
+   b)   Can you explain how flyweight pattern saves the RAM?    [5+5] 
+ 
+10.a)  Demonstrate the template method with suitable example. 
+     b)  Explain the following:  
+i) State    
+ii) Observer.          [5+5] 
+OR 
+11.a)  Summarize the  responsibility for behavioral patterns.  
+     b)  Explain about strategy pattern algorithms for specific task with suitable example. [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+Used paper March-2024
+

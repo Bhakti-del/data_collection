@@ -1,0 +1,44 @@
+Code No: 135BY   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August - 2022 
+COMPUTER GRAPHICS 
+(Common to CE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Compare raster-scan systems with random scan systems used in computer graphics.  
+   b)  Explain about Bresenham’s mid-point circle generating algorithm.    [7+8] 
+ 
+2.a)  Write DDA line drawing algorithm and explain with suitable example.    
+   b)  Describe about flood fill polygon filling algorithm.       [8+7] 
+ 
+3.a)  Summarize about different composite transforms used in 2-D geometrical transforms.  
+   b)  Explain the working of  Sutherland –Hodgeman polygon clipping algor ithm with                         
+ suitable example.          [7+8] 
+ 
+4.a)  Describe about window to view-port coordinate transformation with an example.   
+   b)  Determine a sequence of basic transformations that are equivalent to the y -direction                        
+ shearing matrix.              [7+8] 
+ 
+5.a)  Describe about 3-D objects representation using spline representation.    
+   b)  Compare Hermite curve, Bezier curve and B-spline curves.     [8+7] 
+ 
+6.a)  Describe about the following 3-D geometric transformations:  
+            i) translations and ii)  rotations              
+   b)  Summarize about sweep representations of 3-D objects.                     [8+7] 
+  
+7.a)  Explain about classification of different visible surface detection methods.       
+   b)  Describe about basic illumination models.       [8+7] 
+ 
+8.a) What are the different computer animation languages used in computer graphics?   
+   b)  Explain about general computer animation functions with examples.      [7+8] 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ R16 
+jntuh used paper aug-2022
+

@@ -1,0 +1,41 @@
+Code No: 138GK   
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+MICROPROCESSORS AND MICROCONTROLLERS 
+ (Common to CSE, IT) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Draw the internal architecture of 8086 microprocessor and explain. 
+   b) Explain various addressing modes that the 8086 microprocessors can support. [7+8] 
+ 
+2.a) Write an 8086 Assembly language program to decide the parity of a given number. 
+   b) Define memory segmentation and explain the concept of memory segmentation with   
+diagram.          [7+8] 
+ 
+3.a) Explain the memory organization of 8051 microcontroller. 
+   b) Describe with examples various modes of the 8051 timers.    [7+8] 
+ 
+4.a) Explain the different modes of serial communication in 8051. 
+   b) Explain instruction set of 8051 microcontrollers.     [7+8] 
+ 
+5.a) Write notes on RS-232 Serial data standard. 
+   b) Explain interfacing of keyboard with 8051 microcontrollers using relevant diagram.[7+8] 
+ 
+6.a) Explain how to interface Analog -to- Digital Converter (ADC) to 8086 processor. 
+   b) List out the steps involved in programming the 8051 to transfer data serially. [7+8] 
+         
+7.a) Explain the generic structure of program status register as ARM core. 
+   b) Explain the use of conditional branch instruction in Thumb Instruction Set. [7+8] 
+ 
+8.a) Explain the necessity of Architecture Revisions in ARM processor. 
+   b) Explain the CORTEX processor with its architecture.    [8+7] 
+ 
+ 
+---oo0oo--- 
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

@@ -1,0 +1,40 @@
+Code No: 138FY 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, September - 2020 
+ELECTRONIC MEASURING INSTRUMENTS 
+(Common to EEE, CSE) 
+Time: 2 Hours                         Max. Marks: 75 
+ 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - - 
+ 
+1.a) Define total uncertainty in the reading of an instrument and indicate the factors responsible 
+for this. 
+   b) Explain different types of errors in a measuring system.    [8+7] 
+ 
+2.a) Differentiate static and dynamic characteristics of measuring system. 
+b) Define the term settling time of the instrument and indicate the factors responsible for it .  
+            [9+6] 
+  
+3. Explain with help of block diagram of the working principle of function generator.[15] 
+ 
+4. Explain with help of block diagram of the working principle of pulse wave generator.[15] 
+   
+5.a) How are resistors are checked using digital multimeters. 
+   b) Derive the expressions to calculate shunt resistance and multiplier resistance. [8+7] 
+ 
+6.a) Explain the internal structure of CRT and describe the  principle  of electrostatic focusing. 
+   b) Explain the various probes are used in CROs.     [8+7] 
+ 
+7.a) With a neat diagram, explain the principle operation  of  X-Y plotter. 
+   b) Describe the principle of working and circuit diagram of a servo transducer. [8+7] 
+ 
+8.a) How the transducers are classified on the basis of principle of operation. 
+     b) Explain the working operation of strain gauge. Give its applications.  [7+8] 
+  
+ 
+---ooOoo--- 
+ R16 
+JNTUH Used Papers 20-09-2020PM
+

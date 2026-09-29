@@ -1,0 +1,94 @@
+Code No: 134BD  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, December - 2018 
+FORMAL LANGUAGES AND AUTOMATA THEORY 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit. Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+(25 Marks) 
+1.a) Define the central concepts of Automata Theory.     [2] 
+   b) Write down the applications of finite automata.     [3] 
+   c) Construct a regular grammar for L= {0n11/n
+ 1}.     [2] 
+   d) Explain the applications of the pumping lemma.     [3] 
+   e) Define ambiguity in CFG with an example.      [2] 
+   f) Write short notes on Parse Trees.       [3] 
+   g) Construct CFG to generate string with any numbers of 1’s.    [2] 
+   h) Write about the programming techniques for Turing Machines.   [3] 
+   i) Define undecidability. Give an example of an undecidable problems.  [2] 
+   j) Write short note on NP-hard problem.      [3] 
+ 
+PART-B 
+(50 Marks) 
+ 2.a) Differentiate between NFA and DFA. 
+    b) Design DFA for the following over {a, b} 
+        i) All strings containing not more than three a’s. 
+       ii) All strings that has at least two occurrences of b between any two occurrences of a.      
+            [5+5] 
+OR 
+3.a) Explain the procedure for converting DFA to NFA.  
+   b) Briefly discuss about Finite Automata with Epsilon- Transitions.    [5+5] 
+  
+4.a) Define Regular Expression? Explain about the properties of Regular Expressions.  
+   b)  Construct a DFA for the Regular expression (0+1)*(00+11) (0+1)*.   [5+5] 
+OR 
+5.  Design a FA for the following languages  
+         a) 
+ 
+***01  
+         b) (0+1)* 111* 
+c)  (0* 11* + 101)         [10] 
+ 
+R16 
+JNTUH USED 22-12-2018AM
+
+6.a) Convert the following grammar to a PDA that accepts the language by empty stack 
+            S  0S1|A 
+            A  1A0 |S|€. 
+   b) Show that for every PDA there exists a CFG such that L(G) = N(P).  [5+5] 
+OR 
+7.a) Derive left and right most derivations for the input string a=b*c+d/e for the given 
+         Grammar. 
+            EE+E|E-E|E*E 
+            EE/E 
+            E(E)|id 
+   b) Explain the followings with examples. 
+            i) Sentential Forms                          
+            ii) Deterministic Pushdown Automata.      [5+5] 
+  
+8.a) Design a Turing Machine to accept the language L={wcwR|w
+ (a+b)*}. 
+   b) Define  Chomsky Normal Form (CNF). Convert the following grammar to CNF        
+          S0S0|1S1|
+           [5+5] 
+OR 
+9.a) Explain following: 
+i) Closure properties of Context Free Languages. 
+ii) Decision properties of Context Free Languages. 
+   b) Design a Turing machine to recognize all strings consisting of odd numbers of 1’s.  [5+5] 
+  
+10.a) Write the properties of recursive and non-recursive enumerable languages.   
+b) Let ἐ ={0,1} and A,B be the list of 3 str ings each. Verify below PCP has a solution or 
+not?           [5+5] 
+                             
+ List A List B 
+1 wi xi 
+1 00 0 
+2 001 11 
+3 1000 011 
+OR 
+ 11.a) Give the correspondence between P,NP and NP-complete problems.  
+      b) Define post`s correspondence problem and show that it is undecidable.  [5+5] 
+ 
+ 
+---ooOoo--- 
+  
+ 
+JNTUH USED 22-12-2018AM
+

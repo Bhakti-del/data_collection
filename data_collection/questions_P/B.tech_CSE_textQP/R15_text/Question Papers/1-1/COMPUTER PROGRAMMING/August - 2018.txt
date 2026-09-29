@@ -1,0 +1,67 @@
+Code No: 121AF             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, August – 2018 
+COMPUTER PROGRAMMING 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, AME, MIE, 
+PTM, CEE, MSNT) 
+ 
+Time: 3 hours                          Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Define Type conversion and give an example.     [2] 
+   b) What is Operator Precedence in Expression Evaluation?    [3] 
+   c) List the applications of arrays.         [2] 
+   d) What are preprocessor commands?       [3] 
+   e) Explain array of strings.        [2] 
+   f) What is Pointer? Write down its applications.     [3] 
+   g) Write any two differences between structure and union.      [2] 
+   h) Explain file status functions.        [3] 
+   i) What are the drawbacks of linear search?      [2] 
+   j) List and explain the stack operations.       [3] 
+ 
+PART-B  
+(50 Marks) 
+2. Explain the following operators: 
+a) Relational Operators 
+     b) Bitwise Operators 
+c) Conditional Operator.        [10] 
+OR 
+3.a) Describe the procedure of creating and running a C program. 
+   b) What is an Identifier? List the rules to declare and define an identifier.   [5+5] 
+  
+4. What is meant by the scope of variables and explain the types of storage class in C?[10] 
+OR 
+5.a) Write a C program to find the factorial of a given number using recursion. 
+b) What is an Array? Explain the representation and Indexing of Two-dimensional array. 
+           [5+5] 
+R15 
+JNTUH USED 11-08-2018AM
+
+ 
+ 
+6.a) Explain briefly about the pointer arithmetic.  
+   b) Write a C program to reverse a string without using strrev() function.  [5+5] 
+OR 
+7.a) Describe briefly about the pointers to pointers with example. 
+   b) Explain in detail about the String Input/output functions.    [5+5] 
+ 
+8. Write a C program to create a marks sheet for stud ents and calculate the average marks 
+obtained by each student using Structures.      [10] 
+OR 
+9.a) Explain in detail about the Enumerated types. 
+   b) Differentiate between text and binary files in detail.     [5+5] 
+ 
+10. Explain Binary Search method with an example.     [10] 
+OR 
+11. What is Queue? Describe Enqueue and Dequeue operations of Queue.  [10] 
+ 
+ 
+--ooOoo-- 
+JNTUH USED 11-08-2018AM
+

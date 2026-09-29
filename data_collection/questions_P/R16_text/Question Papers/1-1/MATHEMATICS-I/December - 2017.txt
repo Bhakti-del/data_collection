@@ -1,0 +1,161 @@
+ 
+Code No: 131AA 
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year I Semester Examinations, December - 2017 
+MATHEMATICS-I 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM, CEE, 
+MSNT) 
+Time: 3 hours                                     Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.           
+ Part B consists of 5 Units. Answer any one full question from each unit. Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Define exact differential equation. Give an example.     [2]  
+   b) Find a particular integral of 
+2
+xey y y x
+    .                                      [3] 
+   c) Show that the matrix 
+32
+2
+iiA ii
+     is Skew-Hermitian.                [2] 
+   d) Find the values of  
+a  and 
+b such that the system      
+ 
+2 3 5 9, 7 3 2 8, 2 3x y z x y z x y az b          has no solution.   [3] 
+   e) Find the sum and product of the Eigen values of the matrix
+257
+1 4 6
+2 2 3
+A
+
+  .   [2]  
+   f) Write the quadratic form corresponding to the matrix
+1 5 7
+5 4 6
+763
+A
+
+ .             [3]  
+   g) If   
+ ,,u f x y y z z x    , find   
+uuu
+x y z
+   .                              [2]  
+   h) Expand 
+ , xyf x y e    about origin up to 2nd degree terms.                  [3]  
+   i) Form a partial differential equation by eliminating the arbitrary function  
+f from  
+ 
+ 
+22z f x y .                                                                              [2] 
+   j) Solve 
+1pq .                                                                                         [3] 
+ 
+PART-B 
+ (50 Marks) 
+ 2.a) Solve  
+   
+2 3 2 23 2 0xy y dx x y xy dy    . 
+    b) Solve
+siny y x x .         [5+5]  
+OR 
+ 3.a) Apply the method of variation of parameters to solve 
+2y y x . 
+    b) If the temperature of the air i s 300 C and the substance cools from 100 0 C to 700 C in           
+ 15 minutes, find when the temperature will be 400 C.    [5+5] 
+ 
+R16 
+JNTUH USED 04-12-2017PM
+
+4.a) Find the rank of the  matrix 
+0 1 3 1
+0 0 1 1
+3 1 0 2
+1 1 2 0
+A
+
+
+
+    by reducing to echelon form.  
+   b)  Show that the system of eq uations 
+5 3 7 4, 3 26 2 9,7 2 10 5x y z x y z x y z                 
+ is consistent and hence solve it.       [5+5] 
+OR 
+5. Solve the system of equations 
+2 2 2 4, 1, 5 2 6x y z y z x y z                               
+ by LU – decomposition method.       [10] 
+ 
+6.a) Find the Eigen values of  
+5 2 15 2 7 3 ,A A A A I       if  
+3 7 5
+2 4 3
+1 2 2
+A
+  
+  . 
+   b) Using Cayley-Hamilton theorem, find 
+1A   and  
+2A   if  
+4 6 6
+1 3 2
+1 4 3
+A
+
+    . [5+5]                
+                                                    OR 
+7. Reduce the quadratic form 
+2 2 28 7 3 12 4 8Q x y z xy xz yz       to canonical form                  
+ and hence find its rank, nature, index and signature.     [10] 
+ 
+8.a) If  
+ 
+44
+, ln xyf x y xy
+    , show that  
+3xyx f y f .   
+   b) Determine whether the functions  
+ 
+2,x y xyuv xy xy
+     are dependent. If so, find the 
+ relation between them.        [5+5]  
+OR 
+ 
+9.a) Find the T aylor series expansion of 
+ , cos xf x y e y   in powers of  
+ 1x  and 
+ 
+4y   . 
+  b) Find the maximum and minimum values of the function 
+  4 4 2 2,1f x y x y x y     . 
+            [5+5] 
+ 
+10.a) Find all possible second order partial differential equations by  eliminating the                
+ arbitrary constants 
+,,abc  from  
+2 2 2
+2 2 2 1x y z
+a b c
+   . 
+     b) Solve 
+   
+22p q z z x y    .       [5+5] 
+  
+OR 
+ 11.a) Reduce the equation 
+ 22p x z z qy  to 
+ , , 0F p q z   form and hence  solve it. 
+      b) Solve 
+ 
+2 2 21p y x qx .        [5+5] 
+ 
+---ooOoo--- 
+  
+JNTUH USED 04-12-2017PM
+

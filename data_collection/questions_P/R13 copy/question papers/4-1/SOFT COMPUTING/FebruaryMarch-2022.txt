@@ -1,0 +1,48 @@
+Code No: 117HN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+  SOFT COMPUTING  
+ (Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.a) Define constraint satisfaction problem (CSP). How CSP is formulated as a search problem? 
+Explain with an example. 
+   b) Explain best first search algorithm.         [9+6] 
+ 
+2.a) Express the following sentences in predicate logic formulae.  
+All people who are not poor and are smart and happy.  
+Those people who read are not stupid.  
+Many can read and is wealthy.  
+Happy people have exciting lives.  
+Anybody who is wealthy is not poor.  
+John is wealthy but not happy.  
+A smart person is not stupid. 
+ b) Convert the formulae into clausal form.  
+ c) Use resolution/reputation to answer the query: - “Can anybody be found with an exciting 
+life”?             [6+6+3] 
+ 
+3.a) Derive output equations and weight update equa tions for a multilayer feed forward neural 
+network using back propagation algorithm. 
+   b) What are the limitations of “Perceptron” model? Explain.      [10+5] 
+ 
+4.a) Explain the basic architecture and algorithm of discrete Hopfield networks. 
+   b) Explain the architectural details and algorithm of “ADALINE” model.  [10+5]  
+ 
+5. Explain in detail about the counter propagation networks with an example.  [15] 
+ 
+6.a) Illustrate in detail about the adaptive resonance theory networks with an example. 
+   b) Compare and contrast between supervised and unsupervised learning.  [8+7] 
+ 
+7.a) What is meant by membership function? Explain in detail various membership functions of 
+fuzzy logic systems. 
+   b) Discuss briefly about fuzzy relations.       [10+5] 
+ 
+8.a) Explain different cross over operations performed in Genetic Algorithms. 
+   b) Explain applications of fuzzy logic in control system with one example.  [8+7] 
+ 
+--ooOoo-- 
+R13 JNTUH Used Papers Feb 2022
+

@@ -1,0 +1,40 @@
+Code No:  138BE 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, September - 2020 
+COMPUTER FORENSICS  
+(Computer Science and Engineering) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any Five Questions 
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.a) Write the goals of incident response in forensic science. 
+   b) Discuss major components of incident response.      [8+7]  
+ 
+2. Give the steps to duplicate and preservation of digital evidence.   [15] 
+ 
+3.a) List and explain forensic data tools. 
+   b) Enumerate steps for live data acquisition.      [7+8] 
+ 
+4. Explain the methods to investigate email crimes and violations.   [15] 
+ 
+5.a) Describe FAT disks in detail. 
+   b)  Analyze startup tasks of MS-DOS.       [7+8] 
+ 
+6. List and explain the indications for detecting incident.    [15] 
+ 
+7.a) List and explain forensic duplication tools. 
+   b) Write the requirements of forensic duplication tools.     [7+8] 
+ 
+8. Explain, how evidences collected in private sector incident scene.   [15] 
+ 
+--ooOoo-- 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used Papers 18-09-2020PM
+

@@ -1,0 +1,85 @@
+ 
+ 
+Code No: 111AH  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, May - 2018 
+ENGINEERING DRAWING 
+(Common to CSE, MIE, PTM) 
+Time: 3 hours                  Max Marks: 75 
+Answer all five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Construct an Ellipse when the distance of focus from the directrix is equal to 60  mm   
+ and eccentricity is 2/3. Draw Tangent and Normal to the curve at a distance of 80  mm 
+ from directrix.        
+   b) Divide a Straight line of 70 mm into 11(eleven) equal parts.        [12+3] 
+OR 
+2.a) Construct a diagonal scale of RF= 1/(6250) to read upto  1 Kilometer and to read meters 
+ on it. Show a distance of 653 meters on it.   
+   b) Show by means of a drawing that when the diameter of the directing c ircle is twice 
+ that of the generating circle,  the Hypocycloid is a straight line. Take the diameter of 
+            generating circle is 50 mm.          [8+7] 
+ 
+3.a) A Rectangle plane of EFGH of size 60  mm × 30 mm has a corner E on H.P. and                    
+ 20 mm in-front of V.P. The longer side of rectangle is inclined at 70 0 to H.P. and parallel 
+ to V.P. Draw its projections.     
+   b) A line CD of 60mm length is inclined at an angle of 30 0 to H.P. and 450 to V.P. The Point 
+ C is 20 mm above   H.P. and 15 mm in-front of V.P. and 80 mm from Right profile plane. 
+ Draw i) Front View    ii) Top view      iii) Left side view of the line.                       [6+9]                                                                           
+OR 
+4.a) A line AB, of  90 mm long, is inclined at 45 0 to HP and its top view makes an angle 
+ of 60 0 with XY. The end A is on HP and 12 mm in -front of VP. Draw its projections, 
+         Traces and find its inclination with VP.  
+   b) Two points A and B are on HP, the point A bei ng 30 mm in -front of VP while B is            
+ 45 mm behind VP. The line joining their top views makes an angle of 450 with XY. Find  
+ horizontal distance between the two points.                                      [10+5] 
+ 
+5. A Pentagonal pyramid of base 20 mm and axis 50 mm has its triangular face in the 
+ VP with a shorter side inclined to the HP at 300. Draw its projections       [15]   
+OR 
+6. A Pentagonal prism of edge of base 30 mm and axis 60 mm long is resting on one of its 
+ faces on HP. The axis of t he prism is parallel to both HP and VP. It is cut by a section 
+ plane, inclined at 45 0 to HP and passing through the axis 15 mm from one of its base. 
+ Draw the projections and show the true shape of the section.        [15] 
+ 
+7. Draw the development of a Cy linder of 40 mm diameter and 60 mm height, containing a 
+ square hole of 20 mm side. The sides of the hole are equally incl ined to the base and 
+           the axis of the hole bisects the axis of the cylinder.          [15] 
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 24-05-18AMJNTUH USED 24-05-18AM
+JNTUH USED 24-05-2018AM
+
+ 
+ 
+8. A vertical cylinder of 70 mm diameter is penetrated by a horizontal cylinder of the same 
+ size. The axis of the penetrating cylinder is 12 mm away from the axis of the 
+           vertical cylinder. Draw the projections of the cylinders and showing the lines (curves) 
+           of intersection.               [15]  
+      
+9. Draw the Front view,  Top view and side view of the object shown in figure. All 
+ dimensions are in mm.            [15]  
+  
+OR 
+10.a) Draw the Perspective view of a vertical circular plane of 50 mm diameter, in clined at 300                     
+ to the Picture plane  (P.P). The center of the plane is 25  mm behind the P.P. It is resting 
+ on a point on the circumference on the ground.  The station point is located in  the central 
+ plane passing through the cent er of t he circular plane and 80 mm in -front of P.P. and     
+ 70 mm above the ground.      
+    b) Draw the Isometric projection of a circular lamina of 60 mm diameter, when its 
+            surface is Vertical.         [10+5] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 24-05-18AMJNTUH USED 24-05-18AM
+JNTUH USED 24-05-2018AM
+

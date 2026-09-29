@@ -1,0 +1,43 @@
+Code No: 113AU     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, August/September - 2022 
+ELECTRONIC DEVICES AND CIRCUITS 
+(Common to EEE, ECE, CSE, IT) 
+Time: 3 Hours                           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Write the diode current equation? Discuss Static and Dynamic resistances. 
+   b) Explain the V-I characteristics of P-N junction diode in detail.   [8+7]
+  
+2.a) Discuss the principle of  operation of Tunnel diode with the help of energy band 
+diagram.           
+   b) What are the applications of varactor diodes? Explain.    [8+7] 
+ 
+3.a) What are the important characteristics of a rectifier circuits?    
+   b) Derive the equation for the efficiency of a half wave rectifier circuit.  [6+9] 
+  
+4.a)  A bridge rectifier uses four identical diodes having forward resistance of 5Ω each. 
+Transformer secondary resistance is 5Ω and the secondary voltage of 30V ( RMS). 
+Determine the DC output voltage for IDC = 200mA and the value of the ripple voltage. 
+   b) Explain Zener as a voltage regulator.       [8+7]
+   
+5.a) How does a transistor work as an amplifier? Explain.     
+   b) Draw the hybrid model of BJT and explain the significance of each component. [8+7] 
+  
+6.a) Explain the construction of a BJT and define all current components.   
+  b) Discuss how to determine the h-parameters from transfer characteristics of a BJT. [8+7] 
+ 
+7.a) What is the need for biasing? Discuss the factors that affecting the operating point. 
+   b) What are the different diode compensation methods for stability? Explain.  [8+7] 
+ 
+8.a) Explain the working of n-channel enhancement mode MOSFET.    
+   b) Discuss the volt-ampere characteristics of JFET.     [8+7]
+   
+  
+ 
+---oo0oo--- 
+ 
+R13 JNTUH Used paper Aug-2022
+

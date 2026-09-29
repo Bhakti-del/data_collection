@@ -1,0 +1,42 @@
+ 
+ 
+ 
+Code No: 118EN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2020 
+SCRIPTING LANGUAGES 
+(Computer Science and Engineering) 
+Time: 2 hours                                   Max. Marks: 75 
+ 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) List and explain the Characteristics of Scripting Languages.  
+   b) Differentiate between Scripting language and Programming language with examples.[7+8] 
+ 
+2. Illustrate how PHP code is embedded in web pages with an example.  [15] 
+ 
+3. Write a program for Uploading Files with PHP using Email by authentication. [15] 
+ 
+4. What is the relationship between TCL and TK, also explain how TK is related to other 
+dynamic programming languages.       [15] 
+ 
+5. How to build Efficient Python Web Systems, and also explain the concept Web 
+Application Framework with neat diagram.      [15] 
+ 
+6.a) Discuss the subroutines in scripting languages with an example. 
+   b) With examples explain the pattern and regular expressions.     [7+8] 
+ 
+7.a) Using Perl program explain push and pop in array implementation  
+   b) Define PHP. Explain the rules to construct a variable in PHP.   [7+8] 
+ 
+8. Explain about IP based authentication in PHP.     [15] 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+R13 
+JNTUH Used Papers 18-09-2020PM
+

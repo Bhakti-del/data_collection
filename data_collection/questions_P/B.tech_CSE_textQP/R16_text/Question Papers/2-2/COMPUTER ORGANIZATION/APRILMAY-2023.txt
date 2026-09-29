@@ -1,0 +1,72 @@
+Code No: 134AK 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, April/May-2023 
+COMPUTER ORGANIZATION  
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define computer architecture.        [2] 
+   b)      Why is CPU known as the heart of the computer?     [3] 
+   c)      What are assembly directives?       [2] 
+   d)      List the main advantages of segmented memory scheme.    [3] 
+   e)      What is a macro?         [2] 
+   f)      What are the different DEBUG command characters used in MASM?   [3] 
+   g)      What is daisy chaining interrupt?       [2] 
+   h)      What are the three ways of representing a negative fixed-point binary numbers?  [3] 
+   i)      What is meant by auxiliary memory?       [2] 
+   j)      Give examples for parallel processing.      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.  With a suitable flowchart describe the concept of instruction cycle.   [10] 
+OR 
+3.  Demonstrate the general configuration of a micro programmed control unit. [10] 
+  
+4.  Describe general bus operation cycle of 8086 with suitable timing diagram. [10] 
+OR 
+5.  Illustrate the functionality of the following instructions of 8086: 
+ (a) AAM   (b) LDS  (c) ADC  (d) XSLT (e) LODS.     [10] 
+ 
+6.  How to write an assembly language program? Explain each step in detail with a 
+suitable program.         [10] 
+OR 
+7.  Write a program to find out the number of even numbers and odd numbers from a given 
+series of 16-bit hexadecimal numbers.      [10] 
+ 
+8.  With the help of a flowchart explain the division operation on floating point numbers. 
+            [10] 
+          OR 
+9.a)  Make a comparison of isolated I/O with memory-mapped I/O. 
+   b)  Describe an I/O interface unit.       [5+5] 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+10.  Explain the three mapping procedures used in cache memory organization with suitable 
+examples.           [10] 
+OR 
+11.  Demonstrate the usage of crossbar switch in multiprocessor systems with necessary 
+block diagram.         [10] 
+   
+  
+---ooOoo--- 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

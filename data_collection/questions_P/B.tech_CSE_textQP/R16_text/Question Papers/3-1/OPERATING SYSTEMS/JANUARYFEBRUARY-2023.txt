@@ -1,0 +1,95 @@
+ 
+ 
+ 
+Code No: 135SC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, January/February - 2023 
+ OPERATING SYSTEMS  
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 mark s               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      How do clustered systems differ from multiprocessor systems?   [2]  
+   b)      Show the purpose of system calls?       [3] 
+   c)      What is the meaning of the term busy waiting?     [2] 
+   d)      Show the process state diagram with two suspend states.    [3] 
+   e)      List out the differences between logical and physical address space.  [2] 
+   f)      Illustrate about Swapping.        [3] 
+   g)      Write about the Acyclic graph directory.        [2] 
+   h)     Define the terms seek time and rotational latency.     [3] 
+   i)      What is Deadlock? How Deadlock can be avoided?     [2] 
+   j)       Demonstrate the principles of protection.      [3] 
+   
+PART – B  
+(50 Marks) 
+ 
+2.a)  Explain the three main purposes of an operating system.           
+b)  Discover the three major activities of an operating system with regard to memory 
+management.              [5+5] 
+OR 
+3.a)  Distinguish between the client–server and peer-to-peer models of distributed systems.   
+b)  List five services provided by an operating system, and explain how each creates 
+convenience for users. In which cases would it be impossible for user-level programs to 
+provide these services? Explain your answer.      [4+6]
+              
+  
+4.  Following is the snapshot of a CPU                   
+             
+  
+Construct the Gantt chart and calculate the turnaround time and waiting time of the 
+processes using the following scheduling algorithms: a) FCFS b) SJF c) RR (with time 
+quantum=5).                                                                                             [3+3+4] 
+ 
+ 
+ 
+ 
+RA 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+OR 
+5.a)  Evaluate that, if the wait() and signal() semaphore operations are not executed 
+atomically, then mutual exclusion may be violated.  
+   b)  List out the differences between pre-emptive and non-pre-emptive scheduling. [6+4] 
+ 
+6.a)  Consider the page reference string 1, 0, 2, 5, 3, 0, 1, 0, 2, 4, 0, 3, 0, 4, 2, 4, 3, 4, 1, 4, 0. 
+How many page faults occur for the Optimal an d LRU Page replacement algorithms 
+with 4 frames each?              
+   b)  Explain first, best fit memory allocation techniques.                                 [7+3] 
+OR 
+7.a)  What is Thrashing? Explain the Causes of Thrashing. 
+   b)  Discuss in detail about various page table structures.                                          [5+5]  
+ 
+8.  Explain the following disk scheduling algorithm with proper diagram             
+         a) FCFS                                c) SCAN                   e) C-SCAN. 
+         b) SSTF                                d) LOOK         [10] 
+                                                                   OR 
+9.  Discuss the following:                
+          a) Contiguous 
+          b) Linked file allocation methods.       [5+5] 
+ 
+10.  Consider a system with three processes and four resources. Resource R1 and R3 with 
+one instance, R2 with two instance, process P1 holding an instance of R2 and waiting 
+for R1, process P2 is holding an instance of R1 and R2 and waiting for R3,process P3 is 
+holding an instance of R3.  
+         a) Examine resource allocation graph to the given system.                                
+          b) Is it possible to apply the Resource allocation graph algorithm to avoid deadlock?    
+Explain.               [5+5]                                                                                                                                                         
+                                                                      OR 
+11.a)  What is access matrix? Explain the various methods to implement it.    
+     b)  Analyze the importance of Capability-Based Protection system.                [5+5] 
+  
+ 
+  
+---ooOoo---    
+JNTUH Used papers 2023
+

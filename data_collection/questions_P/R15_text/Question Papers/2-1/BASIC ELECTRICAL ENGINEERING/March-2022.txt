@@ -1,0 +1,70 @@
+Code No: 123BR  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech II Year I Semester Examinations, March - 2022 
+BASIC ELECTRICAL ENGINEERING 
+(Common to CSE, IT) 
+Time: 3 Hours                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Define the following and mention their units: 
+(i) Electric charge, (ii) electric current, (iii) electric potential, (iv) emf, (v) electric 
+resistance, (vi) conductance, (vii) resistivity, (viii) conductivity. 
+b) A cir cuit consists of three resistances of 12 ohm, 18 ohm, and 3 ohm, respectively, 
+joined in  parallel connected in series with a fourth resistance. The whole circuit is 
+supplied at 60 V and  it is found that power dissipated in 12 ohm resistance is 36 W. 
+Determine the value of fourth  resistance and the total power dissipated in the group.
+           [8+7] 
+ 
+2.a) Determine the current I in 4 ohm resistance for the following circuit (figure 1). 
+ 
+Figure: 1 
+   b) State and explain maximum power transfer theorem.    [8+7] 
+ 
+3.a) Derive a relation for peak factor and form factor of a sinusoidal quantity. 
+   b) A capacitor has a capacitance of 30 μF. Find its capacitive reactance for frequencies of   
+  25 and 50 Hz. Find in each case the current if the supply voltage is 440 V.  [8+7] 
+ 
+4.a) Draw the phasor and wave diagram for voltage and current in an R –L series circuit   
+connected with sinusoidal excitation. 
+b) A non-inductive resistance of 10 Ω is connected in  series with an inductive coil across 
+200 V, 50 Hz AC  supply. The current drawn by the series combination is  10 A. The 
+resistance of the coil is 2 Ω. Determine (i) inductance of the coil, and (ii) voltage across 
+the coil. (figure 2).         [8+7] 
+                                           
+  
+Figure: 2 
+R15 JNTUH Usedpapers March 2022
+
+5.a) Explain the co nstruction and working principle of a transformer and derive its emf 
+equation. 
+b) A 25 kVA transformer has 500 turns on the primary and 40 turns on the secondary 
+winding. The primary is connected to 3000 V, 50 Hz mains, calculate (i) primary and 
+secondary currents at full load, (ii) the secondary emf, and (iii) the maximum flux in the 
+core. Neglect magnetic leakage,  resistance of the winding and the primary no -load 
+current in relation to the full-load current.       [8+7] 
+ 
+6.a) Draw and explain the equivalent circuit of a loaded Single – Phase transformer from 
+different tests. 
+   b) List and explain the various losses that occur in a Single – Phase transformer. [9+6] 
+ 
+7.a) Explain the working principle of 3-phase induction motor. 
+b) Calculate the voltage induced in the armature winding of a 4 -pole, wave wound DC 
+machine having 500 conductors and running at 1,000 rpm. The flux per pole is                  
+30 mWb.           [8+7]
+       
+8.a) Explain the various methods of providing controlling torque in indicating instruments. 
+b) Explain with neat sketches the principle, construction, and working of moving iron                     
+repulsion-type instruments.        [7+8] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+JNTUH Usedpapers March 2022
+

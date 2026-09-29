@@ -1,0 +1,39 @@
+ 
+Code No: 126EQ  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February/March - 2022 
+OBJECT ORIENTED ANALYSIS AND DESIGN 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Describe the various elements of the object model in detail. 
+   b)  Explain the properties of simple and complex software systems.   [7+8] 
+ 
+2.a)  Describe the importance of model building. 
+   b)  Explain different kinds of relationships exist among objects.   [7+8] 
+  
+3.a)  What are the four kinds of relationships available in the UML? Explain. 
+   b)  Draw a Class diagram for Online Railway Reservation System with analysis. [7+8] 
+ 
+4.a)  What are the four things that a well-structured class diagram should have? Explain. 
+   b)  Draw the class diagram for course registration system.    [8+7] 
+ 
+5.    What are the components of use case diagram? Explain briefly.     [15] 
+ 
+6.   Explain briefly about collaboration diagram with suitable example.     [15] 
+    
+7.a)  What are the characteristics of a well-structured deployment diagram? Explain. 
+   b)   Draw the deployment diagram for ATM system.     [8+7] 
+    
+8.    Define component, port, and connectors. How component are related with interfaces?
+              [15] 
+  
+ 
+---ooOoo--- 
+ 
+ R13 
+used paper feb/mar-2022 jntuh
+

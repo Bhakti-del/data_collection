@@ -1,0 +1,66 @@
+Code No: 117FN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2017 
+MOBILE COMPUTING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                       Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.               
+Part B consists of 5 Units. Answer any one full question from each unit.                          
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART – A 
+(25 Marks) 
+ 
+1.a) Define mobile computing.        [2]  
+   b)      Discuss the limitations of handheld devices.      [3] 
+   c)      What is meant by tunneling?        [2] 
+   d)      Write short notes on TCP/IP.        [3] 
+   e)      What are the advantages of I-TCP?       [2] 
+   f)       What are the quality issues related to mobile computing?    [3] 
+   g)      What is bandwidth?           [2] 
+   h)      Explain temporal addressing.        [3] 
+   i)       What are the disadvantages of MANETs?      [2] 
+   j)       What are the features of windows CE operating system?    [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) Explain briefly about the architecture reference model of mobile computing. 
+   b)  Explain different mobile applications.      [5+5] 
+OR 
+3.a) Write the difference between circuit switching and packet switching. 
+   b)  Explain about the time division multiplexing.     [5+5] 
+ 
+4. Explain in detail about IEEE 802.11.       [10] 
+                                                                           OR 
+5.a) Distinguish between unicast, multicast and broadcast address. 
+   b)  Write short notes on DHCP.        [5+5] 
+ 
+6.a)  Explain in detail Snooping TCP. 
+   b)  Compare different TCP enhancements.      [5+5] 
+OR 
+7.a) What  are the hoarding technique? Explain in detail. 
+   b)  Explain the process of data recovery.       [5+5] 
+ 
+R13 
+  
+JNTUH USED 29-11-17PM Set 1
+
+8.a) Explain the classification of data delivery mechanism. 
+   b)  Distinguish between push and pull-based mechanism of data dissemination. [5+5] 
+OR 
+9.a)  Write a short notes on selective tuning and indexing techniques. 
+   b)  Compare the features of hotsync, activesync and intellisync.   [5+5] 
+ 
+10.a)  Explain about mobile ad hoc networks(MANETs). 
+     b)  Distinguish between cellular networks and ad hoc wireless networks.  [5+5] 
+OR 
+11.a)  Explain J2ME. 
+     b)  Write about DSR.         [5+5] 
+  
+ 
+--ooOoo--  
+JNTUH USED 29-11-17PM Set 1
+

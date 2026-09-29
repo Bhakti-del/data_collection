@@ -1,0 +1,56 @@
+ 
+  
+Code No: 115EH            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, September - 2021 
+OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+---- 
+ 
+1.a)  What are the major services of an operating system with regard to process 
+management? Explain. 
+   b)  Give an overview of virtual machines.      [8+7] 
+ 
+2.a)  Explain the layered architecture of an operating system. 
+   b)  Explain various types of Operating System calls.     [7+8] 
+ 
+3.  Assume that the following jobs are to be executed with one processor: 
+ 
+Job  Burst Time  Arrival 
+Time  1 
+ 
+10 3 
+2 1 4 
+3 2 1 
+4 1 2 
+5 5 0 
+  
+Give Gantt-Chart illustrating the execution of these jobs using RR (quantum =2) and 
+Shortest remaining time First  (Preemptive). Compare their performance in terms of  
+average turn-around time, and average waiting time ?      [15]
+  
+4.a)  What are the operations defined on a semaphore? 
+   b)  Discuss about Peterson solution to critical section problem.    [7+8] 
+ 
+5.a)  What are the issues in the allocation of frames? Discuss.  
+   b)  Explain in detail how demand paging is evaluated for its performance.  [7+8] 
+ 
+6.a)  Consider the page reference string 1, 0,  2, 5, 3, 0, 1, 0, 2, 4, 0, 3, 0, 4, 2, 4, 3, 4, 1, 4, 0. 
+How many page faults occur for the Optimal and LRU Page replacement algorithms 
+with 4 frames each? 
+   b)  Discuss about belady’s anomaly.       [8+7] 
+  
+7.a)  What is RAID? What are the different RAID levels? Explain them.  
+   b)   Explain about record blocking.       [8+7] 
+ 
+8.a)  What are the necessary conditions that lead to deadlock and define strategies for 
+deadlock prevention. 
+   b)  Explain about implementation of language based protection.   [8+7] 
+ 
+---ooOoo--- 
+R13 
+USED PAPERSSEP-2021
+

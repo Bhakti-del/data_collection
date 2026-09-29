@@ -1,0 +1,39 @@
+ 
+ 
+ 
+Code No: 118EN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, December - 2020 
+SCRIPTING LANGUAGES 
+(Computer Science and Engineering) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - - 
+ 
+1. Describe the characteristics and desirable properties of scripting languages.  [15] 
+ 
+2. What are the rules for naming variables in PERL? What are the rules for naming
+ variables in PERL? Discuss about the scalar data with examples for each.   [15] 
+  
+3. Explain how to create package in Perl? Illustrate with an example.   [15] 
+ 
+4. How to embedded PHP code in your Web pages and output the data to the browser?  
+ Explain the implementation steps.        [15] 
+   
+5. What is the advantage of HTML_QuickForm2 feature in PHP? Explain how to create  
+ and validate a simple form using this feature.      [15] 
+ 
+6. Discuss the four PHP authentication methodologies with sample scripts and examples.  
+            [15] 
+ 
+7. List and explain various control flow commands in Tcl.     [15] 
+ 
+8. Explain how to handle the exception in Python.     [15] 
+ 
+ 
+---ooOoo--- 
+ 
+R13 
+JnTUH Used Papers
+

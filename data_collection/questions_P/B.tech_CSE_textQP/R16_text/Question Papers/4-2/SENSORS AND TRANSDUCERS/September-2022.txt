@@ -1,0 +1,51 @@
+Code No: 138GY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2022  
+ SENSORS AND TRANSDUCERS 
+ (Common to EEE, ECE, CSE) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) Distinguish between Direct comparison method and Indirect comparison methods of 
+measurement. 
+   b) Explain the following types of errors with respect to measurement systems: 
+i) Gross errors  ii) Systematic errors  iii) Random errors.   [8+7] 
+ 
+2.a) What are Static characteristics and explain the following with respect to it: 
+i) Accuracy                    ii) Sensitivity                   iii) Reproducibility   
+iv) Drift                          v) Static error                  vi) Dead zone  
+    b) Explain the time response of a first order system to a ramp input.   [8+7] 
+ 
+3.a) List and explain the factors which influence the choice of transducers. 
+b) Define the term transducer and gi ve the broad classification of it along with brief 
+explanation of each.         [8+7] 
+ 
+4.a) Explain the working of Resistive Potentiometers with necessary diagram and its 
+characteristics.  
+b) Prove that the “gauge factor is equal to the summation of resist ance change due to change 
+of length, resistance due to change in area and resistance change due to Piezo resistive 
+effect” with respect to Strain gauges.       [5+10] 
+ 
+5.a) Explain the working of Linear variable Differential Transformer (LVDT). 
+b) Explain the working of resistance thermometer.     [8+7] 
+ 
+6.a) Explain the working of Piezo – Electric transducers. 
+b) Two plates of parallel plate capacitive transducer are 32 mm apart and the space is filled 
+with two different dielectric materials, one material is  1 cm thick with a dielectric constant 
+of 5 and the 20 mm thick with a dielectric constant of 12. If the capacitive transducer were 
+to be made up of a single dielectric material? What is the dielectric constant of that 
+material?          [8+7] 
+ 
+7. Name dif ferent mathematical model of transducer and explain in detail any one with 
+suitable diagram.         [15] 
+ 
+8. Write short notes on the following: 
+ a) Hot wire anemometer  b) Proving Ring.     [7+8] 
+ 
+--ooOoo-- 
+ 
+R16 
+JNTUH Used Papers
+

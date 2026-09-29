@@ -1,0 +1,40 @@
+Code No: 135AF                             
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2021 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Discuss Strassen’s matrix multiplication as well as classical O (n^2) one. Determine 
+when Strassen’s method outperforms the classical one.  
+b) Define Time Complexity. Describe differen t notations used to represent these            
+complexities.          [8+7] 
+ 
+2. List and explain the applications of backtracking.        [15] 
+ 
+3. Apply the greedy method to solve Knapsack problem for given instance. 
+Where n=3, m=20, (p1,p2,p3)=(25,24,15), and weight (w1,w2,w3)=(18,15,10).   [15] 
+ 
+4. What is travelling salesman problem?  Explain how it can be solved using Branch and 
+Bound method. Show the steps and solution by taking any one exampl e containing          
+atleast 5 cities and 10 ways to travel between them.       [15] 
+ 
+5.a) Using branch and bound technique explain the 0/1 knapsack problem.  
+   b) Give a note on FIFO branch and bound solution.     [7+8] 
+ 
+6. Explain the Bi-connected components in detail.        [15] 
+ 
+7.a) Explain binary search and find its time complexity.  
+b) Write an algorithm for finding maximum element of an array; perform best, worst and 
+average case complexity with appropriate order notations.    [7+8] 
+ 
+8. State and prove the Cook’s theorem.         [15] 
+ 
+---ooOoo--- 
+ R16 
+09-03-2021 AM
+USED PAPER MARCH-2021
+

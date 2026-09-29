@@ -1,0 +1,50 @@
+Code No: 138HC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2022 
+TOTAL QUALITY MANAGEMENT 
+ (Common to CE, EEE, ECE, CSE, IT) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Trace the history of evolution of quality movement. Also highlight the contributions of 
+any four of the quality gurus over the years.      [15]
+  
+2.a) Why do you think that control of ‘process quality ’ is better approach to mere fin al 
+inspection of the product?                                                              
+b) Sketch the OC curves for the following two cases, clearly showing parameters of X and 
+Y axis. 
+            n = 40  c = 1 
+            n = 440 c = 4 and discuss briefly the shape and property of the two curves.  [6+9] 
+                                                                                                                      
+3.a) What is supplier partnering approach? What is the  effect of smooth  coordination 
+between supplier and manufacturer on quality performance? Why?     
+   b) What is the concept of ‘internal customer’?  What purpose does it serve in quality 
+improvement?                                [9+6] 
+ 
+4.a) What is the importance on deciding what to be nchmark and the standards for 
+benchmarking?                                                
+   b) How do you justify that quality focus in an organization is closely interlinked to its 
+customer focus?                                              [7+8] 
+ 
+5.a) Who form the members of quality circles? Describe the role played by ‘quality circle 
+member’?                                                                     
+   b) What is scatter diagram? How can it serve to analyze quality issues?    [9+6] 
+  
+6.a) What is the step -by-step approach for transforming a traditional organization to TQM 
+organization?                                                  
+   b) What is pareto diagram? What does it highlight?               [10+5] 
+ 
+7. What is the importance of class ifying quality costs? What are the various components 
+of internal and external failure costs of quality?                           [15] 
+ 
+8. What are ISO 9000 standards? Describe each of them briefly.   [15] 
+ 
+ 
+---oo0oo--- 
+  
+ 
+R16 
+JNTUH Used Papers
+

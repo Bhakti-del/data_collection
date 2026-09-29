@@ -1,0 +1,81 @@
+ 
+ 
+ 
+Code No: 115AN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, May - 2018 
+ PRINCIPLES OF PROGRAMMING LANGUAGES 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) In what way do operational semantics differ from denotational semantics?  [2] 
+b) A programming language can be compiled or interprete d. Give relative advantages and 
+disadvantages of compilation and interpretation.      [3] 
+   c) Define Union type.          [2] 
+   d) How pointers are represented and used in C and C++?     [3] 
+   e) What are the different categories of subprograms?      [2] 
+   f) Give a brief note on Scope and lifetime of variable.      [3] 
+   g) What is the purpose of the Java Finally clause?     [2] 
+   h) Explain the applications of logic programming.     [3] 
+   i) Write about functions in ML and Haskell.      [2] 
+   j) Discuss the storage and Control in python.       [3] 
+   
+PART - B 
+(50 Marks)       
+ 
+2.a) What is need for study of programming languages? Explain. 
+   b) Describe the Programming Paradigms.      [5+5] 
+OR 
+3.a) Define Ambiguity. Write short notes on attributed grammars.  
+  b) Explain briefly about the Denotational semantics with example.   [5+5] 
+    
+4. What is an array? Explain about various array operations with an example.    [10] 
+OR 
+5.a) Explain the syntax of Ada Union Type.  
+   b) List and explain the design issues for all iterative control statements.   [5+5] 
+  
+6. Describe the Design issues of subprograms and operations.       [10] 
+OR 
+7.a) Briefly explain the static and dynamic scope.   
+   b) What are the general subprogram characteristics? Explain.    [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+R13 
+used paper 19-05-2018
+
+ 
+ 
+ 
+ 
+8. Explain how Binary semaphore prov ides solution to the competition synchronization 
+problem with example pseudo code.         [10] 
+OR 
+9. What is exception handling? Explain about exception handling in Java.    [10] 
+  
+10.a) What is the difference between functional and imperative languages?  
+     b) Discuss the data types supported in Python.      [5+5] 
+OR 
+11. Explain the common characteristics of the scripting languages.     [10] 
+ 
+ 
+---oo0oo--- 
+  
+ 
+ 
+ 
+ 
+  
+used paper 19-05-2018
+

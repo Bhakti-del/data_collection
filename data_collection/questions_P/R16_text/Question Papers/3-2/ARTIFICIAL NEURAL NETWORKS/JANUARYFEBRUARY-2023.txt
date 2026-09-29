@@ -1,0 +1,74 @@
+ 
+ 
+Code No: 136ER       
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+ARTIFICIAL NEURAL NETWORKS 
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)    Compare neural network with human brain.      [2] 
+   b)    What is error correction learning? Explain.      [3] 
+   c)    What are the heuristics used in BP algorithm?     [2] 
+   d)    Explain about single layer perceptron.      [3] 
+   e)    What is delta rule in back propagation?      [2] 
+   f)     How do you calculate back propagation error?     [3] 
+   g)    What is the purpose of a self-organizing map?     [2] 
+   h)    Write the basic steps in SOM algorithm.      [3] 
+   i)     What is the purpose of dynamic systems?      [2] 
+   j)     What do you mean by stability of equilibrium states?     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  List and explain different neural network architectures in brief. 
+   b)  What is learning? Explain the statistical nature of the learning process.  [5+5] 
+OR 
+3.a)  Explain the differences between hebbian learning competitive learning techniques. 
+   b)  What is Boltzmann learning? How is it different from other learning techniques? [5+5] 
+  
+4.a)  Write and explain Least Mean Square algorithm. 
+   b)  How convergence is achieved in back propagation algorithm?   [5+5] 
+OR 
+5.a)  State and explain adaptive filtering problem. 
+   b)  Write the solution for XOR problem using BP algorithm.    [5+5] 
+ 
+6.a)  Compare and contrast Back propagation and Differentiation. 
+   b)  Explain about cross validation techniques used in neural networks.   [5+5] 
+OR 
+7.a)  List and explain various network pruning techniques. 
+   b)  Write a brief note on Hessian Matrix and Generalization.    [5+5] 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+8.  Write the following algorithms in associative memories. 
+a) Retrieval algorithm    
+b) Storage algorithm.         [5+5] 
+OR 
+9.a)  What are the two Basic Feature Mapping Models? Discuss. 
+   b)  What is the purpose of learning vector quantization? Explain.   [5+5] 
+ 
+10.a)  What are Attractor neural networks? Explain. 
+     b)  Explain manipulation process of Attractors as a Recurrent Network Paradigm. [5+5] 
+OR 
+11.a)  What are the modes of operation of a Hopfield network?. 
+     b)  Explain the algorithm for storage of information in a Hopfield network.   [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

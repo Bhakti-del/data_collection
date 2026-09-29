@@ -1,0 +1,77 @@
+Code No: 113BP  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, May/June - 2019 
+DATA STRUCTURES 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART – A 
+(25 Marks) 
+1.a) Explain the properties of an algorithm.     [2]  
+   b) Distinguish between linear and non linear data structures.   [3] 
+   c) What are the disadvantages of queue which is implemented using array and how 
+ to overcome it.          [2] 
+   d) Write a program to check whether a given string is palindrome or not using stack. 
+           [3] 
+   e) Explain the tree traversals with an example.     [2]  
+   f) Write a function in C to insert an element into a binary search tree.  [3]  
+   g) Explain hash collision.         [2]  
+   h) Distinguish between Insertion sort and Selection sort.   [3]  
+   i) Explain the properties of B-tree.      [2] 
+   j) Write a function of rotations of AVL tree.     [3] 
+ 
+PART – B 
+(50 Marks) 
+2.a) Write a function to count the number of nodes in a singly linked list. 
+   b) What are the advantages and disadvantages of representing a stack or queue by a 
+ linked list?         [5+5] 
+OR 
+3.a) Write a function to concatenates two circular singly linked lists. 
+   b) Explain the Asymptotic notations with an example.    [5+5] 
+ 
+4.a) Write a program to convert infix expression to postfix expression. 
+   b) Explain the applications of circular queue.     [5+5] 
+OR 
+5.a) Explain the operations of Dequeue with an example. 
+   b) Write an algorithm to reverse a string using stack.    [5+5] 
+ 
+6.a) Explain the different techniques used to represent a graph in computer memory. 
+   b) Write a function to delete an element from the Heap.   [5+5] 
+OR 
+7.a) Construct the binary tree of the following data 
+ 25, 30, 10, 9, 62, 5, 18, 43, 53 
+   b)   Explain the Graph traversals with an example.    [5+5] 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED07-06-2019AM
+
+8.a) Explain how the choice of pivot element affects the running time of quick sort 
+ algorithm. 
+   b) Insert the following elements into the hash table by using Quadrat ic probing  
+ (size of the hash table 10) 30, 45, 28, 65, 26, 77, 40, 11   [5+5] 
+OR 
+9.a) Sort the following list of elements by using Heapsort 
+ 35, 48, 20, 80, 22, 36, 100,5,15 
+   b) Write a program to implement the binary search.     [5+5] 
+  
+10.a) Construct the Red-Black tree of the following data 
+ 40, 25, 10, 60, 55, 70, 100,15,28 
+     b) Write an algorithm of KMP.       [5+5] 
+OR 
+11.a) Write an algorithm to delete an element from the binary search tree 
+     b) Construct the B-Tree of order 4 of the following data 
+ 20, 30, 40, 15,18, 16, 50, 25, 9, 17, 10     [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH USED07-06-2019AM
+

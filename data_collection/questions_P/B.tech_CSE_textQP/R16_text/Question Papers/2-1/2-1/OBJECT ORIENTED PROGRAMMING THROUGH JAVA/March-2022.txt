@@ -1,0 +1,44 @@
+Code No: 133BM  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, March - 2022 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+(Common to CSE, IT) 
+Time: 3 Hours                                    Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.   What is polymorphism? Differentiate between compile time and runtime polymorphism 
+with the help of complete java program.      [15] 
+ 
+2.  Given two one dimensional arrays A and B which are sorted in ascending order. Write a 
+program to merge them into a single sorted array C that contains every item from arrays 
+A and B, in ascending order.        [15] 
+ 
+3.   Discuss basic in-built packages in java and their uses in application development in br ief. 
+Which package is the default package?      [15] 
+ 
+4. Write a program that generates random integers and stores them in a file named 
+“rand.dat”. The program then reads the integers from file and displays on the screen.  
+             [15] 
+ 
+5.   Explain Multithreading. In how many ways java implements multithreading? Explain at 
+least one of these ways with appropriate example.     [15] 
+ 
+6.  What are the differences between caught and uncaught exception? Write a program to 
+create user defined exception.        [15] 
+ 
+7.   Write a java code to sort array list in descending order.    [15] 
+ 
+8. Explain three UI components of swing and their classes and constructors.  [15] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+R16 
+JNTUH Usedpapers March 2022
+

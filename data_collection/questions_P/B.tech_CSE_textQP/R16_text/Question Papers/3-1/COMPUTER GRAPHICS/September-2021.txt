@@ -1,0 +1,48 @@
+ 
+ 
+ 
+Code No: 135BY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, September - 2021 
+ COMPUTER GRAPHICS 
+(Common to CE, CSE, IT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+       
+1.a) List the operating characteristics for the following display technologies: raster refresh 
+systems, vector refresh systems, plasma panels and CDs.  
+   b) Set up a procedure fo r a parallel implementation of the midpoint ellipse algorithm .
+            [8+7] 
+ 
+2.a) Write a boundary-fill procedure to fill an 8-connected region.  
+   b) Write a procedure to fill the interior of give ellipse with specified pattern.  [8+7] 
+  
+3.a) Discuss why the Sutherland -Hodgeman polygon clipping algorithm works for only 
+convex clipping regions.  
+b) Contrast the efficiency of Cohen-Sutherland and Liang-Barsky line clipping algorithms.
+           [8+7] 
+ 
+4.a) Derive the transformation matrix for rotation about an arbitrary point. 
+   b) Explain about the 2D viewing function.      [8+7] 
+ 
+5. Briefly explain the Bezier and B-Spline surfaces.       [15] 
+ 
+6. Derive the transformation matrix for Hermite curve.       [15] 
+  
+7. Distinguish between object-space and image space methods of visible surface detection 
+algorithms. Give examples for each.         [15] 
+   
+8.a) Explain briefly about key frame systems.  
+b) Design a storyboard layout and accompanying key frames for an animation of a single 
+polyhedron.          [7+8] 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+R16 
+USED PAPERSSEP-2021
+

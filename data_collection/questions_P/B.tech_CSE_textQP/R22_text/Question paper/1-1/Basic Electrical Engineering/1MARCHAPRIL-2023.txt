@@ -1,0 +1,137 @@
+Code No: 181AB                                                 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, March/April - 2023 
+BASIC ELECTRICAL ENGINEERING 
+(Common to CSE, IT, CSIT, CE(SE), CSE(CS), CSE(DS), CSD) 
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub-questions from all 
+units carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 marks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+ (10 Marks) 
+ 
+1.a) What is ideal voltage source?         [1] 
+   b) Define KVL.                                       [1] 
+   c) What is active power?            [1] 
+   d) Define average value of sinusoidal quantity?       [1] 
+   e)      What is a step up Transformer?        [1] 
+   f)       Define regulation of a transformer.        [1] 
+   g) What type of material is used for brushes of a d.c machine?     [1] 
+   h) How many windings are present at the time of staring a single phase Induction motor?   
+            [1] 
+   i) What is the full form of M.C.C.B?        [1] 
+   j)       What is the energy consumed by 1000 watts heater in 3 hours?    [1] 
+ 
+PART-B 
+ 
+ (50 Marks) 
+2.a) State and explain Thevenin’s theorem. 
+b)  For the bridge network shown in figure below, find the current in the 5 resistor, and its 
+direction, by using Thevenin’s theorem.      [5+5] 
+ 
+   
+OR 
+ 
+R22
+JNTUH Used papers 2023
+
+3.a) Derive an expression for transient current in R-L series circuit excited by a d.c source. 
+   b) Explain the V-I relation of R, L and C elements.         [6+4] 
+ 
+4. The following table gives the corresponding values of current and time for a half cycle 
+of alternating current.  
+ 
+Time t 
+(msec) 
+ 
+0 
+ 
+0.5 
+ 
+1.0 
+ 
+1.5 
+ 
+2.0 
+ 
+2.5 
+ 
+3.0 
+ 
+3.5 
+ 
+4.0 
+ 
+4.5 
+ 
+5.0 
+Current 
+i (A) 
+ 
+0 
+ 
+7 
+ 
+14 
+ 
+23 
+ 
+40 
+ 
+56 
+ 
+68 
+ 
+76 
+ 
+60 
+ 
+5 
+ 
+0 
+ 
+Assuming the negative half cycle is identical in shape to the positive half cycle, plot the 
+waveform and find (a) the frequency of the supply, (b) the instantaneous values of 
+current after 1.25 ms and 3.8 ms, (c) the peak or maximum value, (d) the mean or 
+average value, and (e) the r.m.s value of the waveform.      [10] 
+OR 
+5.a) Derive an expression for resonance frequency of R-L-C series circuit connected to an 
+alternating supply of variable frequency. 
+b) A coil has an inductance of 40 mH and negligible resistance. Calculate its inductive 
+reactance and the resulting current if connected to a 240 V, 50 Hz supply.    [6+4] 
+ 
+6.a) Derive an e.m.f equation of a single phase transformer. 
+b) A 4500 V/225 V, 50 Hz single-phase transformer is to have an approximate e.m.f. per 
+turn of 15 V and operate with a maximum flux of 1.4 T. Calculate (i) the number of 
+primary and secondary turns and (ii) the cross-sectional area of the core.    [6+4] 
+OR 
+7.a) What is an Auto transformer? Give its advantages and state its applications. 
+b) What are the advantages of 3-phase transformers? Draw various schemes of 3-phase 
+transformer connections.          [5+5] 
+  
+8.a) Explain the constructional details of a d.c machine. Explain the working of a d.c 
+generator. 
+   b) Draw the various characteristics of a d.c shunt motor.      [6+4] 
+OR 
+9.a) Explain the working of a 3-phase Induction motor with a neat sketch. 
+b) The stator of a 3-phase, 4-pole induction motor is connected to a 50 Hz supply. The 
+rotor runs at 1455 rev/min at full load. Determine (i) the synchronous speed and (ii) the 
+slip at full load.          [6+4] 
+  
+10.a) Explain the working of (i) SFU (Switch Fuse Unit) (ii) ELCB. 
+     b) What are the advantages of improving the power factor of a system?    [6+4] 
+OR 
+11.a)  What are the differences between primary cells and secondary batteries? 
+     b) Explain different types of wires used in domestic as well as commercial buildings.   
+              [4+6] 
+ 
+ 
+--ooOoo-- 
+JNTUH Used papers 2023
+

@@ -1,0 +1,53 @@
+Code No: 113AU  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, March - 2022 
+ELECTRONIC DEVICES AND CIRCUITS 
+(Common to EEE, ECE, CSE, IT, MCT) 
+Time: 3 Hours                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+1.a) Derive the expression for  transition capacitance CT  and Junction capacitance C J  of a 
+diode.  
+   b) Justify the working of zener diode as a voltage regulator.    [8+7] 
+ 
+2.a) Demonstrate the working of  a fullwave rectifier with waveforms. How  it is better than 
+half wave rectifier?  
+b) A full wave rectifier circuit with C-type capacitor filter is to supply a D.C. Current of          
+25 mA at 16V. If frequency is 50 Hz and ripple allowed is 4%. Calculate: 
+i) Required secondary voltage of the transformer. 
+ii) Ratio of I peak/ Imax through diodes and the value of C required.   [7+8] 
+ 
+3.a) Explain the input and output characteristics of a transistor in CB configuration. Mention 
+one application of CB configuration. 
+b) Draw the circuit diagram of an NPN junction transistor in CE configuration and        
+describe its characteristics.        [7+8] 
+ 
+4.a) Discuss different stabilization methods against variations in VBE and β. 
+b) For the transistor amplifier circuit , when signal changes by 0.012 V, the base current  
+changes by 9 µA and collector current by 1.3 mA. If the collector load RC = 5 KΩ, 
+RL = 10 KΩ. Determine input resistance, current gain and voltage gain.  [9+6] 
+ 
+5.a) Describe the operation of common drain FET amplifier and derive the equation   for  
+ voltage gain. 
+   b) Draw the VI characteristics curves of enhancement MOSFET and explain. Indicate  
+ different regions of operation on it.       [7+8] 
+  
+6.a) Justify how Varactor diode can be used as a variable capacitance?   
+b) Explain the working of Inductance filter connected at the output of a fullwave rectifier. 
+Write all the corresponding waveforms.      [7+8] 
+ 
+7.a) Illustrate and explain active region, saturation region and cut -off region in transistor                               
+characteristics. 
+   b) Determine the quiescent currents and the collector to emitter voltage for a Silicon 
+transistor with β = 100 in the self biasing arrangements. The circuit component values are 
+VCC = 12 V, R C = 2kΩ, R e = 0.1 kΩ, R 1 = 100 kΩ and R 2 = 5 kΩ. Find the stability                                  
+factor S.          [5+10] 
+            
+8.a) Draw the JFET Small signal Model and explain it.  
+   b) Compare BJT, JFET and MOSFET.       [8+7] 
+ 
+---ooOoo--- 
+R13 
+JNTUH Usedpapers March 2022
+

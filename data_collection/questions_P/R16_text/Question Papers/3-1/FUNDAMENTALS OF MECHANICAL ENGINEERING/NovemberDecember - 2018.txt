@@ -1,0 +1,89 @@
+ 
+ 
+ 
+Code No: 135CH            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, November/December - 2018 
+ FUNDAMENTALS OF MECHANICAL ENGINEERING 
+(Common to CE, EEE, CSE, MIE) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carrie s 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      Why work is called high grade energy and heat is called a low-grade energy? [2]                                              
+   b)      What are the limitations of first law of thermodynamics?    [3] 
+   c)      Define Charle's law.           [2] 
+   d)      What are saturation states?        [3] 
+   e)      Define Carnot cycle.                     [2]     
+   f)  What is the compression ignition engine? Why is the compression ra tio of such an 
+engine more than that of SI engine?       [3] 
+   g) What is priming.           [2] 
+   h) What is a difference between Air-conditioning and refrigeration?   [3] 
+   i) Define strength and stiffness.        [2] 
+   j)       What is an open belt drive? Write its applications.     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  A stationary mass of gas is compressed without friction from an initial state of 0.3m 3 
+and 0.105m3 MPa to a final state of 0.15m 3 and 0.105m 3 MPa, the pressure remaining 
+constant during th e process. There is a transfer of 37.6 kJ of heat from the gas during 
+the process. How much does the internal energy of the gas change? 
+   b)  What are the factors which influence ozone depletion?    [5+5] 
+OR 
+3.a)  Define enthalpy, why does the enthalpy of an ideal gas depends only on temperature.  
+   b)  Write a sketch explain the working of Solar photovoltaic cell.   [5+5] 
+  
+4.a)  Water at 40 0C is continuously sprayed into a pipeline carrying 5 tonnes of steam at 5 
+bar, 3000C per hour. At a section, downstream where the pressure is 3 bar, the quality is 
+to be 95%. Find the rate of water spray in kg/h.  
+   b)  What is feed pump, super heater and Economizer?     [5+5] 
+OR 
+5.a)  Derive the expression for the difference in heat capacity, Cp and Cv. 
+   b)  Explain the working of Locomotive Boiler.      [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper 16-12-2018PM
+
+ 
+ 
+6.a)  A heat engine absorbs 100J of heat from the hot reservoir and releases 60 J of heat to 
+the cold reservoir during each cycle.  
+i) What is its efficiency?  
+ii) If each cycle takes 0.50s, find the power output of this engine. 
+   b)  What is the difference between CI engine and SI engine?    [5+5] 
+OR 
+7.a)  What is a heat engine how it is Classified. 
+b)  A Diesel engine has compression ratio of 14 and cut -off takes place at 6% of the stoke. 
+Find the air standard efficiency.         [5+5] 
+  
+8.a)  With a neat sketch explain the operation of Reciprocating pump. 
+   b)  Explain about vapour compression refrigeration system with neat sketch.  [5+5] 
+OR 
+9.a)  What is the multi -stage compression? What are the advantages of multistage over 
+single stage compression? 
+   b)  Define dew point temperature, Absolute humidity, wet bulb depression.  [5+5] 
+ 
+10.a)  Define clutch and shaft. List the advantages and applications. 
+     b)  With a neat sketch explain the working of any one Absorption dynamometers. [5+5] 
+OR 
+11.a)  Write the applications of silica, ceramics, glass and diamond. 
+     b)  What is shoe brake and band brake list out the differences?    [5+5]  
+  
+ 
+ 
+---ooOoo--- 
+ 
+used paper 16-12-2018PM
+

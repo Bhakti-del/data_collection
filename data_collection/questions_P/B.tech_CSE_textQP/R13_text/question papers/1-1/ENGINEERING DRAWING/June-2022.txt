@@ -1,0 +1,66 @@
+ 
+Code No: 111AH      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, June - 2022 
+ENGINEERING DRAWING 
+(Common to CSE, MIE, PTM) 
+Time: 3 Hours                                        Max. Marks: 75 
+Answer any three questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) An area of 200 cm2 on a map represents 50 km 2 of actual land area. Draw a diagonal scale 
+to measure a distance up to a single decametre. Mark off the following distances on the 
+scale: (i) 5 km, 7 hectometres and 6 decametres, (ii) 3.04 km and (iii) 458 decametres. 
+b) A semicircle of 50 mm diameter has a straight line AB of 80 mm length tangent to it at 
+the end point, A of its diameter AC. Draw the paths of the end points A and B of the 
+straight line AB, when AB rolls on the semicircle without slipping. Name the Curve.  
+           [12+13]  
+ 
+2.a) A straight line AB has its end A 15 mm above the HP and 10 mm in front of the VP. The 
+other end B is 25 mm in front of the VP. The V T is 10 mm above the HP. Draw the 
+projections of the line if the distance between end projectors  is 25 mm and find its true 
+length and true angles of inclination with the HP and the VP. Locate the HT. 
+b) Draw the projections of a triangular plate of 30 mm sides, with one of its sides AB in the 
+VP and with its surface inclined at 600 to the VP.        [13+12] 
+ 
+3. A cylinder of diameter 50 mm and length of the axis 65 mm has its axis parallel to the VP 
+and inclined at 300 to the HP. It is cut by a cutting plane perpendicular to the HP, inclined 
+at 300 to the VP, and passing through a point P on the axis  25 mm from the top end. Draw 
+the top view, the sectional front view, and the true shape of the section of the cylinder.  
+                  [25] 
+    
+4. A cone of base diameter 80 mm and axis 100 mm, is resting on its base on the H.P. It is 
+completely penet rated by a cylinder of base diameter 40 mm. The axes of the solids 
+intersect each other at right angles, 30 mm above the base of the cone. Draw the 
+projections of the combination and show curves of intersection.         [25] 
+ 
+5. A cylinder of diameter 50 mm and length of the axis 65 mm rests on its base with the axis 
+perpendicular to the HP. It is cut by the cutting plane perpendicular to the VP, inclined at 
+450 to the HP and passing through a point on axis 25 mm from the top. Draw the front 
+view, the sectional top view, and the development of the lateral surface of the cylinder. 
+      [25] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Contd…) 
+R13 
+JNTUH Used Papers June 22
+
+ 
+6. Pictorial view of an object is shown in figure. Using first angle projection, draw its  
+(a) full sectional front view, (b) top view and (c) side view. (All dimensions are in mm). 
+                       [25] 
+ 
+ 
+--ooOoo-- 
+ 
+ 
+ 
+JNTUH Used Papers June 22
+

@@ -1,0 +1,201 @@
+ 
+Code No: 136FF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, May - 2019 
+INDUSTRIAL MANAGEMENT 
+ (Common to CE, EEE, ME, ECE, CSE, IT, MMT, MIE) 
+Time: 3 Hours                  Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)  Asses the contribution of scientific management to the development of management 
+thought?          [2] 
+b)  What do you understand by a system? Discuss management as system bringing out its 
+basic features as such.         [3] 
+c)  What is departmentation? How it is essential for the management of a business 
+enterprise.          [2] 
+d)  What is virtual organization? Discuss the reasons for the emergence of the concept of 
+virtual organization.             [3] 
+e)  What are the different types of layouts? How should an organization decide on which 
+layout to choose?         [2] 
+f)  Is group technology layout any differ from a product layout? Give reasons for your 
+answer.          [3] 
+   g)  Discuss the fundamental factors affecting quality.     [2] 
+   h)  What are the important factors effecting the allowances in work study?  [3] 
+   i)  What do you mean by job evaluation? How does it differ from performance appraisal?
+            [2] 
+   j)  Provide an example of precedence relationships from your personal life.  [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Discuss the contributions of Hawthorne Experiments in the development of managerial 
+thinking. How did behavioral scientists modify the basic findings of Hawthorne 
+Experiments? 
+b)  “Theory X and Theory Y are concerned with the nature of people”. How does the job 
+situation affect the application of this theory? What are its implications?  [5+5] 
+OR 
+3.a)  How do functional areas of management differ from management functions?  Discuss 
+the major functional areas of management. 
+b)  Bring out the  significance of the statement,  „effective management is always 
+contingency or situational management‟. How does systems approach of management 
+differ from contingency approach?       [5+5] 
+ 
+ 
+ 
+ 
+R16 
+used paper 18-05-19 PM
+
+4.a)  Describe various bases for departmentation and suggest a scheme of departmentation 
+for a large marketing company with a field network all over the country. 
+b)  How does line and staff organization structure differ from pure line organization 
+structure? What are the benefits and limitations of line and staff organization structure?  
+           [5+5] 
+OR 
+5.a)  What is the role of operators in an organization? What are the other functions in an 
+organization? Are these functions independent of one another? Give some ex amples to 
+support your argument.  
+b)  What do you mean by matrix organization?  How does it differ from project 
+organization? Discuss the situations under which matrix organization can be used 
+fruitfully.           [5+5] 
+ 
+6.a)  An organization has warehous es for life saving drugs at six different locations whose 
+coordinates given in the following table. The organization is in the process of locating 
+one more critical central warehouse which will distribute drugs to all the existing 
+warehouses on emergency request. Find the location of new warehouse. 
+ 
+Existing warehouse number Coordinates of Centroids 
+1 200,100 
+2 400,300 
+3 250,120 
+4 550,200 
+5 220,250 
+6 400,300 
+ 
+b)  What are the pros and cons of using the location factor analysis method for location 
+planning? Do you have any recommendations on how to use this method for location 
+planning?          [5+5] 
+OR 
+7.a)  Suppose you are given three alternative designs for the layout of a shop floor in a 
+manufacturing organization. How will you decide which of the  three is the most 
+appropriate?  
+b)  Identify an appropriate layout for each of the following situations. Justify your choice 
+in a sentence or two: 
+     i) A manufacturer of garments for Van Heusen 
+      ii) A multi cuisine restaurant in a posh residential area in Mumbai. 
+      iii) The overhaul of helicopters. 
+      iv) A fabricator of custom made PCBs for a large number of electronic applications. 
+      v) An eye hospital. 
+      vi) A motor manufacturer manufacturing 4 product groups for worldwide markets. 
+      vii) A manufacturer of large turbines for power sector applications.   [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+used paper 18-05-19 PM
+
+8.a)  A manufacturer of garments wants to set up a quality control system using control 
+charts for process control. The manufacturer has the three options to choose from: 
+   i) Measure the critical dimensions of the garment for establishing its quality. 
+ii) Segregate every batch of production into good quality and seconds quality. 
+iii) Estimate the number of defects for bale of cloth issued for production 
+The manuf acturer is not sure about what it means to choose which of the above. 
+Prepare a report explaining the pros and cons of each of the choices, the nature of 
+efforts required to setup control charts and implications of their use. 
+   b)  Explain different charts and diagrams which are used in method study?  [5+5] 
+OR 
+9.a)  i) A department store manager wishes to make a work sampling study to estimate the 
+percentage time that clerks are busy waiting for customers and percent time that they 
+are idle. The current be st guess is that clerks are idle 25 percent of the time. Determine 
+the number of observations required if we wish to be 95 percent confident that the 
+results is within ± percent, given number of observations at 20% is 2995 and at 30% it 
+is 3750 for the same precision. 
+ii) Compare stopwatch study and work sampling in terms of the cost to make studies, 
+representatives of samples taken, field o application and comparative accuracy. 
+b)  A time study was made of a punch press operator. The average observed time after 
+discounting non normal occurrences was 0.52 minute per unit. The operator 
+performance was judged to be 90 and the allowances for this type of work total                    
+12 percent. What is the normal time and standard time for this job?   [5+5] 
+ 
+10.a) A firm is cons idering the launch of a new product in the national market. The project 
+consists of the ten major activities. The precedence relationship and the estimated 
+duration of each of the activity is given in the table below. 
+ 
+Activity Predecessor Duration (weeks) 
+A - 8 
+B - 3 
+C A 6 
+D B 4 
+E B 5 
+F A 4 
+G B 6 
+H C, D, E 6 
+I F, G, H 6 
+ 
+i) Draw a network of the above project. 
+ii) What is the total duration of the project? 
+iii) Identify the critical path? Do you have any specific observation to make? 
+iv) Suppose the duration of the activity „f‟ was wrongly estimated and the revised 
+estimate is10 weeks. What is the implication of this change? 
+     b)  Explain the trade- off in network crashing.      [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+used paper 18-05-19 PM
+
+ 
+OR 
+11.a)  Projects involve direct as well indirect costs and project managers need to use this 
+information in project management. Comment on this statement.   
+b)  A project management firm is preparing a network for one of the projects that it has 
+recently bid for. The client demands that the project needs  to be completed and 
+delivered at its site by week 25. The firm has identified the list of activities to be 
+performed and estimated the duration of each of the activities. The details are given in 
+the table below. Use this information to draw a network and  help the firm answer the 
+following questions          
+ 
+Activity Predecessor Duration (weeks) 
+A - 8 
+B A 3 
+C A 6 
+D A 4 
+E B 5 
+F B 4 
+G C,E 6 
+H D 6 
+I F 6 
+J D 4 
+K G,H,I 3 
+L J,K 3 
+ 
+i) Will the firm be able to meet with the customer‟s dead line of 25 weeks?  
+ii) If the firm can not, identify the set of activities that need to be considered for a 
+possible reduction in duration. 
+iii) If the cost of reduction is Rs 10000 per week and the firm will have to pay a penalty 
+of Rs 7000 per week of delay i n completion in addition to paying affixed amount of            
+Rs 20000, what will your recommendation be to the firm with respect to reducing the 
+duration?          [5+5] 
+ 
+ 
+ 
+---ooOoo— 
+ 
+used paper 18-05-19 PM
+

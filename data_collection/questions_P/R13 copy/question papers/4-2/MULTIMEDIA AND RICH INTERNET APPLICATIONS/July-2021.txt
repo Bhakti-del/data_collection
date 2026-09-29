@@ -1,0 +1,45 @@
+ 
+ 
+ 
+Code No: 118DD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2021 
+MULTIMEDIA AND RICH INTERNET APPLICATIONS 
+ (Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) What are components of multimedia? Explain early history of multimedia.            
+   b) Describe 8-bit Grey level images and color look up tables.    [8+7] 
+ 
+2.a) What are bilevel image compression standards? Explain. 
+b) What is sound? Explain about Nyquist theorem and Signal -to-Quantization-Noise Ratio.  
+            [7+8] 
+3.a) Write and explain MPEG audio compression algorithm. 
+   b) What are Web 2.0 business models? Explain.     [8+7] 
+ 
+4. Discuss in detail about creating a Website Splash Screen.    [15] 
+ 
+5.a) Discuss about Rich Internet Applications (RIAs) with Ajax.  
+   b) Briefly discuss about Dojo Toolkit.       [8+7] 
+ 
+6.a) Distinguish between traditional Web applications and Ajax applications. 
+   b) Explain continuous wavelet transform and discrete wavelet transform.  [7+8] 
+ 
+7.a) Describe dynamic skinning and the Drawing API. 
+   b) Discuss about Huffman Coding and adaptive Huffman Coding.   [7+8] 
+ 
+8.a) Explain about user interface controls and containers.     
+   b) Describe motion compensation in H.263 and optional H.263 coding modes. [8+7] 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+R13 
+

@@ -1,0 +1,41 @@
+Code No: 135DA  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, February - 2022 
+SCRIPTING LANGUAGES 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What is the difference between a primary group s and a secondary group s  in Linux ?    
+ List out various entries in /etc/passwd file and define each entry.   
+   b) Explain various components of the Linux file system.     [6+9] 
+ 
+2. How to create files and directories in Linux? Explain various commands used for     
+ creating, removing and searching files and directories in Linux.      [15] 
+  
+3. With an example demonstrate the steps to create an FTP site that allows a dedicated 
+user to upload files with various configuration steps.       [15]    
+ 
+4. Explain the basic functionality and usage of DHCP protocol in detail.     [15] 
+ 
+5. With an example script, explain various file handling I/O functions available in Perl.  
+              [15] 
+ 
+6.a) How to define and call a subroutine in PERL? Discuss with an example.  
+   b) Write a perl script to compute factorial of a number.     [7+8] 
+ 
+7.a) Explain various control flow commands in Tcl with an illustrative example scripts. 
+   b) Explain the various commands and operation of buttons.     [8+7] 
+ 
+8.a) List and explain any few standard library functions available in python to handle files.  
+   b)  How to handle exceptions in python? Discuss briefly.     [8+7] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ R16 
+used paper feb-22 jntu
+

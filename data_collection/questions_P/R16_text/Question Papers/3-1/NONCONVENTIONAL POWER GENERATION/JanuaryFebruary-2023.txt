@@ -1,0 +1,84 @@
+Code No: 135CU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, January/February - 2023 
+NON-CONVENTIONAL POWER GENERATION 
+(Common to CE, ME, CSE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+     and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)   Explain solar pond. Write its applications       [2] 
+   b)   What is meant by solar spectrum? Is solar spectrum continuous?                          [3] 
+   c)   Draw the equivalent circuit of PV system and explain briefly                         [2] 
+   d)   Explain how photovoltaic cell and photovoltaic module are related.                       [3] 
+   e)   What is the efficiency of a wind turbine?                                       [2] 
+   f)    List out the advantages and disadvantages of wind turbines.                                 [3] 
+   g)   What is the difference between biomass and biogas?                                      [2] 
+   h)   Define gasifiers and digesters.                             [3] 
+   i)   What are the main components of a fuel cell system? Show by means of a schematic      
+diagram?                               [2] 
+   j)   Briefly define the principle of tidal energy.                            [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a)  Explain, with sketches, the various types of solar radiation measurement instruments.    
+   b)   Explain the working of concentrated collector with the help of a neat sketch.         [5+5] 
+OR 
+3.a)   Derive an expression for total  radiation on an inclined surface. Show that a horizontal 
+surface receives no ground reflected radiation.      
+   b)  Discuss the following terms: Diffuse radiation, Reflected radiation and Total radiation.
+            [5+5] 
+  
+4.a)   Draw the I -V characteri stics of PV cell and describe the system configuration for 
+maximum power extraction from PV system.                                                                                           
+   b)  Describe the principle of solar photovoltaic conversion.                                          [5+5] 
+OR 
+5.a)  A solar photovoltaic panel has an open circuit voltage of 43.6V and short circuit current 
+of 5.45A. The maximum power that can be drawn from the panel is 175W. The 
+maximum power occurs at a voltage of 81% of open circuit voltage. What is the 
+optimal load resistance that needs to be connect to the terminals of the PV panel?   
+b)  With a schematic diagram, describe the working of a basic photovoltaic system for 
+power generation.                 [5+5] 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+6.a)   Explain how the energy produced by a wind turbine can be stored for re -use. What are 
+the arrangements used for starting a Darrieus wind turbine? 
+   b)   Explain the working of vertical axis wind mill with a neat sketch.   [5+5] 
+OR 
+7.a)  Derive an expression for power extracted from wind. 
+b)  A horizontal axis wind turbine is installed at a location having free wind velocity of         
+15 m/s. The 80 m diameter rotor has three blades attached to the hub. Find the 
+rotational speed of the turbine for optimal energy extraction?        [5+5] 
+ 
+8.a)  Discuss the significant factors effecting of aerobic digestion and anaerobic digestion.        
+   b)  Classify wet and dry process of energy conversion technologies.       [5+5] 
+OR 
+9.a)  Write a short note on:               
+i) Geo-pressure resources  
+ii) Magma resources. 
+   b)  Enumerate the Prime movers used in Geo thermal power stations.      [5+5] 
+ 
+10.a)  Discuss the scope of utilizing ocean wave energy to generate electricity.               
+     b)  What are the various methods of tidal energy generation? Explain in detail.    [5+5] 
+OR 
+11.  Explain the advantages of fuel cell power sources. Draw a simple sketch of H 2-O2, fuel 
+cell and explain its working.            [10] 
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

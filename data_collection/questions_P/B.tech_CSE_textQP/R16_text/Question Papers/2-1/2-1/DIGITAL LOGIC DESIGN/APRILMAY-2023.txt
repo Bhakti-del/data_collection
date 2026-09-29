@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 133AJ     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, April/May - 2023 
+DIGITAL LOGIC DESIGN  
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)     What is meant by self-complementary code? Give examples.   [2] 
+   b)      Implement the basic gates using only NAND gates.     [3] 
+   c)      What are the disadvantages of Karnaugh map?     [2] 
+   d)      Simplify the following Boolean function to two literals.    [3] 
+𝐴𝐵𝐶′𝐷 + 𝐴′𝐵𝐷 + 𝐴𝐵𝐶𝐷                    
+   e)  Implement 2-input NAND gate using 2-to-1 multiplexer.    [2] 
+   f)      Draw the 4 to 2 encoder logic diagram.      [3] 
+   g)      Differentiate a latch and a flip-flop.       [2] 
+   h)      Draw the excitation table for JK flip-flop.      [3] 
+   i)      Define RTL and which one is the basic gate in this logic.    [2] 
+   j)      Differentiate simple PLDs and Sequential PLDs.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  What is the importance of representi ng a number in compliment form? Explain 
+different signed magnitude representations of binary numbers.       
+   b)  Discuss the properties and applications of XOR gates.              [6+4] 
+OR 
+3.  Minimize the following Boolean expression using algebraic manipulation and draw its 
+logic diagram.         
+𝑓(𝐴, 𝐵, 𝐶, 𝐷) = 𝐴𝐵𝐶′𝐷′ + 𝐴𝐵𝐶′𝐷 + 𝐴𝐵′𝐶′𝐷 + 𝐴𝐵𝐶𝐷 + 𝐴𝐵′𝐶𝐷 + 𝐴𝐵𝐶𝐷′ + 𝐴𝐵′𝐶𝐷′
+              [10] 
+4. A warning busser is to sound when the following conditions apply:   
+a) Switches A, B, C are on. 
+b) Switches A and B are on but switch C is off. 
+c) Switches A and C are on but switch B is off. 
+d) Switches B and C are on but switch A is off. 
+Draw a truth table and obtain the simplified Boolean expression using K-map.       [10] 
+OR 
+5.  Implement a 4-bit even parity checker using 8 to 1 multiplexer.     [10] 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+ 
+6.a) Design a 4-bit magnitude comparator.    
+   b) Design a 16 × 1 multiplexer using 4 × 1 multiplexers and draw its diagram. [5+5] 
+OR 
+7.a)  Design a code converter that converts a decimal digit from 8,4,–2,–1 code to BCD. 
+   b) Draw the 4-bit parallel adder circuit diagram.     [6+4] 
+ 
+8.  Design a 3-bit asynchronous binary up counter using T flip-flops.        [10]    
+OR 
+9.  Show that a Johnson counter with n flip‐flops produces a sequence of 2 n states. List 
+the 10 states produced with five flip‐flops and explain with a neat logic diagram.   [10] 
+ 
+10.  Implement 2-bit squarer circuit using programmable array logic.         [10]  
+OR 
+11.  Explain the arithmetic and logical micro operations with examples.     [10] 
+      
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

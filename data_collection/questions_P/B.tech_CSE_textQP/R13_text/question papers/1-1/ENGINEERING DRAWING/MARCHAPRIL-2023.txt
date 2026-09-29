@@ -1,0 +1,78 @@
+Code No: 111AH                
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech I Year Examinations, March/April - 2023 
+ENGINEERING DRAWING 
+(Common to CSE, MIE) 
+Time: 3 hours                 Max Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+  
+1.a) Construct a vernier scale to read the distances corrected to decameter on a map in which 
+the actual distances are reduced in the ratio of 1:50,000.  The scale should be long enough 
+to measure 8 km. Mark a length of 4.82 km on scale by constructing backward vernier 
+scales.  
+b) A circus man rides a motor -cycle inside a globe of 4 m diameter. The motorcycle wheel 
+diameter is 0.8 m. Draw the locus of a point spot on the circumference of the motor -cycle 
+wheel for its one complete turn. Adopt a suitable scale.     [7+8] 
+OR 
+2.a) The ordinate of a point P on the curve is 40 mm and is at a distance of 20 mm from the 
+vertex. Draw the parabola. 
+b) Draw a diagonal scale of RF = 1/20,000 to show kilometres and decimals of kilometre. 
+Mark on the scale the distances 1.64 km and 2.37 km.    [7+8]  
+ 
+3. The projections of a line AB are perpendicular to xy. The end A is in the HP and 50 mm 
+in front of the VP and the end B is in the VP and 40 mm above the HP. Draw its 
+projections, determine its true length and the inclinations with the reference planes.      
+                            [15]   
+OR 
+4. The top view ‘ abc’ of a triangle ABC is an equilateral triangle of side 50 mm, ab being 
+inclined at 45 0 to xy. The point A is in the V.P. and 35 mm above  the ground, while the 
+points B and C are on the ground. Draw the projections of the triangle and determine its 
+true shape.            [15]   
+ 
+5. A cylinder of base diameter 50 mm and axis 70 mm is lying on a generator on the HP 
+with its axis parallel to t he VP. It is cut by an A.P. inclined at 30 0 to the HP and passing 
+through a point on the axis 30 mm from one of its ends. Draw its sectional top view and 
+obtain true shape of the section.        [15] 
+OR 
+6. A pentagonal pyramid, side of base 35 mm and axis 70 mm long, is lying on one of its 
+corners on the HP such that the triangular surface opposite to the corner is parallel to HP 
+and perpendicular to VP, and the base edge containing that triangular surface is parallel 
+to both the HP and VP. Draw the projections of the solid when the apex of the pyramid is 
+nearer to the observer.         [15]  
+R13 
+JNTUH Used papers 2023
+
+ 
+7. A cone of 100 mm diameter and axis 120 mm long, resting on its base in the HP is 
+penetrated by a horizontal cylinder 50 mm diameter and 120 mm long. The axis of th e 
+cylinder is 30 mm above the base of the cone and parallel to the VP. If the axis of the 
+cylinder is 5 mm in front of the axis of the cone, draw the projections of the solids 
+showing the curves of intersection.       [15]   
+OR 
+8. A cuboid of sides 40 mm × 60 mm × 40 mm is resting on its longer side in the H.P. and 
+one its longer surfaces parallel to the V.P. It is cut by a section plane perpendicular to 
+V.P. and incline to the H.P. such that it passes diagonally from one corner of the top to 
+the opposite c orner of the bottom. Develop the lateral surface o f the bottom part of 
+cuboid.           [15] 
+ 
+9. Draw top, front and side views of the isometric projection given in Figure.1. All 
+dimensions are in mm.        [15] 
+ 
+Figure 1 
+         
+OR 
+JNTUH Used papers 2023
+
+10. Draw the  isometric view of the object whose orthographic projections are given in 
+Figure.2. All dimensions are in mm.       [15] 
+ 
+ 
+Figure 2 
+ 
+---ooOoo--- 
+ 
+  
+JNTUH Used papers 2023
+

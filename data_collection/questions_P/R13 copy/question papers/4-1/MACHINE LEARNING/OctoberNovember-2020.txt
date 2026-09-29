@@ -1,0 +1,39 @@
+Code No: 117EF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, October/November - 2020 
+  MACHINE LEARNING  
+ (Computer Science and Engineering) 
+Time: 2 Hours                        Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. Explain the sequence of design choices made for checkers program in detail with 
+illustrations.          [15] 
+ 
+2. Discuss the limitations of FIND -S algorithm and how Candidate Elimination algo rithm 
+addresses these limitations.        [15] 
+ 
+3. Examine the hypothesis space search performed by ID3 algorithm and contrast it with List 
+and then eliminate algorithm.        [15] 
+ 
+4. Describe the derivation of the gradient descent rule.     [15] 
+    
+5.a) How does the deviation between sample error and true error depend on the size of the data 
+sample? 
+   b) Discuss central limit theorem.        [8+7] 
+ 
+6. Explain how to use Bayesian classifier to learn text classification with an example.[15]  
+ 
+7. Describe k-nearest neighbor algorithm for approximating a discrete-valued function.[15] 
+ 
+8.a) What is explanation based learning? Compare it with instance-based learning. 
+   b) Demonstrate usage of prior knowledge to reduce the sample complexity.  [8+7] 
+  
+ 
+--ooOoo--  
+ 
+ 
+R13 
+JNTUH USED 27-10-2020PM PAPER
+

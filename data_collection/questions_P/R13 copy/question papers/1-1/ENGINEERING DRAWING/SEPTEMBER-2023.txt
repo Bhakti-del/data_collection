@@ -1,0 +1,71 @@
+Code No: 111AH     
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech I Year Examinations, September - 2023 
+ENGINEERING DRAWING 
+(Common to CSE, MIE) 
+Time: 3 Hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) A circle of 50 mm diameter rolls along a straight line without slipping. Draw the curve 
+traced out by a point P on the circumference, for one complete revolution of the circle. 
+Name the curve. Draw a tangent to the curve at a point on it 40 mm from the line.   
+b) A rectangular plot of land of area 16 sq. m is represented on a map by a similar rectangle 
+of 1 square centimeter. Calculate the RF of the scale of the map. Construct a plain scale to 
+measure up to 60 m and mark a distance of 46 m on the scale.    [8+7] 
+OR 
+2.a) Draw the curve traced by a point on the circumference of a rolling circle, on a straight line 
+for one and half revolution. 
+b) On the plan of a shopping complex, a line 10cm long represents a distance of 5m. Draw a 
+diagonal scale for the plan to read up to 6m showing meters, decimetres and centimetres. 
+Mark the lengths 3.24m and 5.57m.        [5+10] 
+ 
+3.a) A point A is situated in the first quadrant. Its shortest distance from the i ntersection point 
+of HP and VP and auxiliary plane is 60 mm and it is equidistant from the principal planes. 
+Draw the projections of the point and determine its distance from the principal planes.   
+b) The top view of a 75mm long line measures 55 mm. The line is in the VP, its one end being 
+25 mm above the HP. Draw its projections.       [8+7] 
+OR 
+4.  The top view of a plane is a regular pentagon of side 30 mm having one side inclined at 
+30° to the VP. Its front view is a straight line inclined at 45° to the reference line. Draw the 
+projections of the plane and determine its true shape.    [15] 
+  
+5. A pentagonal prism is resting on one of the corners of its base in the HP. The longer edge 
+containing that corner is inclined at 30 ° to HP and the vertical plane containing that edge 
+is inclined at 45° to the VP. Draw the projections of the solid.    [15] 
+OR 
+6. A hexagonal pyramid of side of base 40 mm and height of axis 110 mm is resting on one 
+of its inclined vertical faces on H.P. such that its axis remains parallel to the V.P. It is cut 
+by a cutting plane which is inclined at an angle 45° with H.P. and bisecting the axis of the 
+pyramid. Draw front view, sectional top view.     [15] 
+ 
+7. A pentagonal pyramid of base 30 mm side and height 70 mm, stands with its base on H.P 
+such that one of the base edges is parallel to V.P. It is cut by a section plane perpendicular 
+to V.P, inclined at 30° to H.P and bisecting its axis. Draw the development of the surface 
+of the pyramid.             [15]      
+OR 
+  
+R13 JNTUH USED PAPERS-2023
+
+8. A cylinder of base diameter 70 mm is resting on its base on the HP. It is penetrated by 
+another cylinder of base diameter 60 mm, such that their axes intersect each other at right 
+angles. Draw the projections of the combination and show the curves of intersections.    
+            [15] 
+  
+9.a) A vertical cylinder of base diameter 50 mm and height 70 mm is cut by a plane inclined at 
+55°
+ 
+to HP and perpendicular to VP, which meets the axis at a distance of 20 mm from top 
+base. Draw the isometric view of the remaining portion of the cylinder.   
+b)  A sphere of 50 mm diameter is surrounded centrally on the top of a square block of side 
+60 mm and thickness 20 mm. Draw the isometric view of the arrangement.  [8+7] 
+OR 
+10. Draw the front view, side view and top view for the given figure.     [15] 
+       
+All dimensions are in mm 
+ 
+ 
+ --ooOoo-- 
+JNTUH USED PAPERS-2023
+

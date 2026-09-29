@@ -1,0 +1,45 @@
+ 
+ 
+ 
+Code No: 138GW             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2021 
+RENEWABLE ENERGY SOURCES 
+ (Common to EEE, CSE) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) Explain the significance of energy consumption as a measure of prosperity. 
+   b) List the difference between renewable and non renewable energy resources.  [8+7] 
+ 
+2.a) Explain in brief the world energy scenario along with the alternate energy strategies.  
+   b) Explain the global potential of renewable energy sources.     [7+8] 
+ 
+3.a) Explain the component parts of a solar PV system along with their functions. 
+   b) With a neat sketch explain the principle of conversion of solar energy into heat.  [7+8] 
+ 
+4.a) List out the advantages and disadvantages of concentrating collectors over a flat - plate 
+collector.  
+b) Explain the importance of orientation in concentrating type collectors and list the  different 
+types of sun trackers.          [8+7] 
+ 
+5.a) Give an overview of control techniques for wind turbine systems  along with their 
+significance.   
+b) Explain about primary, secondary and tertiary winds  and how to make use of them for 
+power generation.         [8+7] 
+ 
+6.a) Distinguish between onshore and offshore wind energy systems.  
+   b) Discuss the concept of wheeling and energy banking.    [8+7] 
+ 
+7.a) Explain the method for converting biomass into ethanol with a neat sketch. 
+   b) Explain the process of extracting energy for municipal solid waste.   [8+7] 
+ 
+8.a) What is geothermal energy and explain the types geo thermal power plants? 
+   b) List out the types of turbines for small hydro power plants and explain them. [8+7] 
+ 
+--ooOoo-- 
+ 
+R16 
+

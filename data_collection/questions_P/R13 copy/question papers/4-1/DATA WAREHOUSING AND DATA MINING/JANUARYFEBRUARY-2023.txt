@@ -1,0 +1,66 @@
+Code No: 117CD      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+DATA WAREHOUSING AND DATA MINING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Differentiate between base cuboid and apex cuboid.     [2]  
+   b)      What are the differences between fact table and dimension table?   [3] 
+   c)      What do you mean by numerosity reduction?     [2] 
+   d)      What is Data Discretization?        [3] 
+   e)      What is the purpose of Apriori Algorithm?      [2]  
+   f)      Define support and confidence in Association rule mining.    [3]  
+   g)      What is meant by classification? What are the applications of classification? [2]  
+   h)      State and explain Bayes theorem.       [3]  
+   i)       What are the difference between K-Means and K-Medoids Algorithms?  [2] 
+   j)       Define the centroid of the cluster.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Draw and explain the three tier data warehouse architecture. 
+   b) Differentiate OLTP and OLAP with features.     [5+5] 
+OR 
+3.a) Define metadata and explain the types of metadata. 
+   b) Compare the types of OLAP Servers.       [5+5] 
+  
+4.a) What is KDD? Explain about data mining as a step in the process of knowledge 
+discovery. 
+   b) Discuss about Data Mining task primitives with examples.    [5+5] 
+OR 
+5.a) Discuss the issues to be considered during data integration. 
+   b) How can we handle missing values? Illustrate with an example.   [5+5] 
+ 
+6.a) Discuss the importance of Association Rule Mining. 
+   b) Write a note on Maximal Frequent Item Set and Closed Frequent Item Set.  [5+5] 
+OR 
+7. Can we design a method that mines the complete set of frequent item sets without 
+candidate generation? If yes, explain with an example.    [10] 
+R13 
+JNTUH Used papers 2023
+
+8.a) What is Bayesian belief network? Explain in detail. 
+   b) Explain tree pruning.         [5+5] 
+OR 
+9. Write and explain about Classification by Back propagation Algorithm.  [10] 
+  
+10.a) What is Clustering? What are different types of clustering? 
+     b) Give a brief note on PAM Algorithm.      [5+5] 
+OR 
+11.a) What is outlier detection? Explain distance based outlier detection 
+b) What is the drawback of k -means alg orithm? How can we modify the algorithm to 
+diminish that problem?        [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

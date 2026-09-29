@@ -1,0 +1,76 @@
+Code No: 135CX  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August/September - 2024 
+PRINCIPLES OF ELECTRONIC COMMUNICATIONS 
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)  Give C band and S band frequency range.         [2] 
+   b)   Define modulation and mention different analog modulations.   [3] 
+   c)  Give the equation of AM system in time domain and frequency domain.   [2] 
+   d)  Draw the PAM signal.        [3] 
+   e)  Name different parts of telephone handset.        [2]  
+   f)   Draw typical diagram of token ring LAN.      [3]  
+   g)  Define Total Internal Reflection in optical fiber.     [2] 
+   h)  What are the advantages and disadvantages in positioning satellite in lower orbit?  [3] 
+   i)  Name different types of fading mechanisms in mobile radio environment.   [2] 
+   j)  State the standard frequency bands allocated for mobile communications.   [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)   Explain the  advantages of  modulation. 
+b)   What is mean by frequency translator? Discuss it.     [4+6] 
+OR 
+3.a)  Give different bands of electromagnetic spectrum and their ranges. 
+b)  A two stage amplifier has gain of 150 for first stage and 100 for second stage. Express 
+overall gain in dB.         [7+3] 
+ 
+4.a)   Explain the method of generation and detection of PAM signals with neat schematics. 
+   b)  A band limited signal has a bandwidth equal to 4 KHZ. What sampling rat e should                 
+ be used to guarantee a guard band of 1200 Hz?      [6+4] 
+OR 
+5.a)  Draw the constellation diagram for  M-ary PSK System. 
+   b)  Explain BPSK system transmitter and receiver with the help of diagrams.  [4+6] 
+ 
+6.a) Explain the principles of Cross bar switching in Telecommunication. 
+b)   Given that MTBF=2000 Hrs and MTTR=4 Hrs. Ca lculate the unavailability for single 
+and dual processor systems for 10 years and 20 years.     [6+4] 
+OR 
+7.a)  Explain Routing Control in Packet Switching. 
+   b) What are the IEEELAN standards? List them.     [5+5] 
+ 
+ 
+ 
+ R16 
+Used Paper Aug-2024
+
+ 
+8.a)   Explain the Frequency allocations for satellite services. 
+   b) Write short notes on: 
+ i) EIRP                   
+ii) Carrier to Noise Density Ratio.       [4+6] 
+OR 
+9.a)  What are the losses occurred in optical fibers? Explain briefly. 
+   b)   Describe with diagram optical receiver with light emitting diode.   [5+5] 
+ 
+10.a)  Explain the procedure of cell-splitting and advantages of cell sectorization. 
+     b)  Describe the RFID communication and its advantages.    [5+5] 
+OR 
+11.a)  Explain the following in a cellular environment. 
+            i) Hand-off mechanism            
+ii) Cell splitting.  
+     b)  Discuss the concept of Bluetooth networks.      [5+5] 
+ 
+ 
+---ooOoo--- 
+Used Paper Aug-2024
+

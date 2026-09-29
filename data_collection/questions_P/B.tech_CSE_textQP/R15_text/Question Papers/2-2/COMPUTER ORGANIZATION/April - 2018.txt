@@ -1,0 +1,86 @@
+ 
+ 
+Code No: 124CN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, April - 2018 
+COMPUTER ORGANIZATION 
+(Computer Science and Engineering) 
+Time: 3 Hours                            Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.                    
+ Part B consists of 5 Units. Answer any one  full question from each unit. Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+1.a) Define different types of interrupts.      [2] 
+   b) What are the different status bit conditions?     [3] 
+   c) Differentiate Isolated Vs Memory mapped I/O.    [2] 
+   d) Draw the block and timing diagram of handshaking.    [3] 
+   e) Define hit ratio.        [2] 
+   f)  Define mapping and what the types of mapping techniques are.  [3] 
+   g) What is the function of READY pin of 8086 processor?    [2] 
+   h) What is the purpose of segmentation?      [3] 
+   i) Explain the Shift instructions in 8086.      [2] 
+   j) What is the difference between SUB instruction and CMP instruction? [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) What is addressing mode? Explain different addressing modes with numeric example. 
+   b) Explain 3-address, 2-address, 1-address, zero-address instruction.  
+  X= (A+B)*(C+D)        [5+5] 
+OR 
+3.a) What are the different types of CPU organization .Explain each organization in detail 
+ with an example. 
+   b) Define subroutine call and return. Explain different conditi onal branch instructions with 
+ tested condition and mnemonics.       [5+5] 
+ 
+4.a) What is DMA? Explain the block diagram of DMA controller. 
+    b) Differentiate programmed I/O and interrupt-initiated I/O mode of transfer.  [5+5] 
+OR 
+5.a) Explain the block diagram of DMA transfer in a computer system. 
+   b) Explain IOP-CPU-IOP communication in detail.     [5+5] 
+ 
+6.a) Differentiate different types of ROMs. 
+   b) A block set associated cache consists of a total of 64 blocks divided into 4 -block sets. 
+ The main memory contains 4096 blocks, each containing of 128 words. 
+ i) How many bits are there in main memory address? 
+ ii) How many bits are there in each of tag, set and word fields?   [5+5] 
+OR 
+ 
+ 
+ 
+ 
+R15 
+JNTUH USED 21-04-2018PM
+
+7.a) Define virtual memory. Explain how a virtual address is mapp ed to a physical address 
+ using mapping table with an example. 
+   b) Differentiate static RAM and dynamic RAM chips.     [5+5]  
+  
+8.a) Explain the pins of 8086 in Maximum Mode. 
+   b) Explain the process of 20 bit address generation using 16 bit registers i n 8086     
+ (Segmented Memory).           [5+5] 
+OR 
+9.a) Explain the following Addressing Modes with suitable examples 
+ i) Direct  ii) Immediate and  iii) Based-Indexed.       
+   b) How is pipelining implemented in 8086?        [5+5] 
+     
+10.a) Explain following instructions in 8086 with suitable examples 
+ i) AAA  ii) XOR  iii) STD     
+     b) Differentiate between RET and IRET instruction in 8086.      [5+5] 
+OR 
+11.a) Write an assembly language program in 8086 to sort in ascending order. 
+     b) Explain about any two string manipulation instructions in 8086 in detail.  [5+5] 
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+       
+ 
+JNTUH USED 21-04-2018PM
+

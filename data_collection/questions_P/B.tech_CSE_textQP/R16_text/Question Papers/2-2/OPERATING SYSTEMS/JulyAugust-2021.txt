@@ -1,0 +1,48 @@
+Code No: 134BU  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, July/August - 2021 
+OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                            Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) Compare protection and security in detail. 
+   b) Explain Time shared Operating System.      [7+8] 
+ 
+2.a) What is a critical section problem? Discuss about the conditions that a solution to the 
+critical section must satisfy. 
+b)  What are the advantages of Inter Process Communication? How communication takes 
+place in shared memory environment.      [7+8] 
+ 
+3.a) Write about LRU page replacement algorithm and all its variants with an example. 
+   b) Discuss in detail about various page table structures.     [8+7] 
+ 
+4.a) Discuss the following: (i) Contiguous (ii) Linked  file allocation methods. 
+   b) Discuss the following: (i) FCFS (ii) SSTF disk scheduling schemes.  [7+8] 
+ 
+5.a) Explain the techniques used to prevent the deadlock. 
+   b)  Explain how to recover the system from deadlock.     [7+8] 
+ 
+6.a) Define Multicasting. Discuss the various functionalities of Operating Systems. 
+   b) Discuss UNIX operating system structure.      [7+8] 
+ 
+7. What is Dining Philosophers problem? D iscuss the solution to the Dining Philosophers 
+problem using monitors.        [15] 
+ 
+8.a) Consider a reference string  
+7,0,1,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0,1 
+For a memory with three frames. Trace by applying the FIFO and LRU page replacement 
+algorithm. 
+   b) What do you meant by thrashing? Suggest solutions to overcome this in virtual memory.   
+            [8+7] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+R16 
+JNTUH Used 29-07-21 AM
+

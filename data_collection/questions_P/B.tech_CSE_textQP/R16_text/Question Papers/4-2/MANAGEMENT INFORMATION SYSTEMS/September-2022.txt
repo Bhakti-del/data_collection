@@ -1,0 +1,48 @@
+ 
+ 
+ 
+ 
+Code No: 138GJ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2022 
+MANAGEMENT INFORMATION SYSTEM 
+ (Common to ME, ECE, CSE, IT, MIE) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What is Information System strategic grid? Explain its quadrants and their contexts.  
+   b) Brief on types of information systems.      [8+7] 
+ 
+2.a) What are the stages of System Development Life Cycle? Explain them.   
+   b) Discuss the Nolan stage Hypothesis with illustration.    [8+7] 
+ 
+3.a) What is the importance of security of information system in an organization?  
+   b) What is the nature of Information Security threat?        [8+7] 
+   
+4.a) What is cycle approach to information system audit?  
+   b) How do you establish security against online attacks for information thefts?  [7+8]  
+ 
+5. In making cost benefit analysis of ERP over its lifetime, what are the costs to be 
+considered? Against these,  list out  the benefits involved too, for an  objective analysis in 
+terms of cost benefit analysis of ERP.                                                    [15] 
+ 
+6.a) Briefly trace the evolution of ERP from MRP I and MRP II systems.  
+   b) Briefly explain the nature of intelligent Predictive maintenance systems.   [9+6] 
+                  
+7.a) What are the causes for reduction in cycle time for various set of activities due to ERP 
+establishment?                                    
+b) How can customer satisfaction be achieved due to ERP?  Provide some of the important 
+reasons.            [9+6] 
+ 
+8.a) What is the importance of user training? Which is the appropriate stage for user training in 
+ERP implementation?                                  
+   b) What are some of the major issues of ERP maintenance?      [7+8] 
+ 
+ 
+---oo0oo--- 
+ 
+R16 
+JNTUH Used Papers
+

@@ -1,0 +1,66 @@
+Code No: 114CQ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, February - 2024 
+DATABASE MANAGEMENT SYSTEMS 
+ (Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)    What is a database?         [2] 
+   b)    Quote example for aggregation in ER model.     [3] 
+   c)     What is an unsafe query?        [2] 
+   d)    What is a trigger?         [3] 
+   e)      Define functional dependency.       [2] 
+   f)     Give example for spurious tuples.       [3] 
+   g)      Define schedule.         [2] 
+   h)      What are the benefits of multiple granularity?     [3] 
+   i)       Define index.          [2] 
+   j)      What is static hashing?        [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2. How does database management system provide data abstraction? Explain in detail.[10] 
+OR 
+3.  What is an integrity constraint? Discuss various types of integrity constraints for 
+DBMS.          [10] 
+     
+4.  Illustrate all primitive operators available in Relational Algebra for data accessing. [10] 
+OR 
+5.  Consider the following database schema to write queries in SQL: 
+ Employee( Eid, Ename, Ecity) 
+ Company( Cno, Cname, Ccity) 
+ Works_for(Eid, Cno, Salary) 
+a) Find the employees hailing from Kolkata. 
+b) Find the employees working for Wipro. 
+c) Find the average salary of employees working for IBM.          [3+3+4] 
+     
+6.  Explain the need of schema refinement in database design with suitable examples. [10] 
+OR 
+7.  Make a comparison of Boyce Codd normal form and Fourth normal form.  [10] 
+  
+ R13 
+
+ 
+ 
+ 
+8.  Discuss the concept of serializability with suitable schedules.   [10] 
+OR 
+9.  Demonstrate the working of validation based protocol.    [10] 
+    
+10.  Compare tree based indexing with hash based indexing.    [10] 
+OR 
+11.a) Illustrate dense indexing. 
+     b) Explain insertion operation on hash file.      [5+5] 
+  
+ 
+---ooOoo--- 
+ 
+

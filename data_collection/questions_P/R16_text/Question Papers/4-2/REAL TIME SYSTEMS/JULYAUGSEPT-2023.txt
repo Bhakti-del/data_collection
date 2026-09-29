@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 138EK             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations July - 2023 
+REAL-TIME SYSTEMS 
+ (Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) What is fork and write command?       [2] 
+   b) What is the role of kernel?        [3] 
+   c) List the basic design principles in RTOS.      [2] 
+   d) Explain the importance of queues in RTOS.      [3] 
+   e) What is a Register?         [2] 
+   f) Define Dead lock.         [3] 
+   g) Determine the cause of the interrupt.       [2] 
+   h) What are the different types of exceptions?      [3] 
+   i) What is Vx works?         [2] 
+   j) What are the main challenges of choosing RTOS for an embedded system design? [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Write a Shell script that displays the number of readable, writable, and executable  files in a 
+specific directory. 
+   b) Explain the file I/O commands briefly.      [5+5] 
+OR 
+3.a) Explain any five Linux general file manipulation commands with examples. 
+   b) Explain about common shells used in UNIX systems.    [5+5] 
+  
+4. Explain how Round-Robin scheduling works with an illustrative example in RTOS.[10]    
+OR 
+5.a) Explain about the different types of real time operating systems with examples. 
+   b) Describe semaphore functions for inter task communication.   [5+5] 
+ 
+6.a) What is meant by a pipe? How does a pipe differ from a queue? 
+   b) Briefly explain about performance metrics for RTOS.    [5+5] 
+OR 
+7.a) Give a detailed description of signal control block and explain various operations of it. 
+   b) Give examples of I/O subsystems. Explain the use of asynchronous I/O.  [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper July/Aug-2023
+
+ 
+ 
+ 
+8.a) Describe in detail about spurious interrupts and how to handle them. 
+   b)  List the three ways in which an RTOS handles the ISRs in a multitasking environment.  
+             [5+5] 
+OR 
+9.a) Discuss about Interrupt Routines in RTOS Environment.  
+   b) What are exceptions and interrupts? Explain the applications of interrupts.   [5+5] 
+ 
+10.a) Explain the inheritance protocol implementation in RT Linux.  
+     b) Explain the Case Study of Inter-Robot Communication in a Robot Orchestra. [5+5] 
+OR 
+11.a) Explain the basic features of RTOS VxWorks. 
+     b) Explain the Case Study of Appliance Control by RT Linux System.   [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

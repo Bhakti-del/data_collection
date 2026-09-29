@@ -1,0 +1,73 @@
+ 
+Code No: 117CF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2018 
+DESIGN PATTERNS 
+(Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+ Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+ consists of 5 Units. Answer any one full question from each unit.  Each question 
+ carries 10 marks and may have a, b, c as sub questions. 
+ 
+Part- A (25 Marks) 
+ 
+1.a) Define Design Pattern.      [2]   
+   b) What are the uses of design pattern?      [3] 
+   c) What is the structure of document?        [2] 
+   d) Explain briefly about consequences of prototype.   [3] 
+   e) Describe the structure of Adaptor Pattern.    [2]    
+   f) List the Consequences of Façade Pattern.    [3]    
+   g) What are all the Consequences of Interpreter Pattern?  [2]    
+   h) Write the Pattern name and Classification of Mediator Pattern. [3]    
+   i) What is the internet of strategy pattern?    [2] 
+   j) Write about Applicability of Visitor Pattern.    [3] 
+ 
+Part-B (50 Marks) 
+ 
+2.a) Describe how a Design Pattern solves the Design Problems.  
+   b) Explain about Design Patterns in Smalltalk MVC.    [5+5]          
+OR 
+3.a) Describe about Catalog of Design Patterns.    
+   b) How to organize the Catalog of Design Pattern?    [5+5] 
+ 
+4. Discuss the Motivation, Structure, Collaborations and Implementation of the following  
+         Patterns. 
+ a) Builder  b) Singleton.      [5+5] 
+OR 
+5.a) Can we use Abstract factory? Explain briefly.    
+   b) Explain about Multiple window system.     [6+4] 
+ 
+6.  Discuss the Pattern nam e, Applicability, Consequences and Related Patterns of the 
+ following Patterns: 
+ a) Composite  b) Decorator.      [5+5] 
+OR 
+7. Discuss the Participants, Collaborations, Sample Code, and Related Patterns of the 
+ following: 
+ a) Adaptor  b) Façade      [10] 
+ 
+R13 JNTUH USED 28-11-18PM Set 1
+
+ 
+ 
+ 
+8. Explain in detail about Command Pattern.     [10] 
+OR 
+9.  Describe in detail about Mediator Pattern.     [10] 
+ 
+10.  Explain the Motivation, Participants, Structure and Implementation of following Patterns 
+ a) Strategy 
+            b) Visitor.          [5+5] 
+OR 
+11. Discuss in detail about the following Patterns. 
+ a) State 
+            b) Template Method.        [5+5] 
+ 
+ 
+ 
+ 
+ 
+---ooOoo---  
+ 
+JNTUH USED 28-11-18PM Set 1
+

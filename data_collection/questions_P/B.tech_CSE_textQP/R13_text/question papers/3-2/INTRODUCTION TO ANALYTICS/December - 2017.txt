@@ -1,0 +1,76 @@
+ 
+Code No: 116FA            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech III Year II Semester Examinations, December - 2017 
+ INTRODUCTION TO ANALYTICS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+ Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+ consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+ 10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)    Define Work Management?        [2] 
+   b) What is Data Frame?         [3] 
+   c) What is Probability?         [2] 
+   d) Define Bivariate Random variable?       [3] 
+   e) List NO SQL database examples.       [2] 
+   f) Explain how SQL is used in R.       [3] 
+   g) Define OLS Regression?        [2] 
+   h) Define Multicollinearity?        [3] 
+   i) Explain about Engineering Design.       [2] 
+   j) What are problems related to a Business?      [3] 
+ 
+PART - B  
+(50 Marks) 
+2. Discuss the following. 
+ a) Data types in R. 
+ b) Quality and Standard Adherence.       [5+5] 
+OR 
+3. Explain briefly about the concept of Reading Datasets, types of Datasets with their 
+ syntax and example.           [10] 
+ 
+4. Explain Probability Distribution and types with suitable examples in R.    [10] 
+OR 
+5.a)    Explain summarizing the data with R. 
+   b)    What are the fundamentals to build a Team?      [5+5] 
+ 
+6. Explain the term NO SQL. Write the differences of NO SQL and SQL.    [10] 
+OR 
+7.a)    Explain how to Read R output in Excel. 
+   b)   Explain how to Read Excel spreadsheet in R.     [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+used paper 18-12-2017
+
+ 
+ 
+ 
+ 
+8.a)    Explain Regression Modelling. 
+   b)   Explain in detail about Regression residuals.      [5+5] 
+OR 
+9. Explain the concept of Basic Regression Analysis with a suitable example.    [10] 
+ 
+10. Discuss the c omparison of business analytics and organization decision -making 
+processes with a flow chart.          [10] 
+OR 
+11. What is meant by Manufacturing? Explain Smart Utilities.      [10] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+used paper 18-12-2017
+

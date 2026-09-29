@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 126EQ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, May - 2019 
+ OBJECT ORIENTED ANALYSIS AND DESIGN 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      What is a model?         [2] 
+   b)      Outline about the Behavioral things.       [3] 
+   c)      Define stereotypes and constraints.          [2] 
+   d)      What is a class diagram?        [3] 
+   e)      What are Interaction diagrams?       [2] 
+   f)       What is usecase?         [3] 
+   g)      Define components.           [2] 
+   h)      Explain about node with neat sketch.       [3] 
+   i)       List out the available diagrams of UML.      [2] 
+   j)       Mention the usecases for library management system.     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Explain about object oriented modeling. 
+   b) Write a short note on Annotational things.      [5+5] 
+OR 
+3.a)  State the significance and importance of UML. 
+   b)  Discuss about principles of modeling.      [5+5] 
+  
+4.a)  Write about structural diagrams in details. 
+   b)  Explain advanced relationships.       [5+5] 
+OR 
+5.a)  Discuss about modeling techniques for object diagrams. 
+   b)  Contrast is-a relationship with has-a relationship.     [5+5] 
+  
+6.a)  Explain common modeling techniques of collaboration diagram. 
+   b)  Illustrate Forking and Joining with suitable examples.    [5+5] 
+OR 
+7.a)  Explain common modeling techniques of usecase diagram. 
+   b)  Illustrate swimlanes and object flow in Activity Diagram.    [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+R13 
+used paper 16-05-19 PM
+
+ 
+ 
+ 
+8.a)  Explain about component diagram with an example. 
+   b)  Write common uses of component diagram.      [5+5] 
+OR 
+9.a)  Discuss about modeling tables, files and documents with neat sketch. 
+   b)  What is the content and uses of deployment diagram?    [5+5] 
+ 
+10.a)  Define class and usecase? Construct class diagram for library management system. 
+     b)  Compose the Interaction diagram for check out it em usecase of library application.
+            [5+5] 
+OR 
+11.a)  Differentiate between patterns and framework. 
+     b)  Draw the deployment diagram for library application.    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+used paper 16-05-19 PM
+

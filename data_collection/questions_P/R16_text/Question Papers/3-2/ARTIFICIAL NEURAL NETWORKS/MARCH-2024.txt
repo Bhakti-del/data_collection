@@ -1,0 +1,67 @@
+Code No: 136ER       
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, March - 2024 
+ARTIFICIAL NEURAL NETWORKS 
+(Common to EEE, CSE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)    Compare neural network and human brain.      [2] 
+   b)    What is error correction learning? Explain.      [3] 
+   c)    What is feature detection?        [2] 
+   d)    Explain the significance of learning curves.      [3] 
+   e)    What is accelerated convergence?       [2] 
+   f)     Explain back-propagation and differentiation.     [3] 
+   g)     What is SOM? Explain.        [2] 
+   h)     Write about learning vector quantization.      [3] 
+   i)     What are called dynamic systems?       [2] 
+   j)      Explain about attractors and their significance.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Give a brief description on memory based learning.  
+   b)  Explain the credit assignment problem.      [5+5] 
+OR 
+3.a)  What is Hebbian learning? Explain. 
+   b)  Give a brief description on how neural networks are viewed as directed graphs. [5+5] 
+4.a)  State and prove perceptron convergence theorem. 
+   b)  What is adaptive filtering problem? Explain.      [5+5] 
+OR 
+5.a)  Explain least mean square algorithm. 
+   b)  Describe back propagation algorithm and derive the expressions for weight update 
+relations.          [5+5] 
+ 
+6.a)  With examples, explain about generalization and cross validation. 
+   b)  Discuss about Hessian matrix and its significance.     [5+5] 
+OR 
+7.a)  What are the virtues of back propagation learning? Explain. 
+   b)  Explain about supervised learning by giving examples.    [5+5] 
+ 
+ 
+ 
+ 
+ 
+ R16 
+Used paper March-2024
+
+8.  Explain the Kohonen’s method of unsupervised learning. Discuss with example.   [10] 
+OR 
+9.  Discuss in detail about Adaptive pattern classification.      [10] 
+ 
+10.  Discuss in detail about neuro-dynamical models.       [10] 
+OR 
+11.  With a neat sketch, describe the architecture of Hopfield network models.    [10] 
+ 
+ 
+ 
+---ooOoo---  
+Used paper March-2024
+

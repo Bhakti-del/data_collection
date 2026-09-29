@@ -1,0 +1,80 @@
+ 
+ 
+ 
+Code No: 118GM             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2019 
+PREDICTIVE ANALYTICS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 10 
+marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) Why do we need Analytics.        [2]  
+   b) What is the importance of regression in analytics?     [3] 
+   c) Where is Logistic Regression concepts applied?     [2] 
+   d) Why do we use data visualization?       [3] 
+   e) Explain what is overfitting.        [2]  
+   f) How is segmentation different from regression?     [3]  
+   g) What is Time Series?         [2]  
+   h) Mention the uses of Forecast error.       [3]  
+   i) What do you mean by version control?      [2] 
+   j) List the reasons why document scope is usually used.    [3] 
+ 
+PART - B  
+(50 Marks) 
+2.a) Give an overview of Data Modeling Techniques. 
+   b) List and explain various steps involved in Analytics.    [5+5] 
+OR 
+3.a) Explain the need for Business modeling. 
+   b) Discuss about the BLUE property of Regression.      [5+5] 
+  
+4.a) Discuss about Multinomial Logistic Regression. 
+b) Explain the role of confusion matrix in visualization of the performance of an algorithm.  
+            [5+5] 
+OR 
+5.a) Differentiate between OLS & MLE. 
+   b) Illustrate the interpretation of the model through maximum likelihood estimates. [5+5] 
+ 
+6.a) Describe the tools used to make Decision Tree. 
+   b) What is the Measure of Impurity? Explain.      [5+5] 
+OR 
+7.a) Give a note on CHI-squared Automatic Interaction Detector. 
+   b) List and define different methods used by the organizations to review skills and knowledge. 
+            [5+5] 
+  
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 17-07-2019AM
+
+ 
+ 
+ 
+8. Explain various steps involved in ETL. List any five commercially available ETL tools. 
+            [10] 
+OR 
+9.a) What are the Measures of forecast Accuracy? Explain. 
+   b) Give a note on ARIMA.        [5+5] 
+ 
+10.a) Write the steps involved in writing your case study. 
+     b) Give the sample Format of Documents.      [5+5] 
+OR 
+11.a) How would you insert an image from the internet into a Word document or PowerPoint? 
+     b) Write notes on the importance of Peer review and feedback.    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+JNTUH USED 17-07-2019AM
+

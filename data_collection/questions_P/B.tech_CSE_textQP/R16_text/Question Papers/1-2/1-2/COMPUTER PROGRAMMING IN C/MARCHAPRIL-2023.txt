@@ -1,0 +1,76 @@
+ 
+Code No: 132AD 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year II Semester Examinations, March/April - 2023 
+ COMPUTER PROGRAMMING IN C  
+(Common to EEE, ECE, CSE, IT, ETM) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) Explain the syntax of For loop.       [2] 
+   b)      Explain about typecasting.        [3] 
+   c)      What is function prototype?        [2] 
+   d)      How is an array represented in memory?      [3] 
+   e)      What is a dangling pointer?        [2] 
+   f)      Write a program to find the length of a string.     [3] 
+   g)      Give the syntax for Union declaration.      [2] 
+   h)      What are the drawbacks of Bit fields?      [3] 
+   i)       What is the use of rewind ().        [2] 
+   j)       Why do we need to store data in files?      [3] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  Explain about the conditional operator with an example. 
+b) Write a program to calculate the bill amount for an item given its quantity sold,             
+value, discount and tax.        [5+5] 
+OR 
+3.a) Draw the flow chart to find the largest of three numbers. 
+   b) Explain about the Do-While with an example.     [5+5] 
+  
+4.a) Write a program to print the Fibonacci series using recursion. 
+   b) What are the pros and cons of call by value?      [5+5] 
+OR 
+5.a)  Write a menu driven program to add, subtract, multiply and divide two integers using             
+functions.  
+   b) Differentiate between linear and binary search with an example.   [5+5] 
+  
+6.a)  Write a program to copy characters of a string from the mth  position in another string.        
+   b)  Explain how generic pointers are different from other pointer variable.  [5+5] 
+OR 
+ R16 
+JNTUH Used papers 2023
+
+7.a) Explain the following functions: 
+ i) strlen() ii) strncat() 
+b) Write a program to read a text, delete all the semi colons it has, and finally replace all             
+‘.’ with a ‘,’.          [5+5] 
+  
+8.a) Explain about the command-line argument with an example. 
+b)  Write a program using an array of pointers to a structure t o read and display the data of             
+a student.          [5+5] 
+OR 
+9.a) Explain about the self-referential structures. 
+   b)  Write a program to add two complex numbers by passing structure to a function. [5+5] 
+ 
+10.a) Write a program to compare two files to check whether they are identical or not. 
+     b)  Explain about the functions to write the data from a file.    [5+5] 
+OR 
+11.a) Write a program to randomly read the nth records of a binary file. 
+     b)  Explain the standard streams in C language.      [5+5] 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

@@ -1,0 +1,115 @@
+ 
+ 
+ 
+ 
+Code No: 126AP           
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, December - 2017 
+ DISTRIBUTED SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)     What are the different challenges of distributed system?    [2] 
+   b)      Describe about distributed multimedia systems.     [3] 
+   c)      Write about Distributed debugging.       [2] 
+   d)      What are the problems that are associated with the coordination and agreement in     
+distributed systems?         [3] 
+   e)      What is Inter process communication?      [2] 
+   f)       What is meant by group communication?      [3] 
+   g)      Define Distributed File system.       [2] 
+   h)      Write about sequential consistency.       [3] 
+   i)       Write rules for connecting of nested transaction.     [2] 
+   j)       Write about active and passive replications.      [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Describe the distributed computing as utility.  
+   b)  What are the different benefits of resource sharing? Explain about its significance?
+            [5+5] 
+OR 
+3.a)  What are the different system model of distributed system? 
+   b)  Discuss how distributed systems are more scalable than the centralized systems? [5+5] 
+  
+4.a)  What are the features required for election algorithms. 
+   b)  Explain how election is done when any particular system crashes?   [5+5] 
+OR 
+5.a)  Write about bully algorithm and summarize h ow it is different from other  election 
+algorithms. 
+   b) What is meant by event ordering? Explain real time ordering of events.  [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+used paper 18-12-2017
+
+ 
+ 
+ 
+ 
+6.a)  What meant by marshalling? Differentiate between TCP stream communication and 
+Client Server Communication. 
+   b)  Discuss about the communication between distributed objects in RMI.  [5+5] 
+OR 
+7.a) What is meant by inter  process communication? How inter process communication is 
+used in distributed systems? 
+   b)  What are design issues for remote method invocation?    [5+5] 
+  
+8.a)  Explain in brief about directory and discovery services. 
+   b)  Discuss the design and implementation issues of Domain Name System.  [5+5] 
+OR 
+9.a)  Discuss in detail about Munin. 
+   b)  List the characteristics of file systems.      [5+5] 
+ 
+10.a)  Explain with an example how two transactions are interleaved which are serially 
+equivalent at each server but is not serially equivalent globally? 
+     b) Explain how distributed deadlocks can be detected?     [5+5] 
+OR 
+11.a)  What is meant by concurrency control? How it is important in distributed systems? 
+     b)  Explain how primary-backup model of replication is fault tolerant?   [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+used paper 18-12-2017
+

@@ -1,0 +1,85 @@
+ 
+Code No: 136FC  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, July - 2023 
+FUNDAMENTALS OF ROBOTICS 
+(Common to CE, ECE, CSE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define manipulator.         [2] 
+   b)      Explain the uses of sensors in robotics.      [3] 
+   c)      List out the classification of grippers.        [2] 
+   d)      What are the limitations of pneumatic actuators?     [3] 
+   e)      What is homogeneous transformation?      [2] 
+   f)     What is the difference between forward and inverse kinematics?   [3] 
+   g)      Draw the block diagram of trajectory planning.     [2] 
+   h)      What are the different types of control modes used in robot system?  [3] 
+   i)       List out the various robot programming methods.     [2] 
+   j)       Describe robot applications in manufacturing.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  What are the different ways of classifying the Robots? Explain them in brief. 
+b)  What are the different types of sensors used in robots? Explain the suitable sensor to        
+measure the position of the gripper accurately.     [5+5] 
+OR 
+3.a)  Explain the classification of robots by different controlling methods. 
+   b)  Define work volume and load carrying capacity with reference to robot.  [5+5] 
+  
+4.a)  Explain the types of gripper mechanisms and force analysis in grippers 
+   b)  Explain the applications of robots in detail for various assembly and i nspection
+ operations in an industrial environment.      [5+5] 
+OR 
+5.a)  With a neat sketch, explain the magnetic gripper and list its advantages and limitations. 
+   b)  What are future manufacturing applications of robot?    [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+used paper July/Aug-2023
+
+ 
+6.a)  Derive the  forward kinematics equation using the DH convention for the two -link            
+manipulator with one revolute and one prismatic joint. 
+b)  Using the above formula find the motion parameters for the point a (uvw)= (6,2,4) T 
+rotate 300 about the y-axis followed by translation of 6 units along X-axis.  [5+5] 
+OR 
+7.a)  Write the homogeneous transformation matrix for a rotation of 90 0 about the z -axis,           
+followed by a rotation of 900 about the x-axis, followed by a translation of (3, 7, 9). 
+   b)  Explain the inverse kinematics for any manipulator based on D-H convention. [5+5] 
+ 
+8.  Explain tasks involved in trajectory planning. Explain the Cartesian space techniques         
+used for trajectory planning.            [10] 
+OR 
+9.a)  What are the considerations that are made while planning a joint interpolated motion  
+trajectory? 
+   b)  With the help of diagram, show the elements of feedback control system.  [5+5] 
+ 
+10.a)  Discuss the structure, elements and functions of any one Robot Language. 
+     b)  Differentiate Manual lead through and powered lead through in robot programming.
+            [5+5]     
+OR 
+11.a)  Discuss about the WAIT, SIGNAL, DELAY commands. 
+     b)  Discuss the relative merits and demerits of different textual robot languages. [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

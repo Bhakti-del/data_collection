@@ -1,0 +1,74 @@
+ 
+Code No: 132AE       
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, January/February - 2024 
+ ENGINEERING GRAPHICS 
+(Common to EEE, ECE, CSE, EIE, IT) 
+Time: 3 Hours               Max Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Construct a diagonal scale showing yards, feet and inches in which 2 inches long line  
+represents 1.25 yards and is long enough to measure up to 5 yards. Find R.F. and mark 
+a distance of 4 yards 2 feet 8 inches.            
+b) The major axis of an ellipse is 110 mm long and the foci are at a distance of 15 mm 
+from the ends. Draw the ellipse, one -half of it by concentric circles method and the 
+other half by rectangle method. Find the directrix and eccentricity of the ellipse. [7+8]
+  
+OR 
+2.a) Construct a diagonal scale showing hectometers, decameters and metres, in which 1 cm 
+long line represents 50 metres and long enough to measure  up to 1 km. Find R.F.  and 
+mark a distance 5 Hm 3Dm 7m on it.  
+b) A circle of diameter 50 mm rolls for a distance of  180 mm along a straight line.  Draw 
+the locus of a  point lying on the circumference of the circle. Name  the curve traced.
+           [7+8]
+    
+3.a) A straight line AB has its end A 20 mm above the H.P. and 30 mm in front  of the V.P. 
+and the end B is 80 mm above the H.P. and 70 mm in front of the V.P. If  the end 
+projectors are 60 mm apart, draw the projections of the line. Determine its  true length 
+and true inclinations with the reference planes.   
+b) A 70 mm long line AB has its end A 20 mm above the H.P. and 30 mm in front of the 
+V.P. The line is inclined at 45° to the H.P. and 30° to the V.P. Draw its projections. 
+           [7+8] 
+OR 
+4. A hexagonal plane of side 30 mm has a corner on the ground. Its surface is  inclined at 
+45° to the H.P. and the top view of the diagonal through the corne r which is in the H.P. 
+makes an angle of 60° with the V.P. Draw its projections.     [15] 
+  
+5.   A cylinder of base diameter 50 mm and axis 70 mm has  a point of its base circle  in the 
+V.P. Its axis is inclined at 30° to the V.P. and 45° to the H.P. Draw its projections. [15]  
+OR 
+6.a) A pentagonal prism of base edge 30 mm and axis 60 mm rests on an edge of its  base in 
+the H.P. Its axis is parallel to V.P. and inclined at 45° to the H.P. Draw its  projections.  
+ b) A pentagonal pyramid of base side 30 mm and axis 60 mm has an edge of base  parallel 
+to H.P. Its axis is parallel to V.P. and inclined at 45° to the H.P. Draw its  projections 
+when the apex lies in the H.P.                [7+8] 
+ 
+R16 JNTUH USED PAPERS 2024
+
+7.   A cone of base diameter 50 mm and axis 60 mm rests on  its base in the H.P. It is cut by 
+a section plane perpendicular to V.P. such that the true shape of th e section  is a 
+parabola of base 40 mm. Draw its three views and obtain the true shape of the  section.
+            [15] 
+OR 
+8. A cylindrical drum of base diameter 50 mm and axis 70 mm is resting on its base on the  
+  H.P. A square hole of side 40 mm is cut through the drum such that one of the faces of  
+  the square hole is inclined at 30° to the H.P. The axis of the hole is  perpendicular to the  
+  V.P. and is 10 mm away from the axis of the cylinder. Draw  the development of the  
+  retained cylinder.                [15] 
+       
+9.  Draw the following views of the drawing shown in figure 1 below. (a) Front view in the 
+direction of arrow (b) Side view from the right (c) Top view. 
+(All dimensions are in mm)              [15] 
+ 
+Figure 1      
+OR 
+10. Draw the isome tric view from the figure 2 showing orthographic views of an  object 
+shown below.(All dimensions are in mm)      [15] 
+ 
+Figure 2 
+    
+--ooOoo-- 
+JNTUH USED PAPERS 2024
+

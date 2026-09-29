@@ -1,0 +1,74 @@
+ 
+Code No: 135AE            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, January/February - 2023 
+ DATA COMMUNICATION AND COMPUTER NETWORKS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each questi on carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) What are virtual circuit networks?       [2] 
+   b) Differentiate between OSI reference model and TCP/IP reference model.  [3] 
+   c) How CSMA/CA is different from CSMA/CD?     [2] 
+   d) Mention the problems associated with Go-Back-N protocol.    [3] 
+   e) State the need for routing protocols.       [2] 
+   f) How can NAT help in address translation?      [3] 
+   g) Define the term congestion.        [2] 
+   h) Differentiate between TCP and UDP protocols.     [3] 
+   i) What is meant by Domain Name system?      [2] 
+   j) Explain FTP protocol in brief.       [3] 
+ 
+PART – B  
+    (50 Marks) 
+ 
+2. What are the different layers in the OSI Reference Model? Explain the functionalities 
+of each Layer.                                                                                                             [10] 
+OR 
+3.a)  Describe different types of Guided and unguided Transmission media.           
+b) What is the role of the address field in a packet traveling through a virtual -circuit       
+network?                                                                                                            [5+5] 
+ 
+4.  A bit stream 11100011 is transmitted using the standard CRC method. The generator 
+polynomial is x4+x3+1. What is the actual bit string transmitted?                            [10] 
+OR 
+5. Discuss about IEEE 802.3 and IEEE 802.11.        [10] 
+ 
+6. Explain Link State Routing algorithm to find the shortest route. Give example.        [10] 
+OR 
+7. A large number of consecutive IP address are available starting at 198.16.0.0. Suppose 
+an organization has four blocks that are B1, B2, B3, and B4 are requiring 4000, 2000, 
+4000 and 8000 addresses respectively. After providing of IP addresses to the every 
+block, what are the first IP address, last IP address and subnet mask of each block.   [10]                                                   
+ 
+ 
+ 
+ 
+R16 
+JNTUH Used papers 2023
+
+ 
+8.   Explain the TCP Connection establishment and termination using Timeline diagram. 
+                                                                                                                                             [10] 
+OR 
+9. Explain leaky bucket algorithm to explain the congestion control in network.       [10]                                                                        
+ 
+10.  Describe the operational model of HTTP protocol.             [10] 
+OR 
+11. Describe in detail about the following: 
+ a) SMTP 
+ b) SNMP.          [5+5] 
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

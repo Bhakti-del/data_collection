@@ -1,0 +1,33 @@
+ 
+ 
+ 
+Code No: 138GD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July - 2021 
+HEALTH AND SAFETY IN MINES 
+ (Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. Explain the classification of accidents as per Mining legislation/law.  [15] 
+ 
+2. Explain briefly about the statistical analysis of accidents? How to write an accident report? 
+            [15] 
+  
+3. What are the causes of drilling and blasting? How to prevent from it? Explain. [15] 
+ 
+4. What are the causes of haulage and winding? How to prevent from it? Explain. [15] 
+ 
+5. Compare the risk analysis by using FTA and risk analysis using HAZOP?           [15] 
+ 
+6. Explain the generic approach to loss control within mining operations.  [15] 
+ 
+7. How the safety policies help to the workers in organization? Explain.  [15]   
+ 
+8. What is safety audit? Explain it with an example.     [15]        
+ 
+--ooOoo-- 
+R16 
+

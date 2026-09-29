@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Code No: 118EN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, May - 2019 
+SCRIPTING LANGUAGES 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 10 
+marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      List out the data types that Perl can handle?      [2]  
+   b)      Which feature of Perl provides code reusability? Discuss briefly with an example. [3] 
+   c)      What are prefix dereferencer?        [2] 
+   d)      With the help of an example explain about Perl Constructor    [3] 
+   e)      What are the features of PHP?       [2]  
+   f)       Write about the security vulnerability of PHP?     [3]  
+   g)      What are the security issues in TCL?         [2]  
+   h)      Write a regexp to match an ip address?      [3]  
+   i)       What are the features of Pandas that you like or dislike    [2] 
+   j)       Write a program to sort a Data Frame in Python in descending order  [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) Explain in detail about subroutines. Describe at least two subroutines used in Perl? 
+   b) Write a perl script to find the any given is a leap year or not.    [5+5] 
+OR 
+3.a) Discuss about scalar data, numeric constants and string constants with examples. 
+   b) Write perl script to find the sum of even numbers present between 1 to 20.  [5+5] 
+  
+4. Give the process to embed PHP code into the web pages.    [10] 
+OR 
+5.a) Discuss about the perl’s approach to provide security. 
+   b) Write about Expressions in PHP.       [5+5] 
+    
+6.a) What is a web form in PHP? Explain it with an example. 
+   b) List and discuss various data types available in PHP.    [5+5] 
+OR 
+7.a) Discuss about One-Time URLs and Password Recovery using PHP. 
+   b) Write short notes on PCRE.        [5+5] 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 20-05-2019PM Set 1
+
+ 
+ 
+ 
+8.a) How can we delete members of a list in TCL? Explain with example.  
+   b) Explain about puts and get commands using TCL.      [5+5] 
+OR 
+9. Explain with an example how Tk is used for implementing event driven programs.[10] 
+     
+10. Illustrate the classical web server architecture with a neat diagram. Explain type and range 
+functions in Python with example.       [10] 
+OR 
+11.a) What can you do if a variable name you would like to use is the same as a reserved word? 
+Illustrate with example.  
+     b) Distinguish between top-down and bottom-up approach in Python.   [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH USED 20-05-2019PM Set 1
+

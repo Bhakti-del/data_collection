@@ -1,0 +1,94 @@
+Code No: 133BD  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, October - 2020 
+MATHEMATICS - IV  
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM, CEE, MSNT) 
+Time: 2 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) State the necessary conditions for a function 𝑓 𝑧  to be analytic. Show that the function     
+𝑓 𝑧 =  |𝑥𝑦| is not analytic at the origin, although the Cauchy -Riemann equations are 
+satisfied. 
+   b) Determine the analytic function 𝑤 = 𝑢 + 𝑖𝑣, if 𝑣 = log 𝑥2 + 𝑦2 + 𝑥 − 2𝑦. [8+7] 
+ 
+2.a) If 𝑓(𝑧) is an analytic function of 𝑧, prove that  
+𝜕 2
+𝜕𝑥 2 +
+𝜕 2
+𝜕𝑦 2 log 𝑓′ 𝑧  = 0. 
+   b) If 𝑢 + 𝑣 =
+2 sin 2𝑥
+𝑒 2𝑦 +𝑒 −2𝑦 −2 cos 2𝑥   and 𝑓 𝑧 = 𝑢 + 𝑖𝑣  is an analytic function of  𝑧, then find 
+            𝑓(𝑧) in terms of 𝑧.         [7+8] 
+ 
+3.a) Find the Laurent series that represents the function 𝑓 𝑧 = 𝑧2 sin  
+1
+𝑧 2 in the domain                   
+            0 <  𝑧 < ∞. 
+b) Evaluate the integral  
+cos 𝜋𝑧
+𝑧(𝑧 2+1) 𝑑𝑧
+𝐶
+  where 𝐶 is the circle  𝑧 = 2, described in the positive 
+sense.            [8+7] 
+ 
+4.a) Find the Taylor series expansion of the function 𝑓 𝑧 = sin3 𝑧 about 𝑧 = 0. 
+   b) Evaluate the integral  
+cosh 𝑧
+ 1−𝑧 100 𝑑𝑧
+𝐶
+, where 𝐶 is the closed circle  𝑧 =
+1
+2.  [8+7] 
+ 
+5. Evaluate the real integral using contour integration  
+cos ax
+1+x2 dx.
+∞
+0
+   [15] 
+ 
+6. Find the bilinear transformation which maps the points (0, 1, ∞) into the points 
+             1, −𝑧, −𝑖 . Find the image of the line 𝑦 = 5𝑥 under this transformation.  [15] 
+ 
+7.a) Find the Fourier series of 𝑓 𝑥 =  1 + 𝑥, 0 < 𝑥 < 𝜋
+ 1 − 𝑥, −𝜋 < 𝑥 < 0
+ .     
+Deduce that 1 −
+1
+3 +
+1
+5 −
+1
+7 + ⋯ =
+𝜋
+4. 
+b) Express the function 𝑓 𝑥 =  1 𝑓𝑜𝑟  𝑥 ≤ 1,
+0 𝑓𝑜𝑟  𝑥 > 1,
+  as a Fourier integral. Hence 
+evaluate 
+sin 𝜆 cos 𝜆𝑥  𝑑𝜆
+𝜆
+∞
+0
+.        [8+7] 
+ 
+8. Write down the one dimensional heat equation. Find the temperature 𝑢(𝑥, 𝑡) in a slab 
+whose ends 𝑥 = 0 and 𝑥 = 𝐿 are kept at zero temperature and whose initial temperature 
+𝑓(𝑥) is given by          [15] 
+           𝑓 𝑥 =  
+𝑘, 𝑤ℎ𝑒𝑛 0 < 𝑥 <
+1
+2 𝐿
+0, 𝑤ℎ𝑒𝑛 
+1
+2 𝐿 < 𝑥 < 𝐿
+  . 
+---oo0oo--- 
+ 
+R16 
+ 
+JNTUH USED 12-10-2020 AM
+

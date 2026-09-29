@@ -1,0 +1,68 @@
+Code No: 136AG  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+ARTIFICIAL INTELLIGENCE 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Name the elements of an agent.       [2] 
+   b)      Define Artificial Intelligence (AI).       [3] 
+   c)      What do you mean by semantic network?        [2] 
+   d)      Define predicate logic.        [3] 
+   e)      What is an expert system?        [2] 
+   f)      What is the future scope of expert systems?      [3] 
+   g)      Define Reinforcement Learning        [2] 
+   h)      What do you mean by inductive learning?      [3] 
+   i)       What is the importance of the Natural Language Processing?   [2] 
+   j)       Write the significance of parsing in natural language processing.   [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Explain the control strategies used to prepare production system. 
+   b) What is Alpha-Beta pruning? Explain with the help of suitable example.  [5+5] 
+OR 
+3. Discuss in detail heuristic search techniques with example.      [10] 
+  
+4.a) Determine whether the following is Satisfiable, Contradictory or Valid: 
+(P V Q) ^ ~ (P V Q) 
+   b) What are the properties of a good system f or the knowledge representation?  Discuss.
+            [5+5] 
+OR 
+5. List and explain the various approaches of knowledge representation.     [10] 
+ 
+6.a) Describe in detail various phases in building Expert systems. 
+   b) List and explain various capabilities of the Expert System.    [5+5] 
+OR 
+7. Write a detailed note on Bayesian Belief Networks.       [10] 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+8.a) List and explain the various design issues of Artificial Neural Networks. 
+   b) Discuss the process of inductive learning using decision trees.   [5+5] 
+OR 
+9.a) Explain in detail about Single-Layer Feed-Forward Networks with a neat sketch. 
+   b) Write a detailed note on Support Vector Machines.     [5+5] 
+ 
+10.a) List various components of natural language understanding process.  
+     b) Describe Syntactic analysis and Semantic analysis in brief.    [5+5] 
+OR 
+11.a) Write a detailed note on Universal Networking Knowledge. 
+     b) Discuss the steps involved in natural language processing with an example. [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

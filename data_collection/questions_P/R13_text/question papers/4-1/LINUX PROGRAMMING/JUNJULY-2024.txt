@@ -1,0 +1,79 @@
+ 
+Code No: 117EE      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, June/July - 2024 
+LINUX PROGRAMMING 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) What is an associative array?        [2]  
+   b) Which command is used to modify the file permissions and access modes in linux? Provide  
+examples.           [3] 
+   c)       Name the command used to create a directory in linux and provide an example. [2] 
+   d)      State the differences between fchown( ) and lchown( ) methods and their usage in linux. [3] 
+   e) How does a process differ from a thread?       [2]  
+   f)      Why and how exit( ) method is used in Linux?     [3]  
+   g)      What are the advantages of using Pipes for IPC in Linux?     [2]  
+   h)      What does the system( ) function do in Linux? Provide its syntax and example.  [3]  
+   i)       What is Shared Memory in Linux?        [2] 
+   j)      Mention the differences between stream sockets and datagram sockets.   [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Describe the concept of functions in bash scripting and how they can be defined and invoked.  
+   b) Explain various process utilities available in Linux briefly.     [5+5] 
+OR 
+3.a) Explain how ‘awk’ can be used in combination with shell scripts and other system utilities             
+  to perform complex text processing tasks.      
+   b) Describe the function of the ‘ping’ command in Linux, and how it can be used to test network  
+  connectivity.           [5+5] 
+  
+4.a) Compare and contrast ‘open()’ and ‘creat()’ system calls.  
+   b) How does read() system call work in file I/O operations? Explain with a sample code.[4+6] 
+OR 
+5.a) Explain the purpose of ‘fstat() ’ system call in file operations with an illustrative example   
+  code.  
+   b) How do file locking and record locking mechanisms ensure data integrity and security?  
+Explain.           [5+5] 
+ 
+R13 
+Used Papers 2024
+
+6.a) Explore the significance of environment variables in Linux. How do they influence the  
+  behavior of programs and processes?  
+   b) What is the purpose of the ‘exec ( )’ family of functions? Explain briefly.   [5+5] 
+OR 
+7.a) Define the terms "zombie process " and "orphan process" in Linux. What are the causes of  
+  these phenomena, and how can they impact system performance?  
+   b) Explain the process of signal generation and handling in Linux.    [5+5] 
+ 
+8.a) How do pipes in Linux facilitate communication bet ween processes? Mention their  
+  characteristics in terms of data flow and directionality.  
+   b)  Explain the concept of implementing IPC mechanism between processes using fifos in 
+Linux.            [5+5] 
+OR 
+9.a) What distinguishes Message Queues from other IPC mechanisms like pipes and FIFOs?  
+   b)  Discuss the kernel support for Message Queues to support IPC in Linux.   [4+6] 
+ 
+10.a) What is the role of shared memory in modern multi-threaded and multi-core systems?  
+     b)  Provide an example for implementing synchronization between producer -consumer  
+ processes using shared memory APIs in Linux.      [4+6] 
+OR 
+11.a) What are the differences between Unix domain sockets (AF_UNIX) and Internet domain
+ sockets (AF_INET)?  
+     b) Discuss the mechanisms used for binding sockets to specific addresses and ports using the  
+bind() system call in Linux.         [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+Used Papers 2024
+

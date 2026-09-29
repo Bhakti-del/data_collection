@@ -1,0 +1,55 @@
+Code No: 115DT             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, November/December - 2018 
+COMPUTER NETWORKS 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)  What is a guided transmission medium?                                                                  [2] 
+   b)  List out the seven layers of OSI model.                                                            [3] 
+   c)  Give various types of multiple-access protocol.                                              [2] 
+   d)  What is necessity of Mac sub-layer?                                  [3] 
+   e)  Write the principle of optimality.                                                                           [2] 
+   f)  What is admission Control and congestion control?         [3] 
+   g)  Define fragmentation.               [2] 
+   h)  What do you mean by tunneling?         [3] 
+   i)  What is the necessity of HTTP and FTP?                                                    [2] 
+   j)  Write a short note on the features of TCP.                      [3] 
+                                             
+PART - B 
+(50 Marks) 
+ 
+2. List out the disadvantages of fiber optics over copper cable.               [10] 
+OR 
+3. Explain Error detecting using CRC codes with an example.                        [10] 
+ 
+4. Write and explain Adaptive Tree walk protocol.                                    [10] 
+OR 
+5. Explain about spanning tree bridges.                                                        [10] 
+ 
+6. With a suitable example explain DIJKSTRA’S shortest path Algorithm.     [10] 
+OR 
+7. Explain count to infinity problem with an example.                                     [10] 
+ 
+8. Compare IPV4 and IPV6 Headers and explain how IPV6 Address is represented.    [10] 
+OR 
+9. Elaborate on Crash Recovery techniques in Transport Layer.                                  [10] 
+ 
+10.  What are the services provided by the Internet transport protocol? Explain.       [10] 
+OR 
+11. Write short notes on                                                                                                   [10] 
+            a) HTTP                c) SSH 
+            b) FTP                  d) E-mail 
+ 
+---ooOoo--- 
+R13 
+used paper 29-11-2018 Am
+

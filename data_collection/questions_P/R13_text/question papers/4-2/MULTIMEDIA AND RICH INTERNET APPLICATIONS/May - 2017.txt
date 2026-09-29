@@ -1,0 +1,64 @@
+Code No: 118DD             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, May - 2017 
+MULTIMEDIA AND RICH INTERNET APPLICATIONS  
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+1.a) What is Multimedia?        [2]  
+   b) Explain the different image file formats.     [3] 
+   c) What is image compression?       [2] 
+   d) Describe S-video.        [3] 
+   e)      What is MPEG?        [2]   
+   f)       What is social networking?       [3]   
+   g)      What is the need of FLEX?       [2]   
+   h)      What is masking in adobe flash?      [3]   
+   i)       What is DoJo toolkit?        [2] 
+   j)       Explain the history of AJAX.       [3] 
+ 
+PART - B  
+(50 Marks) 
+2.a) Explain the features of world wide web. 
+   b) Discuss about multimedia software tools.     [5+5] 
+OR 
+3. Explain the different color models in video.     [10] 
+ 
+4.a) Explain musical instrument digital interface(MIDI). 
+   b) Explain PAL and NTSC TV standards.     [5+5] 
+OR 
+5.a) Explain Shannon-fano algorithm. 
+   b) Give a detailed note on discrete cosine transform.    [5+5] 
+  
+6. In detail explain the MPEG audio compression standard.   [10] 
+OR 
+7.a) Explain the features of XML and VoIP. 
+   b) Discuss the Web 2.0 Business models.     [5+5] 
+  
+8.a) Describe the features and applications of Adobe flash. 
+   b) Explain the creation of a website splash screen with Adobe flash.  [5+5] 
+OR 
+9.a)  Differentiate between HTML and flex applications. 
+   b) Explain the flex application life cycle.     [5+5] 
+ 
+ 
+R13 
+JNTUH USED 16-05-17PM Set 1
+
+10.a) Enumerate the key differences between traditional web applications and Ajax -based web 
+ applications? 
+     b) Explain rich internet applications with Ajax.     [5+5] 
+OR 
+11. Describe the creation of a full scale Ajax enabled application.  [10]  
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 16-05-17PM Set 1
+

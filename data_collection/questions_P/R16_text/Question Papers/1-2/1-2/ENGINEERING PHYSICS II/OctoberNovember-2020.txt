@@ -1,0 +1,47 @@
+ 
+ 
+ 
+Code No: 132AA      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, November/December - 2020  
+ENGINEERING PHYSICS – II 
+(Common to EEE, ECE, CSE, EIE, IT, ETM) 
+Time: 2 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Describe Davisson and Germer’s experiment and explain how it enabled the 
+ verification of wave nature of matter.         [15]   
+ 
+2.a) Discuss the Kronig-Penny model for the motion of an electron in a periodic potential. 
+   b) The minimum energy possible for a particle entrapped in a one dimensional box is           
+ 3.2 × 10-18 J. Wha t are the next three energies  (in eV) the particle can have.                                     
+            [11+4] 
+ 
+3. Sketch the energy diagrams of a) an intrinsic   b ) n -type    c) p -type semiconductors. 
+ Indicate Fermi, Donor and acceptor levels wherever present.                    [5+5+5] 
+ 
+4. Derive an expression for the carrier density i n n -type semiconductors and give a 
+ qualitative discussion about variation of Fermi level with temperature.           [15] 
+ 
+5. Deduce Clausius -Mossotti equation and explain its use in predicting the dielectric 
+ constant. What is the importance of dielectric constant?        [15]             
+ 
+6.a) What is meant by local filed in a dielectric material and how is it calculated for a cubic 
+ structure.   
+   b) An electric field of 10 5 V/m is applied on a sample of neon at NTP. Calculate the dipole 
+ moment induced in each atom. Given dielectric constant for neon = 1.000134. Also find 
+ the atomic polarizability of neon gas.                                             [11+4]                    
+ 
+7.a) How super conductors are classified? Explain their properties.                 
+   b) Describe Meissner effect?          [9+6]   
+ 
+8.a) List a methods of synthesis of nanomaterials. 
+   b) Write a short note on XRD technique for characterization of nano material.            [5+10]     
+ 
+ 
+---ooOoo--- 
+R16 
+JNTUH USED PAPERS OCT/NOV 2020
+

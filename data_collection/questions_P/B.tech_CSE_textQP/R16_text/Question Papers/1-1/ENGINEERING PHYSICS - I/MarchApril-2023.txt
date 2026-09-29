@@ -1,0 +1,84 @@
+ 
+Code No: 131AH 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, March/April - 2023 
+  ENGINEERING PHYSICS - I  
+(Common to EEE, ECE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)     An observer through mesh is observing a diffraction pattern in his room due to street    
+  light, which type of diffraction is this, explain?     [2] 
+   b)      Write uses of interference of light.       [3] 
+   c)      Calculate the thickness of a quarter wave plate for μe= 1.533 and μo= 1.544,                    
+λ = 
+o
+5000A .          [2] 
+   d)      Define the stimulated emission and mention its characteristics.   [3] 
+   e)      Classify the optical fibers based on the refractive index of core.   [2] 
+   f)      The fractional refractive index of an optical fiber 0.0004 and clad refractive index is  
+  1.48. Calculate numerical aperture of the fiber.     [3] 
+   g)      Draw the planes (101) and (100) in a cubic unit cell of unit dimensions.  [2] 
+   h)      Obtain the relation between atomic radius ‘r’ and unit cell edge ‘a’ for BCC. [3] 
+   i)       Classify the defects in solids.        [2] 
+   j)       Write note on grain boundaries.       [3] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  Derive the condition for maxima and minima of interference when a beam of light 
+incident obliquely on a thin transparent parallel film. 
+b) A parallel beam of light 5890
+o
+A  sticks a film of oil (μ = 1.46) floating on water                  
+(μ= 1.33), when viewed at an angle 30 0 from the normal, eight dark bands are seen. 
+Find the thickness of the film.       [7+3] 
+OR 
+3.a) Define diffraction grating and discuss the Fraunhofer diffraction at N-slits. 
+b) A parallel beam of light is allowed to incident normally on a plane grating having             
+4250 lines/cm and second order is observed at 30 0. Find the wavelength of the incident 
+light.           [7+3] 
+ 
+4.a) Define double refraction and discuss how polarized light is obtained with Nicol prism. 
+   b) State and explain the Mauls’s law.       [7+3] 
+  
+ R16 
+JNTUH Used papers 2023
+
+OR 
+5.a)  Describe the working of semiconductor laser. 
+   b) Write the characteristics of laser light.      [7+3] 
+ 
+6.a)  Define acceptance angle of an optical fiber and derive expression for it. 
+b)  Discuss the advantages of optical fibers as a vehicle of communication over the 
+conventional medium.          [7+3] 
+OR 
+7.a) Explain the different sources of attenuation in optical fibers and how these can be 
+measured. 
+   b) Write a note on sensor applications of optical fibers.     [6+4] 
+ 
+8.a) Calculate the atomic packing fraction for SC and FCC. 
+   b)  Define Miller indices and mention its features.     [6+4] 
+OR 
+9.a) Deduce an expression for inter planar spacing of crystal planes. 
+   b)  Calculate the atomic packing fraction for diamond.     [5+5] 
+  
+10.a) Explain the Laue method for X-ray diffraction. 
+     b)  Write note on Edge and screw dislocation.      [5+5] 
+OR 
+11.a) Define and explain in detail Schottky and Frenkel defects.  
+     b)  Mention the advantages and disadvantages of defects in solids.    [6+4] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

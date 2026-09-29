@@ -1,0 +1,64 @@
+Code No: 117DX      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2023 
+INFORMATION RETRIEVAL SYSTEMS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                            Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is a Language Model?        [2]  
+   b)      Write a brief note on Retrieval Strategies.      [3] 
+   c)      What are Retrieval Utilities?         [2] 
+   d)      What is the use of Relevance Feedback?      [3] 
+   e)      What is R-Distance?         [2]  
+   f)       Define CLIR.          [3]  
+   g)      What are Shingles?           [2]  
+   h)      Write a brief note on Vector Space Simplifications in Query Processing.  [3]  
+   i)       List the CURD operations of RDBMS.      [2] 
+   j)       What is the need of portability of DBMS?      [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. How to measure similarity between query and document in Vector Space Model? Explain 
+with example.          [10] 
+OR 
+3. Describe how the individual term estimates can be combined into a total estimate of 
+relevance for the document.        [10] 
+   
+4. Why relevance feedback has become popular information retrieval utility? Explain its 
+process in detail.         [10] 
+OR 
+5.a)  Explain Regression Analysis. 
+   b)  How to use thesaurus to expand a query?      [5+5] 
+ 
+6.a) Describe parts-of-speech tagging and word sense tagging for identifying phrases. 
+   b) Contrast information retrieval with information extraction.    [5+5] 
+OR 
+7.a) Explain Resources in Cross-Language Retrieval Systems. 
+   b)  Compare structured queries and balanced queries.     [5+5] 
+R13 
+used paper July/Aug-2023
+
+ 
+8. Explain building an Inverted Index and compressing an inverted index.  [10] 
+OR 
+9.  Demonstrate construction of a signature to a document and finding false positives.[10] 
+ 
+10. Explain Information Retrieval as an application of RDBMS.   [10] 
+OR 
+11.a) How to compute relevance using unchanged SQL? 
+     b) Describe Page Rank algorithm for improving Web search.    [5+5]      
+  
+ 
+ 
+---ooOoo--- 
+used paper July/Aug-2023
+

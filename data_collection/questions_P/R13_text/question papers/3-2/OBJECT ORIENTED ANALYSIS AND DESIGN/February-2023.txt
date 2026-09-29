@@ -1,0 +1,73 @@
+Code No: 126EQ  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+OBJECT ORIENTED ANALYSIS AND DESIGN 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Why do we use a Model?        [2] 
+   b)      What are the characteristics of UML?      [3] 
+   c)      Write about association and realization relationship in UML.   [2] 
+   d)      Illustrate an interface with example in UML.      [3] 
+   e)      What is semantic equivalence?       [2] 
+   f)      What is a Message and how it is depicted in UML.     [3] 
+   g)      Define a Process and its representation in UML.     [2] 
+   h)      Illustrate the distributed system representation in UML.    [3] 
+   i)       What is an Artifact?         [2] 
+   j)       List the usecases in Library System       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Discuss the principles of modeling. 
+   b)  Briefly describe various diagrams used in UML.     [5+5] 
+OR 
+3.a)  Explain about relationships in UML. 
+   b)  Explain about Software Development Life Cycle in detail.    [5+5] 
+  
+4.a)  Explain about Association relationship along with various annotations of it in detail. 
+   b) List and define various behavioral diagrams in UML.    [5+5] 
+OR 
+5.a)  Elaborate the generalization relation among packages. 
+   b)  Explain object diagram with an example.      [5+5] 
+ 
+6.a)  Elaborate the sequence diagram with an example. 
+   b)  Discuss about branching, forking and joining in detail.    [5+5] 
+OR 
+7.a)  Explain modeling flows of control by organization. 
+   b)  Explain the use-case diagram with an example.     [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ R13 
+JNTUH Used papers 2023
+
+ 
+8.a)  Discuss about Events and Signals in detail. 
+   b)  Discuss about Communication in detail.      [5+5] 
+OR 
+9.a)  Explain about Deployment diagram with an example. 
+   b)  Discuss about Embedded System representations in UML in detail.   [5+5] 
+ 
+10.a)  Explain how a design pattern is modeled. 
+     b)  Determine the features of Library System application.    [5+5] 
+OR 
+11.a)  Discuss about Frameworks in OOAD. 
+     b)  Discuss the various Classes used in the Library System.    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

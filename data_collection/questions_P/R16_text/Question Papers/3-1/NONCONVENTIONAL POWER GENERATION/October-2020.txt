@@ -1,0 +1,41 @@
+Code No: 135CU  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, October - 2020 
+NON-CONVENTIONAL POWER GENERATION 
+(Common to CE, ME, ECE, CSE, MCT) 
+Time: 2 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+    
+1.a)  Explain the working of concentrated collector with the help of  a neat sketch. 
+   b)   How solar radiation effect on tilted surface.      [7+8] 
+ 
+2.a)  Briefly explain the need for solar energy collection. Differentiate between flat plate 
+collectors and concentrating collectors. 
+   b)  Explain any one solar radiation measuring instrument with a neat sketch.  [7+8] 
+  
+3.a)  Explain the method of solar thermal energy storage using sensible heat. 
+   b)  Explain solar photovoltaic energy conversion with graph.    [7+8] 
+ 
+4.a)  What is MPPT? Describe the construction and working of MPPT system. 
+   b)  Draw the I-V characteristics of PV cell.       [7+8] 
+ 
+5.a)  Briefly explain the Indian wind energy potential. 
+   b)  Explain the working of horizontal axis wind mill with a neat sketch.  [7+8] 
+ 
+6.a)  Discuss about the classification and applications of wind energy conversion systems. 
+   b)   Discuss the factors influencing wind shear and turbulence.    [7+8] 
+ 
+7.a) Enumerate the prime movers used in geothermal power stations. 
+   b)  Explain about the storage and handling of biomass.     [7+8] 
+ 
+8.a)  Define fuel cell. Explain in detail about the working of fuel cell. 
+   b)  List out the limitations of storage batteries.      [7+8] 
+  
+ 
+ 
+---ooOoo--- 
+ R16 
+JNTUH Used Paper BTECH-28-10-2020PM
+

@@ -1,0 +1,96 @@
+Code No: 134BD 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, April/May - 2023 
+FORMAL LANGUAGES AND AUTOMATA THEORY  
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks                
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define Kleene Closure and Positive Closure.                                   [2] 
+   b)     Write about the applications of Finite Automata.                              [3] 
+   c)      Find the simplified regular expression for the following regular expression 
+ r (r*r + r*) + r*.                  [2] 
+   d)      Construct a regular grammar for L= {0n1n1/n>=1}.             [3] 
+   e)      For the Grammar {S AS/a, A SbA/SS/ba} construct Left most  derivation for the  
+string aabbaaa?          [2] 
+   f)      Define ambiguity in CFG with an example.        [3] 
+   g)      What is the purpose of studying Turing Machine?         [2] 
+   h)      Write about the programming techniques for Turing Machines.   [3] 
+   i)      Define undecidability. Give an example of an undecidable problems.    [2] 
+   j)      Compare recursive and recursive enumerable languages.        [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.  Construct NFA with ε which accepts a language consisting the strings of any number of 
+0’s followed by any number of 1’s followed by any number of 2’s and also convert into 
+NFA without ε transitions.           [10] 
+OR 
+3.a)  Design DFA for the following over {a,b}.            
+i) All strings containing not more than three a’s.   
+  ii) All strings that has at least two occurrences of b between any two occurrences of a. 
+   b)  Construct a DFA accepting the set of all strings ending with 00.   [6+4] 
+  
+4.  Design a FA for the following languages:          
+   a) (0*1*)* 
+   b) (0+1)* 111*  
+   c)  (0* 11* + 101).               [3+3+4] 
+OR 
+5.a)  Construct a DFA for the Regular Language consisting of any number of a’s and b’s.  
+b)  Apply pumping lemma for the language L={a n/n is  prime} and  prove that it is not 
+regular.                     [5+5]
+           
+           
+       
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+6.a)  Define Ambiguous Grammar. Check whether the grammar.                  
+       SaAB, AbC/cd, Ccd, Bc/d is ambiguous or not? 
+   b)  Show that for every PDA there exists a CFG such that L(G) = N(P).  [5+5] 
+OR 
+7. Construct the CFG for the PDA  M = ({q0,q1}, {0,1}, {R,Z0}, δ, q0, Z0, Φ ) and δ is 
+given by           
+δ(q0,1,Z0)=(q0,RZ0) 
+δ(q0,1,R)=(q0,RR) 
+δ(q0,0,R)=(q1,R) 
+δ(q1,0, Z0)=(q0, Z0) 
+δ(q0,ε, Z0)=(q0,ε) 
+δ(q1,1,R)=(q1,ε).         [10] 
+    
+8.a)  Design a Turing Machine for L={0n1m0n1m/m,n>=1}.     
+b)  Define Chomsky Norma l Form (CNF). Convert the following grammar to CNF  
+S0S0|1S1| ε.          [5+5] 
+OR 
+9.a) Explain following:         
+i) Closure properties of Context Free Languages. 
+ii) Decision properties of Context Free Languages. 
+b)      Design a Turing machine to recognize all strings consisting of odd numbers of 1’s.  
+[5+5] 
+ 
+10.a)  Discuss in brief about NP Hard problems.       
+     b)  Give the correspondence between P, NP and NP-complete problems.  [5+5]
+       OR 
+11.a)  Give an overview of recursively enumerable language.     
+     b)  Explain about the Decidability Problems.      [6+4]
+     
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

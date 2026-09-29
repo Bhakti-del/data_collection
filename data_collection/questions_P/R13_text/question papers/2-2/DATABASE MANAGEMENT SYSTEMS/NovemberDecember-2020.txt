@@ -1,0 +1,43 @@
+Code No: 114CQ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, November/December - 2020 
+DATABASE MANAGEMENT SYSTEMS 
+(Common to CSE, IT) 
+Time: 2 hours                                           Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1. Describe the overall system structure of DBMS.     [15] 
+ 
+2. Construct an ER diagram for University admission system. Incorporate all the features in 
+your diagram (basic and extended).       [15] 
+ 
+3.a) Compare and contrast tuple relational calculus with domain relational calculus. 
+   b) Discuss the expressive power of relational algebra.     [8+7] 
+ 
+4. Consider the following database schema to write queries in SQL. 
+ EMP (eno, ename, ecity) 
+ COMPANY (cid, cname, ccity) 
+ WORKS-FOR (eno, cid, salary) 
+ MANAGES (eno, mno) {Manager is also an employee} 
+ a) Find the names of employees working for virtusa. 
+ b) Find the company names situated in Hyderabad 
+ c) List the employees working/reporting to “Mohan”.            [5+5+5] 
+ 
+5. What is the need of schema refinement? Briefly explain the process.  [15] 
+ 
+6.a) Compare 3NF with BCNF. 
+   b) How to compute closure of F the set of functional dependency?   [7+8] 
+ 
+7.a) What is a transaction? Discuss state transition diagram of it. 
+   b) Explain rigorous 2PL protocol.       [8+7] 
+ 
+8.a) How variable length attributes are handled in a record? 
+   b) Compare sorted file organization with hash file organization.   [7+8] 
+ 
+ 
+---ooOoo--- 
+R13 
+JNTUH USED 03-12-2020AM
+

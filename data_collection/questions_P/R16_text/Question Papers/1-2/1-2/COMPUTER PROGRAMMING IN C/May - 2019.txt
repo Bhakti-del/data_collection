@@ -1,0 +1,79 @@
+ 
+ 
+Code No: 132AD    
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, May - 2019 
+COMPUTER PROGRAMMING IN C 
+(Common to EEE, ECE, CSE, EIE, IT, ETM) 
+Time: 3 hours                                      Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.                
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+ 
+1.a) Explain the conversion of Decimal number to Hexadecimal number with an example. [2] 
+   b) Differentiate between declaration and definition of a variable.              [3] 
+   c) What is a user defined function?               [2] 
+   d) What is the use of type qualifier?               [3] 
+   e) Differentiate between *p++ and p++.               [2]  
+   f) What is a pointer? Explain how the pointer variable declared and initialized.       [3]  
+   g) Explain about the structures containing pointers with an example.               [2]  
+   h) Explain about self-referential structures.            [3]  
+   i) What is the usage of fget( ) and fput(  ) functions.           [2] 
+   j) List the positioning functions in files.            [3] 
+ 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) Describe different Computing Environments. 
+   b) Explain about type conversion mechanism available in C language.   [5+5] 
+OR 
+3.a) Write an algorithm to find the factorial of a given number. 
+   b) Differentiate between While and Do While with an example.   [5+5]  
+ 
+4.a) Explain the different types of storage classes with an example. 
+   b) Write a program to search the element in the given list by using the binary search. [5+5] 
+OR 
+5.a) Write a program to sort the elements by using bubble sort. 
+   b) What is recursion? Explain the limitations of recursion.    [5+5] 
+  
+6.a) Write a program to find the length of the given string. 
+   b) Explain the memory allocation functions with an example.    [5+5] 
+OR 
+7.a) Explain the concept of pointers to pointers with an example. 
+   b) Write a ‘C’ program to append a string to the end of other string by using string 
+ manipulation function.        [5+5] 
+ 
+ 
+ 
+ 
+ 
+R16 
+JNTUH USED 21-05-2019AMJNTUH USED 21-05-2019AM
+
+ 
+ 
+8.a) Explain about the enumerated data types with an example. 
+   b) Explain about bit fields with an example.      [5+5] 
+OR 
+9.a) Explain how the structure variable passed as a parameter to a function with example. 
+   b) Explain the Command line arguments with an example.    [5+5]  
+ 
+10.a) Differentiate between text and binary files with an example. 
+     b) Write a ‘C’ program to append the contents of one file to another.   [5+5] 
+OR 
+11.a) Write a ‘C’ program to count number of words and lines in the given text file. 
+     b) Explain about file i/o operations in ‘C’.      [5+5] 
+ 
+ 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH USED 21-05-2019AMJNTUH USED 21-05-2019AM
+

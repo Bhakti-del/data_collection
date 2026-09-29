@@ -1,0 +1,73 @@
+Code No: 136FD  
+ JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, July - 2023 
+GEOINFORMATICS 
+(Computer Science and Engineering) 
+Time: 3 Hours                      Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A 
+(25 Marks) 
+ 
+1.a)  What lens is best for aerial photography and why?      [2] 
+b)  How many minimum numbers of photographs are required for Stereo Photogrammetry  
+and why?           [3]  
+   c)  What remote sensing does?         [2] 
+   d)  Write the special needs of sensors for geological studies.     [3]  
+   e)  What are the features of image histogram?       [2] 
+   f)  Distinguish between supervised and unsupervised classification.    [3]  
+   g)  How GIS works in urban planning?        [2] 
+   h)  List kind of errors that can occur in GIS.       [3]  
+   i)  What are GNSS devices?         [2] 
+   j)  What do you understand by GALILEO?       [3]  
+ 
+PART - B  
+(50 Marks) 
+ 
+2. What is aerial photogrammetry? Discuss the various types of aerial photographs based 
+on (a) camera axis, (b) the scale of the image and (c) the type of film used.    [10] 
+OR 
+3.a)  Explain briefly about digital photogrammetry.  
+   b)  Write a short note on Relief Displacement.       [5+5]  
+ 
+4. What is the principle and process of remote sensing? Discuss what type of sensors are 
+used in satellites?            [10] 
+OR 
+5.a)  Explain about physics of Remote Sensing.  
+   b)  Discuss about Remote Sensing satellites and their products.    [5+5]  
+ 
+6.a)  Explain crop inventory using remote sensing.  
+   b)  Explain the remote sensing application in land use and land cover studies.   [5+5]  
+OR 
+7. What are the different methods of LULC classification systems? Discuss their 
+importance with suitable examples.          [10] 
+ 
+ 
+ 
+ R16 
+used paper July/Aug-2023
+
+ 
+8.a)  Classify data in GIS context and explain spatial data editing.  
+b)  Describe the theoretical frame work and operations involved in Geographic Information 
+System.           [5+5]  
+OR 
+9.a) Discuss the advantages and disadvantages of raster data model  when compared with 
+vector data.  
+   b) What are the steps involved in GIS process? Explain types of Spatial Analysis.  [5+5] 
+ 
+10. How the Global Positioning System works? Explain the Space and Control segments in 
+GPS.              [10] 
+OR 
+11.a)    Give the details of the important map projections applicable to Indian regions.  
+     b)  Explain in detail the applications of GPS.       [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+used paper July/Aug-2023
+

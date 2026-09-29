@@ -1,0 +1,73 @@
+Code No: 183BU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, February - 2024 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+         (Artificial Intelligence and Data Science)  
+Time: 3 Hours                         Max. Marks: 60 
+ 
+Note: This question paper contains two parts A and B. 
+i) Part- A for 10 marks, ii) Part - B for 50 marks. 
+ Part-A is a compulsory question which consists of ten sub -questions from all 
+units carrying equal marks. 
+ Part-B consists of ten questions (numbered from 2 to 11) carrying 10 ma rks 
+each. From each unit, there are two questions and the student should answer one 
+of them. Hence, the student should answer five questions from Part-B. 
+ 
+PART- A 
+(10 Marks) 
+ 
+1.a)  What is type conversion?        [1] 
+   b)   List the various operators in Java.       [1] 
+   c)  What is an abstract class?        [1] 
+   d)  Can a class extend multiple interfaces?      [1] 
+   e)  What are annotations in Java?        [1] 
+   f)  How can you create your own exception subclass?     [1] 
+   g)  What is the purpose of a ScrollPane in Java GUI?     [1] 
+   h)  Name any two user interface components in Java.     [1] 
+   i)  Which Swing class is used for creating buttons?     [1] 
+   j)  Name any two limitations of AWT.       [1] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a)  Discuss the various data types available in Java, with examples.    
+   b)  Describe the key features of classes and objects in Java.    [5+5] 
+OR 
+3.a)  Write the summary of OOP concepts.        
+   b)  Explain the control statements in Java.      [5+5] 
+  
+4.a)  Explain the purpose of the CLASSPATH and how it is used in Java.     
+   b) Illustrate the use of the super keyword in a Java program.    [5+5] 
+OR 
+5.a)  Explain the process of defining, creating, and accessing a package in Java.    
+   b)  Write a Java program that uses the final keyword in the context of inheritance. [5+5] 
+ 
+6. Explain the usage of try, catch, throw, throws, and finally in Java exception handling 
+with code examples.         [10] 
+OR 
+7.a)  Differentiate between regular threads and daemon threads in Java.     
+   b)  Describe the life cycle of a thread in Java.      [5+5] 
+ R22 
+
+ 
+8.  Explain the role of Graphics in drawing and rendering in Java.  Write a Java program 
+that demonstrates the use of the Graphics class.     [10]  
+OR 
+9.a)  Implement a Java program that utilizes the AWT class hierarchy to create a simple user 
+ interface.            
+   b)  Discuss the handling of mouse events in Java.      [5+5] 
+ 
+10.a)  Describe the Model-View-Controller architecture.       
+     b)  Compare the features of JApplet and JFrame in Java Swing.   [5+5] 
+OR 
+11.a)  Explain how to pass parameters to applets.         
+     b)  Discuss how Combo boxes contribute to a more user-friendly interface in Java Swing.   
+             [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+

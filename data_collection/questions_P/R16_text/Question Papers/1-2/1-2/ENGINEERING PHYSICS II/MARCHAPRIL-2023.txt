@@ -1,0 +1,82 @@
+ 
+ 
+ 
+Code No: 132AA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, March/April - 2023 
+ENGINEERING PHYSICS – II 
+(Common to EEE, ECE, CSE, IT) 
+Time: 3 Hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART- A 
+ (25 Marks) 
+ 
+1.a) State and explain Heisenberg uncertainty principle.            [2] 
+   b) What is the importance of Davisson and Germer experiment?   [3] 
+   c) What is the Fermi level?          [2] 
+   d) Explain the working principle of a Solar cell.     [3] 
+   e) Define electric dipole, polarizability.       [2] 
+   f) Define piezoelectricity and pyroelectricity.       [3] 
+   g) Explain the Permeability in magnetism.        [2] 
+   h) Mention three applications of superconductivity.     [3] 
+   i) Mention two biomedical application of nanotechnology.    [2] 
+   j) Explain quantum confinement phenomenon?      [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a) What are the matter waves? Derive an expression for the de -Broglie wavelength of an 
+electron. 
+   b) Explain energy band formation in solids.      [5+5] 
+OR 
+3.a) Explain the behavior of an electron moving in a field of periodic potential using kronig 
+and Penny model. 
+   b) Explain in detail E-K curve.        [5+5] 
+ 
+ 4.a) Calculate the carrier concentration in P-type semiconductor. 
+    b) Explain direct and indirect band gap semiconductors.    [5+5] 
+OR 
+5.a) Explain the formation of PN junction diode and V-I characteristics of the same. 
+   b) Derive an expression for density of electrons in intrinsic semiconductors.  [5+5] 
+ 
+6.a) Derive an expression for ionic polarizability. 
+   b) Derive Clausius - Mossotti relation.       [5+5] 
+OR 
+7.a) What is meant by local field in dielectrics and how it is calculated for cubic structure? 
+   b) What is meant by Ferro electricity? List out the applications of ferro-electrics. [5+5] 
+ 
+ 
+ 
+ 
+R16 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+8.a) Explain in detail ‘Meissner effect’ and magnetic levitation. 
+   b) Write notes on Type-I, and Type-II super conductors.    [5+5] 
+OR 
+9.a) Discuss th e properties and effect of  external field on the para and ferro magnetic 
+materials. 
+b) What is meant by Hysteresis loss? Describe the formation of hysteresis loop using 
+domain wall movement.        [5+5] 
+ 
+10.a) Explain in detail Sol–gel preparation method . Discuss the  applications of 
+Nanotechnology. 
+b) How do you determine the size of the particle using XRD characterization technique? 
+           [5+5] 
+OR 
+11.a) How do you synthesize the nonmaterial using Chemical Vapor Deposition (CVD) 
+method? 
+     b) Write short note on Ball milling method.      [5+5] 
+ 
+ 
+--ooOoo-- 
+JNTUH Used papers 2023
+

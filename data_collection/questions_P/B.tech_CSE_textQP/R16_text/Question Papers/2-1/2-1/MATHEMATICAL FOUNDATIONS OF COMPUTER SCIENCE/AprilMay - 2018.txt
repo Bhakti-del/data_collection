@@ -1,0 +1,156 @@
+Code No: 133BC  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, April/May - 2018 
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                      
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Construct the truth table for the following formula: 
+))()(())(( RPQPRQP 
+      [2] 
+   b) Explain duality law.         [3] 
+   c) Give the formal definition for the composition of binary relations.   [2] 
+   d) What are the properties of a group?       [3] 
+   e) State addition principle and give an example of a problem solved by addition principle. 
+            [2] 
+   f) State pigeon-hole principle.        [3] 
+   g) What is the general form of a first-order recurrence relation?   [2] 
+   h) What is the generating function of 
+,...1,1,1,1       [3] 
+   i) If a simple graph G contains n vertices and m edges, how many number of edges are 
+present in Graph G' (complement of G).      [2] 
+   j) How many edges are present in a complete graph with n vertices? Explain.  [3] 
+ 
+PART- B  
+(50 Marks) 
+2.a) Show the following equivalence without constructing the truth table. 
+CQPACQPACAQP  ))(())(())((
+ 
+   b) Without constructing a truth table, show that
+  EA is not a valid consequence of  
+EAEACDCBBA  )()(
+     [5+5] 
+OR 
+3.a) Obtain the principal disjunctive and conjunctive normal form of the following formula. 
+))(())(( RQPRQP 
+ 
+b) For the following formulas, let the universe be ℝ. Translate each of the following 
+sentences into a formula (using quantifiers): 
+i) There is a smallest number. 
+ii) Every positive number has a square root. (Do not use the square root symbol; use only 
+multiplication.)         [5+5] 
+   
+R16 
+JNTUH USED 15-05-2018PM
+
+4.a) Consider the following Hasse diagram of  a partially ordered set
+RP, , where  
+},,,,{ 54321 xxxxxP
+. Find the least and greatest members in 
+  P if they exist. Also find 
+the maximal and minimal elements of
+  P . Find the upper and lower boun ds of  
+2 3 4{ , , }x x x
+, 
+},,{ 542 xxx and 
+},,{ 321 xxx . Also indicate the LUB and GLB of these sub sets 
+if they exist.  
+   b) Let
+ Nn  and
+  nGGG ,...,, 21 be groups, and consider 
+
+
+
+n
+i
+iinni niGaaaaGGGG
+1
+2121 },...,2,1:),...,,{(...:
+ with the operation † 
+where if 
+12( , ,..., ) nx a a a and
+12( , ,..., ) ny b b b , then 
+),,...,,(y† 2211 nnbababax  where 
+each product
+  iiba is performed according to the operation of the group
+iG . Show 
+that
+  
+
+n
+i
+iG
+1 is a group.         [5+5] 
+OR 
+5.a) Find the transitive closure of the relation
+)}1,4(),4,3(),3,2(),2,1{(R . Show
+  iR for all 
+values of
+  i that give new elements of the transitive closure.  
+   b) Find all the subgroups of (i) 
+),( 1212 Z ; and (ii) 
+),( 7
+*
+7 Z .    [5+5] 
+    
+6. In the United States and Canada, a telephone number is a 10 -digit number of the 
+form
+XXXXNXXNXX  
+ where
+  }9,..,3,2{N and 
+}9,...,2,1,0{X . How many 
+telephone numbers are possible? The first three digits of a telephone number are called an 
+area code. How many different area codes must a city with 23,000,000 phones have? A 
+previous scheme for forming a telephone numbers required a format o f 
+NYX NXX XXXX
+where N and X are defined as above and Y is either a 0 or a 1. How 
+many more phone numbers are possible under the new format than under the old format?  
+            [10] 
+OR 
+7.a) How many four letter words can be formed using the letters
+ddccccbbaaa ,,,,,,,,,, ? 
+   b)  Expand 
+7)2( yx using the Binomial Theorem.     [5+5] 
+    
+8.a) Solve the recurrence relation
+  21 32   nnn aaa for 
+ 2n where
+  20 a and
+21 a . 
+b) Using generating function find
+  na in terms of n if
+ 2   10 ,1 aa and 
+  nnn aaa 45 12  
+for
+0n .        [5+5] 
+OR 
+9.a) Solve the recurrence relation
+nnTnT 2)1(4)(  , with
+6)0( T .  
+   b) Find the coefficient of
+  2005x in the generating function
+2)51(
+1
+x
+ .   [5+5] 
+    
+JNTUH USED 15-05-2018PM
+
+10.a) Determine whether the given pair of graphs is isomorphic? 
+  
+     b) Determine whether the following graph has an Euler circuit or path.  [5+5] 
+ 
+OR 
+11.a) How do you test the planarity of a graph? Explain.  
+     b) What are the chromatic numbers of the graph G and H?    [5+5] 
+ 
+---oo0oo--- 
+JNTUH USED 15-05-2018PM
+

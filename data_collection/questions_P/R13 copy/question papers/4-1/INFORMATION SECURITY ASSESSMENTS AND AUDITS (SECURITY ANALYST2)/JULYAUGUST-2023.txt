@@ -1,0 +1,58 @@
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2023 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                   Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+1.a) Define information security.        [2] 
+   b) Explain the ethics of an information security auditor.      [3] 
+   c) What is mean by Pre-Audit checklist?      [2] 
+   d) Explain the web application security auditing.      [3] 
+   e) What is the role of vulnerability management?     [2] 
+   f) What is the purpose of countermeasures? Explain.      [3] 
+   g) What is meant by residual risk?       [2] 
+   h) Explain the risk acceptance.         [3] 
+   i) What is an example of configuration management?     [2] 
+   j) What is the main objective of configuration management in testing?  [3] 
+ 
+PART - B 
+(50 Marks)   
+     
+2.a) Write the importance of Information Security performance metrics. 
+   b) Discuss the various functions of infrastructure and network.    [5+5] 
+OR 
+3.a) Discuss the legal, ethical and professional issues related to  Information Security. 
+   b) Illustrate security server and storage devices in detail.    [5+5] 
+ 
+4. Discuss the social engineering security auditing.      [10] 
+OR 
+5.a) Explain about the IDS security auditing.   
+   b) Describe the firewall security audit.        [5+5] 
+ 
+6. Explain the human based social engineering.      [10] 
+OR 
+7.a) Discuss the threat management.    
+   b) Elaborate the computer based social engineering.     [5+5] 
+ 
+8. List and explain the types of the vulnerability assessment.    [10] 
+OR 
+9. Explain the information security risk assessment.        [10] 
+ 
+10.a) How do you perform configuration testing? Explain. 
+     b) Explain the functions of software configuration management.    [5+5] 
+OR 
+11. Describe the development of configuration control policies.     [10] 
+ 
+R13 
+used paper July/Aug-2023
+
+---oo0oo--- 
+used paper July/Aug-2023
+
