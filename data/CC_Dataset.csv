@@ -1,0 +1,11 @@
+subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years
+Computational Complexity,Explain Polynomial time and its justification. b) What is the P versus NP problem and why it’s hard?,CLASS_NP,Remember,15,[],[2022]
+Computational Complexity,Illustrate Matrix Chain Multiplication with an example. b) Explain how knapsack problem is solved using Dynamic Programming.,MATRIX_CHAIN_MULTIPLICATION,Apply,15,[],[2022]
+Computational Complexity,Illustrate the implementation of Quick Sort. b) Explain how travelling sales person problem is solved using Branch -and-bound technique.,QUICKSORT_AND_COMPLEXITY_ANALYSIS,Apply,15,[],[2022]
+Computational Complexity,Differentiate between Class P and Class NP. b) What do you mean by polynomial run time algorithm? Explain.,CLASS_P,Analyze,15,[],[2022]
+Computational Complexity,Explain the Reducibility with example. b) How do you calculate computational complexity? Discuss.,NP_COMPLETENESS,Apply,15,[],[2022]
+Computational Complexity,Write the Quick sort algorithm? Analyze the time complexity in worst case. b) Explain about travelling sales person problem. Explain how it can be solved using Branch and Bound method. Show the steps and solution by taking any one example containing at least 5 cities and 10 ways to travel between them.,QUICKSORT_AND_COMPLEXITY_ANALYSIS,Analyze,15,[],[2022]
+Computational Complexity,Explain matrix chain multiplication using an example. b) Explain Huffman coding with an example.,MATRIX_CHAIN_MULTIPLICATION,Understand,15,[],[2022]
+Computational Complexity,How does digital fingerprinting algorithm work? Explain. b) List and explain the randomized algorithms with example.,RANDOMIZED_ALGORITHMS_OVERVIEW,Remember,15,[],[2022]
+Computational Complexity,Discuss the advantages of randomized algorithm. b) Elaborate on De-Randomization Advanced Algorithms.,RANDOMIZED_ALGORITHMS_OVERVIEW,Evaluate,15,[],[2022]
+Computational Complexity,Write a brief note on approximation algorithm. b) What is a Spanning tree? What are its applications? Explain.,APPROXIMATION_ALGORITHMS,Apply,15,[],[2022]
