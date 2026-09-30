@@ -1,0 +1,91 @@
+  
+Code No: 124AG 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, May - 2019 
+FORMAL LANGUAGES AND AUTOMATA THEORY 
+(Computer Science and Engineering) 
+Time: 3 Hours                      Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.               
+ Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+           PART – A                 
+(25 Marks) 
+1.a) Define DFA and NFA.              [2] 
+b) Design NFA to accept set of all strings over {0,1} does not contain 3 consecutive 
+zeros.                 [3] 
+   c) Define Left Linear Grammar.                 [2] 
+   d) Define Pumping Lemma for Regular sets.            [3] 
+   e) Define UNIT Production.              [2]  
+   f) What is reachable variable? Give an example.           [3]  
+   g) Give instantaneous description ID of Turing Machine.            [2]  
+   h) What is a Turing Machine?              [3]  
+   i) Give any two examples of Decidable Problems.           [2] 
+   j) Define NP hard problems.              [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a) Minimizing the following DFA as shown in figure 1. 
+           
+  
+Figure: 1 
+   b)  Define Mealy and Moore Machines.                    [6+4] 
+OR 
+3.a) Convert the following NFA with € - moves to DFA as shown in Figure 2. 
+   
+  
+Figure: 2 
+   b) Design DFA for the language all strings over {0,1} which are ending with 00.  [5+5] 
+  
+R15 
+JNTUH USED 17-05-2019AM
+
+ 
+4.a) Show that the language L={ an bn / n≥1 }   is not a Regular language. 
+b) Find the Regular Grammar equivalent t o the following Finite Automata shown in  
+figure 3.                [5+5] 
+   
+Figure 3 
+OR 
+5.a) Construct Right Linear Grammar and Left Linear Grammar for the Regular Expression 
+ 0*(11)*+1001*     
+   b) Give the RE for  
+ (i) All strings over {a,b} which contains even number of a's   
+ (ii) All strings over {a,b} which contains at least two a's 
+ (iii) All strings over {a,b} which contains at most two a's 
+ (iv) All strings over {a,b} which contains exactly two a's.          [6+4] 
+  
+6.a) Minimize the following Context Free Grammar G=({S,A,B,C}, {a,b,c,d},P,S), where  
+ P is given as follows 
+ S→AC  | SB 
+ A→ bASC | a 
+ B→ aSB | bbB 
+ C→ Bc | ad  
+  b) Design PDA for the language L={a2nbnc4/n≥1}.            [5+5] 
+OR 
+7.a) Convert the following Context Free Grammar (CFG) to Chomskey Normal Form 
+ (CNF) 
+ S→AaB | aaB 
+            A→€ 
+            B→bbA | €    
+  b) Design PDA for the language L={an bn+m cm | n,m≥1}.          [5+5] 
+ 
+8.a) Explain different types of Turing Machine.   
+   b) Design TM for performing proper subtraction of two numbers.         [5+5] 
+OR 
+9. Write about:  
+ a) Church’s hypothesis.    
+ b) Counter machine.               [5+5] 
+ 
+10.a) Discuss about turing reducibility.                                                               
+     b) What is post correspondence problem? Verify whether the following PCP has solution 
+ or not?  A={ba,ab,a,baa,b}, B={bab,baa,ba,a,aba}                     [5+5] 
+OR 
+11. Define the NP-complete problems and give examples.           [10] 
+ 
+--ooOoo-- 
+JNTUH USED 17-05-2019AM
+

@@ -1,0 +1,46 @@
+Code No: 156AM 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February/March – 2022 
+CONCURRENT PROGRAMMING 
+(Computer Science and Engineering) 
+Time: 3 hours                                                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Describe the properties of program correctness.  
+   b)  Illustrate the concept of shared objects and synchronization between concurrent threads  
+          for prime number generation modules.                           [5+10] 
+ 
+2.a)   What is parallelism? State the need for parallelism.  
+   b)  Explain the Filter-Lock algorithm for implementing mutual exclusion among n-threads.  
+                     [5+10] 
+ 
+3.a)  Recall a simple lock-based concurrent FIFO queue. Write enq() and deq() methods and  
+         examine how these methods results in correctness property with a brief illustrations.  
+   b)  What are sequential objects? Discuss briefly.               [10+5] 
+ 
+4.a)  Explain how sequential consistency is non-blocking with relevant example.  
+   b)  Give a detail note on a dependent non-blocking progress condition.   [8+7] 
+ 
+5.a)  “Any nontrivial RMW register has consensus number at least 2”. Prove the theorem.  
+   b) Explain the following operations with brief illustrations:     [7+8] 
+ i) compareAndSet()  ii) getAndSet() 
+ 
+6.  Write down the lock-free universal algorithm and explain the execution of the lock -free 
+universal construction with a brief illustration.        [15] 
+ 
+7.a)  State the merits and demerits of hand-over-hand locking mechanism.  
+b)  How to implement Optimistic synchronization mechanism on a linked list by 
+concurrent threads? Write the complete pseudo code for add and rem ove methods of it 
+and explain.                    [5+10] 
+ 
+8.  What do you mean by lock -free stack? Explain how to implement lock -free stack 
+operations with an example program code.         [15] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ R18 used paper feb/mar-2022 jntuh
+

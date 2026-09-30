@@ -1,0 +1,1072 @@
+R16 B.TECH AUTOMOBILE ENGG. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. AUTOMOBILE ENGINEERING 
+ III YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+III YEAR I SEMESTER 
+S. No. Course 
+Code 
+Course Title L T P Credits 
+1 AM501PC Automobile Engineering 4 0 0 4 
+2 ME502PC Thermal Engineering - I 4 0 0 4 
+3 AM503PC Dynamics of Machinery 4 0 0 4 
+4 SM504MS Fundamentals of Management 3 0 0 3 
+5  Open Elective – I 3 0 0 3 
+6 ME505PC Thermal Engineering Lab 0 0 3 2 
+7 AM506PC Kinematics of Machinery & Dynamics of 
+Machinery Lab  
+0 0 3 2 
+8 AM507PC Automobile Engineering Lab  0 0 3 2 
+9 *MC500HS Professional Ethics 3 0 0 0 
+  Total Credits  21 0 9 24 
+ 
+III YEAR II SEMESTER 
+S. No. Course 
+Code Course Title L T P Credits 
+1 ME601PC Thermal Engineering - II 4 0 0 4 
+2 AM602PC Mechanics of Fluids and Hydraulics 
+Machinery 
+4 0 0 4 
+3 AM603PC Design of Machine Members - I 4 0 0 4 
+4  Open Elective-II 3 0 0 3 
+5  Professional Elective - I 3 0 0 3 
+6 AM604PC Mechanics of  Fluids and Hydraulics 
+Machinery Lab 
+0 0 3 2 
+7 AM605PC Automobile Systems Lab 0 0 3 2 
+8 EN606HS Advanced English Communication Skills 
+Lab 
+0 0 3 2 
+  Total Credits 18 0 9 24 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+Professional Elective – I 
+ 
+AM611PE 
+AM612PE 
+AM613PE 
+AM614PE 
+CAD/CAM 
+Automobile Air Conditioning 
+Automotive Chassis and Suspension 
+Vehicle Dynamics 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+AUTOMOBILE ENGINEERING 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: AM501PC                          4     0    0    4 
+ 
+UNIT - I 
+Introduction: Layout of automobile – introduction chassis and body components. Types of 
+Automobile engines.  – Power unit – Introduction to engine lubrication – engine servicing   
+Fuel System: S.I. Engine: Fuel supply systems, Mechanical and electrical fuel pump – filters 
+– carburetor – types – air filters – petrol injection. Introduction to MPFI and GDI Systems. 
+C.I. Engines : Requirements of diesel injection systems, types of injection systems, DI 
+Systems IDI systems. Fuel pump , nozzle, spray formation, injection timing, testing of fuel 
+pumps. Introduction to CRDI and TDI Systems.  
+ 
+UNIT - II 
+Cooling System : Cooling Requirements, Air Cooling, Liquid Cooling, Thermo, water and 
+Forced Circulation System – Radiators – Types – Cooling Fan - water pump, thermostat, 
+evaporative cooling – pressure sealed cooling – antifreeze solutions.  
+Ignition System:  Function of an ignition system, battery ignition system, constructional 
+features of storage, battery, auto transformer, contact breaker  points, condenser, and spark 
+plug – Magneto coil ignition system, electronic ignition system using contact breaker, 
+electronic ignition using contact triggers – spark advance and retard mechanism. 
+Electrical System: Charging circuit, generator, current – voltage regulator – starting system, 
+bendix drive mechanism solenoid switch, lighting systems, Horn, wiper, fuel gauge – oil 
+pressure gauge, engine temperature indicator etc. 
+ 
+UNIT - III 
+Transmission System: Clutches, principle, types, cone clutch, single plate clutch, multi plate 
+clutch, magnetic and centrifugal clutches, fluid fly wheel – gear boxes, types, sliding mesh, 
+constant mesh, synchro mesh gear boxes, epicyclic gear box, over drive torque converter. 
+Propeller shaft – Hotch – Kiss drive, Torque tube drive, universal joint, differential rear axles 
+– types – wheels and tyres. 
+Suspension System: Objects of suspension systems – rigid axle suspension system, torsion 
+bar, shock absorber, Independent suspension system.  
+ 
+UNIT - IV 
+Braking System: Mechanical brake system, Hydraulic brake system, Master cylinder, wheel 
+cylinder tandem master cylinder Requirement of brake fluid, Pneumatic and vacuum brakes. 
+Steering System: Steering geometry – camber, castor, king pin rake, combined angle toein, 
+center point steering. Types of steering mechanism – Ackerman steering mechanism, Davis 
+steering mechanism, steering gears – types, steering linkages. 
+ 
+ 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+UNIT - V 
+Emissions from Automobiles – Pollution standards National and international – Pollution 
+Control – Techniques – Multipoint fuel injection for SI Engines. Common rail diesel 
+injection Energy alternatives – Solar, Photo -voltaic, hydrogen, Biomass, alcohols, LPG,  
+CNG, liquid Fuels and gaseous fuels, Hydrogen as a fuel for IC Engines. - Their merits and 
+demerits. Standard Vehicle maintenance practice. 
+ 
+TEXT BOOKS: 
+1. Automobile Engineering / William H Crouse 
+2. A Text Book Automobile Engineering –Manzoor,. Nawazish Mehdi & .Yosuf Ali, 
+Frontline Publications.    
+ 
+REFERENCES: 
+1. A Text Book of Automobile Engineering by R K Rajput. Laxmi Publications. 
+2. Automotive Mechanics / Heitner 
+3. Automotive Engineering / Newton Steeds & Garrett 
+4. Automotive Engines / Srinivasan 
+5. A Text Book of Automobile Engineering By Khalil U Siddiqui New Age 
+International  
+ 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+THERMAL ENGINEERING – I 
+ 
+B.Tech. III Year I Sem.                                       L    T    P   C 
+Course Code: ME502PC                          4     0    0    4 
+ 
+Pre-requisite: Thermodynamics 
+ 
+Course Objective: To apply the laws of Thermodynamics to analyze air standard cycles and 
+to understand and evaluate the perform analysis of the major components and systems of IC 
+engines, refrigeration cycles and their applications. 
+ 
+Course Outcomes : At the end of the course, the student should be able to evaluate the 
+performance of IC engines and compressors under the given operating conditions. Apply the 
+laws of Thermodynamics to evaluate the performance of Refrigeration and air -conditioning 
+cycles. Understand the functionality of the major components of the IC Engines and effects 
+of operating conditions on their performance 
+ 
+UNIT – I 
+I.C. Engines: Classification - Working principles of Four & Two stroke engine, SI & CI 
+engines, Valve and Port Timing Diagrams, Air – Standard,   air -fuel and actual cycles - 
+Engine systems – Carburetor and Fuel Injection Systems for SI engines, Fuel injection 
+systems for CI engines, Ignition, Cooling and Lubrication system, Fuel properties and 
+Combustion Stoichiometry. 
+ 
+UNIT – II 
+Normal Combustion and abnormal combustion in SI engines – Importance of flame speed 
+and effect of engine variables – Abnormal combustion, pre -ignition and knocking in SI 
+Engines  – Fuel requirements and fuel rating, anti knock additives – combustion chamber – 
+requirements, types of SI engines. 
+Four stages of combustion in CI engines – Delay period and its importance – Effect of engine 
+variables – Diesel Knock – Need for air movement, suction, compression and combustion 
+induced turbulence in Diesel engine – open and divided combustion chambers and fuel 
+injection– Diesel fuel requirements and fuel rating 
+ 
+UNIT - III 
+Testing and Performance: Parameters of performance - measurement of cylinder pressure, 
+fuel consumption, air intake, exhaust gas composition, Brake power – Determination of 
+frictional losses and indicated power – Performance test – Heat balance sheet and chart 
+Classification of compressors – Fans, blowers and compressors – positive displacement and 
+dynamic types – reciprocating and rotary types. 
+Reciprocating Compressors:  Principle of operation, work required, Isothermal  efficiency 
+volumetric efficiency and effect of clearance volume, staged compression, under cooling, 
+saving of work, minimum work condition for staged compression 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+UNIT – IV 
+Rotary Compressor (Positive displacement type):  Roots Blower, vane sealed compressor, 
+Lysholm compressor – mechanical details and principle of working – efficiency 
+considerations. 
+Dynamic Compressors:  Centrifugal compressors: Mechanical details and principle of 
+operation – velocity and pressure variation.  Energy transfer-impeller blade shape-losses, slip 
+factor, power input factor, pressure coefficient and adiabatic coefficient – velocity diagrams – 
+power. 
+Axial Flow Compressors:  Mechanical details and principle of operation – velocity triangles 
+and e nergy transfer per stage degree of reaction, work done factor - isentropic efficiency- 
+pressure rise calculations – Polytropic efficiency. 
+ 
+UNIT – V 
+Refrigeration: Mechanical Refrigeration and types – units of refrigeration – Air 
+Refrigeration system, deta ils and principle of operation – applications of air refrigeration, 
+Vapour compression refrigeration systems – calculation of COP – effect of superheating and 
+sub cooling, desired properties of refrigerants and common refrigerants - Vapour absorption 
+system – mechanical details – working principle, Use of p-h charts for calculations 
+Air-Conditioning: Concepts of Psychrometry – Properties of moist air – Usage of 
+Psychrometric Chart – Calculation of moist air properties. 
+Types of air – conditioning systems – Requirements - schematic layout of a typical plant. 
+ 
+TEXT BOOKS: 
+1. I.C. Engines / V. Ganesan / Mc Graw Hill  
+2. Thermal Engineering / Mahesh M Rathore / Mc Graw Hill  
+ 
+REFERENCE BOOKS: 
+1. Applied Thermodynamics for Engineering Technologists / Eastop / Pearson 
+2. Fundamentals of Classical Thermodynamics / Vanwylen G.J., Sonntag R.E. / Wiley 
+Eastern 
+ 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+DYNAMICS OF MACHINERY 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: AM503PC                          4     0    0    4 
+ 
+Pre-requisite: Kinematics of Machinery  
+ 
+Course Objectives: The objective is to introduce some of the components mainly used in IC 
+Engines and make analysis of various forces involved. Subjects deals with topics like inertia 
+forces in slider crank mechanism; IC Engine components & the analysis like governors is 
+introduced. It also deals with balancing of rotating & reciprocating parts. Studies are made 
+about balancing of multi cylinder engines, Radial engines etc. study of primary & secondary 
+forces are considered while balancing. Finally they are introduced to the  topic of vibrations. 
+The study deals with linear, longitudinal, & torsional vibrations.  The idea is to introduce the 
+concept of natural frequency and the importance of resonance and critical speeds. 
+ 
+Course Outcome: the study of KOM & DOM are necessary t o have an idea while designing 
+the various machine members like shafts, bearings, gears, belts & chains and various I.C. 
+Engine Components & Machine tool parts. 
+   
+UNIT – I 
+Precession: Gyroscopes – effect of precession – motion on the stability of moving v ehicles 
+such as motorcycle – motorcar – aeroplanes and ships.  
+Static and Dynamic Force Analysis: Static   force   analysis   of   planar   mechanisms – 
+Analytical Method – Dynamic Force Analysis – D’Alembert’s principle, Dynamic Analysis 
+of 4-link mechanism, Slider Crank Mechanism. 
+ 
+UNIT – II 
+Turning Moment Diagram And Flywheels:  Engine Force Analysis – Piston Effort, Crank 
+Effort, etc., Inertia Force in Reciprocating Engine – Graphical Method - Turning moment 
+diagram –fluctuation of energy – flywheels and their design - Inertia of connecting rod - 
+inertia force in reciprocating engines – crank effort and torque diagrams.-. 
+ 
+UNIT – III 
+Friction:  pivots and collars – uniform pressure, uniform wear – friction circle and friction 
+axis: lubricated surfac es – boundary friction – film lubrication. Clutches – Types – Single 
+plate, multi-plate and cone clutches. 
+Brakes And Dynamometers:  Types of brakes: Simple block brake, band and block brake -
+internal expanding shoe brake-effect of braking of a vehicle. Dynamometers – absorption and 
+transmission types. General description and methods of operation. 
+ 
+ 
+ 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+UNIT – IV 
+Governors:  Types of governors - Watt, Porter and Proell governors.  Spring loaded 
+governors – Hartnell and Hartung with auxiliary springs.  Sensitive ness, isochronisms and 
+hunting – stability – effort and power of the governors. 
+Balancing: Balancing of rotating masses - Primary, Secondary, and higher balancing of 
+reciprocating masses.  Analytical and graphical methods.  Unbalanced forces and couples. 
+ Examination of “V” and multi cylinder in-line and radial engines for primary and secondary 
+balancing- locomotive balancing – Hammer blow – Swaying couple – variation of tractive 
+effort. 
+ 
+UNIT – V 
+Vibrations:  Free Vibration of mass attached to vertical spri ng – Transverse loads – 
+vibrations of beams with concentrated and distributed loads.  Dunkerly’s method – Raleigh’s 
+method.  Whirling of shafts – critical speed – torsional vibrations – one, two and three rotor 
+systems.   
+ 
+TEXT BOOKS: 
+1. Theory of Machines /S.S.Rattan / Mc Graw Hill. 
+2. Theory of Machines /Sadhu Singh/ Pearson 
+ 
+REFERENCE BOOKS: 
+1. Theory of Machines and Mechanisms/Joseph E. Shigley / Oxford  
+2. Theory of Machines / Rao,J.S / New Age 
+ 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+FUNDAMENTALS OF MANAGEMENT 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: SM504MS                          3     0    0    3 
+ 
+Course Objective: To understand the Management Concepts, applications of Concepts in 
+Practical aspects of business and development of Managerial Skills. 
+ 
+Course Outcome: The students understand the significance of Management in their 
+Profession. The various Management Functions like Planning, Organizing, Staffing, Leading, 
+Motivation and Control aspects are learnt in this course. The stu dents can explore the 
+Management Practices in their domain area. 
+  
+UNIT - I 
+Introduction to Management: Definition, Nature and Scope, Functions, Managerial Roles, 
+Levels of Management, Managerial Skills, Challenges of Management; Evolution of 
+Management- Classical Approach - Scientific and Administrative Management; The 
+Behavioral approach; The Quantitative approach; The Systems Approach; Contingency 
+Approach, IT Approach.  
+ 
+UNIT - II 
+Planning and Decision Making: General Framework for Planning - Planning Process, Types 
+of Plans, Management by Objectives; Development of Business Strategy. Decision making 
+and Problem Solving - Programmed and Non Programmed Decisions, Steps in Problem 
+Solving and Decision Making; Boun ded Rationality and Influences on Decision Making; 
+Group Problem Solving and Decision Making, Creativity and Innovation in Managerial 
+Work.  
+ 
+UNIT - III 
+Organization and HRM: Principles of Organization: Organizational Design & 
+Organizational Structures; De partmentalization, Delegation; Empowerment, Centralization, 
+Decentralization, Recentralization; Organizational Culture; Organizational Climate and 
+Organizational Change. 
+Human Resource Management & Business Strategy: Talent Management, Talent 
+Management Mo dels and Strategic Human Resource Planning; Recruitment and Selection; 
+Training and Development; Performance Appraisal. 
+ 
+UNIT - IV 
+Leading and Motivation: Leadership, Power and Authority, Leadership Styles; Behavioral 
+Leadership, Situational Leadership, Le adership Skills, Leader as Mentor and Coach, 
+Leadership during adversity and Crisis; Handling Employee and Customer Complaints, Team 
+Leadership. 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+Motivation - Types of Motivation; Relationship between Motivation, Performance and 
+Engagement, Content Motivational Theories - Needs Hierarchy Theory, Two Factor Theory, 
+Theory X and Theory Y. 
+ 
+UNIT - V 
+Controlling: Control, Types and Strategies for Control, Steps in Control Process, Budgetary 
+and Non - Budgetary Controls. Characteristics of Effective Contro ls, Establishing control 
+systems, Control frequency and Methods.  
+ 
+TEXT BOOKS:  
+1. Management Fundamentals, Robert N Lussier, 5e, Cengage Learning, 2013.  
+2. Fundamentals of Management, Stephen P. Robbins, Pearson Education, 2009. 
+ 
+REFERENCES:  
+1. Essentials of Management, Koontz Kleihrich, Tata McGraw HilL. 
+2. Management Essentials, Andrew DuBrin, 9e, Cengage Learning, 2012. 
+ 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+THERMAL ENGINEERING LAB 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: ME505PC                          0     0    3    2 
+ 
+Pre-Requisite: Thermodynamics & Thermal Engineering - I 
+ 
+Objective: To understand the working principles of IC Engines, Compressors.  
+ 
+List of Experiments  
+1. I.C. Engines Valve / Port Timing Diagrams 
+2. I.C. Engines Performance Test for 4 Stroke SI engines 
+3. I.C. Engines Performance Test for 2 Stroke SI engines 
+4. I.C. Engines Morse, Retardation, Motoring Tests 
+5. I.C. Engine  Heat Balance – CI/SI Engines 
+6. I.C. Engines Economical speed Test on a SI engine 
+7. I.C. Engines effect of A/F Ratio in a SI engine 
+8. Performance Test on Variable Compression Ratio Engine 
+9. IC engine Performance Test on a 4S CI Engine at constant speed 
+10. Volumetric efficiency of  Air – Compressor Unit 
+11. Dis-assembly / Assembly of Engines 
+12. Study of Boilers 
+ 
+Note: Perform any 10 out of the 12 exercises. 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+KINEMATICS OF MACHINERY AND DYNAMICS OF MACHINERY LAB 
+ 
+B.Tech.  III Year I Sem.                                      L    T    P   C 
+Course Code: AM506PC                          0     0    3    2 
+ 
+List of Experiments: 
+1. Cam Analysis – Cam Profile and Jump-speed Characteristics 
+2. Determination of Critical Speed 
+3. Determination of Gyroscopic Couple 
+4. Determination of Natural Frequency-spring mass system 
+5. Determination of Natural Frequency-free transverse system 
+6. Determination of Radius of Gyration and Moment of Inertia-compound pendulum 
+7. Determination of Radius of Gyration and Moment of Inertia-bifilar system 
+8. Balancing of Rotating Masses-static 
+9. Balancing of Rotating Masses-dynamic 
+10. Speed Ratio of Epi-cyclic Gear Train 
+11. To study various types of Kinematic links, pairs, chains and Mechanisms. 
+12. To study various types of gear trains – simple, compound, reverted, epicyclic and  
+1. Differential 
+13. To generate spur gear involute tooth profile using simulated gear shaping process. 
+14. Governor apparatus with differential attachments 
+15. To study various type of cam and follower arrangements  
+ 
+Note: Any 12 experiments need to be performed.  
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+AUTOMOBILE ENGINEERING LAB 
+ 
+B.Tech.  III Year I Sem.                                      L    T    P   C 
+Course Code: AM507PC                          0     0    3    2 
+ 
+List of Experiments: 
+1. Study of Hand power and measuring tools -sketching, materials used and their uses.  
+2. Writing technical specifications and descriptions of all types of automobile engines 
+(petrol and diesel) -materials, functions with sketches.  
+3. Petrol and Diesel engines dismantling, Inspection for wear and tear, crack, material 
+breakdown of different engines components.  
+4. Servicing of engines by paraffin and degreasing methods, decarburizing procedure, 
+Dismantling, Inspection and Assembly of different parts of two wheelers 
+5. Servicing of engines by paraffin and degreasing methods, decarburizing procedure, 
+Dismantling, Inspection and Assembly of different parts of 3 wheelers  
+6. Servicing of engines by paraffin and degreasing methods, decarburizing procedure, 
+Dismantling, Inspection and Assembly of different parts of 4 wheelers like Tractor & 
+Heavy duty engines cov ering 2 -stroke and 4 stroke, SI and CI engines using the 
+concepts of torque and assembly diagrams.  
+7. Measurement of dimensions of different components of the above engines and 
+compare the same with standard specifications.  
+8. Assembling the engines with using  special tools, necessary adjustments of the engine 
+components.  
+9. Valve spring testing, connecting rod alignment, piston ring testing procedure for 
+dismantling and assembling. 
+10. Wheel alignment, wheel balancing, tyre change and repair (with tube and tubeless).   
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+PROFESSIONAL ETHICS 
+ 
+B.Tech. III Year I Sem.                                      L    T    P   C 
+Course Code: MC500HS                          3     0    0    0 
+ 
+Course Objective: To enable the students to imbibe and internalize the Values and Ethical 
+Behaviour in the personal and Professional lives. 
+ 
+Course Outcome: The students will understand the importance of Values and Ethics in their 
+personal lives and professional careers. The students will learn the rights and responsibilities 
+as an employee, team member and a global citizen.  
+  
+UNIT - I  
+Introduction to Professional Ethics : Basic Concepts, Governing Ethics, Personal & 
+Professional Ethics, Ethical Dilemmas, Life Skills, Emotional Intelligence, Thoughts of 
+Ethics, Value Education, Dimensions of Ethics, Profession and professionalism, Professional 
+Associations, Professional Risks, Professional Accountabilities, Professional Success, Ethics 
+and Profession. 
+ 
+UNIT - II 
+Basic Theories: Basic Ethical Principles, Moral Developments, Deonto logy, Utilitarianism, 
+Virtue Theory, Rights Theory, Casuist Theory, Moral Absolution, Moral Rationalism, Moral 
+Pluralism, Ethical Egoism, Feminist Consequentialism, Moral Issues, Moral Dilemmas, 
+Moral Autonomy. 
+ 
+UNIT - III 
+Professional Practices in Enginee ring: Professions and Norms of Professional Conduct, 
+Norms of Professional Conduct vs. Profession; Responsibilities, Obligations and Moral 
+Values in Professional Ethics, Professional codes of ethics, the limits of predictability and 
+responsibilities of the engineering profession. 
+Central Responsibilities of Engineers - The Centrality of Responsibilities of Professional 
+Ethics; lessons from 1979 American Airlines DC -10 Crash and Kansas City Hyatt Regency 
+Walk away Collapse. 
+ 
+UNIT - IV 
+Work Place Rights & Res ponsibilities, Ethics in changing domains of Research, Engineers 
+and Managers; Organizational Complaint Procedure, difference of Professional Judgment 
+within the Nuclear Regulatory Commission (NRC), the Hanford Nuclear Reservation. 
+Ethics in changing domai ns of research - The US government wide definition of research 
+misconduct, research misconduct distinguished from mistakes and errors, recent  history of 
+attention to research misconduct, the emerging emphasis on understanding and fostering 
+responsible conduct, responsible authorship, reviewing & editing. 
+ 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+UNIT - V 
+Global issues in Professional Ethics: Introduction – Current Scenario, Technology 
+Globalization of MNCs, International Trade, World Summits, Issues, Business Ethics and   
+Corporate Governance, S ustainable Development Ecosystem, Energy Concerns, Ozone 
+Deflection, Pollution, Ethics in Manufacturing and Marketing, Media Ethics; War Ethics; Bio 
+Ethics, Intellectual Property Rights.     
+ 
+TEXT BOOKS: 
+1. Professional Ethics: R. Subramanian, Oxford University Press, 2015. 
+2. Ethics in Engineering Practice & Research, Caroline Whitbeck, 2e, Cambridge 
+University Press 2015. 
+ 
+REFERENCES  
+1. Engineering Ethics, Concepts Cases: Charles E Harris Jr., Michael S Pritchard, 
+Michael J Rabins, 4e, Cengage learning, 2015. 
+2. Business Ethics concepts & Cases:  Manuel G Velasquez, 6e, PHI, 2008. 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+THERMAL ENGINEERING – II 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: ME601PC                          4     0    0    4 
+ 
+Note: Steam Table book Permitted.  
+Pre-requisite: Thermodynamics 
+ 
+Course Objective: To apply the laws of Thermodynamics to analyze steam and gas turbine 
+cycles and to perform analysis of the major components of steam and gas turbine 
+plants and their applications. 
+ 
+Course Outcomes: At the end of the course, the student should be able to  
+ Develop state – space diagrams based on the schematic diagrams of process flow of 
+steam and gas turbine plants 
+ Apply the laws of Thermodynamics to analyze thermodynamic cycles 
+ Differentiate between vapour power cycles and gas power cycles   
+ Infer from property charts and tables and to apply the data for the evaluation of 
+performance parameters of the steam and gas turbine plants 
+ Understand the functionality of major components of steam and gas turbine plants and 
+to do the analysis of these components 
+ 
+UNIT – I 
+Steam Power Plant:   Rankine cycle - Schematic layout, Thermodynamic Analysis, Concept 
+of Mean Temperature of Heat addition, Methods to improve cycle performance – 
+Regeneration & reheating.  
+Boilers – Classification – Working principles with sketches including H.P.Boilers – 
+Mountings and Accessories – Working principles - Boiler horse power, Equivalent 
+Evaporation, Efficiency and Heat balance – Draught- Classification – Height of chimney for 
+given draught and discharge- Condition for maximum discharge- Efficiency of chimney. 
+ 
+UNIT – II 
+Steam Nozzles :   Stagnation Properties- Function of nozzle – Applications and Types- Flow 
+through nozzles - Thermodynamic analysis – Assumptions -Velocity of nozzle at exit -Ideal 
+and actual expansion in nozzle - Velocity coefficient - Condition for maximum discharge - 
+Critical pressure ratio - Criteria to decide nozzle shape - Super saturated flow, its effects, 
+Degree of super saturation and Degree of under cooling - Wilson line. 
+ 
+UNIT – III 
+Steam Turbines: Classification – Impulse turbine; Mechanical details – Velocity diagram – 
+Effect of friction – Power developed, Axial thrust, Blade or diagram efficiency – Condition 
+for maximum efficiency.  De -Laval Tu rbine - its features- Methods to reduce rotor speed -
+
+R16 B.TECH AUTOMOBILE ENGG. 
+Velocity compounding and Pressure compounding- Velocity and Pressure variation along the 
+flow – Combined velocity diagram for a velocity compounded impulse turbine. 
+Reaction Turbine:  Mechanical details – Principle of operation, Thermodynamic analysis of 
+a stage, Degree of reaction –Velocity diagram – Parson’s reaction turbine – Condition for 
+maximum efficiency. 
+ 
+UNIT - IV 
+Steam Condensers: Requirements of steam condensing plant – Classification of condensers 
+– Working principle of different types – Vacuum efficiency and Condenser efficiency – Air 
+leakage, sources and its affects, Air pump- Cooling water requirement. 
+Gas Turbines:  Simple gas turbine  plant – Ideal cycle, essential components – Parameters of 
+performance – Actual cycle – Regeneration, Inter cooling and Reheating –Closed and Semi-
+closed cycles – Merits and Demerits - Combustion chambers and turbines of Gas Turbine 
+Plant- Brief Concepts. 
+ 
+UNIT – V 
+Jet Propulsion :   Principle of Operation –Classification of jet propulsive engines – Working 
+Principles with schematic diagrams and representation on T -S diagram - Thrust, Thrust 
+Power and Propulsion Efficiency – Turbo jet engines – Needs and Demands met by Turbo jet 
+– Schematic Diagram, Thermodynamic Cycle, Performance Evaluation Thrust Augmentation 
+– Methods. 
+Rockets:  Application – Working Principle – Classification – Propellant Type – Thrust, 
+Propulsive Efficiency – Specific Impulse – Solid and Liquid propellant Rocket Engines. 
+ 
+TEXT BOOKS: 
+1. Thermal Engineering / Mahesh M Rathore/ Mc Graw Hill  
+2. Gas Turbines – V.Ganesan /Mc Graw Hill  
+ 
+REFERENCE BOOKS: 
+1. Gas Turbine Theory/ Saravanamuttoo, Cohen, Rogers/ Pearson 
+2. Fundamentals of Engineering Thermodynamics / Rathakrishnan/ PHI 
+ 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+MECHANICS OF FLUIDS AND HYDRAULICS MACHINERY 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM602PC                          4     0    0    4 
+ 
+UNIT - I 
+Fluid statics: Dimensions and units: physical properties of fluids - specific gravity, viscosity, 
+and surface tension - vapour pressure and their influence on fluid motion- atmospheric, gauge 
+and vacuum pressures – measurement of pressure - Piezometer, U -tube and differe ntial 
+manometers. 
+ 
+UNIT - II 
+Fluid kinematics : Stream line, path line and streak lines and stream tube, classification of 
+flows-steady & unsteady, uniform & non uniform, laminar & turbulent, rotational & 
+irrotational flows -equation of continuity for one di mensional flow and three dimensional 
+flows.  
+Fluid dynamics: Surface and body forces –Euler’s and Bernoulli’s equations for flow along 
+a stream line, momentum equation and its application on force on pipe bend. 
+ 
+UNIT - III 
+Boundary Layer Concepts : Definition, thicknesses, characteristics along thin plate, laminar 
+and turbulent boundary layers (No derivation) boundary layer in transition, separation of 
+boundary layer, submerged objects – drag and lift.  
+Closed conduit flow: Reynold’s experiment- Darcy Weisba ch equation - Minor losses in 
+pipes- pipes in series and pipes in parallel - total energy line -hydraulic gradient line. 
+Measurement of flow: Pitot tube, venturi meter, and orifice meter, Flow nozzle 
+ 
+UNIT - IV 
+Basics of turbo machinery : Hydrodynamic force o f jets on stationary and moving flat, 
+inclined, and curved vanes, jet striking centrally and at tip, velocity diagrams, work done and 
+efficiency, flow over radial vanes. 
+Hydraulic Turbines : Classification of turbines, Heads and efficiencies, impulse and 
+reaction turbines, Pelton wheel, Francis turbine and Kaplan turbine -working proportions, 
+work done, efficiencies , hydraulic design –draft tube theory- functions and efficiency. 
+Performance of hydraulic turbines : Geometric similarity, Unit and specific qua ntities, 
+characteristic curves, governing of turbines, selection of type of turbine, cavitation, surge 
+tank, water hammer. 
+ 
+UNIT - V 
+Centrifugal pumps : Classification, working, work done – barometric head - losses and 
+efficiencies specific speed- performance characteristic curves, NPSH. 
+Reciprocating pumps: Working, Discharge, slip, indicator diagrams. 
+ 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+TEXT BOOKS: 
+1. Hydraulics, fluid mechanics and Hydraulic machinery MODI and SETH. 
+2. Fluid Mechanics and Hydraulic Machines by Rajput. 
+ 
+REFERENCES: 
+1. Fluid Mechanics and Fluid Power Engineering by D.S. Kumar, Kotaria & Sons. 
+2. Fluid Mechanics and Machinery by D. Rama Durgaiah, New Age International. 
+3. Hydraulic Machines by Banga & Sharma, Khanna Publishers. 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+DESIGN OF MACHINE MEMBERS – I 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM603PC                          4     0    0    4 
+ 
+Note:  Design Data books are not permitted in the Examinations.  The design must not only 
+satisfy strength criteria but also rigidity criteria. 
+ 
+Pre-requisites: Engineering mechanics, mechanics of solids, manufacturing processes, 
+metallurgy and material science.  
+ 
+Course Objectives: 
+ To understand the general design procedures and principles in the design of machine 
+elements. 
+ To study different materials of construction and their properties and factors 
+determining the selection of material for various applications. 
+ To determine stresses under different loading conditions. 
+ To learn the design procedure of different fasteners, joints, shafts and couplings. 
+ 
+Course Outcomes: 
+ The student acquires the knowledge about the principles of design, material selection, 
+component behavior subjected to loads, and criteria of failure. 
+ Understands the concepts of principal stresses, stress concent ration in machine 
+members and fatigue loading. 
+ Design on the basis of strength and rigidity and analyze the stresses and strains 
+induced in a machine element.  
+ 
+UNIT – I 
+Introduction: General considerations in the design of Engineering Materials and their 
+properties – selection –Manufacturing consideration in design. Tolerances and fits –BIS 
+codes of steels. 
+Design for Static Strength:  Simple stresses – Combined stresses – Torsional and Bending 
+stresses – Impact stresses – Stress strain relation – Various t heories of failure – Factor of 
+safety – Design for strength and rigidity – preferred numbers.  The concept of stiffness in 
+tension, bending, torsion and combined situations. 
+ 
+UNIT – II 
+Design for Fatigue Strength:  Stress concentration–Theoretical stress Co ncentration factor–
+Fatigue stress concentration factor - Notch Sensitivity – Design for fluctuating stresses – 
+Endurance limit – Estimation of Endurance strength – Gerber’s curve– Modified Goodman’s 
+line– Soderberg’s line. 
+ 
+UNIT – III 
+Riveted, Welded and Bo lted Joints: Riveted joints- methods of failure of riveted joints -
+strength equations-efficiency of riveted joints-eccentrically loaded riveted joints. 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+Welded joints-Design of fillet welds -axial loads-circular fillet welds under bending, torsion. 
+Welded joints under eccentric loading. 
+Bolted joints – Design of bolts with pre -stresses – Design of joints under eccentric loading – 
+locking devices – bolts of uniform strength.  
+ 
+UNIT – IV 
+Keys, Cotters and Knuckle Joints: Design of keys -stresses in keys -cottered joints-spigot 
+and socket, sleeve and cotter, jib and cotter  joints-Knuckle joints. 
+ 
+UNIT – V 
+Shafts: Design of solid and hollow shafts for strength and rigidity – Design of shafts for 
+combined bending and axial loads – Shaft sizes – BIS code.  Use of inte rnal and external 
+circlips, Gaskets and seals (stationary & rotary) 
+Shaft Couplings:  Rigid couplings – Muff, Split muff and Flange couplings.  Flexible 
+couplings – Flange coupling (Modified). 
+ 
+TEXT BOOKS: 
+1. Design of Machine Elements  / V. Bhandari / Mc Graw Hill  
+2. Machine Design / Jindal / Pearson 
+ 
+REFERENCE BOOKS: 
+1. Design of Machine Elements / V. M. Faires / Macmillan 
+2. Design of Machine Elements-I / Annaiah, M.H / New Age 
+ 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+CAD/CAM 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM611PE                          3     0    0    3 
+ 
+Pre-requisites:  To learn the importance and use of computer in design and manufacture  
+ 
+Course objectives: To provide an overview of how computers are being used in design, 
+development of manufacturing plans and manufacture. To understand the need for integration 
+of CAD and CAM 
+ 
+Course Outcomes: Understand geometric transformation techniques in CAD. Develop 
+mathematical models to represent curves and surfaces .Model engineering components using 
+solid modeling techniques. Develop programs for CNC to manufacture industrial 
+components. To understand the application of computers in various aspects of Manufacturing 
+viz., Design, Proper planning, Manufacturing cost, Layout & Material Handling system. 
+ 
+UNIT – I 
+Fundamentals of CAD/CAM, Automation , design process, Application of computers for 
+design, Benefits of CAD, Computer configuration for CAD applications, Computer 
+peripherals for CAD,  Design w orkstation, Graphic terminal, CAD software - definition of 
+system software and application software ,CAD database and structure. 
+Geometric Modeling:  3-D wire frame modeling,  wire frame entities and their definitions, 
+Interpolation and approximation of cur ves, Concept of parametric and non -parametric 
+representation of curves, Curve fitting techniques, definitions of cubic spline, Bezier, and B -
+spline. 
+ 
+UNIT - II 
+Surface modeling:   Algebraic and geometric form, Parametric space of surface, Blending 
+functions, parameterization of  surface patch, Subdividing, Cylindrical surface, Ruled 
+surface, Surface of revolution Spherical surface, Composite surface, Bezier surface.  B -spline 
+surface, Regenerative surface and pathological conditions. 
+Solid Modelling:  Definition of cell composition and spatial occupancy enumeration, Sweep 
+representation, Constructive solid geometry, Boundary representations. 
+ 
+UNIT – III 
+NC Control Production Systems:   Numerical control, Elements of NC system, NC part 
+programming: Methods of NC part programming , Manual part programming, Computer 
+assisted part programming , Post  Processor, Computerized part program, SPPL (A Simple 
+Programming Language). CNC, DNC, and Adaptive Control Systems.  
+ 
+ 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+UNIT – IV 
+Group Technology: Part families, Parts classification, and coding.  Production flow analysis, 
+Machine cell design. 
+Computer aided process planning: Difficulties in traditional process planning, Computer 
+aided process planning: retrieval type and generative type, Machinability data systems. 
+Computer aided manufacturing resource planning: Material resource planning, inputs to 
+MRP, MRP output records, Benefits of MRP, Enterprise resource planning, Capacity 
+requirements planning. 
+ 
+UNIT – V 
+Flexible manufacturing system :  F.M.S equipment, FMS layouts, Analysis methods for 
+FMS benefits of FMS. 
+Computer aided quality control : Automated inspection - Off-line, On -line, contact, Non -
+contact; Coordinate measuring machines, Machine vision.   
+Computer Integrated Manufacturing: CIM system, Benefits of CIM, Benefits of CIM 
+ 
+TEXT BOOKS: 
+1. CAD/CAM /Groover M.P./ Pearson education 
+2. CAD/CAM Concepts and Applications/ Alavala/ PHI 
+ 
+REFERENCE BOOKS: 
+1. CAD/CAM Principles and Applications/P.N.Rao/ TMH  
+2. CAD / CAM Theory and Practice/ Ibrahim Zeid/TMH 
+3. CAD / CAM / CIM/Radhakrishnan and Subramanian/ New Age 
+4. Principles of Computer Aided Design and Manufacturing/ Farid Amirouche/ Pearson 
+5. Computer Numerical Control Concepts and programming/Warren S Seames/ 
+Thomson 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+AUTOMOBILE AIR CONDITIONING 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM612PE                          3     0    0    3 
+ 
+UNIT-I 
+Fundamentals of Refrigeration vapour compressors refrigeration - working principle, cycle 
+COP - refrigeration cycle in T -s and P -h coordinates, Effect of sub cooling &  super heating 
+and cycle analysis and problems using P-h charts. 
+Vehicle cooling, load estimation, capacity requirements of Air Conditioning System, 
+refrigerants used in Automobiles – properties. 
+ 
+UNIT-II 
+Introduction to Air Conditioning – Psychrometric pr operties and processes, sensible and 
+latent heat loads, characterization and SHF load for ventilation and filtration, concepts of 
+RSHF& SHF ESHF and ADP, concepts of human comfort and effective temperature. 
+Components of Air conditioners: Air -conditioning Components: Compressor -Evaporator-
+Condenser- Expansion valve -Receiver Drier - Filters-Mufflers -special features -compressor 
+protection Anti freezing relay. 
+ 
+UNIT-III 
+Operation of an Air -conditioning System: Type of Air conditioners. Heaters -Vehicle 
+ventilation-combination heater and air conditioner -manually controlled air conditioner and 
+heater system- automatically controlled air conditioner and heater systems. 
+Air Heating equipment, Ducts, Registers and Grills, blowers, filters 
+ 
+UNIT-IV 
+Trouble Shooting and Services: Servicing of heating Systems, Causes of air conditioner 
+Failure, leak testing guide, discharging the system - Evacuating the system -charging the 
+System-trouble shooting air conditioner heater Systems. 
+ 
+UNIT-V 
+Servicing of Air Conditioners - Heating Systems: Air conditioner maintenance and service.  
+Compressor trouble shooting and service, clutch service - shaft seal leakage compressor. Seal 
+removal checking oil level-oil addition, repairs on compressors. 
+ 
+TEXT BOOK: 
+1. Automotive Air-conditioning - By William H. Grouse & Donald L. Angtin. MH 
+2. Automotive Air -conditioning and climate control system, by Steven Daly, Elsevier,  
+Distributed by Yes Dee Publishing Pvt. Ltd.  
+REFERENCES: 
+1. Automotive Air-conditioning- By Lesile F.Gomgs. McGraw Hil1 
+2. Automotive Air-conditioning- By Boyce H. Dwiggins. Reston Pub. 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+3. Automotive Technology Heating and Air conditioning by Russell Carrigan, John 
+Eichelberger. Cengage Learning, Distributed by Yes Dee Publishing Pvt. Ltd. 
+4. Refrigeration & Air Conditioning by CP Arora 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+AUTOMOTIVE CHASSIS AND SUSPENSION 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM613PE                          3     0    0    3 
+ 
+UNIT-I 
+Introduction to Chassis System: Introduction: Requirements of an automobile with types of 
+automobiles, layout of an automobile with reference to power plant, power required for 
+propulsion, various resistances to motion of the automobile. 
+Frames: Types of frames, materials, calculation o f stresses on sections, constructional 
+details, loading points. Testing of frames. Wheels and tyres:  Types of wheels, construction. 
+Structure and function of tyres, static and function of tyres. 
+ 
+UNTI-II 
+Two and three wheelers : construction details of fram es and forks, suspension systems and 
+shock absorbers, different arrangement of cylinders.  
+Steering systems : types of steering gears, front axle. Under steer and over steer, wheel 
+alignment. Power steering, steering geometry, wheel balancing.  
+ 
+UNIT-III 
+Brakes: Types of brakes, stopping distance, and time. Brake efficiency, weight transfer, 
+brake shoe theory, determination of braking torque, braking systems -mechanical, hydraulic, 
+disc, parking and emergency brakes, servo and electrical brakes, details of h ydraulic system, 
+mechanical system and components. Types of master cylinders, factors influencing operation 
+of brakes such as operating temperature, lining, brake clearance, pedal pressure, linkages etc. 
+ 
+UNIT-IV 
+Suspension: Types of suspension, leaf sprin gs, materials, independent suspension, torsion 
+bar, air bellows or pneumatic , suspension , hydraulic suspension, constructional details of 
+telescopic shock absorbers. Types, vibrations and riding comfort, role axis of spring 
+suspension.  
+ 
+UNIT- V 
+Engine Mounting: Front Wheel Mounting, Rear Wheel Mounting, Engine mounting, various 
+types of springs used in suspension system. Requirements and various types. Material. 
+Testing: Testing procedures, types of tests and chassis components, equipment for lab and 
+road tests, preparation of test reports. 
+ 
+TEXTBOOK: 
+1. Automotive chassis and body - P. L. Kohli, TMH  
+2. The Automotive Chassis Vol 1, and Vol. 2 , By  Giancarlo, Lorenzo, Springer, 
+Distributed by Yes Dee Publishing Pvt. Ltd. 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+REFERENCE BOOKS 
+1. Road Vehicle Accident Reconstruction by Rao V Dukkipati, Ne w Age International 
+Publishers. 
+2. The Automotive Body By. Lorenzo Morellol, Springer Distributed by Yes Dee 
+Publishing Pvt. Ltd. 
+3. Introduction to automobile engineering -N.R. Khatawate. Khanna pub. 
+4. Automotive mechanics -Joseph I heitner. Affiliated East West Press  
+5. Problems in Automobile Engineering -N.K.Giri, Khanna Pub  
+6. Automotive Chassis -P.M. Heldt, Chilton & Co.  
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+VEHICLE DYNAMICS 
+(Professional Elective - I) 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM614PE                          3     0    0    3 
+ 
+UNIT-I 
+Tire and Rim Fundamentals : Tires and Sidewall Information, Tire components, Radial and 
+Non-Radial Tires, Tread, Wheel and Rim, Vehicle Classifications 
+Tire Dynamics: Tire Coordinate Frame and Tire force system, tite Stiffness, tire print forces, 
+effective radius, rolling resistance, Longitudinal, Lateral, Gamber, and Tire Forces. 
+ 
+UNIT-II 
+One-Dimensional Vehicle Dynamics : Parked Car on a Level and an Inclined Road,  
+Accelerating car on a Level and an inclined Road, Parked  car on a Banked Road, Optimal 
+Drive and Brake Force Distribution, Vehicles With More Than Two Axles. 
+Driveline Dynamics : Engine Dynamics, Driveline and Efficiency, Gearb ox and Clutch 
+Dynamics, Gearbox Design. 
+ 
+UNIT-III 
+Vehicle Dynamics: Applied Dynamics: Force and Moment, Rigid Body Translational and 
+Rotational Dynamics, Mass Moment of Inertia Matrix, Lagrange’s Form of Newton’s 
+Equations of Motion, Lagrangian Mechanics 
+Vehicle Planar Dynamics: Vehicle Coordinate Frame, Rigid Vehicle Newton -Euler 
+Dynamics, Force System Acting on a Rigid Vehicle, Two -wheel Rigid Vehicle Dynamics, 
+Steady-State Turning. 
+ 
+UNIT-IV 
+Vehicle Roll Dynamics: Vehicle Coordinate and DOF, Equations of  Motion, Vehicle Force 
+System, Two wheel Rigid Vehicle Dynamics, Steady state motion, Time Response 
+ 
+UNIT-V 
+Applied Vibrations:  Mechanical Vibration Elements, Newton’s Method and Vibrations, 
+Frequency Response of Vibrating Systems, Time Response of Vibrating Systems 
+Vehicle Vibrations: Lagrange Method and Dissipation Function, Natural Frequencies and 
+Mode Shapes, Bicycle Car and Body Pitch Mode, Half Car and Body Roll Mode, Full Car 
+Vibrating Model 
+Natural frequencies using sweeping matrix and orthogonality  principle, Holzer's method for 
+systems with free, fixed free and fixed ends.  
+ 
+TEXTBOOKS: 
+1. Vehicle Dynamics Theory and Application by Reza N. Jazar, Springer Int. Edition.  
+2. Mechanical Vibration -By G. K. Grover, Nernchand & Brothers 
+ 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+REFERENCES: 
+1. Vehicle Refinement Controlling Noise and Vibration in Road Vehicle By. Matthew 
+Harrison Elsevier, Distributed by Yes Dee Publishing Pvt. Ltd. 
+2. Theory & Problems of Mechanical Vibration -By William W. Seto, McGraw Hill  
+3. Problems in Automobile Mechanics-By N.K.Giri, Khanna Pub.  
+4. Mechanics of Pneumatic Tyre -By S. K. Clark, Prentice Hall  
+5. Mechanical Vibration Analysis -By P Srinivasan, TMH  
+6. Mechanical Vibration -By Church. Wife International  
+7. Vibration Theory & Applications -By William I Thomson, Prentice Hall 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+MECHANICS OF FLUIDS AND HYDRAULICS MACHINERY LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM604PC                          0     0    3    2 
+  
+LIST OF EXPERIMENTS 
+ 
+1. Impact of jets on Vanes. 
+2. Performance Test on Pelton Wheel. 
+3. Performance Test on Francis Turbine. 
+4. Performance Test on Kaplan Turbine. 
+5. Performance Test on Single Stage Centrifugal Pump. 
+6. Performance Test on Multi Stage Centrifugal Pump. 
+7. Performance Test on Reciprocating Pump. 
+8. Calibration of Venturimeter. 
+9. Calibration of Orifice meter. 
+10. Determination of friction factor for a given pipe line. 
+11. Determination of loss of head due to sudden contraction in a pipeline. 
+12. Verification of Bernoulli’s Theorems 
+ 
+Note: Any 10 of the above 12 experiments are to be conducted 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+AUTOMOBILE SYSTEMS LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: AM605PC                          0     0    3    2 
+ 
+List of Experiments: 
+1. Study, dismantling assembling of  Front axle 
+2. Study, dismantling assembling of  rear axle 
+3. Study, dismantling assembling of  Differential 
+4. Study, dismantling assembling of  Steering systems along with any two types of 
+steering gear Box 
+5. Study, dismantling assembling of braking  system-hydraulic servo vacuum, 
+compressed air Power brakes. 
+6. Study of oil filter, fuel filter, fuel injection system, carburetor, MPFI 
+7. Study of ignition system components-coil, magneto and electronic ignition systems 
+8. Study of engine cooling system components. 
+9. Study of engine lubrication system components 
+10. Study of automobile  electrical wiring system 
+  
+
+R16 B.TECH AUTOMOBILE ENGG. 
+ADVANCED ENGLISH COMMUNICATION SKILLS (AECS) LAB 
+ 
+B.Tech. III Year II Sem.                                      L    T    P   C 
+Course Code: EN606HS                          0     0    3    2 
+ 
+Introduction: 
+A course on Advanced English Communication Skills (AECS) Lab  is considered essential at 
+the third year level of B.Tech and B.Pharmacy courses. At this stage, the students need to 
+prepare themselves for their career which requires them to list en to, read, speak and write in 
+English both for their professional and interpersonal communication. The main purpose of 
+this course is to prepare the students of Engineering for their placements.  
+Course Objectives 
+This Lab focuses on using multi -media instruction for language development to meet the 
+following targets: 
+ To improve students’ fluency in spoken English  
+ To enable them to listen to English spoken at normal conversational speed  
+ To help students develop their vocabulary 
+ To read and comprehend texts in different contexts  
+ To communicate their ideas relevantly and coherently in writing 
+ To make students industry-ready  
+ To help students acquire behavioural skills for their personal and professional life 
+ To respond appropriately in different socio-cultural and professional contexts 
+ 
+Course Outcomes: Students will be able to: 
+ Acquire vocabulary and use it contextually 
+ Listen and speak effectively  
+ Develop proficiency in academic reading and writing  
+ Increase possibilities of job prospects 
+ Communicate confidently in formal and informal contexts  
+ 
+Syllabus 
+The following course activities will be conducted as part of the Advanced English 
+Communication Skills (AECS) Lab: 
+1. Inter-personal Communication and Building Vocabulary - Starting a Conversation 
+– Responding Appropriately and Relevantly – Using Appropriate Body Language – 
+Role Play in Different Situations - Synonyms and Antonyms, One -word Substitutes, 
+Prefixes and Suffixes, Idioms and Phrases and Collocations. 
+2. Reading Comprehension  –General Vs Local Comp rehension, Reading for Facts, 
+Guessing Meanings from Context, , Skimming, Scanning, Inferring Meaning. 
+
+R16 B.TECH AUTOMOBILE ENGG. 
+3. Writing Skills  – Structure and Presentation of Different Types of Writing – Letter 
+Writing/Resume Writing/ e-correspondence/ Technical Report Writing. 
+4. Presentation Skills  – Oral Presentations (individual or group) through JAM 
+Sessions/Seminars/PPTs and Written Presentations through Posters/Projects/Reports/   
+e-mails/Assignments… etc.,  
+5. Group Discussion and Interview Skills  – Dynamics of Group Discussion,  
+Intervention, Summarizing, Modulation of Voice, Body Language, Relevance, 
+Fluency and Organization of Ideas and Rubrics of Evaluation - Concept and Process, 
+Pre-interview Planning, Opening Strategies, Answering Strategies, Interview through 
+Tele-conference & Video-conference and Mock Interviews. 
+Minimum Hardware Requirement 
+Advanced English Communication Skills (AECS) Laboratory shall have the following 
+infrastructural facilities to accommodate at least 35 students in the lab: 
+ Spacious room with appropriate acoustics 
+ Eight round tables with five movable chairs for each table. 
+ Audio-visual aids 
+ LCD Projector 
+ Public Address system 
+ Computer with suitable configuration 
+Suggested Software:  The software consisting of the prescribed topics elaborated above 
+should be procured and used. 
+ Oxford Advanced Learner’s Compass, 8th Edition 
+ DELTA’s key to the Next Generation TOEFL Test: Advanced Skill Practice. 
+References:  
+1. Kumar, Sanjay and Pushp Lata. English for Effective Communication, Oxford 
+University Press, 2015. 
+2. Konar, Nira. English Language Laboratories – A Comprehensive Manual, PHI Learning 
+Pvt. Ltd., 2011. 
+

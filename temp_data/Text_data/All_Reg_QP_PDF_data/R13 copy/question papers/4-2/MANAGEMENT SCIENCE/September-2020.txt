@@ -1,0 +1,73 @@
+ 
+ 
+Code No: 118CR             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2020 
+MANAGEMENT SCIENCE 
+(Common to CSE, IT) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) Explain the importance of management.  
+   b) List out the salient features of scientific management theory.    [7+8] 
+ 
+2. Explain the salient features of Maslow's theory of Hierarchy of human needs.  [15] 
+ 
+3. What is Business Process R eengineering? Explain the significance of Statistical         
+Quality Control.          [15] 
+ 
+4. Describe the salient features of Training and Development.    [15] 
+ 
+5.a) Explain the salient features of PERT and CPM. 
+   b) Explain the importance of probability of completing the project within given time. [8+7] 
+ 
+6. The table shown below indicates the relevant information regarding a project. With the          
+ help of information supplied, compute the following: 
+a) Identify the critical activities and critical path. 
+ b) Estimate the project completion time.      [8+7] 
+Activity Predecessor Activities Time (days) 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+J 
+- 
+- 
+A 
+B 
+B 
+D 
+C 
+F,G 
+E 
+I 
+6 
+8 
+9 
+10 
+10 
+14 
+14 
+12 
+13 
+15 
+ 
+7. What is Environmental S canning? Explain th e salient features of Value Chain           
+ Analysis.           [15] 
+ 
+8. What is Balanced Score C ard? Explain the salient features of contemporary business           
+ strategies.             [15] 
+  
+ 
+---ooOoo--- 
+ 
+R13 
+JNTUH Used Papers 16-09-2020PM
+

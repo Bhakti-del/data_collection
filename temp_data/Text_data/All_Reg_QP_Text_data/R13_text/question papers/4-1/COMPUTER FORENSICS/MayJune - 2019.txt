@@ -1,0 +1,68 @@
+Code No: 117BW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, May/June - 2019 
+ COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is co mpulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) What is Computer Forensics?        [2] 
+   b) What are the problems with computer forensic evidence?    [3] 
+   c) Why should we collect evidence?          [2] 
+   d) Explain authentication.        [3] 
+   e) What is live acquisition?        [2] 
+   f) How digital hash is used in computer forensics?     [3] 
+   g) What are e-mail violations?          [2] 
+   h) Explain the need of computer forensic tools.      [3] 
+   i) What is NTFS?         [2] 
+   j) Explain MS-DOS start up tasks.       [3] 
+ 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2.a) What are the steps taken by Computer Forensics Specialist  to identify and  attempt to 
+retrieve possible evidence that may exist on a subject computer system? 
+   b) Describe who can use computer forensic evidences.     [5+5] 
+OR 
+3.a) Explain types of military computer forensic technology. 
+   b) Discuss the role of backup in data recovery.      [5+5] 
+ 
+4.a) Explain the different types of computer evidence. 
+b) “When collecting and analyzing evidence, there is a general four -step procedure you 
+should follow”. Explain the general procedure?     [5+5] 
+OR 
+5. Explain legal aspects of collecting and preserving computer forensic evidence. [10]   
+    
+6.a) Explain the validation of computer forensic data. 
+   b) How do you perform remote acquisition? Explain.     [5+5] 
+OR 
+7.a) Explain how to secure a computer incident or crime scene. 
+   b) Explain seizing and storing digital evidence at the scene.    [5+5] 
+ 
+ 
+R13 
+JNTUH USED 10-06-2019PM
+
+ 
+ 
+8. Explain the validation and testing of forensics software.     [10] 
+OR 
+9.a) Explain the roles of the client and server in e-mail.  
+   b) Discuss about mobile device forensics.      [5+5] 
+ 
+10. Explain computer forensics analysis in Microsoft Windows.   [10] 
+OR 
+11.a) Explain whole disk encryption. 
+     b) Give a short note on windows registry.      [5+5] 
+  
+ 
+--ooOoo--  
+ 
+JNTUH USED 10-06-2019PM
+

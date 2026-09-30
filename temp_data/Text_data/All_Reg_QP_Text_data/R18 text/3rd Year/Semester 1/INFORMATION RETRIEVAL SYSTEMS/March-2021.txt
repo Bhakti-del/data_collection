@@ -1,0 +1,40 @@
+ 
+Code No: 155BV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2021 
+INFORMATION RETRIEVAL SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Define Information retrieval systems and write about importance of IRS. 
+   b)  What are the capabilities of Information retrieval systems? Describe.  [7+8] 
+ 
+2.a)  What are digital libraries and data warehouses? Write their significance. 
+   b)  Explain the history and objectives of indexing.     [8+7] 
+ 
+3.  What is stemming? Explain porter stemming algorithm.      [15] 
+ 
+4.a)  Explain about Inverted file structure with example. 
+   b)  Discuss in detail about XML and Hypertext data structures.    [7+8] 
+ 
+5.  Differentiate between the process of information extraction and document indexing.
+              [15] 
+ 
+6.  Discuss about hierarchy of clustering. Compare and contrast term clustering and item  
+            clustering.            [15] 
+ 
+7.  How cognition and perception are significant in information visualization? What are the  
+           technologies used in information visualization? Discuss.      [15] 
+ 
+8.a)  What are hardware text search algorithms? Explain them in detail. 
+   b)  Explain audio, video and graph retrieval methods of MIR.    [7+8] 
+ 
+ 
+---ooOoo--- 
+ R18 
+22-03-2021 AM
+USED PAPER MARCH-2021
+

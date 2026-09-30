@@ -1,0 +1,69 @@
+Code No: 117FN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech IV Year I Semester Examinations, December-2023/January-2024 
+MOBILE COMPUTING 
+(Computer Science and Engineering) 
+ Time: 3 Hours                    Max.Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+ and may have a, b as sub questions. 
+ 
+PART – A 
+(25 Marks) 
+ 
+1.a) Define mobile computing.        [2]  
+   b)  Write a short note handover in GSM.       [3] 
+   c)  What is the purpose of route optimization in mobile networks?   [2] 
+   d)  What role does registration play in Mobile IP networks?    [3] 
+   e)  What is database hoarding?        [2]  
+   f)  List the advantages of Mobile TCP.       [3]  
+   g)  What is a symmetric communication?      [2]  
+   h)  Compare synchronous and asynchronous data transmission.    [3]  
+   i)  Expand the acronym AODV and state its functionality.    [2] 
+   j)  Explain the role of XML in mobile computing.     [3] 
+ 
+PART – B 
+(50 Marks) 
+ 
+2.a) Describe the significance of radio interfaces in GSM communication.   
+   b) Discuss the paradigm and promises of mobile computing.    [5+5] 
+OR 
+3.a)  Differentiate between mobile communication and mobile computing.   
+b)  Discuss about GSM services and how they contribute to efficient mobile communication.  
+[5+5] 
+  
+4.a)  Elaborate on the concept of tunneling in Mobile IP networks.    
+   b)  Analyze the role of DHCP in mobile networks.     [5+5] 
+OR 
+5.a)  Explore how the design of a wireless MAC protocol can impact the quality of service in 
+ wireless networks.          
+   b)  Discuss the challenges and solutions related to packet delivery in wireless networks. 
+[5+5] 
+ 
+6.  Identify and elaborate on Quality of Service (QoS) issues specific to mobile database 
+ applications. How can these issues be addressed to ensure a better user experience? [10] 
+OR 
+7.a)  How does adaptation play a role in mobile client-server communication? Explain.  
+   b)  Discuss the importance of backup and recovery strategies.    [5+5] 
+R13 
+
+8.a)  Discuss the challenges associated with communications asymmetry.   
+   b)  Discuss the importance of protocols in ensuring smooth and reliable data synchronization.
+            [5+5]  
+OR 
+9.  Explain the various categories of data delivery mechanisms, providing examples for each.  
+[10]  
+ 
+10.  Explain the following: 
+     a) Service discovery. 
+     b) Linux for mobile devices.        [5+5] 
+OR 
+11.a)  State and explain the applications and challenges of a MANET. 
+     b)  Discuss the recent trends and advancements in Android as a mobile operating system. 
+[5+5] 
+  
+ 
+ 
+      ---ooOoo--- 
+

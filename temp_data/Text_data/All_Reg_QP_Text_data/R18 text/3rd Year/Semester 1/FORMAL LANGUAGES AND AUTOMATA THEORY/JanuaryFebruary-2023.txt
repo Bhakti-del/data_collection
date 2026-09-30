@@ -1,0 +1,80 @@
+Code No: 155BK 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, January/February - 2023 
+FORMAL LANGUAGES AND AUTOMATA THEORY 
+(Common to CSE, IT, ECM, ITE, CSE(CS)) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.     
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)     What is a string? Write about concatenation of two strings.     [2] 
+   b)      What is a Regular expression in the theory of Automata?              [3] 
+   c)     Eliminate Useless symbols from the given grammar  
+A→ xyz |Xyzz X → Xz |xYz Y →yYy|Xz   Z → Zy | z               [2] 
+   d)      Write the design strategy for NFA-ε.       [3] 
+   e)    Write any two properties of Regular languages.      [2]       
+   f)      Write about Leftmost derivation and rightmost derivation with example.  [3] 
+   g)      Define GNF.                [2] 
+   h)      Write the advantages of parse tree in identifying ambiguity.    [3] 
+   i)       What do you mean by Instantaneous Description of Turing Machine?  [2] 
+   j)       What is offline Turing Machine?       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Define Finite Automaton. Explain about the model of Finite Automaton. 
+   b)  Convert the regular expression (((00)*(11)) + 01)* into an NFA.   [5+5] 
+OR 
+3.a) Describe in brief about applications of Finite Automata. 
+   b)  Design a mealy machine to print out 1’s complement of an input bit string.  [5+5] 
+  
+4.a)  Write the steps to construct regular expression from given DFA. 
+   b)  Construct a NFA equivalent to the regular expression 10(0+11)0*1.  [5+5] 
+OR 
+5.a)  Write in brief about the algebraic rules for regular expressions. 
+   b)  Discuss in brief about applications of pumping lemma.    [5+5] 
+ 
+6.a)  Define Push Down Automata. Explain the basic structure of PDA with a neat graphical 
+representation. 
+   b)  Construct a PDA that accepts L = {0n 1n | n ≥ 0}.     [5+5] 
+OR 
+7.a)  Construct a PDA which accepts language of word over alphabet {a,b} canting  
+{ai bj ck /i,j,k €N, i+k=j}. 
+   b)  Define Context Free Grammar. State and explain the closure properties of CFG. [5+5] 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+ 
+8.a)  Obtain Griebech Normal Form (GNF) for: SAB, ABS/b, BSA/a. 
+b)  Define Ambiguous Grammar? Check whether the grammar 
+SaAB,AbC/cd,Ccd,Bc/d 
+Is Ambiguous or not?         [5+5] 
+OR 
+9.a)  Construct a Left most Derivation for the string 0011000 using the grammar 
+SA0S/0/SS, AS1A/10 ? 
+   b)  Discuss in brief about decision properties of Context free languages.  [5+5] 
+ 
+10.a)  Construct Turing machine for the languages containing the set of all strings of balanced 
+paranthesis 
+     b)  Design Turing machine and its transition diagram to accept the language:  [5+5]  
+L = {a n bn| n >=1} 
+OR 
+11.a)  Define LR(0) Grammar. Explain in detail about Post Correspondence Problem. 
+     b)  What is decidability? Explain in brief about any two undecidable problems. [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

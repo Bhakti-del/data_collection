@@ -1,0 +1,123 @@
+Code No: 133BD    
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, November/December - 2018 
+MATHEMATICS – IV 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, ETM, MMT, AE, MIE, PTM, CEE, MSNT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) State the necessary and sufficient conditions for a function 𝑓(𝑧) to be analytic. [2] 
+   b) Show that the function 𝑓 𝑧 = 𝑥𝑦 + 𝑖𝑦 is everywhere continuous but is not analytic. 
+            [3] 
+   c) Show that 𝑓 𝑧 =
+1
+1−𝑒 𝑧 has a simple pole at 𝑧 = 2𝜋𝑖.     [2] 
+   d) State Cauchy’s integral formula and use it to evaluate  
+𝑧 2+4
+𝑧−3𝐶 𝑑𝑧 where 𝐶 is the circle 
+ 𝑧 = 5.          [3] 
+   e) Find the fixed points of the mapping 𝑤 = 𝑧 + 2𝑖.     [2] 
+   f) Find the residues at the poles of the function 𝑓 𝑧 =
+2𝑧+1
+ 𝑧−1 2 , 𝐶:   𝑧 ≤ 4.  [3] 
+   g) If 
+ 
+3f x x   in 
+ , , find the Fourier coefficient bn.    [2] 
+   h) Find 𝑓(𝑥) if its finite sine transform is given by 𝑓 𝑠 𝑠 =
+1+cos 𝑠𝜋
+𝑠𝜋  where 0 < x <, 
+𝑠 = 1, 2, 3, …          [3] 
+   i) Classify the PDE:  𝑥𝑢𝑥𝑥 − 𝑢𝑥𝑦 + 𝑦𝑢𝑦𝑦 = 1.      [2] 
+   j) Write the possible three solutions of the partial differential equation 
+22
+22
+uu
+xt
+  . [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) Define analyticity of a function. Show that the function defined by 𝑓 𝑧 =  |𝑥𝑦| is not 
+analytic at the origin although the C-R equations are satisfied at that point. 
+   b) Find the analytic function 
+  𝑓 𝑧 = 𝑢 𝑟, 𝜃 + 𝑖𝑣(𝑟, 𝜃), when 𝑣 𝑟, 𝜃 = 𝑟2 cos 2𝜃 − 𝑟 cos 𝜃 + 2.  [5+5] 
+OR 
+3.a) Show that both the real and imaginary parts of an analytic function are harmonic. 
+b) If 𝑓 𝑧 = 𝑢 + 𝑖𝑣 be an analytic function of 𝑧 and if 𝑢 − 𝑣 = (𝑥 − 𝑦)(𝑥2 + 4𝑥𝑦 + 𝑦2) 
+find 𝑓 𝑧  in terms of  𝑧.        [5+5] 
+ 
+  
+R16 
+JNTUH USED 26-11-2018AM
+
+4.a) State Cauchy integral theorem and use it to evaluate the integral  
+𝑒 2𝑧
+ 𝑧−1 2 𝑧−3  𝑑𝑧𝐶  
+where 𝐶  is the circle  𝑧 = 4. 
+b) If Φ 𝑎 =  
+3𝑧 2+7𝑧+1
+𝑧−𝑎  𝑑𝑧,𝑐   where 𝐶 is the circle 𝑥2 + 𝑦2 = 4,  find Φ 3 , Φ′(1 − 𝑖) and 
+ 1 i
+.          [5+5] 
+OR 
+5.a) Expand 𝑓 𝑧 =
+1
+𝑧 2−4𝑧+3 in the region 1 <  𝑧 < 3. Also name the series so obtained. 
+b) Find the nature and location of the singularities of the function 𝑓 𝑧 =
+𝑒 2𝑧
+ 𝑧−2 4 by finding 
+its Laurent’s series expansion.       [5+5] 
+ 
+6. State Residues theorem. Evaluate the integral by contour integration:  
+𝑑𝜃
+13+5 cos 𝜃
+𝜋
+0 .     [10] 
+OR 
+7.a) Find the residue of 𝑓 𝑧 =
+𝑧 3
+𝑧 2−1at 𝑧 = ∞. 
+   b) Define bilinear transformation. Find the bilinear transformation which maps the points 
+            𝑧 = 1, 𝑖, −1 onto the points 𝑤 = 𝑖, 0, −𝑖 and hence find the image of  𝑧 < 1. [5+5] 
+ 
+8.a) Find the Fourier series for the function 𝑓 𝑥 =
+𝜋𝑥
+2 in 0 ≤ 𝑥 ≤ 2. 
+b) Find the Fourier transform of𝑓 𝑥 =  1 ,      𝑥 ≤ 𝑎
+0 ,      𝑥 > 𝑎
+ . Hence prove that  
+sin 2 𝑎𝑥
+𝑥 2  𝑑𝑥 =
+𝜋𝑎
+2 .
+∞
+0  
+            [5+5] 
+OR 
+9.a) Develop 𝑓 𝑥 =  2,   − 2 < 𝑥 < 0,
+  𝑥,      0 < 𝑥 < 2
+   in a series of sines and cosines and deduce the series 
+for 𝜋2. 
+   b) Find the Fourier cosine transform of 𝑓 𝑥 = 𝑒−𝑥,   𝑥 > 0.    [5+5] 
+ 
+10. The ends A and B of a rod 20 cm long have the temperature at  300C and 800C until 
+steady state conditions prevail . The temperature at the ends are suddenly changed to      
+400 C and 600C respectively. Find the temperature distribution in the rod at time 𝑡. [10] 
+OR 
+11. Write down one dimensional wave equation. A string is stretched and fastened to two 
+points 𝑙 cm apart. Motion is started by displacing the string in a sinusoidal arch of h eight 
+𝑦0 and then released from rest at time 𝑡 = 0. Find the displacement at point 𝑥 and at any 
+time 𝑡.           [10] 
+ 
+  
+ 
+---oo0oo--- 
+JNTUH USED 26-11-2018AM
+

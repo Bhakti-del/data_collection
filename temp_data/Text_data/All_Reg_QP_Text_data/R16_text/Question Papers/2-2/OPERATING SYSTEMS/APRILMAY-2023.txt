@@ -1,0 +1,88 @@
+ 
+ 
+Code No: 134BU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year II Semester Examinations, April/May - 2023 
+OPERATING SYSTEMS  
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) Draw the structure of OS.        [2] 
+   b)      Write the objectives of operating system.      [3] 
+   c)      Differentiate between process and thread.      [2] 
+   d)      What is context switch?        [3] 
+   e)      How the segmentation differ from paging?      [2] 
+   f)      What is Virtual memory?        [3] 
+   g) What is File sharing?          [2] 
+   h)      Describe the importance of seek( ).       [3] 
+   i)      Which are the necessary conditions for Deadlock?     [2] 
+   j)      What is language based protection?       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Explain about the operations of operating systems. 
+   b) Explain how operating system used in a variety of computing environments. [5+5] 
+OR 
+3.a) Write the services provided by Operating System in terms of security and protection. 
+b) What is operating system? Explain the abstract view of the components of a  computer 
+system.          [5+5]  
+  
+4.a) What is monitor and g ive a solution for Reader’s and writer’s Critic al section problem     
+using monitors. 
+   b) Explain about the process states with neat sketch.     [5+5] 
+OR 
+5.a) What is Scheduler? Explain the queuing diagram representation of process scheduler 
+with neat sketch. 
+   b) Explain about the process control block with neat sketch.    [5+5]                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+6. For the following page reference string  7,0,1,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0,1. Calculate 
+the page faults applying the following Page replacement algorithms for a memory with  
+three frames: 
+a) LRU 
+b) FIFO.             [5+5] 
+OR 
+7.a) What is Demand paging? Explain the working of demand paging and also give the        
+advantages and disadvantages of Demand Paging. 
+   b) Explain the causes of Thrashing.       [7+3] 
+ 
+8.a) Explain about FCFS disk scheduling algorithms with an example. 
+   b) Explain about the file system structure.      [5+5] 
+OR 
+9.a) Explain about the various file access methods. 
+   b) Explain about free space management in file system.    [5+5] 
+ 
+10.a) Explain the protection mec hanism illustrating the use of protection domain and access          
+control list. 
+    b) Explain the implementation of the Access Matrix.     [5+5] 
+OR 
+11. Explain the methods for handling deadlocks.        [10] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

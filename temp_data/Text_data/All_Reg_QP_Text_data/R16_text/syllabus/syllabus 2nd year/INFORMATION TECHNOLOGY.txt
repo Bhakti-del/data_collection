@@ -1,0 +1,1674 @@
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ 
+B.TECH. INFORMATION TECHNOLOGY 
+ 
+COURSE STRUCTURE & SYLLABUS (2016-17) 
+ 
+II YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 MA301BS Mathematics – IV 4 1 0 4 
+2 CS302ES Data Structures through C++ 4 0 0 4 
+3 CS303ES Mathematical Foundations of Computer 
+Science 4 0 0 4 
+4 CS304ES Digital Logic Design 3 0 0 3 
+5 CS305ES Object Oriented Programming through Java 3 0 0 3 
+6 CS306ES Data Structures through C++ Lab 0 0 3 2 
+7 CS307ES IT Workshop 0 0 3 2 
+8 CS308ES Object Oriented Programming through Java 
+Lab 0 0 3 2 
+9 * MC300ES Environmental Science and Technology 3 0 0 0 
+  Total Credits 21 1 9 24 
+ 
+ 
+II YEAR II SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 CS401BS Computer Organization 4 0 0 4 
+2 CS402ES Database Management Systems 4 0 0 4 
+3 CS403ES Operating Systems 4 0 0 4 
+4 CS404ES Formal Languages and Automata Theory 3 0 0 3 
+5 SM405MS Business Economics and Financial Analysis 3 0 0 3 
+6 CS406ES Computer Organization Lab 0 0 3 2 
+7 CS407ES Database Management Systems Lab 0 0 3 2 
+8 CS408ES Operating Systems Lab 0 0 3 2 
+9 * MC400HS Gender Sensitization Lab 0 0 3 0 
+  Total Credits  18 0 12 24 
+ 
+* Satisfactory/Unsatisfactory 
+  
+
+MA301BS: MATHEMATICS - IV 
+(Complex Variables and Fourier Analysis) 
+  
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                4     1    0    4 
+ 
+Prerequisites: Foundation course (No Prerequisites). 
+ 
+Course Objectives: To learn  
+ differentiation and integration of complex valued functions 
+ evaluation of integrals using Cauchy’s integral formula 
+ Laurent’s series expansion of complex functions 
+ evaluation of integrals using Residue theorem 
+ express a periodic function by Fourier series and a non -periodic function by Fourier 
+transform  
+ to analyze the displacements of one dimensional wave and distribution of one 
+dimensional heat equation 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to:  
+ analyze the complex functions with reference to their analyticity, integration using 
+Cauchy’s integral theorem 
+ find the Taylor’s and Laurent’s series expansion of complex functions 
+ the bilinear transformation 
+ express any periodic function in term of sines and cosines 
+ express a non-periodic function as integral representation 
+ analyze one dimensional wave and heat equation 
+ 
+UNIT – I 
+Functions of a complex variable: Introduction, Continuity, Differentiability, Analyticity, 
+properties, Cauchy, Riemann equations in Cartesian and polar coordinates . Harmonic and 
+conjugate harmonic functions-Milne-Thompson method 
+ 
+UNIT - II 
+Complex integration: Line integral, Cauchy’s integral theorem, Cauchy’s integral formula, 
+and Generalized Cauch y’s integral formula, Power series: Taylor’s series - Laurent series, 
+Singular points, isolated singular points, pole of order m – essential singularity, Residue, 
+Cauchy Residue theorem (Without proof). 
+ 
+UNIT – III  
+Evaluation of Integrals: Types of real integrals: 
+a) Improper real integrals ( )f x dx
+
+
+   (b) 
+2
+(cos ,sin )
+c
+c
+f d
+
+  
+
+  
+Bilinear transformation- fixed point- cross ratio- properties- invariance of circles. 
+
+UNIT – IV  
+Fourier series and Transforms: Introduction, Periodic functions, Fourier series of periodic 
+function, Dirichlet’s conditions, Even and odd functions, Change of interval, Half range sine 
+and cosine series. 
+Fourier integral theorem (without proof), Fourier sine and cosine integrals, sine and cosine, 
+transforms, properties, inverse transforms, Finite Fourier transforms. 
+ 
+UNIT – V  
+Applications of PDE: Classification of second order partial differential equations, method of 
+separation of variables, Solution of one dimensional wave and heat equations. 
+ 
+TEXT BOOKS: 
+1. A first course in complex analysis with applications by Denn is G. Zill and Patrick 
+Shanahan, Johns and Bartlett Publishers. 
+2. Higher Engineering Mathematics by Dr. B. S. Grewal, Khanna Publishers. 
+3. Advanced engineering Mathematics  with MATLAB by Dean G. Duffy 
+ 
+REFERENCES: 
+1. Fundamentals of Complex Analysis by Saff, E. B. and A. D. Snider, Pearson. 
+2. Advanced Engineering Mathematics by Louis C. Barrett, McGraw Hill. 
+
+CS302ES: DATA STRUCTURES THROUGH C++ 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                4     0    0    4 
+ 
+Course Objectives: 
+ To understand the basic concepts such as Abstract Data Types, Linear and Non Linear 
+Data structures. 
+ To understand the notations used to analyze the Performance of algorithms. 
+ To understand the behavior of data structures such as stacks, queues, trees, hash 
+tables, search trees, Graphs and their representations. 
+ To choose an appropriate data structure for a specified application. 
+ To understand and analyze various searching and sorting algorithms. 
+ To learn to implement ADTs such as lists, stacks, queues, trees, graphs, search trees 
+in C++ to solve problems.  
+ 
+Course Outcomes: 
+ Ability to choose appropriate data structures to represent data items in real world 
+problems. 
+ Ability to analyze the time and space complexities of algorithms. 
+ Ability to design programs using a variety of data structures such as stacks, queues, 
+hash tables, binary  trees, search trees, heaps, graphs, and  B-trees. 
+ Able to analyze and implement various kinds of searching and sorting techniques. 
+ 
+UNIT - I  
+C++ Programming Concepts:  Review of C, input and output in C++, functions in C++ - 
+value parameters, reference parameters, Parameter passing, function overloading, function 
+templates, Exceptions -throwing an exception and handl ing an exception, arrays, pointers, 
+new and delete operators, class and object, access specifiers , friend functions, constructors 
+and destructor, Operator overloading, class templates, Inheritance and Polymorphism.. 
+Basic Concepts  - Data objects and Struc tures, Algorithm Specification -Introduction, 
+Recursive algorithms, Data Abstraction, Performance analysis - time complexity and space 
+complexity, Asymptotic Notation -Big O, Omega and Theta notations, Complexity Analysis 
+Examples, Introduction to Linear and Non Linear data structures.  
+ 
+UNIT - II 
+Representation of single, two dimensional arrays, sparse matrices -array and linked 
+representations. 
+Linear list ADT -array representation and linked representation, Singly Linked Lists -
+Operations-Insertion, Deletion,  Circularly linked lists -Operations for Circularly linked lists, 
+Doubly Linked Lists- Operations- Insertion, Deletion. 
+
+Stack ADT, definition, array and linked implementations, applications -infix to postfix 
+conversion, Postfix expression evaluation, recursion implementation, Queue ADT, definition, 
+array and linked Implementations, Circular queues-Insertion and deletion operations. 
+UNIT - III  
+Trees – definition, terminology, Binary trees -definition, Properties of Binary Trees, Binary 
+Tree ADT, representation  of Binary Trees -array and linked representations, Binary Tree 
+traversals, Threaded binary trees, Priority Queues –Definition and applications, Max Priority 
+Queue ADT -implementation-Max Heap -Definition, Insertion into a Max Heap, Deletion 
+from a Max Heap. 
+ 
+UNIT - IV  
+Searching -  Linear Search, Binary Search, Hashing-Introduction, hash tables, hash functions, 
+Overflow Handling, Comparison of Searching methods. 
+Sorting-Insertion Sort, Selection Sort, Radix Sort, Quick sort, Heap Sort, Merge sort, 
+Comparison of Sorting methods. 
+. 
+UNIT - V  
+Graphs–Definitions, Terminology, Applications and more definitions, Properties, Graph 
+ADT, Graph Representations -  Adjacency matrix, Adjacency lists, Graph Search methods -  
+DFS and BFS, Complexity analysis, 
+Search Trees-Binary Search Tree ADT, Definition, Operations - Searching, Insertion and 
+Deletion, Balanced search trees -AVL Trees -Definition and Examples only, B -Trees-
+Definition and Examples only, Red-Black Trees-Definitions and Examples only, Comparison 
+of Search Trees. 
+ 
+TEXT BOOKS: 
+1. Data structures, Algorithms and Applications in C++, 2 nd Edition, Sartaj Sahni, 
+Universities Press.  
+2. Data structures and Algorithms in C++, Adam Drozdek, 4th edition, Cengage learning. 
+ 
+REFERENCE BOOKS: 
+1. Data structures with C++, J. Hubbard, Schaum’s outlines, TMH. 
+2. Data structures and Algorithms in C++, M.T. Goodrich, R. Tamassia and D. Mount, 
+Wiley India. 
+3. Data structures and Algorithm Analysis in C++, 3rd edition, M. A. Weiss, Pearson. 
+4. Classic Data Structures, D. Samanta, 2nd edition, PHI. 
+
+CS303ES: MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                4     0    0    4 
+ 
+Course Objectives: 
+ To introduce the concepts of mathematical logic.  
+ To introduce the concepts of sets, relations, and functions. 
+ To perform the operations associated with sets, functions, and relations. 
+ To relate practical examples to the appropriate set, function, or relation model, and 
+interpret the associated operations and terminology in context. 
+ To introduce generating functions and recurrence relations. 
+ To use Graph Theory for solving problems. 
+ 
+Course Outcomes 
+ Ability to apply mathematical logic to solve problems. 
+ Understand sets, relations, functions, and discrete structures. 
+ Able to use logical notation to define and reason about fundamental mathematical 
+concepts such as sets, relations, and functions. 
+ Able to formulate problems and solve recurrence relations. 
+ Able to model and solve real-world problems using graphs and trees. 
+ 
+UNIT - I 
+Mathematical logic:  Introduction, Statements and Notation, Connectives, Normal Forms, 
+Theory of Inference for the Statement Calculus, The Predicate Calculus, Inference Theory of 
+the Predicate Calculus. 
+ 
+UNIT - II 
+Set theory: Introduction, Basic Concepts of Set Theory, Representation of Discrete 
+Structures, Relations and Ordering, Functions. 
+Algebraic Structures: Introduction, Algebraic Systems, Semi groups and Monoids, Groups, 
+Lattices as Partially Ordered Sets, Boolean algebra. 
+ 
+UNIT - III 
+Elementary Combinatorics: Basics of Counting, Combinations and Permutations, 
+Enumeration of Combinations and Permutations, Enumerating  Combinations and 
+Permutations with Repetitions, Enumerating Permutations with Constrained Rep etitions, 
+Binomial Coefficients, The Binomial and Multinomial Theorems, The Principle of Inclusion -
+Exclusion.  
+ 
+UNIT - IV 
+Recurrence Relations: Generating Functions of Sequences, Calculating Coefficients of 
+generating functions, Recurrence relations, Solving recurrence relations by substitution and 
+
+Generating functions, The method of Characteristic roots, Solutions of Inhomogeneous 
+Recurrence Relations. 
+ 
+UNIT - V 
+Graphs: Basic Concepts, Isomorphisms and Subgraphs, Trees and their Properties, Spanning 
+Trees, Directed Trees, Binary Trees, Planar Graphs, Euler’s Formula, Multigraphs and Euler 
+Circuits, Hamiltonian Graphs, Chromatic Numbers, The Four-Color Problem.   
+ 
+TEXT BOOKS: 
+1. Discrete Mathematical Structures with Applications to Computer Science, J.P. 
+Tremblay, R. Manohar, McGraw Hill education (India) Private Limited.  (UNITS - I , 
+II ) 
+2. Discrete Mathematics for Computer Scientists &  Mathematicians, Joe L. Mott, 
+Abraham Kandel, Theodore P. Baker, Pearson , 2nd ed.  (Units - III, IV, V ) 
+ 
+REFERENCE BOOKS: 
+1. Discrete Mathematics and its Applications, Kenneth H. Rosen, 7th Edition, McGraw 
+Hill education (India) Private Limited. 
+2. Discrete Mathematics, D.S. Malik  & M.K. Sen, Revised edition  Cengage Learning. 
+3. Elements of Discrete Mathematics, C. L. Liu and D. P. Mohapatra, 4th edition, 
+McGraw Hill education (India) Private Limited. 
+4. Discrete Mathematics with Applications, Thomas Koshy, Elsevier. 
+5. Discrete and Combinatorial Mathematics, R. P. Grimaldi, Pearson. 
+
+CS304ES: DIGITAL LOGIC DESIGN 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                3     0    0    3 
+Course Objectives: 
+ To understand basic number systems, codes and logical gates. 
+ To understand the concepts of Boolean algebra. 
+ To understand the use of minimization logic to solve the Boolean logic expressions.. 
+ To understand the design of combinational and sequential circuits. 
+ To understand the state reduction methods for Sequential circuits. 
+ To understand the basics of various types of memories. 
+ 
+Course Outcomes: 
+ Able to understand number systems and codes. 
+ Able to solve Boolean expressions using Minimization methods. 
+ Able to design the sequential and combinational circuits. 
+ Able to apply state reduction methods to solve sequential circuits. 
+ 
+UNIT - I 
+Digital Systems, Binary Numbers, Number base conversions, Octal, Hexadecimal and other 
+base numbers, complements,  signed binary numbers, Floating point number representation, 
+binary codes,  Error detection and correction,  binary storage and registers, binary logic, 
+Boolean algebra and  logic gates , Basic theorems and properties of Boolean Algebra, 
+Boolean functions, canonical and standard forms, Digital Logic Gates. 
+ 
+UNIT - II 
+Gate–Level Minimization, The K -Map Method, Three -Variable Map, Four -Variable Map, 
+Five-Variable Map , sum of products , product of sums simplification, Don’t care conditions , 
+NAND and NOR imple mentation and other two level implementations, Exclusive -OR 
+function.  
+ 
+UNIT - III 
+Combinational Circuits (CC), Analysis procedure, Design Procedure, Combinational circuit 
+for different code converters and other problems, Binary Adder -Subtractor, Decimal A dder, 
+Binary Multiplier, Magnitude Comparator, Decoders, Encoders, Multiplexers, De -
+multiplexers. 
+ 
+UNIT - IV 
+Synchronous Sequential Circuits, Latches, Flip -flops, analysis of clocked sequential circuits, 
+Registers, Shift registers, Ripple counters, Synchronous counters, other counters. 
+Asynchronous Sequential Circuits -Introduction, Analysis procedure, Circuits with latches, 
+Design procedure, Reduction of state and follow tables, Race- free state assignment, Hazards. 
+ 
+
+UNIT - V 
+Memory: Introduction, R andom-Access memory, Memory decoding, ROM, Programmable 
+Logic Array, Programmable Array Logic, Sequential programmable devices. 
+Register Transfer and Microoperations - Register Transfer Language, Register Transfer, Bus 
+and Memory Transfers, 
+Arithmetic Microoperations, Logic Microoperations, Shift Microoperations, Arithmetic Logic 
+Shift Unit. 
+ 
+TEXT BOOKS: 
+1. Digital Design, M. Morris Mano, M.D.Ciletti, 5th edition, Pearson.(Units I, II, III, IV, 
+Part of Unit V) 
+2. Computer System Architecture, M.Morris Mano, 3rd edition, Pearson.(Part of Unit V) 
+ 
+REFERENCE BOOKS: 
+1. Switching and Finite Automata Theory, Z. Kohavi, Tata McGraw Hill. 
+2. Fundamentals of Logic Design, C. H. Roth, L. L. Kinney, 7 th edition, Cengage 
+Learning. 
+3. Fundamentals of Digital Logic & Micro Computer Des ign, 5TH Edition, M. 
+Rafiquzzaman, John Wiley. 
+
+CS305ES: OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                3     0    0    3 
+ 
+Course Objectives: 
+ To introduce the object oriented programming concepts. 
+ To understand object oriented programming concepts, and apply them in solving 
+problems. 
+ To introduce the principles of inheritance and polymorphism; and demonstrate how 
+they relate to the design of abstract classes 
+ To introduce the implementation of packages and interfaces 
+ To introduce the concepts of exception handling and multithreading. 
+ To introduce the design of Graphical User Interface using applets and swing controls. 
+ 
+Course Outcomes 
+ Able to solve real world problems using OOP techniques. 
+ Able to understand the use of abstract classes. 
+ Able to solve problems using java collection framework and I/o classes. 
+ Able to develop multithreaded applications with synchronization.  
+ Able to develop applets for web applications. 
+ Able to design GUI based applications  
+ 
+UNIT - I 
+Object-oriented thinking - A way of viewing world – Agents and Communities, messages 
+and methods, Responsibilities, Classes and Instances, Class Hierarchies - Inheritance, Method 
+binding, Overriding and Exceptions, Summary of Object -Oriented concepts. Java buzzwords, 
+An Overview of Java, Data types, Variables and Arrays, operators, expressions, control 
+statements, Introducing classes, Methods and Classes, String handling. 
+Inheritance– Inheritance concept, Inheritance basics, Member access, Constructors, Creating 
+Multilevel hierarchy, super uses, using final with inheritance, Polymorphism -ad hoc 
+polymorphism, pure polymorphism, method overriding, abstract classes, Object class , forms 
+of inheritance- specialization, specification, construction, extension, limitation, combination, 
+benefits of inheritance, costs of inheritance. 
+ 
+UNIT - II 
+Packages- Defining a Package, CLASSPATH, Access protection, importing packages.  
+Interfaces- defining an interface, implementing interfaces, Nested interfaces, applying 
+interfaces, variables in interfaces and extending interfaces. 
+Stream based  I/O(java.io) – The Stream classes -Byte streams and Character streams, 
+Reading console Input and Writing C onsole Output, File class, Reading and writing Files, 
+Random access file operations, The Console class, Serialization, Enumerations, auto boxing, 
+generics. 
+
+UNIT - III 
+Exception handling - Fundamentals of exception handling, Exception types, Termination or 
+resumptive models, Uncaught exceptions, using try and catch, multiple catch clauses, nested 
+try statements, throw, throws and finally, built - in exceptions, creating own exception sub 
+classes.  
+Multithreading- Differences between thread -based multitasking and process -based 
+multitasking, Java thread model, creating threads, thread priorities, synchronizing threads, 
+inter thread communication.  
+    
+UNIT - IV 
+The Collections Framework (java.util) - Collections overview, Collection Interfaces, The 
+Collection classes- Array List, Linked List, Hash Set, Tree Set, Priority Queue, Array Deque. 
+Accessing a Collection via an Iterator, Using an Iterator, The For -Each alternative, Map 
+Interfaces and Classes, Comparators, Collection algorithms, Arrays, The Legacy Classes and 
+Interfaces- Dictionary, Hashtable ,Properties, Stack, Vector 
+More Utility classes, String Tokenizer, Bit Set, Date, Calendar, Random, Formatter, Scanner 
+ 
+UNIT - V 
+GUI Programming with Swing – Introduction, limitations of AWT, MVC architecture, 
+components, containers. Understanding Layout Managers, Flow Layout,  Border Layout, 
+Grid Layout, Card Layout, Grid Bag Layout. 
+Event Handling - The Delegation event model - Events, Event sources, Event Listeners, 
+Event classes, Handling mouse and keyboard ev ents, Adapter classes, Inner classes, 
+Anonymous Inner classes. 
+ A Simple Swing Application,  Applets – Applets and HTML, Security Issues, Applets and 
+Applications, passing parameters to applets. Creating a Swing Applet, Painting in Swing, A 
+Paint example, E xploring Swing Controls - JLabel and Image Icon, JText Field, The Swing 
+Buttons- JButton, JToggle Button, JCheck Box, JRadio Button, JTabbed Pane, JScroll Pane, 
+JList, JCombo Box, Swing Menus, Dialogs. 
+ 
+TEXT BOOKS 
+1. Java The complete reference, 9 th edition, H erbert Schildt, McGraw Hill Education 
+(India) Pvt. Ltd. 
+2. Understanding Object -Oriented Programming with Java, updated edition, T. Budd, 
+Pearson Education. 
+ 
+REFERENCE BOOKS 
+1. An Introduction to programming and OO design using Java, J. Nino and F.A. Hosch,  
+John Wiley & sons. 
+2. Introduction to Java programming, Y. Daniel Liang, Pearson Education. 
+3. Object Oriented Programming through Java, P. Radha Krishna, Universities Press. 
+4. Programming in Java, S. Malhotra, S. Chudhary, 2nd edition, Oxford Univ. Press.  
+5. Java Programming and Object oriented Application Development, R. A. Johnson, 
+Cengage Learning.  
+
+CS306ES: DATA STRUCTURES THROUGH C++ LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                0     0    3    2 
+ 
+Course Objectives: 
+ To write and execute programs in C++ to solve problems using data structures such as 
+arrays, linked lists, stacks, queues, trees, graphs, hash tables and search trees. 
+ To learn to write  C++progr ams to implement various sorting and searching 
+algorithms 
+Course Outcomes: 
+ Able to identify the appropriate data structures and algorithms for solving real world 
+problems. 
+ Able to implement various kinds of searching and sorting techniques. 
+ Able to implement data structures such as stacks, queues, Search trees, and hash 
+tables to solve various computing problems. 
+ 
+1. Write a C++ program that uses functions to perform the following:  
+a) Create a singly linked list of integers. 
+b) Delete a given integer from the above linked list. 
+c) Display the contents of the above list after deletion. 
+ 
+2. Write a template based C++ program that uses functions to perform the following:  
+a)  Create a doubly linked list of elements. 
+b)  Delete a given element from the above doubly linked list. 
+c)  Display the contents of the above list after deletion. 
+ 
+3. Write a C++ program that uses stack operations to convert a given infix expression into its 
+postfix equivalent, Implement the stack using an array. 
+ 
+4. Write a C++ program to im plement a double ended queue ADT using an array, using a 
+doubly linked list.  
+ 
+5. Write a C++ program that uses functions to perform the following: 
+a) Create a binary search tree of characters. 
+b) Traverse the above Binary search tree recursively in preorder, in order and post order, 
+ 
+6. Write a C++ program that uses function templates to perform the following: 
+     a) Search for a key element in a list of elements using linear search. 
+     b) Search for a key element in a list of sorted elements using binary search.                     
+ 
+ 7. Write a C++ program that implements Insertion sort algorithm to arrange a list of integers 
+in ascending order. 
+
+ 8. Write a template based C++ program that implements selection sort algorithm to arrange a 
+list of elements in descending order. 
+ 
+9. Write a template based C++ program that implements Quick sort algorithm to arrange a list 
+of elements in ascending order. 
+ 
+10. Write a C++ program that implements Heap sort algorithm for sorting a list of integers in 
+ascending order. 
+ 
+11. Write a C++ program that implements Merge sort algorithm for sorting a list of integers 
+in ascending order  
+ 
+12. Write a C++ program to implement all the functions of a dictionary (ADT) using hashing. 
+ 
+13. Write a C++ program that implements Radix sort algorithm for sorting a list of integers in 
+ascending order 
+ 
+14. Write a C++ program that uses functions to perform the following: 
+a) Create a binary search tree of integers. 
+b) Traverse the above Binary search tree non recursively in inorder. 
+ 
+15. Write a C++ program that uses functions to perform the following: 
+     a) Create a binary search tree of integers. 
+     b) Search for an integer key in the above binary search tree non recursively. 
+     c) Search for an integer key in the above binary search tree recursively. 
+ 
+REFERENCE BOOKS 
+1. Data Structures using C++, D. S. Malik, 2nd edition, Cengage learning. 
+2. Data Structures using C++, V. Patil, Oxford University Press. 
+3. Fundamentals of Data structures in C++, 2 nd edition, E. Horowitz, S. Sahni and D. 
+Mehta, Universities Press. 
+4. C++ Plus Data Structures, 4th edition, Nell Dale, Jones and Bartlett student edition. 
+
+CS307ES: IT WORKSHOP 
+  
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                0     0    3    2 
+ 
+Course Objectives: 
+ The IT Workshop is a training lab course to get training on PC Hardware, Internet & 
+World Wide Web, and Productivity tools for documentation, Spreadsheet 
+computations, and Presentation. 
+ To introduce to a personal computer and  its basic peripherals, the process of 
+assembling a personal computer, installation of system software like MS Windows, 
+Linux and the required device drivers, hardware and software level troubleshooting 
+process. 
+ To introduce connecting the PC on to the int ernet from home and workplace and 
+effectively usage of the internet, Usage of web browsers, email, newsgroups and 
+discussion forums. To get knowledge in awareness of cyber hygiene, i.e., protecting 
+the personal computer from getting infected with the virus es, worms and other cyber 
+attacks. 
+ To introduce the usage of Productivity tools  in crafting professional word documents, 
+excel spreadsheets and power point presentations using open office tools and LaTeX. 
+ 
+Course Outcomes: 
+ Apply knowledge for computer assembling and software installation.  
+ Ability how to solve the trouble shooting problems. 
+ Apply the tools for preparation of PPT, Documentation and budget sheet etc. 
+ 
+PC Hardware: The students should work on working PC to disassemble and assemble to 
+working c ondition and install operating system like Linux or any other on the same PC.  
+Students are suggested to work similar tasks in the Laptop scenario wherever possible.  
+ 
+Problem 1: Every student should identify the peripherals of a computer, components in a 
+CPU and its functions. Draw the block diagram of the CPU along with the configuration of 
+each peripheral and submit to your instructor. Every student should disassemble and 
+assemble the PC back to working condition. 
+ 
+Problem 2: Every student should individ ually install operating system like Linux or MS 
+windows on the personal computer. The system should be configured as dual boot with both 
+windows and Linux.  
+ 
+Problem 3: Hardware Troubleshooting: Students have to be given a PC which does not boot 
+due to improper assembly or defective peripherals. They should identify the problem and fix 
+it to get the computer back to working condition.  
+ 
+
+Problem 4: Software Troubleshooting: Students have to be given a malfunctioning CPU due 
+to system software problems. They should identify the problem and fix it to get the computer 
+back to working condition.  
+ 
+Internet & World Wide Web. 
+Problem 5: Orientation & Connectivity Boot Camp:  Students should get connected to their 
+Local Area Network and access the Internet. In the process they configure the TCP/IP setting. 
+Finally students should demonstrate how to access the websites and email.  
+ 
+Problem 6: Web Browsers, Surfing the Web: Students customize their web browsers with 
+the LAN proxy settings, bookmarks, search toolbars and pop up blockers. Also, plug -ins like 
+Macromedia Flash and JRE for applets should be configured. 
+ 
+Problem 7: Search Engines & Netiquette: Students should know what search engines are and 
+how to use the search engines. Usage of search engines like Google, Yahoo, ask.com and 
+others should be demonstrated by student.  
+ 
+Problem 8: Cyber Hygiene: Students should learn about viruses on the internet and install 
+antivirus so ftware. Student should learn to customize the browsers to block pop ups, block 
+active x downloads to avoid viruses and/or worms. 
+ 
+Problem 9: Develop home page:  Student should learn to  develop his/her home page using 
+HTML consisting of his/her photo, name, address and education details as a table and his/her 
+skill set as a list. 
+ 
+Productivity tools: LaTeX and Word 
+Word Orientation: An overview of LaTeX and Microsoft (MS) office / equivalent (FOSS) 
+tool word should be learned: Importance of LaTeX and MS offic e / equivalent (FOSS) tool 
+Word as word Processors, Details of the three tasks and features that should be covered in 
+each, using LaTeX and word – Accessing, overview of toolbars, saving files, Using help and 
+resources, rulers, format painter. 
+ 
+Problem 10: Using LaTeX and Word to create project certificate. Features to be covered: -
+Formatting Fonts in word, Drop Cap in word, Applying Text effects, Using Character 
+Spacing, Borders and Colors, Inserting Header and Footer, Using Date and Time option in 
+both LaTeX and Word. 
+ 
+Problem 11: Creating project abstract Features to be covered: -Formatting Styles, Inserting 
+table, Bullets and Numbering, Changing Text Direction, Cell alignment, Footnote, Hyperlink, 
+Symbols, Spell Check, Track Changes. 
+  
+Problem 12: Creating a Newsletter: Features to be covered: - Table of Content, Newspaper 
+columns, Images from files and clipart, Drawing toolbar and Word Art, Formatting Images, 
+Textboxes,  Paragraphs in word. 
+
+Problem 13 - Spreadsheet Orientation: Accessing, overview of toolbars, saving 
+spreadsheet files, Using help and resources. Creating a Scheduler:- Gridlines, Format Cells, 
+Summation, auto fill, Formatting Text 
+ 
+Problem 14: Calculating GPA - .Features to be covered: - Cell Referencing, Formulae i n 
+spreadsheet – average, std. deviation, Charts, Renaming and Inserting worksheets, Hyper 
+linking, Count function, Sorting, Conditional formatting. 
+ 
+Problem 15: Creating Power Point: Student should work on basic power point utilities and 
+tools in Latex and  Ms Office/equivalent (FOSS) which help them create basic power point 
+presentation. PPT Orientation, Slide Layouts, Inserting Text, Formatting Text, Bullets and 
+Numbering, Auto Shapes, Lines and Arrows,  Hyperlinks, Inserting Images, Tables and 
+Charts 
+ 
+REFERENCE BOOKS: 
+1. Introduction to Information Technology, ITL Education Solutions limited, Pearson 
+Education. 
+2. LaTeX Companion – Leslie Lamport, PHI/Pearson. 
+3. Comdex Information Technology course tool kit Vikas Gupta, WILEY Dreamtech  
+4. IT Essentials PC Hardware and Software Companion Guide Third Edition by David 
+Anfinson and Ken Quamme. – CISCO Press, Pearson Education. 
+5. PC Hardware and A+ Handbook – Kate J. Chase PHI (Microsoft) 
+
+CS308ES: OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                0     0    3    2 
+ 
+Course Objectives: 
+ To write programs using abstract classes. 
+ To write programs for solving real world problems using java collection frame work. 
+ To write multithreaded programs. 
+ To write GUI programs using swing controls in Java. 
+ To introduce java compiler and eclipse platform. 
+ To impart hands on experience with java programming. 
+ 
+Course Outcomes: 
+ Able to write programs  for solving real world problems using java collection frame 
+work. 
+ Able to write programs using abstract classes. 
+ Able to write multithreaded programs. 
+ Able to write GUI programs using swing controls in Java. 
+ 
+Note:  
+1. Use Linux and MySQL for the Lab Experim ents. Though not mandatory, encourage 
+the use of Eclipse platform. 
+2. The list suggests the minimum program set. Hence, the concerned staff is requested to 
+add more problems to the list as needed. 
+ 
+1. Use Eclipse or Net bean platform and acquaint with the variou s menus. Create a test 
+project, add a test class, and run it. See how you can use auto suggestions, auto fill. 
+Try code formatter and code refactoring like renaming variables, methods, and 
+classes. Try debug step by step with a small program of about 10 to  15 lines which 
+contains at least one if else condition and a for loop. 
+ 
+2. Write a Java program that works as a simple calculator. Use a grid layout to arrange 
+buttons for the digits and for the +, -,*, % operations. Add a text field to display the 
+result. Handle any possible exceptions like divided by zero. 
+ 
+3. A) Develop an applet in Java that displays a simple message. 
+b)  Develop an applet in Java that receives an integer in one text field, and computes 
+its factorial Value and returns it in another text fie ld, when the button named 
+“Compute” is clicked.  
+ 
+4. Write a Java program that creates a user interface to perform integer divisions. The 
+user enters two numbers in the text fields, Num1 and Num2. The division of Num1 
+
+and Num 2 is displayed in the Result field when the Divide button is clicked. If Num1 
+or Num2 were not an integer, the program would throw a Number Format Exception. 
+If Num2 were Zero, the program would throw an Arithmetic Exception. Display the 
+exception in a message dialog box. 
+ 
+5. Write a Java pr ogram that implements a multi -thread application that has three 
+threads. First thread generates random integer every 1 second and if the value is even, 
+second thread computes the square of the number and prints. If the value is odd, the 
+third thread will print the value of cube of the number. 
+ 
+6. Write a Java program for the following: 
+i) Create a doubly linked list of elements. 
+ii) Delete a given element from the above list. 
+iii) Display the contents of the list after deletion.    
+ 
+7. Write a Java program that simulates a t raffic light. The program lets the user select 
+one of three lights: red, yellow, or green with radio buttons. On selecting a button, an 
+appropriate message with “Stop” or “Ready” or “Go” should appear above the buttons 
+in selected color. Initially, there is no message shown.  
+ 
+8. Write a Java program to create an abstract class named Shape that contains two 
+integers and an empty method named print Area (). Provide three classes named 
+Rectangle, Triangle, and Circle such that each one of the classes extends the  class 
+Shape. Each one of the classes contains only the method print Area () that prints the 
+area of the given shape. 
+ 
+9. Suppose that a table named Table.txt  is stored in a text file. The first line in the file is 
+the header, and the remaining lines correspond to rows in the table. The elements are 
+separated by commas. Write a java program to display the table using Labels in Grid 
+Layout. 
+ 
+10. Write a Java program  that handles all mouse events and shows the event name at the 
+center of the window when a mouse event is fired (Use Adapter classes).  
+ 
+11. Write a Java program that loads names and phone numbers from a text file where the 
+data is organized as    one line per  record and each field in a record are separated by a 
+tab (\t). It takes a name or phone number as input and prints the corresponding other 
+value from the hash table (hint: use hash tables). 
+ 
+12. Write a Java program that correctly implements the producer – consumer problem 
+using the concept of interthread communication. 
+ 
+13. Write a Java program to list all the files in a directory including the files present in all 
+its subdirectories. 
+
+14. Write a Java program that implements Quick sort algorithm for sorting a list of  names 
+in ascending order 
+ 
+15. Write a Java program that implements Bubble sort algorithm for sorting in descending 
+order and also shows the number of interchanges occurred for the given set of 
+integers. 
+ 
+REFERENCE BOOKS 
+1. Java for Programmers, P. J. Deitel and H. M. Deitel, 10th Edition Pearson education. 
+2. Thinking in Java, Bruce Eckel, Pearson Education. 
+3. Java Programming, D. S. Malik and P. S. Nair, Cengage Learning. 
+4. Core Java, Volume 1, 9th edition, Cay S. Horstmann and G Cornell, Pearson. 
+ 
+
+MC300ES: ENVIRONMENTAL SCIENCE AND TECHNOLOGY 
+ 
+B.Tech. II Year I Sem.                                      L    T    P   C 
+                             3     0    0    0 
+ 
+Course Objectives: 
+ Understanding the importance of ecological balance for sustainable development. 
+ Understanding the impacts of developmental activities and mitigation measures 
+ Understanding the environmental policies and regulations  
+ 
+Course Outcomes:  
+Based on this course, the Engineering graduate will understand /evaluate / develop 
+technologies on the basis of ecological principles and environmental regulations which in 
+turn helps in sustainable development  
+ 
+UNIT - I  
+Ecosystems: Definition, Scope and Importance of ecosystem. Classification, structure, and 
+function of an ecosystem, Food chains, food webs, and ecological pyramids. Flow of energy, 
+Biogeochemical cycles, Bioaccumulation, Biomagnification, ecosystem value, services and 
+carrying capacity, Field visits. 
+ 
+UNIT - II   
+Natural Resources: Classification of Resources:  Living and No n-Living resources, water 
+resources: use and over utilization of surface and ground water, floods and droughts, Dams: 
+benefits and problems. Mineral resources:  use and exploitation, environmental effects of 
+extracting and using mineral resources, Land resources: Forest resources,  Energy 
+resources: growing energy needs, renewable and non renewable energy sources, use of 
+alternate energy source, case studies.  
+ 
+UNIT - III  
+Biodiversity And Biotic Resources: Introduction, Definition, genetic, species and ecosystem 
+diversity. Value of biodiversity; consumptive use, productive use, social, ethical, aesthetic 
+and optional values. India as a mega diversity nation, Hot spots of biodiversity. Field visit. 
+Threats to biodiversity: habitat loss, poaching of wildlif e, man -wildlife conflicts; 
+conservation of biodiversity: In-Situ and Ex-situ conservation.  National Biodiversity act.  
+ 
+UNIT - IV  
+Environmental Pollution and Control Technologies: Environmental Pollution:  
+Classification of pollution, Air Pollution: Primary and secondary pollutants, Automobile and 
+Industrial pollution, Ambient air quality standards. Water pollution:  Sources and types of 
+pollution, drinking water quality standards. Soil Pollution:  Sources and types, Impacts of 
+modern agriculture, degradati on of soil. Noise Pollution: Sources and Health hazards, 
+standards, Solid waste: Municipal Solid Waste management, composition and characteristics 
+
+of e -Waste and its management. Pollution control technologies:   Wastewater Treatment 
+methods: Primary, secondary and Tertiary.  
+Overview of air pollution control technologies, Concepts of bioremediation. Global 
+Environmental Problems and Global Efforts: C limate change and impacts on human 
+environment. Ozone depletion and Ozone depleting substances (ODS). Deforest ation and 
+desertification.  International conventions / Protocols: Earth summit, Kyoto protocol, and 
+Montréal Protocol.  
+ 
+UNIT - V  
+Environmental Policy, Legislation & EIA: Environmental  Protection act, Legal aspects 
+Air Act- 1981, Water Act, Forest Act, Wild life Act,  Municipal solid waste management and 
+handling rules, biomedical waste management  and handling rules, hazardous waste 
+management and handling rules. EIA: EIA structure, methods of baseline data acquisition. 
+Overview on Impacts of air, water , biological and Socio -economical aspects. Strategies for 
+risk assessment, Concepts of Environmental Management Plan (EMP). Towards 
+Sustainable Future: Concept of Sustainable  Development, Population and its explosion, 
+Crazy Consumerism, Environmental Educ ation,  Urban Sprawl, Human health, 
+Environmental Ethics, Concept of Green Building, Ecological Foot Print, Life Cycle 
+assessment (LCA), Low carbon life style. 
+ 
+TEXT BOOKS: 
+1. Textbook of Environmental Studies for Undergraduate Courses by Erach Bharucha 
+for University Grants Commission. 
+2. Environmental Studies by R. Rajagopalan, Oxford University Press. 
+ 
+REFERENCE BOOKS: 
+1. Environmental Science: towards a sustainable future by Richard T. Wright. 2008 
+PHL Learning Private Ltd. New Delhi. 
+2. Environmental Engineering and science by Gilbert M. Masters and Wendell P. Ela. 
+2008 PHI Learning Pvt. Ltd.  
+3. Environmental Science by Daniel B. Botkin & Edward A. Keller, Wiley INDIA 
+edition. 
+4. Environmental Studies by Anubha Kaushik, 4 th Edition, New age international 
+publishers. 
+5. Text book of Environmental Science and Technology - Dr. M. Anji Reddy 2007, BS 
+Publications. 
+
+CS401ES: COMPUTER ORGANIZATION 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             4     0    0    4 
+ 
+Course Objectives: 
+ To understand basic components of computers. 
+ To understand the architecture of 8086 processor. 
+ To understand the instruction sets, instruction formats and various addressing modes 
+of 8086. 
+ To understand the representation of data at the machin e level and how computations 
+are performed 
+at machine level. 
+ To understand the memory organization and  I/O organization. 
+ To understand the parallelism both in terms of single and multiple processors. 
+ 
+Course Outcomes: 
+ Able to understand the basic componen ts and the design of CPU, ALU and Contr ol 
+Unit. 
+ Ability to understand memory hierarchy and its impact on computer 
+cost/performance. 
+ Ability to understand the advantage of instruction level parallelism and pipelining for 
+high performance Processor design. 
+ Ability to understand the instruction set, instruction formats and addressing modes of 
+8086. 
+ Ability to write assembly language programs to solve problems. 
+ 
+UNIT - I 
+Digital Computers: Introduction, Block diagram of Digital Computer, Definition of 
+Computer Organization, Computer Design and Computer Architecture. 
+Basic Computer Organization and Design:  Instruction codes, Computer Registers, 
+Computer instructions, Timing and Control, Instr uction cycle , Memory  Reference 
+Instructions, Input – Output and Interrupt, Complete Computer Description. 
+Micro Programmed Control:  Control memory, Address sequencing, micro program 
+example, design of control unit. 
+ 
+UNIT - II 
+Central Processing Unit: The 8086 Processor Architecture, Register organization, Physical 
+memory organization, General Bus Operation, I/O Addressing Capability, Special Processor 
+Activities, Minimum and Maximum mode system and timings. 
+8086 Instruction Set and Assembler Directives -Machine language instruction formats, 
+Addressing modes, Instruction set of 8086, Assembler directives and operators.  
+ 
+ 
+
+UNIT - III 
+Assembly Language Programming with 8086 - Machine level programs, Machine coding the 
+programs, Programming with an assembler, Assembly Language example programs. 
+Stack structure of 8086, Interrupts and Interrupt service routines, Interrupt cycle of 8086, 
+Interrupt programming, Passing parameters to procedures, Macros, Timings and Delays.  
+  
+UNIT - IV 
+Computer Arithmetic: Introduction, Addition and Subtraction, Multiplication Algorithms, 
+Division Algorithms, Floating - point Arithmetic operations. 
+Input-Output Organization:  Peripheral Devices , Input-Output Interface, Asynchronous 
+data transfer, Modes of Transfer, Priority Interrupt, Di rect memory Access, Input –Output 
+Processor (IOP),Intel 8089  IOP. 
+ 
+UNIT - V 
+Memory Organization: Memory Hierarchy, Main Memory, Auxiliary memory, Associate 
+Memory, Cache Memory. 
+Pipeline and Vector Processing:  Parallel Processing, Pipelining, Arithmetic Pipeline, 
+Instruction Pipeline, RISC Pipeline, Vector Processing, Array Processors. 
+Multi Processors:  Characteristics of Multiprocessors, Interconnection Structures, Inter 
+processor arbitration, Inter processor communication, and synchronization. 
+ 
+TEXT BOOKS: 
+1. Computer System Architecture, M. Moris Mano, Third Edition, Pearson. (UNIST-I 
+, IV , V) 
+2. Advanced Microprocessors and Peripherals, K M Bhurchandi, A.K Ray ,3 rd edition, 
+McGraw Hill India Education Private Ltd. (UNITS - II, III). 
+ 
+REFERENCE:  
+1. Microprocessors and Interfacing, D V Hall, SSSP Rao, 3 rd edition, McGraw Hill 
+India Education Private Ltd. 
+2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky: Computer Organization, 5 th 
+Edition, Tata McGraw Hill, 2002 
+3. Computer Organization and Architecture, William Stallings, 9th Edition, Pearson. 
+4. David A. Patterson, John L. Hennessy: Computer Organization and Design – The 
+Hardware / Software Interface ARM Edition, 4th Edition, Elsevier, 2009. 
+
+CS402ES: DATABASE MANAGEMENT SYSTEMS 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             4     0    0    4 
+ 
+Course Objectives: 
+ To understand the basic concepts and the applications of database systems. 
+ To master the basics of SQL and construct queries using SQL. 
+ To understand the relational database design principles. 
+ To become familiar with the basic issues of transaction processing and concurrency 
+control. 
+ To become familiar with database storage structures and access techniques. 
+ 
+Course Outcomes: 
+ Demonstrate the basic elements of a relational database management system. 
+ Ability to identify the data models for relevant problems. 
+ Ability to design entity relationship model and convert entity relationship diagrams 
+into RDBMS and formulate SQL queries on the data. 
+ Apply normalization for the development of application software. 
+ 
+UNIT - I 
+Introduction: Database System Applications, Purpose of Database Systems, View of Data, 
+Database Languages – DDL, DML, Relational Databases, Database Design,  Data Storage 
+and Querying, Transaction Management, Database Architecture, Data Mining and 
+Information Retrieval, Specialty Databases, Database Users and Administrators,  History of 
+Database Systems. 
+Introduction to Data base design:  Database Design and ER diagrams, Entities, Attributes 
+and Entity sets, Relationships and Relationship sets, Additional features of ER Model, 
+Conceptual Design with the ER Model, Conceptual Design for Large enterprises. 
+Relational Model:  Introduction to the Relational Model, Integrity Constraints over 
+Relations, Enforcing Integrity constraints, Querying relational data, Logical data base 
+Design: ER to Relational, Introduction to Views, Destroying /Altering Tables and Views. 
+ 
+UNIT - II 
+Relational Algebra and Calculus : Preliminaries, Relational Algebra, Relational calculus – 
+Tuple relational Calculus, Domain relational calculus, Expressive P ower of Algebra and 
+calculus. 
+SQL: Queries, Constraints, Triggers: Form of Basic SQL Query, UNION,INTERSECT, and 
+EXCEPT, Nested Queries, Aggregate Operators, NULL values  Complex Integrity 
+Constraints in SQL, Triggers and Active Data bases, Designing Active Databases.. 
+
+UNIT - III 
+Schema Refinement and Normal Forms : Introduction to Schema Refinement, Functional 
+Dependencies - Reasoning about FDs, Normal Forms, Properties of Decompositions, 
+Normalization, Schema Refinement in Database Design, Other Kinds of Dependencies. 
+ 
+UNIT - IV 
+Transaction Management:  Transactions, Transaction Concept, A Simple Transaction 
+Model, Storage Structure, Transaction Atomicity and Durability, Transaction Isolation, 
+Serializability, Transaction Isolation and Atomicity Transaction Isolation Levels, 
+Implementation of Isolation Levels. 
+Concurrency Control:  Lock–Based Protocols, Multiple Granularity, Timestamp -Based 
+Protocols, Validation-Based Protocols, Multiversion Schemes. 
+Recovery System -Failure Classification, Storage, Recovery and Atomicity, Recovery 
+Algorithm, Buffer Management,  Failure with loss of nonvolatile storage, Early Lock Release 
+and Logical Undo Operations, Remote Backup systems. 
+ 
+UNIT - V 
+Storage and Indexing:  Overview of Storage and Indexing: Data on External Stora ge, File 
+Organization and Indexing, Index Data Structures, Comparison of File Organizations. 
+Tree-Structured Indexing: Intuition for tree Indexes, Indexed Sequential Access Method 
+(ISAM), B+ Trees: A Dynamic Index Structure, Search, Insert, Delete. 
+Hash- Based Indexing:  Static Hashing, Extendible hashing, Linear Hashing, Extendible vs. 
+Linear Hashing. 
+ 
+TEXT BOOKS: 
+1. Data base Management Systems, Raghu Ramakrishnan, Johannes Gehrke, McGraw 
+Hill Education (India) Private Limited, 3 rd Edition. (Part of UNIT -I, UNIT-II, 
+UNIT-III, UNIT-V) 
+2. Data base System Concepts, A. Silberschatz, Henry. F. Korth,  S. Sudarshan, 
+McGraw Hill Education(India) Private Limited l,  6 th edition.( Part of UNIT -I, 
+UNIT-IV) 
+ 
+REFERENCE BOOKS: 
+1. Database Systems, 6 th edition, R Elmasri, Shamk ant  B.Navathe,  Pearson 
+Education. 
+2. Database System Concepts, Peter Rob & Carlos Coronel, Cengage Learning. 
+3. Introduction to Database Management, M. L. Gillenson and others, Wiley Student 
+Edition. 
+4. Database Development and Management, Lee Chao, Auerbach publ ications, Taylor 
+& Francis Group. 
+5. Introduction to Database Systems, C. J. Date, Pearson Education. 
+
+CS403ES: OPERATING SYSTEMS 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             3     0    0    3 
+ 
+Course Objectives: 
+ To understand the OS role in the overall computer system 
+ To study the operations performed by OS as a resource manager 
+ To understand the scheduling policies of OS 
+ To understand the different memory management techniques 
+ To understand process concurrency and synchronization 
+ To understand the concepts of input/output, storage and file management 
+ To understand the goals and principles of protection 
+ Introduce system call interface for file and process management 
+ To study different OS and compare their features. 
+ 
+Course Outcomes: 
+ Apply optimization techniques for the improvement of system performance. 
+ Ability to design and solve synchronization problems.  
+ Learn about minimization of turnaround time, waiting time and response time and 
+also maximization of throughput by keeping CPU as busy as possible. 
+ Ability to change access controls to protect files. 
+ Ability to compare the different operating systems. 
+ 
+UNIT - I 
+Overview-Introduction-Operating system objectives, User view, System view, Operating 
+system definition ,Computer System Organization, Computer System Architecture, OS 
+Structure, OS Operations, Process Management, Memory Management, Storage 
+Management, Protection and Security, Computing Environments. 
+Operating System services, Use r and OS Interface, System Calls, Types of System Calls, 
+System Programs, Operating System Design and Implementation, OS Structure. 
+ 
+UNIT - II 
+Process and CPU Scheduling - Process concepts-The Process, Process State, Process Control 
+Block, Threads, Process  Scheduling-Scheduling Queues, Schedulers, Context Switch, 
+Operations on Processes, System calls -fork(),exec(),wait(),exit(), Interprocess 
+communication-ordinary pipes and named pipes in Unix. 
+Process Scheduling -Basic concepts, Scheduling Criteria, Schedul ing algorithms, Multiple -
+Processor Scheduling, Real -Time Scheduling, Thread scheduling, Linux scheduling and 
+Windows scheduling. 
+Process Synchronization, Background, The Critical Section Problem, Peterson’s solution, 
+Synchronization Hardware, Semaphores, C lassic Problems of Synchronization, Monitors, 
+Synchronization in Linux and Windows. 
+
+UNIT - III  
+Memory Management and Virtual Memory – Memory Management Strategies- Background, 
+Swapping, Contiguous Memory Allocation, Segmentation, Paging, Structure of Page  Table, 
+IA-32 Segmentation, IA-32 Paging. 
+Virtual Memory Management -Background, Demand Paging, Copy -on-Write, Page 
+Replacement, Page Replacement Algorithms, Allocation of Frames, Thrashing, Virtual 
+memory in Windows.. 
+ 
+UNIT - IV 
+Storage Management-File System- Concept of a File, System calls for file operations - open 
+(), read (), write (), close (), seek (), unlink (), Access methods, Directory and Disk Structure, 
+File System Mounting, File Sharing, Protection. 
+File System Implementation - File System Stru cture, File System Implementation, Directory 
+Implementation, Allocation methods, Free-space Management, Efficiency, and Performance. 
+Mass Storage Structure – Overview of Mass Storage Structure, Disk Structure, Disk 
+Attachment, Disk Scheduling, Disk Management, Swap space Management 
+ 
+UNIT - V 
+Deadlocks - System Model, Deadlock Characterization, Methods for Handling Deadlocks, 
+Deadlock Prevention, Deadlock Avoidance, Deadlock Detection, and Recovery from 
+Deadlock. 
+Protection – System Protection, Goals of Prot ection, Principles of  Protection, Domain of 
+Protection, Access Matrix, Implementation of Access Matrix, Access Control, Revocation of 
+Access Rights, Capability-Based Systems, Language-Based Protection. 
+ 
+TEXT BOOKS: 
+1. Operating System Concepts , Abraham Silberschatz, Peter B. Galvin, Greg Gagne, 9th 
+Edition, Wiley, 2016 India Edition 
+2. Operating Systems – Internals and Design Principles, W. Stallings,  7th Edition, 
+Pearson.  
+ 
+REFERENCE BOOKS: 
+1. Modern Operating Systems, Andrew S Tanenbaum,  3rd Edition, PHI 
+2. Operating Systems : A concept -based Approach, 2nd Edition, D.M. Dhamdhere, 
+TMH. 
+3. Principles of Operating Systems, B. L. Stuart, Cengage learning, India Edition. 
+4. An Introduction to Operating Systems, P.C.P. Bhatt, PHI. 
+5. Principles of Operating systems, Naresh Chauhan, Oxford University Press. 
+  
+
+CS404ES: FORMAL LANGUAGES AND AUTOMATA THEORY 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             3     0    0    3 
+ 
+Course Objectives: 
+ To provide introduction to some of the central ideas of theoretical computer 
+science from the perspective of formal languages. 
+ To introduce the fundamental concepts of formal languages, grammars and 
+automata theory. 
+ Classify machines by their power to recognize languages. 
+ Employ finite state machines to solve problems in computing. 
+ To understand deterministic and non-deterministic machines. 
+ To understand the differences between decidability and undecidability. 
+ 
+Course Outcomes: 
+ Able to understand the concept of abstract machines a nd their power to recognize 
+the languages. 
+ Able to employ finite state machines for modeling and solving computing 
+problems. 
+ Able to design context free grammars for formal languages. 
+ Able to distinguish between decidability and undecidability. 
+ Able to gain proficiency with mathematical tools and formal methods. 
+ 
+UNIT - I 
+Introduction to Finite Automata, Structural Representations, Automata and Complexity, the 
+Central Concepts of Automata Theory – Alphabets, Strings, Languages, Problems.  
+Deterministic Finite Automata, Nondeterministic Finite Automata, an application: Text 
+Search, Finite Automata with Epsilon-Transitions.  
+ 
+UNIT - II 
+Regular Expressions, Finite Automata and Regular Expressions, Applications of Regular 
+Expressions, Algebraic  Laws for Regular Expressions, Properties of Regular Languages - 
+Pumping Lemma for Regular Languages, Applications of the Pumping  Lemma, Closure 
+Properties of Regular Languages, Decision Properties of Regular Languages, Equivalence 
+and Minimization of Automata.  
+UNIT - III 
+Context-Free Grammars : Definition of Context -Free Grammars, Derivations Using a 
+Grammar, Leftmost  and Rightmost Derivations, the Language of a Grammar, Sentential 
+Forms, Parse Tress, Applications of Context -Free Grammars, Ambiguity in Grammars and 
+Languages.  
+Push Down Automata ,: Definition of the Pushdown Automaton, the Languages of a PDA, 
+Equivalence of PDA's and CFG's, Deterministic Pushdown Automata. 
+ 
+ 
+
+UNIT - IV 
+Normal Forms for Context - Free Grammars, the Pumping Lemma for Context -Free 
+Languages, Closure Properties of Conte xt-Free Languages. Decision Properties of CFL's - 
+Complexity of Converting among CFG's and PDA's, Running time of conversions to 
+Chomsky Normal Form. 
+Introduction to Turing Machines -Problems That Computers Cannot Solve, The Turing 
+Machine, Programming Techniques for Turing Machines, Extensions to the basic Turing 
+machine, Restricted Turing Machines, Turing Machines, and Computers  
+ 
+UNIT - V 
+Undecidability: A Language that is Not Recur sively Enumerable, An Undecidable Problem 
+That is RE, Undecidable Problems about Turing Machines, Post's Correspondence Problem, 
+Other Undecidable Problems, Intractable Problems: The Classes P and NP, An NP-Complete 
+Problem. 
+ 
+TEXT BOOKS: 
+1. Introduction to Automata Theory, Languages, and Computation, 3 nd Edition, John E. 
+Hopcroft, Rajeev Motwani,  Jeffrey D. Ullman,  Pearson Education. 
+2. Introduction to the Theory of Computation, Michael Sipser, 3 rd edition, Cengage 
+Learning. 
+ 
+REFERENCE BOOKS: 
+1. Introduction to Languages and The Theory of Computation, John C Martin, TMH. 
+2. Introduction to Computer Theory, Daniel I.A. Cohen, John Wiley. 
+3. A Text book on Automata Theory, P. K. Srimani, Nasir S. F. B, Cambridge 
+University Press. 
+4. Introduction to Formal la nguages Automata Theory and Computation Kamala 
+Krithivasan, Rama R, Pearson. 
+5. Theory of Computer Science – Automata languages and computation, Mishra and 
+Chandrashekaran, 2nd edition, PHI. 
+  
+
+SM405ES: BUSINESS ECONOMICS AND FINANCIAL ANALYSIS 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             3     0    0    3 
+  
+Course Objective: To learn the basic Business types, impact of the Economy on Business 
+and Firms specifically. To analyze the Business from the Financial Perspective. 
+ 
+Course Outcome: The students will understand the various Forms of Business and the 
+impact of economic variables on the Business. The Demand, Supply, Production, Cost, 
+Market Structure, Pricing aspects are learnt. The Students ca n study the firm’s financial 
+position by analysing the Financial Statements of a Company.   
+   
+UNIT – I  
+Introduction to Business and Economics: 
+Business: Structure of Business Firm, Theory of Firm, Types of Business Entities, Limited 
+Liability Companies,  Sources of Capital for a Company, Non -Conventional Sources of 
+Finance. 
+Economics: Significance of Economics, Micro and Macro Economic Concepts, Concepts 
+and Importance of National Income, Inflation, Money Supply in Inflation, Business Cycle, 
+Features and Phases of Business Cycle. Nature and Scope of Business Economics, Role of 
+Business Economist, Multidisciplinary nature of Business Economics. 
+ 
+UNIT – II 
+Demand and Supply Analysis: 
+Elasticity of Demand:  Elasticity, Types of Elasticity, Law of Demand, Measurement and 
+Significance of Elasticity of Demand, Factors affecting Elasticity of D emand, Elasticity of 
+Demand in decision making, Demand Forecasting: Characteristics of Good  Demand 
+Forecasting, Steps in Demand Forecasting, Methods of Demand Forecasting. 
+Supply Analysis: Determinants of Supply, Supply Function & Law of Supply. 
+ 
+UNIT- III 
+Production, Cost, Market Structures & Pricing:  
+Production Analysis: Factors of Production, Production Function, Production Function with 
+one variable input, two variable inputs, Returns to Scale, Different Types of Production 
+Functions. 
+Cost analysis: Types of Costs, Short run and Long run Cost Functions. 
+Market Structures : Nature of Competition, Features of Perfect competition, Monopoly, 
+Oligopoly, and Monopolistic Competition. 
+Pricing: Types of Pricing, Product Life Cycle based Pricing, Break Even Analy sis, and Cost 
+Volume Profit Analysis. 
+  
+
+UNIT - IV 
+Financial Accounting:  Accounting concepts and Conventions, Accounting Equation, 
+Double-Entry system of Accounting, Rules for maintaining Books of Accounts, Journal, 
+Posting to Ledger, Preparation of Trial Balance, Elements of Financial Statements, and 
+Preparation of Final Accounts. 
+ 
+UNIT - V 
+Financial Analysis through Ratios: Concept of Ratio Analysis, Liquidity Ratios, Turnover 
+Ratios, Profitability Ratios, Proprietary Ratios, Solvency, Leverage Ratios (simple problems). 
+Introduction to Fund Flow and Cash Flow Analysis (simple problems). 
+ 
+TEXT BOOKS: 
+1. D. D. Chaturvedi, S. L. Gupta, Business Economics - Theory and Applications, 
+International Book House Pvt. Ltd. 2013. 
+2. Dhanesh K Khatri, Financial Accounting, Tata McGraw Hill, 2011. 
+3. Geethika Ghosh, Piyali Gosh, Purba Roy Choudhury,  Managerial Economics, 2e, 
+Tata McGraw Hill Education Pvt. Ltd. 2012. 
+ 
+REFERENCES: 
+1. Paresh Shah, Financial Accounting for Management 2e, Oxford Press, 2015.  
+2. S. N. Maheshwari, Sunil K Maheshwari, Sharad K Maheshwari, Financial 
+Accounting, 5e, Vikas Publications, 2013. 
+  
+
+CS406ES: COMPUTER ORGANIZATION LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    2 
+ 
+Exercises in Digital Logic Design:  
+1. Implement Logic gates using NAND and NOR gates 
+2. Design a Full adder using gates 
+3. Design and implement the 4:1 MUX, 8:1 MUX using gates /ICs. 
+4. Design and Implement a 3 to 8 decoder using gates 
+5. Design a 4 bit comparator using gates/IC 
+6. Design and Implement a 4 bit shift register using Flip flops 
+7. Design and Implement a Decade counter 
+ 
+Exercises in Micro Processor programming: 
+Write assembly language programs for the following using GNU Assembler. 
+1.  Write assembly language programs to evaluate the expressions: 
+                 i)  a = b + c – d * e 
+                 ii) z = x * y + w – v +u / k 
+a. Considering    8-bit, 16 bit and 32 bit binary numbers as b, c, d, e. 
+b. Considering 2 digit, 4 digit and 8 digit BCD numbers.  
+    Take the input in consecutive memory locations and also Display the resul ts by using 
+“int xx” of 8086. Validate program for the boundary conditions. 
+2.   Write an ALP of 8086 to take N numbers as input. And do the following operations on 
+them. 
+a. Arrange in ascending and descending order. 
+3.   Write an ALP of 8086 to take N numbers as input. And do the following operations on 
+them. 
+ a. Find max and minimum 
+ b. Find average 
+      Considering    8 -bit, 16 bit binary numbers and 2 digit, 4digit and 8 digit BCD numbers. 
+Display the results by using “int xx” of 8086. Validate prog ram for the boundary 
+conditions. 
+4.  Write an ALP of 8086 to take a string of as input (in ‘C’ format)and do the following  
+Operations on it. 
+a. Find the length 
+b. Find it is Palindrome or n. 
+Considering    8 -bit, 16 bit binary numbers and 2 digit, 4digit and 8 digit BCD numbers. 
+Display the results by using “int xx” of 8086. Validate program for the boundary 
+conditions. 
+ 
+5. Write an ALP of 8086 to take a string of as input (in ‘C’ format) and do the following 
+Operations on it. 
+          a. Find whether given string substring or not. 
+
+6. Write an ALP of 8086 to take a string of as input (in ‘C’ format) and do the following  
+Operations on it 
+a. Find the Armstrong number 
+b. Find the Fibonacci series for  n  numbers 
+     Display the results by using “int xx” of 8086. 
+ 
+7.   Write the ALP to implement the above operations as procedures and call from the main 
+procedure. 
+ 
+8.   Write an ALP of 8086 to find the factorial of a given number as a Procedure and call from 
+the main program which display the result. 
+ 
+REFERENCE BOOKS: 
+1. Switching theory and logic design –A. Anand Kumar PHI, 2013 
+2. Advanced microprocessor & Peripherals -A. K. Ray and K. M. Bherchandavi, TMH, 
+2nd edition. 
+3. Switching and Finite Automatic theory -Zvi Kohavi, Niraj K.Jha Cambridge, 3rd 
+edition 
+4. Digital Design –Morris Mano, PHI, 3rd edition 
+5. Microprocessor and Interfacing –Douglas V. Hall, TMGH 2nd edition. 
+
+CS407ES: DATABASE MANAGEMENT SYSTEMS LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    2 
+ 
+Course Objectives: This lab enables the students to practice the concepts learnt in the subject 
+DBMS by developing a database for an example company named “Roadway Travels” whose 
+description is as follows. The student is expected to practice the designing,  developing and 
+querying a database in the context of example database “Roadway travels”. Students are 
+expected to use “Mysql” database.  
+ 
+Course Outcomes: 
+ Ability to design and implement a database schema for given problem. 
+ Apply the normalization techniques for development of application software to 
+realistic problems. 
+ Ability to formulate queries using SQL DML/DDL/DCL commands. 
+ 
+Roadway Travels: "Roadway Travels"  is in business since 1997 with several buses 
+connecting different places in India. Its main office is located in Hyderabad. 
+ 
+The company wants to computerize its operations in the following areas: 
+ Reservations and Ticketing 
+ Cancellations 
+ 
+Reservations & Cancellation: Reservations are directly handled by booking office. 
+Reservations can be made 30 days in advance and tickets issued to passenger.  One 
+Passenger/person can book many tickets (to his/her family).  
+Cancellations are also directly handed at the booking office.  
+ 
+In the process of  computerization of Roadway Travels   you have to design and develop a 
+Database which consists the data of Buses, Passengers, Tickets, and Reservation and 
+cancellation details. You should also develop query’s using SQL to retrieve the data from the 
+database.  
+ 
+The above process involves many steps like 1. Analyzing the problem and identifying the 
+Entities and Relationships, 2. E -R Model   3.  Relational Model   4. Normalization   5. 
+Creating the database 6. Querying.  Students are supposed to work on these steps week wise 
+and finally create a complete “Database System” to Roadway Travels.    Examples are given 
+at every experiment for guidance to students. 
+ 
+Experiment 1: E-R Model 
+Analyze the problem carefully and come up with the entities in it. Identify what data has to be 
+persisted in the database. This contains the entities, attributes etc.  
+
+Identify the primary keys for all the entities. Identify the other keys like candidate keys, 
+partial keys, if any.  
+Example:   
+Entities:   1. BUS 2. Ticket 3. Passenger 
+Relationships:  1. Reservation 2. Cancellation 
+Primary Key Attributes: 1. Ticket ID (Ticket Entity) 2. Passport ID (Passenger Entity) 
+          3. Bus_NO (Bus Entity) 
+Apart from the above mentioned entities you can identify more. The above mentioned are 
+few. 
+Note: The student is required to submit a document by writing the Entities and Keys to the 
+lab teacher. 
+ 
+Experiment 2: Concept design with E-R Model 
+Relate the entities appropriately. Apply cardinalities for each relationship. Identify strong 
+entities and weak entities (if any).  Indicate the type of relationships (total / partial). Try to 
+incorporate generalization, aggregation, specialization etc wherever required. 
+ 
+Example: E-R diagram for bus 
+ 
+ 
+Note: The student is required to submit a document by drawing the E-R Diagram to the lab 
+teacher. 
+ 
+Experiment 3: Relational Model 
+Represent all the entities (Strong, Weak) in tabular fashion. Represent relationships in a 
+tabular fashion. There are different ways of representing relationships as tables based on the 
+cardinality. Represent attributes as columns in tables or as tables based on the requirement. 
+BUS 
+Bus NO Source 
+Destination 
+Age 
+Reserv
+ation 
+Ticket 
+Sex 
+Ticket 
+NO 
+Departu
+re Time 
+Date of 
+Journey 
+Departu
+re Time 
+Source 
+Destinati
+on 
+Departu
+re Time 
+
+Different types of attributes (Composite, Multi -valued, and Deriv ed) have different way of 
+representation. 
+Example: The passenger tables look as below. This is an example. You can add more 
+attributes based on your E-R model. This is not a normalized table. 
+Passenger 
+Name Age  Sex Address       
+Ticket
+_id 
+Passport ID    
+      
+      
+      
+ 
+Note:  The student is required to submit a document by Represent relationships in a tabular 
+fashion to the lab teacher. 
+  
+Experiment 4: Normalization 
+Database normalization is a technique for designing relational database tables to minimize 
+duplication of information and, in so doing, to safeguard the database against certain types of 
+logical or structural problems, namely data anomalies. For example, when multiple instances 
+of a given piece of information occur in a table, the possi bility exists that these instances will 
+not be kept consistent when the data within the table is updated, leading to a loss of data 
+integrity. A table that is sufficiently normalized is less vulnerable to problems of this kind, 
+because its structure reflec ts the basic assumptions for when multiple instances of the same 
+information should be represented by a single instance only. 
+ 
+For the above table in the First normalization we can remove the multi valued attribute 
+Ticket_id and place it  in another table along with the primary key of passenger. 
+ 
+First Normal Form: The above table can be divided into two tables as shown below. 
+Passenger 
+Name Age  Sex Address        Passport ID    
+     
+     
+     
+ 
+ 
+Passport ID           Ticket_id 
+  
+  
+  
+ 
+You can do the second and third normal forms if required.  Any how Normalized tables are 
+given at the end. 
+
+Experiment 5: Installation of Mysql and practicing DDL commands  
+Installation of MySql.  In this week you will learn Creating databases, How to create tables, 
+altering the database, dropping tables and databases if not required. You will also try 
+truncate, rename commands etc. 
+ 
+Example for creation of a normalized “Passenger” table.  
+CREATE TABLE Passenger (    
+    Passport_id     INTEGER   PRIMARY KEY, 
+    Name   VARCHAR (50) Not NULL, 
+    Age     Integer Not NULL, 
+    Sex   Char, 
+    Address VARCHAR (50) Not NULL); 
+ 
+Similarly create all other tables. 
+ 
+Note: Detailed creation of tables is given at the end. 
+ 
+Experiment 6: Practicing DML commands 
+DML commands are used to for managing data within schema objects. Some examples: 
+ SELECT - retrieve data from the a database  
+ INSERT - insert data into a table  
+ UPDATE - updates existing data within a table  
+ DELETE - deletes all records from a table, the space for the records remain  
+ 
+Inserting values into “Bus” table:  
+Insert into Bus values (1234,’hyderabad’, ‘tirupathi’); 
+Insert into Bus values (2345,’hyderabd’,’Banglore’); 
+Insert into Bus values (23,’hyderabd’,’Kolkata’); 
+Insert into Bus values (45,’Tirupathi,’Banglore’); 
+Insert into Bus values (34,’hyderabd’,’Chennai’); 
+ 
+Inserting values into “Passenger” table:  
+Insert into Passenger values (1, 45,’ramesh’, 45,’M’,’abc123’); 
+Insert into Passenger values (2, 78,’geetha’, 36,’F’,’abc124’); 
+Insert into Passenger values (45, 90,’ram’, 30,’M’,’abc12’); 
+Insert into Passenger values (67, 89,’ravi’, 50,’M’,’abc14’); 
+Insert into Passenger values (56, 22,’seetha’, 32,’F’,’abc55’); 
+ 
+Few more Examples of DML commands:  
+Select * from Bus; (selects all the attributes and display) 
+UPDATE BUS SET Bus No = 1 WHERE BUS NO=2; 
+ 
+ 
+ 
+
+Experiment 7: Querying 
+In this week you are going to practice queries (along with sub queries) using ANY, ALL, IN, 
+Exists, NOT EXISTS, UNION, INTERSECT, Constraints etc. 
+ 
+Practice the following Queries: 
+1. Display unique PNR_no of all passengers.  
+2. Display all the names of male passengers.  
+3. Display the ticket numbers and names of all the passengers.  
+4. Find the ticket numbers of the passengers whose name start with ‘r’ and ends with ‘h’.  
+5. Find the names of passengers whose age is between 30 and 45.  
+6. Display all the passengers names beginning with ‘A’  
+7. Display the sorted list of passengers names  
+  
+Experiment 8 and Experiment 9: Querying (continued…)  
+You are going to practice queries using Aggregate functions (COUNT, SUM, AVG, and 
+MAX and MIN), GROUP BY, HAVING and Creation and dropping of Views. 
+1. Write a Query to display the Information present in the Pass enger and cancellation 
+tables. Hint: Use UNION Operator.  
+2. Display the number of days in a week on which the 9W01 bus is available.  
+3. Find number of tickets booked for each PNR_no using GROUP BY CLAUSE. Hint: 
+Use GROUP BY on PNR_No.  
+4. Find the distinct PNR numbers that are present.  
+5. Find the number of tickets booked by a passenger where the number of seats is greater 
+than 1. Hint: Use    GROUP BY, WHERE and HAVING CLAUSES.  
+6. Find the total number of cancelled seats.  
+ 
+Experiment 10: Triggers 
+In this week you are going to work on Triggers. Creation of insert trigger, delete trigger, 
+update trigger. Practice triggers using the above database. 
+Eg: CREATE TRIGGER updcheck BEFORE UPDATE ON passenger 
+       FOR EACH ROW 
+       BEGIN 
+        IF NEW.TickentNO > 60 THEN 
+           SET New.Tickent no = Ticket no; 
+       ELSE 
+       SET New.Ticketno = 0; 
+       END IF; 
+      END; 
+ 
+Experiment 11: Procedures 
+In this session you are going to learn Creation of stored procedure, Execution of procedure 
+and modification of procedure.  Practice procedures using the above database. 
+Eg: CREATE PROCEDURE myProc()  
+BEGIN 
+SELECT COUNT (Tickets) FROM Ticket WHERE age>=40; 
+End; 
+
+Experiment 12: Cursors 
+In this week you need to do the following: Declare a cursor that defines a result set. 
+Open the cursor to establish the result set. Fetch the data into local variables as needed from 
+the cursor, one row at a time. Close the cursor when done 
+ 
+CREATE PROCEDURE myProc(in_customer_id INT) 
+ BEGIN 
+ DECLARE v_id   INT; 
+ DECLARE v_name VARCHAR (30); 
+ DECLARE c1 CURSOR FOR SELECT stdId,stdFirstname FROM students WHERE 
+stdId=in_customer_id; 
+OPEN c1; 
+FETCH c1 into v_id, v_name; 
+Close c1; 
+END; 
+Tables 
+BUS 
+Bus No: Varchar: PK (public key) 
+Source : Varchar 
+Destination : Varchar 
+ 
+Passenger 
+PPNO: Varchar (15)) : PK  
+Name: Varchar (15) 
+Age : int (4) 
+Sex:Char (10) : Male / Female 
+Address: VarChar (20) 
+Passenger_Tickets 
+PPNO: Varchar (15)) : PK  
+Ticket_No: Numeric (9) 
+Reservation 
+PNR_No: Numeric (9) : FK 
+Journey_date : datetime (8) 
+No_of_seats : int (8) 
+Address: Varchar (50) 
+Contact_No: Numeric (9) --> Should not be less than 9 and Should not accept any other 
+character other than Integer 
+Status: Char (2) : Yes / No 
+ 
+Cancellation 
+PNR_No: Numeric(9) : FK 
+Journey_date : datetime(8) 
+No_of_seats : int (8) 
+Address : Varchar (50) 
+
+Contact_No: Numeric (9) --> Should not be less than 9 and Should not accept any other 
+character other than Integer 
+Status: Char (2) : Yes / No 
+ 
+Ticket 
+Ticket_No: Numeric (9): PK 
+Journey_date : datetime(8) 
+Age : int (4) 
+Sex:Char(10) : Male / Female 
+Source : Varchar 
+Destination : Varchar 
+Dep_time : Varchar 
+ 
+REFERENCE BOOKS: 
+1. Introduction to SQL, Rick F. Vander Lans, Pearson education. 
+2. Oracle PL/SQL, B. Rosenzweig and E. Silvestrova, Pearson education. 
+3. SQL & PL/SQL for Oracle 10 g, Black Book, Dr. P. S. Deshpande, Dream Tech. 
+4. Oracle Database 11 g PL/SQL Programming, M. Mc Laughlin, TMH. 
+ 
+
+CS408ES: OPERATING SYSTEMS LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    2 
+Course Objectives: 
+ To write programs in Linux environment using system calls. 
+ To implement the scheduling algorithms. 
+ To implement page replacement algorithms 
+ To implement file allocation methods. 
+ To understand and implement ipc mechanism using named and unnamed pipes. 
+ To develop solutions for synchronization problems using semaphores. 
+ 
+Course Outcomes: 
+ Ability to develop application programs using system calls in Unix. 
+ Ability to implement interprocess communication between two processes. 
+ Ability to design and solve synchronization problems. 
+ Ability to simulate and implement operating system concepts such as scheduling, 
+deadlock management, file management, and memory management. 
+ 
+Use Linux operating system and GNU C compiler. 
+List of Programs: 
+1. Write C programs to simulate the following CPU scheduling algorithms: 
+       a) Round Robin     b) SJF       
+2. Write C programs to simulate the following CPU scheduling algorithms: 
+       a) FCFS         b) Priority 
+3. Write C programs to simulate the following File organization techniques: 
+         a) Single level directory     b) Two level        c) Hierarchical        
+4. Write C programs to simulate the following File allocation methods: 
+         a)Contiguous              b)Linked             c)Indexed 
+5. Write a C program to copy the contents of one file to another using system calls. 
+6. Write a C program to simulate Bankers Algorithm for Dead Lock Avoidance 
+7. Write a C program to simulate Bankers Algorithm for Dead Lock Prevention 
+8. Write C programs to simulate the following page replacement algorithms: 
+           a) FIFO       b) LRU           c) LFU  
+9. Write C programs to simulate the following techniques of memory management: 
+           a) Paging      b) Segmentation 
+10. Write a C program to implement the ls | sort command. (Use unnamed Pipe) 
+11. Write a C program to solve the Dining- Philosopher problem using semaphores. 
+12. Write C programs to implement ipc between two unrelated processes using named pipe. 
+ 
+REFERENCE BOOKS: 
+1. An Introduction to Operating Systems, P.C.P Bhatt, 2nd edition, PHI. 
+2. Unix System Programming Using C++, Terrence Chan, PHI/Pearson. 
+3. Modern Operating Systems, Andrew S Tanenbaum, 3rd Edition, PHI 
+  
+
+MC400HS: GENDER SENSITIZATION LAB 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    0 
+Course Objectives:  
+ To develop students’ sensibility with regard to issues of gender in contemporary 
+India. 
+ To provide a critical perspective on the socialization of men and women. 
+ To introduce students to information about some key biological aspects of genders. 
+ To expose the students to debates on the politics and economics of work. 
+ To help students reflect critically on gender violence. 
+ To expose students to more egalitarian interactions between men and women. 
+ 
+Course Outcomes: 
+ Students will have developed a better understanding of important issues related to 
+gender in contemporary India. 
+ Students will be sensiti zed to basic dimensions of the biological, sociological, 
+psychological and legal aspects of gender. This will be achieved through discussion of 
+materials derived from research, facts, everyday life, literature, and film. 
+ Students will attain a finer grasp of how gender discrimination works in our society 
+and how to counter it. 
+ Students will acquire insight into the gendered division of labour and its relation to 
+politics and economics. 
+ Men and women students and professionals will be better equipped to work  and live 
+together as equals. 
+ Students will develop a sense of appreciation of women in all walks of life. 
+ Through providing accounts of studies and movements as well as the new laws that 
+provide protection and relief to women, the textbook will empower st udents to 
+understand and respond to gender violence. 
+  
+UNIT - I          
+UNDERSTANDING GENDER 
+Gender: Why Should We Study It?  (Towards a World of Equals: Unit -1) 
+Socialization: Making Women, Making Men (Towards a World of Equals: Unit -2) 
+Introduction.  Preparing for Womanhood. Growing up Male. First lessons in Caste. Different 
+Masculinities. 
+ 
+UNIT - II       
+GENDER AND BIOLOGY: 
+ Missing Women: Sex Selection and Its Consequences (Towards a World of Equals: Unit -4) 
+Declining Sex Ratio. Demographic Consequences. 
+Gender Spectrum: Beyond the Binary (Towards a World of Equals: Unit -10) 
+Two or Many?  Struggles with Discrimination. 
+
+UNIT - III      
+GENDER AND LABOUR  
+Housework: the Invisible Labour (Towards a World of Equals: Unit -3) 
+“My Mother doesn’t Work.”  “Share the Load.” 
+Women’s Work: Its Politics and Economics (Towards a World of Equals: Unit -7) 
+Fact and Fiction. Unrecognized and Unaccounted work. Additional Reading: Wages and 
+Conditions of Work. 
+ 
+UNIT-IV  
+ISSUES OF VIOLENCE 
+Sexual Harassment: Say No! (Towards a World of Equals: Unit -6) 
+ Sexual Harassment, not Eve -teasing- Coping with Everyday Harassment - Further Reading: 
+“Chupulu”.  
+Domestic Violence: Speaking Out (Towards a World of Equals: Unit -8) 
+ Is Home a Safe Place? -When Women Unite [Fil m]. Rebuilding Lives.  Additional Reading: 
+New Forums for Justice. 
+Thinking about Sexual Violence (Towards a World of Equals: Unit -11) 
+ Blaming the Victim -“I Fought for my Life….” - Additional Reading: The Caste Face of 
+Violence. 
+ 
+UNIT - V  
+GENDER:  CO - EXISTENCE  
+Just Relationships: Being Together as Equals (Towards a World of Equals: Unit -12) 
+Mary Kom and Onler. Love and Acid just do not Mix. Love Letters. Mothers and Fathers. 
+Additional Reading: Rosa Parks-The Brave Heart. 
+ 
+TEXTBOOK  
+All the five Units in the Textbook , “Towards a World of Equals: A Bilingual Textbook on 
+Gender”  written by A. Suneetha,  Uma Bhrugubanda, Duggirala Vasanta, Rama Melkote, 
+Vasudha Nagaraj, Asma Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu  and 
+published by Telugu Akademi, Hyderabad,Telangana State in the year 2015. 
+ 
+Note: Since it is an Interdisciplinary Course, Resource Persons can be drawn from the fields 
+of English Literature or Sociology or Political Science or any other qualified facul ty who has 
+expertise in this field from engineering departments. 
+ 
+REFERENCE BOOKS: 
+1. Menon, Nivedita. Seeing like a Feminist. New Delhi: Zubaan-Penguin Books, 2012  
+2. Abdulali Sohaila. “I Fought For My Life…and Won .”Available online at: 
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal/ 
+

@@ -1,0 +1,46 @@
+Code No: 117CF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+DESIGN PATTERNS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) “Design patterns solve many of the day -to-day problems faced by the  Object -Oriented-
+designers and in many different ways”. Explain how? 
+b) How the design pattern solves the challenges lying in applying the reus able software ? 
+Explain.          [8+7] 
+ 
+2.a) What is Design pattern? Describe the step by step approach to apply a design pattern             
+effectively.   
+b) In what ways design patterns and frameworks share similarities and in which ways they 
+differ?           [7+8] 
+ 
+3. Explain the following design problems in detail. 
+a) Embellishing the User Interface. 
+b) Spelling Checking and Hyphenation.      [7+8] 
+ 
+4.a) What are creational patterns? Write in detail about Singleton and Prototype patterns.  
+   b) Explain in detail about issues when applying the Factory Method pattern.  [8+7] 
+ 
+5.a) What are the applications of Flyweight Pattern? Explain the structure and participants of 
+Flyweight pattern with suitable example. 
+   b) Differentiate between adapter and bridge design pattern.    [8+7] 
+ 
+6.a) What is the intent and motivation of Proxy pattern? Explain. 
+   b) Explain about the structure and participants of Decorator pattern.   [7+8] 
+ 
+7.a) What are the implementation issues to be considered about Chain of Respons ibility 
+behavioral patterns? Explain. 
+   b) Discuss about the structure and participants of Interpreter pattern.   [8+7] 
+ 
+8.a) Describe about Intent, applicability and sample code of strategy pattern. 
+  b) Explain about visitor pattern in detail.      [8+7]  
+ 
+ 
+---oo0oo--- 
+R13 
+JNTUH Used Papers
+

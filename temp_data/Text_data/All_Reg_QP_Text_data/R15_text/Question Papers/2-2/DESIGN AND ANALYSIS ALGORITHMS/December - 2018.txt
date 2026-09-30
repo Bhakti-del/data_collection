@@ -1,0 +1,103 @@
+ 
+ 
+Code No: 124CB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, December - 2018 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+(Computer Science and Engineering) 
+Time: 3 Hours                          Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.                                   
+ Part B consists of 5 Units. Answer any one full question from each unit. Each question 
+ carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Write the recurrence relation for divide and conquer.    [2]  
+   b) List out the drawbacks of merge sort algorithm.     [3] 
+   c) Describe and/or graph.          [2] 
+   d) Explain briefly game trees.        [3] 
+   e) List the applications of Dynamic programming.     [2]  
+   f) Define feasible solution, optimal solution and objective function.   [3]  
+   g) Differentiate live node and dead node.        [2]  
+   h) Define solution state and answer state.      [3]  
+   i) What is decision problem?        [2] 
+   j) Define class NP.         [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) Define algorithm. Write about algorithm design techniques. 
+   b) Describe Strassen’s matrix multiplication. Perform the multi plication operation on 
+ following two matrices using Strasen’s technique.     [5+5] 
+  
+3 5 2 7
+4 6 8 3
+            
+OR 
+3.a) What is amortized analysis? Explain in detail about techniques used in amortized analysis 
+ with help of dynamic array example. 
+   b) Show how quick sort sorts the following sequences of keys 65, 70, 75, 80, 85, 60, 55, 50, 
+ 45 solve the recurrence relation of quick sort using substitution method.  [5+5] 
+ 
+4.a) Write the pseudo codes for various operations used by disjoint set. 
+   b) Define articulation point. Write the algorithm to find articulation point.  [5+5] 
+OR 
+5.a) Explain the graph traversal method with help of following graph shown in figure 1. 
+                                              
+  
+Figure: 1 
+    b)  Write and explain the FIND algorithm for collapse rule with example.  [5+5] 
+ 
+ 
+R15 
+JNTUH USED 15-12-2018AM
+
+ 
+ 
+ 
+6.a) A thief enters a house for robbing thief can carry a maximum weight of 6kg into his bag. 
+ There are 3 items in the house with weights (w 1, w2, w3) = (2, 3, 4) and profits                    
+ (p1, p2, p3) = (1, 2, 5) what items should thief can t ake will get the maximum profit ? He 
+ either takes or leaves the item. 
+b) Describe in detail job sequencing with deadlines problem. Let n= 4, (P1, P2, P3) =  (100, 
+10, 15, 27) and (d1, d2, d3, d4) = (2, 1, 2, 1) find the optimal solution.  [5+5] 
+OR 
+7. Explain prim’s and krushkal’s algorithm shown in figure 2 with the following example. 
+            [10] 
+ 
+Figure: 2 
+ 
+8. What is n-queen problem? Describe 4-queen problem using back tracking.  [10] 
+OR 
+9. Find t he minimum cost of Tour (TSP) for the following adjacency  matrix shown in       
+figure 3 using Branch  and Bound.       [10] 
+ 
+     Figure 3 
+ 
+0 10 15 20
+5 0 9 10
+6 13 0 12
+8 8 9 0
+
+
+
+
+
+ 
+ 
+  
+  
+10.a) Write the Non deterministic algorithm for sorting. 
+     b) Explain CNF-SAT Problem.        [5+5] 
+OR 
+11.a) Explain about cook’s theorem. 
+     b) Explain the P, NP-Hard and NP-complete classes? Give the relation between them. 
+            [5+5]  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+JNTUH USED 15-12-2018AM
+

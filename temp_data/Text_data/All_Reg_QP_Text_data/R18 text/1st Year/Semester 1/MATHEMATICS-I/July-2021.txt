@@ -1,0 +1,115 @@
+Code No: 151AA      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year I Semester Examinations, July - 2021 
+MATHEMATICS-I 
+(Common to EEE, CSE, IT, CSIT, ITE, CE(SE), CSE(CS), CSE(DS), CSE(Networks)) 
+Time: 3 Hours                                               Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Find the inverse of the matrix 
+1 3 3 1
+1 1 1 0
+2 5 2 3
+1 1 0 1
+A
+  
+   
+  using Gauss-Jordan method. 
+   b) Find whether the following equations are consistent if so solve them 
+    
+2 9, 2 6, 2 3x y z x y z x y z               [7+8] 
+2.  Find the Eigen values and Eigen vectors of the matrix 
+8 6 2
+6 7 4
+2 4 3
+A
+
+  
+    [15] 
+ 
+3. Find the matrix P which transforms 
+1 1 3
+1 5 1
+3 1 1
+A
+
+ 
+  into diagonal form. Hence calculate 
+ 
+4A .           [15] 
+    
+4.a)  Examine the convergence of the series 
+2
+( 1)( 2)nn
+nn
+
+  
+   b)  Test for the convergence of the series 
+2 3 12 6 14 2 21 ... ... ( 0)5 9 17 2 1
+n
+n
+nx x x x x          
+            [7+8] 
+5.a)  Discuss the nature of the series 
+1
+( 1) nn
+n
+nx
+x 
+
+  
+   b)  Verify whether the series 
+2 3 4
+2 3 4 ... (0 1)1 1 1 1
+x x x x xx x x x
+           is absolutely  
+ convergent or conditionally convergent.      [7+8] 
+ 
+6.a)  Expand 
+sin xe  by Maclaurin’s series 
+   b) Prove that 
+( 1, ) ( , 1) ( , )m n m n m n      .     [7+8] 
+ 
+ 
+ 
+ 
+R18 
+ 
+JNTUH USed JUL/Aug-21
+JNTUH Used Jul/Aug-21
+
+7.a)  If 𝑢 = 𝑥2 − 2𝑦,𝑣 = 𝑥 + 𝑦 + 𝑧.𝑤 = 𝑥 − 2𝑦 + 3𝑧 then find 
+( , , )
+( , , )
+u v w
+x y z
+
+  . 
+   b)  If 𝑓 𝑥,𝑦 = 𝑙𝑛 𝑥2 + 𝑦2 + 𝑡𝑎𝑛−1  
+𝑦
+𝑥  then prove that    
+𝜕2𝑓
+𝜕𝑥 2 +
+𝜕2𝑓
+𝜕𝑦 2 = 0. [7+8] 
+ 
+8.a) A rectangular box open at the top is to have volume of 32 cubic ft. Find the dimensions         
+ of the box requiring least material for its construction. 
+   b) If 𝑢 =  
+𝑥+𝑦
+1−𝑥𝑦 and 𝜃 = tan−1 𝑥 + tan−1 𝑦, then find 
+𝜕 𝑢,𝜃 
+𝜕 𝑥,𝑦 . Hence prove that u and θ        
+ are functionally dependent. Also find the relation between them.   [7+8] 
+ 
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USed JUL/Aug-21
+JNTUH Used Jul/Aug-21
+

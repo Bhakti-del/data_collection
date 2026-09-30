@@ -1,0 +1,53 @@
+Code No: 158DB       
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+BASICS OF VIRTUAL INSTRUMENTATION 
+(Common to CSE, IT) 
+Time: 3 Hours              Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the historical perspective and evolution of virtual instrument s and draw the block 
+diagram of a virtual instrument and describe the functions of each block. 
+b)  Explain the programming languages used in development of VIs and describe the Lab view 
+and its features.         [8+7] 
+ 
+2.a) Explain the graphical programming in data flow and compare its operational  performance 
+with conventional data flow programming. 
+   b)  Compare and contrast the virtual instruments with traditional instruments.  [8+7] 
+  
+3. Explain the following programming techniques in VI 
+a) VIs and sub-VIs 
+b) Case and sequence structures 
+c) Instrument drivers.                [5+5+5] 
+ 
+4.  Describe the following programming methods for creating 
+       a) FOR and WHILE loops 
+       b) Graphs and Arrays 
+       c)  Formula nodes.                [5+5+5] 
+ 
+5.  Describe the following Interface standards with neat sketches 
+      a) GPIB 
+      b) USB 2.0 
+      c) PCMCIA and VXI.                [5+5+5] 
+ 
+6.a) Draw the block diagram of data acquisition hardware diagram and explain about 
+Multiplexers, Sample and Hold and data converters used in it. 
+   b)  Explain in detail about ethernet control of PXI, VISA and IVI with neat sketches. [8+7] 
+ 
+7. Explain in detail about the following applications of Virtual instrumentation 
+a) Instrument control using RS232C and IEEE488 
+b) Development of Real-time systems and embedded systems.   [8+7] 
+ 
+8.a) Illustrate the steps involved in the development of  Lab VIEW-based motion control system 
+with the flow chart and a neat schematic diagram. 
+   b) Explain various VI tool sets used in development of VI based systems.  [8+7] 
+ 
+ 
+                    --oo0oo-- 
+ 
+R18 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

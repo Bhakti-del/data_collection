@@ -1,0 +1,73 @@
+Code No: 136FT   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+PRINCIPLES OF COMPUTER COMMUNICATIONS AND NETWORKS 
+(Common to CE, EEE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Write a brief note on types of Computer Networks.     [2] 
+   b)      Discuss briefly about Network Standards.      [3] 
+   c)      List out various OSI Layers.        [2] 
+   d)      What is Analog Communication?       [3] 
+   e)      Write a brief note on SONET.       [2] 
+   f)      What is a T-Carrier System?        [3] 
+   g)      Write a short note on Radio Waves.       [2] 
+   h)      Discuss briefly about Infrared signals.      [3] 
+   i)       Write a short note on Routers.       [2] 
+   j)       Explain briefly about PC Cards.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Write a brief note on Computer Communications and Networking. 
+   b)  Discuss about Network Addressing.       [5+5] 
+OR 
+3.a)  Explain briefly about Interoperability and Security features. 
+   b)  What is Routing? Give an overview of routing techniques.    [5+5] 
+  
+4.a)  Write a short note on speed and capacity of a Communication Channel. 
+   b)  Discuss in detail about Computer Applications and application protocols.  [5+5] 
+OR 
+5.a)  Discuss briefly about Multiplexing. 
+   b)  Write a brief note on Digital Communications.     [5+5] 
+ 
+6.  Write a detailed note on steps involved in converting Analog Data to Analog Signals 
+and Digital Data to Analog Signals.           [10] 
+OR 
+7.  Explain in detail about Data Rate and Bandwidth Reduction.     [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+ 
+ 
+8.  Write a detailed note on Copper Media and its contents.         [10] 
+OR 
+9.a)  List out the types of Satellites and their advantages and disadvantages. 
+   b)  Discuss in detail about Data Link Layer.      [5+5] 
+ 
+10.a)  Explain in detail about Connectors and repeaters. 
+     b)  Discuss in detail about Bridges.       [6+4] 
+OR 
+11.a)  Explain in detail about Transreceivers and media convertors. 
+     b)  Discuss about Switches in detail.       [6+4] 
+  
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

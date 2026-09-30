@@ -1,0 +1,44 @@
+Code No: 156DR 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ B. Tech III Year II Semester Examinations, February/March - 2022 
+FUNDAMENTALS OF INTERNET OF THINGS 
+(Common to CE, EEE, ME, CSE, EIE, IT, MCT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Discuss the characteristics of IoT. 
+   b)  Explain how important are communication protocols when it comes to IoT?        [5+10] 
+ 
+2.a)  What is IoT? Explain evolutionary phases of the Internet. 
+   b) Which protocol is used to link all the devices in the IoT? Explain in detail.          [5+10] 
+ 
+3.a)  Explain M2M service layer standardization. 
+b)  Explain clearly, the procedure to interface an analog  sensor with Arduino 
+programming.          [8+7] 
+ 
+4.a)  What are the distributions supported by Raspberry Pi? 
+   b)  Write a Python program on Raspberry Pi to blink an LED.    [7+8] 
+ 
+5.a)  There are two models of Raspberry Pi, A and B. Which model is suitable for IoT 
+applications? Justify your answer with necessary technical details by comparing the 
+above two models.  
+   b) How SDN can be used for various levels of IoT?     [7+8] 
+ 
+6.a)  Describe different Cloud Service Models.  
+   b)  Explain Data visualization and its importance in IoT.    [7+8] 
+ 
+7.a)  Discuss the role of Data Analytics in Internet of Things (IoT). 
+b)  Construct the Design of Smart home with Raspberry Pi and other hardwa re devices 
+with neat sketch.         [7+8] 
+ 
+8.a)  With a neat diagram, explain how actuators and sensors interact with physical world. 
+Classify actuators based on energy type. 
+   b)  Explain Smart city security architecture.       [7+8] 
+ 
+ 
+ 
+---ooOoo--- 
+R18 used paper feb/mar-2022 jntuh
+

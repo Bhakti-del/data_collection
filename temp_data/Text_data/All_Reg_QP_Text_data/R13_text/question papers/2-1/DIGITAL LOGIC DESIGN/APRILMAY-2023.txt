@@ -1,0 +1,84 @@
+Code No: 113BS 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, April/May - 2023 
+ DIGITAL LOGIC DESIGN 
+(Computer Science and Engineering) 
+Time: 3 Hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      Define duality property.        [2] 
+   b)      Convert the following numbers  
+i) (250.5)10 = ( )2  ii) ) (673.23)10 = ( )8  iii) (101110.01)2=( )8   [3] 
+   c)      What are prime implicants and essential prime implicants?    [2] 
+   d)      Implement the following function using only NOR Gates. 
+  𝐹 = 𝐴(𝐵 + 𝐶) + (𝐵. 𝐶)       [3] 
+   e)      Why does a serial adder require only one full adder?     [2] 
+   f)      Can a multiplexer be used to realize a logic function? If yes in what way, it is better than 
+the realization using gates.        [3] 
+   g)     What is a ripple counter        [2] 
+   h)     What is a sequential circuit? Give the classification of sequential circuit.  [3] 
+   i)       What is cache memory?        [2] 
+   j)       Differentiate Static RAM and Dynamic RAM.     [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Realize AND, OR and EXOR gates using NAND gates. 
+   b) State and explain the DeMorgan’s Theorem and Consensus Theorem.  [6+4] 
+OR 
+3.a) What is the use of complements? Perform subtraction using 7’s complement for the given 
+Base-7 numbers (565)-(666).    
+   b) Simplify A(B+C)+AB+ABC.        [5+5] 
+ 
+4.a) Simplify the Boolean expression using K-map and implement using NAND gates 
+ F(A,B,C,D) = ∑m(0,2,3,8,10,11,12,14). 
+   b) Derive and Implement Exclusive OR function involving three variables using only 
+NAND function.         [5+5] 
+OR 
+5.a)  Obtain the simplified expression in product of sums.     
+  F(A,B,C,D) = π(0,1,2,3,4,10,11)   
+   b) Obtain the SOP expression for the function given below     
+ F(A,B,C,D) = ∑m(0,1,2,5,8,9,10).       [5+5]
+  
+ 
+ 
+ 
+ R13 
+JNTUH Used papers 2023
+
+ 
+6.a)  Draw and explain the logic diagram of an excess -3 to decimal decoder with active high 
+inputs and outputs. 
+   b)  Realize the logic expression 𝑓 = Σ𝑚(0,1,3,5,8,11,12,14,15).   [5+5] 
+OR 
+7.a) Implement a full subtractor using 3-line to 8-line decoder. 
+   b) With the help of logic diagram and truth table, explain octal to binary encoder. [5+5] 
+  
+8.a) What is race around condition? Explain in detail how to eliminate race around condition. 
+   b)  With a neat diagram explain the operation of a 10-bit ring counter.   [5+5] 
+OR 
+9.a) Describe the conversion of SR-Flip-Flop to JK-Flip-Flop.      
+   b)  With a neat diagram, explain the operation of Asynchronous Up/Down counter. [4+6] 
+  
+10.a) Construct the PROM using the conversion from BCD code to Excess-3 code? 
+     b)  Implement the following functions using PLA.  
+A(x,y,z) = ∑m(1,2,4,6)  
+B(x,y,z) = ∑m(0,1,6,7)  
+C(x,y,z) = ∑m(2,6)       [5+5] 
+OR 
+11.a) Describe about the memory Hierarchy in terms of capacity and access time. 
+     b)  Compare different types of ROMs.       [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

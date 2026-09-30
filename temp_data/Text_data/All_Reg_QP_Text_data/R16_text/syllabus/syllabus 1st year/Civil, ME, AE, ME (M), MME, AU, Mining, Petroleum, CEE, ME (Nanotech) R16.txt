@@ -1,0 +1,756 @@
+w. e. f. AY 2016-17 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.TECH. I Year COURSE STRUCTURE (2016-17) 
+(Common for Civil, ME, AE, ME (M), MME, AU, Mining, Petroleum, CEE, ME (Nanotech)) 
+I YEAR II SEMESTER 
+S. No Course 
+Code Course Title L T P Credits 
+1 AP201BS Applied Physics 3 0 0 3 
+2 CH202BS Engineering Chemistry 4 0 0 4 
+3 MA203BS Mathematics-III 4 1 0 4 
+4 EN204HS Professional Communication in English 3 0 0 3 
+5 EE205ES Basic Electrical & Electronics Engineering 4 0 0 4 
+6 CH206BS Engineering Chemistry Lab 0 0 3 2 
+7 EN207HS English Language Communication Skills Lab 0 0 3 2 
+8 ME208ES Engineering Workshop 0 0 3 2 
+9 *EA209MC NCC/NSO 0 0 0 0 
+Total Credits 18 1 9 24 
+*Mandatory Course 
+
+AP201BS: APPLIED PHYSICS 
+ 
+B.Tech. I Year II Sem.          L  T/P/D   C 
+                                                                                                        3   0/0/0     3 
+Course Objectives: 
+ To understand the elastic behavior of materials.  
+ To understand basic principles of acoustics and architecture of buildings.   
+ To study production and applications of ultrasonics. 
+ To understand magnetic, dielectric and superconducting properties. 
+ 
+Course Outcomes:  after completion of this course the student is able to  
+ Realize the importance of elastic behavior of materials. 
+ Learn Sabine’s formula for reverberation time and apply in architecture of buildings.  
+ Learn various methods of producing ultrasonics and their uses.  
+ Learn magnetic, dielectric and superconducting properties of materials and their 
+applications.   
+ 
+UNIT - I  
+Elastic properties:  stress and strain, Hooke’s law, elastic behavior of a material, factors 
+affecting elasticity, three modulii of elasticit y, work done for unit volume in deforming a body, 
+relation between three modulii of elasticity, determination of rigidity modulus – torsional 
+pendulum.  
+ 
+UNIT - II  
+Acoustics of buildings and acoustic quieting:  Introduction, basic requirement for the 
+acoustically good halls, reverberation and time of reverberation, transmission of sound and 
+transmission loss, factors affecting the architectural acoustics and their remedy, sound absorbing 
+materials, sabine formulae, absorption coefficients, stadium seating, movie theater, acoustic 
+quieting,    
+ 
+UNIT - III  
+Ultrasonics: Introduction, production of ultrasonic waves, magnetostriction method, piezo 
+electric method, detection of ultrasonic waves, properties of ultrasonic waves, use of ultrasonics 
+for nondestructive testing, applications of ultrasonics.  
+ 
+UNIT - IV  
+Dielectric Properties: Electric dipole, dipole moment, dielectric constant, polarizability, electric 
+susceptibility, displacement vector, electronic, ionic and orientation polarizations and calculation  
+of their polarizabilitites, internal field, Clausius -Mossotti relation, Piezoelectricity, 
+pyroelectricity and ferroelectricity-BaTiO3 structure. 
+ 
+UNIT - V  
+Magnetic Properties: Permeability, field intensity, magnetic field induction, magnetization, 
+magnetic susceptibility, origin of magnetic moment, Bohr magneton, classification of dia, para 
+
+and ferro magnetic materials on the basis of magnetic moment, hysteresis curve based on domain 
+theory, soft and hard magnetic materials, properties of anti-ferro and ferri magnetic materials.  
+Superconductivity: Superconductivity phenomenon, Meissner effect, applications of 
+superconductivity.  
+     
+Text books: 
+1. Solid State Physics, A. J. Dekkar, MacMillan publishers 
+2. Fundamentals of Physics, Alan Giambattisa, BM Richardson and Robert C Richardson, 
+Tata McGraw hill Publishers 
+3. Fundamentals of Acoustics, Kinster and Frey, John Wiley and Sons. 
+ 
+Reference Books: 
+1. Solid state physics, Charles Kittel, Wiley student edition 
+2. University Physics, Francis W. Sears, Hugh D. Young, Marle Zeemansky and Roger A 
+Freedman, Pearson Education. 
+3. Introduction to Magnetic Materials, B.D. Cullity, C.D.Graham, A John Wiley & Sons, 
+Inc., Publication.  
+4. Elastic and Inelastic Stress Analysis, Irving H. Shames, Francis A. Cozzarelli, Taylor, & 
+Francis Group. 
+  
+
+CH102BS/CH202BS: ENGINEERING CHEMISTRY 
+ 
+B.Tech. I Year II Sem.                           L  T/P/D   C 
+                                                                                                                             4   0/0/0     4 
+ 
+Course Objectives:  
+ To bring adaptability to new developments in Engineering Chemistry and to acquire 
+the skills required to become a perfect engineer. 
+ To include the importance of water in industrial usage, significance of corrosion 
+control to protect the structures, polymers and their controlled usage. 
+ To acquire knowledge of engineering materials and about fuels and batteries. 
+ To acquire required knowledge about engineering materials like cement, refractories 
+and composites.. 
+ 
+Course Outcomes:  
+ Students will gain the  basic knowledge of electrochemical procedures related to 
+corrosion and its control.   
+ They can understand the basic properties of water and its usage in domestic and 
+industrial purposes.  
+ They learn the use of fundamental principles to make predictions ab out the general 
+properties of materials.  
+ They can predict potential applications of chemistry and practical utility in order to 
+become good engineers and entrepreneurs 
+ 
+UNIT - I  
+Water and its treatment:  Introduction – hardness of water – causes of hardness – types of 
+hardness: temporary and permanent – expression and units of hardness – Estimation of 
+hardness of water by complexometric method. Numerical problems. Potable water and its 
+specifications- Steps involved in the treatment of potable water - Disinfection of potable 
+water by chlorination and Ozonization. Defluoridation – Nalgonda technique - Determination 
+of F- ion by ion- selective electrode method.  
+Boiler troubles: sludges, scales, and Caustic embrittlement. Internal treatment of Boiler feed 
+water – Calgon conditioning – Phosphate conditioning - Colloidal conditioning – Softening 
+of water by ion -exchange processes. Desalination of water – Reverse osmosis. Numerical 
+problems – Sewage water - Steps involved in treatment of sewage. 
+ 
+UNIT - II       
+Electrochemistry: Electrode- electrode potential, standard electrode potential, types of 
+electrodes – Construction and functioning of Standard hydrogen electrode, calomel and glass 
+electrode. Nernst equation - electrochemical series and its applications. Electrochemical cells: 
+Daniel cell – cell notation, cell reaction, and cell emf -– Concept of concentration cells – 
+Electrolyte concentration cell –Numerical problems. 
+
+Batteries: Cell and battery - Primary battery (dry cell, alkaline cell and Lithium cell) and 
+Secondary battery (lead acid, Ni-Cd and lithium ion cell), Fuel cells: Hydrogen –oxygen and 
+methanol-oxygen fuel cells – Applications. 
+  
+UNIT – III 
+Polymers:  Definition – Classification of polymers with examples – Types of polymerization 
+– addition (free radical addition) and condensation polymerization with examples. 
+Plastics:  Definition and characteristics - thermoplastic and thermosetting plastics, 
+compounding, and fabrication of plastics (compress ion and injection moulding). Preparation, 
+Properties, and engineering applications of PVC and Bakelite.  
+Fibers: Characteristics of fibers – preparation, properties and applications of Nylon -6,6 and 
+Dacron. Fiber reinforced plastics (FRP) – Applications.  
+Rubbers: Natural rubber and its vulcanization - compounding of rubber. 
+Elastomers: Characteristics –preparation – properties and applications of Buna -S, Butyl   
+and Thiokol rubber. 
+Conducting polymers:   Characteristics and   Classification with examples -mechanism of 
+conduction in trans-polyacetylene and applications of conducting polymers.  
+Biodegradable polymers: Concept and advantages - Polylactic acid and poly vinyl alcohol 
+and their applications. 
+ 
+UNIT - IV  
+Fuels & Combustion:  Classification- solid fuels: coal – analysis of coal – proximate and 
+ultimate analysis and their significance. Liquid fuels – petroleum and its refining, cracking – 
+types – moving bed catalytic cracking. Knocking – octane and cetane rating, synthetic petrol - 
+Fischer-Tropsch’s process; Gaseous fuels – composition and uses of natural gas, LPG and 
+CNG. Combustion: Definition, Calorific value of fuel – HCV, LCV; Calculation of air 
+quantity required for combustion of a fuel. 
+         
+UNIT - V   
+Cement: Portland cement, its composition, setting and hardening of Portland cement.  
+Special cements:  White cement, water proof cement, High alumina cement, and Acid 
+resistant cement. 
+Refractories: Classification, characteristics of good refractories, Refractoriness, 
+refractoriness under load, porosity, and chemical inertness – applications of refractories. 
+ Lubricants: Classification of lubricants with examples -characteristics of a good lubricants - 
+mechanism of lubrication (thick film, t hin film and extreme pressure) - properties of 
+lubricants: viscosity, cloud point, pour point, flash point and fire point. 
+Composites: Introduction- Constituents of composites – advantages, classification and 
+constituents of composites. Applications of composites. 
+ 
+Text books: 
+1. Engineering Chemistry by P.C. Jain & M. Jain, Dhanpatrai Publishing Company, 
+New Delhi (2010) 
+
+2. Engineering Chemistry by Rama Devi, Venkata Ramana Reddy and Rath, Cengage 
+learning, New Delhi. (2016) 
+ 
+  Reference Books: 
+1. Engineering Chemis try by Shashi Chawla,  Dhanpatrai & Company (P) Ltd. Delhi 
+(2011) 
+2. Engineering Chemistry by Shikha Agarwal, Cambridge University Press, Delhi 
+(2015) 
+3. Engineering Chemistry by Thirumala Chary and Laxminarayana, Scitech Publishers, 
+Chennai (2016). 
+   
+
+MA203BS: Mathematics - III 
+(Statistical and Numerical Methods) 
+ 
+B.Tech. I Year II Sem.               L   T/P/D   C 
+                                                                                                             4     1/0/0    4 
+Prerequisites: Foundation course (No prerequisites). 
+ 
+Course Objectives: To learn  
+ random variables that describe randomness or an uncertainty in certain realistic 
+situation  
+ binomial geometric and normal distributions 
+ sampling distribution of mean, variance, point estimation and interval estimation 
+ the testing of hypothesis and ANOVA  
+ the topics those deals with methods to find roots of an equation  
+ to fit a desired curve by the method of least squares for the given data 
+ solving ordinary differential equations using numerical techniques 
+ 
+Course Outcomes: After learning the contents of this course the student must be able to  
+ differentiate among random variables involved in the probability models which are 
+useful for all branches of engineering 
+ calculate mean, proportions and variances of sampling distributions and to make 
+important decisions s for few samples which are taken from  a large data 
+ solve the tests of ANOVA for classified data 
+ find the root of a given equation and solution of a system of equations 
+ fit a curve for a given data 
+ find the numerical solutions for a given first order initial value problem 
+ 
+UNIT – I 
+Random variables and Distributions: 
+Introduction, Random variables, Discrete random variable, Continuous random variable, 
+Probability distribution functio n, Probability density function, Expectation, Moment 
+generating function, Moments, and properties. 
+Discrete distributions: Binomial and geometric distributions. Continuous distribution: Normal 
+distributions. 
+ 
+UNIT – II 
+Sampling Theory: Introduction, Population and samples, Sampling distribution of means ( 
+Known)-Central limit theorem, t -distribution, Sampling distribution of means (  unknown)- 
+Sampling distribution of variances –  
+2 and F - distributions, Point estimation, Maximum 
+error of estimate, Interval estimation. 
+ 
+UNIT – III 
+Tests of Hypothesis: Introduction, Hypothesis, Null and Alternative Hypothesis, Type I and 
+Type II errors, Level of significance, One tail and two -tail tests, Tests concerning one mean 
+
+and proportion, two means-proportions and their differences-ANOVA for one-way classified 
+data. 
+ 
+UNIT – IV 
+Algebraic and Transcendental Equations & Curve Fitting: Introduction, Bisection 
+Method, Method of False position, Iteration methods: fixed point iteration and Newton 
+Raphson methods. Solving linear system of equations by Gauss -Jacobi and Gaus s-Seidal 
+Methods. 
+Curve Fitting: Fitting a linear, second degree, exponential, power curve by method of least 
+squares. 
+ 
+UNIT – V 
+Numerical Integration and solution of Ordinary Differential equations: Trapezoidal rule- 
+Simpson’s 1/3rd and 3/8th rule- Solution of ordinary differential equations by Taylor’s series, 
+Picard’s method of successive approximations, Euler’s method, Runge-Kutta method (second 
+and fourth order) 
+ 
+Text Books:  
+1. Probability and Statistics for Engineers by Richard Arnold Johns on, Irwin Miller and 
+John E. Freund, New Delhi, Prentice Hall. 
+2. Probability and Statistics for Engineers and Sciences by Jay L. Devore, Cengage 
+Learning. 
+3. Numerical Methods for Scientific and Engineering Computation by M. K. Jain, S. R. 
+K. Iyengar and R. K. Jain, New Age International Publishers 
+ 
+References: 
+1. Fundamentals of Mathematical Statistics by S. C. Guptha & V. K. Kapoor, S. Chand. 
+2. Introductory Methods of Numerical Analysis by S. S. Sastry, PHI Learning Pvt. Ltd. 
+3. Mathematics for engineers and scientists by Alan Jeffrey, 6th edition, CRC press. 
+  
+
+EN104HS/EN204HS: PROFESSIONAL COMMUNICATION IN ENGLISH 
+ 
+B.Tech. I Year II Sem.              L  T/P/D   C 
+                                                                                                                      3    0/0/0   3 
+ 
+INTRODUCTION: 
+In view of the growing importance of English as a tool for global communication and 
+the consequent emphasis on training students to acquire language skills, the syllabus of English 
+has been designed to develop linguistic and communicative competencies of E ngineering 
+students.  
+ 
+In English classes, the focus should be on the skills development in the areas of 
+vocabulary, grammar, reading and writing. For this, the teachers should use the prescribed text 
+for detailed study. The students should be encouraged to read the texts/poems silently leading to 
+reading comprehension. Reading comprehension passages are given for practice in the class. 
+The time should be utilized for working out the exercises given after each excerpt, and also for 
+supplementing the exercis es with authentic materials of a similar kind. For example, from 
+newspaper articles, advertisements, promotional material, etc.  The focus in this syllabus is on 
+skill development, fostering ideas and practice of language skills. 
+ 
+Course Objectives: The course will help students to: 
+ Improve the language proficiency of students in English with an emphasis on 
+Vocabulary, Grammar, Reading and Writing skills. 
+ Equip students to study academic subjects more effectively using the theoretical and 
+Practical components of English syllabus.  
+ Develop study skills and communication skills in formal and informal situations.  
+ 
+Course Outcomes: Students will be able to: 
+ Use English Language effectively in spoken and written forms. 
+ Comprehend the given texts and respond appropriately. 
+ Communicate confidently in formal and informal contexts.  
+ 
+SYLLABUS 
+  
+Reading Skills 
+Objectives 
+1. To develop an awareness in students about the significance of silent reading and 
+comprehension. 
+2. To develop students’ ability to guess meanings of  words from the context and grasp the 
+overall message of the text, draw inferences, etc., by way of: 
+ Skimming and Scanning the text 
+ Intensive and Extensive Reading 
+ Reading for Pleasure 
+ Identifying the topic sentence 
+ Inferring lexical and contextual meaning 
+
+ Recognizing Coherence/Sequencing of Sentences 
+ 
+NOTE: The students will be trained in reading skills using the prescribed texts for detailed 
+study. They will be tested in reading comprehension of different ‘unseen’ passages which may 
+be taken from authentic texts, such as magazines/newspaper articles.  
+ 
+Writing Skills 
+Objectives 
+1. To develop an awareness in the students  about writing as an exact and formal skill 
+2. To create an awareness in students about the components of different forms of writing, 
+beginning with the lower order ones through;   
+ Writing of sentences 
+ Use of appropriate vocabulary 
+ Paragraph writing 
+ Coherence and cohesiveness 
+ Narration / description 
+ Note Making 
+ Formal and informal letter writing 
+ Describing graphs using expressions of comparison 
+ 
+In order to improve the proficiency of the students in the acquisition of language skills 
+mentioned above, the following text and course contents, divided into Five Units, are 
+prescribed: 
+The course content / study material is divided into Five Units. 
+Note: Listening and speaking skills are covered in the syllabus of ELCS Lab. 
+ 
+UNIT – I 
+Chapter entitled ‘ Presidential Address’ by Dr. A.P.J. Kalam  from “Fluency in English – A 
+Course book for Engineering Students”   published by Orient BlackSwan, Hyderabad. 
+ 
+Vocabulary:  Word Formation -- Root Words --The Use of Prefixes and Suffixes – 
+Collocations– Exercises for Practice.  
+Grammar:  Punctuation – Parts of Speech- Articles -Exercises for Practice.  
+Reading: Double Angels by David Scott -Reading and Its Importance - Techniques for 
+Effective Reading- Signal Words- Exercises for Practice 
+Writing: Writing Sentences - Techniques for Effective Writing -- Paragraph Writing - 
+Types, Structure and Features of a Paragraph -Coherence and Cohesiveness: Logical, Lexical 
+and Grammatical Devices - Exercises for Practice 
+ 
+UNIT – II 
+Chapter entitled Satya Nadella: Email to Employees on his First Day as CEO  from “Fluency 
+in English – A Course book for Engineering Students” Published by Orient BlackSwan, 
+Hyderabad. 
+ 
+
+Vocabulary:  Synonyms and Antonyms – Homonyms, Homophones, Homographs - Exercises 
+for Practice (Chapter 17 ‘Technical Communication- Principles and Pract ice’. Third Edition 
+published by Oxford University Press may also be followed.) 
+Grammar:  Verbs-Transitive, Intransitive and Non-finite Verbs – Mood and Tense— Gerund 
+– Words with Appropriate Prepositions – Phrasal Verbs - Exercises for Practice  
+Reading: Sub-skills of Reading - Skimming, Scanning, Extensive Reading and Intensive 
+Reading - The Road Not Taken by Robert Frost -- Exercises for Practice 
+Writing:  Letter Writing –Format, Styles, Parts, Language to be used in Formal Letters - 
+Letter of Apology – Letter of Complaint-Letter of Inquiry with Reply – Letter of Requisition –- 
+Exercises for Practice 
+ 
+UNIT – III 
+From the book entitled  ‘Technical Communication- Principles and Practice’. Third Edition 
+published by Oxford University Press. 
+ 
+Vocabulary:  Introduction- A Brief History of Words – Using the Dictionary and Thesaurus – 
+Changing Words from One Form to Another – Confusables (From Chapter 17 entitled 
+‘Grammar and Vocabulary Development’) 
+Grammar:  Tenses: Present Tense- Past Tense- Future Tense- Active Voice – Passive Voice- 
+Conditional Sentences – Adjective and Degrees of Comparison. (From Chapter 17 entitled 
+‘Grammar and Vocabulary Development’) 
+Reading:  Improving Comprehension Skills – Techniques for Good Comprehension - 
+Skimming and Scanning- Non-verbal Signals – Structure of the Text – Structure of Paragraphs 
+– Punctuation – Author’s viewpoint (Inference) – Reader Anticipation: Determining the 
+Meaning of Words – Summarizing- Typical Reading Comprehension Questions. (From Chapter 
+10 entitled ‘Reading Comprehension’) 
+Writing:  Introduction- Letter Writing -Writing the Cover Letter - Cover Letters 
+Accompanying Resumes - Emails. (From C hapter 15 entitled ‘ Formal Letters, Memos, and 
+Email’) 
+ 
+UNIT – IV   
+Chapter entitled ‘Good Manners’ by J.C. Hill  from Fluency in English – A Course book for 
+Engineering Students” published by Orient Blackswan, Hyderabad. 
+ 
+Vocabulary:  Idiomatic Expressions –One- word Substitutes --- Exercises for Practice (Chapter 
+17 ‘Technical Communication- Principles and Practice’. Third Edition published by Oxford 
+University Press may also be followed.) 
+Grammar: Sequence of Tenses- Concord (Subject in Agreement with the Verb) – Exercises 
+for Practice 
+Reading:  ‘If’ poem by Rudyard Kipling --Tips for Writing a Review --- Author’s 
+Viewpoint – Reader’s Anticipation-- Herein the Students will be required to Read and Submit a 
+Review of a Book (Literary or Non-literary) of their choice – Exercises for Practice. 
+Writing:  Information Transfer -Bar Charts -Flow Charts -Tree Diagrams etc., -- Exercises 
+for Practice. 
+
+                        Introduction - Steps to Effective Precis Writing – Guidelines- Samples (Chapter 
+12 entitled ‘ The Art of Condensation ’ from Technical Communication - Principles and 
+Practice. Third Edition published by Oxford University Press) 
+ 
+UNIT – V 
+Chapter entitled ‘Father Dear Father’ by Raj Kinger  from Fluency in English – A Course 
+book for Engineering Students” Published by Orient BlackSwan, Hyderabad 
+ 
+Vocabulary:  Foreign Words— Words borrowed from other Languages- Exercises for Practice 
+Grammar:  Direct and Indirect Speech- Question Tags- Exercises for Practice 
+Reading:  Predicting the Content - Understanding the Gist – SQ3R Reading Technique - 
+Study Skills – Note Making - Understanding Discourse Coherence – Sequencing Sentences.  
+(From Chapter 10 entitled ‘Reading Comprehension’ - Technical Communication- Principles 
+and Practice. Third Edition published by Oxford University Press.) 
+Writing: Technical Reports - Introduction – Characteristics of a Report – Categories of 
+Reports –Formats- Prewriting – Structure of Reports (Manuscript Fo rmat) - Types of Reports - 
+Writing the Report. (From Chapter 13 entitled  ‘Technical Reports’ - Technical 
+Communication- Principles and Practice. Third Edition published by Oxford University Press.) 
+ 
+ Exercises from both the texts not prescribed shall be used for classroom tasks. 
+ 
+Text Books:  
+1. “Fluency in English – A Course book for Engineering Students” by Board of Editors: 
+Hyderabad: Orient BlackSwan Pvt. Ltd. 2016. Print. 
+2. Raman, Meenakshi & Sharma, Sangeeta . “Technical Communication - Principles and 
+Practice”. Third Edition. New Delhi: Oxford University Press. 2015. Print.  
+ 
+References:  
+1. Green, David. Contemporary English Grammar –Structures and Composition. 
+MacMillan India. 2014 (Print) 
+2. Rizvi, M. Ashraf. Effective Technical Communication . Tata Mc Graw –Hill. 2015 
+(Print). 
+   
+
+EE106ES/EE205ES: BASIC ELECTRICAL AND ELECTRONICS ENGINEERING 
+ 
+B.Tech. I Year II Sem.                   L   T/P/D   C 
+                                                                                                       4    0/0/0     4 
+Pre-requisite: None 
+ 
+Course Objectives:  
+ To introduce the concept of electrical circuits and its components 
+ To introduce the concepts of diodes & transistors, and  
+ To impart the knowledge of various configurations, characteristics and applications.  
+ 
+Course Outcomes: After this course, the student will be able  
+ To analyze and solve electrical circuits using network laws and theorems. 
+ To identify and characterize diodes and various types of transistors. 
+ 
+UNIT - I  
+Basic Concepts of Electrical Circuits and Single Phase AC Circuits 
+Electrical Circuits:  R-L-C Parameters, Voltage and Current, Independent and Dependent 
+Sources, Source Transformation – V-I relationship for p assive elements, Kirchoff’s Laws, 
+Network reduction techniques – series, parallel, series -parallel, star -to-delta, delta -to-star 
+transformation, Nodal Analysis,  
+Single Phase AC Circuits: R.M.S. and Average values, Form Factor, steady state analysis of 
+series, parallel and series -parallel combinations of R, L and C with sinusoidal excitation, 
+concept of reactance, impedance, susceptance and admittance – phase and phase difference, 
+Concept of power factor,  j-notation, complex and polar forms of representation.  
+ 
+UNIT - II  
+Resonance:  Series resonance and Parallel resonance circuits, concept of bandwidth and Q 
+factor, Locus Diagrams for RL, RC and RLC Combinations for Various Parameters. 
+Network Theorems:  Thevenin’s, Norton’s, Maximum Power Transfer, Superpo sition, 
+Reciprocity, Tellegen’s, Millman’s and Compensation theorems for DC and AC excitations. 
+ 
+UNIT - III  
+P-N Junction Diode:  Diode equation, Energy Band diagram, Volt -Ampere characteristics, 
+Temperature dependence, Ideal versus practical, Static and dy namic resistances, Equivalent 
+circuit, Load line analysis, Diffusion and Transition Capacitances. 
+Rectifiers and Filters: P-N junction diode as a rectifier - Half Wave Rectifier, Ripple Factor - 
+Full Wave Rectifier, Bridge Rectifier, Harmonic components in Rectifier Circuits, Filters – 
+Inductor Filters, Capacitor Filters, L- section Filters, π- section Filters. 
+ 
+ UNIT - IV  
+Bipolar Junction Transistor ( BJT): Construction, Principle of Operation, Symbol, 
+Amplifying Action, Common Emitter, Common Base and Common Collector configurations. 
+
+Transistor Biasing And Stabilization - Operating point, DC & AC load lines, Biasing - Fixed 
+Bias, Emitter Feedback Bias, Collector to Emitter feedback bias, Voltage divider bias, Bias 
+stability, Stabilization against variations in V BE and β, Bias Compensation using Diodes and 
+Transistors. 
+Transistor Configurations:  BJT modeling, Hybrid model,  D etermination of h -parameters 
+from transistor characteristics, Analysis of CE, CB and CC configurations using h -parameters,  
+Comparison of CE, CB and CC configurations.  
+ 
+UNIT- V  
+Junction Field Effect Transistor:  Construction, Principle of Operation, Symbo l, Pinch -Off 
+Voltage, Volt -Ampere Characteristic, Comparison of BJT and FET, Small Signal Model, 
+Biasing FET.  
+Special Purpose Devices: Breakdown Mechanisms in Semi -Conductor Diodes, Zener diode 
+characteristics, Use of Zener diode as simple regulator, Prin ciple of operation and 
+Characteristics of Tunnel Diode (With help of Energy band diagram) and Varactor Diode, 
+Principle of Operation of SCR. 
+ 
+Text Books:  
+1. Basic Electrical and electronics Engineering –M S Sukija TK Nagasarkar Oxford 
+University 
+2. Basic Electrical and electronics Engineering -D P Kothari. I J Nagarath  Mc Graw Hill 
+Education 
+ 
+References:  
+1. Electronic Devices and Circuits – R.L. Boylestad and Louis Nashelsky, PEI/PHI, 9 th Ed, 
+2006. 
+2. Millman’s Electronic Devices and Circuits – J. Millman and C. C. Halkias, Satyabratajit, 
+TMH, 2/e, 1998. 
+3. Engineering circuit analysis - by William Hayt and Jack E. Kemmerly, McGraw Hill 
+Company, 6th edition. 
+4. Linear circuit analysis (time domain phasor and Laplace transform approaches) - 2nd 
+edition by Raymond A. DeCarlo and Pen-Min-Lin, Oxford University Press-2004. 
+5. Network Theory by N. C. Jagan & C. Lakshminarayana, B.S. Publications. 
+6. Network Theory by Sudhakar, Shyam Mohan Palli, TMH. 
+   
+
+CH206BS: ENGINEERING CHEMISTRY LAB 
+  
+B.Tech. I Year II Sem.          L  T/P/D  C 
+                                                                                                        0   0/3/0    2 
+LIST OF EXPERIMENTS 
+ 
+Volumetric Analysis: 
+1. Estimation of Ferrous ion by Dichrometry. 
+2. Estimation of hardness of water by Complexometric method using EDTA. 
+3. Estimation of Ferrous and Ferric ions in a given mixture by Dichrometry. 
+4. Estimation Ferrous ion by Permanganometry. 
+5. Estimation of copper by Iodomery. 
+6. Estimation of percentage of purity of MnO2 in pyrolusite 
+7. Determination of percentage of available chlorine in bleaching powder. 
+8. Determination of salt concentration by ion- exchange resin. 
+ 
+Instrumental methods of Analysis: 
+1. Estimation of HCl by Conductometry. 
+2. Estimation of Ferrous ion by Potentiometry. 
+3. Determination of Ferrous iron in cement by Colorimetric method. 
+4. Determination of viscosity of  an oil by Redwood / Oswald’s  Viscometer. 
+5. Estimation of manganese in KMnO4 by Colorimetric method. 
+6. Estimation o f HCl and Acetic acid in a given mixture by Conductometry. 
+7. Estimation of HCl by Potentiometry. 
+ 
+Preparation of Polymers: 
+1. Preparation of Bakelite and urea formaldehyde resin. 
+ 
+Note: All the above experiments must be performed. 
+ 
+Text Books: 
+1. Vogel’s Text Book of Quantitative Chemical Analysis, 5 th Edition (2015) G. H. Jeffery, 
+J. Bassett, J. Mendham and R. C. Denney. 
+2. A Text Book on experiments and calculations in Engineering Chemistry by S.S. Dara    
+S. Chand & Company Ltd., Delhi (2003).  
+
+  
+EN107HS/EN207HS: ENGLISH LANGUAGE COMMUNICATION SKILLS LAB 
+ 
+B.Tech. I Year II Sem.        L   T/P/D   C 
+                                                                                                                  0    0/3/0     2 
+ 
+The English Language Communication Skills (ELCS) Lab  focuses on the production and 
+practice of sounds of language and familiarizes the students with the use of English in everyday 
+situations both in formal and informal contexts.  
+ 
+Course Objectives: 
+ To facilitate computer -assisted multi -media instruction en abling individualized and 
+independent language learning   
+ To sensitize the students to the nuances of English speech sounds, word accent, 
+intonation and rhythm  
+ To bring about a consistent accent and intelligibility in students’ pronunciation of  
+English by providing an opportunity for practice in speaking 
+ To improve the fluency of students in spoken English and neutralize their mother tongue 
+influence 
+ To train students to use language appropriately for public speaking, group discussions 
+and interviews 
+ 
+Course Outcomes: Students will be able to attain: 
+ Better understanding of nuances of English language through audio - visual experience 
+and group activities 
+ Neutralization of accent for intelligibility 
+ Speaking skills with clarity and confidence which in tu rn enhances their employability 
+skills. 
+ 
+Syllabus: English Language Communication Skills Lab (ELCS) shall have two parts: 
+ Computer Assisted Language Learning (CALL) Lab 
+ Interactive Communication Skills (ICS) Lab 
+ 
+Listening Skills: Objectives: 
+ To enable students develop their listening skills so that they may appreciate the role in 
+the LSRW skills approach to language and improve their pronunciation 
+ To equip students with necessary training in listening, so that they can comprehend the 
+speech of people of different backgrounds and regions.  
+ 
+Students should be given practice in listening to the sounds of the language, to be able to 
+recognize them and find the distinction between different sounds, to be able to mark stress and 
+recognize and use the right intonation in sentences. 
+ Listening for general content 
+ Listening to fill up information  
+ Intensive listening 
+ Listening for specific information 
+
+ 
+Speaking Skills: Objectives 
+ To involve students in speaking activities in various contexts 
+ To enable students express themselves fluently and appropriately in social and 
+professional contexts : 
+• Oral practice 
+• Describing objects/situations/people 
+• Role play – Individual/Group activities  
+• Just A Minute (JAM) Sessions. 
+ 
+The following course content is prescribed for the English Language Communication Skills 
+Lab. 
+ 
+Exercise – I  
+CALL Lab:  
+Understand: Listening Skill - Its importance – Purpose- Process- Types- Barriers- Effective 
+Listening. 
+Practice: Introduction to Phonetic s – Speech Sounds – Vowels and Consonants – Minimal 
+Pairs- Consonant Clusters- Past Tense Marker and Plural Marker.    
+Testing Exercises    
+ICS Lab:  
+Understand: Spoken vs. Written language- Formal and Informal English. 
+Practice: Ice-Breaking Activity and JAM Session - Situational Dialogues – Greetings – Taking 
+Leave – Introducing Oneself and Others. 
+ 
+Exercise – II 
+CALL Lab:  
+Understand: Structure of Syllables – Word Stress– Weak Forms and Strong Forms – Sentence 
+Stress – Intonation. 
+Practice: Basic Rules of Word Accent - Stress Shift - Weak Forms and Strong Forms- Sentence 
+Stress – Intonation. 
+Testing Exercises  
+ICS Lab:  
+Understand: Features of Good Conversation – Strategies for Effective Communication.  
+Practice:  Situational Dialogues – Role-Play- Expressions in Various Situations –Making 
+Requests and Seeking Permissions - Telephone Etiquette. 
+ 
+Exercise - III 
+CALL Lab:  
+Understand: Errors in Pronunciation-the Influence of Mother Tongue (MTI).  
+Practice: Common Indian Variants in Pronunciation  – Differences between British and 
+American Pronunciation. 
+Testing Exercises 
+ICS Lab:  
+Understand: Descriptions- Narrations- Giving Directions and Guidelines.  
+
+Practice: Giving Instructions – Seeking Clarifications – Asking for and Giving D irections – 
+Thanking and Responding – Agreeing and Disagreeing – Seeking and Giving Advice – Making 
+Suggestions. 
+ 
+Exercise – IV 
+CALL Lab:  
+Understand: Listening for General Details. 
+Practice: Listening Comprehension Tests. 
+Testing Exercises 
+ICS Lab:  
+Understand: Public Speaking – Exposure to Structured Talks - Non-verbal Communication - 
+Presentation Skills. 
+Practice: Making a Short Speech – Extempore- Making a Presentation.  
+ 
+Exercise – V 
+CALL Lab:  
+Understand: Listening for Specific Details. 
+Practice: Listening Comprehension Tests. 
+Testing Exercises 
+ICS Lab:  
+Understand: Group Discussion- Interview Skills. 
+Practice:  Group Discussion- Mock Interviews. 
+ 
+Minimum Requirement of infrastructural facilities for ELCS Lab: 
+ 
+1. Computer Assisted Language Learning (CALL) Lab:  
+The Computer Assisted Language Learning Lab  has to accommodate 40 students with 40 
+systems, with one Master Console, LAN facility and English language learning software for 
+self- study by students. 
+System Requirement (Hardware component): 
+Computer network with LAN facility (minimum 40 systems with multimedia) with the following 
+specifications: 
+Computers with Suitable Configuration 
+High Fidelity Headphones 
+ 
+2. Interactive Communication Skills (ICS) Lab:  
+The Interactive Communication  Skills Lab: A Spacious room with movable chairs and 
+audio-visual aids with a Public Address System, a T. V. or LCD, a digital stereo –audio & video 
+system and camcorder etc. 
+ 
+ 
+Prescribed Lab Manuals:  
+1. A book entitled “ELCS Lab Manual – A Workbook for CALL and ICS Lab Activities”  
+by Board of Editors: Hyderabad: Orient BlackSwan Pvt. Ltd. 2016. Print. 
+
+2. Hart, Steve; Nair, Aravind R.; Bhambhani, Veena. “EMBARK- English for 
+undergraduates” Delhi: Cambridge University Press. 2016. Print. 
+ 
+Suggested Software: 
+1. Cambridge Advanced Learners’ English Dictionary with CD.  
+2. Grammar Made Easy by Darling Kindersley. 
+3. Punctuation Made Easy by Darling Kindersley. 
+4. Oxford Advanced Learner’s Compass, 8th Edition. 
+5. English in Mind (Series 1 -4), Herber t Puchta and Jeff Stranks with Meredith Levy, 
+Cambridge. 
+6. English Pronunciation in Use (Elementary, Intermediate, Advanced) Cambridge 
+University Press. 
+7. TOEFL & GRE (KAPLAN, AARCO & BARRONS, USA, Cracking GRE by CLIFFS). 
+ 
+References: 
+1. Jayashree Mohanraj. Let Us Hear Them Speak. New Delhi: Sage Texts. 2015. Print. 
+2. Hancock, M. English Pronunciation in Use. Intermediate Cambridge : Cambridge 
+University Press. 2009. Print. 
+   
+
+ME108ES/ME208ES: ENGINEERING WORKSHOP 
+ 
+B.Tech. I Year II Sem.         L  T/P/D   C 
+                                                                                                                  0    0/3/0     2 
+Pre-requisites: Practical skill 
+ 
+Course Objectives: 
+ To Study of different hand operated power tools, uses and their demonstration. 
+ To gain a good basic working knowledge required for the production of various 
+engineering products. 
+ To provide hands on experience about use of different engineering materials, tools, 
+equipments and processes those are common in the engineering field. 
+ To develop a right attitude, team working, precision and safety at work place. 
+ It explains the construction, function, use and application of different working tools, 
+equipment and machines. 
+ To study commonly used carpentry joints. 
+ To have practical exposure to various welding and joining processes. 
+ Identify and use marking out tools, hand tools, measuring equipment and to work to 
+prescribed tolerances. 
+ 
+Course Outcomes: At the end of the course, the student will be able to:  
+ Study and practice on machine tools and their operations  
+ Practice on manufacturing of components using workshop trades including pluming, 
+fitting, carpentry, foundry, house wiring and welding. 
+ Identify and apply suitable tools for different trades of Engi neering processes including 
+drilling, material removing, measuring, chiseling. 
+ Apply basic electrical engineering knowledge for house wiring practice. 
+ 
+1. TRADES FOR EXERCISES: 
+At least two exercises from each trade: 
+ Carpentry 
+ Fitting 
+ Tin-Smithy and Development of jobs carried out and soldering. 
+ Black Smithy 
+ House-wiring 
+ Foundry 
+ Welding 
+ Power tools in construction, wood working, electrical engineering and mechanical  
+ Engineering. 
+ 
+2. TRADES FOR DEMONSTRATION & EXPOSURE: 
+ Plumbing, Machine Shop, Metal Cutting (Water Plasma) 
+Text Books: 
+1. Workshop Practice /B. L. Juneja / Cengage 
+
+2. Workshop Manual / K. Venugopal / Anuradha. 
+ 
+Reference Books: 
+1. Work shop Manual - P. Kannaiah/ K. L. Narayana/ Scitech 
+2. Workshop Manual / Venkat Reddy/ BSP 
+

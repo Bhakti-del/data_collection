@@ -1,0 +1,40 @@
+Code No: 123BP  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, September - 2021 
+DATA STRUCTURES   
+(Common to CSE, IT) 
+Time: 3 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. What is a Doubly -Linked List? What are the operations performed on it and write 
+methods for each operation.        [15] 
+ 
+2. Illustrate the stack operations in C using an array and explain the same for implementing 
+recursive procedures.         [15] 
+ 
+3. What is a Binary Tree? Explain Binary Tree Traversals.    [15]  
+ 
+4. Write an algorithm for Quick Sort and explain with an illustrative example. [15] 
+ 
+5. What are Red-Black Tree? How to construct and insert elements in a Red -Black Tree? 
+Show each step of the Red-Black Tree, built from a sequence of insertions corresponding 
+to the following keys: 44,17,32,78,50,54,62,48,88.     [15] 
+ 
+6. Write the algorithms for dele tion of an element and insertion of elements in a Circular 
+Linked List and explain the procedure of the same.     [15] 
+ 
+7.a) What is a Double ended Queue? State various operations on Circular Queues.  
+   b) Convert to postfix and evaluate the following expression using a stack: 2+3*4+6/2. [7+8] 
+ 
+8. What is a Graph? How is it represented? Explain different Graph Traversals. [15] 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+R15 
+ 
+Used Papers SEP 2021
+

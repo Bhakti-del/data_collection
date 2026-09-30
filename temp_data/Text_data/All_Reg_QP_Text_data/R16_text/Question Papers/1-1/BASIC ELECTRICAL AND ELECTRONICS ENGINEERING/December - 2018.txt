@@ -1,0 +1,114 @@
+ 
+ 
+Code No:131AK              
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, HYDERABAD  
+B.Tech I Year I Semester Examinations, December - 2018 
+BASIC ELECTRICAL AND ELECTRONICS ENGINEERING 
+(Common to EEE, ECE, CSE, EIE, IT, ETM) 
+Time: 3 hours                                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.           
+ Part B consists of 5 Units. Answer any one full question from each unit. Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+1.a) For the circuit shown in figure 1. Find the relation between v1 and v2.  [2] 
+                                                      
+  
+Figure: 1 
+  b) Explain Source transformation with the help of neat diagrams.   [3] 
+  c) Write the statement of Super Position Theorem.     [2] 
+  d) What is Q-Factor and explain its significance?     [3] 
+  e) How does a diode appear as in its forward region of its characteristic? Explain. [2] 
+  f)  How does junction capacitance of a linearly graded junction varies with the applied 
+reverse voltage VR?         [3] 
+  g) Differentiate between the terms hFE and hfe. Write the relationship between them. [2] 
+  h) Draw the h-parameters model of transistor.      [3] 
+  i) Give different regions of operation of JFET.      [2] 
+  j) What is pinch-off voltage? Give its equation.     [3] 
+PART - B 
+(50 Marks) 
+2.a) Find Vo in the circuit, shown in figure 2.       
+                                              
+  
+Figure: 2 
+   b)   Define and give symbols of the following: 
+i) Dependent sources 
+ii) Independent Sources 
+iii) Practical Sources 
+iv) Ideal Souces         [6+4] 
+ 
+ 
+ 
+ 
+R16 
+JNTUH USED 24-12-18PM
+JNTUH USED 24-12-2018PM
+
+ 
+OR 
+3.a)  If Req=50 ohm, in the circuit shown in figure 3 find R?  
+                                       
+  
+Figure: 3 
+   b)  Calculate Vo and Io in the circuit shown in figure 4. 
+                                     
+     [5+5] 
+Figure: 4 
+ 
+4.a) A parallel Resonant circuit has R= 5K, L=8mH, and C= 60μF. Determine: 
+i) Resonant frequency 
+ii) The band width 
+iii) The Quality Factor 
+   b) Solve for ‘i’ using Norton’s Theorem in the circuit shown in figure 5. 
+   [5+5] 
+Figure: 5 
+OR 
+5.a) Find vo using super position theorem in the circuit shown in figure 6. 
+                                               
+  
+Figure: 6 
+    b) Find the Maximum power that can be delivered to R in the circuit shown in figure 7. 
+                                     
+     [5+5] 
+Figure: 7 
+ 
+ 
+ 
+ 
+ 
+JNTUH USED 24-12-18PM
+JNTUH USED 24-12-2018PM
+
+ 
+ 
+ 
+ 
+6.a) Compare C, L, L-Section, 
+ -Section (CLC and CRC ) Filters in all respects. 
+   b) Explain the operation of Half wave Rectifier with the help of neat diagrams. [6+4] 
+OR 
+7.a) Obtain different equivalent Circuits of a PN Junction diode. 
+   b) Explain the VI characteristics of PN Junction diode with neat diagrams and explain . 
+What is Static Resistance and Dynamic Resistance?     [5+5] 
+ 
+8. Draw CE Con figuration with Voltage – divider bias and then analyze 0 0t of Q - point 
+and stability factors.         [10] 
+OR 
+9. Illustrate the input and output characteristics of BJT in three configurations.   [10] 
+ 
+10.a) Compare BJT and JFET devices in all respects.  
+     b) Obtain the expression for the pinch off voltage Vp in case of n-channel JFET. [5+5] 
+OR 
+11. Describe the principle of operation and V -I characteristics with the help of energy band 
+diagrams. Highlight negative resistance region on the V-I characteristics.  [10] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 24-12-18PM
+JNTUH USED 24-12-2018PM
+

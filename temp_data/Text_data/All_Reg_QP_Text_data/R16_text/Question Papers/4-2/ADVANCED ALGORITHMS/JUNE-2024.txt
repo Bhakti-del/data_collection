@@ -1,0 +1,78 @@
+ 
+Code No: 138AC             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+ ADVANCED ALGORITHMS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                                Max. Marks: 75 
+ 
+Note:  i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+  and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define dynamic programming.       [2]  
+   b)      Discuss the role of algorithms in computing.      [3] 
+   c)      Define greedy method.          [2] 
+   d)      Discuss about maximum flow algorithm.      [3] 
+   e) What is linear equation?        [2] 
+   f) Give a brief summary on merging network.      [3] 
+   g) What is the best case of Naive algorithm for pattern searching?   [2]  
+   h)      What is the average and best-case running time of the Rabin-Karp algorithm? [3] 
+   i)       What is non-deterministic algorithm?      [2] 
+   j)       Discuss about vertex cover problem.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. Compute the following sequences of keys in ascending order with quick sort method  
+21,54,34,10,91,70,50,65,53,23,33.       [10] 
+OR 
+3. Give an example to explain in detail matrix chain multiplication using dynamic 
+programming.          [10] 
+  
+4. What is Topological sorting? Illustrate topological sorting with algorithm.  [10] 
+OR 
+5. What is minimum cost spanning tree? Write algorithm for Kruskal’s technique with 
+Illustration.          [10] 
+ 
+6. Discuss in detail bitonic Sorting Networks with an example.   [10] 
+OR 
+7. Explain in detail about the representation of inverting matrices.   [10] 
+ 
+R16 
+Used Papers 2024
+
+ 
+ 
+8. Describe briefly about Knuth-Morris-Pratt algorithm with a suitable example. [10]  
+OR 
+9. Discuss in detail about matching of a string using finite automata. Give example. [10] 
+ 
+10.a) Explain about Polynomial time and polynomial time verification.    
+     b) Distinguish between NP-hard and NP-complete.     [5+5] 
+OR 
+11. Write an approximation algorithm for Travelling Sales person problem and implement for 
+the following graph.          [10] 
+         
+ 
+       
+  
+  
+---ooOoo---  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Used Papers 2024
+

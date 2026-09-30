@@ -1,0 +1,48 @@
+Code No: 113BR  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech II Year I Semester Examinations, October - 2020 
+BASIC ELECTRICAL ENGINEERING  
+(Common to CSE, IT) 
+Time: 2 hours                       Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What is maximum power transfer theorem? Prove the theorem. 
+b) Three resistances of 25Ω, 50Ω and 100Ω are connected in parallel. If the total current 
+drawn is 32 A, calculate the current drawn by each resistor.    [9+6] 
+ 
+2. Calculate the equivalent resistance across terminals P and Q for the network shown 
+below.           [15]  
+ 
+ 
+3. Find the average value, RMS value and the form factor of the sinusoidal waveform. 
+           [15] 
+ 
+4.a) Prove that the average value of any symmetrical wave over a complete cycle is zero. 
+b) In an R -L-C Series circuit, the voltage across R is 160 V, across L is 240 V, and total 
+power consumed is 1000 W. when a voltage of 200 V at 50 Hz is applied across the 
+circuit. Calculate value of the capacitor and the current flowing through the circuit.  [7+8] 
+ 
+5.a) Draw and explain the equivalent circuit of a transformer under the no – load condition. 
+b) Explain the necessary tests that are conducted on transformer to find the effici ency and 
+regulation.          [7+8] 
+ 
+6.a) Derive the emf equation of a Transformer. 
+b) The efficiency of 400 / 200 V, 200 KVA transformer is 98.5% at full load and at 0.8 
+lagging power factor. At half load, 0.8 power factor lagging the efficiency is 97.5%.  
+Calculate the values of core loss and full load copper loss.    [7+8] 
+ 
+7.a) Explain the constructional details of a DC Machine with a neat sketch. 
+b) A dc machine induces an emf of 240 V at 1500 rpm. Find the developed torque for an 
+armature current of 25 A.        [10+5] 
+ 
+8. Explain the following with respect to Instruments: 
+ a) Indicating         b) Recording and     c) Integrating.    [15] 
+ 
+ 
+---ooOoo--- 
+R13 
+ 
+JNTUH USED 27-10-2020 AM
+

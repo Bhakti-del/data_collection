@@ -1,0 +1,84 @@
+ 
+ 
+ 
+Code No: 136EV             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, May - 2019 
+ DATA STRUCTURES 
+(Common to EEE, ECE, CSE) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      Classify the types of data structures.        [2] 
+   b)      What is an algorithm? What criteria it has to satisfy.     [3] 
+   c)      Define a stack. What operations can be performed on it?     [2] 
+   d)      By using the stack find the value for the postfix expression 242/*68*-  [3] 
+   e)      How will you find the maximum no.of nodes present at a particular level of a binary  
+tree?            [2] 
+   f)      Distinguish between complete and full binary tree.      [3] 
+   g)      Write the average, worst and best case time complexity for linear search.   [2] 
+   h)      What is meant by collision? How will you resolve it?     [3] 
+   i)      What is a skewed tree? Give example      [2] 
+   j)      Write the properties of a typical Red – Black Tree.      [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.  With the help of suitable example explain the various asymptotic notations used in 
+algorithms.             [10] 
+OR 
+3.  With the help of a neat sketch and example explain the various possib le positions to 
+insert a node into a double linked list.         [10] 
+    
+4.  Write a procedure to convert any given infix expression into postfix form? Using step 
+by step procedure, convert the following infix expression into postfix form:    [10] 
+A + (B * C )-((D*E+F)/G) 
+OR 
+5.a)  Write and explain the different types of double ended queues. 
+   b)  Give brief description about the queue storage using arrays.    [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper 18-05-19 PM
+
+ 
+ 
+ 
+6.  What is meant by tree traversal? List the different traversal used in tre es? Find the 
+different orders for the following binary tree.        [10] 
+ 
+OR 
+7.  What is a graph? Where you are going to use the graphs? With the help of an example 
+explain the different techniques to represent a graph.        [10]    
+ 
+8.  Write the proce dure to sort the set of elements by using Quick sort? Apply quick sort 
+mechanism to sort the following data {J, N, T, U, H, E, X, A, M}.     [10]    
+OR 
+9.  Apply max heap sort on the list of elements 14, 12, 9, 8, 7, 10, 18, 20, 30.    [10]     
+ 
+10.  What are the limitations of a typical binary search tree? Explain L – L and R – R 
+rotations with an example.           [10]     
+OR 
+11.  Explain the KMP pattern matching algorithm with example.      [10] 
+       
+  
+ 
+ 
+---ooOoo--- 
+used paper 18-05-19 PM
+

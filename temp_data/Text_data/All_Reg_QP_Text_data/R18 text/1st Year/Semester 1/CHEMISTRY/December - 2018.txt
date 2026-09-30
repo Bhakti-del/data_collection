@@ -1,0 +1,92 @@
+ 
+Code No:151AF      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, HYDERABAD  
+B.Tech I Year I Semester Examinations, December - 2018 
+CHEMISTRY 
+(Common to EEE, CSE, IT) 
+Time: 3 hours                             Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit. Each  question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) Give the reason for crystal field splitting of  d-orbitals    [2] 
+   b) Why do you express hardness of water in CaCO3 equivalents.   [2] 
+   c) Salt bridge is not required in Lead-acid storage cell. Explain.   [2] 
+   d) Why Markownikoff’s rule fails in the addition of HBr to propene in presence of H 2O2 .            
+                      [2]               
+   e) How many fundamental vibrations are possible in HCN, CH4.    [2] 
+   f) Write the energy level diagram for N2 molecule.                   [3] 
+   g) What is Caustic embrittlement? How do you present it?              [3]     
+   h) Why coating of zinc on iron is called sacrificial anode. Explain.    [3] 
+   i) How enantiomers differs from diastereomers.              [3] 
+   j) Give reason why O16, O18, C12 do not exhibit NMR spectrum.     [3]    
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) Explain about crystal field theory.        
+   b) Mention the difference between atomic and molecular orbitals.   [5+5]     
+OR 
+3.a) Give an account of LCAO.           
+   b) Write notes on molecular orbital theory.                 [5+5]     
+ 
+4.a) Discuss the ion-exchange process of softening of hard water. How the exhausted resins  
+are regenerated. 
+  b) Give the steps involved in the treatment of domestic water                           [5+5]     
+OR 
+5.a) What is the principle involved in complex metric  method in estimation of hardness of 
+water . 
+   b) Differentiate between scales and sludge’s.       [5+5]     
+ 
+ 
+ 
+ 
+ 
+R18 
+ 
+JNTUH USED 12-12-2018PM
+
+ 
+ 
+ 
+6.a) How can you determine the pH of an unknown solution by using  quinhydrone 
+Electrode.                                                                                                                 
+   b) Iron corrodes faster than aluminum. Explain.      [5+5]     
+OR 
+7.a) Write an account of lithium ion batteries. 
+   b) Explain the chemical reactions involved in electrochemical corrosion.       [5+5]     
+ 
+8.a) What are S N
+1 and S N
+2 reactions. Write the mechanism with suitable examples. Give 
+their stereochemistry. 
+   b) Explain different conformations of butane with the potential energy diagram.       [5+5]     
+OR 
+9.a) What are elimination reactions ? Explain dehydro halogenations of alkyl halides  with a 
+suitable examples.  
+   b) What is isomerism? How is it classified? Explain with suitable examples.    [5+5]     
+ 
+10.a) What are various electronic transitions? Give a brief note with suitable examples.  
+     b) Write the basic principle of IR spectroscopy. Give various molecular vibrations in the  
+ technique.          [5+5]     
+OR 
+11.a) What are the selection rule in IR s pectroscopy? Give any two applications of IR  
+ Spectroscopy. 
+     b) What is the principle involved in Nuclear magnetic resonance Spectroscopy?  [5+5]       
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+                                          
+JNTUH USED 12-12-2018PM
+

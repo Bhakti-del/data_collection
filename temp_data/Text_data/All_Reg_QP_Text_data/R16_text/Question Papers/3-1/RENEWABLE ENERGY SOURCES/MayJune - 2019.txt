@@ -1,0 +1,88 @@
+ 
+ 
+ 
+ 
+Code No: 135CZ            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, May/June - 2019 
+ RENEWABLE ENERGY SOURCES 
+(Common to CE, EEE, ME, ECE, CSE) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+     
+PART - A 
+(25 Marks) 
+ 
+1.a)      Write the examples of renewable energy sources.        [2] 
+   b)      Illustrate Green house effect.            [3] 
+   c)      What are the applications of Solar PV Systems?        [2] 
+   d)      Describe Solar Thermal Conversion Devices.          [3] 
+   e)      What is Betz limit?              [2] 
+   f)      Define (i) cut-in speed (ii) Yaw control (iii) Coefficient of performance of a windmill.
+                           [3] 
+   g)      Write any two properties of Biogas.             [2] 
+   h)      Illustrate the concept of pyrolysis and liquefaction.         [3] 
+   i)       What are the types of Geo-thermal plants?           [2] 
+   j)       What is the Importance of small hydro power plants?        [3] 
+                        
+PART - B 
+(50 Marks) 
+ 
+2.a)   Illustrate the need and development of renewable energy sources.  
+   b)   Differentiate Renewable and Non Renewable Energy Sources.    [5+5] 
+OR 
+3.a)    Describe the Potential of renewable energy sources. 
+   b)     Illustrate the concept of Hybrid systems.         [5+5] 
+ 
+4.a)   Illustrate Solar Energy System with neat diagram.  
+   b)    Explain any one type of collector in Solar Energy Systems.     [5+5] 
+OR 
+5.   With the help of schematic diagram explain  the application of solar energy in 
+distillation and drying.          [10] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper 11-06-2019 PM
+
+ 
+ 
+ 
+ 
+6.a)    Illustrate vertical axis windmills with a neat circuit. 
+   b)    Derive an expression for energy available in the wind.    [5+5] 
+OR 
+7.a)    With the help of di agram, explain the terms (i) Free and relative wind velocities  
+            (ii) Drag and lift forces and (iii) Pitch angle and chord. 
+b)    List the components of W ind Energy Conversion System and explain the function of 
+each.           [5+5] 
+ 
+8.      What are biomass conversion processes ? Draw a schematic diagram to explain                        
+ various processes and products.         [10] 
+OR 
+9.a)    With a neat diagram, explain bio diesel production from Biomass.    
+   b)    How Urban waste will be converted to energy?                [6+4] 
+ 
+10.a)  Illustrate the principle of operation of Geothermal power plant. 
+     b)  What are the main advantages and disadvantages of ocean wave energy?  [5+5] 
+OR 
+11.a)  Explain the fundamental principle of tidal energy generation. 
+     b)  With neat diagram, describe ocean thermal power plants.    [5+5] 
+ 
+  
+ 
+ 
+---ooOoo--- 
+used paper 11-06-2019 PM
+

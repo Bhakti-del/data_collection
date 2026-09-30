@@ -1,0 +1,94 @@
+ 
+ 
+Code No: 123BN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, November/December - 2018 
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+(Common to CSE, IT) 
+Time: 3 Hours                           Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one  full question from each unit. Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a)     What is the minimal set of connectives required for a well formed formula?    [2]  
+   b)     Convert the following propositional logic in to DNF pΛ(p→q).    [3] 
+   c)     Write the properties of semi group and abelian group.      [2] 
+   d)     What are the properties of Equivalence relation?     [3] 
+   e)      How many different outcomes are possible by tossing 20 similar coins?  [2]  
+   f)     How many integers between 1 and 100 have a sum of digits of integ er numbers equal              
+ to 10?             [3]  
+g)    What is the exponential enumerator for the permutations of 2 objects of one kind and         
+  3 objects of another kind?          [2]  
+h) Find the generating function for the number of ways to d istribute 30 balls into                   
+5 numbered boxes where each box contains at least 3 balls and at most 7 balls. [3]  
+   i)  Define spanning tree. What are its characteristics?     [2] 
+   j)       Write the difference between Hamiltonian graphs and Euler graphs.   [3] 
+ 
+PART-B  
+(50 Marks) 
+ 
+2.a)   Obtain the principal disjunctive normal form of p→((p→q)Λ~(~q V~p). 
+    b)    Simplify the given expression by using logical identities ((p→q)V(p→s))→(pVs). [5+5] 
+OR 
+3.a)     Obtain the principal conjunctive normal form of (p→ (q Λ r)) Λ (~p→(~q Λ~r)). 
+    b)    Using the statements R: Arjun is Happy H: Arjun is rich. Write the following statement  
+ in symbolic form, 
+ i) Arjun is neither happy nor rich 
+ ii) Arjun is poor or he is both rich and unhappy.        [5+5] 
+ 
+4.   Verify which of the following are semi groups. 
+ a) (N,+) 
+ b) (Q,-) 
+ c) (R,+) 
+ d) (Q,.) (Where . (dot) is defined as a.b = a – b + ab).        [10] 
+OR 
+5.a)    If R be a relation in the set of integers z defined by R= {(x,y):x ϵz,yϵz,(x-y) is divisible              
+ by 6}. 
+   b)     If A, B, C are three sets such that A⊆B, Show (A×B)⊆ (B×C).   [5+5] 
+ 
+ 
+ 
+ 
+R15 
+JNTUH USED 30-11-2018AM
+
+ 
+6.a)  Show that given any 52 integers, there exists two of them whose sum or else whose 
+ difference is divisible by 100 
+   b)  Prove the identity 1×1!+2×2!+3×3!+………+n×n!=(n+1)!-1.   [5+5] 
+OR 
+ 
+7.a) Using binomial identities evaluate the sum of the following: 
+ 1.2.3+2.3.4+……+ (n-2)(n- 1)n. 
+   b) Compute the number of rows of 6 Americans, 7 Mexicans and 10 Canadians in which an 
+ American invariably stands between a Mexican and a Canadian and in which a Mexican 
+ and a Canadian never stand side by side.      [5+5] 
+ 
+8.a)    Solve an-5an-1+6an-2=2n+n, n≥2, given a0=1, a1=1 using generating functions. 
+   b)   Find the number of ways in which 4 persons each rolling a single die once, can have a 
+ total of 17?          [5+5] 
+OR 
+9.a)  Find the particular solution for the following difference equation: 
+ an+5an-1+6an-2=42.4n 
+   b)  Solve an-2an-1-3an-2=5n, n≥2, given a0=-2, a1=1.     [5+5] 
+ 
+10.a)  Let Cn be the cycle graph with n vertices. Prove that C5 is the only cycle graph isomorphic 
+ to its complement. 
+b)  If G is non -directed graph with 12 edges. Suppose that G has 6 vertices of degree 3 and 
+ the rest have degree less than 3. Determine the minimum number of vertices, G can have . 
+             [5+5] 
+OR 
+11.    Define following terms: 
+ a) Out degree 
+ b) Simple graph 
+ c) Kuratowski’s two graphs.        [10] 
+      
+ 
+  
+--ooOoo-- 
+JNTUH USED 30-11-2018AM
+

@@ -1,0 +1,2315 @@
+R16 B.TECH CSE. 
+ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. COMPUTER SCIENCE AND ENGINEERING 
+IV YEAR COURSE STRUCTURE & SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+IV YEAR I SEMESTER 
+S. No Course Code Course Title L T P Credits 
+1 CS701PC Data Mining 4 0 0 4 
+2 CS702PC Principles of Programming Languages 4 0 0 4 
+3  Professional Elective – II 3 0 0 3 
+4  Professional Elective – III 3 0 0 3 
+5  Professional Elective – IV 3 0 0 3 
+6 CS703PC Data Mining Lab 0 0 3 2 
+7  
+CS751PC 
+CS752PC 
+CS753PC 
+CS754PC 
+PE-II Lab # 
+Python Programming Lab 
+Mobile Application Development Lab 
+Web Scripting Languages Lab 
+Internet of Things Lab 
+0 0 3 2 
+8 CS705PC Industry Oriented Mini Project 0 0 3 2 
+9 CS706PC Seminar 0 0 2 1 
+  Total Credits 17 0 11 24 
+ 
+# Courses in PE - II and PE - II Lab must be in 1-1 correspondence. 
+ 
+IV YEAR II SEMESTER 
+S. No Course 
+Code Course Title L T P Credits 
+1  Open Elective – III 3 0 0 3 
+2  Professional Elective – V 3 0 0 3 
+3  Professional Elective – VI 3 0 0 3 
+4 CS801PC Major Project 0 0 30 15  
+  Total Credits 9 0 30 24 
+ 
+Professional Elective – I 
+CS611PE Mobile Computing 
+CS612PE Design Patterns 
+CS613PE Artificial Intelligence 
+CS614PE Information Security Management (Security Analyst - I) 
+CS615PE Introduction to Analytics (Associate Analytics - I) 
+ 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+Professional Elective – II 
+CS721PE Python Programming 
+CS722PE Mobile Application Development 
+CS723PE Web Scripting Languages 
+CS724PE Internet of Things 
+ 
+Professional Elective - III 
+CS731PE Graph Theory 
+CS732PE Distributed Systems 
+CS733PE Machine Learning 
+CS734PE Software Process and Project Management 
+ 
+Professional Elective - IV 
+CS741PE Computational Complexity 
+CS742PE Cloud Computing 
+CS743PE Blockchain Technology 
+CS744PE Social Network Analysis 
+ 
+Professional Elective - V 
+CS851PE Information Theory & Coding 
+CS852PE Real-Time Systems 
+CS853PE Data Analytics 
+CS854PE Modern Software Engineering 
+ 
+Professional Elective - VI 
+CS861PE Advanced Algorithms 
+CS862PE Web Services and Service Oriented Architecture 
+CS863PE Computer Forensics 
+CS864PE Neural Networks and Deep Learning 
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+LIST OF OPEN ELECTIVES OFFERED BY VARIOUS DEPARTMENTS FOR 
+B.TECH. III AND IV YEARS 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective – I 
+(Semester – V) 
+Open Elective – II 
+(Semester – VI) 
+1 Aeronautical Engg. AE511OE: Introduction 
+to Space Technology 
+AE621OE: Introduction to 
+Aerospace Engineering 
+2 Automobile Engg. CE511OE: Disaster 
+Management 
+MT512OE: Intellectual 
+Property Rights 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+3 Biomedical Engg. BM511OE: Reliability 
+Engineering 
+BM621OE: Medical 
+Electronics 
+4 Civil Engg. CE511OE: Disaster 
+Management. 
+CE621OE: Remote 
+Sensing and GIS 
+CE622OE: Geo -
+Informatics 
+CE623OE: Intellectual 
+Property Rights 
+5 Civil and Environmental 
+Engg. 
+CE511OE: Disaster 
+Management 
+CN621OE: Environmental 
+Impact Assessment  
+CE623OE: Intellectua l 
+Property Rights 
+6 Computer Science and Engg. 
+/ Information Technology 
+CS511OE: Operating 
+Systems  
+CS512OE: Database 
+Management Systems 
+CS621OE: Java 
+Programming  
+CS622OE: Software 
+Testing Methodologies  
+CS623OE: Cyber Security 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC511OE: Principles of 
+Electronic 
+Communications 
+EC621OE: Principles of 
+Computer Communications 
+and Networks 
+8 Electronics and Computer 
+Engg. 
+EM511OE: Scripting 
+Languages 
+EM621OE: Soft 
+Computing Techniques 
+9 Electrical and Electronics 
+Engg. 
+EE511OE: Non -
+Conventional Power 
+Generation  
+EE512OE: Electrical 
+Engineering Materials  
+EE513OE: 
+Nanotechnology 
+EE621OE: Design 
+Estimation and Costing of 
+Electrical Systems  
+EE622OE: Energy Storage 
+Systems 
+EE623OE: Introdu ction to 
+Mechatronics 
+10 Electronics and 
+Instrumentation Engg. 
+EI511OE: Electronic 
+Measurements and 
+Instrumentation 
+EI621OE: Industrial 
+Electronics 
+11 Mechanical Engg. ME511OE: Optimization 
+Techniques  
+ME512OE: Computer 
+Graphics 
+ME513OE: Introduction 
+ME621OE: World Class 
+Manufacturing  
+ME622OE: Fundamentals 
+of Robotics 
+ME623OE: Fabrication 
+
+R16 B.TECH CSE. 
+ 
+to Mechatronics 
+ME514OE: 
+Fundamentals of 
+Mechanical Engineering 
+Processes 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT511OE: Fabrication 
+Processes 
+NT512OE: 
+Nondestructive Testing 
+Methods 
+NT513OE: 
+Fundamentals of 
+Engineering Materials 
+NT621OE: Introduction to 
+Material Handling 
+NT622OE: Non -
+Conventional Energy 
+Sources 
+NT623OE: Robotics 
+13 Mechanical Engg. 
+(mechatronics) 
+MT511OE: Analog and 
+Digital I.C. Applications 
+MT512OE: Intellectual 
+Property Rights 
+MT513OE: Computer 
+Organization 
+MT621OE: Data Structures 
+MT622OE: Artificial 
+Neural Networks 
+MT623OE: Industrial 
+Management 
+ 
+14 Metallurgical and Materials 
+Engg. 
+MM511OE: Materials 
+Characterization 
+Techniques 
+MM621OE: Science and 
+Technology of Nano 
+Materials 
+MM622OE: Metallurgy of 
+Non Metallurgists 
+15 Mining Engg. MN511OE: Introduction 
+to Mining Technology 
+MN621OE: Coal 
+Gasification, Coal Bed 
+Methane and Shale Gas 
+16 Petroleum Engg. PE511OE: Materials 
+Science and Engineering 
+PE512OE: Renewable 
+Energy Sources 
+PE513OE: 
+Environmental 
+Engineering 
+PE621OE: Energy 
+Management and 
+Conservation 
+PE622OE: Optimization 
+Techniques 
+PE623OE: 
+Entrepreneurship and 
+Small Business Enterprises 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective –III 
+(Semester – VIII) 
+1 Aeronautical Engg. AE831OE: Air Transportation Systems 
+AE832OE: Rockets and Missiles 
+2 Automobile Engg. AM831OE: Introduction to Mechatronics 
+AM832OE: Microprocessors and Microcontrollers 
+3 Biomedical Engg. BM831OE: Telemetry and Telecontrol  
+BM832OE: Electromagnetic Interference and 
+Compatibility 
+4 Civil Engg. CE831OE: Environmental Impact Assessment  
+CE832OE: Optimization Techniques in Engineering 
+CE833OE: Entrepreneurship and Small Business  
+Enterprises 
+5 Civil and Environmental 
+Engg. 
+CN831OE: Remote Sensing and GIS  
+CE833OE: Entrepreneurship and Small Business 
+
+R16 B.TECH CSE. 
+ 
+Enterprises 
+6 Computer Science and 
+Engg. / Information 
+Technology 
+CS831OE: Linux Programming  
+CS832OE: R Programming  
+CS833OE: PHP Programming 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC831OE: Electronic Measuring Instruments 
+8 Electronics and Computer 
+Engg. 
+EM831OE: Data Analytics 
+9 Electrical and Electronics 
+Engg. 
+EE831OE: Entrepreneur Resource Planning 
+EE832OE: Management Information Systems 
+EE833OE: Organizational Behaviour  
+10 Electronics and 
+Instrumentation Engg. 
+EI831OE: Sensors and Transducers,  
+EI832OE: PC Based Instrumentation 
+11 Mechanical Engg. ME831OE: Total Quality Management  
+ME832OE: Industrial Safety, Health, and 
+Environmental Engineering  
+ME833OE: Basics of Thermodynamics  
+ME834OE: Reliability Engineering 
+12 Mechanical Engg. (Material 
+Science and 
+Nanotechnology) 
+NT831OE: Concepts of Nano Science And Technology  
+NT832OE: Synthesis of Nanomaterials  
+NT833OE: Characterization of Nanomaterials 
+13 Mechanical Engg. 
+(mechatronics) 
+MT831OE: Renewable Energy Sources 
+MT832OE: Production Planning and Control 
+CE833OE: Entrepreneurship and Small Business 
+Enterprises 
+14 Metallurgical and Materi als 
+Engg. 
+MM831OE: Design and Selection of Engineering 
+Materials 
+15 Mining Engg. MN831OE: Solid Fuel Technology 
+MN832OE: Health & Safety in Mines 
+16 Petroleum Engg. PE831OE: Disaster Management 
+PE832OE: Fundamentals of Liquefied Natural Gas 
+PE833OE: Heal th, Safety and Environment in 
+Petroleum Industry  
+ 
+*Open Elective – Students should take Open Electives from List of Open Electives Offered 
+by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all oth er 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+DATA MINING 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS701PC                          4     0    0    4 
+ 
+Course Objectives: 
+ Learn data mining concepts understand association rules mining. 
+ Discuss classification algorithms learn how data is grouped using clustering 
+techniques. 
+ To develop the abilities of critical analysis to data mining systems and applications. 
+ To implement practical and theoretical understanding of the technologies for data 
+mining 
+ To understand the strengths and limitations of various data mining models; 
+ 
+Course Outcomes: 
+ Ability to perform the preprocessing of data and apply mining techniques on it. 
+ Ability to identify the association rules, classification and clusters in large data sets. 
+ Ability to solve real world problems in business and scientific information using data 
+mining 
+ Ability to  classify web pages, extracting knowledge from the web  
+ 
+UNIT - I 
+Introduction to Data Mining: Introduction, What is Data Mining, Definition, KDD, 
+Challenges, Data Mining Tasks, Data Preprocessing, Data Cleaning, Missing data, 
+Dimensionality Reduction, Feature Subset Selection, Discretization and Binaryzation, Data 
+Transformation; Measures of Similarity and Dissimilarity- Basics. 
+ 
+UNIT - II 
+Association Rules: Problem Definition, Frequent Item Set Generation,  The APRIORI 
+Principle, Support and Confidence Measures, Association Rule Generation; APRIOIRI 
+Algorithm, The Part ition Algorithms, FP -Growth Algorithms, Compact Representation of 
+Frequent Item Set- Maximal Frequent Item Set, Closed Frequent Item Set. 
+ 
+UNIT - III 
+Classification: Problem Definition, General Approaches to solving a classification  problem , 
+Evaluation o f Classifiers , Classification techniques, Decision Trees -Decision tree 
+Construction , Methods for Expressing attribute test conditions, Measures for Selecting the 
+Best Split, Algorithm for Decision tree Induction ; Naive -Bayes Classifier, Bayesian Belief 
+Networks; K- Nearest neighbor classification-Algorithm and Characteristics. 
+ 
+UNIT - IV 
+Clustering: Problem Definition, Clustering Overview, Evaluation of Clustering Algorithms , 
+Partitioning Clustering -K-Means Algorithm, K -Means Additional issues, PAM Algor ithm; 
+
+R16 B.TECH CSE. 
+ 
+Hierarchical Clustering-Agglomerative Methods and divisive methods, Basic Agglomerative 
+Hierarchical Clustering Algorithm, Specific techniques, Key Issues in Hierarchical 
+Clustering, Strengths and Weakness; Outlier Detection. 
+ 
+UNIT - V 
+Web and Text M ining: Introduction, web mining, web content mining, web structure 
+mining, we usage mining, Text mining –unstructured text, episode rule discovery for texts, 
+hierarchy of categories, text clustering. 
+ 
+TEXT BOOKS: 
+1. Data Mining - Concepts and Techniques - Jiawei Han, Micheline Kamber, Morgan 
+Kaufmann Publishers, Elsevier, 2 Edition, 2006. 
+2. Introduction to Data Mining, Pang -Ning Tan, Vipin Kumar, Michael Steinbanch, 
+Pearson Education. 
+3. Data mining Techniques and Applications, Hongbo Du Cengage India Publishing 
+ 
+REFERENCE BOOKS: 
+1. Data Mining Techniques, Arun K Pujari, 3rd Edition, Universities Press. 
+2. Data Mining Principles & Applications – T.V Sveresh Kumar, B.Esware Reddy, 
+Jagadish S Kalimani, Elsevier. 
+3. Data Mining, Vikaram Pudi, P Radha Krishna, Oxford University Press 
+ 
+
+R16 B.TECH CSE. 
+ 
+PRINCIPLES OF PROGRAMMING LANGUAGES 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS702PC                          4     0    0    4 
+ 
+Course Objectives: 
+ To introduce the various programming paradigms. 
+ To understand the evolution of programming languages. 
+ To understand the concepts of OO languages, functional languages, logical and 
+scripting languages.  
+ To introduce the principles and techniques involved in design and implementation of 
+modern programming languages. 
+ To introduce the notations to describe the syntax and semantics of programming 
+languages. 
+ To introduce the concepts of concurrency control and exception handling. 
+ To introduce the concepts of ADT and OOP for software development. 
+Course Outcomes:             
+ Ability to express syntax and semantics in formal notation. 
+ Ability to apply suitable programming paradigm for the application. 
+ Ability to compare the features of various programming languages. 
+ Able to understand the programming paradigms of modern programming languages. 
+ Able to understand the concepts of ADT and OOP. 
+ Ability to program in different language paradigms and evaluate their relative 
+benefits. 
+UNIT-I 
+Preliminary Concepts : Reasons for studying concepts of programming languages, 
+programming domains, language evaluation criteria, influences on language design, language 
+categories, language design trade-offs, implementation methods, programming environments, 
+Evolution of Major Programming Languages. 
+Syntax and Semantics: General problem of describing syntax, formal methods of describing 
+syntax, attribute grammars, describing the meanings of programs 
+ 
+UNIT-II  
+Names, Bindings, and Scopes : Introduction, names, variables, concept of binding, scope, 
+scope and lifetime, referencing environments, named constants 
+Data types: Introduction, primitive, character, string types, user defined ordinal types, array, 
+associative arrays, record, tuple types, list types, union types, pointer and reference types, 
+type checking, strong typing, type equivalence 
+Expressions and Statements:  Arithmetic expressions, overloaded operators, type 
+conversions, relational and boolean expressions, short - circuit evaluation, assignment 
+statements, mixed-mode assignment 
+Control Structures – introduction, selection statements, iterative statements, unconditional 
+branching, guarded commands.  
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT-III  
+Subprograms: Fundamentals of subprograms, design issues for subprograms, local 
+referencing environments, parameter passing methods, parameters that are subprograms, 
+calling subprograms indirectly, overloaded subprograms, generic subprograms, design issues 
+for functions, user defined overloaded operators, closures, co routines 
+Implementing subprograms: General semantics of calls and returns, implementing simple 
+subprograms, implemen ting subprograms with stack -dynamic local variables, nested 
+subprograms, blocks, implementing dynamic scoping  
+Abstract Data types:  The concept of abstraction, introductions to data abstraction, design 
+issues, language examples, parameterized ADT, encapsul ation constructs, naming 
+encapsulations 
+ 
+UNIT-IV 
+Object Oriented Programming: Design issues for OOP, OOP in Smalltalk, C++, Java, Ada 
+95, Ruby, Implementation of Object-Oriented constructs.  
+Concurrency: introduction, introduction to subprogram level concu rrency, semaphores, 
+monitors, message passing, Ada support for concurrency, Java threads, concurrency in 
+functional languages, statement level concurrency. 
+Exception Handling and Event Handling: Introduction, exception handling in Ada, C++, 
+Java, introduction to event handling, event handling with Java and C#. 
+ 
+UNIT-V  
+Functional Programming Languages: Introduction, mathematical functions, fundamentals 
+of functional programming language, LISP, support for functional programming in primarily 
+imperative languages, comparison of functional and imperative languages 
+Logic Programming Language:  Introduction, an overview of logic programming, basic 
+elements of prolog, deficiencies of prolog, applications of logic programming.   
+Scripting Language: Pragmatics, Key C oncepts, Case Study: Python – Values and Types, 
+Variables, Storage and Control, Bindings and Scope, Procedural Abstraction, Data 
+Abstraction, Separate Compilation, Module Library. (Text Book 2) 
+ 
+TEXT BOOKS: 
+1. Concepts of Programming Languages, Robert .W. Seb esta 10 th edition, Pearson 
+Education.  
+2. Programming Language Design Concepts, D. A. Watt, Wiley India Edition.  
+ 
+REFERENCE BOOK: 
+1. Programming Languages, A.B. Tucker, R.E. Noonan, TMH.  
+2. Programming Languages , K . C.  Louden and K A Lambert.,  3rd edition, Cengag e 
+Learning. 
+3. Programming Language Concepts, C Ghezzi and M Jazayeri, Wiley India. 
+4. Programming Languages 2nd Edition Ravi Sethi Pearson. 
+5. Introduction to Programming Languages Arvind Kumar Bansal CRC Press. 
+
+R16 B.TECH CSE. 
+ 
+PYTHON PROGRAMMING 
+(PROFESSIONAL ELECTIVE –II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS721PE                          3     0    0    3 
+ 
+Course Objectives: This course will enable students to 
+ Learn Syntax and Semantics and create Functions in Python. 
+ Handle Strings and Files in Python. 
+ Understand Lists, Dictionaries and Regular expressions in Python. 
+ Implement Object Oriented Programming concepts in Python. 
+ Build Web Services and introduction to Network and Database Programming in 
+Python. 
+ 
+Course Outcomes: The students should be able to: 
+ Examine Python syntax and semantics and be fluent in the use of Python flow control 
+and functions. 
+ Demonstrate proficiency in handling Strings and File Systems. 
+ Create, run and manipulate Python Programs using core data str uctures like Lists, 
+Dictionaries and use Regular Expressions. 
+ Interpret the concepts of Object-Oriented Programming as used in Python. 
+ Implement exemplary applications related to Network Programming, Web Services 
+and Databases in Python. 
+ 
+UNIT - I 
+Python B asics, Objects - Python Objects, Standard Types, Other Built -in Types, Internal 
+Types, Standard Type Operators, Standard Type Built -in Functions, Categorizing the 
+Standard Types, Unsupported Types 
+Numbers - Introduction to Numbers, Integers, Floating Point Real Numbers, Complex 
+Numbers, Operators, Built-in Functions, Related Modules 
+Sequences - Strings, Lists, and Tuples, Mapping and Set Types 
+ 
+UNIT - II 
+FILES:  File Objects, File Built -in Function [ open() ], File Built -in Methods, File Built -in 
+Attributes, Standard Files, Command-line Arguments, File System, File Execution, Persistent 
+Storage Modules, Related Modules 
+Exceptions: Exceptions in Python, Detecting and Handling Exceptions, Context 
+Management, *Exceptions as Strings, Raising Exceptions, Assertion s, Standard Exceptions, 
+*Creating Exceptions, Why Exceptions (Now)?, Why Exceptions at All?, Exceptions and the 
+sys Module, Related Modules 
+Modules: Modules and Files, Namespaces, Importing Modules, Importing Module Attributes, 
+Module Built-in Functions, Packages, Other Features of Modules 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - III 
+Regular Expressions: Introduction, Special Symbols and Characters, Res and Python 
+Multithreaded Programming: Introduction, Threads and Processes, Python, Threads, and the 
+Global Interpreter Lock, Thread Module, Threading Module, Related Modules 
+ 
+UNIT - IV 
+GUI Programming: Introduction, Tkinter and Python Programming, Brief Tour of Other 
+GUIs, Related Modules and Other GUIs 
+WEB Programming: Introduction, Wed Surfing with Python, Creating Simple Web Clients, 
+Advanced Web Clients, CGI-Helping Servers Process Client Data, Building CGI Application 
+Advanced CGI, Web (HTTP) Servers 
+ 
+UNIT – V 
+Database Programming: Introduction, Python Database Application Programmer’s Interface 
+(DB-API), Object Relational Managers (ORMs), Related Modules 
+ 
+Textbook 
+1. Core Python Programming, Wesley J. Chun, Second Edition, Pearson. 
+ 
+
+R16 B.TECH CSE. 
+ 
+MOBILE APPLICATION DEVELOPMENT 
+(PROFESSIONAL ELECTIVE –II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS722PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To demonstrate their understanding of the fundamentals of Android operating systems 
+ To demonstrate their skills of using Android software development tools 
+ To demonstrate their ability to develop  software with reasonable complexity on 
+mobile platform 
+ To demonstrate their ability to deploy software to mobile devices 
+ To demonstrate their ability to debug programs running on mobile devices 
+ 
+UNIT - I 
+Introduction to Android Operating System : Android OS design and Features – Android 
+development framework, SDK features, Installing and running applications on Eclipse 
+platform, Creating AVDs, Types of Android applications, Best practices in Android 
+programming, Android tools 
+Android application components  – Android Manifest file, Externalizing resources like 
+values, themes, layouts, Menus etc, Resources for different devices and languages, Runtime 
+Configuration Changes  
+Android Application Lifecycle  – Activities, Activity lifecycle, activity states, monitor ing 
+state changes 
+ 
+UNIT - II 
+Android User Interface : Measurements – Device and pixel density independent measuring 
+units. Layouts – Linear, Relative, Grid and Table Layouts.  
+User Interface (UI) Components  – Editable and non-editable Text Views, Buttons, R adio 
+and Toggle Buttons, Checkboxes, Spinners, Dialog and pickers.  
+Event Handling – Handling clicks or changes of various UI components.  
+Fragments – Creating fragments, Lifecycle of fragments, Fragment states, Adding fragments 
+to Activity, adding, removing and replacing fragments with fragment transactions, interfacing 
+between fragments and Activities, Multi-screen Activities  
+ 
+UNIT - III 
+Intents and Broadcasts:  Intent – Using intents to launch Activities, Explicitly starting new 
+Activity, Implicit Intent s, Passing data to Intents, Getting results from Activities, Native 
+Actions, using Intent to dial a number or to send SMS 
+Broadcast Receivers  – Using Intent filters to service implicit Intents, Resolving Intent 
+filters, finding and using Intents received within an Activity 
+Notifications – Creating and Displaying notifications, Displaying Toasts 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - IV 
+Persistent Storage:  Files – Using application specific folders and files, creating files, 
+reading data from files, listing contents of a directory Shared Preferences – Creating shared 
+preferences, saving and retrieving data using Shared Preference 
+Database – Introduction to SQLite database, creating and opening a database, creating tables, 
+inserting retrieving and deleting data, Registering Content Providers, Using content Providers 
+(insert, delete, retrieve and update) 
+ 
+UNIT - V 
+Advanced Topics:  Alarms – Creating and using alarms. 
+Using Internet Resources – Connecting to internet resource, using download manager 
+Location Based Services  – Finding Current Lo cation and showing location on the Map, 
+updating location 
+ 
+TEXT BOOKS: 
+1. Professional Android 4 Application Development, Reto Meier, Wiley India, (Wrox) , 
+2012 
+2. Android Application Development for Java Programmers, James C Sheusi, Cengage 
+Learning, 2013 
+ 
+REFERENCES: 
+1. Beginning Android 4 Application Development, Wei-Meng Lee, Wiley India (Wrox), 
+2013 
+
+R16 B.TECH CSE. 
+ 
+WEB SCRIPTING LANGUAGES 
+(PROFESSIONAL ELECTIVE –II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS723PE                          3     0    0    3 
+ 
+Prerequisites: 
+ A course on “Computer Programming and Data Structures.” 
+ A course on “Object Oriented Programming Concepts.” 
+ 
+Course Objectives: 
+ This course introduces the script programming paradigm. 
+ Introduces scripting languages such as Perl, Ruby and TCL. 
+ Learning TCL. 
+ 
+Course Outcomes: 
+ Comprehend the differences between typical scripting languages and typical system 
+and application programming languages. 
+ Gain knowledge of the strengths and weakness of Perl, TCL and Ruby; and select an 
+appropriate language for solving a given problem. 
+ Acquire programming skills in scripting language. 
+ 
+UNIT - I 
+Introduction: Ruby, Rails, the structure and Execution of Ruby Programs, Package 
+Management with RUBYGEMS, Ruby and web: Writing CGI s cripts, cookies, Choice of 
+Webservers, SOAP and webservices 
+RubyTk – Simple Tk Application, widgets, Binding events, Canvas, scrolling  
+ 
+UNIT - II  
+Extending Ruby: Ruby Objects in C, the Jukebox extension, Memory allocation, Ruby Type 
+System, Embedding Ruby to Other Languages, Embedding a Ruby Interpreter 
+ 
+UNIT - III  
+Introduction to PERL and Scripting 
+Scripts and Programs, Origin of Scripting, Scripting Today, Characteristics of Scripting 
+Languages, Uses for Scripting Languages, Web Scripting, and the univ erse of Scripting 
+Languages. PERL - Names and Values, Variables, Scalar Expressions, Control Structures, 
+arrays, list, hashes, strings, pattern and regular expressions, subroutines. 
+ 
+UNIT - IV 
+Advanced Perl 
+
+R16 B.TECH CSE. 
+ 
+Finer points of looping, pack and unpack, filesyst em, eval, data structures, packages, 
+modules, objects, interfacing to the operating system, Creating Internet ware applications, 
+Dirty Hands Internet Programming, security Issues. 
+ 
+UNIT - V  
+TCL: TCL Structure, syntax, Variables and Data in TCL, Control Fl ow, Data Structures, 
+input/output, procedures, strings, patterns, files, Advance TCL- eval, source, exec and uplevel 
+commands, Name spaces, trapping errors, event driven programs, making applications 
+internet aware, Nuts and Bolts Internet Programming, Security Issues, C Interface. 
+TK: TK-Visual Tool Kits, Fundamental Concepts of TK, TK by example, Events and 
+Binding, Perl-TK. 
+ 
+TEXT BOOKS: 
+1. The World of Scripting Languages, David Barron, Wiley Publications. 
+2. Ruby Programming language by David Flanagan and Yukihiro Matsumoto O’Reilly 
+3. “Programming Ruby” The Pramatic Progammers guide by Dabve Thomas Second 
+edition 
+ 
+REFERENCE BOOKS: 
+1. Open Source Web Development with LAMP using Linux Apache, MySQL, Perl and 
+PHP, J.Lee and B. Ware (Addison Wesley) Pearson Education. 
+2. Perl by Example, E. Quigley, Pearson Education. 
+3. Programming Perl, Larry Wall, T. Christiansen and J. Orwant, O’Reilly, SPD. 
+4. Tcl and the Tk Tool kit, Ousterhout, Pearson Education. 
+5. Perl Power, J.P. Flynt, Cengage Learning. 
+  
+
+R16 B.TECH CSE. 
+ 
+INTERNET OF THINGS 
+(PROFESSIONAL ELECTIVE – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS724PE/EC732PE                         3     0    0    3 
+  
+Course Objectives:  
+ To introduce the terminology, technology and its applications 
+ To introduce the concept of M2M (machine to machine) with necessary protocols 
+ To introduce the Python Scripting Language which is used in many IoT devices 
+ To introduce the Raspberry PI platform, that is widely used in IoT applications 
+ To introduce the implementation of web based services on IoT devices. 
+ 
+Course Outcomes: 
+ Interpret the impact and challenges posed by IoT networks leading to new 
+architectural models.  
+ Compare and contrast the deployment of smart objects and the technologies to 
+connect them to network.  
+ Appraise the role of IoT protocols for efficient network communication.  
+ Elaborate the need for Data Analytics and Security in IoT.  
+ Illustrate different sensor technologies for sensing real world entities and identify the 
+applications of IoT in Industry.  
+ 
+UNIT - I 
+Introduction to Internet of Things –Definition and Characteristics of IoT,  Physical Design of 
+IoT – IoT Protocols, IoT communication models, Iot Communication APIs , IoT enab led 
+Technologies – Wireless Sensor Networks, Cloud Computing, Big data  analytics, 
+Communication protocols, Embedded Systems, IoT Levels and Templates , Domain Specific 
+IoTs – Home, City, Environment, Energy, Retail, Logistics, Agriculture, Industry, health and 
+Lifestyle. 
+ 
+UNIT - II 
+IoT and M2M – Software defined networks, net work function virtualization, difference 
+between SDN and NFV for IoT . Basics of IoT System Management with NETCOZF, 
+YANG- NETCONF, YANG, SNMP NETOPEER 
+ 
+UNIT - III 
+Introduction to Python - Language features of Python, Data types, data structures, Control of  
+flow, functions, modules, packaging, file handling, data/time operations, classes, Exception 
+handling. Python packages - JSON, XML, HTTP Lib, URL Lib, SMTP Lib. 
+ 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - IV 
+IoT Physical Devices and Endpoints - Introduction to Raspberry PI  - Interfaces (serial, SPI, 
+I2C). Programming – Python program with Raspberry PI with focus of interfacing external 
+gadgets, controlling output, reading input from pins. 
+ 
+UNIT - V 
+IoT Physical Servers and Cloud Offerings – Introduction to Cloud Storage models and 
+communication APIs . Webserver – Web server for IoT, Cloud for IoT, Python web 
+application framework. Designing a RESTful web API 
+ 
+TEXT BOOKS:  
+1. Internet of Things - A Hands -on Approach, Arshdeep Bahga and Vijay Madisetti, 
+Universities Press, 2015, ISBN: 9788173719547 
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly 
+(SPD), 2014, ISBN: 9789350239759 
+
+R16 B.TECH CSE. 
+ 
+GRAPH THEORY 
+(PROFESSIONAL ELECTIVE – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS731PE                          3     0    0    3 
+ 
+Prerequisite: 
+1. An understanding of Mathematics in general is sufficient. 
+ 
+Course Outcomes: 
+ Know some important classes of graph theoretic problems; 
+ Be able to formulate and prove central theorems about trees, match ing, connectivity, 
+colouring and planar graphs; 
+ Be able to describe and apply some basic algorithms for graphs; 
+ Be able to use graph theory as a modelling tool. 
+ 
+UNIT - I  
+Introduction-Discovery of graphs, Definitions, Subgraphs, Isomorphic graphs, Matrix 
+representations of graphs, Degree of a vertex, Directed walks, paths and cycles, Connectivity 
+in digraphs, Eulerian and Hamilton digraphs, Eulerian digraphs, Hamilton digraphs, Special 
+graphs, Complements, Larger graphs from smaller graphs, Union, Sum, Car tesian Product, 
+Composition, Graphic sequences, Graph theoretic model of the LAN problem, Havel -Hakimi 
+criterion, Realization of a graphic sequence.  
+ 
+UNIT - II 
+Connected graphs and shortest paths - Walks, trails, paths, cycles, connected graphs, 
+Distance, Cut-vertices and cut -edges, Blocks, Connectivity, Weighted graphs and shortest 
+paths, Weighted graphs, Dijkstra ‟s shortest path algorithm, Floyd -Warshall shortest path 
+algorithm.  
+ 
+UNIT - III 
+Trees- Definitions and characterizations, Number of trees, Cayl ey’s formula, Kircho-matrix-
+tree theorem, Minimum spanning trees, Kruskal ’s algorithm, Prim ’s algorithm, Special 
+classes of graphs, Bipartite Graphs, Line Graphs, Chordal Graphs, Eulerian Graphs, Fleury ’s 
+algorithm, Chinese Postman problem, Hamilton Graphs , Introduction, Necessary conditions 
+and sufficient conditions.  
+ 
+UNIT - IV 
+Independent sets coverings and matchings – Introduction, Independent sets and coverings: 
+basic equations, Matchings in bipartite graphs, Hall ‟s Theorem, K¨onig‟s Theorem, Perfect  
+matchings in graphs, Greedy and approximation algorithms.  
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - V 
+Vertex Colorings- Basic definitions, Cliques and chromatic number, Mycielski ’s theorem, 
+Greedy coloring algorithm , Coloring of chordal graphs,  Brooks theorem, Edge Colorings, 
+Introduction and Basics, Gupta -Vizing theorem, Class -1 and Class -2 graphs, Edge -coloring 
+of bipartite graphs, Class -2 graphs, Hajos union and Class -2 graphs, A scheduling problem 
+and equitable edge-coloring.  
+ 
+TEXTBOOKS: 
+1. J. A. Bondy and U. S. R. Murty. Graph Theory, volume 244 of Graduate Texts in 
+Mathematics. Springer, 1st edition, 2008.  
+2. J. A. Bondy and U. S. R. Murty. Graph Theory with Applications.  
+ 
+REFERENCES: 
+1. Lecture Videos: http://nptel.ac.in/courses/111106050/13 
+2. Introduction To Graph Theory, Douglas B. West, Pearson. 
+3. Schaum's Outlines Graph Theory, Balakrishnan, TMH 
+4. Introduction to Graph Theory, Wilson Robin j, PHI 
+5. Graph Theory with Applications to Engineering and Computer Science, Narsing Deo,  
+PHI 
+6. Graphs - An Introductory Approach, Wilson and Watkins  
+ 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+DISTRIBUTED SYSTEMS 
+(PROFESSIONAL ELECTIVE – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS732PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To understand what and why a distributed system is. 
+ To understand theoretical concepts, namely, virtual time, agreement and consensus 
+protocols.  
+ To understand IPC, Group Communication & RPC Concepts. 
+ To understand the DFS and DSM Concepts. 
+ To understand the concepts of transaction in distributed environment and associated 
+concepts, namely, concurrency control, deadlocks and error recovery. 
+ 
+Course Outcomes: 
+ Able to comprehend and design a new distributed system with the desired features. 
+ Able to start literature survey leading to further research in any subarea. 
+ Able to develop new distributed applications. 
+ 
+UNIT- I 
+Characterization of Distributed Systems:  Introduction, Examples of Distributed Systems, 
+Resource Sharing and the Web, Challenges.  System Models:  Introduction, Architectural 
+Models, Fundamental Models. 
+ 
+UNIT- II 
+Time and Global States: Introduction, Clocks Events and Process States,  Synchronizing 
+Physical Clocks, Logi cal Time and Logical Clocks, Global States, Distributed Debugging.  
+Coordination and Agreement: Introduction, Distributed Mutual Exclusion, Elections, 
+Multicast Communication, Consensus and Related Problems. 
+ 
+UNIT- III 
+Inter Process Communication: Introduction, The API for the Internet Protocols, External 
+Data Representation and Marshalling, Client-Server Communication, Group Communication, 
+Case Study: IPC in UNIX.  Distributed Objects and Remote Invocation: Introduction, 
+Communication between Distributed Obj ects, Remote Procedure Call, Events and 
+Notifications, Case Study: JAVA RMI. 
+ 
+UNIT- IV  
+Distributed File Systems: Introduction, File Service Architecture, Case Study 1: Sun 
+Network File System, Case Study 2: The Andrew File System. 
+Name Services: Introduction, Name Services and the Domain Name System, Directory 
+Services, Case Study of the Global Name Services. 
+
+R16 B.TECH CSE. 
+ 
+Distributed Shared Memory: Introduction, Design and Implementation Issues, Sequential 
+Consistency and IVY case study, Release Consistency, Munin Case Study, Other Consistency 
+Models. 
+ 
+UNIT- V 
+Transactions and Concurrency Control: Introduction, Transactions, Nested Transactions, 
+Locks, Optimistic Concurrency Control, Timestamp Ordering, Comparison of Methods for 
+Concurrency Control. Distributed Transactions:  Introduction, Flat and Nested Distributed 
+Transactions, Atomic Commit Protocols, Concurrency Control in Distributed Transactions, 
+Distributed Deadlocks, Transaction Recovery. 
+ 
+TEXT BOOK: 
+1. Distributed Systems, Concepts and Design, George Coulouris, J Dollimore and Tim 
+Kindberg, Pearson Education, 4th Edition, 2009. 
+ 
+REFERENCE BOOKS: 
+1. Distributed Systems, Principles and Paradigms, Andrew S. Tanenbaum, Maarten Van 
+Steen, 2nd Edition, PHI. 
+2. Distributed Systems, An Algorithm Approach, Sukumar Ghosh, Chapman  & 
+Hall/CRC, Taylor & Fransis Group, 2007.  
+
+R16 B.TECH CSE. 
+ 
+MACHINE LEARNING 
+(PROFESSIONAL ELECTIVE – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS733PE                          3     0    0    3 
+ 
+Prerequisites 
+ Data Structures 
+ Knowledge on statistical methods 
+ 
+Course Objectives: 
+ This course explains machine learning techniques such as decision tree learning, 
+Bayesian learning etc. 
+ To understand computational learning theory. 
+ To study the pattern comparison techniques. 
+ 
+Course Outcomes: 
+ Understand the concepts of computational intelligence like machine learning  
+ Ability to get the skill to apply machine learning techniques to address the real time 
+problems in different areas 
+ Understand the Neural Networks and its usage in machine learning application. 
+ 
+UNIT - I   
+Introduction - Well-posed learning problems, designing a learning system, Perspectives and 
+issues in machine learning 
+Concept learning and the general to specific ordering – introduction, a concept learning task, 
+concept learning as search, find -S: finding a maximally specific hypothesis, version spaces 
+and the candidate elimination algorithm, remarks on version spaces and candidate 
+elimination, inductive bias. 
+Decision Tree Learning – Introduction, decision tree rep resentation, appropriate problems 
+for decision tree learning, the basic decision tree learning algorithm, hypothesis space search 
+in decision tree learning, inductive bias in decision tree learning, issues in decision tree 
+learning. 
+ 
+UNIT - II 
+Artificial N eural Networks -1– Introduction, neural network representation, appropriate 
+problems for neural network learning, perceptions, multilayer networks and the back -
+propagation algorithm. 
+Artificial Neural Networks-2- Remarks on the Back -Propagation algorithm, A n illustrative 
+example: face recognition, advanced topics in artificial neural networks. 
+Evaluation Hypotheses – Motivation, estimation hypothesis accuracy, basics of sampling 
+theory, a general approach for deriving confidence intervals, difference in erro r of two 
+hypotheses, comparing learning algorithms. 
+
+R16 B.TECH CSE. 
+ 
+ 
+UNIT - III 
+Bayesian learning – Introduction, Bayes theorem, Bayes theorem and concept learning, 
+Maximum Likelihood and least squared error hypotheses, maximum likelihood hypotheses 
+for predicting probabi lities, minimum description length principle, Bayes optimal classifier, 
+Gibs algorithm, Naïve Bayes classifier, an example: learning to classify text, Bayesian belief 
+networks, the EM algorithm. 
+Computational learning theory – Introduction, probably learning an approximately correct 
+hypothesis, sample complexity for finite hypothesis space, sample complexity for infinite 
+hypothesis spaces, the mistake bound model of learning. 
+Instance-Based Learning - Introduction, k-nearest neighbour algorithm, locally weig hted 
+regression, radial basis functions, case-based reasoning, remarks on lazy and eager learning. 
+ 
+UNIT- IV 
+Genetic Algorithms – Motivation, Genetic algorithms, an illustrative example, hypothesis 
+space search, genetic programming, models of evolution and  learning, parallelizing genetic 
+algorithms. 
+Learning Sets of Rules – Introduction, sequential covering algorithms, learning rule sets: 
+summary, learning First -Order rules, learning sets of First -Order rules: FOIL, Induction as 
+inverted deduction, inverting resolution. 
+Reinforcement Learning – Introduction, the learning task, Q –learning, non -deterministic, 
+rewards and actions, temporal difference learning, generalizing from examples, relationship 
+to dynamic programming. 
+ 
+UNIT - V 
+Analytical Learning-1- Introduction, learning with perfect domain theories: PROLOG-EBG, 
+remarks on explanation -based learning, explanation -based learning of search control 
+knowledge. 
+Analytical Learning -2-Using prior knowledge to alter the search objective, using prior 
+knowledge to augment search operators.  
+Combining Inductive and Analytical Learning  – Motivation, inductive -analytical 
+approaches to learning, using prior knowledge to initialize the hypothesis. 
+ 
+TEXT BOOK: 
+1. Machine Learning – Tom M. Mitchell, - MGH 
+ 
+REFERENCE: 
+1. Machine Learning: An Algorithmic Perspective, Stephen  Marshland, Taylor & 
+Francis 
+
+R16 B.TECH CSE. 
+ 
+SOFTWARE PROCESS AND PROJECT MANAGEMENT 
+(PROFESSIONAL ELECTIVE – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS734PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To acquire knowledge on software process management 
+ To acquire managerial skills for software project development 
+ To understand software economics 
+ 
+Course Outcomes: 
+ Gain knowledge of software economics, pha ses in the life cycle of software 
+development, project organization, project control and process instrumentation 
+ Analyze the major and minor milestones, artifacts and metrics from management and 
+technical perspective 
+ Design and develop software product usi ng conventional and modern principles of 
+software project management 
+ 
+UNIT - I  
+Software Process Maturity  
+Software maturity Framework, Principles of Software Process Change, Software Process 
+Assessment, The Initial Process, The Repeatable Process, The Def ined Process, The 
+Managed Process, The Optimizing Process.  
+Process Reference Models   
+Capability Maturity Model (CMM), CMMI, PCMM, PSP, TSP).  
+ 
+UNIT - II  
+Software Project Management Renaissance  
+Conventional Software Management, Evolution of Software Eco nomics, Improving Software 
+Economics, The old way and the new way.  
+Life-Cycle Phases and Process artifacts  
+Engineering and Production stages, inception phase, elaboration phase, construction phase, 
+transition phase, artifact sets, management artifacts, e ngineering artifacts and pragmatic 
+artifacts, model-based software architectures. 
+ 
+UNIT - III  
+Workflows and Checkpoints of process  
+Software process workflows, Iteration workflows, Major milestones, minor milestones, 
+periodic status assessments. 
+Process Planning 
+Work breakdown structures, Planning guidelines, cost and schedule estimating process, 
+iteration planning process, Pragmatic planning. 
+
+R16 B.TECH CSE. 
+ 
+UNIT - IV 
+Project Organizations 
+Line-of- business organizations, project organizations, evolution of organizations , process 
+automation.  
+Project Control and process instrumentation  
+The seven -core metrics, management indicators, quality indicators, life -cycle expectations, 
+Pragmatic software metrics, metrics automation. 
+ 
+UNIT - V 
+CCPDS-R Case Study and Future Software Project Management Practices  
+Modern Project Profiles, Next-Generation software Economics, Modern Process Transitions. 
+  
+TEXT BOOKS: 
+1. Managing the Software Process, Watts S. Humphrey, Pearson Education  
+2. Software Project Management, Walker Royce, Pearson Education  
+ 
+REFERENCES: 
+1. An Introduction to the Team Software Process, Watts S. Humphrey, Pearson 
+Education, 2000 Process Improvement essentials, James R. Persse, O’Reilly, 2006  
+2. Software Project Management, Bob Hughes & Mike Cotterell, fourth edition, TMH, 
+2006  
+3. Applied Software Project Management, Andrew Stellman & Jennifer Greene, 
+O’Reilly, 2006. 
+4. Head First PMP, Jennifer Greene & Andrew Stellman, O’Reilly, 2007 
+5. Software Engineering Project Management, Richard H. Thayer & Edward Yourdon, 
+2nd edition, Wiley India, 2004. 
+6. Agile Project Management, Jim Highsmith, Pearson education, 2004. 
+ 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+COMPUTATIONAL COMPLEXITY 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS741PE                          3     0    0    3 
+ 
+Prerequisites: 
+1. A course on “Computer Programming and Data Structures”. 
+2. A course on “Discrete Structures and Graph Theory”. 
+ 
+Course Objectives: 
+ Introduces to theory of computational complexity classes 
+ Discuss about algorithmic techniques and application of these techniques to problems. 
+ Introduce to randomized algorithms and discuss how effective they are in reducing 
+time and space complexity. 
+ Discuss about Graph based algorithms and approximation algorithms 
+ Discuss about search trees  
+ 
+Course Outcomes: 
+ Ability to classify decision problems into appropriate complexity classes 
+ Ability to specify what it means to reduce one problem to another, and construct 
+reductions for simple examples. 
+ Ability to classify optimization problems into appro priate approximation complexity   
+classes 
+ Ability to choose appropriate data structure for the given problem 
+ Ability to choose and apply appropriate design method for the given problem 
+ 
+UNIT - I  
+Computational Complexity: Polynomial time and its justificat ion, Nontrivial examples of 
+polynomial-time algorithms, the concept of reduction (reducibility), Class P Class NP and 
+NP- Completeness, The P versus NP problem and why it’s hard  
+ 
+UNIT - II  
+Algorithmic paradigms: Dynamic Programming – Longest common subse quence, matrix 
+chain multiplication, knapsack problem, Greedy – 0-1 knapsack, fractional knapsack, 
+scheduling problem, Huffman coding, MST, Branch -and-bound – travelling sales person 
+problem, 0/1 knapsack problem, Divide and Conquer – Merge sort, binary search, quick sort. 
+ 
+UNIT - III  
+Randomized Algorithms: Finger Printing, Pattern Matching, Graph Problems, Algebraic 
+Methods, Probabilistic Primality Testing, De-Randomization Advanced Algorithms: 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - IV 
+Graph Algorithms: Shortest paths, Flow networks, Spanning Trees; Approximation 
+algorithms, Randomized algorithms. Approximation algorithms: Polynomial Time 
+Approximation Schemes.  
+ 
+UNIT - V 
+Advanced Data Structures and applications: Decision Trees and Circuits, B -Trees, AVL 
+Trees, Red and Black trees, Di ctionaries and tries, Maps, Binomial Heaps, Fibonacci Heaps, 
+Disjoint sets, Union by Rank and Path Compression  
+ 
+TEXT BOOKS: 
+1. T. Cormen, C. Leiserson, R. Rivest and C. Stein, Introduction to Algorithms, Third 
+Edition, McGraw-Hill, 2009.  
+2. R. Motwani and P. R aghavan, Randomized Algorithms, Cambridge University Press, 
+1995.  
+3. J. J. McConnell, Analysis of Algorithms: An Active Learning Approach, Jones & 
+Bartlett Publishers, 2001. 
+4. D. E. Knuth, Art of Computer Programming, Volume 3, Sorting and Searching, 
+Second Edition, Addison-Wesley Professional, 1998.  
+5. S. Dasgupta, C. H. Papadimitriou and U. V. Vazirani, Algorithms, McGraw -Hill, 
+2008. 
+  
+
+R16 B.TECH CSE. 
+ 
+CLOUD COMPUTING 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS742PE                          3     0    0    3 
+ 
+Prerequisites: 
+ A course on “Computer Networks”. 
+ A course on “Operating Systems”. 
+ A course on “Distributed Systems”. 
+ 
+Course Objectives: 
+ This course provides an insight into cloud computing 
+ Topics covered include - distributed system models, different cloud service models , 
+service-oriented architectures, cloud programming and software environments, 
+resource management.  
+ 
+Course Outcomes: 
+ Ability to understand various service delivery models of a clou d computing 
+architecture. 
+ Ability to understand the ways in which the cloud can be programmed and deployed.  
+ Understanding cloud service providers. 
+ 
+UNIT - I  
+Computing Paradigms:  High-Performance Computing, Parallel Computing, Distributed 
+Computing, Cluster Computing, Grid Computing, Cloud Computing, Bio computing, Mobile 
+Computing, Quantum Computing, Optical Computing, Nano computing. 
+ 
+UNIT - II  
+Cloud Computing Fundamentals: Motivation for Cloud Computing, The Need     for Cloud 
+Computing, Defining Cloud Computing, Definition of Cloud computing, Cloud Computing Is 
+a Service, Cloud Computing Is a Platform, Principles of Cloud computing, Five Essential 
+Characteristics, Four Cloud Deployment Models 
+       
+UNIT - III 
+Cloud Computing Architecture and Managemen t: Cloud architecture, Layer, Anatomy of 
+the Cloud, Network Connectivity in Cloud Computing, Applications, on the Cloud, 
+Managing the Cloud, Managing the Cloud Infrastructure Managing the Cloud  application, 
+Migrating Application to Cloud, Phases of Cloud Migration Approaches for Cloud Migration. 
+ 
+UNIT - IV  
+Cloud Service Models: Infrastructure as a Service, Characteristics of IaaS. Suitability of 
+IaaS, Pros and Cons of IaaS, Summary of IaaS Providers, Platform as a Service, 
+
+R16 B.TECH CSE. 
+ 
+Characteristics of PaaS, Suitabil ity of PaaS, Pros and Cons of PaaS, Summary of PaaS 
+Providers, Software as a Service, Characteristics of SaaS, Suitability of SaaS, Pros and Cons 
+of SaaS, Summary of SaaS Providers, Other Cloud Service Models. 
+ 
+UNIT - V 
+Cloud Service Providers: EMC, EMC IT , Captiva Cloud Toolkit, Google, Cloud Platform, 
+Cloud Storage, Google Cloud Connect, Google Cloud Print, Google App Engine, Amazon 
+Web Services, Amazon Elastic Compute Cloud, Amazon Simple Storage Service, Amazon 
+Simple Queue ,service, Microsoft, Windows Azure, Microsoft Assessment and Planning 
+Toolkit, SharePoint, IBM, Cloud Models, IBM Smart Cloud, SAP Labs, SAP HANA Cloud 
+Platform, Virtualization Services Provided by SAP, Sales force, Sales Cloud, Service Cloud: 
+Knowledge as a Service, Rack space, VMware, Manjra soft, Aneka Platform 
+ 
+TEXT BOOKS: 
+1. Essentials of cloud Computing:  K. Chandrasekhran, CRC press, 2014 
+ 
+REFERENCE BOOKS: 
+1. Cloud Computing: Principles and Paradigms by Rajkumar Buyya, James Broberg and 
+Andrzej M. Goscinski, Wiley, 2011.  
+2. Distributed and Cloud Computing, Kai Hwang, Geoffery C.  Fox, Jack J.  Dongarra, 
+Elsevier, 2012. 
+3. Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance, 
+Tim Mather, Subra Kumaraswamy, Shahed Latif, O’Reilly, SPD, rp2011. 
+ 
+
+R16 B.TECH CSE. 
+ 
+BLOCKCHAIN TECHNOLOGY 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS743PE                          3     0    0    3 
+ 
+Prerequisites 
+1. Knowledge in security and applied cryptography; 
+2. Knowledge in distributed databases 
+ 
+Course Objectives: 
+ To Introduce block chain technology and Cryptocurrency 
+ 
+Course Outcomes: 
+ Learn about research advances related to one of the most popular technological areas 
+today. 
+ 
+UNIT- I 
+Introduction: Block chain or distributed trust, Prot ocol, Currency, Cryptocurrency,  How a 
+Cryptocurrency works, Crowdfunding 
+ 
+UNIT- II 
+Extensibility of Blockchain concepts, Digital Identity verification, Block chain Neutrality, 
+Digital art, Blockchain Environment 
+ 
+UNIT- III 
+Blockchain Science: Gridcoin, Folding coin, Blockchain Genomics, Bitcoin MOOCs 
+ 
+UNIT - IV 
+Currency, Token, Tokenizing, Campuscoin, Coindrop as a strategy for Public adoption, 
+Currency Multiplicity, Demurrage currency 
+ 
+UNIT - V 
+Technical challenges, Business model challenges, Scandals and Public perception, 
+Government Regulations 
+ 
+TEXTBOOK: 
+1. Blockchain Blue print for Economy by Melanie Swan     
+ 
+REFERENCE:  
+1. Blockchain Basics: A Non -Technical Introduction in 25 Steps 1st Edition, by Daniel 
+Drescher 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+SOCIAL NETWORK ANALYSIS 
+(PROFESSIONAL ELECTIVE – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS744PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To understand the concept of semantic web and related applications. 
+ To learn knowledge representation using ontology. 
+ To understand human behaviour in social web and related communities. 
+ To learn visualization of social networks. 
+ 
+Course Outcomes: Upon completion of the course, the students should be able to: 
+ Develop semantic web related applications. 
+ Represent knowledge using ontology. 
+ Predict human behaviour in social web and related communities. 
+ Visualize social networks. 
+ 
+UNIT - I  
+INTRODUCTION 
+Introduction to Semantic Web: Limitations of current Web – Development of Semantic Web 
+– Emergence of the Social Web – Social Network analysis: Development of Social Network 
+Analysis – Key concepts and measures in network analysis – Electronic sources for network 
+analysis: Electronic discussion networks, Blogs and online communities – Web-based 
+networks – Applications of Social Network Analysis. 
+ 
+UNIT - II  
+Modelling, Aggregating and Knowledge Representation 
+Ontology and their role in the Semantic Web: Ontology -based knowledge Representation – 
+Ontology languages for the Semantic Web: Resource Des cription Framework – Web 
+Ontology Language – Modelling and aggregating social network data: State -of-the-art in 
+network data representation – Ontological representation of social individuals – Ontological 
+representation of social relationships – Aggregating and reasoning with social network data – 
+Advanced representations. 
+ 
+UNIT - III  
+Extraction and Mining Communities in Web Social Networks 
+Extracting evolution of Web Community from a Series of Web Archive – Detecting 
+communities in social networks – Definition of community – Evaluating communities – 
+Methods for community detection and mining – Applications of community mining 
+algorithms – Tools for detecting communities social network infrastructures and communities 
+– Decentralized online social networks – Multi-Relational characterization of dynamic social 
+network communities. 
+
+R16 B.TECH CSE. 
+ 
+UNIT - IV  
+Predicting Human Behaviour and Privacy Issues         
+Understanding and predicting human behaviour for social communities – User data 
+management – Inference and Distributi on – Enabling new human experiences – Reality 
+mining – Context – Awareness – Privacy in online social networks – Trust in online 
+environment – Trust models based on subjective logic – Trust network analysis – Trust 
+transitivity analysis – Combining trust a nd reputation – Trust derivation based on trust 
+comparisons – Attack spectrum and countermeasures. 
+ 
+UNIT - V  
+Visualization and Applications of Social Networks  
+Graph theory – Centrality – Clustering – Node-Edge Diagrams – Matrix representation – 
+Visualizing online social networks, Visualizing social networks with matrix -based 
+representations – Matrix and Node-Link Diagrams – Hybrid representations – Applications – 
+Cover networks – Community welfare – Collaboration networks – Co-Citation networks. 
+ 
+TEXT BOOKS:  
+1. Peter Mika, ―Social Networks and the Semantic Web, First Edition, Springer 2007. 
+2. Borko Furht, ―Handbook of Social Network Technologies and Applications, 1st 
+Edition, Springer, 2010. 
+ 
+REFERENCES:  
+1. Guandong Xu, Yanchun  Zhang and Lin Li, Web Mining and S ocial Networking – 
+Techniques and applications, First Edition, Springer, 2011. 
+2. Dion Goh and Schubert Foo  - Social information Retrieval Systems: Emerging 
+Technologies and Applications for Searching the Web Effectively, IGI Global 
+Snippet, 2008. 
+3. Max Chevalier, Christine Julien and Chantal Soulé -Dupuy, Collaborative and Social 
+Information Retrieval and Access: Techniques for Improved user Modelling, IGI 
+Global Snippet, 2009. 
+4. John G. Breslin, Alexander Passant and Stefan Decker, -The Social Semantic Web, 
+Springer, 2009. 
+  
+
+R16 B.TECH CSE. 
+ 
+DATA MINING LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS703PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To obtain practical experience using data mining techniques on real world data sets. 
+ Emphasize hands-on experience working with all real data sets. 
+ 
+Course Outcomes: 
+ Ability to add mining algorithms as a component to the exiting tools 
+ Ability to apply mining techniques for realistic data.  
+ 
+List of Sample Problems:  
+ 
+Task 1: Credit Risk Assessment 
+Description: 
+The business of banks is making loans. Assessing the credit worthiness of an applicant is of 
+crucial importance. You have to develop a system to help a loan officer decide whether the 
+credit of a customer is good, or bad. A bank's business rules regarding loans must consider 
+two opposing factors. On the one hand, a bank wants to make as many loans as possible. 
+Interest on these loans is the banks profit source. On the other hand, a bank cannot afford to 
+make too many bad loans. Too many bad loans could lead to the collapse of the bank. The 
+bank's loan policy must involve a compromise: not too strict, and not too lenient. 
+To do the assignment, you first and foremost need some knowledge about the world of credit. 
+You can acquire such knowledge in a number of ways. 
+1. Knowledge Engineering. Find a loan officer who is willing to talk. Interview her and 
+try to represent her knowledge in the form of production rules.  
+2. Books. Find some training manuals for loan officers or perhaps a suitable textbook on 
+finance. Translate this knowledge from text form to production rule form.  
+3. Common sense. Imagine yourself as a loan officer and make up reasonable rules 
+which can be used to judge the credit worthiness of a loan applicant.  
+4. Case histories. Find records of actual cases where competent loan officers correctly 
+judged when, and when not to, approve a loan application.  
+ 
+The German Credit Data: 
+Actual historical credit data is not always easy to come by because of confidentiality rules. 
+Here is one such dataset, consisting of 1000 actual cases collected in Germany. Credit dataset 
+(original) Excel spreadsheet version of the German credit data. 
+In spite of the fact that the data is German, you should probably make use of it for this 
+assignment. (Unless you really can consult a real loan officer!) 
+A few notes on the German dataset 
+1. DM stands for Deutsche Mark, the unit of currency, worth about 90 cents Canadian 
+(but looks and acts like a quarter). 
+
+R16 B.TECH CSE. 
+ 
+2. owns_telephone. German phone rates are much higher than in Canada so fewer 
+people own telephones. 
+3. foreign_worker. There are millions of these in Germany (many from Turkey). It is 
+very hard to get German citizenship if you were not born of German parents.  
+4. There are 20 attributes used in judging a loan applicant. The goal is to classify the 
+applicant into one of two categories, good or bad. 
+ 
+Subtasks: (Turn in your answers to the following tasks)  
+1. List all the categorical (or nominal) attributes and the real -valued attributes seperately. 
+(5 marks)  
+2. What attributes do you think might be crucial in making the credit assessment? Come 
+up with some simple rules in plain English using your selected attributes. (5 marks)  
+3.  One type of model that you can create is a Decision  Tree - train a Decision Tree using 
+the complete dataset as the training data. Report the model obtained after training. (10 
+marks)  
+4.  Suppose you use your above model trained on the complete dataset, and classify credit 
+good/bad for each of the examples  in the dataset. What % of examples can you 
+classify correctly? (This is also called testing on the training set) Why do you think 
+you cannot get 100 % training accuracy? (10 marks)  
+5.  Is testing on the training set as you did above a good idea? Why or W hy not ? (10 
+marks)  
+6.  One approach for solving the problem encountered in the previous question is using 
+cross-validation? Describe what is cross -validation briefly. Train a Decision Tree 
+again using cross -validation and report your results. Does your a ccuracy 
+increase/decrease? Why? (10 marks)  
+7. Check to see if the data shows a bias against "foreign workers" (attribute 20), or 
+"personal-status" (attribute 9). One way to do this (perhaps rather simple minded) is to 
+remove these attributes from the data set and see if the decision tree created in those 
+cases is significantly different from the full dataset case which you have already done. 
+To remove an attribute, you can use the preprocess tab in Weka's GUI Explorer. Did 
+removing these attributes have any significant effect? Discuss. (10 marks)  
+8.  Another question might be, do you really need to input so many attributes to get good 
+results? Maybe only a few would do. For example, you could try just having attributes 
+2, 3, 5, 7, 10, 17 (and 21, the class a ttribute (naturally)). Try out some combinations. 
+(You had removed two attributes in problem 7. Remember to reload the arff data file 
+to get all the attributes initially before you start selecting the ones you want.) (10 
+marks)  
+9.  Sometimes, the cost of rejecting an applicant who actually has a good credit (case 1) 
+might be higher than accepting an applicant who has bad credit (case 2). Instead of 
+counting the misclassifcations equally in both cases, give a higher cost to the first case 
+(say cost 5) and lower cost to the second case. You can do this by using a cost matrix 
+in Weka. Train your Decision Tree again and report the Decision Tree and cross -
+validation results. Are they significantly different from results obtained in problem 6 
+(using equal cost)? (10 marks)  
+
+R16 B.TECH CSE. 
+ 
+10. Do you think it is a good idea to prefer simple decision trees instead of having long 
+complex decision trees? How does the complexity of a Decision Tree relate to the bias 
+of the model? (10 marks)  
+11. You can make your Decision Trees simpl er by pruning the nodes. One approach is to 
+use Reduced Error Pruning - Explain this idea briefly. Try reduced error pruning for 
+training your Decision Trees using cross -validation (you can do this in Weka) and 
+report the Decision Tree you obtain? Also, re port your accuracy using the pruned 
+model. Does your accuracy increase? (10 marks)  
+12.(Extra Credit): How can you convert a Decision Trees into "if -then-else rules". Make 
+up your own small Decision Tree consisting of 2 -3 levels and convert it into a set o f 
+rules. There also exist different classifiers that output the model in the form of rules - 
+one such classifier in Weka is rules. PART, train this model and report the set of rules 
+obtained. Sometimes just one attribute can be good enough in making the de cision, 
+yes, just one ! Can you predict what attribute that might be in this dataset ? OneR 
+classifier uses a single attribute to make decisions (it chooses the attribute based on 
+minimum error). Report the rule obtained by training a one R classifier. Ran k the 
+performance of j48, PART and oneR. (10 marks)  
+ 
+Task Resources: 
+ Mentor lecture on Decision Trees 
+ Andrew Moore's Data Mining Tutorials (See tutorials on Decision Trees and Cross 
+Validation)  
+ Decision Trees (Source: Tan, MSU) 
+ Tom Mitchell's book slides (See slides on Concept Learning and Decision Trees)  
+ Weka resources: 
+o Introduction to Weka (html version) (download ppt version) 
+o Download Weka 
+o Weka Tutorial 
+o ARFF format 
+o Using Weka from command line 
+ 
+Task 2: Hospital Management System 
+Data Warehouse consists Dimension Table and Fact Table.  
+REMEMBER The following 
+Dimension 
+The dimension object (Dimension): 
+_ Name 
+_ Attributes (Levels) , with one primary key  
+_ Hierarchies 
+One time dimension is must. 
+About Levels and Hierarchies 
+Dimension objects (dimension) consist of a set of levels and a set of hierarchies defined over 
+those levels. The levels represent levels of aggregation. Hierarchies describe parent -child 
+relationships among a set of levels. 
+
+R16 B.TECH CSE. 
+ 
+For example, a typical c alendar dimension could contain five levels. Two hierarchies can be 
+defined on these levels: 
+H1: YearL > QuarterL > MonthL > WeekL > DayL 
+H2: YearL > WeekL > DayL 
+The hierarchies are described from parent to child, so that Year is the parent of Quarter, 
+Quarter the parent of Month, and so forth. 
+ 
+About Unique Key Constraints 
+When you create a definition for a hierarchy, Warehouse Builder creates an identifier key for 
+each level of the hierarchy and a unique key constraint on the lowest level (Base Level) 
+Design a Hospital Management system data warehouse (TARGET) consists of Dimensions 
+Patient, Medicine, Supplier, Time.  Where measures are ‘NO UNITS’, UNIT PRICE. 
+Assume the Relational database (SOURCE) table schemas as follows  
+TIME (day, month, year),  
+PATIENT (patient_name, Age, Address, etc.,) 
+MEDICINE ( Medicine_Brand_name, Drug_name, Supplier, no_units, Uinit_Price, etc.,) 
+SUPPLIER :( Supplier_name, Medicine_Brand_name, Address, etc., ) 
+If each Dimension has 6 levels, decide the levels and hierarchies,  Assume the level names 
+suitably. 
+Design the Hospital Management system data warehouse using all schemas. Give the 
+example 4-D cube with assumption names. 
+ 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+PYTHON PROGRAMMING LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS751PC                          0     0    3    2 
+ 
+Prerequisites: Students should install Python on Linux platform. 
+Course Objectives: 
+ To be able to introduce core programming basics and program design with functions 
+using Python programming language. 
+ To understand a range of Object-Oriented Programming, as well as in-depth data and 
+information processing techniques.  
+ To understand the high-performance programs designed to strengthen the practical 
+expertise.  
+ 
+Course Outcomes: 
+ Student should be able to understand the basic concepts scripting and the 
+contributions of scripting language 
+ Ability to explore python especially the object oriented concepts, and the built in 
+objects of Python. 
+ Ability to create practical and contemporary applications such as TCP/IP network 
+programming, Web applications, discrete event simulations 
+ 
+List of Programs: 
+1. Write a program to demonstrate different number data types in Python. 
+2. Write a program to perform different Arithmetic Operations on numbers in Python. 
+3. Write a program to create, concatenate and print a string and accessing sub-string 
+from a given string. 
+4. Write a python script to print the current date in the following format “Sun May 29 
+02:26:23 IST 2017” 
+5. Write a program to create, append, and remove lists in python. 
+6. Write a program to demonstrate working with tuples in python. 
+7. Write a program to demonstrate working with dictionaries in python. 
+8. Write a python program to find largest of three numbers. 
+9. Write a Python program to convert temperatures to and from Celsius, Fahrenheit.  
+[ Formula: c/5 = f-32/9] 
+10. Write a Python program to construct the following pattern, using a nested for loop 
+      * 
+* *  
+* * *  
+* * * *  
+* * * * *  
+* * * *  
+* * *  
+
+R16 B.TECH CSE. 
+ 
+* *  
+* 
+11. Write a Python script that prints prime numbers less than 20. 
+12. Write a python program to find factorial of a number using Recursion. 
+13. Write a program that accepts the lengths of three sides of a triangle as inputs. The 
+program output should indicate whether or not the triangle is a right triangle (Recall 
+from the Pythagorean Theorem that in a right triangle, the square of one side equals 
+the sum of the squares of the other two sides). 
+14. Write a python program to define a module to find Fibonacci Numbers and import the 
+module to another program. 
+15. Write a python program to define a module and import a specific function in that 
+module to another program. 
+16. Write a script named copyfile.py. This script should prompt the user for the names of 
+two text files. The contents of the first file should be input and written to the second 
+file. 
+17. Write a program that inputs a text file. The program should print all of the unique 
+words in the file in alphabetical order. 
+18. Write a Python class to convert an integer to a roman numeral. 
+19. Write a Python class to implement pow(x, n) 
+20. Write a Python class to reverse a string word by word. 
+ 
+
+R16 B.TECH CSE. 
+ 
+MOBILE APPLICATION DEVELOPMENT LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS752PC                          0     0    3    2 
+ 
+Course Objectives: 
+ To learn how to develop Applications in android environment. 
+ To learn how to develop user interface applications. 
+ To learn how to develop URL related applications. 
+ 
+The student is expected to be able to do the following problems, though not limited. 
+ 
+1. (a) Create an Android application that shows Hello + name of the user and run it on 
+an emulator.   
+(b) Create an application that takes the name from a text box and shows hello message 
+along with the name entered in text box, when the user clicks the OK button. 
+ 
+2. Create a screen that has input boxes for User Name, Password, Address, Gender 
+(radio buttons for male and female), Age (numeric), Date of Birth (Date Picket), State 
+(Spinner) and a Submit button. On clicking the submit button, print all the data below 
+the Submit Button. Use 
+(a) Linear Layout,  (b) Relative Layout and    
+(c) Grid Layout or Table Layout. 
+ 
+3. Develop an application that shows names as a l ist and on selecting a name it should 
+show the details of the candidate on the next screen with a “Back” button. If the 
+screen is rotated to landscape mode (width greater than height), then the screen should 
+show list on left fragment and details on right fragment instead of second screen with 
+back button. Use Fragment transactions and Rotation event listener. 
+ 
+4. Develop an application that uses a menu with 3 options for dialing a number, opening 
+a website and to send an SMS. On selecting an option, the appro priate action should 
+be invoked using intents. 
+ 
+5. Develop an application that inserts some notifications into Notification area and 
+whenever a notification is inserted, it should show a toast with details of the 
+notification. 
+ 
+6. Create an application that uses  a text file to store user names and passwords (tab 
+separated fields and one record per line). When the user submits a login name and 
+password through a screen, the details should be verified with the text file data and if 
+they match, show a dialog saying that login is successful. Otherwise, show the dialog 
+with Login Failed message. 
+ 
+
+R16 B.TECH CSE. 
+ 
+7. Create a user registration application that stores the user details in a database table. 
+ 
+8. Create a database and a user table where the details of login names and passwords are  
+stored. Insert some names and passwords initially. Now the login details entered by 
+the user should be verified with the database and an appropriate dialog should be 
+shown to the user. 
+Note:  
+Android Application Development with MIT App Inventor:  For the first one week, the 
+student is advised to go through the App Inventor from MIT which gives insight into the 
+various properties of each component.  
+The student should pay attention to the properties of each component, which are used later in 
+Android programming. Following are useful links: 
+1. http://ai2.appinventor.mit.edu 
+2. https://drive.google.com/file/d/0B8rTtW_91YclTWF4czdBMEpZcWs/view 
+  
+
+R16 B.TECH CSE. 
+ 
+WEB SCRIPTING LANGUAGES LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS753PC                          0     0    3    2 
+ 
+Prerequisites: Any High-level programming language (C, C++) 
+ 
+Course Objectives  
+ To Understand the concepts of scripting languages for developing web-based projects 
+ To understand the applications the of Ruby, TCL, Perl scripting languages 
+ 
+Course Outcomes 
+ Ability to understand the differences between Scri pting languages and programming 
+languages 
+ Able to gain some fluency programming in Ruby, Perl, TCL 
+ 
+List of Experiments 
+1. Write a Ruby script to create a new string which is n copies of a given string where n 
+is a non-negative integer 
+2. Write a Ruby script which accept the radius of a circle from the user and compute the 
+parameter and area. 
+3. Write a Ruby script which accept the user's first and last name and print them in 
+reverse order with a space between them 
+4. Write a Ruby script to accept a filename from the user print the extension of that 
+5. Write a Ruby script to find the greatest of three numbers 
+6. Write a Ruby script to print odd numbers from 10 to 1 
+7. Write a Ruby scirpt to check two integers and return true if one of them is 20 
+otherwise return their sum 
+8. Write a Ruby script to check two temperatures and return true if one is less than 0 and 
+the other is greater than 100 
+9. Write a Ruby script to print the elements of a given array 
+10. Write a Ruby program to retrieve the total marks where subject name and marks of a 
+student stored in a hash  
+11. Write a TCL script to find the factorial of a number 
+12. Write a TCL script that multiplies the numbers from 1 to 10 
+13. Write a TCL script for Sorting a list using a comparison function 
+14. Write a TCL script to (i)create a list  (ii )append e lements to the list (iii)Traverse the 
+list (iv)Concatenate the list 
+15. Write a TCL script to comparing the file modified times. 
+16. Write a TCL script to Copy a file and translate to native format. 
+17.  a) Write a Perl script to find the largest number among three numbers. 
+ b) Write a Perl script to print the multiplication tables from 1-10 using subroutines. 
+18. Write a Perl program to implement the following list of manipulating functions 
+a) Shift 
+
+R16 B.TECH CSE. 
+ 
+b) Unshift 
+c) Push 
+19. a) Write a Perl script to substitute a word, with another word in a string. 
+b) Write a Perl script to validate IP address and email address. 
+20. Write a Perl script to print the file in reverse order using command line arguments 
+  
+
+R16 B.TECH CSE. 
+ 
+INTERNET OF THINGS LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: CS754PC                          0     0    3    2 
+ 
+Following are some of the programs that a student should be able to write 
+and test on an Raspberry Pi, but not limited to this only. 
+ 
+1 Start Raspberry Pi and try various Linix commands in command terminal window: 
+ls, cd, touch, mv, rm, man, mkdir, rmdir, tar, gzip, cat, more, less, ps, sudo, cron, chown, 
+chgrp, ping etc. 
+2. Run some python programs on Pi like: 
+Read your name and print Hello message with name 
+Read two numbers and print their sum, difference, product and division. 
+Word and character count of a given string 
+Area of a given shape (rectangle, triangle and circle) reading shape and appropriate values 
+from standard input 
+Print a name 'n' times, where name and n are read from standard input, using for and while 
+loops. 
+Handle Divided by Zero Exception. 
+Print current time for 10 times with an interval of 10 seconds. 
+Read a file line by line and print the word count of each line. 
+3. Light an LED through Python program 
+4. Get input from two switches and switch on corresponding LEDs 
+5. Flash an LED at a given on time and off time cycle, where the two times are taken from a 
+file. 
+6. Flash an LED based on cron output (acts as an alarm) 
+7. Switch on a relay at a given time using cron, where the relay's contact terminals are 
+connected to a load. 
+8. Get the status of a bulb at a remote place (on the LAN) through web. 
+ 
+The student should have hands on experience in using various sensors like temperature, 
+humidity, smoke, light, etc. and should be able to use control web camera, network, and 
+relays connected to the Pi. 
+  
+
+R16 B.TECH CSE. 
+ 
+INFORMATION THEORY AND CODING 
+(PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS851PE                          3     0    0    3 
+ 
+Prerequisite: Digital Communications 
+ 
+Course Objectives: 
+ To acquire the knowledge in measurement of information and errors. 
+ Understand the importance of various codes for communication systems 
+ To design encoder and decoder of various codes. 
+ To know the applicability of source and channel codes 
+ 
+Course Outcomes: Upon completing this course, the student will be able to  
+ Learn measurement of information and errors. 
+ Obtain knowledge in designing various source codes and channel codes 
+ Design encoders and decoders for block and cyclic codes 
+ Understand the significance of codes in various applications 
+ 
+UNIT - I 
+Coding for Reliable Digital Transmission and storage 
+Mathematical model of Information, A Logarithmic Measure of Information,  Average and 
+Mutual Information and Entropy, Types of Errors, Error Control Strategies. 
+Source Codes: Shannon-fano coding, Huffman coding 
+ 
+UNIT - II 
+Linear Block Codes:  Introduction to Linear Block Codes, Syndrome and Error Detection, 
+Minimum Distance of a  Block code, Error -Detecting and Error -correcting Capabilities of a 
+Block code, Standard array and Syndrome Decoding, Probability of an undetected error for 
+Linear Codes over a BSC, Hamming Codes. Applications of Block codes for Error control in 
+data storage system 
+ 
+UNIT - III 
+Cyclic Codes: Description, Generator and Parity -check Matrices, Encoding, Syndrome 
+Computation and Error Detection, Decoding, Cyclic  Hamming Codes, shortened cyclic 
+codes, Error-trapping decoding for cyclic codes, Majority logic decoding for cyclic codes. 
+ 
+UNIT - IV 
+Convolutional Codes: Encoding of Convolutional Codes - Structural and  Distance 
+Properties, state, tree, trellis diagrams, maximum likelihood decoding, Sequential decoding, 
+Majority- logic decoding of Convolution  codes. Appli cation of Viterbi Decoding and 
+Sequential Decoding, Applications of Convolutional codes in ARQ system. 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - V 
+BCH Codes: Minimum distance and BCH bounds, Decoding procedure for BCH codes, 
+Syndrome computation and iterative algorithms, Error locations po lynomials for single and 
+double error correction. 
+ 
+TEXT BOOKS: 
+1. Error Control Coding - Fundamentals and Applications –Shu Lin, Daniel J.  Costello, 
+Jr, Prentice Hall, Inc 2014. 
+2. Error Correcting Coding Theory-Man Young Rhee, McGraw – Hill Publishing 1989 
+ 
+REFERENCE BOOKS: 
+1. Digital Communications- John G. Proakis, 5th ed, TMH 2008.  
+2. Introduction to Error Control Codes-Salvatore Gravano-oxford 
+3. Error Correction Coding – Mathematical Methods and Algorithms – Todd K. Moon, 
+2006, Wiley India. 
+4. Information Theory, Codin g and Cryptography – Ranjan Bose, 2 nd Edition, 2009, 
+TMH. 
+  
+
+R16 B.TECH CSE. 
+ 
+REAL-TIME SYSTEMS 
+(PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS852PE                          3     0    0    3 
+ 
+Prerequisite: Computer Organization and Operating System 
+ 
+Course Objectives: 
+ To provide broad understanding of the requirements of Real Time Operating Systems. 
+ To make the student understand, applications of these Real Time features using case 
+ studies. 
+ 
+Course Outcomes: 
+ Be able to explain real-time concepts such as preemptive multitasking, task priorities, 
+ priority inversions, mutual exclusion, context switching, and synchronization, 
+interrupt 
+ latency and response time, and semaphores. 
+ Able describe how a real-time operating system kernel is implemented. 
+ Able explain how tasks are managed. 
+ Explain how the real-time operating system implements time management. 
+ Discuss how tasks can communicate using semaphores, mailboxes, and queues. 
+ Be able to implement a real-time system on an embedded processor. 
+ Be able to work with real time operating systems like RT Linux, Vx Works, MicroC 
+/OSII, Tiny OS 
+ 
+UNIT – I: Introduction 
+Introduction to UNIX/LINUX, Overview of Commands, File I/O, (open, create, close, lseek, 
+read, write), Process Control (fork, vfork, exit, wait, waitpid, exec). 
+ 
+UNIT - II: Real Time Operating Systems 
+Brief History of OS, Defining RTOS, The Scheduler, Objects, Services, Characteristics of  
+RTOS, defining a Task, asks States and Scheduling, Task Operations, Structure, 
+Synchronization, Communication and Concurrency. Defining Semaphores, Operations and 
+Use, Defining Message Queue, States, Content, Storage, Operations and Use 
+ 
+UNIT - III: Objects, Services and I/O 
+Pipes, Event Registers, Signals, Other Building Blocks, Component Configuration, Basic I/O 
+Concepts, I/O Subsystem 
+ 
+UNIT - IV: Exceptions, Interrupts and Timers 
+Exceptions, Interrupts, Applications, Processing of Exceptions and Spurious Interrupts, Real 
+Time Clocks, Programmable Timers, Timer Interrupt Service Routines (ISR), Soft Timers, 
+
+R16 B.TECH CSE. 
+ 
+Operations. 
+ 
+UNIT - V: Case Studies of RTOS 
+RT Linux, MicroC/OS-II, Vx Works, Embedded Linux, and Tiny OS. 
+ 
+TEXT BOOKS: 
+1. Real Time Concepts for Embedded Systems – Qing Li, Elsevier, 2011 
+ 
+REFERENCE BOOKS: 
+1. Embedded Systems- Architecture, Programming and Design by Rajkamal, 2007, TMH. 
+2. Advanced UNIX Programming, Richard Stevens 
+3. Embedded Linux: Hardware, Software and Interfacing – Dr. Craig Hollabaugh 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+DATA ANALYTICS 
+(PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS853PE                          3     0    0    3 
+ 
+Prerequisites 
+1. A course on “Database Management Systems” 
+2. Knowledge of probability and statistics 
+ 
+Course Objectives: To explore the fundamental concepts of data analytics. 
+ To learn the principles and methods of statistical analysis 
+ Discover interesting patterns, analyze supervised and unsupervised models and 
+estimate the accuracy of the algorithms. 
+ To understand the various search methods and visualization techniques. 
+ 
+Course Outcomes: After completion of this course students will be able to  
+ Understand the impact of data analytics for business decisions and strategy  
+ Carry out data analysis/statistical analysis 
+ To carry out standard data visualization and formal inference procedures 
+ Design Data Architecture 
+ Understand various Data Sources 
+ 
+UNIT - I 
+Data Management: Design Data Architecture and manage the data for analysis, understand 
+various sources of Data like Sensors/Signals/GPS etc . Data Management, Data Quality  
+(noise, outliers, missing values, duplicate data) and Data Processing & Processing. 
+ 
+UNIT - II 
+Data Analytics: Introduction to Analytics, Introduction to Tools and Environment, 
+Application of Modeling in Business, Databases & Types of Data and variables, Data 
+Modeling Techniques, Missing Imputations etc. Need for Business Modeling. 
+ 
+UNIT - III 
+Regression – Concepts, Blue property assumptions, Least Square Estimation, Variable 
+Rationalization, and Model Building etc. 
+Logistic Regression: Model Theory, Model fit Statistics, Model Construction, Analytics 
+applications to various Business Domains etc.  
+ 
+UNIT - IV 
+Object Segmentation: Regression Vs Segmentation – Supervised and Unsupervised Learning, 
+Tree Building – Regression, Classification, Overfitting, Pruning and Complexity, Multiple 
+Decision Trees etc. 
+Time Series Methods: Arima, Measures of Forecast Accuracy, STL approach, Extract 
+features from generated model as Height, Average Energy etc and Analyze for prediction 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - V 
+Data Visualization: Pixel -Oriented Visualization Techniques, Geometric Projection 
+Visualization Techniques, Icon -Based Visualization Techniques, Hierarchical Visualization 
+Techniques, Visualizing Complex Data and Relations. 
+ 
+TEXT BOOKS: 
+1. Student’s Handbook for Associate Analytics – II, III. 
+2. Data Mining Concepts and Techniques, Han, Kamber, 3 rd Edition, Morgan Kaufmann 
+Publishers. 
+ 
+REFERENCE BOOKS: 
+1. Introduction to Data Mining, Tan, Steinbach and Kumar, Addision Wisley, 2006. 
+2. Data Mining Analysis and Concepts, M. Zaki and W. Meira 
+3. Mining of Massive Datasets, Jure  Leskovec Stanford Univ. Anand Rajaraman  
+Milliway Labs Jeffrey D Ullman Stanford Univ. 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+MODERN SOFTWARE ENGINEERING 
+ (PROFESSIONAL ELECTIVE – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS854PE                          3     0    0    3 
+ 
+UNIT - I 
+Introduction Extreme Programming (XP) - Agile Development  
+Why Agile - Understanding Success, Beyond Deadlines, Importance of Organizational 
+Success, Introduc tion to Agility , How to Be Agile - Agile methods, Don't make your own 
+method, Road to mastery , Understanding XP (Extreme Programming) - XP life cycle, XP 
+team, XP Concepts , Adopting XP - Knowing whether XP is suitable, Implementing XP, 
+assessing Agility , Practicing XP - Thinking - Pair Programming, Energized work, 
+Informative Workspace, Root cause Analysis, Retrospectives 
+ 
+UNIT - II 
+Collaborating: Trust, Sit together, Real customer involvement, Ubiquitous language, 
+meetings, coding standards, Iteration demo, Reporting 
+ 
+UNIT - III 
+Releasing: Bugfree Release, Version Control, fast build, continuous integration, Collective 
+ownership, Documentation 
+ 
+UNIT - IV 
+Planing: Version, Release Plan, Risk Management, Iteration Planning, Slack, Stories, 
+Estimating 
+ 
+UNIT - V 
+Developing: Incremental requirements, Customer tests, Test driven development,  
+Refactoring, Incremental design and architecture, spike solutions, Performance optimization, 
+Exploratory testing 
+ 
+TEXT BOOK:  
+1. The art of Agile Development, James Shore and Shane Warden, 11th Indian Reprint, 
+O'Reilly, 2018 
+ 
+REFERENCES: 
+1. Learning Agile, Andrew Stellman and Jennifer Greene, O’Reilly, 4th Indian Reprint, 
+2018 
+2. Practices of an Agile Developer, Venkat Subramaniam and Andy Hunt, SPD, 5th 
+Indian Reprint, 2015 
+3. Agile Project Management - Jim Highsmith, Pearson Low price Edition 2004 
+  
+
+R16 B.TECH CSE. 
+ 
+ADVANCED ALGORITHMS 
+ (PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS861PE                          3     0    0    3 
+ 
+Prerequisites: 
+1. A course on “Computer Programming & Data Structures”. 
+2. A course on “Advanced Data Structures & Algorithms”. 
+ 
+Course Objectives: 
+ Introduces the recurrence relations for analyzing the algorithms. 
+ Introduces the graphs and their traversals.  
+ Describes major algorithmic techniques (divide-and-conquer, greedy, dynamic 
+programming, Brute Force, Transform and Conquer approaches) and mention 
+problems for which each technique is appropriate. 
+ Describes how to evaluate and compare different algorithms using worst-case, 
+average-case and best-case analysis.  
+ Introduces string matching algorithms. 
+ Introduces linear programming. 
+ 
+Course Outcomes: 
+ Ability to analyze the performance of algorithms. 
+ Ability to choose appropriate data structures and algorithm design methods for a 
+specified application. 
+ Ability to understand how the choice of data structures and the algorithm design 
+methods impact the performance of programs. 
+ 
+UNIT - I  
+Introduction: Role of Algorithms in computing, Order Notation, Recurrences, Pro babilistic 
+Analysis and Randomized Algorithms. Sorting and Order Statistics: Heap sort, Quick sort 
+and Sorting in Linear Time. 
+Advanced Design and Analysis Techniques: Dynamic Programming - Matrix chain 
+Multiplication, Longest common Subsequence and optimal binary Search trees.  
+ 
+UNIT - II  
+Greedy Algorithms - Huffman Codes, Activity Selection Problem. Amortized Analysis. 
+Graph Algorithms: Topological Sorting, Minimum Spanning trees, Single Source Shortest 
+Paths, Maximum Flow algorithms. 
+ 
+UNIT - III  
+Sorting Networks: Comparison Networks, Zero -one principle, bitonic Sorting Networks, 
+Merging Network, Sorting Network.  
+
+R16 B.TECH CSE. 
+ 
+Matrix Operations- Strassen's Matrix Multiplication, inverting matrices, Solving system of 
+linear Equations 
+ 
+UNIT - IV  
+String Matching: Naive String Matching, Rabin -Karp algorithm, matching with finite 
+Automata, Knuth- Morris - Pratt algorithm. 
+ 
+UNIT - V  
+NP-Completeness and Approximation Algorithms: Polynomial time, polynomial time 
+verification, NP -Completeness and reducibility, NP -Complete pro blems. Approximation 
+Algorithms- Vertex cover Problem, Travelling Sales person problem 
+ 
+TEXT BOOK: 
+1. Introduction to Algorithms,'' T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, 
+Third Edition, PHI.  
+ 
+REFERENCES: 
+1. Fundamentals of Computer Algorit hms, Ellis Horowitz,  Satraj Sahni and 
+Rajasekharam, Galgotia publications pvt. Ltd. 
+2. Design and Analysis Algorithms  - Parag Himanshu Dave, Himanshu Bhalchandra 
+Dave Publisher: Pearson 
+3. Algorithm Design: Foundations, Analysis and Internet examples, M.T.  Goodrich and   
+R. Tomassia, John Wiley and sons. 
+4. Data structures and Algorithm Analysis in C++, Allen Weiss, Second edition, Pearson 
+education. 
+  
+
+R16 B.TECH CSE. 
+ 
+WEB SERVICES AND SERVICE ORIENTED ARCHITECTURE 
+(PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS862PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To Understand Web Services and implementation model for SOA 
+ To Understand the SOA, its Principles and Benefits 
+ To Understand XML concepts 
+ To Understand paradigms needed for testing Web Services 
+ To explore different Test Strategies for SOA-based applications 
+ To implement functional testing, compliance testing and load testing of Web Services 
+ To Identify bug-finding ideas in testing Web Services 
+ 
+UNIT - I 
+Evolution and Emergence of Web Services - Evolution of distributed computing, Core 
+distributed computing technologies – client/server, CORBA, JAVA RMI, Microsoft DCOM, 
+MOM, Challenges in Distributed Computing, role of J2EE and XML in dist ributed 
+computing, emergence of Web Services and Service Oriented Architecture (SOA). 
+Introduction to Web Services  – The definition of web services, basic operational model of 
+web services, tools and technologies enabling web services, benefits and challen ges of using 
+web services. 
+ 
+UNIT - II 
+Web Services Architecture  – Web services Architecture and its characteristics, core 
+building blocks of web services, standards and technologies available for implementing web 
+services, web services communication, basic steps of implementing web services. Describing 
+Web Services – WSDL introduction, nonfunctional service description, WSDL1.1 Vs WSDL 
+2.0, WSDL document, WSDL elements, WSDL binding, WSDL tools, WSDL port type, 
+limitations of WSDL. 
+ 
+UNIT – III 
+Brief Over View of XML – XML Document structure, XML namespaces, Defining structure 
+in XML documents, Reuse of XML schemes, Document navigation and transformation. 
+SOAP: Simple Object Access Protocol, Inter -application communication and wire protocols, 
+SOAP as a messag ing protocol, Structure of a SOAP message, SOAP envelope, Encoding, 
+Service Oriented Architectures, SOA revisited, Service roles in a SOA, Reliable messaging, 
+The enterprise Service Bus, SOA Development Lifecycle, SOAP HTTP binding, SOAP 
+communication model, Error handling in SOAP. 
+ 
+UNIT – IV 
+Registering and Discovering Services: The role of service registries, Service discovery, 
+Universal Description, Discovery, and Integration, UDDI Architecture, UDDI Data Model, 
+
+R16 B.TECH CSE. 
+ 
+Interfaces, UDDI Implementation, UDDI with  WSDL, UDDI specification, Service 
+Addressing and Notification, Referencing and addressing Web Services, Web Services 
+Notification. 
+ 
+UNIT – V  
+SOA and web services security considerations, Network -level security mechanisms, 
+Application-level security topologies, XML security standards, Semantics and Web Services, 
+The semantic interoperability problem, The role of metadata, Service metadata, Overview of 
+.NET and J2EE, SOA and Web Service Management, Managing Distributed System, 
+Enterprise management Framewor k, Standard distributed management frameworks, Web 
+service management, Richer schema languages, WS-Metadata Exchange. 
+ 
+TEXT BOOKS: 
+1. Web Services & SOA Principles and Technology, Second Edition, Michael P. 
+Papazoglou. 
+2. Developing Java Web Services, R. Nagappa n, R. Skoczylas, R.P. Sriganesh, Wiley 
+India. 
+3. Developing Enterprise Web Services, S. Chatterjee, J. Webber, Pearson Education. 
+ 
+REFERENCE BOOKS: 
+1. XML, Web Services, and the Data Revolution, F.P. Coyle, Pearson Education. 
+2. Building web Services with Java, 2nd  Edition, S. Graham and others, Pearson 
+Education. 
+3. Java Web Services, D.A. Chappell & T. Jewell, O’Reilly, SPD. 
+4. McGovern, et al., “Java web Services Architecture”, Morgan Kaufmann Publishers, 
+2005. 
+5. J2EE Web Services, Richard Monson-Haefel, Pearson Education. 
+  
+
+R16 B.TECH CSE. 
+ 
+COMPUTER FORENSICS 
+(PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS863PE                          3     0    0    3 
+ 
+Prerequisite: Network Security  
+ 
+Course Objectives 
+ A brief explanation of the objective is to provide digital evidences which are obtained 
+from digital media. 
+ In order to understand the objectives of computer forensics, first of all, people have to 
+recognize the different roles computer plays in a certain crime. 
+ According to a snippet from the United States Security Service, the functions 
+computer has in different kinds of crimes. 
+ 
+Course Outcomes 
+ Students will understand the usage of computers in forensic, and how to use various 
+forensic tools for a wide variety of investigations. 
+ It gives an opportunity to students to continue their zeal in research in computer 
+forensics 
+ 
+UNIT- I 
+Introduction of Cybercrime: Types, The Internet spawns crime, Worms versus viruses, 
+Computers' roles in crimes, Introduction to digital f orensics, Introduction to Incident - 
+Incident Response Methodology –Steps - Activities in Initial Response, Phase after detection 
+of an incident 
+ 
+UNIT-II 
+Initial Response and forensic duplication, Initial Response & Volatile Data Collection from 
+Windows system -Initial Response & Volatile Data Collection from Unix system – Forensic 
+Duplication:   Forensic   duplication:   Forensic   Duplicates   as   Admissible Evidence, 
+Forensic Duplication Tool Requirements, Creating a Forensic. Duplicate/Qualified Forens ic 
+Duplicate of a Hard Drive 
+ 
+UNIT – III 
+Forensics analysis and validation: Determining what data to collect and analyze, validating 
+forensic data, addressing data-hiding techniques, performing remote acquisitions 
+Network Forensics: Network forensics overv iew, performing live acquisitions, developing 
+standard procedures for network forensics, using network tools, examining the honeynet 
+project. 
+ 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - IV 
+Current Forensic tools:  evaluating computer forensic tool needs, computer forensics 
+software tools, c omputer forensics hardware tools, validating and testing forensics software 
+E-Mail Investigations: Exploring the role of e-mail in investigation, exploring the roles of the 
+client and server in e -mail, investigating e -mail crimes and violations, understand ing e-mail 
+servers, using specialized e-mail forensic tools. 
+Cell phone and mobile device forensics : Understanding mobile device forensics, 
+understanding acquisition procedures for cell phones and mobile devices. 
+ 
+UNIT - V  
+Working with Windows and DOS Sys tems: understanding file systems, exploring 
+Microsoft File Structures, Examining NTFS disks, Understanding whole disk encryption, 
+windows registry, Microsoft startup tasks, MS-DOS startup tasks, virtual machines. 
+ 
+TEXT BOOKS: 
+1. Kevin Mandia, Chris Prosise, “ Incident Response and computer forensics”, Tata 
+McGraw Hill, 2006. 
+2. Computer Forensics, Computer Crime Investigation by John R. Vacca, Firewall 
+Media, New Delhi. 
+3. Computer Forensics and Investigations by Nelson, Phillips Enfinger, Steuart, 
+CENGAGE Learning 
+ 
+REFERENCES: 
+1. Real Digital Forensics by Keith J. Jones, Richard Bejtiich, Curtis W. Rose, Addison - 
+Wesley Pearson Education 
+2. Forensic Compiling, A Tractitioneris Guide by Tony Sammes and Brian Jenkinson, 
+Springer International edition. 
+ 
+  
+
+R16 B.TECH CSE. 
+ 
+NEURAL NETWORKS & DEEP LEARNING 
+ (PROFESSIONAL ELECTIVE – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: CS864PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To introduce the foundations of Artificial Neural Networks 
+ To acquire the knowledge on Deep Learning Concepts 
+ To learn various types of Artificial Neural Networks 
+ To gain knowledge to apply optimization strategies  
+ 
+Course Outcomes: 
+ Ability to understand the concepts of Neural Networks 
+ Ability to select the Learning Networks in modeling real world systems  
+ Ability to use an efficient algorithm for Deep Models  
+ Ability to apply optimization strategies for large scale applications 
+ 
+UNIT - I 
+Artificial Neural Networks  Introduction, Basic models of ANN, importan t terminologies, 
+Supervised Learning Networks, Perceptron Networks, Adaptive Linear Neuron, Back -
+propagation Network. Associative Memory Networks. Training Algorithms for pattern 
+association, BAM and Hopfield Networks. 
+ 
+UNIT - II 
+Unsupervised Learning Netw ork- Introduction, Fixed Weight Competitive Nets, Maxnet, 
+Hamming Network, Kohonen Self -Organizing Feature Maps, Learning Vector Quantization, 
+Counter Propagation Networks, Adaptive Resonance Theory Networks. Special Networks -
+Introduction to various networks. 
+ 
+UNIT - III 
+Introduction to Deep Learning, Historical Trends in Deep learning, Deep Feed - forward 
+networks, Gradient -Based learning, Hidden Units, Architecture Design, Back -Propagation 
+and Other Differentiation Algorithms 
+ 
+UNIT - IV 
+Regularization for Deep Learning 
+Parameter norm Penalties, Norm Penalties as Constrained Optimization, Regularization and 
+Under-Constrained Problems, Dataset Augmentation, Noise Robustness, Semi -Supervised 
+learning, Multi -task learning, Early Stopping, Parameter Typing and Parameter Sharing, 
+Sparse Representations, Bagging and other Ensemble Methods, Dropout, Adversarial 
+Training, Tangent Distance, tangent Prop and Manifold, Tangent Classifier 
+ 
+ 
+
+R16 B.TECH CSE. 
+ 
+UNIT - V 
+Optimization for Train Deep Models 
+Challenges in Neural Network Optimization, Basic Algorithms, Parameter Initialization 
+Strategies, Algorithms with Adaptive Learning Rates, Approximate Second -Order Methods, 
+Optimization Strategies and Meta-Algorithms 
+Applications: Large-Scale Deep Learning , Computer Vision, Speech Recognition, Natural 
+Language Processing  
+ 
+TEXT BOOKS: 
+1. Deep Learning: An MIT Press Book By Ian Goodfellow and Yoshua Bengio and 
+Aaron Courville 
+2. Neural Networks and Learning Machines, Simon Haykin, 3 rd Edition, Pearson 
+Prentice Hall. 
+

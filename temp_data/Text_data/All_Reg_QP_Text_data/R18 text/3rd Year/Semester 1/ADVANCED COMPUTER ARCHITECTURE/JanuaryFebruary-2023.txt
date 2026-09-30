@@ -1,0 +1,70 @@
+Code No: 155AA 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, January/February - 2023 
+ADVANCED COMPUTER ARCHITECTURE 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART - A  
+ (25 Marks) 
+ 
+1.a) What is a parallel computer?        [2] 
+   b) List the advantages of parallelism to improve performance.    [3] 
+   c) Why do we need virtual memory in computer architecture?    [2] 
+   d) List the advantages of virtual memory.      [3] 
+   e) State the need for a cache memory.       [2] 
+   f) Draw the Instruction Pipeline design.       [3] 
+   g) What is compound vector processing?      [2] 
+   h) List the three Generations of Multicomputers.     [3] 
+   i) Write the disadvantages of multithreading.       [2] 
+   j) Define fine-grained and coarse-grained parallelism.     [3] 
+ 
+PART – B 
+      
+(50 Marks) 
+2.a) Outline the classification of parallel computer models.  
+   b) Discuss about the PRAM model.       [5+5] 
+OR 
+3.a) Describe the program flow mechanisms in detail.  
+   b) What are the conditions of parallelism? Explain.     [5+5] 
+  
+4.a) Outline the Memory Hierarchy with a neat diagram.        
+   b) Discuss the applications of parallel processing.     [5+5] 
+OR 
+5. Explain the need of superscalar processors and vector processors.     [10] 
+  
+6. Elaborate on the Non-Linear Pipeline Processors.       [10] 
+OR 
+7. Describe the Sequential and weak consistency models.      [10] 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+8. Explain the cache coherence and synchronization mechanism.     [10] 
+OR 
+9. Explain in detail about Message –passing mechanisms.      [10] 
+ 
+10.a) Elaborate on the Dataflow and hybrid Architecture.  
+     b) What is Multithreading? Explain the priciples of Multithreading.   [5+5] 
+OR 
+11. Discuss about Latency-hiding techniques.        [10] 
+ 
+ 
+ 
+---oo0oo--- 
+JNTUH Used papers 2023
+

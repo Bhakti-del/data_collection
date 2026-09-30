@@ -1,0 +1,79 @@
+Code No: 156CU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, February - 2023 
+SCRIPTING LANGUAGES 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What do you mean by an iterator in Ruby?      [2] 
+   b)      State the importance of RubyGems.       [3] 
+   c)      Write about Fixnum immediate value in Ruby.     [2] 
+   d)      Write an extension code in C that is plug-compatible with that Ruby class.  [3] 
+   e)      Define the term Web scripting.        [2] 
+   f)      How does chop( ) and chomp( ) functions in PERL differ?    [3] 
+   g)      Define a module and a package.         [2] 
+   h)     Give a brief file system operations in PERL.      [3] 
+   i)       How to create a list in TCL? Give an example.     [2] 
+   j)       What is the purpose of ‘exec’ and ‘append’ command in Tcl?   [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) “Embedding Ruby in HTML is a very powerful concept”. Support this statement using      
+ code snippets.  
+   b) How to access Tk features from Ruby? Discuss briefly creating a simple application.  
+[5+5] 
+OR 
+3.  How Ruby CGI handles cookies and sessions? Demon strate using the sample Ruby           
+ CGI Scripts.             [10]   
+  
+4. Explain various C/Ruby data type conversion functions and macros with clear 
+ syntax and illustrative examples for each.         [10] 
+OR 
+5.a) Explain StringValue and StringValuePtr macros in Ruby with sample Ruby script.  
+   b) How to embed ruby in your application? What is the role of Ruby interpreter? Explain.  
+[4+6] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+
+ 
+6. Explain various regular expressions and pattern matching operators available in                   
+ PERL with examples.           [10] 
+OR 
+7.a) What are the uses of scripting languages?  
+   b) Explain various string and numeric built-in functions available in PERL.   [4+6] 
+ 
+8.a) Outline the security issues in internet programming of PERL.  
+   b)  Give a detail note on using PERL interfacing to an operating system.   [5+5] 
+OR 
+9.a) How to create packages and modules in PERL? Describe in detail.  
+   b) What is the need of pack( ) and unpack( ) functions in Perl.     [6+4] 
+ 
+10. What are the major functionalities of a Tcl Parser? Explain in detail about namespaces 
+and recursive procedures in TCL.          [10] 
+OR 
+11.a) Write Tk script to create a login form. 
+     b) How are events handled in Tk?          [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

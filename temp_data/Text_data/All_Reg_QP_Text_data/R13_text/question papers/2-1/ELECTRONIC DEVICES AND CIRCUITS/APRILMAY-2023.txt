@@ -1,0 +1,94 @@
+Code No: 113AU 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, April/May - 2023 
+ELECTRONIC DEVICES AND CIRCUITS  
+(Common to EEE, ECE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define Early Effect.                                             [2] 
+   b)      What is meant by Depletion Region?         [3] 
+   c)      What are the Harmonic components in a Rectifier?     [2] 
+   d)      Define Percentage of Regulation.         [3] 
+   e)      Draw the diode equivalent model of a transistor.                [2] 
+   f)      Find the value of β if a transistor has α = 0.97. Also find α if β=200.  [3] 
+   g)      What is Thermal runaway in transistors and mention how it can be avoided? [2] 
+   h)      Why a capacitive coupling used to connect signal source to an amplifier.  [3] 
+   i)      Differentiate the FET operation in enhancement and depletion modes.  [2] 
+   j)      Why the input impedance of FET is higher than BJT?    [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Draw and explain the graph indicating the variation of minority carrier dens ity with 
+distance in a p-n junction diode under forward biased condition. 
+   b)  Derive expression of space charge capacitance CT for a step graded junction. [5+5] 
+OR 
+3.a)  Derive the expression for Diffusion Capacitance. 
+   b)  Discuss the static characteristics of SCR with a neat diagram.   [4+6] 
+  
+4.a)   Derive the expression for ripple factor of Half wave rectifier with C-filter. 
+   b)  A full-wave single phase rectifier employs a π- section filter consisting of a pair of 5 μF         
+ capacitances and a 20 H choke. The transformer voltage to the center tap is 200 V rms.        
+ The load current is 600 mA. Calculate the dc output voltage and the ripple voltage. The        
+ resistance of the choke is 300Ω.       [6+4] 
+OR 
+5.a)  Derive V dc, V rms and PIV for  the circuit of a Full -wave rectifier and explain its 
+operation. 
+   b)  Describe the working of a Zener Diode as a Voltage Regulator.   [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R13 
+JNTUH Used papers 2023
+
+ 
+ 
+6.a)  With a neat diagram , explain the operation of BJT and discuss about the different                   
+ configurations. 
+   b)  Explain the hybrid small signal model for common collector configuration. [5+5] 
+OR 
+7.a)  With neat diagram , explain the input and output characteristics of a transistor in CE 
+configuration. 
+   b)  Describe the operation of UJT as relaxation oscillator.    [5+5] 
+ 
+8.a)  Explain DC load line and Q point for any transistor configuration. Also state the 
+necessity of biasing and list biasing methods for transistor. 
+b)  Determine the quiescent currents and the collector to emitter voltage for a Ge transistor 
+with β = 50 in the Self biasing arrangements. The circuit component values are                
+VCC = 20V, R C = 2kΩ, R E = 0.1 kΩ, R 1 = 100 kΩ and R 2 = 5 kΩ. Find the stability 
+factor S.          [5+5] 
+OR 
+9.a)  Draw and explain self-bias circuit. Mention its advantages over fixed bias circuit. 
+   b)  Describe the analysis of Transistor Amplifier circuit using h-parameters.  [5+5] 
+ 
+10.a) Illustrate the construction and operation of p-channel JFET with neat diagrams 
+     b)  With neat sketch, discuss the working of a common source FET amplifier.  [5+5] 
+OR 
+11.a)  With neat sketch , describe the working principle, operation and characteristics of the             
+N-channel Enhancement mode MOSFET. 
+     b)  Explain how JFET works as a Voltage Variable Resistor?    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

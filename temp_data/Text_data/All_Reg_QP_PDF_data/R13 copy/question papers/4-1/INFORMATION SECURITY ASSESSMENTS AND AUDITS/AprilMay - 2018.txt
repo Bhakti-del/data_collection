@@ -1,0 +1,66 @@
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, April/May - 2018 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) What are security testing frameworks?      [2] 
+   b) Explain vulnerability assessment.       [3] 
+   c) Why to carry out vulnerability assessment?         [2] 
+   d) What is information gathering?       [3] 
+   e) What is dumpster diving?        [2] 
+   f) Draw a diagram for initial vulnerability scan.     [3] 
+   g) What is Whisker?           [2] 
+   h) What are risk analysis steps?        [3] 
+   i) Define baseline configuration.       [2] 
+   j) What are activities of SecCM?       [3] 
+ 
+ 
+PART-B  
+(50 Marks) 
+2.a) Explain common issues variances of performance metrics. 
+   b) What should be covered in audits? Explain.      [5+5] 
+OR 
+3.a) Explain phases of information security audit and strategies. 
+   b) Describe designing information security measurement systems.   [5+5] 
+ 
+4. Write steps for Internal Network Security Auditing.     [10] 
+OR 
+5.a) Explain organizational context of NOS 9004. 
+   b) How to conduct vulnerability assessment? Explain.     [5+5] 
+ 
+6.a) Give examples of information security vulnerabilities. 
+   b) Explain remediation phase of vulnerability management process.   [5+5] 
+OR 
+7.a) What are computer based social engineering techniques? Explain. 
+   b) Explain about vulnerability scanning process.     [5+5] 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 08-05-18AM Set 2
+
+8.a) Discuss about risk management feedback loops. 
+   b) Explain about vulnerability analysis tools.      [5+5] 
+OR 
+9.a) Describe three phases in vulnerability analysis? Explain. 
+   b) Explain about risk monitoring.       [5+5] 
+ 
+10.a) Explain identification of SecCM tools. 
+     b) Discuss about unauthorized access to configuration tools.    [5+5] 
+OR 
+11.a) How to prioritize configurations? Explain. 
+     b) What does the Sec CM policy includes? Explain.     [5+5] 
+  
+ 
+--ooOoo--  
+JNTUH USED 08-05-18AM Set 2
+

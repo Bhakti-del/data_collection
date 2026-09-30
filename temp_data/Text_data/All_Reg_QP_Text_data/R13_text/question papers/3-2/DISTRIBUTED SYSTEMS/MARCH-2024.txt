@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 126AP            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, March - 2024 
+ DISTRIBUTED SYSTEMS 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a) Define synchronous and asynchronous distributed systems.    [2] 
+   b) Give some reasons why centralized systems are not adequate to modern computing .
+            [3] 
+   c) Explain distributed termination detection.        [2] 
+   d) Differentiate between election algorithm and mutual exclusion algorithm.  [3] 
+   e) Explain request-reply protocols.       [2]   
+   f) Explain datagram communication in UNIX.      [3] 
+   g) Explain cache consistency in Andrew file system.       [2] 
+   h) Explain name service requirements.       [3] 
+   i) Define wait-for-graph?        [2] 
+   j) Define distributed deadlock.        [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Define distributed systems. What are the significan t issues and challenges of the 
+distributed systems? 
+   b)  List and explain various examples of distributed systems.    [5+5] 
+OR 
+3.a)  Explain how resource sharing is done in the web. 
+   b)  Explain in detail about various architectural models of distributed systems.  [5+5] 
+ 
+4.a)  What is multi cast communication in distributed system? 
+   b)  What is distributed mutual exclusion in distributed system? Give examples. [5+5] 
+OR 
+5. What are the different ways of synchronizing physical clocks? Explain physical c lock 
+synchronization algorithm.          [10] 
+ 
+6.a)  What is meant by inter process communication? How inter process communication is 
+used in the distributed systems? 
+   b)  What are design issues for remote method invocation?    [5+5] 
+OR 
+7.a)  Explain Communication between distributed objects. 
+   b)  Write down the steps in java RMI and explain it with suitable programs.  [5+5] 
+ 
+ 
+ 
+R13 
+Used paper March-2024
+
+ 
+ 
+ 
+ 
+8.a) Explain in brief about directory and discovery services. 
+   b) Discuss the design and implementation issues of Domain Name System.  [5+5] 
+OR 
+9.a)  Write about the recent advances in the distributed file systems.    
+   b)  Describe basic distributed file system and storage systems and their properties. [5+5] 
+ 
+10.a)  Explain two phase commit protocols for nested transactions.  
+     b)  Distinguish between three phase commit and two phase commit protocol.  [5+5] 
+OR 
+11.a)  What are the different ways to control concurrency in distributed transaction? 
+     b)  How is concurrency control implemented in distributed database?   [5+5] 
+ 
+ 
+ 
+---oo0oo--- 
+Used paper March-2024
+

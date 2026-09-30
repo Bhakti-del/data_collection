@@ -1,0 +1,43 @@
+ 
+Code No: 138BJ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+DATA ANALYTICS 
+ (Common to CSE, IT) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) What are the sources of generating primary data? Explain.    
+   b) Describe export all the Data onto the cloud like Amazon web services S3.   [8+7] 
+ 
+2.a) Discuss about external sources of data in detail.      
+   b) Explain in detail about Data processing and preprocessing.    [8+7] 
+ 
+3.a) What are types of regression model? Explain.      
+   b) Discuss about database and types of data in detail.      [8+7] 
+ 
+4.a) Explain about various steps involved in analytics.      
+   b) Discuss in detail about places where analytics is used.     [8+7] 
+ 
+5.a) What are properties of OLS estimators? Explain.      
+   b) Discuss about logistic regression and its components.     [8+7] 
+ 
+6.a) Distinguish between Homoscedasticity and Heteroscedasticity.    
+   b) Describe analytics applications to various business domains.    [8+7] 
+ 
+7.a) Define forecast accuracy. Explain about ETL approach.     
+   b) What are specific decision tree algorithms? Explain.     [8+7] 
+ 
+8.a) What is data visualization? Explain Geometric Projection Visualization Techniques. 
+   b) Discuss about Visualizing Complex Data and Relations.    [8+7] 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

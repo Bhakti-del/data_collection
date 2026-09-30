@@ -1,0 +1,97 @@
+ 
+ 
+ 
+Code No: 131AH 
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year I Semester Examinations, December - 2017 
+ENGINEERING PHYSICS - I 
+(Common to EEE, ECE, CSE, EIE, IT, ETM) 
+Time: 3 hours                                      Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.           
+ Part B consists of 5 Units. Answer any one  full question from each unit. Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+ 
+1.a) What are the conditions for constructive and destructive interference?  [2]  
+   b) What are the two types of diffractions? Give differences between them.  [3] 
+   c) Explain Malus’s law.                                                                            [2]                    
+   d) Explain spontaneous and stimulated emission of radiation with energy level diagram. 
+                                                                                                    [3] 
+   e) Explain the basic principle of an optical fiber.                                      [2]  
+   f) Explain the term ‘numerical aperture’ and ‘acceptance angle’.   [3]  
+   g) Write an expression for inter planar spacing of a cubic crystal structure.   [2]  
+   h) Derive the packing fraction of FCC crystal.                                       [3]  
+   i) State Bragg’s law and give the condition for constructive interference.  [2] 
+   j) Write notes on ‘point defects’ in crystals                                                  [3] 
+ 
+PART-B 
+ (50 Marks) 
+ 
+ 2.a) With a ray diagram discuss the interference in  thin films(Reflected light). 
+    b) Derive the condition for constructive and destructive  interference in the case of reflected 
+ system. 
+    c) A parallel beam of light λ=5890 A0 is incident on a glass plate (µ=1.5) such that angle of 
+ refraction is 60 0. Calculate the smallest thickness of the plate which will make it appear 
+ dark by reflection.         [10] 
+OR 
+3.a) Discuss the theory of Newton rings with relevant diagram in the reflected light. 
+   b) Derive the expressions for the diameters of dark and bright rings. 
+   c) Newton rings are observed in the reflected light of wavelength 5900 A 0. The diameter of 
+ tenth dark ring is 0.5cm. Find the radius of curvature of the lens used.  [10] 
+ 
+4.a) What is double refraction? 
+   b) Explain briefly optic axis and its characteristics. 
+   c) Discuss the construction and working of Nicol Prism.    [10] 
+OR 
+5.a) What are Einstein’s coefficients? Derive relation between them. 
+   b) What do you understand by Population Inversion? 
+   c) Describe He-Ne Laser and its applications.      [10] 
+ 
+ 
+ 
+R16 
+JNTUH USED 06-12-2017PM
+
+ 
+ 
+6.a) Explain briefly different types of optical fibers. 
+   b) Derive numerical aperture in terms of fractional difference in refractive indices. 
+   c) Write any three applications of optical fibers.     [10] 
+OR 
+7.a) Draw the block diagram of an optical fiber communication system and explain the 
+ function of each block. 
+   b) Derive an expression for acceptance angle for an optical fiber. 
+   c) What are the different losses in optical fibers? Write brief note on each.  [10] 
+ 
+8.a) Classify the various Bravias lattice types in the crystal systems. 
+   b) Zinc has HCP structure. The height of the unit cell is 0.494  mm. The nearest neighbor 
+ distance is 0.27 mm. Calculate the volume of the unit cell. 
+   c) Describe the structure of diamond.       [10] 
+OR 
+9.a) Determine the inter -planar spacing between the two parallel planes with miller indices 
+ (h,k,l) in a cube of side ‘a’. 
+   b) Sketch the following planes of a cubic unit cell: (001), (120) and 
+ 211 .  
+   c) A plane makes intercepts 1,  2 and 3 A 0 on the crystallographic axes of an ortho -rhombic 
+ crystal with a:b:c = 3:2:1. Determine the miller indices of this plane.  [10] 
+ 
+10.a) How the X-ray diffraction can be employed to determine the crystal structure? Explain. 
+     b) Describe with neat diagram, Laue’s method of determination of crystal structure. 
+     c) X-rays of wavelength 1.5418 A0 are diffracted by (111) planes in a crystal at an angle 30 0 
+ in the first order. Calculate the inter atomic spacing.     [10] 
+OR 
+ 
+11.a) Write notes on surface defects in crystals. 
+     b) What is Burger’s Vector? Explain. 
+     c) Explain edge dislocation and screw dislocation.     [10] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 06-12-2017PM
+

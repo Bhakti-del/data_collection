@@ -1,0 +1,44 @@
+Code No: 156BN 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August - 2022 
+MACHINE LEARNING 
+(Computer Science and Engineering) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Which disciplines have their influence on machine learning? Explain with examples. 
+   b)  What are the different types of a Machine Learning models?   [8+7] 
+ 
+2.a)  List the problems that can be solved using machine learning. 
+   b)  Discuss the issues in decision tree learning algorithm in detail.   [8+7] 
+ 
+3.a)  Explain back-propagation algorithm in detail. 
+   b)  Explain the following: 
+            i) General consistent hypothesis. 
+            ii) Closed concepts in path through the hypothesis.     [7+8] 
+ 
+4.a)  Discuss the issues related to neural network learning. 
+   b)  Write a detail note on sampling theory.      [8+7] 
+ 
+5.a) Describe the Naive Bayesian me thod of classification. What assumptions does this 
+method make about the r ibues and the classification? Give an example where this 
+assumption is to justify.  
+   b) What is the Laplacian correction and why it is necessary?                                   [10+5] 
+ 
+6.a)  Write the differences between Eager Learning and Lazy Learning approaches. 
+   b)  State Bayes theorem. Illustrate Bayes theorem with an example.   [7+8] 
+ 
+7.a)  Write the basic algorithm for learning sets of First-Order Rules. 
+b)  Apply inverse resolution in pr opositional form to the clauses C=A B, C1=A B G. Give 
+at least two possible results for C2.       [7+8] 
+ 
+8. What are the differences between inductive l earning and analytical learning p roblems 
+and explain the same with an example.        [15] 
+ 
+ 
+---oo0oo--- 
+ R18 
+jntuh used paperaug-2022
+

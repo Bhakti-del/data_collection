@@ -1,0 +1,73 @@
+Code No: 124CB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, December - 2017 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+(Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note: This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Write about Divide and conquer general method.    [2]  
+   b) Define any three asymptotic notations.     [3] 
+   c) List the applications of Greed method.     [2] 
+   d) Give an example for single source shortest Path problem.   [3] 
+   e) Give the general method for Dynamic programming.   [2] 
+   f) Explain about line and dead node.      [3] 
+   g) Explain the variable method in sum of subsets.    [2] 
+   h) State the Graph coloring problem with an example.    [3] 
+   i) Give an example for NP-Hard Problem.     [2] 
+   j) Differentiate Deterministic algorithms and non-deterministic algorithms. [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) Define Space Complexity. Compute space complexity for an algorithm to find 
+factorial of a given number. 
+   b) Illustrate the methods to find the connected components in a graph.  [5+5] 
+OR 
+3.a) Explain how divide and conquer method is used to implement Merge sort 
+technique with its Time complexity. 
+   b) Write an algorithm for Quick sort.      [5+5] 
+ 
+4.a) Write Kruskal’s Algorithm.  
+b) Generate the MCST for the graph given in Fig ure 1 by applying Kruskal’s 
+algorithm.         [5+5] 
+  
+Figure: 1 
+OR 
+5.a) Discuss the Job sequencing with deadlines problem. 
+   b) Illustrate 0/1 Knapsack problem with Greed approach.   [5+5] 
+ 
+  
+R15 
+JNTUH USED 08-12-2017AM
+
+6.a) Explain Multi stage graph problem. 
+   b) Explain the reliability design problem.      [5+5]  
+OR 
+7.a) Explain all pairs shortest path problem with the graph given in figure 2.  
+ 
+Figure: 2 
+   b) Write an algorithm of Optimal Binary Search Trees.    [5+5] 
+  
+8.a) Explain 4-Queen’s problem. 
+   b) Discuss LC branch and bound solution for 0/1 Knapsack problem.  [5+5] 
+OR 
+9.a) Illustrate the Hamilton cycles problem with backtracking method. 
+b) Explain travelling sales person problem applying Branch and bound method.   
+          [5+5] 
+ 
+10.a) What is NP-Complete class? Give any two examples. 
+     b) Briefly explain Cooks-theorem.      [5+5] 
+OR 
+11.a) Compare NP-Hard and NP-Complete classes. 
+     b) Give any two examples for non-deterministic algorithms.   [5+5] 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 08-12-2017AM
+

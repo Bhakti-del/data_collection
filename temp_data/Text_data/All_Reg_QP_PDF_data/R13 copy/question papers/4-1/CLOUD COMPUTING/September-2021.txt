@@ -1,0 +1,36 @@
+Code No: 117BN      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, September - 2021 
+CLOUD COMPUTING 
+ (Computer Science and Enginering) 
+Time: 3 Hours                 Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+       
+1.a) Write about middleware support for virtualization.  
+   b) Explain the virtual clusters and resource management.    [7+8] 
+ 
+2.a) Elaborate the virtualization structure/Tools and mechanisms.  
+   b) Define distributed systems. Discuss the Distributed System Models.  [7+8] 
+ 
+3. Elaborate various ways of migrating into a Cloud environment.   [15] 
+ 
+4.a) Explain the Enriching the ‘Integration as a Service’ Paradigm for the Cloud Era.  
+   b) Discuss the evolution of cloud computing.      [7+8] 
+ 
+5. Write  a short note on the following; 
+a) Comet cloud  b) T-Systems      [7+8] 
+ 
+6. Illustrate the Secure Distributed Data Storage in Cloud Computing.   [15] 
+ 
+7. List and explain the various phases in the SLA management.   [15] 
+ 
+8. Explain Achieving Production Readiness for Cloud Services.   [15] 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+R13 
+

@@ -1,0 +1,47 @@
+Code No: 156CA 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August/September - 2021 
+NETWORK PROGRAMMING 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Explain the following functions in TCP sockets:   
+ a) listen()  
+b) bind()  
+c) accept()                              [5+5+5] 
+ 
+2.a)  Explain in detail about address conversion functions. 
+   b)  Discuss the syntactical issues of various address conversion function.   [7+8] 
+  
+3.a)  Describe briefly about UDP Echo Client/server. 
+   b)  Explain Lack of flow control with UDP.      [7+8] 
+ 
+4.a)  Explain in detail about the TCP Echo client server with suitable diagram. 
+   b)  Explain Crashing and Rebooting of server host shutdown of server host.  [7+8] 
+ 
+5.a)  Explain in detail about the differences between TCP Sockets and UDP Sockets. 
+   b)  Explain the following functions:  
+i) recv()    
+ii) send().          [7+8] 
+ 
+6.a)  Explain Generic socket options in  IPV6. 
+   b)  Explain the following functions:  
+i) readv()    
+ii) writev().          [7+8] 
+ 
+7.  Explain the following: 
+a) syslog Function  
+b) daemon_init Function  
+ c) inetd Daemon   
+d) daemon_inetd Function.          [15] 
+    
+8.a)  Explain how to examine the UDP checksum field with an example. 
+   b)  Describe ICMP message Daemon.       [7+8] 
+ 
+ 
+---ooOoo--- 
+ R18 USED PAPERSAUG/SEP-2021
+

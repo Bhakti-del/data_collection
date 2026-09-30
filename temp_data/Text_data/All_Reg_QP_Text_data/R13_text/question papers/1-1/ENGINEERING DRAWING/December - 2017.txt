@@ -1,0 +1,84 @@
+ 
+ 
+Code No: 111AH    
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year Examinations, December - 2017 
+ENGINEERING DRAWING 
+(Common to CSE, BME, MIE, PTM) 
+Time: 3 hours                Max Marks: 75 
+Answer all five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) The distance between Parry’ s corner and Egmore is 2.5 km. O n inspection of the road 
+ map, its equivalent distance measures 5 cm. Draw a diagonal scale to read 50m 
+ minimum. Show on it a distance of 6350 m.          
+   b) Construct a hyperbola, when the distance of the focus from the directrix is 65mm , an 
+ eccentricity is 3/2.         [8+7] 
+OR 
+2. A fixed point F is 7.5cm from a fixed straight line. Draw the locus of a point P moving in 
+ such a way that its distance from the fixed straight line is 2/3 times its distance from F. 
+ Plot at least 9 points. Name the curve. Also draw a normal and a tangent to the curve at a 
+ point on it 6cm from F.         [15]  
+ 
+3.a) A line PQ 50mm long is perpendicular to HP and 15 mm in front of VP. The end P nearer 
+ to HP is 20 mm above it. Draw the projections of the line.   
+   b) A straight line PQ 10cm makes 45 0 to HP and 30 0 to VP. The end P is 3.6  cm above HP 
+ and 4 cm in front of VP. Draw the top and front views of the line. Measure the distance 
+ between the projectors of the ends of the line.      [7+8]  
+OR 
+4. A semi circular plate of 80  mm diameter has its straight edge in the VP and inclined at 
+ 600 to the HP, the surface of the plate makes an angle of 30 0 with the VP. Draw its 
+ projections.           [15] 
+ 
+5. A pentagonal prism is resting on one of the corners of its base on the H.P. The longer 
+ edge containing that corner is inclined at 45 0 to the H.P. The axis of the prism makes an 
+ angle of 300 to the V.P. Draw the projections of the solid.     [15]  
+OR 
+6. A cone, base 75 mm diameter and axis 80 mm long is resting on its base on the HP. It is 
+ cut by a section plane perpendicular to the VP , inclined at 45 0 to the HP and cutting the 
+ axis at a point 35 mm from the apex. Draw its front view, sectional top view and true 
+ shape of the section.         [15]   
+ 
+7. A right circular cone of base 60 mm diameter and 60 mm height stands vertically with its 
+ base on HP. A semicircular hole of 36 mm diameter is cut through the cone such that the 
+ axis of the hole is parallel to HP, perpendicular to VP and intersecting the axis of the 
+ cone 20 mm above the base. The flat surface of the hole is parallel to HP and 
+ perpendicular to VP. Draw the development of the lateral surface of the cone with the 
+ hole.            [15]  
+OR 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 18-12-2017PM
+
+ 
+8. A square prism of base side 60 mm rests o n one of its ends on the HP with the base sides 
+ equally inclined to the VP. It is penetrated fully by another square prism of base side         
+ 45 mm with the base side equally inclined to the HP. The axes intersect at right angles. 
+ The axis of the penetrating prism is parallel to both the HP and the VP. Draw the 
+ projections of the prisms and show the lines of intersection.    [15]   
+ 
+9. Draw the isometric view of the object whose orthographic projections are given in            
+ figure 1. All dimensions are in mm.         [15] 
+ 
+Figure: 1 
+OR 
+10.a) Draw the following views of the angular block given in figure 2. 
+ i) Front view       ii) Top view and  iii) Side view.  All dimensions are in mm.  
+                                             
+Figure: 2 
+     b) A square lamina of 40mm side lies on the ground plane.  One of its corners is touching 
+ the PP and an edge inclined at 60 0 to the PP.  The station point is 40 mm in front of PP, 
+ 60 mm above the ground plane and lies in a central plane which is at a distance of 35 mm 
+ to the right of the corner touching the PP.  Draw perspective view of the lamina. [8+7]  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 18-12-2017PM
+

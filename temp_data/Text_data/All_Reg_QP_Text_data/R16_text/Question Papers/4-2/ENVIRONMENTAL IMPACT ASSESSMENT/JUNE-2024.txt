@@ -1,0 +1,72 @@
+Code No: 138GB  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year II Semester Examinations, June - 2024 
+ENVIRONMENTAL IMPACT ASSESSMENT 
+(Common to EEE, ME, ECE, CSE, IT, MCT) 
+Time: 3 Hours          Max. Marks: 75  
+ 
+Note:  i) Question paper consists of Part A, Part B.  
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+           iii) In Part B, Answer any one question from each unit. Each question carries 10 marks and  
+  may have a, b as sub questions.  
+ 
+PART – A 
+(25 Marks)  
+1.a) Define EIA.           [2]  
+b) Write short note on direct impacts and indirect impacts in a typical road development project.  
+             [3]  
+    c) Explain effects of deforestation on the environment.     [2]  
+    d) How can deforestation be mitigated?        [3]  
+    e) What is the definition of negative soil pollution?      [2]  
+    f) What is soil erosion? Make recommendation for how to avoid it.   [3]  
+    g) Explain Audit protocol.         [2]  
+    h) Briefly write about Audit data.        [3]  
+    i) Explain water act, 1974.         [2]  
+    j) Write about Motor vehicle Act, 1988.       [3]  
+ 
+PART – B 
+(50 Marks)  
+ 
+2. Discuss the main features of Impact Evaluation and Analysis? What should be the important 
+objectives of any effective EIA?        [10]  
+OR 
+3.a) List the various EIA methods. Describe the criteria used for selecting best EIA method in a 
+given situation?   
+    b) Explain overlay methods? How GIS is useful as advanced tool in overlay method?[5+5]  
+ 
+4.a) Distinguish Direct and Indirect impacts on vegetation and wildlife due to any development 
+activity.   
+b) Explain various key steps involved in Assessment of Impacts of devel opment Activities on 
+Vegetation and wildlife.         [5+5]  
+OR 
+5.a) Discuss environmental impacts of deforestation?  
+   b) Briefly explain causes and effects of deforestation.       [5+5] 
+ 
+ 
+ 
+R16 
+Used Papers 2024
+
+6. Elaborate the various steps involved in assessment and prediction of impact on soil pollution.   
+            [10]    
+OR 
+7.a) Discuss the various mitigation measures can be adopted to reduce soil pollution.  
+   b) Elaborate the sources of soil contamination and their effects on environment.  [5+5]  
+ 
+8.a) Illustrate environmental legislation objectives of environmental audit. 
+   b) Briefly explain types of environmental audit?      [5+5]  
+OR 
+9.a) Explain On-site audit and Post audit activities.   
+   b) What is Environmental Audit? Explain preparation of Audit report in detail.  [5+5]  
+ 
+10.a) Explain Environmental Protection Act,1986.   
+     b) Write about water quality standards for portable drinking water.    [5+5]  
+OR 
+11.a) Briefly explain the Air Prevention and Control of pollution Act.   
+b) Discuss the procedure involved for preparation of Environmental Impact assessment 
+statement.           [5+5]  
+ 
+---ooOoo--- 
+ 
+Used Papers 2024
+

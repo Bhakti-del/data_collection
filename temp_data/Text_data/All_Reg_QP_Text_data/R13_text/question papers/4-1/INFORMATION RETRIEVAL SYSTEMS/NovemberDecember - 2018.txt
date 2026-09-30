@@ -1,0 +1,67 @@
+Code No: 117DX      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2018 
+INFORMATION RETRIEVAL SYSTEMS 
+ (Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Write a short note on inference networks.       [2] 
+   b) Explain briefly Boolean Indexing retrieval strategy.     [3] 
+   c) What is result set clustering.         [2] 
+   d) Briefly explain N-gram retrieval utility.      [3] 
+   e) Write a short note on Query translation used in cross language information retrieval.     
+                      [2] 
+   f) What is pivot language?        [3] 
+   g) What is k-scan algorithm         [2]     
+   h) Write a short note on duplicate elimination.      [3] 
+   i) Write a short notes on Boolean Retrieval.      [2] 
+   j) Write a brief note on Page Rank algorithm.      [3] 
+ 
+ 
+PART-B  
+(50 Marks) 
+2. Define vector space model and calculate the Similarity coefficients with an example.[10] 
+   OR 
+3.a) Explain in detail about Non Binary independence model. 
+   b) Explain the procedure to calculate weighting factor for a term in a document. [5+5] 
+ 
+4. Explain how Relevance feed back is implemented using vector space model. [10] 
+   OR 
+5.a) Write a short note on Damashek clustering method. 
+   b) Explain in detail how thesaurus is constructed manually.    [5+5] 
+ 
+6.a) Explain in detail about R-Distance measure. 
+   b) Write a short note on semantic network retrieval utility.    [5+5] 
+OR 
+7.a) Explain in detail about Part-of-speech (POS) taggers and word sense taggers. 
+   b) Write a short on parsing of simple phrases.      [5+5] 
+ 
+ 
+ 
+R13   
+13-12-18 PM Set 2
+JNTUH USED 13-12-18 PM Set 2
+
+8. What is inverted index? Explain in detail about inverted index compression with an         
+example.          [10] 
+OR 
+9.a) Explain briefly about query processing. 
+   b) Explain in detail about signature files.      [5+5] 
+ 
+10.a) Explain how information retrieval can be considered as a relational application. 
+     b) Explain in detail about multidimensional data model.    [5+5] 
+OR 
+11.a) Write a short note on evaluation of web search engines. 
+     b) Explain with a neat diagram about distributed information retrieval.  [5+5] 
+  
+ 
+--ooOoo--  
+13-12-18 PM Set 2
+JNTUH USED 13-12-18 PM Set 2
+

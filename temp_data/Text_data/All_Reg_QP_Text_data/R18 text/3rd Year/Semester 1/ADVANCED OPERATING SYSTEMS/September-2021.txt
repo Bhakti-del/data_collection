@@ -1,0 +1,39 @@
+Code No: 155AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, September - 2021 
+ADVANCED OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Discuss various issues in distributed operating system. 
+   b)  Explain in brief about communication primitives.     [7+8] 
+ 
+2.  Explain the following. 
+a) Vector clocks. 
+    b) Termination detection.        [8+7] 
+  
+3.a)  Explain Raymond’s heuristic algorithm. 
+   b)  Explain Lamport’s algorithm.        [8+7] 
+ 
+4.a)  Distinguish between token and non-token based algorithms. 
+   b)  Discuss in brief about the classification of mutual exclusion algorithms.  [7+8] 
+ 
+5.a) Explain in brief control organizations for distributed deadlock detection. 
+   b)  Discuss the issues in deadlock detection and resolution.    [8+7] 
+ 
+6.  Explain in brief hierarchical deadlock detection algorithms.      [15] 
+ 
+7.a)  Discuss the features of distributed file systems. 
+   b)  Discuss about operating design issues.      [8+7] 
+ 
+8.a)  Explain the components of load distributed algorithm. 
+   b)  Discuss the requirements for load distributing.     [8+7] 
+ 
+ 
+---ooOoo--- 
+R18 
+USED PAPERSSEP-2021
+

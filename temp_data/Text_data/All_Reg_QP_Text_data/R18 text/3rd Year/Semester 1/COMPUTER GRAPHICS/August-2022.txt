@@ -1,0 +1,44 @@
+ 
+Code No: 155AM      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, August - 2022 
+COMPUTER GRAPHICS  
+ (Common to CSE, IT) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  List and explain some applications of large screen displays.     
+   b)  Explain about the characteristics of Direct View Storage Tube devices.  [8+7] 
+ 
+2.a)  Explain the flood fill algorithm.        
+   b)  Digitize the line with end-points (20, 10) and (30, 18) using DDA algorithm. [8+7] 
+ 
+3.a)  Derive the transformation matrix for reflection about y = mx + b.    
+   b)  What is meant by composite transformation? When is it used? Explain.  [8+7] 
+ 
+4.a)  Explain the flow chart corresponding to cohen-suther land line clipping algorithm. 
+   b)  Describe the different ways of representing points in 2-D.    [8+7] 
+ 
+5.a)  Explain the process of generating curves and surfaces using hermit method.  
+   b)  Write a short note on B-Splines.       [8+7] 
+ 
+6.a)  Define view volume. Explain about it briefly.      
+   b)  Describe the procedure for reflecting about an arbitrarily selected plane.  [8+7] 
+ 
+7.a)  Explain about depth buffer algorithm.       
+   b)  Write a short note on back face detection.      [8+7] 
+ 
+8.a)  Discuss about the steps in design of animation sequence.     
+   b)  Explain the characteristics of Key frame animation.     [8+7] 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+ R18 
+jntuh used paper aug-2022
+

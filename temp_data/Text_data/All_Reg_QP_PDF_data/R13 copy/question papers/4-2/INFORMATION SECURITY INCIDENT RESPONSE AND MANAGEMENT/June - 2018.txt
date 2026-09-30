@@ -1,0 +1,68 @@
+Code No: 118GN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2018 
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT  
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 10 
+marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+1.a) What is a banner?         [2]  
+   b) Explain EXEC/ROM/User EXEC.       [3] 
+   c) What are the troubles occur in network communication?    [2] 
+   d) Discuss the troubles of Device Network.      [3] 
+   e) What are the types of data backup?       [2]  
+   f)       What do you mean by incident management?     [3]  
+   g) Write about NTP?           [2]  
+   h) What are the contents of windows log?      [3]  
+   i) What are network attacks?        [2] 
+   j) What do you mean by containment strategy?      [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a) What are design principles of Firewall?  
+   b) Explain advantages and disadvantages of Packet filtering firewall.   [5+5] 
+OR 
+3. List the different types of Configuring modes. Explain them.   [10] 
+   
+4. State and explain what are the methodologies of trouble shooting.   [10] 
+OR 
+5. Briefly Discuss about network Slowdowns.      [10] 
+    
+6. What are the roles and responsibilities of incident response?   [10] 
+         OR 
+7. Discuss security policies for backup procedure.     [10] 
+    
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 21-06-18AM Set 2
+
+ 
+8.a) Explain about centralized logging and architecture.      
+   b) Discuss about computer security logs.      [5+5] 
+OR 
+9.a) What are the challenges of log management? 
+   b) Describe time synchronization? Explain about NIST.    [5+5] 
+ 
+10.a) Explain evidence gathering and handling. 
+     b) How to detect DoS attack?        [5+5] 
+OR 
+11.a) Describe network reconnaissance incidents. 
+     b) Explain incident handling preparation and prevention.    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH USED 21-06-18AM Set 2
+

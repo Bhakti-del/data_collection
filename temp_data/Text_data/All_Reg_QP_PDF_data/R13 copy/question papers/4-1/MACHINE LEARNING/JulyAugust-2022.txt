@@ -1,0 +1,40 @@
+Code No: 117EF      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+  MACHINE LEARNING  
+ (Computer Science and Engineering) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain about inductive bias with candidate elimination example. 
+   b) How to choose function approximation algorithm?     [7+8] 
+ 
+2.a) Write about Mistake bound/ PAC model. 
+   b) Define version space for “play tennis problem”.     [7+8] 
+ 
+3.a) What is importance of Gradient Descent and Back propagation. 
+   b) What are the perceptions in neural networking?     [7+8]  
+ 
+4.a) Explain Minimum Description Length Principle. 
+   b) Give the details about Occam’s razor.      [7+8] 
+ 
+5.a) Explain hidden markov models.  
+   b) What do you mean by expectation maximization? Explain.    [7+8] 
+ 
+6.a) Explain K-nearest neighbor algorithm. 
+   b) Explain multiplicative rules for weight tuning using examples.   [7+8]  
+ 
+7.a) Explain case based leaning technique. 
+   b) Compare lazy and eager generalization methods.     [7+8] 
+ 
+8.a) Explain about genetic operators. 
+   b) Discuss in brief about different induction methods.     [7+8] 
+ 
+ 
+                                                                    ---oo0oo--- 
+ 
+R13 
+JNTUH Used Papers
+

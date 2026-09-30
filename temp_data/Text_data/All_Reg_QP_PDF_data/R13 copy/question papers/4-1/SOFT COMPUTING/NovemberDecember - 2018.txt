@@ -1,0 +1,66 @@
+Code No: 117HN     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, November/December - 2018 
+  SOFT COMPUTING  
+ (Common to CSE, IT) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+ 
+1.a) How to improve the effectiveness of a search based problem solving technique? [2]  
+   b) What is a constraint satisfaction problem?      [3] 
+   c)    List various models of ANN.        [2] 
+   d)      What is adaptive linear neuron? Explain.      [3] 
+   e)      Explain what is hamming network.       [2]  
+   f)     What is ‘learning vector quantization’?        [3] 
+   g)    What is fuzzy logic? Explain.         [2] 
+   h)     Differentiate between crisp set and fuzzy set.      [3] 
+   i)       What are the disadvantages of genetic algorithms?     [2] 
+   j)       State the different selection methods in GA.       [3] 
+ 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2.a) What is Artificial Intelligence? Mention some of the applications that fall  within the           
+scope of AI. 
+   b) How can you represent the resolution of predicate logic?    [5+5] 
+OR 
+3.a) Explain the algorithm for steepest hill climbing. 
+   b) Discuss about means end analysis in brief.      [5+5] 
+     
+4. What is supervised learning in ANN?  Explain differ ent learning law’s with examples.   
+             [10] 
+OR 
+5. Explain the storage and retrieval algorithms in associative memories.   [10] 
+   
+6. Explain about self organizing Map and its training algorithms.   [10] 
+OR 
+7. Explain the principle of Maxnet and write algorithm for Maxnet.   [10] 
+ 
+ 
+R13 
+JNTUH USED 19-12-18AM Set 1
+
+8.a) What is union in Fuzzy set operation and intersection in Fuzzy operation? Give examples. 
+   b) Define a Fuzzy Cartesian product and explain.     [5+5] 
+OR 
+9.a) Explain the concept of fuzzification with an example.  
+   b) Discuss about the Centre of Gravity method of defuzzification.   [5+5] 
+ 
+10. Discuss the algorithmic steps involved in solving an optimization problem using Tabu        
+ search with suitable examples.       [10] 
+OR 
+11.a) Explain the measures of fuzziness in detail. 
+     b) What is the main function of cross over operation in Genetic Algorithm?  [5+5] 
+  
+ 
+--ooOoo--  
+ 
+JNTUH USED 19-12-18AM Set 1
+

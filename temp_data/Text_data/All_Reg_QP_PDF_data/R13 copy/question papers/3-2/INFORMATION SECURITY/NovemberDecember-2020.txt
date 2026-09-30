@@ -1,0 +1,41 @@
+ 
+ 
+ 
+Code No: 126AQ            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, November/December - 2020 
+  INFORMATION SECURITY 
+(Computer Science and Engineering) 
+Time: 2 hours                                                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Compare and Contrast between Symmetric and Asymmetric key cryptography.   [15] 
+  
+2.  Explain the AES algorithm with suitable example.        [15] 
+  
+3.a) Explain whirlpool algorithm. 
+   b) Explain the functions of Kerbero’s.       [8+7] 
+ 
+4. Draw the IP security authentication header and explain the functions of each field.   [15] 
+ 
+5.a)  Explain password management. 
+   b)  What are the various virus counter measures? Explain.    [7+8] 
+ 
+6.a)  Discuss about various types of security mechanisms. 
+   b)  Describe in detail about Conventional Encryption Model.    [7+8] 
+ 
+7. Give brief description about the characteristics and operations of RC4 Encryption 
+algorithm.            [15] 
+ 
+8.  Give various Hash Functions. Discuss secure hash algorithm with suitable examples.
+              [15] 
+  
+  
+ 
+ 
+---ooOoo--- 
+R13 
+JNTUH USED PAPERS NOV 2020
+

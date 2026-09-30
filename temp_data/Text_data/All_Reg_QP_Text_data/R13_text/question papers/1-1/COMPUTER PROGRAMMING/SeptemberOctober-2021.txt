@@ -1,0 +1,44 @@
+ 
+ 
+ 
+Code No:  111AF  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year Examinations, September/October - 2021 
+COMPUTER PROGRAMMING 
+(Common to CE, EEE, ME, ECE, CSE, IT, AE, AME, MIE, PTM) 
+Time: 3 Hours                                                 Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) List and explain various computer languages in detail. 
+   b) Write a ‘C’ program to find whether the given number is prime or not.  [8+7] 
+ 
+2.a) What is recursion? Explain the limitations of recursion. 
+   b) Explain the representation and Indexing of Multi-dimensional array.  [8+7] 
+ 
+3.a) What is pointer? Describe pointer for inter function communication. 
+   b) How to pass an array to function? Explain with example.    [7+8] 
+  
+4.a) What is a structure? Explain how it differs from arrays. 
+   b) Explain in detail about the file Input /Output functions.    [7+8] 
+ 
+5.a) Explain Selection sort algorithm with an example.   
+   b) Explain the applications of queue.       [10+5] 
+ 
+6.a) What is a Selection Statement? Explain various selection statements in ‘C’ Language 
+ with suitable examples.  
+   b) Write a ‘C’ program for Addition of two given matrices.    [8+7] 
+ 
+7. List and explain various String Manipulation functions with example.  [15] 
+ 
+8.a) Write a program to insert and delete an element from singly linked list. 
+   b) Differentiate between structure and union.      [10+5] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+R13 
+JNTUH USED SEPT-2021
+

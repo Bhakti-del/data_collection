@@ -1,0 +1,68 @@
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, December - 2019 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                  Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+    
+1.a) Give a note on communication routers.       [2] 
+   b) Compare and contrast the white box and grey box.      [3] 
+   c) What is the main purpose of the security audit?     [2] 
+   d) Discuss the post auditing actions.        [3] 
+   e) Difference between vulnerability assessment and vulnerability management [2] 
+   f) Why do we need vulnerability management? Justify your answer.    [3] 
+   g) What is the purpose of a security assessment?     [2] 
+   h) Give a note on risk acceptance.        [3] 
+   i) What does configuration management mean?     [2] 
+   j) Define Configuration Change Control.        [3] 
+ 
+PART - B 
+               5 × 10 marks = 50        
+2.a) Discuss the ethics of an information security.   
+   b) Describe and explain the phases that are involved in a security audit.   [5+5] 
+OR 
+3. List and explain the Security Audits in detail.     [10] 
+ 
+4.a) Explain the external security audit.   
+   b) Discuss the social engineering security auditing.       [5+5] 
+OR 
+5.a) Elaborate on the internal network security audit.   
+   b) Give a brief note on a firewall security audit.      [5+5] 
+ 
+6.a) Describe human-based social engineering.   
+   b) Explain the vulnerability management.       [5+5] 
+OR 
+7. What is vulnerability testing? Explain its relation to penetration testing. If any? [10]  
+ 
+ 
+ 
+ 
+R13 
+JNTUH USED 03-12-19PM
+
+ 
+ 
+8. List and explain the types of vulnerability assessment.      [10] 
+OR 
+9.a) Elaborate risk management feedback loops.    
+   b) Write the classification vulnerability assessment.       [5+5] 
+ 
+10. Explain the configuration management requirements.     [10] 
+OR 
+11. Discuss testing configuration management.       [10] 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+ 
+JNTUH USED 03-12-19PM
+

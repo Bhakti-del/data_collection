@@ -1,0 +1,59 @@
+Code No: 157FB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+UTILIZATION OF ELECTRICAL ENERGY       
+(Common to CE, ME, ECE, CSE) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain in brief how heating is done in the following cases: 
+i) Resistance heating  ii) Induction heating   iii) Dielectric heating 
+b) At full load of 10 h.p, the te mperature rise of a motor is 25 0C afte r one hour, and                  
+400C after 2 hours. Find the final temperature rise on full load. Assume that the iron losses 
+are 80% of full load copper losses.       [9+6] 
+  
+2.a) What are the advantages of electrically produced heat? What are the prope rties to  be 
+possessed by the element used in resistance oven? 
+b) A piece of an insulating material is to be heated by dielectric heating.  The size of the piece 
+is 10 ×10×3 cm. A frequency of 20 Megacycles/sec is used and the power absorbed is 
+400W. Calcula te the voltage necessary for heating and the current that flows in the 
+material. The material has a relative permittivity of 5 and a power factor of 0.05. [8+7] 
+  
+3.a) Describe briefly the various types of arc welding processes used in industry. 
+b) A 40 kW, 3-phase, 400 volts resistance oven is to employ Ni -Cr strip of 0.3 mm thickness. 
+The heating elements are star connected.  If the wire temperature is to be 1127 0C and that 
+of charge is to be 727 0C, estimate the suitable width and length of the wire req uired.  
+Radiation efficiency  = 0.6, Specific resistance of Ni -Cr = 1.03 × 10-6 ohm-m.                
+Emissivity = 0.9.         [8+7]  
+ 
+4.a) Explain the principle of electrolysis. 
+   b) Write a short notes on electromagnetic stirs.      [8+7] 
+ 
+5.a) What are the essentials of a good lighting system?  What do you understand by glare? 
+b) A drawing hall 30 m × 15 m with a ceiling height of 5 m has to be provided with general 
+illumination of 120 lux.  Taking utilization of 0.5, depreciation of 1.4, determine the 
+number of fluorescent lamps required, their spacing, mounting height and total wattage.  
+Take luminous efficiency of fluorescent tube of 40 lumens/watt for 80 watt tubes. [8+7] 
+ 
+6. Give the construction and working of the following types of lamps: 
+a) Mercury Vapour lamp 
+b) Sodium Vapour lamp        [8+7] 
+   
+ R18 
+JNTUH Used Papers
+
+7.a) For a trapezoidal speed -time curve of an electric train, derive expression for maximum 
+speed and distance between stops. 
+b) A mail is to be run between two stations 5kms apart at an average speed o f 50km/hr. If the 
+maximum speed is to be limited to 70km/hr, acceleration to 2km/hr/sec, braking retardation 
+to 4km/hr/sec and coasting retardation to 0.1km/hr/sec, determine the speed at the end of 
+coasting, duration of coasting period and braking period.    [8+7] 
+ 
+8.a) Compare single battery system with double battery parallel block system. 
+   b) Explain the special requirements for train lighting.     [8+7] 
+ 
+     ---oo0oo--- 
+JNTUH Used Papers
+

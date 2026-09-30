@@ -1,0 +1,98 @@
+Code No: 133BM 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech II Year I Semester Examinations, April/May - 2023 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+ (Common to CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks                
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is an Object? How to allocate memory for objects?    [2] 
+   b)      Explain why Java is Machine Independent.        [3] 
+   c)      Compare interface and abstract class.       [2] 
+   d)      What is a package? How to define it and access it?       [3] 
+   e)      How does Java support inter thread communication?       [2] 
+   f)      What keywords are essential in handling user-defined exception?   [3] 
+   g)      What is tree set class?            [2] 
+   h)      What is the use of Iterator class?       [3] 
+   i)      Explain about JCombo box.        [2] 
+   j)      Give an overview of JButton class.       [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2. Discuss the drawbacks of procedural languages and explain the need of object oriented        
+ programming with suitable program.         [10] 
+OR 
+3.a)  Explain the importance of constructor. 
+   b)  Is Java a robust language? Justify your answer.     [5+5] 
+  
+4.a)  Identify the relationship between classes and interfaces.     
+   b)  Distinguish between byte streams and character streams.    [5+5] 
+OR 
+5.a)  Discuss how to define and import a package? Explain with an example. 
+   b)  What is auto boxing? Explain.       [5+5] 
+ 
+6.a)  Describe producer-consumer pattern using inter-thread communication 
+   b) Explain the concept of java built in exceptions with an example.         [5+5] 
+OR 
+7.a)  What is meant by re-throwing exception? Discuss a suitable scenario for this. 
+   b)  Write a program that demonstrate the priority setting in threads.              [5+5] 
+ 
+ 
+ 
+ 
+ 
+ R16 
+JNTUH Used papers 2023
+
+8.a) Write a program to store the names of bank depositors  and their current balances by  
+using hash table. 
+   b)  Explain the implementation of priority queue in java.    [5+5] 
+OR 
+9.a)  Write a program which stor es a list of strings in an Array List and then displays the           
+ contents of the list. 
+   b)  Explain various interfaces used in Collection framework?           [5+5] 
+ 
+10.a)  Explain procedure to handle mouse events in Java with an example program. 
+     b)  Illustrate in detail about the various layout managers used in Java?           [5+5] 
+OR 
+11.a)  Write a java program to design a scientific calculator using AWT. 
+     b)  Describe in detail about the various event listener interfaces.   [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

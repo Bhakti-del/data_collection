@@ -1,0 +1,67 @@
+Code No: 152AA      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, June - 2022 
+MATHEMATICS - II 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, MMT, ECM, AE, MIE, PTM, 
+CSBS, CSIT, ITE, CE(SE), CSE(CS), CSE(AIML), CSE(DS), CSE(IOT), CSE(Networks)) 
+ 
+Time: 3 Hours                                   Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Suppose that the temperature of a cup of coffee obeys Newton’s law o f cooling. If the 
+coffee has a temperature of 200  0F when freshly poured, and 1 min later has cooled to 
+190 0F in a room at 70 0F, determine when the coffee reaches a temperature of 150 0F. 
+   b) Find an integrating factor and solve the given equation 
+  (3𝑥2𝑦 + 2𝑥𝑦 + 𝑦3) + ( 𝑥2 + 𝑦2)𝑦′ = 0.        [8+7] 
+ 
+2. Solve the following differential equations, where 𝑝 =
+𝑑𝑦
+𝑑𝑥 
+a) 𝑦2𝑝2 − 3𝑥𝑝 + 𝑦 = 0 
+b) 𝑥2 (𝑦 − 𝑝𝑥)  = 𝑦𝑝2          [8+7] 
+ 
+3.a) Solve 
+𝑑2𝑦
+𝑑𝑥2 + 2𝑦 = 𝑥2𝑒3𝑥 + 𝑒𝑥 cos 2𝑥. 
+   b) Use the method of variation of parameters to solve 
+2
+2 4 tan 2 .dy yxdx     [8+7] 
+ 
+4.a) Solve (5 + 2𝑥)2𝑦′′ − 6(5 + 2𝑥)𝑦′ + 8𝑦 = 2(2𝑥 + 5)2. 
+   b) Solve 𝑥2𝑦′′ − 𝑥𝑦′ + 𝑦 = log 𝑥.         [8+7] 
+ 
+5.a) Find the volume of the region bounded above by the paraboloid 𝑧 =  𝑥2  +  𝑦2 and 
+below by the square 𝑅: − 1 ≤  𝑥 ≤ 1, −1 ≤  𝑦 ≤  1. 
+b) Find the volume using Triple Integral for the region between the cylinder  
+𝑧 = 𝑦2 and the xy-plane that is bounded by the planes 𝑥 = 0, 𝑥 = 1, 𝑦 = −1, 𝑦 = 1. 
+ [8+7] 
+ 
+6.a) Prove that  𝐴̅ = (𝑥2 − 𝑦𝑧)𝑖 + (𝑦2 − 𝑧𝑥)𝑗 + (𝑧2 − 𝑥𝑦)𝑘 is irrotational and find the 
+scalar potential 𝑓 such that 𝐴̅ = ∇𝑓. 
+   b) Evaluate ∇2 𝐹̅  if  𝐹̅ = 𝑟𝑎 𝑟̅.          [8+7] 
+7.a) What is the directional derivative of 𝑓 = 𝑥𝑦2 + 𝑦𝑧3 at the point (2,-1,1) in the direction 
+of the normal to the surface 𝑥 𝑙𝑛 𝑧 − 𝑦2 − 4 at (-1,2,4). 
+   b) Prove that ∇(𝐴̅. 𝐵̅) = (𝐵̅. ∇)𝐴̅ + (𝐴̅. ∇)𝐵̅ + 𝐵̅ × (∇ × 𝐴̅) + 𝐴̅ × (∇ × 𝐵̅).   [8+7] 
+ 
+ 
+ 
+ 
+ 
+ 
+R18 
+ JNTUH Used Papers June 22
+
+ 
+ 
+8.a) Prove that i) 𝐹̅ = (4𝑥𝑦 − 3𝑥2𝑧2)𝑖̅ + 2𝑥2𝑗̅ − 2𝑥3𝑧 𝑘 ̅ is a conservative field and find its 
+scalar potential  ii) Find the work done in moving  an object in this field from (1,1,1) to 
+(0,0,0). 
+   b) Use Green’s theorem to evaluate ∮(3𝑥2 − 8𝑦2)𝑑𝑥 + (4𝑦 − 6𝑥𝑦)𝑑𝑦 along the curve C: 
+the boundary of the region defined by 𝑥 = 0, 𝑦 = 0, 𝑥 + 𝑦 = 1.     [6+9] 
+ 
+ 
+--ooOoo-- 
+JNTUH Used Papers June 22
+

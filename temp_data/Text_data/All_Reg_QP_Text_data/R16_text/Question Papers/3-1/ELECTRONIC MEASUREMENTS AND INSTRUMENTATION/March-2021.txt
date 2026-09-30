@@ -1,0 +1,52 @@
+ 
+ 
+ 
+Code No: 135CD/125AM/115AM            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, March - 2021 
+ ELECTRONIC MEASUREMENTS AND INSTRUMENTATION 
+(R16-Common to ECE, CSE; R15-Electronics and Communication Engineering;  
+R13-Electronics and Communication Engineering) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  What are the Dynamic characteristics of measuring systems? Define them.   
+   b)  Explain the working of Average responding Voltmeters.    [9+6] 
+ 
+2.a)  Describe the different types of errors.       
+   b)  How could you extend the range of Voltmeter? Explain with an example.  [7+8] 
+  
+3.a)  What is the need of spectrum analyzers?        
+   b)  Discuss about pulse and square wave generator.     [6+9] 
+ 
+4.a)  Describe the working of AF Signal generator.     
+   b)  Draw the block diagram Heterodyne wave analyzer and explain its working. [6+9] 
+ 
+5.a)  How do you measure Period and Frequency using CRO? Explain.    
+   b)  Compare Dual Beam and Dual trace CROs.      [6+9] 
+ 
+6.a)  What are the elements CRT and describe the function of each element of it.  
+   b) Draw the Block diagram of Digital storage CRO and explain function of each block.
+            [7+8] 
+ 
+7.a)  Explain the working  principle of Synchros and mention its applications.   
+   b)  Describe the principles of operation of capacitive transducers and mention their               
+ applications.          [7+8] 
+ 
+8.a)  How do you measure humidity? Explain.       
+   b)  Draw the block diagram of Data Acquisition System  and explain the function of each           
+ block.           [7+8] 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+R16/R15/R13 
+19-03-2021 AM
+USED PAPER MARCH-2021
+

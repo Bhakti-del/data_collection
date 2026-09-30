@@ -1,0 +1,77 @@
+ 
+ 
+Code No: 126EQ             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, December - 2017 
+ OBJECT ORIENTED ANALYSIS AND DESIGN 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      What is UML?         [2] 
+   b)      Explain annotational things.        [3] 
+   c)      Define class with neat sketch.          [2] 
+   d)      What is relationship? List the types of relationships?    [3] 
+   e)      What is an Usecase?         [2] 
+   f)      Write the common uses of class diagram.      [3] 
+   g)      Write about event.          [2] 
+   h)      Define action states and activity states.      [3] 
+   i)       Mention usecase in Library Management system.     [2] 
+   j)       List out all diagrams in UML.       [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  Explain in detail about SDLC. 
+   b)  Summarize common mechanisms in UML.      [5+5] 
+OR 
+3.a)  Explain about the UML architecture. 
+   b)  Show basic blocks of the UML.       [5+5] 
+  
+4.a)  Discuss common modeling techniques of class diagram. 
+   b)  Explain about structural diagrams.       [5+5] 
+OR 
+5.a)  Discuss about types and roles. 
+   b)  Define an object. Mention common uses of objects.     [5+5] 
+  
+6.a)  Explain the following: 
+ i) Links ii) Messages 
+   b)  Discuss Interaction diagrams.        [6+4] 
+OR 
+7.a)  Explain common modeling techniques of sequence diagram. 
+   b)  Explain the following with an example:      [4+6] 
+ i) usecase ii) Actor iii) flow of events 
+  
+  
+ 
+ 
+ 
+R13 
+used paper 15-12-2017
+
+ 
+ 
+8.a)  Explain about modeling interprocess communication. 
+   b)  Compose the state chart diagram for unified library application.   [5+5] 
+OR 
+9.a)  What are components? Show the stereotypes that apply to components. 
+   b)  Explain about Deployment diagram with an example.    [5+5] 
+ 
+10.a)  Construct usecase diagram for the Library application. 
+     b)   Distinguish between patterns and frameworks.     [5+5] 
+OR 
+11.a)  Draw the interaction diagram for login usecase in library application. 
+     b)  Compose the activity diagram for library application.    [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+used paper 15-12-2017
+

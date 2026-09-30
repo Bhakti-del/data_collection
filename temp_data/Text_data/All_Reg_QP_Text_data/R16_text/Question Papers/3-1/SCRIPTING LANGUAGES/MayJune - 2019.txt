@@ -1,0 +1,82 @@
+ 
+ 
+ 
+ 
+Code No: 135DA            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, May/June - 2019 
+ SCRIPTING LANGUAGES 
+(Common to ECE, CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+    
+1.a) What do you mean by file structure in Linux?     [2] 
+   b) Explain about Zipping concept.       [3] 
+   c) How do Linux support networking?        [2] 
+   d) How to configure LAN in Linux?       [3] 
+   e) Give a note on Running and Debugging Perl.      [2] 
+   f) Define Hashes in Perl and How will you get the size of hash.       [3] 
+   g) Write a short note on Evel.         [2] 
+   h) Explain the Binding Commands to X Events.     [3] 
+   i) Write the features of python.        [2] 
+   j) What is the difference between python and python scripting.   [3] 
+ 
+PART - B 
+               (50 Marks)        
+    
+2.a) What is Linux and how does it work? Explain in detail.   
+   b) Write the procedure for Permissions for file.      [5+5] 
+OR 
+3. Discuss the General usage of Linux kernel and basic commands.     [10] 
+  
+4.a) Explain the File Transfer Protocol in Linux.  
+   b) Give a brief note on Network file system.      [5+5] 
+OR 
+5. Describe the dynamic hosting configuration Protocol and Network information 
+Services.            [10] 
+    
+6.a) Briefly explain the regular expressions in Perl.    
+   b) Write a short note on modules, objects in Perl.     [5+5] 
+OR 
+7. What is PERL debugger and what are several ways to call the debugger ? Explain  in 
+detail.              [10] 
+   
+ 
+ 
+ 
+ 
+ 
+R16 
+used paper 11-06-2019 PM
+
+ 
+  
+ 
+8. How do you find the length of a string without using string length command in TCL? 
+Explain.            [10] 
+OR 
+9.a) Explain the Tcl Data Structures.   
+   b) Discuss the Pack Geometry Manager.       [5+5] 
+  
+10.a) Write the differences between list and set in Python. 
+    b) What is Exception Handling? How do you achieve it in Python?   [5+5] 
+OR 
+11. Describe the use of Python Interpreter in detail.        [10] 
+ 
+ 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ 
+used paper 11-06-2019 PM
+

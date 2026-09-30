@@ -1,0 +1,82 @@
+Code No: 136EV  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, March - 2024 
+DATA STRUCTURES 
+(Common to EEE, ECE, CSE) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)    Define time complexity and space complexity.     [2] 
+   b)      Represent the following sparse matrix as a linked list.    [3] 
+ 
+   c)      Write any four applications of stack.       [2] 
+   d)     Find the value of the given postfix expression. 
+          AB+C*DE-F/+G+   
+         where A = 3, B = 2, C = 5, D = 4, E = 6, F = 9, G=12    [3] 
+   e)      Represent the following graph using adjacency matrix.    [2] 
+ 
+   f)      Represent the following binary tree using array.     [3] 
+ 
+   g)      What is collision? How collisions are handled in hashing?    [2] 
+   h)      How many comparisons are required using linear search and binary search to search the 
+key 46 in the following elements? 12, 32, 34, 36, 40, 46, 50, 52, 53   [3]
+  
+  
+ 
+ 
+ R16 
+Used paper March-2024
+
+ 
+   i)       Define Binary Search Tree and AVL Tree.      [2] 
+   j)       Write in-order, pre-order, post-order traversal sequences for the following binary search 
+tree.           [3] 
+ 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a)  Write a function to insert an element at the end of the linked list. 
+   b)  Write an algorithm to insert an element at the front of circular linked list.  [5+5] 
+OR 
+3.a)  Write a function to add two sparse matrices. 
+   b)  Write a function to find GCD of two numbers using recursion.   [5+5] 
+  
+4.a)  Write the program to implement operations of stack using arrays. 
+   b)  Write the program to convert given infix expression into postfix expression. [5+5] 
+OR 
+5.a)  Write the program to implement operations of queue using linked list. 
+   b)  What is deque (Double ended queue)? Explain insert and delete operations of deque.
+            [5+5] 
+ 
+6.a)  Write a procedure to insert an element into max heap. 
+   b)  Define Graph. Write a function to traverse the graph using BFS.   [5+5] 
+OR 
+7.a) Write a function to delete an element from binary tree. 
+   b) Differentiate between DFS and BFS.       [5+5] 
+ 
+8.a)  Create a hash table using the following values. 
+  98, 73, 21, 58, 88, 14, 37, 77 
+The hash function is h(x) =x%7. 
+   b)  Write a program to implement insertion sort.      [5+5] 
+OR 
+9.a)  Use selection sort to sort the following elements. Show the array elements at each step. 
+ 23, 21, 11, 43, 32, 55, 2, 9. 
+   b)  Write a program to search for an element using binary search.   [5+5] 
+ 
+10.a)  Write a function to insert an element into a binary search tree. 
+     b)  Explain various rotations of the AVL tree.      [5+5] 
+OR 
+11.a) Write the process to insert and delete an element in B-Tree. 
+     b)  Write an algorithm for The Knuth-Morris-Pratt algorithm.    [5+5] 
+  
+---ooOoo--- 
+Used paper March-2024
+

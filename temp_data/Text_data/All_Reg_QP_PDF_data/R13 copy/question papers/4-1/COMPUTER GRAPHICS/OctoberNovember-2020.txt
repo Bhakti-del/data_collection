@@ -1,0 +1,37 @@
+Code No: 117BX      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, October/November - 2020 
+COMPUTER GRAPHICS  
+ (Computer Science and Engineering) 
+Time: 2 Hours                         Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+ - - -  
+ 
+1.a) Define aspect ratio and resolution. How are they useful in Computer Graphics? 
+   b) Illustrate various input and output devices in detail.     [7+8] 
+ 
+2. Write down and explain the midpoint circle drawing algorithm. Assuming 10 cm as the 
+radius and origin as the centre of the circle explain the algorithm.   [15] 
+ 
+3. Show that a reflection about the line y = -x is equivalent to a reflection relative to y -axis 
+followed by a counter clockwise rotation of 900.     [15] 
+ 
+4. Explain in detail the Cohen-Sutherland line clipping algorithm with an example. [15] 
+ 
+5. Suppose we have a B spline curve of degree 3with a knot vector as follows  
+U0-to-u3 -0; u4-0.2; u5-0.4; u6-0.6;u7-0.8; u8-to-u11-1 
+Insert a new knot t=0.5, find new control points and new knot vector.  [15] 
+ 
+6. Perform a perspective Projection of the unit cube onto the x = 0 plane from the center of 
+Projection on x-axis at xc = 10.       [15] 
+ 
+7. Explain the depth buffer method of detecting the visible surfaces?   [15]  
+ 
+8. Explain the steps involved in the design of animation sequence.   [15]  
+ 
+--ooOoo—  
+ 
+R13 
+JNTUH USED 10-11-2020PM PAPER
+

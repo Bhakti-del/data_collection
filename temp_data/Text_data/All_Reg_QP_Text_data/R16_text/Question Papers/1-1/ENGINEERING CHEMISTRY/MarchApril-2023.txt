@@ -1,0 +1,78 @@
+   
+Code No: 131AG 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech I Year I Semester Examinations, March/April - 2023 
+  ENGINEERING CHEMISTRY  
+(Common to EEE, ECE, CSE, IT) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.   
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define Hardness and write its different units.        [2] 
+   b)      Discuss advantages of disinfection of potable water by ozone.   [3] 
+   c)      What is the significance of electrochemical series? State it’s applications.  [2] 
+   d)      Write chemical reactions involved in Ni-Cd cell during charging.   [3] 
+   e)      Define degree of polymerisation and functionality.     [2] 
+   f)      Write the synthesis of Nylon-6, 6.       [3] 
+   g)      What is octane and cetane number?       [2]     
+   h)      How to remove water and sulphur from crude oil.     [3] 
+   i)       Define Refractoriness.        [2]     
+   j)       Give classification of composites.          [3] 
+ 
+PART - B  
+(50 Marks)  
+ 
+2.a)  What is desalination?  Describe the Reverse Osmosis proce ss for softening of hard 
+water. 
+   b) How to estimate fluorine in water by ion-selective method.    [5+5] 
+OR 
+3.a) Calculate the temporary, permanent and total hardness of the water, containing 
+MgCl2=9.5 mg/L; Ca(HCO3)2=16.2 mg/L and CaSO4=13.6 mg/L. 
+b) What are the specifications of portable water ? Explain sedimentation with coagulation 
+using suitable equations.        [5+5] 
+  
+4.a) Define fuel cells and describe the construction and working of Methanol-O2 fuel cell. 
+   b) What is a battery? Explain the construction and functioning of dry cell.  [5+5] 
+OR 
+5.a)  Explain the working principle of glass electrode. 
+   b) What is Concentration cell? Explain with example.     [5+5] 
+6.a)  Define polymer and w rite the free radical addition polymerization mechanism of 
+Olefins.   
+   b)  Explain the importance of compounding of plastics.     [5+5] 
+ R16 
+JNTUH Used papers 2023
+
+ 
+OR 
+7.a) Give the classification of polymers with suitable examples. 
+   b) Discuss the synthesis, properties and applications of Fibre reinforced plastics. [5+5] 
+  
+8.a) Calculate the gross and net Calorific value of coal sample having the following 
+composition. C=83%, H=6%, O=3.5%, S=3.5%, N=3.5% and ash 4.0%.              
+   b)  How is carbon and hydrogen determined in a solid fuel?    [5+5] 
+OR 
+9.a) Give the composition and uses of natural gas, LPG and CNG. 
+   b)  What is cracking? Explain moving bed catalytic cracking process.   [5+5] 
+  
+10.a) What are the characterstics of good lubricants and give their significance. 
+b)  What is Portland C ement? Write the chemical reactions involve d in setting and 
+hardening of Cement.         [5+5] 
+OR 
+11.a) What are lubricants? Discuss mechanism of Thin film Lubrication. 
+     b)  Discuss the differences between the acidic, basic and neutra l refractories with suitable 
+ examples.          [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+JNTUH Used papers 2023
+

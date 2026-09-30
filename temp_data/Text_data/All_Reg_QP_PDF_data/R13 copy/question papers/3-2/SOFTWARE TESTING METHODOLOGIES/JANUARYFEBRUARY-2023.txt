@@ -1,0 +1,79 @@
+ 
+ 
+ 
+Code No: 126ER            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, February - 2023 
+SOFTWARE TESTING METHODOLOGIES 
+(Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 m arks               
+      and may have a, b as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      Write applications of Path Testing.       [2] 
+   b)      Why is it impossible for a tester to find all the bugs in a system?   [3] 
+   c)      Differentiate Transaction Flow and Data Flow.       [2] 
+   d)      Why Transaction Flows are ill structured?      [3] 
+   e)      What are nice domains?        [2] 
+   f)      List the applications of domain testing.      [3] 
+   g)      What is the need of path reduction?         [2] 
+   h)      Write applications of Logic based Testing.      [3] 
+   i)       What is graph matrix?         [2] 
+   j)       Write Good Vs Bad state matrix.       [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  What is Bug? Give Taxonomy of bugs? Discuss the consequences of bugs. 
+   b)   State and explain various dichotomies in software testing.    [5+5] 
+OR 
+3.a)  What are control and sequence bugs? How they can be caught? 
+   b)  Explain briefly heuristics procedures for sensitizing paths.    [5+5] 
+  
+4.a)  Discuss in detail about Data - Flow testing strategies. 
+   b)  What is meant by Transaction Flow Testing? Explain with illustrations.  [5+5] 
+OR 
+5.a) Explain heuristics procedures for sensitizing paths. 
+   b)  Explain data flow anomalies with examples.      [5+5] 
+  
+6.a)  Discuss in detail about testability of Domains. 
+   b)  Describe lower path count arithmetic with example.     [5+5] 
+OR 
+7.a)  Discuss with example the equal - span range/Domain compatibility bugs. 
+   b)  State and explain various Domain Boundaries.     [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+JNTUH Used papers 2023
+
+ 
+ 
+ 
+8.a)  What is a regular expression? Explain its role in flow anomaly detection with suitable    
+examples. 
+   b)  Write about kv-chart.         [5+5] 
+OR 
+9.a)  What is equivalent state? Explain in detail. 
+   b) What are some situations in which state testing may prove useful? Explain briefly. [5+5] 
+    
+10.a)  State and explain node reduction algorithm. 
+     b) What is meant by power of a graph matrix? Discuss.    [5+5] 
+OR 
+11.a)  Write about equivalence relation and partial ordering relation. 
+     b)  What is the purpose of State testing? Write its limitations.    [5+5] 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH Used papers 2023
+

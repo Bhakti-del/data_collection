@@ -1,0 +1,133 @@
+ 
+ 
+ 
+Code No:118CR      
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech IV Year II Semester Examinations, July - 2023 
+MANAGEMENT SCIENCE 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+Note:  i) Question paper consists of Part A, Part B. 
+           ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+     and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define Management and explain its functions.     [2]  
+   b)      Explain the concepts of Departmentation and Decentralization.   [3] 
+   c)      Define Inventory and explain the objectives of inventory.    [2] 
+   d)      What is the importance of Marketing Mix?      [3] 
+   e)      Define Personnel Management.       [2]  
+   f)       Distinguish Wage and Salary.       [3]  
+   g)      Mention the role of CPM.        [2]  
+   h)      Define Project Cost Analysis.        [3]  
+   i)       Define Vision and Mission.        [2] 
+   j) What is bench marking and balanced score card?     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) Write a short note on Taylor’s Scientific Management Theory. 
+   b) Define Leadership and explain the different types of leadership styles.  [5+5] 
+OR 
+3.a) Sketch the various types of human needs according to Maslow. 
+   b) Examine the different approaches of designing organization structures.  [5+5] 
+  
+4.a) Explain the stepwise procedure in Work Measurement method. 
+b) The following data are found during the inspection of the first 7 samples of size 100 each 
+from a lot of two-wheelers manufactured by anautomobile company: 
+ 
+Sample 
+No 1 2 3 4 5 6 7 
+No of 
+Defectives 3 4 6 2 12 5 3 
+ 
+Draw the chart for fraction defective (p) and comment on the state of control. If  the process 
+is out-of-control, calculate the revised centre line and control limitsby assuming assignable 
+causes for any out-of-control point.       [4+6] 
+OR 
+  
+R13 
+used paper July/Aug-2023
+
+ 
+ 
+ 
+ 
+5.a) A manufacturing  company estimates  its carrying cost at 15% and its ordering cost at                
+Rs. 9 per order. The estimated annual requirement is 48,000 units at a price of Rs. 4 per unit. 
+Then find out: 
+i) What is the most economical number of units to order? 
+ii) How many orders should be placed in a year? 
+iii) How often should an order be placed? 
+   b) Explain about the different marketing strategies based on Product Life Cycle. [5+5] 
+ 
+6.a) Distinguish the Recruitment and Selection procedures. 
+   b) Sketch the importance of Performance Management System.   [5+5] 
+OR 
+7.a) Explain the Wage and Salary administration in the organizations. 
+   b) Define Promotion, Transfer and Separation.      [5+5] 
+ 
+8.a) Define CPM and explain it’s applications, advantages and limitations. 
+   b) Find the critical path and calculate the slack time for the following network. [4+6] 
+ 
+OR 
+9.a) A Project consisting of the following activities has the following characteristics. Draw the 
+PERT network for the project. 
+Time – Estimates (in Weeks) 
+Activity Preceding Activity Most Optimistic 
+Time (a) 
+Most Likely 
+time (m) 
+Most Pessimistic 
+time (b) 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+None 
+None 
+A 
+A 
+A 
+B,C 
+D 
+2 
+10 
+8 
+10 
+7 
+9 
+3 
+4 
+12 
+9 
+15 
+7.5 
+9 
+3.5 
+12 
+26 
+10 
+20 
+11 
+9 
+7 
+ 
+b) The identification of Critical Path is crucial in Project management. Justify. [5+5] 
+ 
+10.a) Define Corporate Planning Process and explain the steps involve in it. 
+     b) Why to consider the Environmental Scanning in Project Management.  [5+5] 
+OR 
+11.a) Determine the importance of Value Chain Analysis. 
+     b) Define SWOT analysis and explain its importance.     [5+5] 
+  
+---ooOoo--- 
+ 
+used paper July/Aug-2023
+

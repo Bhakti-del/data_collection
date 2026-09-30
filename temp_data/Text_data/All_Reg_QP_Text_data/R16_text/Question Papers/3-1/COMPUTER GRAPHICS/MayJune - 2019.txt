@@ -1,0 +1,86 @@
+ 
+ 
+ 
+ 
+Code No: 135BY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, May/June - 2019 
+ COMPUTER GRAPHICS 
+(Common to CE, CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) Define points and lines.        [2] 
+b) Write the differences between a general graphics system designed for a programmer 
+and one designed for a specific application, such as architectural design.  [3] 
+   c) Define rotation of an object and write equivalent rotational matrix.   [2] 
+   d) Differentiate a window from a viewport.      [3] 
+   e) Give the block diagram of general three-dimensional transformation pipeline. [2]       
+   f) Compare Octrees and BSP Trees.       [3] 
+   g) Write a short note on scan line.       [2] 
+   h) How wireframe displays might be generated with the various visible -surface detection 
+methods?           [3] 
+   i) Define animation.         [2] 
+   j) Give a note on raster animations.       [3] 
+  
+PART - B 
+(50 Marks)       
+    
+2.a) Set up a procedure for a parallel implementation of the midpoint circle algorithm.  
+   b) Draw and explain the architecture of a raster-graphics system with a display processor. 
+            [5+5] 
+OR 
+3.a) Discuss the boundary-fill and flood-fill algorithms in detail.   
+b) Compare and contrast the operating characteristics of random scan systems and raster 
+scan systems.          [5+5] 
+   
+4. Give 2D transformation matrix for: 
+a) Rotation    
+b) Scaling.          [5+5] 
+OR 
+5.a) List out and explain the steps involved in Sutherland -Hodgeman polygon clipping 
+algorithm.  
+   b) Write short notes on Reflection transformation.     [5+5] 
+    
+ 
+ 
+ 
+ 
+R16 
+used paper 11-06-2019 PM
+
+ 
+ 
+ 
+6. Write an example, explain 3D translation and rotation.        [10] 
+OR 
+7. How to setup a view volume using the window boundaries for parallel and perspectives 
+projectors? Explain.             [10] 
+   
+8. Write a program to display the visible surfaces of a convex polyhedron using the BSP -
+tree method.            [10] 
+OR 
+9. Enumerate the s teps involved in Depth buffer algorithm for Hidden surface removal 
+and compare it with A - Buffer method.        [10] 
+   
+10.a) Explain the computer animation languages.   
+     b) Give a note on Direct Motion Specification.       [5+5] 
+OR 
+11. List and explain the general computer-animation functions.      [10] 
+ 
+ 
+ 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+used paper 11-06-2019 PM
+

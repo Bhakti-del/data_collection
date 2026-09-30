@@ -1,0 +1,77 @@
+ 
+Code No: 117JV      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, June/July - 2024 
+INFORMATION SECURITY ASSESSMENTS AND AUDITS 
+(Computer Science and Engineering) 
+Time: 3 Hours                 Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+ 
+PART- A 
+ (25 Marks) 
+1.a) What are security metrics?        [2] 
+   b) What is the importance of grey box testing?      [3] 
+   c) Define Report Retention.           [2] 
+   d) Explain pre-audit checklist.        [3] 
+   e) Discuss about remediation.        [2] 
+   f) What is the role of testing in vulnerability management?    [3] 
+   g) Define risk acceptance.          [2] 
+   h) List down the types of vulnerability assessment.     [3] 
+   i) What is the classification of configuration management?    [2] 
+   j) Explain the process that has to verify the software with the accompanying licenses? 
+            [3] 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2.a) Differentiate black box and white box information security methodologies in detail.  
+   b) Describe in detail about the common issues and variances of Performance Metrics. [5+5] 
+OR 
+3.a) Explain the legal, ethical and professional issues related to  Information Security. 
+   b) Explain the storage devices of information security.     [5+5] 
+ 
+4.a) Explain in detail about Firewall Security audit.  
+   b) Define Result Analysis? Write about the concept of Information Standard Formats.[5+5] 
+OR 
+5.a) Explain in detail about the concept of social engineering security auditing.  
+   b) Write short notes on Information Security Audit.     [5+5] 
+ 
+6.a) Define Threats and Vulnerabilities? Describe in detail about the Information Security 
+ Vulnerabilities.  
+   b) Define Vulnerability testing? Explain the concept of Vulnerability scanning. [5+5] 
+R13 
+Used Papers 2024
+
+ 
+ 
+OR 
+7.a) Define Vulnerability Analysis. Explain in detail about the stages of Vulnerability 
+ analysis.  
+  b) What are the major stages of Risk assessment? Explain.    [5+5] 
+ 
+8.a) Describe in detail about computer based social engineering.  
+  b) Describe Residual Risk with figure.       [5+5] 
+OR 
+9. Describe in detail about the risk management feedback loops.     [10] 
+ 
+10. Explain in detail about the Plan and control of configuration Management.    [10] 
+OR 
+11.a) Write Development of configuration Control Policies. 
+     b) Describe in detail about the Testing Configuration Management.   [5+5] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+ 
+ 
+ 
+Used Papers 2024
+

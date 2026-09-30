@@ -1,0 +1,77 @@
+ 
+ 
+ 
+Code No: 121AH             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, May/June - 2019 
+ENGINEERING DRAWING 
+(Common to CSE, MIE, PTM) 
+Time: 3 hours                Max Marks: 75 
+Answer all five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. MN is vertical line of length 90 mm and represents the minor axis of an ellipse. A  point P 
+ is located 90  mm from M and 50 mm from N, so that it lies on that ellipse. Draw the 
+ ellipse and find its major axis length and eccentricity.      [15] 
+OR 
+2. A train is running at a speed of 40 km/hr. Construct a plane scale to read up to a km and a 
+ minute. The scale should measure up to 50 km. The RF of the scale is 1:25000. On the 
+ scale show the distance covered by the train in 39 minutes.              [15] 
+      
+3. The front view of a line AB 80 mm long measures 55 mm while its top view measures  
+ 70 mm. End A is in both HP and VP. Draw the projections of the line and find its 
+ inclination with the reference planes.           [15] 
+OR 
+4. A regular hexagonal lamina with its edge 50 mm has its plane inclined at 45 0 to H.P and 
+ lying with one of its edges in H.P. The plane of one of its diagonals is inclined at 45 0 to 
+ XY. The corner nearest to VP is 15mm infront of it. Draw its projections.   [15] 
+      
+5. The hexagonal pyramid base 30 mm side and axis 60 mm long has one of its slant edges 
+ on HP such that two of its triangular faces containing the slant edge on which it rests are 
+ equally inclined to HP. The top view of the axis appears to be inclined at 450 to VP. Draw 
+ its projections when its base is nearer to the observer than its apex.   [15] 
+OR 
+6. A pentagonal pyramid of 25mm base side and 60mm height is resting on the HP on a 
+ corner of its base in such way a that the base  makes 500 to HP.  One of the base edges is 
+ perpendicular to VP. It is cut by a section plane perpendicular to HP and inclined to VP 
+ at 30 0 such that the section plane is 6mm in front of the top end of the axis of the 
+ pyramid. Draw the sectional top vie w, sectional front view and the true shape of the 
+ section.          [15] 
+      
+7. A cylinder 50 mm in diameter and the axi s 65 mm long is resting on its base with its axis 
+ perpendicular to the H.P . It is cut by a cutting plane perpendicular to V.P inclined at 45 0 
+ to the HP and passing through a point on the axis 25mm from the top. Draw the front 
+ view, sectional top view and development of lateral surface of the bottom part of the 
+ cylinder.          [15] 
+OR 
+8. A cylinder of 65 mm diameter standing on its base on HP is completely penetrated by 
+ another cylinder of 45 mm diameter with their axes intersecting at right angle. Draw the 
+ projections showing the lines of intersection, assuming that the axis of the smaller 
+ cylinder is parallel to VP.         [15] 
+ 
+ 
+ 
+ 
+R15 
+JNTUH USED 15-06-2019AM
+
+ 
+ 
+ 
+ 
+9. A right regular hexagonal prism of side of base 25  mm and altitude 55  mm has a square 
+ hole of 20 mm side at the center.  The axes of the prism and the hole coincide. One of the 
+ faces of the square hole is parallel to one of the faces of the hexagon. Draw the isometric 
+ projection with the hole.        [15] 
+OR 
+10. For the isometric view shown below  figure, draw a) front view b) top view and c) left 
+ side view. All dimensions are in mm.       [15] 
+ 
+      
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED 15-06-2019AM
+

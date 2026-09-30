@@ -1,0 +1,95 @@
+Code No: 134BU  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year II Semester Examinations, December - 2018 
+OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 Hours                        Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one  full question from each unit. Each question 
+carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Explain the functions of operating system.      [2] 
+   b) Explain about the abstract view of the components of a computer system.  [3] 
+   c) Distinguish between I/O bound process and CPU bound process.   [2] 
+   d) What are the requirements of Critical section problem?    [3] 
+   e)      What is Demand Paging?        [2] 
+   f) Distinguish between logical and physical address space.    [3] 
+   g) Explain about the Acyclic graph directory.      [2] 
+   h) Explain about the Solid state disk.       [3]  
+   i) What is Access Control?        [2] 
+   j) Explain how to eliminate the deadlocks using resource preemption.   [3] 
+ 
+PART-B  
+(50 Marks) 
+2. Explain how operating systems are used in a variety of computing environments. [10] 
+OR 
+3.a) What is operating system? Explain multiprogramming and time sharing systems. 
+   b) Explain about the dual mode operation in OS with a neat block diagram.  [5+5]  
+  
+4.a) Explain about the Process Control Block. 
+b) What is Semaphore? How can we achieve the synchronization using semaph ore for 
+producer consumer problem?        [5+5] 
+OR 
+5.a) Discuss the Peterson’s solution for the race condition with algorithm. 
+b) What is the average waiting time and average turn around times of all processes for 
+FCFS, SJF algorithm?         [5+5] 
+Precesses  Burst Time  Priority 
+ P1   10   3 
+ P2   1   1 
+ P3   2   3 
+ P4   1   4 
+ P5   5   2 
+ 
+ 
+ 
+R16 
+JNTUH USED 20-12-2018AM
+
+ 
+6.a) Consider the following page reference string 
+ 1,2,3,4,5,3,4,1,6,7,8,7,8,9,7,8,9,5,4,5,4,2 
+With four Frames. How many page faults would occur for the FIFO, Optima l page 
+replacement algorithms? Which algorithm is efficient? (Assume all frame are initially 
+empty) 
+   b) What is Thrashing? Explain the Causes of Thrashing.    [5+5] 
+  
+OR 
+7.a) Consider the following reference string  
+7,0,1,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0,1. 
+Assume there are three frames. Apply LRU replacement algorithm to the reference sting 
+above and find out how many page faul ts are produced. Illustrate the LRU page 
+replacement algorithm in detail and also two feasible implementation of the LRU 
+algorithm. 
+   b) Explain about Swapping.        [5+5] 
+  
+8.a) Suppose that a disk drive has 5000 cylinders numbered 0 to 4999. The drive is currently 
+serving a request at cylinder 143. The queue of pending requests  in FIFO order 
+86,1470,913,1774,948,1509, 1022, 1750, 130 starting from current head position. What is 
+the total distance that disk arm moves to satisf y all the pending request for FCFS and 
+SSTF disk scheduling algorithm. 
+   b) Explain about the system call for File operations.     [5+5] 
+OR 
+9. Explain the following disk scheduling algorithm with proper diagram 
+a) FCFS 
+b) SSTF 
+c) SCAN 
+d) LOOK 
+ e) C-SCAN.          [10] 
+       
+10.a) Explain about the Language based Protection. 
+     b) Explain about the bankers algorithm for deadlock avoidance.   [5+5] 
+OR 
+11.a) Explain the protection mechanism illustrating the use of protection domain and access 
+control list. 
+     b) What is deadlock? Explain the conditions that lead to deadlock.   [5+5] 
+ 
+---ooOoo--- 
+  
+ 
+ 
+JNTUH USED 20-12-2018AM
+

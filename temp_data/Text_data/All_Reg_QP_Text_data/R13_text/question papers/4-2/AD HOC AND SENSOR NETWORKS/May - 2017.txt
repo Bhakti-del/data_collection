@@ -1,0 +1,58 @@
+ 
+ 
+ 
+Code No: 118AA             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, May - 2017 
+ADHOC AND SENSOR NETWORKS  
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.  Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+1.a) What are factors that influence the routing in a MANET?    [2]   
+   b) Explain the location based scheme.       [3] 
+   c) What are the challenges of TCP over adhoc networks?    [2]      
+  d) Explain the classification of nodes in the network by using CAMP.   [3]  
+   e) Distinguish between static channel and dynamic channel allocations.    [2]  
+   f) Explain about the Mica mote.            [3] 
+   g) Explain the steps involved in the Burmester and Desmedt protocol.   [2] 
+   h) What are the drawbacks of CLIQUES protocol?     [3] 
+   i) Explain the features of Tiny GALS.       [2]             
+   j) What are the components of TinyOS?      [3]    
+     
+PART - B  
+(50 Marks) 
+2. Explain how to find the route from source to destination by using DSR protocol. [10] 
+OR 
+3. Explain three phases of ABR protocol.      [10] 
+ 
+4.a) Explain the drawback of the TCP exponential backoff algorithm in MANETS. 
+   b) Distinguish between LBM scheme 1 and LBM scheme 2.     [5+5] 
+OR 
+5. Explain about the multicast zone routing protocol.     [10] 
+ 
+6. Explain the design of routing protocol for WSNs which influence  fault tolerance, 
+security, connectivity, Adhoc deployment and QoS.     [10] 
+OR 
+7. Explain about the Multipath based routing in WSNs.    [10] 
+    
+8.a) Explain the components of sensor nodes. 
+   b) Explain about the GDH.3 protocol.       [5+5] 
+OR 
+9.a) Explain about the N – Party Diffie Hellman Key Agreement protocol. 
+    b) What are the challenges of sensor network programming?    [5+5]  
+ 
+10. Explain the architecture of TOSSIM.       [10] 
+OR 
+11. Explain about the ns-2 and its sensor network extension.    [10] 
+ 
+---ooOoo--- 
+ 
+R13 
+JNTUH USED 10-05-17PM Set 2
+

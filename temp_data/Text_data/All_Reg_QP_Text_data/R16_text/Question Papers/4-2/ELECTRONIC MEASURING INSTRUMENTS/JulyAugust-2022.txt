@@ -1,0 +1,52 @@
+ 
+ 
+ 
+Code No: 138FY             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, July/August - 2022 
+ ELECTRONIC MEASURING INSTRUMENTS 
+ (Common to CE, EEE, ME, CSE) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Define the terms repeatability and reproducibility with respect to measuring instruments. 
+   b) Describe the static characteristic of a measurement instrument.   [7+8] 
+ 
+2.a) What are the different type of the errors in the field of instrumentation and measurements? 
+b) The expected value of the voltage across a resistor is 80 V. However, the measurement 
+gives a value of 79 V. Calculate (i) absolute error, (ii) % error, (iii) relative accuracy, and 
+(iv) % of accuracy.         [9+6] 
+ 
+3.a) What is a signal generator? Explain its working with neat diagram. 
+   b) Compare the signal generator and function generator.    [10+5]  
+ 
+4.a) Draw the simple diagram of a pulse generator and explain it briefly. 
+   b) Describe the RF generator with diagrams? What are its specifications?  [8+7] 
+ 
+5.a) Describe the construction details and working principle of  D’Arsonval type of instrument. 
+What are its advantages and disadvantages?       
+   b) How to extend the range of ohm meter? Explain any one method.   [8+7] 
+  
+6.a) Draw the basic block diagram of an oscilloscope and explain the functions of each block. 
+b) In a CRT, the distance between the plates is 1 cm, the length of the deflecting plates is                 
+4.5 cm and the distance of the screen from the c entre of the plates is 33 cm. If the  
+accelerating voltage is 300 V and deflecting voltage is 50 V, find the following: 
+i) Velocity of electron reaching the field 
+ii) Deflection produced on the screen 
+iii) Deflection sensitivity.        [9+6] 
+ 
+7.a) Describe the pen-driving mechanism with diagram. 
+b) What is the X-Y recorder? How it is differ from strip chart recorder. Describe it advantages 
+and application.         [8+7] 
+ 
+8.a) What are the points to be considered for selecting transducer? 
+   b) Describe the construction and working of LVDT.     [6+9] 
+ 
+---oo0oo---  
+ 
+R16 
+JNTUH Used Papers 2022
+JNTUH Used Papers
+

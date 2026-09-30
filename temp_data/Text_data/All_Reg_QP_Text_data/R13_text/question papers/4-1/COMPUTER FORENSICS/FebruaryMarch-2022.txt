@@ -1,0 +1,37 @@
+Code No: 117BW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+ COMPUTER FORENSICS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the options for computer forensic services. 
+   b) Explain the use of computer forensics in law enforcement.    [8+7] 
+  
+2.a) Discuss the factors that affect backup in data recovery? 
+   b) Explain various technologies used in Computer Forensic Military.   [7+8] 
+  
+3.a) Discuss different methods for evidence collection. 
+   b) Explain the legal aspects of preserving computer forensic evidence.   [8+7] 
+  
+4.a) Mention the procedure for authentication of evidence. 
+   b) Explain the steps to process computer evidences.     [7+8] 
+ 
+5.a) Describe the steps for securing crime scene and seizing digital evidence. 
+   b) Explain the standard procedures for network forensics.    [8+7] 
+  
+6.a) Explain the general procedure for live acquisition. 
+   b) Describe different methods to Storing Digital Evidence.    [8+7] 
+  
+7.a) Explain the process of investigating E-mail crimes and violations. 
+   b) Explain the tasks performed by software forensics tools.    [8+7] 
+ 
+8.a) Explain MFT file structure and its attributes. 
+   b) Describe the methods to create virtual machine.     [8+7] 
+ 
+---ooOoo--- 
+R13 JNTUH Used Papers Feb 2022
+

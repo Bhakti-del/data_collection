@@ -1,0 +1,56 @@
+ 
+Code No: 152AN 
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year II Semester Examinations, November/December - 2020  
+CHEMISTRY 
+(Common to EEE, CSE, IT) 
+Time: 2 hours                                      Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain various factors that influence the magnitude of crystal field stabilization  energy 
+ in complex compounds. 
+   b) Explain filling of electrons in F 2 molecule in terms of Molecular orbital theory wi th neat 
+ diagram.          [7+8]  
+ 
+2.a) Explain the postulates of Molecular orbital theory. 
+   b) With the help of MO diagram, calculate bond order of O 2 molecule and predict its 
+ magnetic behavior.         [7+8] 
+ 
+3.a) How municipal water can be treated before distribution for the domestic purpose? 
+   b) Determine the temporary, permanent and total hardness in ppm units for a water sample 
+ from Warangal which showed the following analysis: - Ca(HCO3)2 = 30.4 mg/litre; 
+ Mg(HCO3)2 = 30.2 mg/litre ; NaCl = 5.85 mg/litre; CaCl 2 = 20.2 mg/litre ,                
+ MgSO4 = 11.2 mg/litre; Organic matter = 15.5 mg/litre.    [7+8] 
+ 
+4.a) Describe the reverse osmosis process for desalination of brackish water with diagram. 
+   b) What is the process of Chlorination?  What are the advantages?  Explain the significance 
+ of breakpoint chlorination.        [7+8] 
+ 
+5.a) Explain the following factors that can influence the rate of corrosion: 
+ i) specific volume ratio  ii) Position in galvanic series   iii) Humidity. 
+   b) Describe the construction and working of calomel electrode.   [8+7] 
+ 
+6.a) Calculate the equilibrium constant for the following reaction at 298K.                                       
+ Cu   +  Cl2  ------ CuCl2  E0
+Cu+2/Cu= 0.34 V : E0
+Cl2/2Cl- = 1.36 V. 
+   b)  What is the principle involved in the cathodic protection? Discuss the sacrificial anodic 
+ and impressed current methods.       [7+8] 
+ 
+7.a) Explain Markownikoff’s addition products in addition of HBr to propene.     
+   b) What are conformers? Discuss the conformational analysis with reference to n-Butane. 
+            [7+8] 
+8.a) Discuss various factors that influence chemical shift. 
+   b) Give an account of various modes of fundamental vibrations.   [7+8] 
+ 
+ 
+  
+ 
+ 
+---ooOoo--- 
+R18 
+ 
+JNTUH USED PAPERS OCT/NOV 2020
+

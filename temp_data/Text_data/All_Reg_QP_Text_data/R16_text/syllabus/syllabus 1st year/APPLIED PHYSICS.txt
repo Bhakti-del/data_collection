@@ -1,0 +1,66 @@
+AP201BS: APPLIED PHYSICS 
+ 
+B.Tech. I Year II Sem.          L  T/P/D   C 
+                                                                                                        3   0/0/0     3 
+Course Objectives: 
+ To understand the elastic behavior of materials.  
+ To understand basic principles of acoustics and architecture of buildings.   
+ To study production and applications of ultrasonics. 
+ To understand magnetic, dielectric and superconducting properties. 
+ 
+Course Outcomes:  after completion of this course the student is able to  
+ Realize the importance of elastic behavior of materials. 
+ Learn Sabine’s formula for reverberation time and apply in architecture of buildings.  
+ Learn various methods of producing ultrasonics and their uses.  
+ Learn magnetic, dielectric and superconducting properties of materials and their 
+applications.   
+ 
+UNIT - I  
+Elastic properties:  stress and strain, Hooke’s law, elastic behavior of a material, factors 
+affecting elasticity, three modulii of elasticit y, work done for unit volume in deforming a body, 
+relation between three modulii of elasticity, determination of rigidity modulus – torsional 
+pendulum.  
+ 
+UNIT - II  
+Acoustics of buildings and acoustic quieting:  Introduction, basic requirement for the 
+acoustically good halls, reverberation and time of reverberation, transmission of sound and 
+transmission loss, factors affecting the architectural acoustics and their remedy, sound absorbing 
+materials, sabine formulae, absorption coefficients, stadium seating, movie theater, acoustic 
+quieting,    
+ 
+UNIT - III  
+Ultrasonics: Introduction, production of ultrasonic waves, magnetostriction method, piezo 
+electric method, detection of ultrasonic waves, properties of ultrasonic waves, use of ultrasonics 
+for nondestructive testing, applications of ultrasonics.  
+ 
+UNIT - IV  
+Dielectric Properties: Electric dipole, dipole moment, dielectric constant, polarizability, electric 
+susceptibility, displacement vector, electronic, ionic and orientation polarizations and calculation  
+of their polarizabilitites, internal field, Clausius -Mossotti relation, Piezoelectricity, 
+pyroelectricity and ferroelectricity-BaTiO3 structure. 
+ 
+UNIT - V  
+Magnetic Properties: Permeability, field intensity, magnetic field induction, magnetization, 
+magnetic susceptibility, origin of magnetic moment, Bohr magneton, classification of dia, para 
+
+and ferro magnetic materials on the basis of magnetic moment, hysteresis curve based on domain 
+theory, soft and hard magnetic materials, properties of anti-ferro and ferri magnetic materials.  
+Superconductivity: Superconductivity phenomenon, Meissner effect, applications of 
+superconductivity.  
+     
+Text books: 
+1. Solid State Physics, A. J. Dekkar, MacMillan publishers 
+2. Fundamentals of Physics, Alan Giambattisa, BM Richardson and Robert C Richardson, 
+Tata McGraw hill Publishers 
+3. Fundamentals of Acoustics, Kinster and Frey, John Wiley and Sons. 
+ 
+Reference Books: 
+1. Solid state physics, Charles Kittel, Wiley student edition 
+2. University Physics, Francis W. Sears, Hugh D. Young, Marle Zeemansky and Roger A 
+Freedman, Pearson Education. 
+3. Introduction to Magnetic Materials, B.D. Cullity, C.D.Graham, A John Wiley & Sons, 
+Inc., Publication.  
+4. Elastic and Inelastic Stress Analysis, Irving H. Shames, Francis A. Cozzarelli, Taylor, & 
+Francis Group. 
+  
+

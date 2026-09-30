@@ -1,0 +1,52 @@
+Code No: 157EH 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, February/March - 2022 
+BASIC MECHANICAL ENGINEERING       
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.a)  Explain the heat engine with a neat sketch.       
+   b)  Define path function and show that work and heat are path functions.  [7+8] 
+ 
+2.a)  Explain thermodynamic equilibrium in detail.      
+b)  Differentiate between mechanisms of heat transfer by free and forced convection. Mention 
+some of the areas where these mechanisms are predominant.   [6+9] 
+ 
+3.a) Explain the working of 4-stroke Petrol engine in detail.     
+   b) Write the differences between SI and CI engines.     [8+7] 
+ 
+4.a)  Differentiate the Relation between specific humidity and relative humidity and derive the 
+relation between them.         
+   b) Discuss the working of vapour compression refrigeration system with neat sketch.[7+8] 
+ 
+5. Define the following:          
+a) Circular pitch 
+b) Diameteral Pitch 
+c) Module 
+d) Pitch Circle 
+e) Top land.          [15]  
+ 
+6.a)  What are the basic components used in a  Pneumatic  System explain the purpose 
+component.           
+   b)  Explain different types of gears in detail.      [8+7] 
+ 
+7.a)  What is the difference between ideal mechanical advantage and actual mechanical 
+advantage?           
+b)  Construct the displacement diagram and the cam profile for a plate cam with an oscillating 
+radial flat face follower tha t raises through 30 0 with cycloidal motion in 150 0 of 
+counterclockwise cam rotation, then dwells for 300 , returns with cycloidal motion in 1200, 
+and dwells for 60 0. Determine the necessary length for the follower face, allowing 5 mm 
+clearance at the free end. The prime -circle radius is 30 mm, and the follower pivot is               
+120 mm to the right.         [6+9] 
+             
+8.a)  With the help of P -V diagram  explain the working of  multistage reciprocating air 
+compressor  with inter cooler and derive the work done for it.    
+   b)  Explain the factors affecting the volumetric efficiency of a reciprocating air compressor.  
+            [8+7] 
+ 
+--ooOoo-- 
+ R18 JNTUH Used Papers Feb 2022
+

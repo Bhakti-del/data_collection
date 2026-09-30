@@ -1,0 +1,36 @@
+Code No: 117JU      
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, September - 2021  
+BIG DATA ANALYTICS 
+ (Computer Science and Engineering) 
+Time: 3 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1. Discuss the four frequently used experimental designs by market researchers in carrying 
+out data handling for their research.       [15] 
+ 
+2.a) What safety guidelines must be followed in fire accidents? 
+   b) What is an outlier? How to handle it?       [7+8] 
+ 
+3. Explain the characteristics of Impala and compare it with Apache Spark.  [15] 
+ 
+4. How does Knowledge management support organization’s growth engine? Explain 
+knowledge management approach.       [15] 
+ 
+5. Discuss map-reduce technique for big data analytics with suitable example. [15] 
+ 
+6. Describe techniques for outlier detection and analysis with illustrations.  [15] 
+ 
+7. Explain support vector machine technique as a machine learning alg orithm with suitable 
+example.          [15] 
+ 
+8. “Data visualization is both an art and a science.” Substantiate this statement with relevant 
+discussion.           [15] 
+ 
+ 
+--ooOoo--  
+ 
+R13 
+

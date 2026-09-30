@@ -1,0 +1,40 @@
+Code No: 157DJ 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, July/August - 2022 
+REAL TIME SYSTEMS          
+(Common to CSE, IT) 
+Time: 3 Hours           Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Explain any five file I/O system calls with their functions and examples.  [15] 
+  
+2.a) Explain any three text processing commands with examples. 
+   b) Discuss about any three file manipulation commands with their functions and examples. 
+           [8+7] 
+ 
+3.a) What is a Scheduler and discuss about its services. 
+   b) What are the different types of scheduling strategies used in RTOS? Explain briefly. 
+            [7+8] 
+  
+4.a) Define a task? What are the various operations performed on a task? Discuss. 
+   b) Discuss about multiple tasks and their synchronization model using semaphores.   [7+8] 
+ 
+5.  Explain the I/O subsystem with RTOS examples.     [15]  
+ 
+6.a) Write briefly about signals. 
+   b) List out the various function calls for managing signals and explain briefly. [7+8] 
+ 
+7.a)  What is an exception? How to handle an exception? Explain the process of handling 
+exception.  
+   b) Explain the interrupts, spurious interrupts with examples.     [7+8] 
+ 
+8.a) Give an overview of RT Linux. 
+   b) Explain the case study of Appliance Control by RT Linux System.    [7+8] 
+ 
+---oo0oo--- 
+ 
+ R18 
+JNTUH Used Papers
+

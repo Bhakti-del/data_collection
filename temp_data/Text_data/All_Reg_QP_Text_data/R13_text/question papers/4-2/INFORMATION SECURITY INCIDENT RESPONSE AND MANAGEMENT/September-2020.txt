@@ -1,0 +1,37 @@
+ 
+ 
+ 
+Code No: 118GN             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, September - 2020 
+INFORMATION SECURITY INCIDENT RESPONSE AND MANAGEMENT  
+(Computer Science and Engineering) 
+Time: 2 hours                                   Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+1.a) Explain how we can test the traffic filtering devices.      
+   b) How to configure Router?        [10+5] 
+ 
+2. Discuss about Router Troubleshooting Tools.        [15] 
+ 
+3.a) What are the Signs of security incident? 
+   b) What are five important incident handling phases? Explain.    [7+8] 
+ 
+4. Explain Major operational processes for log management.     [15] 
+ 
+5. Explain the tips for responding to a network distributed denial-of service (DDoS) incident.  
+             [15] 
+ 
+6. How to configure VPN server? Explain.      [15] 
+  
+7.a) Explain about modems. How do they work for communication? 
+   b) What are reasons for network slowdown? Explain.     [7+8] 
+    
+8. Explain about the security policy for Data Back Proceducers.        [15] 
+ 
+---ooOoo--- 
+R13 
+JNTUH Used Papers 18-09-2020PM
+

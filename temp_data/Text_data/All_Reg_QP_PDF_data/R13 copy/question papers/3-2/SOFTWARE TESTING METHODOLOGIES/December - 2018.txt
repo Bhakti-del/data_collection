@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Code No: 126ER            
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year II Semester Examinations, December - 2018 
+ SOFTWARE TESTING METHODOLOGIES 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a)      What are feature bugs?        [2] 
+   b)      Distinguish between builder and buyer.      [3] 
+   c)      What is Petri net?           [2] 
+   d)      Explain about data flow anomaly graph with example.    [3] 
+   e)      What is domain span?         [2] 
+   f)      Discuss about domain dimensionality.      [3] 
+   g)      Define silicon compilers.          [2] 
+   h)      Write eight steps in a reduction procedure.      [3] 
+   i)       What is impossible state?        [2] 
+   j)       Distinguish between manual testing and automated testing.    [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  What are structural bugs? Explain. 
+   b)  Describe notational evolution of control flow graph with example.   [5+5] 
+OR 
+3.a)  Explain heuristics procedures for sensitizing paths. 
+   b)  Is testing is everything? Explain.       [5+5] 
+  
+4.a)  Discuss about the data flow model. 
+   b)  Explain transaction-flow graph implementation with example.   [5+5] 
+OR 
+5.a)  What are the structural test st rategies based on the program’s control flowgraph? 
+Explain. 
+   b)  Discuss about complication in transaction-flow testing.    [5+5] 
+  
+6.a)  Explain about testing one-dimensional domains. 
+   b)  Write about restrictions of domain testing.      [5+5] 
+OR 
+7.  Define domain testing. Explain about nice domains in detail.     [10] 
+  
+ 
+ 
+ 
+ 
+ 
+R13 
+used paper 28-12-2018 Am
+
+ 
+ 
+ 
+8.a)  Describe the mean processing time of a routine with example. 
+   b)  Write rules of Boolean algebra.       [5+5] 
+OR 
+9.a)  Briefly explain about regular expressions and flow-anomaly detection. 
+   b)  Write the procedure for specification validation.     [5+5] 
+ 
+10.a)  What are some situations in which state testing may prove useful? Explain.  
+     b)  What are properties of relations? Explain.      [5+5] 
+OR 
+11.a)  Explain software implementation of state graphs. 
+     b)  Discuss about matrix representation software.     [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+used paper 28-12-2018 Am
+

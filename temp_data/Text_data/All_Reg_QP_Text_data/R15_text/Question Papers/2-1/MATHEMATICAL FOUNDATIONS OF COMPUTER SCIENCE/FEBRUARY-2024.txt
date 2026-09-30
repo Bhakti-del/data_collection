@@ -1,0 +1,107 @@
+Code No: 123BN  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B .Tech II Year I Semester Examinations, February - 2024 
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+(Computer Science and Engineering) 
+Time: 3 Hours                            Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions. 
+ 
+                PART – A      (25 Marks) 
+ 
+1.a) Give the truth table for the proportional formula 
+            
+( ) ( )p q p q             [2] 
+   b) Write the sentence “ If 2+3 = 4 then sun r ises in the east” in the symbolic form and also 
+write its inverse and converse statement.      [3] 
+   c) Define equivalence relation.         [2] 
+   d) Differentiate between semi group and sub group.      [3] 
+   e) How many words of three distinct letters can be formed from DUST?   [2] 
+   f) Give the sequential rule for counting problem.      [3] 
+   g) What is closed form expression of the sequence an= 4, n ≥ 0?    [2] 
+   h) Find the coefficient of x32 in (1+x5+x9)10.       [3] 
+   i) State Euler’s formula for a connected planar graph.      [2] 
+   j) What are the advantages and disadvantages of breadth first search algorithm?  [3] 
+ 
+     PART - B       
+(50 Marks) 
+  
+2.a) Show that the following proportions are contradiction. 
+ i) 
+( ) ( )p q p q    
+ ii) 
+() q p q    
+   b) Prove the following logical equivalence without using truth table 
+    p q p q r p q      
+.       [5+5] 
+OR 
+3. Describe the rules of infere nce in predicate logic and verify the validity of the following 
+ inference. 
+ If one person is more successful than another, then he has worked harder to 
+ deserve success. Naveen has not worked harder than Praveen. Therefore Nave en is not 
+ more successful than Praveen.         [10] 
+ 
+4.a) Explain Warshall’s algorithm with an example. 
+   b) Show that the inclusion relation 
+ is a partial ordering on the power set of a set A. [5+5] 
+OR 
+5.a) If every element of a group G except the identity element is of order 2, then prove that 
+ the group G is abelian. 
+   b) What are the necessary and sufficient conditions for a homomorphism of a group? [5+5] 
+ 
+R15 
+
+ 
+6.a) There are 20 boys and 15 girls in LKG while there are 12 boys and 23 girls in UKG. In 
+ how many ways can a team of 10 be chosen s o that there are 5 girls and 3 UKG students  
+ in the team? 
+   b) Enumerate the number of ways of placing 20 indistinguishable b alls into 5 boxes where 
+ each box is non empty.         [5+5] 
+OR 
+7.a) Find the middle term of 
+9
+3 .x y
+   
+   b) Find the number of integers between 1 and 1000 which are not divisible by 2, 3, 5 or 7. 
+            [5+5] 
+ 
+8.a) Solve 
+126 8 .4 n
+n n na a a n     where 
+01 8, 22aa . 
+   b) Solve the following recurrence relation by substitution.  
+ 
+3
+1nna a n   Where 
+0 5a         [5+5] 
+OR 
+9.a) Solve 
+2
+121nnaa  for 
+1,n  where 
+0 2a  . 
+   b) Find a general expression for an using generating functions. 
+124 3 0, 2n n na a a n     ,
+ 
+2n .           [5+5] 
+ 
+10.a)  Suppose that G is a non directed graph with 12 edges. Suppose that G has 6 vertices of 
+ degree 3 and the rest have degrees less than 3. Determine the minimum number of 
+ vertices G can have. 
+     b) Give an example of 2 non isomorphism graphs of order 6 an d size 6 with degree 
+ sequence (2, 2, 2, 2, 2, 2).         [5+5] 
+OR 
+11.a) Find the chromatic number of the following graph (Figure 1). 
+ 
+Figure 1 
+     b) Show that the following figure 2 has no Hamiltonian cycle. But the graph has a Hamilton 
+ path (Figure 2).          [5+5] 
+ 
+Figure 2 
+ 
+--ooOoo-- 
+
+

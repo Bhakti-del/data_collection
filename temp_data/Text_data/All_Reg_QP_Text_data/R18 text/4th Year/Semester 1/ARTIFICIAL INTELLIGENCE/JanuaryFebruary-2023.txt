@@ -1,0 +1,69 @@
+Code No: 157AM 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+ARTIFICIAL INTELLIGENCE       
+(Computer Science and Engineering)  
+Time: 3 Hours                            Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      What is well defined problem?       [2]  
+   b)      Define search tree and write its properties.        [3] 
+   c)      What is game tree?         [2]      
+   d)      Explain evaluation function.          [3]  
+   e)      Define atomic and complex sentence in first order logic.    [2] 
+   f)      What is First order logic?        [3] 
+   g)      Define temporal constraints.        [2] 
+   h)      Explain classical planning.        [3]  
+   i)      Define over fitting.         [2]  
+   j)      State Baye’s rule.         [3] 
+ 
+PART – B  
+(50 Marks) 
+2.a) What is simple problem solving agent? Explain it briefly. 
+   b) Discuss Greedy best first search algorithm.      [5+5] 
+OR 
+3.a) What is bidirectional search ? Explain in detail. 
+   b) Explain Breadth First Search algorithm with an example.    [5+5] 
+  
+4.a) Elaborate on knowledge based agents. 
+   b) Explain CSP problem for job scheduling.      [5+5] 
+OR 
+5.a) What is Resolution? Explain Resolution algorithm for Proposition logic. 
+   b) Explain backtracking searching technique.      [5+5] 
+  
+6.a) Explain quantifier estimates and its types. 
+   b) Analyze the steps in knowledge-engineering process.    [5+5] 
+OR 
+7.a) Explain reasoning with default information. 
+   b) Write simple forward chaining algorithm.      [5+5] 
+ 
+  
+ R18 
+JNTUH Used papers 2023
+
+ 
+8.a) Discuss regressive relevant state space search. 
+   b)  What is Graph Plan? Explain in detail.      [5+5] 
+        OR 
+9.a) Describe multi agent planning.  
+   b)  Give the solution for scheduling planning.      [5+5] 
+ 
+10.a) Explain inductive logic programming. 
+     b)  Describe Bayesian networks in detail.      [5+5] 
+OR 
+11.a) What is Decision tree? Explain steps to construct to Decision tree. 
+     b)  Explain the issues in decision tree learning.      [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

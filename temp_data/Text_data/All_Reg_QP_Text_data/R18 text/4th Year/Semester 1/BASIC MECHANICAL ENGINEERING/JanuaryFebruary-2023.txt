@@ -1,0 +1,82 @@
+ 
+Code No: 157EH 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+BASIC MECHANICAL ENGINEERING       
+(Common to EEE, CSE, IT) 
+Time: 3 Hours                Max.Marks:75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Define black body.         [2] 
+   b)      Define point and path functions.        [3] 
+   c)     What is degree of saturation?        [2] 
+   d)      Explain the purpose of carburetor in SI engine.      [3] 
+   e)      Define interference.         [2] 
+   f)      What is a differential gear? Where is, it used?     [3] 
+   g)      Define  mechanical advantage.       [2] 
+   h)      Define the terms prime circle, pitch circle, base circle of a cam.   [3] 
+   i)      Define resonance.         [2] 
+   j)      List the advantages of multistage compressors.     [3] 
+ 
+PART – B  
+(50 Marks) 
+  
+2.a)  How does transient heat transfer differ from steady heat transfer? How does one -
+dimensional heat transfer differ from two-dimensional heat transfer? 
+   b)  No engine can be made to work on Carnot cycle" justify the statement.  [5+5] 
+OR 
+3.a)  Define thermodynamic equilibrium. Explain different laws of thermodynamic. 
+    b)  Discuss the different modes of heat transfer.      [5+5] 
+  
+4.a)  What are the main components of automobile which contribute for efficient functioning? 
+Explain. 
+b)  What is the difference between vapour compression cycle and absorption cycle? [5+5] 
+OR 
+5.a)  Why compression ratio of petrol engine is low compared to diesel engines? 
+   b)  Explain the vapour compression cycle with a neat sketch.    [5+5] 
+ 
+ R18 
+JNTUH Used papers 2023
+
+6.a)  Derive an expression for minimum number of teeth required on a pinion to avoid  
+interference when it gears with a rack. 
+   b)  Why are hydraulic systems preferred for heavy work than the pneumatic systems? [5+5] 
+OR 
+7.a)  What are the laws of gearing? Explain. 
+   b) What are the basic concepts of hydraulic power? Explain.    [5+5] 
+ 
+8.a)  Sketch and define transmission angle of a four-bar mechanism. 
+b)  What is the differences between an element and a kinematic link of a mechanism?  How do 
+you classify links of a mechanism?       [5+5] 
+OR 
+9.a)  Define the following:         
+i) Kinematic chain 
+ii) Mechanism 
+iii) Structure. 
+b)  Derive the expression for velocity and acceleration during out -stroke and return stroke of 
+the follower.          [5+5] 
+ 
+10.a)  Explain the working principle of centrifugal compressor. 
+     b)  Differentiate between free vibrations and forced vibrations.    [5+5] 
+OR 
+11.a)  With a neat sketch, explain the parts of Reciprocating compressor. 
+     b)  Define the following terms:        
+i) Periodic motion 
+ii) Fundamental mode of vibration 
+iii) Degree of freedom 
+iv) Simple harmonic motion        [5+5] 
+ 
+  
+ 
+ 
+---ooOoo--- 
+ 
+JNTUH Used papers 2023
+

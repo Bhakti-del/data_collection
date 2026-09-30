@@ -1,0 +1,1657 @@
+R16 B.TECH BIOMEDICAL ENGG. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.TECH. BIOMEDICAL ENGINEERING 
+IV YEAR COURSE STRUCTURE AND SYLLABUS (R16) 
+ 
+Applicable From 2016-17 Admitted Batch 
+ 
+IV YEAR I SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1 MT701PC Microprocessors and Microcontrollers 4 0 0 4 
+2 BM702PC Medical Image Processing 4 0 0 4 
+3  Professional Elective- II 3 0 0 3 
+4  Professional Elective-III 3 0 0 3 
+5  Professional Elective-IV 3 0 0 3 
+6 MT703PC Microprocessors and Microcontrollers Lab 0 0 3 2 
+7 BM704PC Medical Image Processing Lab 0 0 3 2 
+8 BM705PC Industry Oriented Mini Project 0 0 3 2 
+9 BM706PC Seminar 0 0 2 1 
+  Total Credits 17 0 11 24 
+ 
+II YEAR II SEMESTER 
+ 
+S. No Course 
+Code Course Title L T P Credits 
+1  Open Elective - III 3 0 0 3 
+2  Professional Elective-V 3 0 0 3 
+3  Professional Elective-VI 3 0 0 3 
+4 BM801PC Major Project 0 0 30 15 
+  Total Credits 9 0 30 24 
+ 
+Professional Elective - I 
+BM611PE  Laser and Fiber Optic Instrumentation 
+BM612PE  Biological Control Systems 
+BM613PE  VLSI Design 
+BM614PE   General Surgery and Radiology 
+ 
+Professional Elective - II 
+EC721PE  Computer Networks 
+BM722PE   Telemedicine 
+BM723PE   Biomaterials 
+BM724PE   Virtual Instrumentation 
+ 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+Professional Elective – III 
+BM731PE   Hospital System Management 
+BM732PE  Artificial Neural Networks 
+BM733PE   Rehabilitation Engineering 
+BM734PE  Operating Systems 
+ 
+Professional Elective – IV 
+BM741PE  Transportation Phenomena in living systems 
+EI742PE   Robotics and Automation 
+BM743PE   Quantitative Engineering Physiology 
+BM744PE   Nanotechnology 
+ 
+Professional Elective – V 
+BM851PE   Medical Informatics 
+BM852PE   Physiological Systems Management  
+BM853PE  Embedded System Design 
+BM854PE  Internet of Things 
+ 
+Professional Elective - VI 
+BM861PE   Bio MEMS 
+BM862PE   Biometric Systems  
+EI863PE   DSP Processors and Architectures 
+EI864PE   Machine Learning 
+ 
+During Summer Vacation between III and IV Years: Industry Oriented Mini Project  
+ 
+*Open Elective subjects’ syllabus is provided in a separate document. 
+ 
+*Open Elective – Students should take Open Electives from the List of Open Electives 
+Offered by Other Departments/Branches Only. 
+ 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+ 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+LIST OF OPEN ELECTIVES OFFERED BY VARIOUS DEPARTMENTS FOR B.TECH. III 
+AND IV YEARS 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective – I 
+(Semester – V) 
+Open Elective – II 
+(Semester – VI) 
+1 Aeronautical Engg. AE511OE: Introduction to 
+Space Technology 
+AE621OE: Introduction to 
+Aerospace Engineering 
+2 Automobile Engg. CE511OE: Disaster 
+Management 
+MT512OE: Intellectual 
+Property Rights 
+MT621OE: Data Structures 
+MT622OE: Artificial Neural 
+Networks 
+3 Biomedical Engg. BM511OE: Reliability 
+Engineering 
+BM621OE: Medical 
+Electronics 
+4 Civil Engg. CE511OE: Disaster 
+Management. 
+CE621OE: Remote Sensing 
+and GIS 
+CE622OE: Geo-Informatics 
+CE623OE: Intellectual 
+Property Rights 
+5 Civil and Environmental Engg. CE511OE: Disaster 
+Management 
+CN621OE: Environmental 
+Impact Assessment  
+CE623OE: Intellectual 
+Property Rights 
+6 Computer Science and Engg. / 
+Information Technology 
+CS511OE: Operating 
+Systems  
+CS512OE: Database 
+Management Systems 
+CS621OE: Java Programming  
+CS622OE: Software Testing 
+Methodologies  
+CS623OE: Cyber Security 
+7 Electronics and Communication 
+Engg. / Electronics and 
+Telematics Engg. 
+EC511OE: Principles of 
+Electronic 
+Communications 
+EC621OE: Principles of 
+Computer Communications 
+and Networks 
+8 Electronics and Computer 
+Engg. 
+EM511OE: Scripting 
+Languages 
+EM621OE: Soft Computing 
+Techniques 
+9 Electrical and Electronics Engg. EE511OE: Non-
+Conventional Power 
+Generation  
+EE512OE: Electrical 
+Engineering Materials  
+EE513OE: 
+Nanotechnology 
+EE621OE: Design Estimation 
+and Costing of Electrical 
+Systems  
+EE622OE: Energy Storage 
+Systems 
+EE623OE: Introduction to 
+Mechatronics 
+10 Electronics and Instrumentation 
+Engg. 
+EI511OE: Electronic 
+Measurements and 
+Instrumentation 
+EI621OE: Industrial 
+Electronics 
+11 Mechanical Engg. ME511OE: Optimization 
+Techniques  
+ME512OE: Computer 
+Graphics 
+ME513OE: Introduction to 
+Mechatronics 
+ME621OE: World Class 
+Manufacturing  
+ME622OE: Fundamentals of 
+Robotics 
+ME623OE: Fabrication 
+Processes 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+ME514OE: Fundamentals 
+of Mechanical Engineering 
+12 Mechanical Engg. (Material 
+Science and Nanotechnology) 
+NT511OE: Fabrication 
+Processes 
+NT512OE: Non destructive 
+Testing Methods 
+NT513OE: Fundamentals 
+of Engineering Materials 
+NT621OE: Introduction to 
+Material Handling 
+NT622OE: Non-Conventional 
+Energy Sources 
+NT623OE: Robotics 
+13 Mechanical Engg. 
+(mechatronics) 
+MT511OE: Analog and 
+Digital I.C. Applications 
+MT512OE: Intellectual 
+Property Rights 
+MT513OE: Computer 
+Organization 
+MT621OE: Data Structures 
+MT622OE: Artificial Neural 
+Networks 
+MT623OE: Industrial 
+Management 
+ 
+14 Metallurgical and Materials 
+Engg. 
+MM511OE: Materials 
+Characterization 
+Techniques 
+MM621OE: Science and 
+Technology of Nano 
+Materials 
+MM622OE: Metallurgy of 
+Non Metallurgists 
+15 Mining Engg. MN511OE: Introduction to 
+Mining Technology 
+MN621OE: Coal 
+Gasification, Coal Bed 
+Methane and Shale Gas 
+16 Petroleum Engg. PE511OE: Materials 
+Science and Engineering 
+PE512OE: Renewable 
+Energy Sources 
+PE513OE: Environmental 
+Engineering 
+PE621OE: Energy 
+Management and 
+Conservation 
+PE622OE: Optimization 
+Techniques 
+PE623OE: Entrepreneurship 
+and Small Business 
+Enterprises 
+ 
+S. 
+No. 
+Name of the Department 
+Offering Open Electives 
+Open Elective –III 
+(Semester – VIII) 
+1 Aeronautical Engg. AE831OE: Air Transportation Systems 
+AE832OE: Rockets and Missiles 
+2 Automobile Engg. AM831OE: Introduction to Mechatronics 
+AM832OE: Microprocessors and Microcontrollers 
+3 Biomedical Engg. BM831OE: Telemetry and Telecontrol  
+BM832OE: Electromagnetic Interference and Compatibility 
+4 Civil Engg. CE831OE: Environmental Impact Assessment  
+CE832OE: Optimization Techniques in Engineering 
+CE833OE: Entrepreneurship and Small Business Enterprises 
+5 Civil and Environmental Engg. CN831OE: Remote Sensing and GIS  
+CE833OE: Entrepreneurship and Small Business Enterprises 
+6 Computer Science and Engg. / 
+Information Technology 
+CS831OE: Linux Programming  
+CS832OE: R Programming  
+CS833OE: PHP Programming 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+7 Electronics and 
+Communication Engg. / 
+Electronics and Telematics 
+Engg. 
+EC831OE: Electronic Measuring Instruments 
+8 Electronics and Computer 
+Engg. 
+EM831OE: Data Analytics 
+9 Electrical and Electronics 
+Engg. 
+EE831OE: Entrepreneur Resource Planning 
+EE832OE: Management Information Systems 
+EE833OE: Organizational Behaviour  
+10 Electronics and 
+Instrumentation Engg. 
+EI831OE: Sensors and Transducers,  
+EI832OE: PC Based Instrumentation 
+11 Mechanical Engg. ME831OE: Total Quality Management  
+ME832OE: Industrial Safety, Health, and Environmental 
+Engineering  
+ME833OE: Basics of Thermodynamics  
+ME834OE: Reliability Engineering 
+12 Mechanical Engg. (Material 
+Science and Nanotechnology) 
+NT831OE: Concepts of Nano Science And Technology  
+NT832OE: Synthesis of Nanomaterials  
+NT833OE: Characterization of Nanomaterials 
+13 Mechanical Engg. 
+(mechatronics) 
+MT831OE: Renewable Energy Sources 
+MT832OE: Production Planning and Control 
+CE833OE: Entrepreneurship and Small Business Enterprises 
+14 Metallurgical and Materials 
+Engg. 
+MM831OE: Design and Selection of Engineering Materials 
+15 Mining Engg. MN831OE: Solid Fuel Technology 
+MN832OE: Health & Safety in Mines 
+16 Petroleum Engg. PE831OE: Disaster Management 
+PE832OE: Fundamentals of Liquefied Natural Gas 
+PE833OE: Health, Safety and Environment in Petroleum 
+Industry  
+ 
+*Open Elective – Students should take Open Electives from List of Open Electives Offered 
+by Other Departments/Branches Only. 
+Ex: - A Student of Mechanical Engineering can take Open Electives from all other 
+departments/branches except Open Electives offered by Mechanical Engineering Dept. 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+MICROPROCESSORS AND MICROCONTROLLERS 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT701PC                          4     0    0    4 
+ 
+Pre-requisites: Nil. 
+ 
+Course Objectives: 
+ To develop an understanding of the operations of microprocessors and micro 
+controllers; machine language programming and interfacing techniques. 
+ 
+Course Outcomes: 
+ Understands the internal architecture and organization of 8086, 8051 and ARM 
+processors/controllers. 
+ Understands the interfacing techniques to 8086 and 8051 and can develop assembly 
+language programming to design microprocessor/ micro controller based systems. 
+ 
+UNIT - I 
+8086 Architecture: 8086 Architecture-Functional diagram, Register Organization, Memory 
+Segmentation, Programming Model, Memory addresses, Physical Memory Organization, 
+Architecture of 8086, Signal descriptions of 8086, interrupts of 8086. 
+Instruction Se t and Assembly Language Programming of 8086 : Instruction formats, 
+Addressing modes, Instruction Set, Assembler Directives, Macros, and Simple Programs 
+involving Logical, Branch and Call Instructions, Sorting, String Manipulations. 
+ 
+UNIT - II 
+Introduction t o Microcontrollers: Overview of 8051 Microcontroller, Architecture, I/O 
+Ports, Memory Organization, Addressing Modes and Instruction set of 8051. 
+8051 Real Time Control:  Programming Timer Interrupts, Programming External Hardware 
+Interrupts, Programming the Serial Communication Interrupts, Programming 8051 Timers 
+and Counters 
+ 
+UNIT – III 
+I/O And Memory Interface: LCD, Keyboard, External Memory RAM, ROM Interface, 
+ADC, DAC Interface to 8051. 
+Serial Communication and Bus Interface: Serial Communication Standards, Serial Data 
+Transfer Scheme, On board Communication Interfaces -I2C Bus, SPI Bus, UART; External 
+Communication Interfaces-RS232, USB. 
+ 
+UNIT – IV 
+ARM Architecture: ARM Processor fundamentals, ARM Architecture – Register, CPSR, 
+Pipeline, exceptions and interrupts interrupt vector table, ARM instruction set – Data 
+processing, Branch instructions, load store instructions, Software interrupt instructions, 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+Program status register instructions, loading constants, Conditional execution, Introduction to 
+Thumb instructions. 
+ 
+UNIT – V 
+Advanced ARM Processors: Introduction to CORTEX Processor and its architecture, 
+OMAP Processor and its Architecture. 
+ 
+TEXT BOOKS: 
+1. Advanced Micropro cessors and Peripherals – A. K. Ray and K.M. Bhurchandani, 
+MHE, 2nd Edition 2006. 
+2. The 8051 Microcontroller, Kenneth. J. Ayala, Cengage Learning, 3rd Ed. 
+3. ARM System Developers guide, Andrew N SLOSS, Dominic SYMES, Chris 
+WRIGHT, Elsevier, 2012 
+ 
+REFERENCE BOOKS: 
+1. Microprocessors and Interfacing, D. V. Hall, MGH, 2nd Edition 2006. 
+2. Introduction to Embedded Systems, Shibu K.V, MHE, 2009 
+3. The 8051 Microcontrollers, Architecture and Programming and Applications -K. Uma  
+Rao, Andhe Pallavi, Pearson, 2009. 
+ 
+ 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+MEDICAL IMAGE PROCESSING 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM702PC                          4     0    0    4 
+ 
+Pre-requisites: Nil. 
+ 
+UNIT - I 
+Digital Image Fundamentals: Digital Image Processing System,  Applications, Digitization 
+of an image – Spatial and Intensity Quantization, Quality of an Image – Spatial resolution, 
+Brightness Representation, Noise Content, Color Images 
+Image Transforms: Unitary, 1D-DFT, 2D-DFT, Discrete Cosine Transform (DCT) and 
+Discrete Sine Transform (DST)  
+ 
+UNIT - II 
+Image Enhancement: Spatial domain, frequency domain methods, Histogram equalization, 
+Mask Processing: Image Smoothing, Image sharpening (filters). 
+Image Segmentation – Masks – Point detection – Line Detection – Edge Detection.  
+ 
+UNIT - III 
+Image Restoration: Model of the image Degradation Process, Restoration in the presence of 
+noise only spatial filtering, periodic Noise reduction by Frequency Domain Filtering, Inverse 
+Filtering, Minimum Mean Square Error (Weiner) Filtering, Least Squares Filtering. 
+ 
+UNIT - IV 
+Image Compression: Fundamentals, Image compression Models, Error-free Compression, 
+Lossy Compression, Image Compression Standards. 
+ 
+UNIT – V 
+Processing of Medical Images: Processing and Feature Extraction of CT, MRI, Ultrasound 
+and PET Images. 
+ 
+TEXT BOOKS: 
+1. Geoff Dougherty, Digital Image Processing for medical Applications. Cambridge 
+University Press, 2007. 
+2. Kayvan Nataraian and Robert Splinter, Biomedical Signal and Image Processing, 
+CRC Press, Taylor and Francis, 2006. 
+3. Digital Image Processing – by R.C. Gonzalez & R.E. Woods, Addison Wesley. 
+ 
+REFERENCE BOOKS: 
+1. Pattern Recognition Principles – J.T.TOU.R.C. Gonzalez, Addison Wesley. 
+2. Fundamentals of Digital Image Processing – by A.K. Jain, PHI Pearson Education 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+COMPUTER NETWORKS 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: ET702PC/EC721PE                         3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+Course Objectives: 
+ To introduce the fundamental various types of computer networks. 
+ To demonstrate the TCP/IP and OSI models with merits and demerits. 
+ To explore the various layers of OSI Model. 
+ To introduce UDP and TCP Models. 
+ To have the concept of different routing techniques for data communications. 
+ 
+Course Outcomes: 
+ Students should understand and explore the basics of Computer Networks and 
+Various Protocols. He/She will be in a position to understand the Wor ld Wide Web 
+concepts. 
+ Students will be in a position to administrate a network and flow of information 
+further he/she can understand easily the concepts of network security, Mobile and ad 
+hoc networks. 
+ 
+UNIT - I 
+Introduction to Networks: Internet, Protocols and Standards, The OSI Model, Layers in OSI 
+Model, TCP/IP Suite, Addressing. 
+Physical Layer: Multiplexing, Transmission Media, Circuit Switched Networks, Datagram 
+Networks, and Virtual Circuit Networks. 
+ 
+UNIT - II 
+Data Link Layer:  Introduction, Checksum, Framing, Flow and Error Control, Noiseless 
+Channels, Noisy Channels, Random Access Controlled Access, Channelization, IEEE 
+Standards, Ethernet, Giga -Bit Ethernet, Wireless LANs, SONET -SDH, Frame Relay and 
+ATM. 
+ 
+UNIT - III 
+Network Layer: Logical Addressing, Internetworking, Tunneling, Address Mapping, ICMP, 
+IGMP, Forwarding, Routing -Flooding, Bellman& Ford, Disjkstra’s routing protocols, RIP, 
+OSPF, BGP,- and Multicast Routing Protocols. Connecting Devices-Passive Hubs, Repeaters, 
+Active Hubs, Bridges, Routers. 
+ 
+UNIT - IV 
+Transport Layer: Process to Process Delivery, UDP, TCP and SCTP Protocols, Congestion, 
+Congestion Control, Quality of Service. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+Application Layer: Domain Name Space, DNS in Internet, Electronic Mail, File Transfer 
+Protocol, WWW, HTTP, SNMP, Multi-Media. 
+ 
+UNIT - V 
+Network Security: Security services, mechanisms and attacks, IPSec, SSL, VPN, Firewall. 
+Bluetooth, Zigbee, IPv4, IPv6. 
+ 
+TEXT BOOKS: 
+1. Data Communications and Networking – Behrouz A. Forouzan, 4 th Edition Mc Graw 
+Hill Education, 2006. 
+2. Computer Networks -- Andrew S Tanenbaum, 4th Edition, Pearson Education.  
+3. Computer Networking: A Top -Down Approach Featuring the Internet, James F. 
+Kurose, K. W. Ross, 3rd Edition, Pearson Education. 
+ 
+REFERENCES: 
+1. Data communications and Networks by William Stallings 
+2. Data communication and Networks - Bhusan Trivedi, Oxford University press 2016. 
+3. An Engineering Approach to Computer Networks  - S. Keshav, 2nd Edition, Pearson 
+Education. 
+4. Understanding Communications and Networks, 3rd Edition, W. A. Shay, Cengage 
+Learning. 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+TELEMEDICINE 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM722PE                          3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+UNIT - I 
+History of telemedicine: Block diagram of telemedicine system, Definition of telemedicine, 
+Tele health, Tele care, organs of telemedicine, scope, Benefits, and limitations of 
+telemedicine. Type of information; Audio, Video, Still images, Text and data, fax,  type of 
+communications and network, PSTN, POTS, ANT, ISDN, Internet, Air/ wireless 
+communications: GSM satellite, and Micro wave. Different Modulation techniques. Types of 
+antennas depending on requirements, Integration, and operational issues: - system integration, 
+store –and - forward operation, Real-time Telemedicine. 
+ 
+UNIT – II 
+Data Exchange: Network Configuration, circuit and packet switching, H. 320 series (Video 
+phone based ISBN) T. 120, H.324 ( Video phone based PSTN). Video Conferencing. Data 
+Security and Standards: Encryption, Cryptography, Mechanisms of encryption, phases of 
+Ecryption. Protocols: TCP/IP, ISO-OSI, Standards to followed DICOM, HL7. 
+ 
+UNIT – III 
+Ethical and legal aspects of Telemedicine:  Confidentiality, and the law, patient rights and 
+consent, access to medical Records, Consent treatment, jurisdictional Issues, Intellectual 
+property rights. 
+ 
+UNIT – IV 
+Tele radiology: Definition, Basic parts of Tele -radiology system: Image Acquisition system 
+Display system, Communication network, Int erpretation section. Tele pathology: multimedia 
+databases, color images of sufficient resolution: Dynamic range, spatial resolution, 
+compression methods, Interactive control of color, controlled sampling security and 
+confidentiality tools. 
+ 
+UNIT – V 
+And Tele-Cardiology: Tele-Oncology, Tele-Surgery. Applications of Tele-Surgery 
+ 
+TEXTBOOKS: 
+1. Olga (EDT)  Ferrer – Roca, M.Sosa (EDT) Iudicissa Hand book of Telemedicine IOS 
+press 2002 
+2. A.C. Norris, Essentials of Telemedicine and Telecare John Sons & Ltd, 2002   
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+BIOMATERIALS 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM723PE                          3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+UNIT - I: Classification of materials used in medicine, Properties of Materials.  
+ 
+UNIT - II 
+Host reactions to: Inflammation, Wound healing and the Foreign body response. 
+Systemic toxicity and Hypersensitivity. Blood coagulation and Blood -materials Interactions. 
+Tumorigenesis.  
+Testing biomaterials:  In Vitro assessment of tissue compatibility In vivo assessment of 
+tissue compatibility. Testing of blood-materials interactions. 
+Degradation of materials in the biological environment: Effects of the Biological 
+environment on metals, polymers, and ceramics. 
+ 
+UNIT - III 
+Applications of materials in medicine, Dentistry and Biology: Cardiovascular medical 
+devices. Nonthrombogenic treatments and Strategies. Dental implantation adhesive and 
+Sealants. Ophthalmologic applications-intraocular lens implants. 
+ 
+UNIT - IV 
+Orthopedic biomaterials, Materials for fixation screws, plates, intramedullar nails. Sutures. 
+Burn dressings and Skin substitutes. Artificial organs and tissues: Implantable cardiac assist 
+devices. Materials for extra corporeal devices. Cochlear implants. Artificial red blood cell 
+substitutes. 
+ 
+UNIT - V 
+Sterilization of implants and Devices implants and Device failure. Implant retrieval and 
+Evaluation. Standards development and regulation of medical products using biomaterials. 
+Nano bio materials. 
+ 
+TEXT BOOKS: 
+1. Biomaterials Science: An Introduction to Materials in Medicine Buddy D. Ratner, 
+Frederick J. Schoen, Allan S. Hoffman, Jack E. Lemons 
+2. Hench L L Ethridg E.C. Biomaterials, an interfacial approach, Academic press 1982 
+ 
+REFERENCE BOOKS: 
+1. Bronzino J D, The Handbook Biomedical Engineering, CRC Press. 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+VIRTUAL INSTRUMENTATION 
+(Professional Elective – II) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM724PE                          3     0    0    3 
+ 
+Course Objectives: To introduce LABVIEW programming and simulation of real time 
+applications like instrument control, Signal processing, image processing, Data acquisition 
+etc., 
+ 
+Course Outcomes: Upon completion of this course the student shall be able to develop their 
+own GSD and interface them with real world instruments. 
+ 
+UNIT - I 
+Virtual Instrumentation: An introduction Historical perspective, advantages, block diagram 
+and architecture of a virtual instrument, da ta-flow techniques, graphical programming in data 
+flow, comparison with conventional programming. Development of Virtual Instrument using 
+GUI, Real-time systems. 
+ 
+UNIT - II 
+VI programming techniques: VIs and sub-VIs, loops and charts, arrays, clusters and graphs, 
+case and sequence structures, formula nodes, local and global variables, string and file I/O, 
+Instrument Drivers, Publishing measurement data in the web. 
+ 
+UNIT - III 
+Data acquisition basics: Introduction to data acquisition on PC, Sampling fundamen tals, 
+Input/output techniques, and buses. ADC, DAC, Digital I/O, counters and timers, DMA, 
+Software and hardware installation, Calibration, Resolution, Data acquisition interface 
+requirements. 
+ 
+UNIT - IV 
+VI Interface requirements: Common Instrument Interfaces: Current loop, RS 232C/ RS485, 
+GPIB. Bus Interfaces: USB, PCMCIA, VXI, SCSI, PCI, PXI, Firewire. PXI system 
+controllers, Ethernet control of PXI. Networking basics for office & Industrial applications, 
+VISA and IVI. 
+ 
+UNIT - V 
+VI toolsets: Distributed I/O modules. Application of Virtual Instrumentation: Instrument 
+Control, Development of process database management system, Simulation of systems using 
+VI, Development of Control system, Industrial Communication, Image acquisition a nd 
+processing, Motion control. 
+ 
+ 
+ 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+TEXTBOOKS: 
+1. LabVIEW Graphical Programming, Gary Johnson, Second edition, McGraw Hill, 
+Newyork, 1997. 
+2. LabVIEW based Advanced Instrumentation Systems, S. Sumathi and P. Surekha, 
+Spinger. 
+ 
+REFERENCE BOOKS: 
+1. PC Interfacing and Data Acquisition: Techniques for Measurement, Instrumentation 
+and Control, Kevin James, Newnes, 2000. 
+2. WEB RESOURCES: www.ni.com 
+3. LabVIEW for everyone, Lisa K. wells & Jeffrey Travis Prentice Hall, New Jer sey, 
+1997. 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+HOSPITAL SYSTEM MANAGEMENT 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM731PE                          3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+UNIT - I 
+Classification of Hospital Systems:  General, Specialist, Teaching and Research Hospitals, 
+Primary Health Centre Their role, Functions. Role of Biomedical Engineers 
+Aspects of Hospital Services: Outpatient, Inpatient, supportive, emergency, drug and medical 
+supply. Nursing Services, Dietry services, Transport services 
+ 
+UNIT - II 
+Hospital Planning:   Location, Orientation, budgeting, communication both within and 
+outside the hospital. Electric power supply for various Theatres and Rooms, Diesel 
+Generator, standby power supply. 
+Air conditioning of important theatres and equipment housings, water supply requirements 
+and management, lifts, fire fighting and equipments. Sanitation within the hospitals, laundry 
+services. 
+ 
+UNIT - III 
+Computer and Information Management in Hospitals: Registration, Administration, 
+Discharge records of patient’s. Patients billing, Maintenance of patients records, Maintenance 
+of inventory of medicines and drugs. 
+ 
+UNIT - IV 
+Electrical Factors in Hospital Design : voltage stabilizer, uninterrupted  power supply for 
+intensive care units and computerized monitoring units, safety precautions. 
+Electrical factors associated with equipment:  interference of systems, protection, and 
+grounding of ECG, EEG, EMG, and other therapeutic equipments. 
+ 
+UNIT - V 
+Biomedical equipment services : purchase, servicing, and maintenance, Management of 
+condemned equipment, Training of men on medical equipments, preventive and periodical 
+maintenance procedures. 
+ 
+TEXT BOOKS: 
+1. S. I, Goel & Ram Kumar, Hospital Administration, and Management, Deep and Deep 
+Publications, New Delhi. 2002. 
+2. Principles of Hospital Administration and Management by Ravi Bindra, Adroit 
+publishers, 2004 
+ 
+ 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+REFERENCE BOOKS: 
+1. Source book of Modern Technology for Hospitals and Health care by Ashok Sahni, 
+ISHA, BANGALORE, 1992.  
+2. I. Donald Snook, Opportunities in Hospital Administration Careers, McGraw -Hill, 
+1997. 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+ARTIFICIAL NEURAL NETWORKS 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EM724PE/BM732PE                        3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+Course Objectives: 
+ To understand the biological neural network and to model equivalent neuron models. 
+ To understand the architecture, learning algorithm and issues of various feed forward 
+and feedback neural networks. 
+ 
+Course Outcomes: By completing this course the student will be able to: 
+ Create different neural networks of various architectures both feed forward and feed 
+backward. 
+ Perform the training of neural networks using various learning rules. 
+ Perform the testing of neural networks and do the perform analysis of these networks 
+for various pattern recognition applications. 
+ 
+UNIT - I 
+Introduction: A Neural Network, Human Brain, Models of a Neuron, Neural Networks 
+viewed as  Directed Graphs, Network Architectures, Knowledge Representation, Artificial 
+Intelligence and Neural Networks  
+Learning Process: Error Correction Learning, Memory Based Learning, Hebbian Learning, 
+Competitive, Boltzmann Learning, Credit Assignment Problem , Memory, Adaption, 
+Statistical Nature of the Learning Process 
+ 
+UNIT - II 
+Single Layer Perceptron: Adaptive Filtering Problem, Unconstrained Organization 
+Techniques, Linear Least Square Filters, Least Mean Square Algorithm, Learning Curves, 
+Learning Rate Annealing Techniques, Perceptron –Convergence Theorem, Relation Between 
+Perceptron and Bayes Classifier for a Gaussian Environment  
+Multilayer Perceptron : Back Propagation Algorithm XOR Problem, Heuristics, Output 
+Representation and Decision Rule, Computer Experiment, Feature Detection 
+ 
+UNIT - III 
+Back Propagation:  Back Propagation and Differentiation, H essian Matrix, Generalization, 
+Cross Validation, Network Pruning Techniques, Virtues, and Limitations of Back 
+Propagation Learning, Accelerated Convergence, Supervised Learning 
+ 
+UNIT - IV 
+Self-Organization Maps (SOM) : Two Basic Feature Mapping Models, Self -Organization 
+Map, SOM Algorithm, Properties of Feature Map, Computer Simulations, Learning Vector 
+Quantization, Adaptive Patter Classification   
+
+R16 B.TECH BIOMEDICAL ENGG. 
+UNIT - V 
+Neuro Dynamics: Dynamical Systems, Stability of Equilibrium Sta tes, Attractors, Neuro 
+Dynamical Models, Manipulation of Attractors as a Recurrent Network Paradigm    
+Hopfield Models – Hopfield Models, Computer Experiment 
+ 
+TEXT BOOKS: 
+1. Neural Networks a Comprehensive Foundations, Simon Haykin, PHI edition. 
+ 
+REFERENCE BOOKS:  
+1. Artificial Neural Networks - B. Yegnanarayana Prentice Hall of India P Ltd 2005 
+2. Neural Networks in Computer Inteligance, Li Min Fu TMH 2003 
+3. Neural Networks -James A Freeman David M S Kapura Pearson Education 2004. 
+4. Introduction to Artificial Neural Sy stems Jacek M. Zurada, JAICO Publishing House 
+Ed. 2006. 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+REHABILITATION ENGINEERING 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM733PE                          3     0    0    3 
+ 
+Pre-requisites: Nil  
+ 
+UNIT - I 
+Engineering concepts in Rehabilitation Engineering : Anthropometry: Methods for Static 
+and dynamic Measurements, Area Measurements, Measurement of characteristics and 
+movement, Measurement of Muscular Strength and Capabilities. Measurement tools and 
+processes in Rehabilitation engineering: fundamental princi ples, structure, function; 
+performance and behavior. Subjective and objective measurement methods. 
+ 
+UNIT - II 
+Orthopedic Prosthetics and Orthotics in rehabilitation: Engineering Principles. Prosthesis 
+- Amputation Types and Prescribed Prostheses, Component s of Upper Limb Prosthesis – 
+Sockets and Liners, Suspension, Control Systems (Myoelectric), Shoulder, Elbow and Wrist 
+Components, Terminal Devices. Components of Lower Limb Prosthesis – Sockets and 
+Liners, Suspension, Hip, Pelvic, Knee and Ankle Components. 
+Orthotics – Biomechanical Principles, Spinal, Upper Extremity and Lower Extremity 
+FES Systems - Restoration of hand function, restoration of standing and walking. 
+ 
+UNIT - III 
+Engineering concepts in sensory rehabilitation Engineering : Sensory augmentation and 
+substitution. Assistive Technology for visually Impaired : General Purpose, Task Specific 
+(Mobility, Reading, Writing, Computer Access, Communication) 
+Assistive Technology for Hearing: Impaired – Hearing Assistance Solutions – Medical and 
+Surgical Approach to restore function  - Hearing aids , cochlear implantation, Assistive 
+Listening Solutions, visual and tactual Substitution.  
+ 
+UNIT - IV 
+Alternative and Augmentative Communication (AAC) : User interface,  Language 
+Representation, Technology a nd Devices Features. Human Factors, Performance 
+Measurement. Wheelchairs – Manual, Electric Power, Power Assisted, Multi-Functional, 
+Standards, Wheelchairs Transportation System, Securement Systems. 
+ 
+UNIT - V  
+Rehabilitation Robotics: Intelligent Mobility Aids, Robotic Manipulation Aids, Therapeutic 
+Robots. Environmental Control Systems. Brain computer interface. 
+ 
+TEXT BOOKS: 
+1. Rory A. Cooper, Hisaichi Ohnabe, Douglas A. Hobson – An introduction to 
+Rehabilitation Engineering – CRC Press, Taylor and Francis Group, 2007. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+2. Bronzino, Joseph; Handbook of biomedical engineering. 2nd edition, CRC Press, 
+2000. 
+ 
+REFERENCE BOOKS: 
+1. Horia- Nocholai Teodorecu, L.C.Jain, intelligent systems and technologies in 
+rehabilitation engineering; CRC; December 2000. 
+2. Robinson C.J Rehabilitation engineering. CRC press 1995 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+OPERATING SYSTEMS 
+(Professional Elective – III) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EM721PE/BM734PE                         3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+Course Objectives: 
+ To understand the OS role in the overall computer system 
+ To study the operations performed by OS as a resource manager 
+ To understand the scheduling policies of OS 
+ To understand the different memory management techniques 
+ To understand process concurrency and synchronization 
+ To understand the concepts of input/output, storage and file management 
+ To understand the goals and principles of protection 
+ Introduce system call interface for file and process management 
+ To study different OS and compare their features 
+ 
+Course Outcomes: 
+ Apply optimization techniques for the improvement of system performance. 
+ Ability to design and solve synchronization problems.  
+ Learn about minimization of turnaround time, waiting time and r esponse time and 
+also maximization of throughput by keeping CPU as busy as possible. 
+ Ability to change access controls to protect files. 
+ Ability to compare the different operating systems. 
+ 
+UNIT - I 
+Overview-Introduction-Operating system objectives, User v iew, System view, Operating 
+system definition, Computer System Organization, Computer System Architecture, OS 
+Structure, OS Operations, Process Management, Memory Management, Storage 
+Management, Protection and Security, Computing Environments. 
+Operating System services, User and OS Interface, System Calls, Types of System Calls, 
+System Programs, Operating System Design and Implementation, OS Structure. 
+ 
+UNIT - II 
+Process and CPU Scheduling - Process concepts-The Process, Process State, Process Control 
+Block, Threads, Process Scheduling -Scheduling Queues, Schedulers, Context Switch, 
+Operations on Processes, System calls -fork(),exec(),wait(),exit(), Interprocess 
+communication-ordinary pipes and named pipes in Unix. 
+Process Scheduling -Basic concepts, Scheduling Criteria, Scheduling algorithms, Multiple -
+Processor Scheduling, Real -Time Scheduling, Thread scheduling, Linux scheduling and 
+Windows scheduling. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+Process Synchronization, Background, The Critical Section Problem, Peterson’s solution, 
+Synchronization Hardware, Semaphores, Classic Problems of Synchronization, Monitors, 
+Synchronization in Linux and Windows. 
+ 
+UNIT - III  
+Memory Management and Virtual Memory – Memory Management Strategies- Background, 
+Swapping, Contiguous Memory Allocation, Segmentati on, Paging, Structure of Page Table, 
+IA-32 Segmentation, IA-32 Paging. 
+Virtual Memory Management -Background, Demand Paging, Copy -on-Write, Page 
+Replacement, Page Replacement Algorithms, Allocation of Frames, Thrashing, Virtual 
+memory in Windows.. 
+ 
+UNIT - IV 
+Storage Management-File System- Concept of a File, System calls for file operations - open 
+(), read (), write (), close (), seek (), unlink (), Access methods, Directory and Disk Structure, 
+File System Mounting, File Sharing, Protection. 
+File System Implementation - File System Structure, File System Implementation, Directory 
+Implementation, Allocation methods, Free-space Management, Efficiency, and Performance. 
+Mass Storage Structure – Overview of Mass Storage Structure, Disk Structure, Disk 
+Attachment, Disk Scheduling, Disk Management, Swap space Management 
+ 
+UNIT - V 
+Deadlocks - System Model, Deadlock Characterization, Methods for Handling Deadlocks, 
+Deadlock Prevention, Deadlock Avoidance, Deadlock Detection, and Recovery from 
+Deadlock. 
+Protection – System Protection, Goals of Protection, Principles of  Protection, Domain of 
+Protection, Access Matrix, Implementation of Access Matrix, Access Control, Revocation of 
+Access Rights, Capability-Based Systems, Language-Based Protection. 
+ 
+TEXT BOOKS: 
+1. Operating System Concepts , Abraham Silberschatz, Peter B. Galvin, Greg Gagne, 9th 
+Edition, Wiley, 2016 India Edition 
+2. Operating Systems – Internals and Design Principles, W. Stallings, 7 th Edition, 
+Pearson.  
+ 
+REFERENCE BOOKS: 
+1. Modern Operating Systems, Andrew S Tanenbaum,  3rd Edition, PHI 
+2. Operating Systems A concept-based Approach, 2nd Edition, D.M. Dhamdhere, TMH. 
+3. Principles of Operating Systems, B. L. Stuart, Cengage learning, India Edition. 
+4. An Introduction to Operating Systems, P.C.P. Bhatt, PHI. 
+5. Principles of Operating systems, Naresh Chauhan, Oxford University Press. 
+     
+
+R16 B.TECH BIOMEDICAL ENGG. 
+TRANSPORTATION PHENOMENA IN LIVING SYSTEMS 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM741PE                          3     0    0    3 
+ 
+Pre-requisites: Nil 
+ 
+UNIT - I 
+Heat Transport: Body temperature regulation modes of heat transfer, processes of Head loss 
+and heat gain from the human body. Heat transportation in Tissues, Muscles, Skin, and other 
+Organs in different environmental temperatures. Models of heat transfer in the body. 
+ 
+UNIT - II 
+Fundamentals and applications of mass transport : Introduction to Mass Transport. 
+Diffusion with Convection or Electrical Potentials. Transport in Por ous Media. Trans 
+vascular Transport. Solvent and Solute Transport across the Kidney Glomerulus. 
+ 
+UNIT - III 
+Processes of mass transfer Diffusion, Osmosis, Electro Osmosis. Ultra filtration. Reverse 
+Osmosis through natural Membrane systems, Reverse Osmosis through artificial synthetic 
+Membranes. 
+ 
+UNIT - IV 
+Mass Transport and Biochemical Interactions, Oxygen Transport from the Lungs to the 
+Tissues. 
+ 
+UNIT - V 
+Mass transfer: Mass transfer in Kidney, Skeletal, Nervous, G. I. system, Cardio Pulmonary 
+system. Mass transfer in Dialyzers and Oxygenators. 
+ 
+TEXT BOOKS: 
+1. Fournier, Ronald L, Basic transport phenomena in biomedical engineering. Taylor & 
+Francis. 1998 
+ 
+REFERENCE BOOKS: 
+1. David. O. Cooney, Biomedical engg. Principles: An introduction to fluid, Heat & 
+Mass transport process Vol &2; Marcel Dekker Inc. 
+2. Medical physiology by Ganong, MGH 
+3. Physiology by Best and Taylor, Lippincott Williams & Wilkins 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+ROBOTICS AND AUTOMATION 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: EI742PE                          3     0    0    3 
+ 
+Course Objectives: 
+ To study the various parts of robots and fields of robotics. 
+ To study the various kinematics and inverse kinematics of robots. 
+ To study the Euler, Lagrangian formulation of Robot dynamics. 
+ To study the trajectory planning for robot. 
+ To study the control of robots for some specific applications. 
+ 
+UNIT - I 
+Basic Concepts: Definition and origin of robotics – different types of robotics – various 
+generations of robots – degrees of freedom – Asimov’s laws of robotics – dynamic 
+stabilization of robots. 
+ 
+UNIT - II 
+Power Sources and Sensors: Hydraulic, pneumatic and electric drives – determination of 
+HP of motor and gearing ratio – variable speed arran gements – path determination – micro 
+machines in robotics – machine vision – ranging – laser – acoustic – magnetic, fiber optic and 
+tactile sensors. 
+ 
+UNIT – III 
+Manipulators, Actuators and Grippers: Construction of manipulators – manipulator 
+dynamics and f orce control – electronic and pneumatic manipulator control circuits – end 
+effectors – U various types of grippers –design considerations. 
+ 
+UNIT – IV 
+Kinematics and Path Planning: Solution of inverse kinematics problem – multiple solution 
+jacobian work envelop – hill climbing techniques – robot programming languages. 
+ 
+UNIT – V 
+Case Studies: Multiple robots – machine interface – robots in manufacturing and non - 
+manufacturing applications – robot cell design – selection of robot. 
+ 
+TEXT BOOKS: 
+1. Mikell P. Weiss G.M., Nagel R.N., Odraj N.G., Industrial Robotics, McGraw -Hill 
+Singapore, 1996. 
+2. Ghosh, Control in Robotics and Automation: Sensor Based Integration, Allied 
+Publishers, Chennai, 1998. 
+ 
+ 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+REFERENCE BOOKS: 
+1. Deb.S.R., Robotics technology and flexible Automation, John Wiley, USA 1992. 
+2. Asfahl C.R., Robots and manufacturing Automation, John Wiley, USA 1992. 
+3. Klafter R.D., Chimielewski T.A., Negin M., Robotic Engineering – An integrated 
+approach, Prentice Hall of India, New Delhi, 1994. 
+4. Mc Kerrow P.J. Introduction to Robotics, Addison Wesley, USA, 1991. 
+5. Issac Asimov I Robot, Ballantine Books, New York, 1986. 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+QUANTITATIVE ENGINEERING PHYSIOLOGY 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM743PE                          3     0    0    3 
+ 
+Pre-requisites: Nil  
+ 
+UNIT - I  
+Cellular Physiology-I: Introduction to Physiology, Introduction to Modeling and Review of 
+Electric Circuits.  Review of Cellular Physiology, Cellular Metabolism and Kinetics, 
+Membrane Dynamics. 
+ 
+UNIT - II  
+Cellular Physiology -II: Ion Transport types of transport and Cellular Homeostasis, The 
+Resting Potential. Regulation of Cell Function and Cell Cycle Detailed aspects of Neoplasia, 
+Uses of DNA Micro-Arrays, 
+ 
+UNIT - III  
+Neuromuscular Physiology : Review of Nervous System, The Action Potential, and 
+Propagation of Action Potentials measurement by Patch Clamp.  Skeletal Muscle, 
+Neuromuscular Junction, and Synaptic Transmission, Smooth Muscle, study of 
+Demyelinating Diseases. 
+ 
+UNIT - IV 
+Cardiovascular Physiology-I: Review of Cardiovascular Physiology, The ECG, causes and 
+classification of Arrhythmias, characteristics of Defibrillation phenomena. 
+ 
+UNIT - V 
+Cardiovascular Physiology -II: Pressure Volume Relations hips, Models of Circulation, 
+Cardiac Output, Cardiac Regulation, Physiological aspects of Myocardial infarction. 
+ 
+TEXT BOOKS: 
+1. Robert Plonsey and roger Barr, Bioelectricity, McGraw Hill,  
+2. Text Book of Physiology by Guyton, Elsevier 
+3. Text Book of Physiology by West & Todd 
+ 
+REFERENCE BOOKS: 
+1. Text Book of Physiology by Chaudhary. 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+NANOTECHNOLOGY 
+(Professional Elective – IV) 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM744PE                          3     0    0    3 
+ 
+Course Objectives: Nano Technology is one of the core subjects of multidisciplinary nature. 
+This has extensive applications in the field of energy, electronics, Biomedical Engg. Etc. 
+Built to specifications by manufacturing matter on the atomic scale, t he Nano products would 
+exhibit an order of magnitude improvement in strength, toughness, and efficiency. The 
+objective here is imparting the basic knowledge in Nano Science and Technology. 
+ 
+Course Outcomes:  The present syllabus of “Introduction to Nano Technology” will give 
+insight into many aspects of Nanoscience, technology and their applications in the 
+prospective of materials science. 
+ 
+UNIT - I 
+Introduction: History and Scope, Can Small Things Make a Big Difference? Classification 
+of Nanostructured Materials, Fascinating Nanostructures, Applications of Nanomaterials, 
+Nature: The Best of Nanotechnologist, Challenges, and Future Prospects. 
+ 
+UNIT - II  
+Unique Pro perties of Nanomaterials: Microstructure and Defects in Nanocrystalline 
+Materials: Dislocations, Twins,  stacking faults and voids, Grain  Boundaries, triple and 
+disclinations,  
+Effect of Nano -dimensions on Materials Behavior: Elastic properties, Melting Poi nt, 
+Diffusivity, Grain growth characteristics, enhanced solid solubility. 
+Magnetic Properties : Soft magnetic nanocrystalline alloy, Permanent magnetic 
+nanocrystalline materials, Giant Magnetic Resonance, Electrical Properties, Optical 
+Properties, Thermal Properties, and Mechanical Properties. 
+ 
+UNIT- III 
+Synthesis Routes: Bottom up approaches: Physical Vapor Deposition, Inert Gas 
+Condensation, Laser Ablation, Chemical Vapor Deposition, Molecular Beam Epitaxy, Sol -
+gel method ,Self-assembly,  Top down approaches: Mechanical alloying, Nano-lithography, 
+Consolidation of Nanopowders: Shock wave consolidation, Hot isostatic pressing and Cold 
+isostatic pressing    Spark plasma sintering. 
+ 
+UNIT - IV 
+Tools to Characterize nanomaterials:  X-Ray Diffraction (XRD), Small  Angle X -ray 
+scattering (SAXS), Scanning Electron Microscopy (SEM), Transmission Electron 
+Microscopy (TEM), Atomic Force Microscopy (AFM), Scanning Tunneling Microscope 
+(STM), Field Ion Microscope (FEM), Three -dimensional Atom Probe (3DAP), 
+Nanoindentation. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+ 
+UNIT - V  
+Applications of Nanomaterials: Nano-electronics, Micro - and Nano -electromechanical 
+systems (MEMS/NEMS), Nanosensors, Nanocatalysts , Food and Agricultural Industry, 
+Cosmetic and Consumer Goods, Structure and Engineering, Automotive Industry, Water - 
+Treatment and the environment, Nano -medical applications, Textiles, Paints, Energy, 
+Defense and Space Applications, Concerns and challenges of Nanotechnology. 
+ 
+TEXT BOOKS:  
+1. Text Book of Nano Science and Nano Technology – B.S. Murthy, P. Shankar, Baldev 
+Raj, B.B. Rath and James Munday, University Press-IIM.  
+2. Introduction to Nanotechnology – Charles P. Poole, Jr., and Frank J. Owens, Wley 
+India Edition, 2012.  
+ 
+REFERENCES BOOKS:  
+1. Nano: The Essentials by T. Pradeep, Mc Graw- Hill Education. 
+2. Nanomaterials, Nanotechnologies and Design by Michael F. Ashby, Paulo J. Ferreira 
+and Daniel L. Schodek. 
+3. Transport in Nano structures- David Ferry, Cambridge University press 2000 
+4. Nanofabrication towards biomedical application: Techniques, tools, Application and 
+impact – Ed. Challa S., S. R. Kumar, J. H. Carola. 
+5. Carbon Nanotubes: Properties and Applications- Michael J. O'Connell. 
+6. Electron Transport in Mesoscopic systems - S. Dutta, Cambridge University press. 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+MICROPROCESSORS AND MICROCONTROLLERS LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: MT703PC                          0     0    3    2 
+ 
+Note: - Minimum of 12 experiments to be conducted. 
+The following programs/experiments are to be written for assembler and to be executed the 
+same with 8086 and 8051 kits. 
+ 
+List of Experiments: 
+1. Programs for 16 bit arithmetic operations 8086(using various addressing modes) 
+2. Programs for sorting an array for 8086. 
+3. Programs for searching for a number of characters in a string for 8086. 
+4. Programs for string manipulation for 8086. 
+5. Programs for digital clock design using 8086. 
+6. Interfacing ADC and DAC to 8086. 
+7. Parallel communication between two microprocessor kits using 8255. 
+8. Serial communication between two microprocessor kits using 8251. 
+9. Interfacing to 8086 and programming to control stepper motor. 
+10. Programming using arithmetic, logical and bit manipulation instructions of 8051. 
+11. Program and verify Timer/Counter in 8051. 
+12.  Program and verify interrupt handling in 8051. 
+13.  UART operation in 8051. 
+14. Communication between 8051 kit and PC 
+15. Interfacing LCD to 8051 
+16. Interfacing Matrix/Keyboard to 8051 
+17. Data transfer from peripheral to memory through DMA controller 8237/8257 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+MEDICAL IMAGE PROCESSING LAB 
+ 
+B.Tech. IV Year I Sem.                                      L    T    P   C 
+Course Code: BM704PC                          0     0     3    2 
+ 
+Any 12 programs are to be done. 
+ 
+1. Computation of Convolution and Correlation Sequences. 
+2. Analog and Digital Signal Conditioning. 
+3. Signal Averaging Improvement in the SNR Using Coherent Averaging. 
+4. Signal Averaging Improvement in the SNR Using Incoherent Averaging. 
+5. Exponential Averaging. 
+6. Data Polishing: Mean and Trend Removal. 
+7. Design or I I R Filter. 
+8. Design of F I R Filter. 
+9. PSD Estimation. 
+10. Data Compression Techniques: AZTEC. TP. 
+11. Data Compression Technique: CORTES. 
+12. Data Compression Technique: K. L. Transform. 
+13. Data Compression Techniques: DCT, Wavelets.  
+14. Noise Cancellation Techniques. 
+15. QRS Detections and HRV Analysis. 
+ 
+Using MATLAB and Signal Processing & Image Processing Toolbox. 
+ 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+MEDICAL INFORMATICS 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: BM851PE                           3    0     0    3 
+ 
+UNIT – I 
+Introduction and Overview  of hospital information system:  Patient history taking 
+mechanisms. Patient Data Processing, Database Management, Communication of Medical 
+data across different hospital units. Networking and Integration of patient data. 
+ 
+UNIT – II 
+Data from Patients : Coding and Classification, The Patient Record, Biosignal Analysis, 
+Medical Imaging, Image Processing and Analysis. Patient -Centered Information Systems, 
+Primary Care, Clinical Departmental Systems, Clinical Support Systems, Nursing 
+Information Systems. 
+ 
+UNIT – III 
+Medical Knowledge and Decision Support : Methods for Decision Support, Clinical 
+Decision-Support Systems, Strategies for Medical Knowledge Acquisit ion, Predictive Tools 
+for Clinical Decision Support. 
+ 
+UNIT – IV 
+Institutional Information Systems : Modeling of Health Care for Information Systems 
+Development, Hospital Information Systems: Clinical Use, Technical Choices, Health 
+Information Resources. Methodology for Information Processing, Logical Operations, 
+Biostatistical Methods, Biosignal Processi ng Methods, Pattern Recognition, Modeling for 
+Decision Support, Structuring the Computer -based Patient Record, Evaluation of Clinical 
+Information Systems. 
+ 
+UNIT – V 
+Methodology for Information Systems: Human-Computer Interaction in Health Care ,Costs 
+and Benefits of Information Systems, Security in Medical Information Systems, Standards in 
+Health-care Informatics and Telematics, Project Management, 
+ 
+TEXT BOOKS: 
+1. Bemmel, J.Van; Musen, M.A. Handbook of Medical Informatics 1st ed. 1997. 
+ 
+REFERENCE BOOKS: 
+1. R. D. Lele, Computers in Medicine Tata McGraw Hill, 2005. 
+2. Davidson, P., Best Practice Series: Healthcare Information Systems, Auerbach 
+Publications, 2000. 
+3. Edward B.H. Shortliffe & James J Cimino- Biomedical Informatics –Computer 
+Application in Health Care and Biomedicine. (New Age Int. P.Ltd.), 3rd Edition 
+Springer-2008.  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+PHYSIOLOGICAL SYSTEMS MANAGEMENT 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: BM852PE                           3    0     0    3 
+ 
+Pre-requisites: Nil  
+ 
+UNIT - I 
+The problem of system modeling in Physiology : Types of Nonlinear models of 
+physiological systems. Deductive and Inductive modeling. 
+Nonparametric modeling:  Volterra models. Wiener models. Efficient volterra  kernel 
+estimation Analysis of estimation errors. 
+ 
+UNIT - II 
+Parametric modeling: Basic parametric model forms and Estimation procedures. Volterra 
+kernels of nonlinear differential equations. Discrete -time volterra kernels of NARMAX  
+models. From Volterra kernel measurements to parametric models. Equivalence between 
+continuous and Discrete -parametric models. 
+ 
+UNIT - III 
+Preliminary tests and Data preparation : Model specification and Estimation. Model 
+validation and Interpretation. Outline of step-by-step procedure. 
+Applications: Neurosensory systems: Cardiovascular system, Renal system, Metabolic -
+Endocrine system. 
+ 
+UNIT - IV 
+Modeling of multi input/multi output systems: The Two-input case. Application s of two-
+input modeling to physiological systems. The Multiinput case spatiotemporal and 
+spectrotemporal modeling. 
+ 
+UNIT - V 
+Modeling of neuronal systems:  A General model of membrane and Synaptic dynamics, 
+Functional integration in the Single neuron, Neuronal syste ms with Point  process inputs 
+Modeling of neuronal ensembles. Modeling of Closed -loop systems: Autoregressive form of 
+Closed-loop model, Network model form of Closed-loop systems. 
+ 
+TEXT BOOKS: 
+1. Vasilis Z. Marmarelis, Nonlinear dynamic modeling of physiological systems, Wiley-
+IEEE Press, 2004. 
+REFERENCE BOOKS: 
+1. David T. Westwick, Robert E. Kearney, Identification of Nonlinear Physiological 
+Systems, Wiley-IEEE Press, 2003. 
+2. Michel C Khoo, Physiological Control Systems -Analysis, simulation and estimati on, 
+Prentice Hall of India, 2001. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+EMBEDDED SYSTEM DESIGN 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: BM853PE                           3    0     0    3 
+ 
+Pre-requisites: Nil 
+ 
+Course Objectives: 
+ To provide an overview of Design Principles of Embedded System. 
+ To provide clear understanding about the role of firmware , operating systems in 
+correlation with hardware systems. 
+ 
+Course Outcomes: 
+ Expected to understand the selection procedure of Processors in the Embedded 
+domain. 
+ Design Procedure for Embedded Firmware. 
+ Expected to visualize the role of Real time Operating Systems in Embedded Systems. 
+ Expected to evaluate the Correlation between task synchronization and latency issues 
+ 
+UNIT - I  
+Introduction to Embedded Systems: Definition of Embedded System, Embedded Systems 
+Vs General Computing Systems, History of Embedded Systems, Classification, Major 
+Application Areas, Purpose of Embedded Systems, Characteristics and Quality Attrib utes of 
+Embedded Systems. 
+ 
+UNIT - II  
+Typical Embedded System: Core of the Embedded System: General Purpose and Domain 
+Specific Processors, ASICs, PLDs, Commercial Off -The-Shelf Components (COTS), 
+Memory: ROM, RAM, Memory according to the type of Interface , Memory Shadowing, 
+Memory selection for Embedded Systems, Sensors and Actuators, Communication Interface: 
+Onboard and External Communication Interfaces. 
+ 
+UNIT - III  
+Embedded Firmware : Reset Circuit, Brown -out Protection Circuit, Oscillator Unit, Real 
+Time Clock, Watchdog Timer, Embedded Firmware Design Approaches and Development 
+Languages. 
+ 
+UNIT - IV  
+RTOS Based Embedded System Design: Operating System Basics, Types of Operating 
+Systems, Tasks, Process and Threads, Multiprocessing and Multitasking, Task Scheduling. 
+ 
+UNIT - V  
+Task Communication:  Shared Memory, Message Passing, Remote Procedure Call and 
+Sockets, Task Synchronization: Task Communication/Synchronization Issues, Task 
+Synchronization Techniques, Device Drivers, How to Choose an RTOS. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+TEXT BOOK: 
+1. Introduction to Embedded Systems - Shibu K.V, Mc Graw Hill. 
+ 
+REFERENCE BOOKS: 
+1. Embedded Systems - Raj Kamal, TMH. 
+2. Embedded System Design - Frank Vahid, Tony Givargis, John Wiley. 
+3. Embedded Systems – Lyla, Pearson, 2013 
+4. An Embedded Software Primer - David E. Simon, Pearson Education. 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+INTERNET OF THINGS 
+(Professional Elective – V) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: BM854PE/EI861PE                         3    0     0    3 
+ 
+Course Objectives:  
+ To introduce the terminology, technology and its applications 
+ To introduce the concept of M2M (machine to machine) with necessary protocols 
+ To introduce the Python Scripting Language which is used in many IoT devices 
+ To introduce the Raspberry PI platform, that is widely used in IoT applications 
+ To introduce the implementation of web based services on IoT devices. 
+ 
+UNIT - I 
+Introduction to Internet of Things –Definition and Characteristics of IoT, Physical Design of 
+IoT – IoT Protocols, IoT communication mod els, Iot Communication APIs, IoT enabled 
+Technologies – Wireless Sensor Networks, Cloud Computing, Big data analytics, 
+Communication protocols, Embedded Systems, IoT Levels and Templates, Domain Specific 
+IoTs – Home, City, Environment, Energy, Retail, Logi stics, Agriculture, Industry, health and 
+Lifestyle. 
+ 
+UNIT - II 
+IoT and M2M – Software defined networks, network function virtualization, difference 
+between SDN and NFV for IoT. Basics of IoT System Management with NETCOZF, 
+YANG- NETCONF, YANG, SNMP NETOPEER 
+ 
+UNIT - III 
+Introduction to Python - Language features of Python, Data types, data structures, Control of 
+flow, functions, modules, packaging, file handling, data/time operations, classes, Exception 
+handling. Python packages - JSON, XML, HTTP Lib, URL Lib, SMTP Lib. 
+ 
+UNIT - IV 
+IoT Physical Devices and Endpoints - Introduction to Raspberry PI - Interfaces (serial, SPI, 
+I2C). Programming – Python program with Raspberry PI with focus of interfacing external 
+gadgets, controlling output, reading input from pins. 
+ 
+UNIT - V 
+IoT Physical Servers and Cloud Offerings – Introduction to Cloud Storage models and 
+communication APIs. Webserver – Web server for IoT, Cloud for IoT, Python web 
+application framework. Designing a RESTful web API 
+ 
+TEXT BOOKS:  
+1. Internet of Things - A Hands -on Approach, Arshdeep Bahga and Vijay Madisetti, 
+Universities Press, 2015, ISBN: 9788173719547 
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly 
+(SPD), 2014, ISBN: 9789350239759  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+BIO MEMS 
+(Professional Elective – VI) 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: BM861PE                          3     0     0    3 
+ 
+UNIT - I 
+Introduction: History of MEMS, market for MEMS, overview of MEMS processes 
+properties of silicon, a sample MEMS process. Basics of Microtechnology: definitions and 
+terminology, a sample process, lithography and etching.  MEMS Biosensors: Bio Flow 
+Sensors, MEMS Images. Introduction to MEMS Pro design software. 
+ 
+UNIT - II 
+Micromachining: Subtractive processes (wet and dry etching), additive processes 
+(evaporation, sputtering, epitaxial growth). Fundamental Devices and Processes: basic 
+mechanics and electrostatics for MEMS, parallel plate actuators, pull-in point, comb drives. 
+Fundamental Devices and Processes: more electrostatic actuators; MEMS foundries, Cronos 
+MUMPs (multi user MEMS process). MUMPs Multi User MEMS Process: JDS Uniphase 
+MUMPs processing sequence and design rules. MUMPs and SUMMIT: design rules; 
+applications; micro hinges and deployment actuators. 
+ 
+UNIT - III 
+CMOS MEMS:  CMOS foundry processes, integrated IC/MEMS, MEMS post processing, 
+applications. Clean  room lab techniques: clean rooms, gowning procedures; safety, fire, 
+toxicity; acids and bases; photolithography. 
+MicroOptoElectroMechanical Systems (MOEMS):  micro scanners, digital mirror display, 
+retinal scanning display. Grating light valve, corner cube retroreflector, optical switches, 
+other micro-optical devices. 
+ 
+UNIT – IV 
+Thermal Transducers:  Bimorphs, “heatuat ors”, cilia arrays. Piezoresistivity; Scanning 
+Probe Microscopy: scanning tunneling microscope (STM), atomic force microscope (AFM). 
+Scaling Laws. Wireless MEMS: mechanical and electrical resonators, Q -factor, switches, 
+filters. Power for MEMS: thin film batteries, micro fuel cells, energy fields, microfliuds.  
+ 
+UNIT – V 
+MEMS Packaging and Assembly:  Micro assembly : serial and parallel, deterministic and 
+stochastic; microgrippers: HexSil process; packaging techniques. The Future of MEMS: 
+bioMEMS – neural implants, gene chips, diagnostic chips; MEMS in space; mechanical 
+computers; invisible and ubiquitous computing. 
+ 
+TEXT BOOKS: 
+1. HSU, Tai Ran, MEMS and Microsystems Design and Manufacture, Tata McGraw-Hill, 
+2002. 
+2. Rai-Choudhury, Prosenjit; Mems and Moems Technology and Applications SPIE 2000. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+BIOMETRIC SYSTEMS 
+(Professional Elective – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: BM862PE                          3     0     0    3  
+ 
+UNIT – I 
+Biometric Fundamentals :  Key Biometric terms and Processes – Definitions-verification 
+and identification – matching,  Accuracy in Biometric Systems – False match rate – False 
+nonmatch rate – Failure to  enroll rate – Derived metrics – An Introduction to B iometric 
+Authentication Systems- a  taxonomy of application environment, a system model, biometrics 
+and privacy. 
+ 
+UNIT – II 
+Fingerprint Identification Technology : History, Components, Application of Fingerprints, 
+The Technology - Finger Scan Strengths and Weaknesses, Criminal Applications, Civil 
+Applications, Commercial Applications, Technology Evaluation of Fingerprint Verification 
+Algorithms. 
+ 
+UNIT – III 
+IRIS Recognition: Introduction, Anatomical and Physiological underpinnings, Components, 
+Sensing, Iris Scan Representation and Matching, Iris Scan Strengths and Weaknesses, System 
+Performance,  Future Directions.  
+ 
+UNIT – IV 
+Face Recognition : Introduction, components, Facial Scan Technologies, Face Detection, 
+Face Recognition- Representation and Classification, Kernel- based Methods and 3D Models, 
+Learning the Face Spare, Facial Scan Strengths and Weaknesses, Methods for assessing 
+progress in Face Recognition. 
+ 
+UNIT – V 
+Voice Scan: Introduction, Components, Features and Models, Addition Method for 
+managing Variability, Measuring Performance, Alternative Approaches, Voice Scan 
+Strengths and Weaknesses, NIST Speaker Recognition Evaluation Program, Biometric 
+System Integration. 
+ 
+TEXT BOOKS: 
+1. James Wayman & Anil Jain, Biometric Systems – Technology, Design and 
+Performance  Evaluation, Springer-verlag London Ltd, USA, 2005 
+2. Sanir Nanavati, Michael Thieme, Biometrics Identity Verification in a Networked 
+world,  Wiley Computer Publishing Ltd, New Delhi, 2003. 
+ 
+REFERENCE BOOKS: 
+1. John D. Woodword Jr., Biometrics, Dreamtech Press, New Delhi, 2003. 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+DSP PROCESSORS AND ARCHITECTURES 
+(Professional Elective – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EI863PE                          3     0    0    3 
+ 
+Pre-requisites: Digital Signal Processing. 
+ 
+Course Objectives: The objectives of the course are: 
+ To recall digital transform techniques. 
+ To introduce architectural features of programmable DSP Processors of TI and 
+Analog Devices. 
+ To give practical examples of DSP Processor architectures for better understanding. 
+ To develop the programming knowledge using Instruction set of DSP Processors. 
+ To understand interfacing techniques to memory and I/O devices. 
+ 
+Course Outcomes: Upon completion of the course, the student 
+ Be able to distinguish between the architectural features of General purpose 
+processors and DSP processors. 
+ Understand the architectures of TMS320C54xx and ADSP 2100 DSP devices. 
+ Be able to write simple assembly language programs using instruction set of 
+TMS320C54xx. 
+ Can interface various devices to DSP Processors. 
+ 
+UNIT – I 
+Introduction to Digital Signal Processing: Introduction, A Digital signal -processing 
+system, The sampling process, Discrete time sequences. Discrete Fourier Transform (DFT) 
+and Fast Fourier Transform (FFT), Linear time -invariant systems, Digital filters, Decimation 
+and interpolation. 
+Computational Accuracy in DSP Implementations: Number formats for signals and 
+coefficients in DSP systems, Dynamic Range and Precision, Sources of error in DSP  
+implementations, A/D Conversion errors, DSP Computational errors, D/A Conversion Errors, 
+Compensating filter. 
+ 
+UNIT – II 
+Architectures for Programmable DSP Devices: Basic Architectural features, DSP 
+Computational Building Blocks, Bus Architecture and Memo ry, Data Addressing 
+Capabilities, Address Generation Unit, Programmability and Program Execution, Speed 
+Issues, Features for External interfacing. 
+ 
+UNIT - III 
+Programmable Digital Signal Processors: Commercial Digital signal -processing Devices, 
+Data Addressing modes of TMS320C54XX DSPs, Data Addressing modes of 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+TMS320C54XX Processors, Memory space of TMS320C54XX Processors, Program 
+Control, TMS320C54XX instructions and Programming, On -Chip Peripherals, Interrupts of 
+TMS320C54XX processors, Pipeline Operation of TMS320C54XX Processors. 
+ 
+UNIT – IV 
+Analog Devices Family of DSP Devices: Analog Devices Family of DSP Devices – ALU 
+and MAC block diagram, Shifter Instruction, Base Architecture of ADSP 2100, AD SP-2181 
+high performance Processor. 
+Introduction to Blackfin Processor - The Blackfin Processor, Introduction to Micro Signal 
+Architecture, Overview of Hardware Processing Units and Register files, Address Arithmetic 
+Unit, Control Unit, Bus Architecture and Memory, Basic Peripherals. 
+ 
+UNIT – V 
+Interfacing Memory and I/O Peripherals to Programmable DSP Devices:  
+Memory space organization, External bus interfacing signals, Memory interface, Parallel I/O 
+interface, Programmed I/O, Interrupts and I/O, Direct memory access (DMA). 
+ 
+TEXT BOOKS: 
+1. Digital Signal Processing – Avtar Singh and S. Srinivasan, Thomson Publications, 
+2004. 
+2. A Practical Approach to Digital Signal Processing - K Padmanabhan, R. 
+Vijayarajeswaran, Ananthi. S, New Age International, 2006/2009 
+3. Embedded Signal Processing with the Micro Signal Architecture Publisher:  Woon -
+Seng Gan, Sen M. Kuo, Wiley-IEEE Press, 2007 
+ 
+REFERENCE BOOKS: 
+1. Digital Signal Processors, Architecture, Programming and Applications – B. 
+Venkataramani and M. Bhaskar, 2002, TMH. 
+2. Digital Signal Processing – Jonatham Stein, 2005, John Wiley. 
+3. DSP Processor Fundamentals, Architectures, & Features – Lapsley et al.  2000, S. 
+Chand & Co. 
+4. Digital Signal Processing Applications Using the ADSP -2100 Family by The 
+Applications Engineering Staff  of Analog Devices, DSP Division, Edited by Amy 
+Mar, PHI 
+5. The Scientist and Engineer's Guide to Digital Signal Processing  by Steven W. Smith, 
+Ph.D., California Technical Publishing, ISBN 0-9660176-3-3, 1997 
+6. Embedded Media Processing  by David J. Katz and Ric k Gentile of Analog Devices, 
+Newnes. 
+ 
+ 
+  
+
+R16 B.TECH BIOMEDICAL ENGG. 
+MACHINE LEARNING 
+(Professional Elective – VI) 
+ 
+B.Tech. IV Year II Sem.                                      L    T    P   C 
+Course Code: EC854PE/EI864PE                         3     0    0    3 
+ 
+Prerequisites: 
+ Data Structures 
+ Knowledge on statistical methods 
+ 
+Course Objectives: 
+ This course explains machine learning techniques such as decision tree learning, 
+Bayesian learning etc. 
+ To understand computational learning theory. 
+ To study the pattern comparison techniques. 
+ 
+Course Outcomes: 
+ Understand the concepts of computational intelligence like machine learning  
+ Ability to get the skill to apply machine learning techniques to address the real time 
+problems in different areas 
+ Understand the Neural Networks and its usage in machine learning application. 
+ 
+UNIT - I   
+Introduction - Well-posed learning problems, designing a learning system, Perspectives and 
+issues in machine learning 
+Concept learning and the general to specific ordering – introduction, a concept learning task, 
+concept learning as search, find -S: finding a maximally specific hypothesis, version spaces 
+and the candidate elimination algorithm, remarks on version spaces and candidate 
+elimination, inductive bias. 
+Decision Tree Learning – Introduction, decision tree representation, appropriate problems 
+for decision tree learning, the basic decision tree learning algorithm, hypothesis space search 
+in decision tree learning, inductive bias in decision tree learning, issues in decision tree 
+learning. 
+ 
+UNIT - II 
+Artificial Neural Networks -1– Introduction, neural network representation, appropriate 
+problems for neural network learning, perceptions, multilayer networks and the back -
+propagation algorithm. 
+Artificial Neural Networks-2- Remarks on the Back -Propagation algorithm, An illustrative 
+example: face recognition, advanced topics in artificial neural networks. 
+Evaluation Hypotheses – Motivation, estimation hypothesis accuracy, basics of sampling 
+theory, a general approach for deriving confidence intervals, difference  in error of two 
+hypotheses, comparing learning algorithms. 
+ 
+
+R16 B.TECH BIOMEDICAL ENGG. 
+UNIT - III 
+Bayesian learning – Introduction, Bayes theorem, Bayes theorem and concept learning, 
+Maximum Likelihood and least squared error hypotheses, maximum likelihood hypotheses 
+for predicting probabilities, minimum description length principle, Bayes optimal classifier, 
+Gibs algorithm, Naïve Bayes classifier, an example: learning to classify text, Bayesian belief 
+networks, the EM algorithm. 
+Computational learning theory – Introduction, probably learning an approximately correct 
+hypothesis, sample complexity for finite hypothesis space, sample complexity for infinite 
+hypothesis spaces, the mistake bound model of learning. 
+Instance-Based Learning - Introduction, k-nearest neighbour algorithm, loca lly weighted 
+regression, radial basis functions, case-based reasoning, remarks on lazy and eager learning. 
+ 
+UNIT - IV 
+Genetic Algorithms – Motivation, Genetic algorithms, an illustrative example, hypothesis 
+space search, genetic programming, models of evol ution and learning, parallelizing genetic 
+algorithms. 
+Learning Sets of Rules – Introduction, sequential covering algorithms, learning rule sets: 
+summary, learning First -Order rules, learning sets of First -Order rules: FOIL, Induction as 
+inverted deduction, inverting resolution. 
+Reinforcement Learning – Introduction, the learning task, Q –learning, non -deterministic, 
+rewards and actions, temporal difference learning, generalizing from examples, relationship 
+to dynamic programming. 
+ 
+UNIT - V 
+Analytical Learning-1- Introduction, learning with perfect domain theories: PROLOG-EBG, 
+remarks on explanation -based learning, explanation -based learning of search control 
+knowledge. 
+Analytical Learning -2-Using prior knowledge to alter the search objective, using prior 
+knowledge to augment search operators.  
+Combining Inductive and Analytical Learning  – Motivation, inductive -analytical 
+approaches to learning, using prior knowledge to initialize the hypothesis. 
+ 
+TEXT BOOK: 
+1. Machine Learning – Tom M. Mitchell, - MGH 
+ 
+REFERENCE: 
+1. Machine Learning: An Algorithmic Perspective, Stephen  Marshland, Taylor & 
+Francis 
+

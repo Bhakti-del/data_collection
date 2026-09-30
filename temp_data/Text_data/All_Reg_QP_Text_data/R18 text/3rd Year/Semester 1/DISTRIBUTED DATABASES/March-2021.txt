@@ -1,0 +1,48 @@
+Code No: 155AY       
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2021 
+DISTRIBUTED DATABASES 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  Explain about Horizontal and vertical fragmentation strategies with examples. 
+   b)  What are the features of the reference architecture for distributed databases? [8+7] 
+ 
+2.a)  What is an operator tree of a query? What is the use of operator graph? Discuss. 
+   b)   Explain the procedure for simplifying joins between horizontally fragmented relations.
+            [7+8] 
+ 
+3. Explain the following with respect to distributed databases 
+       a) Operations in parametric query 
+       b) GROUP by operation for evaluating aggregate functions.    [7+8] 
+ 
+4.a)  What are the objectives of query processing optimization? Explain. 
+   b) How an optimization graph can be drawn for a given query? Discuss.  [7+8] 
+ 
+5.a)  Explain about semi-join reduction in distributed databases 
+   b)  Discuss the differences between distributed join and non-distributed join.  [8+7] 
+ 
+6.a)  Write about the computational structure of distributed transaction. 
+   b)  Distinguish between preemptive and non-preemptive methods for deadlock prevention.
+            [7+8] 
+ 
+7.a)  Explain the optimistic approach to concurrency control in distributed databases. 
+   b)  What are the issues related to query processing and load balancing in parallel database  
+           systems? Discuss.         [8+7] 
+ 
+8.a)  What is object management architecture? Explain. 
+   b)  Explain the architecture of CORBA.       [7+8] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ R18 
+22-03-2021 AM
+USED PAPER MARCH-2021
+

@@ -1,0 +1,90 @@
+ 
+ 
+ 
+  
+Code No: 115EM             
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech III Year I Semester Examinations, November/December - 2017 
+SOFTWARE ENGINEERING 
+(Common to CSE, IT) 
+Time: 3 hours                                   Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. Part B 
+consists of 5 Units. Answer any one full question from each unit.  Each question carries 
+10 marks and may have a, b, c as sub questions. 
+ 
+PART - A  
+(25 Marks) 
+ 
+1.a) Distinguish between Software products and Software services.   [2] 
+   b) Explain Software Crisis.                                                     [3] 
+   c) Define an Interface.                                                               [2] 
+   d) Explain about data models.                                    [3] 
+   e) What are the golden rules for User Interface Design?         [2] 
+   f) Explain the Design concept coupling.                                [3] 
+   g) Define Testing.                                                                     [2] 
+   h) List the metrics for Design model.                                      [3] 
+   i) Define Risk Refinement.                                                       [2] 
+   j) Define Software reliabilty.                                                              [3] 
+ 
+PART - B  
+(50 Marks) 
+ 
+2.a)  What is a Legacy Software? Explain. 
+   b)   Explain the Software Process Framework.      [5+5] 
+OR 
+3.a)  Explain the various software myths. 
+   b)  Explain the working of specialized process models.      [5+5] 
+  
+4.a)  Explain the structure of Software Requirements document. 
+   b)  What are the feasibility studies for requirements engineering process?  [5+5] 
+OR 
+5. Explain the following system models: 
+            a) Object Models 
+     b) Structured methods.        [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R13 
+used paper 24-11-2017
+
+ 
+ 
+ 
+ 
+6.   Explain the following five Component characteristics: 
+a) Standardized 
+b) Independent 
+c) Composable 
+d) Deployable 
+e) Documented.           [10] 
+OR 
+7.a)  Explain the basic elements of a component model with suitable diagram. 
+   b)  Explain the Component Based Software Engineering (CBSE).   [5+5] 
+  
+8.a)  Explain the methods of System Testing. 
+   b)  Explain the metrics for Analysis Model.      [5+5] 
+OR 
+9.a)  Explain metrics for Software Quality.  
+   b)  Describe test strategies for Conventional Software.     [5+5] 
+  
+10.a)  Explain Software Risks. 
+     b)  Describe the methods for Risk Identification.     [5+5] 
+OR 
+11.a)  Explain the use of Software Reviews. 
+     b)  Describe the methods for Risk Projection.      [5+5] 
+  
+ 
+ 
+ 
+---ooOoo--- 
+used paper 24-11-2017
+

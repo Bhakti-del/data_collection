@@ -1,0 +1,41 @@
+Code No: 156AM 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year II Semester Examinations, August - 2022 
+CONCURRENT PROGRAMMING 
+(Computer Science and Engineering) 
+Time: 3 Hours                Max.Marks:75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain Lamport’s Bakery Algorithm with example. 
+   b) Define mutual exclusion and critical section with examples.    [7+8] 
+ 
+2.a) Discuss briefly about  producer and consumer problem. 
+   b) What are the Harsh Realities of Parallelization?     [8+7] 
+ 
+3.a) Discuss the java  memory model in detail. 
+   b) What are the dependent progress conditions?      [8+7] 
+ 
+4.a) What is the importance of sequential objects in concurrent objects? 
+   b) Write algorithm on a lock-based FIFO queue.     [7+8] 
+ 
+5.a) Define States and Valence with examples. 
+   b) Explain importance of decide() method in  Consensus Numbers.   [7+8] 
+ 
+6.a) Explain in brief about working of  spin locks.  
+   b) What is the mechanism of test and set locks?      [8+7] 
+ 
+7.a) Compare Lazy Synchronization and Non-Blocking Synchronization. 
+   b) Write the Role of Locking in linked lists.      [8+7] 
+ 
+8.a) Write about a Bounded Partial Queue and an Unbounded Total Queue. 
+   b) Explain in brief about Naive Synchronous Queue.     [8+7] 
+ 
+ 
+---oo0oo--- 
+ 
+ 
+ R18 
+jntuh used paperaug-2022
+

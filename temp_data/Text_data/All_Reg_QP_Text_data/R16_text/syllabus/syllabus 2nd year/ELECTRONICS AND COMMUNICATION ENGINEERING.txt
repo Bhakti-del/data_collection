@@ -1,0 +1,1174 @@
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+ 
+B.TECH. ELECTRONICS AND COMMUNICATION ENGINEERING 
+ 
+COURSE STRUCTURE & SYLLABUS (2016-17) 
+ 
+II YEAR I SEMESTER 
+ 
+S. No. Course 
+Code Course Title L T P Credits 
+1 MA301BS Mathematics – IV 4 1 0 4 
+2 EC302ES Analog Electronics 4 1 0 4 
+3 EC303ES Electrical Technology 4 1 0 4 
+4 EC304ES Signals and Stochastic Process  3 1 0 3 
+5 EC305ES Network Analysis 3 1 0 3 
+6 EC306ES Electronic Devices and Circuits Lab 0 0 3 2 
+7 EC307ES Basic Simulation Lab 0 0 3 2 
+8 EC308ES Basic Electrical Engineering Lab 0 0 3 2 
+9 *MC300ES Environmental Science and Technology 3 0 0 0 
+  Total Credits 21 5 9 24 
+ 
+II YEAR II SEMESTER 
+ 
+S. No. Course 
+Code Course Title L T P Credits 
+1 EC401ES Switching Theory and Logic Design 3 1 0 3 
+2 EC402ES Pulse and Digital Circuits 4 0 0 4 
+3 EE404ES Control Systems 4 1 0 4 
+4 EC405ES Analog Communications 4 0 0 4 
+5 SM405MS Business Economics and Financial Analysis 3 0 0 3 
+6 EC406ES Analog Communications  Lab 0 0 3 2 
+7 EC407ES Pulse and Digital Circuits Lab 0 0 3 2 
+8 EC408ES Analog Electronics Lab 0 0 3 2 
+9 *MC400HS Gender Sensitization Lab 0 0 3 0 
+  Total Credits 18 2 12 24 
+ 
+
+MA301BS: MATHEMATICS - IV 
+(Complex Variables and Fourier Analysis) 
+  
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  4     1    0    4 
+ 
+Prerequisites: Foundation course (No Prerequisites). 
+ 
+Course Objectives: To learn  
+ differentiation and integration of complex valued functions 
+ evaluation of integrals using Cauchy’s integral formula 
+ Laurent’s series expansion of complex functions 
+ evaluation of integrals using Residue theorem 
+ express a periodic function by Fourier series and a non -periodic function by Fourier 
+transform  
+ to analyze the displacements of one dimensional wave and distribution of one 
+dimensional heat equation 
+ 
+Course Outcomes: After learning the contents of this paper the student must be able to  
+ analyze the complex functions with reference to their analyticit y, integration using 
+Cauchy’s integral theorem 
+ find the Taylor’s and Laurent’s series expansion of complex functions 
+ the bilinear transformation 
+ express any periodic function in term of sines and cosines 
+ express a non-periodic function as integral representation 
+ analyze one dimensional wave and heat equation 
+ 
+UNIT – I 
+Functions of a complex variable: Introduction, Continuity, Differentiability, Analyticity, 
+properties, Cauchy, Riemann equations in Cartesian and polar coordinates . Harmonic and 
+conjugate harmonic functions-Milne-Thompson method 
+ 
+UNIT - II 
+Complex integration: Line integral, Cauchy’s integral theorem, Cauchy’s integral formula, 
+and Generalized Cauchy’s integral formula, Power series: Taylor’s series - Laurent series, 
+Singular points, iso lated singular points, pole of order m – essential singularity, Residue, 
+Cauchy Residue theorem (Without proof). 
+ 
+UNIT – III  
+Evaluation of Integrals: Types of real integrals: 
+(a) Improper real integrals ( )f x dx
+
+
+   (b) 
+2
+(cos ,sin )
+c
+c
+f d
+
+  
+
+  
+Bilinear transformation- fixed point- cross ratio- properties- invariance of circles. 
+
+UNIT – IV  
+Fourier series and Transforms: Introduction, Periodic functions, Fourier series of periodic 
+function, Dirichlet’s conditions, Even and odd functions, Change  of interval, Half range sine 
+and cosine series. 
+Fourier integral theorem (without proof), Fourier sine and cosine integrals, sine and cosine, 
+transforms, properties, inverse transforms, Finite Fourier transforms. 
+ 
+UNIT – V  
+Applications of PDE: Classification of second order partial differential equations, method of 
+separation of variables, Solution of one dimensional wave and heat equations. 
+ 
+TEXT BOOKS: 
+1. A first course in complex analysis with applications by Dennis G. Zill and Patrick 
+Shanahan, Johns and Bartlett Publishers. 
+2. Higher Engineering Mathematics by Dr. B. S. Grewal, Khanna Publishers. 
+3. Advanced engineering Mathematics  with MATLAB by Dean G. Duffy 
+ 
+REFERENCES: 
+1. Fundamentals of Complex Analysis by Saff, E. B. and A. D. Snider, Pearson. 
+2. Advanced Engineering Mathematics by Louis C. Barrett, McGraw Hill. 
+  
+
+EC302ES: ANALOG ELECTRONICS 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                                  4     1    0    4 
+ 
+Course Objectives: 
+ To introduce circuit realizations with components such as diodes, BJTs and transistors 
+studied earlier. 
+ To give understanding of various types of amplifier circuits such as small signal, 
+cascaded, large signal and tuned amplifiers. 
+ To familiarize the Concept of feedback in amplifiers so as to differentiate between 
+negative and positive feedback. 
+ 
+Course Outcomes: Upon completion of the Course, the students will be able to: 
+ Design and analyze small signal amplifier circuits applying the biasing techniques 
+learnt earlier. 
+ Cascade different amplifier configurations to obtain the required overall specifications 
+like Gain, Bandwidth, Input and Output interfacing Impedances. 
+ Design and realize different classes of Power Amplifiers and tuned am plifiers useable 
+for audio and Radio applications. 
+ Utilize the Concepts of negative feedback to improve the stability of amplifiers and 
+positive feedback to generate sustained oscillations. 
+ 
+UNIT – I 
+Analysis And Design of Small Signal Low Frequency BJT Am plifiers: Review of 
+transistor biasing, Classification of Amplifiers – Distortion in amplifiers, Analysis of CE, CC, 
+and CB Amplifiers and CE Amplifier with emitter resistance, low frequency response of BJT 
+Amplifiers, effect of coupling and bypass capacit ors, Design of single stage RC coupled 
+amplifier Different coupling schemes used in amplifiers, Analysis of Cascaded RC Coupled 
+amplifiers, Cascode amplifier, Darlington pair, 
+ 
+UNIT – II  
+Transistor At High Frequency: The Hybrid- pi (  ) – Common Emitter transistor model, 
+CE short circuit current gain, current gain with resistive load, single stage CE transistor 
+amplifier response, Gain-bandwidth product. 
+ 
+UNIT – III 
+FET Amplifiers: Analysis of JFET  Amplifiers, Analysis of CS, CD, CG JF ET Amplifiers, 
+comparison of performance with BJT Amplifiers, Basic Concepts of MOS Amplifiers, –
+MOSFET – MOSFET Characteristics in Enhancement and Depletion mode – MOS Small 
+signal model, Common source amplifier with resistive, Diode connected and Current  source 
+loads, Source follower, Common Gate Stage, Cascode and Folded Cascode Amplifier – 
+frequency response. 
+
+UNIT –III 
+Positive & Negative  Feedback In Amplifiers: Classification of amplifiers, Concepts of 
+feedback – Classification of feedback amplifiers – General characteristics of negative 
+feedback amplifiers – Effect of Feedback on Amplifier characteristics – Voltage series, 
+Voltage shunt, Current series and Current shunt Feedback configurations – Simple problems. 
+Condition for oscillations. RC and LC type Oscillators – Frequency and amplitude stability of 
+oscillators – Generalized analysis of LC oscillators, Quartz, Hartley, and Colpitts Oscillators 
+– RC-phase shift and Wien-bridge oscillators. 
+ 
+UNIT – IV 
+Large Signal Amplifiers: Class A Power Amplifier, Maximum Value of Efficiency of Class 
+– A Amplifier, Transformer Coupled Amplifier, Push Pull and Complimentary Symmetry 
+Class B and Class AB Power Amplifiers – Principle of operation of class –C Amplifier, 
+Transistor Power Dissipation, Heat Sinks. 
+Tuned Amplifiers: Introduction, Q -Factor, Small Signal Tuned Amplifiers, frequency 
+response of tuned amplifiers 
+ 
+TEXT BOOKS: 
+1. Electronic Devices and Circuits, David A. Bell – 5th Edition, Oxford. 
+2. Electronic Devices and Circuits, S. Salivahanan , N. Suresh Kumar, A Vallvaraj, 5th 
+Edition, MC GRAW HILL EDUCATION. 
+3. Electronics circuits and applications , Md H Rashid, Cengage 2014 
+ 
+REFERENCES: 
+1. Integrated Electronics, Jacob Millman, Christos C Halkias, McGraw Hill Education 
+2. Electronic Devices and Circ uits theory– Robert L. Boylestead, Louis Nashelsky, 11 th 
+Edition, 2009, Pearson. 
+3. Electronic Devices Conventional and current version -Thomas L. Floyd 2015, person 
+  
+
+EC303ES: ELECTRICAL TECHNOLOGY 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                     4     1    0    4 
+ 
+Course  Objectives: 
+ To know the basic principle of DC generators and motors. 
+ To know the basic principle of single phase transformers. 
+ To understand the basic principle of three-phase induction motor and alternators. 
+ To understand the basic principle of special motors and electrical instruments. 
+ 
+Course Outcome: 
+ To analyze the performance of dc generators and motors. 
+ To analyze the performance of transformers. 
+ To learn the in-depth knowledge on three phase induction motors. 
+ To analyze the performance of   special motors and electrical instruments in real time 
+applications. 
+ 
+UNIT - I 
+D.C Generators and DC Motors: Principle of operation of DC Machines - EMF equation – 
+Types of generators – Magnetization and load characteristics of DC generators,  DC Motors – 
+Types of DC Motors – Characteristics of DC motors – 3-point starters for DC shunt motor – 
+Losses and efficiency – Swinburne’s test – Speed control of DC shunt motor – Flux and 
+Armature voltage control methods. 
+ 
+UNIT - II 
+Transformers & Performance: Principle of operation of single phase transformer – types – 
+Constructional features – Phasor diagram on No Load and Load – Equivalent circuit, Losses 
+and Efficiency of transformer and Regulati on – OC and SC tests – Predetermination of 
+efficiency and regulation (Simple Problems). 
+ 
+UNIT - III 
+Three Phase Induction Motor: Principle of operation of three-phase induction motors –Slip 
+ring and Squirrel cage motors – Slip-Torque characteristics – Efficiency calculation – 
+Starting methods. 
+ 
+ UNIT - IV  
+Alternators: Alternators – Constructional features – Principle of operation – Types - EMF 
+Equation – Distribution and Coil span factors – Predetermination of regulation by 
+Synchronous Impedance Method – OC and SC tests. 
+ 
+ 
+ 
+
+UNIT - V  
+Special Motors & Electrical Instruments : Principle of operation - Shaded pole motors – 
+Capacitor motors, AC servomotor, AC tachometers, Synchros, Stepper Motors – 
+Characteristics, Basic Principles of indicating instruments  – Moving Coil and Moving iron 
+Instruments (Ammeters and Voltmeters).  
+ 
+TEXT BOOKS: 
+1. Introduction to Electrical Engineering – M.S Naidu and S. Kamakshaiah, TMH Publ. 
+2. Basic Electrical Engineering  - T.K. Nagasarkar and M. S. Sukhija, Oxford University 
+Press, 2005 
+       
+REFERENCES: 
+1. Principles of Electrical Engineering - V.K Mehta, S. Chand Publications. 
+2. Theory and Problems of basic electrical engineering  -  I.J. Nagarath and D.P Kothari, 
+PHI  Publications 
+3. Essentials of Electrical and Computer Engineering  - David V. Kerns, JR. J. David 
+Irwin 
+  
+
+EC304ES: SIGNALS AND STOCHASTIC PROCESS 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                           3     1    0    3 
+          
+Course Objectives: 
+ This gives t he basics of Signals and Systems required for all Electrical   Engineering 
+related courses. 
+ This gives concepts of Signals and Systems and its analysis using different transform 
+techniques. 
+ This gives basic understanding of random process which is essentia l for random 
+signals and systems encountered in Communications and    Signal Processing areas. 
+ 
+Course Outcomes: Upon completing his course, the student will be able to 
+ Represent any arbitrary analog or Digital time domain signal in    frequency domain. 
+ Understand the importance of sampling, sampling theorem and its   effects. 
+ Understand the characteristics of linear time invariant systems. 
+ Determine the conditions for distortion less transmission through a   system. 
+ Understand the concepts of Random Process and its Characteristics. 
+ Understand the response of linear time Invariant system for a Random Processes. 
+ 
+UNIT - I 
+Signal Analysis: Analogy between Vectors and Signals, Orthogonal Signal Space, Signal 
+approximation using Orthogonal functions, Mean Square Error, Closed or complete set of 
+Orthogonal functions, Orthogonality in Complex functions, Exponential and Sinusoidal 
+signals, Concepts of Impulse function, Unit Step function, Signum   function. 
+Signal Transmission through Linear Systems: Linear System, Impulse response, Response 
+of a Linear System, Linear Time Invariant (LTI) System, Linear Time Variant (LTV) System, 
+Transfer function of a LTI system, Filter characteristics of Linear Systems, Distortion less 
+transmission through a system, Signal ba ndwidth, System bandwidth, Ideal LPF, HPF and 
+BPF characteristics, Causality and Paley -Wiener criterion for physical realization, 
+Relationship between Bandwidth and Rise time. Concept of convolution in Time domain and 
+Frequency domain, Graphical representation of Convolution, Convolution property of Fourier 
+Transforms 
+ 
+UNIT – II 
+Fourier series, Transforms, and Sampling: Fourier series:  Representation of Fourier 
+series, Continuous time periodic signals, Properties of Fourier Series, Dirichlet’s conditions, 
+Trigonometric Fourier Series and Exponential Fourier Series, Complex Fourier   spectrum. 
+Fourier Transforms: Deriving Fourier Transform from Fourier series, Fourier Transform of 
+arbitrary signal, Fourier Transform of standard signals, Fourier Transform of P eriodic 
+Signals, Properties of Fourier Transform, Fourier Transforms involving Impulse function and 
+Signum function. 
+
+Sampling: Sampling theorem – Graphical and analytical proof for Band Limited Signals, 
+Reconstruction of signal from its samples, Effect of under sampling – Aliasing. 
+ 
+UNIT – III 
+Laplace Transforms and Z –Transforms: Laplace Transforms: Review of Laplace 
+Transforms (L.T), Partial fraction expansion, Inverse Laplace Transform, Concept of Region 
+of Convergence (ROC) for Laplace Transforms, Constr aints on ROC for various classes of 
+signals, Properties of L.T, Relation between L.T and F.T of a signal, Laplace Transform of 
+certain signals using waveform synthesis. 
+Z–Transforms: Fundamental difference between Continuous and Discrete time signals, 
+Discrete time signal representation using Complex exponential and Sinusoidal components, 
+Periodicity of Discrete time signal using complex exponential signal, Concept of Z - 
+Transform of a Discrete Sequence, Distinction between Laplace, Fourier and Z Transf orms, 
+Region of Convergence in Z -Transform, Constraints on ROC for various classes of signals, 
+Inverse Z-transform, Properties of Z-transforms. 
+ 
+UNIT – IV 
+Random Processes – Temporal Characteristics:  The Random Process Concept, 
+Classification of Processes , Deterministic and Nondeterministic Processes, Distribution and 
+Density Functions, concept of Stationarity and Statistical Independence. First -Order 
+Stationary Processes, Second - Order and Wide -Sense Stationarity, (N -Order) and Strict -
+Sense Stationarity, Time Averages and Ergodicity,  Autocorrelation Function and Its 
+Properties, Cross -Correlation Function and Its Properties, Covariance Functions,  Gaussian 
+Random Processes, Poisson Random Process. Random Signal, Mean and Mean -squared 
+Value of System Respon se, autocorrelation Function of Response, Cross -Correlation 
+Functions of Input and Output. 
+ 
+UNIT- V:  
+Random Processes – Spectral Characteristics: The Power Spectrum: Properties, 
+Relationship between Power Spectrum and Autocorrelation Function, The Cross -Power 
+Density Spectrum, Properties, Relationship between Cross -Power Spectrum and Cross -
+Correlation Function. Spectral Characteristics of System Response: Power Density Spectrum 
+of Response, Cross-Power Density Spectrums of Input and Output. 
+ 
+TEXT BOOKS: 
+1. Signals, Systems & Communications - B.P. Lathi , 2013, BSP. 
+2. Signal and systems principles and applications, shaila dinakar Apten, Cambridez 
+university press, 2016.  
+3. Probability, Random Variables & Random Signal Principles - Peyton Z. Peebles, MC 
+GRAW HILL EDUCATION, 4th Edition, 2001 
+ 
+REFERENCE BOOKS: 
+1. Signals and Systems - A.V. Oppenheim, A.S. Willsky and S.H. Nawab, 2 Ed., 
+2. Signals and Signals – Iyer and K. Satya Prasad, Cengage Learning  
+
+EC305ES: NETWORK ANALYSIS 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                           3     1    0    3 
+ 
+Pre-requisite: Basic Electrical & Electronics Engineering 
+ 
+Course Objectives: Objectives of this course are 
+ To understand the basic concepts on RLC circuits. 
+ To know the behavior of the steady states and transients states in RLC circuits. 
+ To know the basic Laplace transforms techniques in periods waveforms. 
+ To understand the two port network parameters. 
+ To understand the properties of LC networks and filters. 
+ 
+Course Outcomes: After completion of this course student: 
+ Gains the knowledge on Basic network elements. 
+ Learns and analyze the RLC circuits’ behavior in detail. 
+ Analyze the performance of periodic waveforms. 
+ Learns and gain the knowledge in characteristics of two port network parameters (Z, 
+Y, ABCD, h & g). 
+ To analyze the filter design concepts in real world applications. 
+ 
+UNIT - I 
+Review of R, L,C, RC, RL, RLC circuits, Network Topology, Terminology, Basic cutest and 
+tie set matrices for planar networks, Illustrative Problems, Magnetic Circuits, Self and Mutual 
+inductances, dot convention, impedance, reactance concept, Impedance transformation and 
+coupled circuits, co -efficient of coupling, equivalent T for Magnetically coupled circuits, 
+Ideal Transformer. 
+ 
+UNIT - II 
+Steady state and transient analysis of RC, RL and RLC Circuits, Circuits with switches, step 
+response, 2 nd order series and parallel RLC Circuits, Root locus, damping factor, over 
+damped, under damped, critically damped cases, quality factor and bandwidth for series and 
+parallel resonance, resonance curves 
+ 
+UNIT - III 
+Network Analysis using Laplace transform techniques, step, impulse and exponential 
+excitation, response due to periodic excitation, RMS and average value of periodic 
+waveforms. 
+ 
+UNIT - IV 
+Two port network parameters, Z, Y, ABCD, h and g parameters, Characteristic impedance, 
+Image transfer constant, image and iterative impedance, network function, driving point and 
+transfer functions – using transformed (S) variables, Poles and Zeros. 
+
+UNIT - V 
+Standard T, , L Sections, Characteristic impedance, image transfer constants, Design of 
+Attenuators, impedance matching network, T and  Conversion, LC Networks and Filters: 
+Properties of LC Networks, Foster’s Reactance theorem, design of const ant K, LP, HP and 
+BP Filters, Composite filter design. 
+ 
+TEXT BOOKS 
+1. Network Analysis – ME Van Valkenburg, Prentice Hall of India, 3rd Edition, 2000. 
+2. Networks, Lines and Fields - JD Ryder,  PHI, 2nd Edition, 1999. 
+ 
+REFERENCES 
+1. Engineering Circuit Analysis – William Hayt and Jack E Kemmerly, MGH, 5 th 
+Edition, 1993. 
+2. Electric Circuits – J. Edminister and M.Nahvi – Schaum’s Outlines, MCGRAW HILL 
+EDUCATION, 1999. 
+3. Network Theory – Sudarshan and Shyam Mohan, Mc Graw Hill Education. 
+  
+
+EC306ES: ELECTRONIC DEVICES AND CIRCUITS LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                           0     0    3    2 
+ 
+Course Objectives  
+ To identify various components and testing of active devices. 
+ To study and operation of millimeters, function generators ,regulated power supplies 
+and  CRO  To know the characteristics of various active devices. 
+ To study frequency response amplifier. 
+ 
+Course Outcomes:  
+ After Completion of the course the student is able to  Apply various devices to real 
+time problems. 
+ Compute frequency response of various amplifiers. 
+ 
+Part A: (Only for viva-voce Examination) 
+ 
+ ELECTRONIC WORKSHOP PRACTICE (in 3 lab sessions):  
+1. Identification, Specification, testing of R,L,C components (color codes), 
+Potentiometers (SPDT, DPDT, and DIP), Coils, Gang Condensers, Relays, Bread 
+Board, PCB’s  
+2. Identification, Specification, testing of Active devices: Diodes, BJT, Low power 
+JFET’s, MOSFET’s, Power Transistors, LED’s, LCD’s, SCR, UJT.  
+3. Study and operation of:  
+i. Multimeters (Analog and Digital) 
+ii. Function Generator 
+iii. Regulated Power Supplies 
+iv. CRO 
+Part B: (For Laboratory Examination – Minimum of 12 experiments) 
+1. Forward and Reverse Bias V-I characteristics of PN junction Diode.  
+2. Zener diode V-I characteristics and Zener diode as voltage regulator.  
+3. Half Wave rectifier, with and without filters  
+4. Full wave rectifier with and without filters.  
+5. Input and output Characteristics of a BJT in CE configura tion and calculation of h -
+parameters. 
+6. Input and output Characteristics of a BJT in CB configuration and calculation of h -
+parameters.  
+7. FET characteristics in CS configuration.  
+8. Design of self bias circuit  
+9. Frequency response of CE Amplifier.  
+10. Frequency response of CC Amplifier.  
+11. Frequency response of CS FET Amplifier.  
+12. SCR characteristics.  
+13. UJT characteristics. 
+
+PART C: Equipment required for Laboratory: 
+1. Regulated Power supplies (RPS)  : 0-30 V 
+2. CRO’s          : 0-20 MHz. 
+3. Function Generators                     : 0-1  MHz. 
+4. Multimeters 
+5. Decade Resistance Boxes/Rheostats 
+6. Decade Capacitance Boxes 
+7. Ammeters (Analog or Digital)       : 0-20 µA, 0-50µA, 0-100µA, 0-200µA,10 mA. 
+8. Voltmeters (Analog or Digital)      : 0-50V, 0-100V, 0-250V 
+9. Electronic Components: Resistors, Capacitors, BJTs, LCDs, SCRs, UJTs,  FETs, 
+LEDs, MOSFETs, Diodes-Ge & Si type, Transistors – NPN, PNP type.  
+
+EC307ES: BASIC SIMULATION LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                           0     0    3    2 
+ 
+Note: 
+ All the experiments are to be simulated using MATLAB or equivalent software 
+ Minimum of 15 experiments are to be completed 
+ 
+List of Experiments: 
+1. Basic Operations on Matrices. 
+2. Generation of Various Signals and Sequences (Periodic and Aperiodic), such as Unit 
+Impulse, Unit Step, Square, Saw tooth, Triangular, Sinusoidal, Ramp, Sinc. 
+3. Operations on Signals and Sequences such as Addition, Multiplication, Scaling, 
+Shifting, Folding, Computation of Energy and Average Power. 
+4. Finding the Even and Odd parts of Signal/Sequence and Real and Imaginary parts of 
+Signal. 
+5. Convolution for Signals and sequences. 
+6. Auto Correlation and Cross Correlation for Signals and Sequences. 
+7. Verification of Line arity and Time Invariance Properties of a given 
+Continuous/Discrete System. 
+8. Computation of Unit sample, Unit step and Sinusoidal responses of the given LTI 
+system and verifying its physical realiazability and stability properties. 
+9. Gibbs Phenomenon Simulation. 
+10. Finding the Fourier Transform of a given signal and plotting its magnitude and phase 
+spectrum. 
+11. Waveform Synthesis using Laplace Transform. 
+12. Locating the Zeros and Poles and plotting the Pole -Zero maps in S-plane and Z-Plane 
+for the given transfer function. 
+13. Generation of Gaussian noise (Real and Complex), Computation of its mean, M.S. 
+Value and its Skew, Kurtosis, and PSD, Probability Distribution Function. 
+14. Sampling Theorem Verification. 
+15. Removal of noise by Autocorrelation / Cross correlation. 
+16. Extraction of Periodic Signal masked by noise using Correlation. 
+17. Verification of Weiner-Khinchine Relations. 
+18. Checking a Random Process for Stationarity in Wide sense. 
+  
+
+EC308ES: BASIC ELECTRICAL ENGINEERING LAB 
+ 
+B.Tech. II Year I Sem.                                                      L    T    P   C 
+                           0     0    3    2 
+ 
+Note:  Minimum 6 experiments from each part are to be conducted 
+ 
+PART – A 
+ 
+1. Verification of KVL and KCL. 
+2. Serial and Parallel Resonance – Timing, Resonant frequency, Bandwidth and Q-factor 
+determination for RLC network. 
+3. Time response of first order RC/RL network for periodic non -sinusoidal inputs – time 
+constant and steady state error determination. 
+4. Two port network parameters – Z-Y Parameters, chain matrix and analyti cal 
+verification. 
+5. Two post network parameters -ABCD and h parameters  
+6. Verification of Superposition and Reciprocity theorems. 
+7. Verification of maximum power transfer theorem. Verification on DC, verification on 
+AC with Resistive and Reactive loads. 
+8. Experimental determination of Thevenin’s and Norton’s equivalent circuits and 
+verification by direct test. 
+ 
+PART – B 
+ 
+1. Magnetization characteristics of D.C. Shunt generator. Determination of critical field 
+resistance. 
+2. Swinburne’s Test on DC shunt machine (Predeterm ination of efficiency of a given 
+DC Shunt machine working as motor and generator). 
+3. Brake test on DC shunt motor. Determination of performance characteristics. 
+4. OC & SC tests on Single -phase transformer (Predetermination of efficiency and 
+regulation at given power factors and determination of equivalent circuit). 
+5. Brake test on 3-phase Induction motor (performance characteristics). 
+6. Regulation of alternator by synchronous impedance method. 
+7. Load test on single phase transform  
+  
+
+MC300ES: ENVIRONMENTAL SCIENCE AND TECHNOLOGY 
+ 
+B.Tech. II Year I Sem.                                      L    T    P   C 
+                             3     0    0     0 
+ 
+Course Objectives: 
+1. Understanding the importance of ecological balance for sustainable development. 
+2. Understanding the impacts of developmental activities and mitigation measures. 
+3. Understanding the environmental policies and regulations  
+ 
+Course Outcomes:  
+1. Based on this course, the Engineering graduate will understand /evaluate / develop 
+technologies on the basis of ecological principles and environmental regulations 
+which in turn helps in sustainable development 
+ 
+UNIT-I  
+Ecosystems: Definition, Scope, and Importance of ecosystem. Classification, structure, and 
+function of an ecosystem, Food chains, food webs, and eco logical pyramids. Flow of energy, 
+Biogeochemical cycles, Bioaccumulation, Biomagnification, ecosystem value, services and 
+carrying capacity, Field visits. 
+ 
+UNIT-II   
+Natural Resources: Classification of Resources:  Living and Non-Living resources, water 
+resources: use and over utilization of surface and ground water, floods and droughts, Dams: 
+benefits and problems. Mineral resources:  use and exploitation, environmental effects of 
+extracting and using mineral resources, Land resources:  Forest resources,  Energy 
+resources: growing energy needs, renewable and non renewable energy sources, use of 
+alternate energy source, case studies.  
+ 
+UNIT-III  
+Biodiversity And Biotic Resources: Introduction, Definition, genetic, species and ecosystem 
+diversity. Value of biodi versity; consumptive use, productive use, social, ethical, aesthetic 
+and optional values. India as a mega diversity nation, Hot spots of biodiversity. Field visit. 
+Threats to biodiversity: habitat loss, poaching of wildlife, man -wildlife conflicts; 
+conservation of biodiversity: In-Situ and Ex-situ conservation.  National Biodiversity act.  
+ 
+UNIT-IV  
+Environmental Pollution and Control Technologies: Environmental Pollution:  
+Classification of pollution, Air Pollution: Primary and secondary pollutants, Automobile and 
+Industrial pollution, Ambient air quality standards. Water pollution:  Sources and types of 
+pollution, drinking water quality standards. Soil Pollution:  Sources and types, Impacts of 
+modern agriculture, degradation of soil. Noise Pollution: Sources and Health hazards, 
+standards, Solid waste: Municipal Solid Waste management, composition and characteristics 
+
+of e -Waste and its management. Pollution control technologies:   Wastewater Treatment 
+methods: Primary, secondary and Tertiary.  
+Overview of air p ollution control technologies, Concepts of bioremediation. Global 
+Environmental Problems and Global Efforts: C limate change and impacts on human 
+environment. Ozone depletion and Ozone depleting substances (ODS). Deforestation and 
+desertification.  Internat ional conventions / Protocols: Earth summit, Kyoto protocol, and 
+Montréal Protocol.  
+ 
+UNIT-V  
+Environmental Policy, Legislation & EIA: Environmental  Protection act, Legal aspects 
+Air Act- 1981, Water Act, Forest Act, Wild life Act,  Municipal solid waste management and 
+handling rules, biomedical waste management  and handling rules, hazardous waste 
+management and handling rules. EIA: EIA structure, methods of baseline data acquisition. 
+Overview on Impacts of air, water, biological and Socio -economical aspects. Strategies for 
+risk assessment, Concepts of Environmental Management Plan (EMP). Towards 
+Sustainable Future: Concept of Sustainable  Development, Population and its explosion, 
+Crazy Consumerism, Environmental Education,  Urban Sprawl, Human health, 
+Environmental Ethics, Concept of Green Building, Ecological Foot Print, Life Cycle 
+assessment (LCA), Low carbon life style. 
+ 
+TEXT BOOKS: 
+1 Textbook of Environmental Studies for Undergraduate Courses by Erach Bharucha 
+for University Grants Commission. 
+2 Environmental Studies by R. Rajagopalan, Oxford University Press. 
+ 
+REFERENCE BOOKS: 
+1. Environmental Science: towards a sustainable future by Richard T. Wright. 2008 PHL 
+Learning Private Ltd. New Delhi. 
+2. Environmental Engineering and science by Gilbert M. Masters and Wendell P. Ela. 
+2008 PHI Learning Pvt. Ltd.  
+3. Environmental Science by Daniel B. Botkin & Edward A. Keller, Wiley INDIA 
+edition. 
+4. Environmental Studies by Anubha Kaushik, 4 th Edition, New age international 
+publishers. 
+5. Text book of Environmental Science and Technology - Dr. M. Anji Reddy 2007, BS 
+Publications. 
+  
+
+EC401ES: SWITCHING THEORY AND LOGIC DESIGN 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             3     1    0    3 
+ 
+Course Objectives: 
+This course provides in -depth knowledge of switching theory and the design techniques of 
+digital circuits, which is the basis for design of any digital circuit. The main objectives are: 
+ To learn basic techniques for the design of digital circuits and fundamental concepts 
+used in the design of digital systems. 
+ To understand common forms of number representation in digital electronic circuits 
+and to be able to convert between different representations. 
+ To implement simple logical operations using combinational logic circuits 
+ To design combinational logic circuits, sequential logic circuits. 
+ To impart to student the concepts of sequential circuits, enabling them to analyze 
+sequential systems in terms of state machines. 
+ To implement synchronous state machines using flip-flops. 
+ 
+Course Outcomes: Upon completion of the course, students should possess the following 
+skills: 
+ Be able to manipulate numeric information in different forms, e.g. diff erent bases, 
+signed integers, various codes such as ASCII, Gray and BCD. 
+ Be able to manipulate simple Boolean expressions using the theorems and postulates 
+of Boolean algebra and to minimize combinational functions. 
+ Be able to design and analyze small comb inational circuits and to use standard 
+combinational functions/building blocks to build larger more complex circuits. 
+ Be able to design and analyze small sequential circuits and devices and to use 
+standard sequential functions/building blocks to build larger more complex circuits. 
+ 
+UNIT – I 
+Number System and Boolean algebra And Switching Functions: Review of number 
+systems, Complements of Numbers, Codes - Binary Codes, Binary Coded Decimal Code and 
+its Properties, Unit Distance Codes, Error Detecting and Correcting Codes. 
+Boolean Algebra:  Basic Theorems and Properties, Switching Functions, Canonical and 
+Standard Form, Algebraic Simplification of Digital Logic Gates, Properties of XOR Gates, 
+Universal Gates, Multilevel NAND/NOR realizations. 
+ 
+UNIT - II 
+Minimization and Design of Combinational Circuits: Introduction, The Minimization of 
+switching function using theorem, The Karnaugh Map Method -Up to Five  Variable Maps, 
+Don’t Care Map Entries, Tabular Method, Design of Combinational Logic: Adders, 
+Subtractors, c omparators, Multiplexers, Demultiplexers, Decoders, Encoders and Code 
+converters, Hazards and Hazard Free Relations. 
+
+UNIT - III 
+Sequential Machines Fundamentals and Applications: Introduction:  Basic Architectural 
+Distinctions between Combinational and Sequ ential circuits, The Binary Cell, Fundamentals 
+of Sequential Machine Operation, Latches, Flip Flops: SR, JK, Race Around Condition in JK, 
+JK Master Slave, D and T Type Flip Flops, Excitation Table of all Flip Flops, Design of a 
+Clocked Flip-Flop, Timing and Triggering Consideration, Clock Skew, Conversion from one 
+type of Flip-Flop to another. 
+Registers and Counters: Shift Registers, Data Transmission in Shift Registers, Operation of 
+Shift Registers, Shift Register Configuration, Bidirectional Shift Registe rs,  Applications of 
+Shift Registers, Design and Operation of Ring and Twisted Ring Counter, Operation Of 
+Asynchronous And Synchronous Counters. 
+ 
+UNIT - IV 
+Sequential Circuits - I: Introduction, State Diagram, Analysis of Synchronous Sequential 
+Circuits, Approaches to the Design of Synchronous Sequential Finite State Machines, 
+Synthesis of Synchronous Sequential Circuits, Serial Binary Adder, Sequence Detector, 
+Parity-bit Generator, Design of Asynchronous Counters, Design of Synchronous Modulo N –
+Counters. 
+ 
+UNIT - V 
+Sequential Circuits - II: Finite state machine-capabilities and limitations, Mealy and Moore 
+models-minimization of completely specified and incompletely specified sequential 
+machines, Partition techniques, and Merger chart methods-concept of minimal cover table. 
+ 
+TEXT BOOKS: 
+1. Switching and Finite Automata Theory - Zvi Kohavi & Niraj K. Jha, 3rdEdition, 
+Cambridge. 
+2. Digital Design- Morris Mano, 5rd Edition, Pearson. 
+ 
+REFERENCE BOOKS: 
+1. Modern Digital electronics RP Jain 4th Edition, McGraw Hill 
+2. Switching Theory and Logic Design – A Anand Kumar, 3rd Edition, PHI, 2013. 
+  
+
+EC402ES: PULSE AND DIGITAL CIRCUITS 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             4     0    0    4 
+ 
+Course Objectives: 
+ To explain the complete response of R-C and R-L-C transient circuits. 
+ To explain clippers, clampers, switching characteristics of transistors and sampling 
+gates. 
+ To construct various multivibrators using transistors, design of sweep circuits and 
+sampling gates. 
+ To discuss and realize logic gates using diodes and transistors. 
+ 
+Course Outcomes: At the end of the course, the student will be able to: 
+ Understand the applications of diode as integrator, differentiator, clippers, clampler 
+circuits. 
+ Learn various swit ching devices such as diode, transistor, SCR. Difference between 
+logic gates and sampling gates 
+ Design multivibrators for various applications, synchronization techniques and sweep 
+circuits. 
+ Realizing logic gates using diodes and transistors. 
+ Understanding of time and frequency domain aspects. 
+ Importance of clock pulse and its generating techniques. 
+ 
+UNIT - I 
+Linear Wave Shaping : High pass and low pass RC circuits and their response for 
+Sinusoidal, Step, Pulse, Square, & Ramp inputs, High pass RC network as  Differentiator, 
+Low pass RC circuit as an Integrator, Attenuators and its application as a CRO Probe, RL and 
+RLC Circuits and their response for Step Input, Ringing Circuit. 
+ 
+UNIT - II 
+Non-Linear Wave Shaping : Diode clippers, Transistor clippers, Clipping  at two 
+independent levels, Comparators, Applications of Voltage comparators. Clamping Operation, 
+Clamping circuit taking Source and Diode resistances into account, Clamping Circuit 
+Theorem, Practical Clamping Circuits, Effect of Diode Characteristics on C lamping Voltage, 
+Synchronized Clamping. 
+ 
+UNIT - III 
+Switching Characteristics of Devices : Diode as a Switch, Piecewise Linear Diode 
+Characteristics, Diode Switching times, Transistor as a Switch, Break down voltages, 
+Transistor in Saturation, Temperature v ariation of Saturation Parameters, Transistor -
+switching times, Silicon-controlled-switch circuits. 
+ 
+
+UNIT – IV 
+Multivibrators: Analysis and Design of Bistable, Monostable, Astable Multivibrators and 
+Schmitt trigger using Transistors. 
+Time Base Generators:  General features of a Time base Signal, Methods of Generating 
+Time Base Waveform, Transistor Miller Time Base generator, Transistor Bootstrap Time 
+Base Generator, Transistor Current Time Base Generators, Methods of Linearity 
+improvement. 
+ 
+UNIT - V 
+Sampling Gates: Basic operating principles of Sampling Gates, Unidirectional and Bi -
+directional Sampling Gates, Four Diode Sampling Gate, Reduction of pedestal in Gate 
+Circuits 
+Realization of Logic Gates Using Diodes & Transistors:  AND, OR and NOT Gates using 
+Diodes and Transistors,   DCTL, RTL, DTL, TTL and CML Logic Families and its 
+Comparison. 
+ 
+TEXT BOOKS: 
+1. Millman’s Pulse, Digital and Switching Waveforms –J. Millman, H. Taub and  
+Mothiki S. Prakash Rao, 2 Ed., 2008, McGraw Hill. 
+2. Pulse, Switching and Digital Circuits - David A. Bell, 5th edition 2015, OXFORD 
+University Press 
+ 
+REFERENCE BOOKS: 
+1. Pulse and Digital Circuits -Venkata Rao K, Rama Sudha K, Manmadha rao G,  
+Pearson, 2010 
+2. Pulse and Digital Circuits – A. Anand Kumar, 2005, PHI. 
+  
+
+SM405ES: BUSINESS ECONOMICS AND FINANCIAL ANALYSIS 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             3     0    0    3 
+  
+Course Objective: To learn the basic Business types, impa ct of the Economy on Business 
+and Firms specifically. To analyze the Business from the Financial Perspective. 
+ 
+Course Outcome: The students will understand the various Forms of Business and the 
+impact of economic variables on the Business. The Demand, Supply, Production, Cost, 
+Market Structure, Pricing aspects are learnt. The Students can study the firm’s financial 
+position by analysing the Financial Statements of a Company.   
+   
+UNIT – I  
+Introduction to Business and Economics: 
+Business: Structure of B usiness Firm, Theory of Firm, Types of Business Entities, Limited 
+Liability Companies,  Sources of Capital for a Company, Non -Conventional Sources of 
+Finance. 
+Economics: Significance of Economics, Micro and Macro Economic Concepts, Concepts 
+and Importance o f National Income, Inflation, Money Supply in Inflation, Business Cycle, 
+Features and Phases of Business Cycle. Nature and Scope of Business Economics, Role of 
+Business Economist, Multidisciplinary nature of Business Economics. 
+ 
+UNIT – II 
+Demand and Supply Analysis: 
+Elasticity of Demand:  Elasticity, Types of Elasticity, Law of Demand, Measurement and 
+Significance of Elasticity of Demand, Factors affecting Elasticity of Demand, Elasticity of 
+Demand in decision making, Demand Forecasting: Characteristics of G ood Demand 
+Forecasting, Steps in Demand Forecasting, Methods of Demand Forecasting. 
+Supply Analysis: Determinants of Supply, Supply Function & Law of Supply. 
+ 
+UNIT- III 
+Production, Cost, Market Structures & Pricing:  
+Production Analysis: Factors of Production, Production Function, Production Function with 
+one variable input, two variable inputs, Returns to Scale, Different Types of Production 
+Functions. 
+Cost analysis: Types of Costs, Short run and Long run Cost Functions. 
+Market Structures : Nature of  Competition, Features of Perfect competition, Monopoly, 
+Oligopoly, and Monopolistic Competition. 
+Pricing: Types of Pricing, Product Life Cycle based Pricing, Break Even Analysis, and Cost 
+Volume Profit Analysis. 
+  
+
+UNIT - IV 
+Financial Accounting:  Accounting concepts and Conventions, Accounting Equation, 
+Double-Entry system of Accounting, Rules for maintaining Books of Accounts, Journal, 
+Posting to Ledger, Preparation of Trial Balance, Elements of Financial Statements, and 
+Preparation of Final Accounts. 
+ 
+UNIT - V 
+Financial Analysis through Ratios: Concept of Ratio Analysis, Liquidity Ratios, Turnover 
+Ratios, Profitability Ratios, Proprietary Ratios, Solvency, Leverage Ratios (simple problems). 
+Introduction to Fund Flow and Cash Flow Analysis (simple problems). 
+ 
+TEXT BOOKS: 
+1. D. D. Chaturvedi, S. L. Gupta, Business Economics - Theory and Applications, 
+International Book House Pvt. Ltd. 2013. 
+2. Dhanesh K Khatri, Financial Accounting, Tata McGraw Hill, 2011. 
+3. Geethika Ghosh, Piyali Gosh, Purba Roy Choudhury, Manageria l Economics, 2e, 
+Tata McGraw Hill Education Pvt. Ltd. 2012. 
+ 
+REFERENCES: 
+1. Paresh Shah, Financial Accounting for Management 2e, Oxford Press, 2015.  
+2. S. N. Maheshwari, Sunil K Maheshwari, Sharad K Maheshwari, Financial 
+Accounting, 5e, Vikas Publications, 2013.` 
+  
+
+EE404ES: CONTROL SYSTEMS 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             4     1    0    4 
+ 
+Prerequisite: Ordinary Differential Equations & Laplace Transform, Mathematics I 
+ 
+Course objectives:  
+ To understand the different ways of system representations such as Transfer function 
+representation and state space representations and to assess the system dynamic 
+response 
+ To assess the system performance using time domain analysis and methods for 
+improving it 
+ To assess the system performance using frequency domain analysis and techniques 
+for improving the performance  
+ To design various controllers and compensators to improve system performance 
+ 
+Course outcomes: After completion of this course the student is able to  
+ Improve the system performance by selecting a suitable controller and/or a 
+compensator for a specific application  
+ Apply various time domain and frequency domain techniques to assess the system 
+performance   
+ Apply various  control strategies to different applications (example: Power systems, 
+electrical drives etc…)  
+ Test system Controllability and Observability using state space representation and 
+applications of state space representation to various systems.   
+ 
+UNIT – I 
+Introduction: Concepts of Control Systems- Open Loop and closed loop control systems and 
+their differences - Different examples of control systems - Classification of control systems, 
+Feed-Back Characteristics, Effects of feedback. Mathematical models – Differential 
+equations - Impulse Response and transfer functions - Translational and Rotational 
+mechanical systems.  
+Transfer Function Rep resentation: Transfer Function of DC Servo motor - AC Servo 
+motor- Synchro transmitter and Receiver, Block diagram rep resentation of systems 
+considering electrical systems as examples - Block diagram algebra – Representation by 
+Signal flow graph - Reduction using mason’s gain formula. 
+ 
+UNIT-II  
+Time Response Analysis:  Standard test signals - Time response of first order s ystems – 
+Characteristic Equation of Feedback control systems, Transient response of second order 
+systems - Time domain specifications – Steady state response - Steady state errors and error 
+constants – Effects of proportional derivative, proportional integral systems. 
+
+ 
+UNIT – III 
+Stability Analysis: The concept of stability - Routh stability criterion – qualitative stability 
+and conditional stability. 
+Root Locus Technique:  The root locus concept - construction of root loci -effects of adding 
+poles and zeros to G(s) H(s) on the root loci. 
+Frequency Response Analysis:  Introduction, Frequency domain specifications -Bode 
+diagrams-Determination of Frequency domain specifications and transfer function from the 
+Bode Diagram-Phase margin and Gain margin-Stability Analysis from Bode Plots. 
+ 
+UNIT - IV 
+Stability Analysis In Frequency Domain:  Polar Plots, Nyquist Plots and applications of 
+Nyquist criterion to find the stability - Effects of adding poles and zeros to G(s)H(s) on the 
+shape of the Nyquist diagrams. 
+Classical Control Design Techniques:  Compensation techniques – Lag, Lead, and Lead -
+Lag Controllers design in frequency Domain, PID Controllers. 
+ 
+UNIT – V 
+State Space Analysis o f Continuous Systems : Concepts of state, state variables and state 
+model, derivation of st ate models from block diagrams, Diagonalization - Solving the Time 
+invariant state Equations- State Transition Matrix and its Properties. 
+ 
+TEXT BOOKS: 
+1. “I. J. Nagrath and M. Gopal”, “Control Systems Engineering”, New Age International 
+(P) Limited, Publishers, 5th  edition, 2009 
+2. “B. C. Kuo”, “Automatic Control Systems”, John wiley and sons, 8th edition, 2003. 
+ 
+REFERENCE BOOKS: 
+1. “N. K. Sinha”, “Control Systems”, New Age International (P) Limited Publishers, 3rd 
+Edition, 1998. 
+2. “NISE”, “Control Systems Engineering”, John wiley, 6th Edition, 2011. 
+3. “Katsuhiko Ogata”, “Modern Control Engineering”, Prentice Hall of India Pvt. Ltd., 
+3rd edition, 1998. 
+  
+
+EC405ES: ANALOG COMMUNICATIONS 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             4     0    0    4 
+ 
+Course Objectives: 
+ To develop ability to analyze system requirements of analog communication systems. 
+ To understand the need for modulation 
+ To understand the generation, detection of various analog modulatio n techniques and 
+also perform the mathematical analysis associated with these techniques. 
+ To acquire knowledge to analyze the noise performance of analog modulation 
+techniques. 
+ To acquire theoretical knowledge of each block in AM and FM receivers. 
+ To understand the pulse modulation techniques. 
+ 
+Course Outcomes: 
+ Able to analyze and design various modulation and demodulation analog systems. 
+ Understand the characteristics of noise present in analog systems. 
+ Study of signal to Noise Ration (SNR) performance, of  various     Analog 
+Communication systems. 
+ Analyze and design the various Pulse Modulation Systems. 
+ Understand the concepts of Multiplexing: Time Division Multiplexing (TDM) and 
+Frequency Division Multiplexing (FDM). 
+ 
+UNIT - I 
+Amplitude Modulation: Introduction to communication system, Need for modulation, 
+Frequency Division Multiplexing , Amplitude Modulation, Definition, Time domain and 
+frequency domain description, single tone modulation, power relations in AM waves, 
+Generation of AM waves, square law Mo dulator, Switching modulator, Detection of AM 
+Waves; Square law detector, Envelope detector, Double side band suppressed carrier 
+modulators, time domain and frequency domain description, Generation of DSBSC Waves, 
+Balanced Modulators, Ring Modulator, Coher ent detection of DSB -SC Modulated waves, 
+COSTAS Loop. 
+ 
+UNIT - II 
+SSB Modulation: Introduction to Hilbert Transform, Frequency domain description, 
+Frequency discrimination method for generation of AM SSB Modulated Wave, Time domain 
+description, Phase discrimination method for generating AM SSB Modulated waves. 
+Demodulation of SSB Waves, Vestigial side band modulation:  Frequency description, 
+Generation of VSB Modulated wave, Time domain description, Envelope detection of a VSB 
+Wave pulse Carrier, Comparison of AM Techniques, Applications of different AM Systems. 
+ 
+ 
+ 
+
+UNIT - III 
+Angle Modulation: Basic concepts, Frequency Modulation: Single tone frequency 
+modulation, Spectrum Analysis of Sinusoidal FM Wave, Narrow band FM, Wide band FM, 
+Constant Average Power, Transmission bandwidth of FM Wave - Generation of FM Waves, 
+Direct FM, Detection of FM Waves:  Balanced Frequency discriminator, Zero crossing 
+detector, Phase locked loop, Comparison of FM and AM. 
+ 
+UNIT - IV 
+Noise: Resistive Noise Source (Thermal), Ar bitrary Noise Sources, Effective Noise 
+Temperature, Average Noise Figures, Average Noise Figure of cascaded networks, Narrow 
+Band noise, Quadrature representation of narrow band noise, & its properties 
+Noise in Analog communication System, Noise in DSB and  SSB System Noise in AM 
+System, Noise in Angle Modulation System, Threshold effect in Angle Modulation System, 
+Pre-emphasis and de-emphasis. 
+ 
+UNIT - V 
+Receivers: Radio Receiver - Receiver Types - Tuned radio frequency receiver, Super 
+heterodyne receiver, R F section and Characteristics - Frequency changing and tracking, 
+Intermediate frequency, AGC,  FM Receiver, Comparison with AM Receiver, Amplitude 
+limiting. 
+PULSE MODULATION: Types of Pulse modulation, PAM (Single polarity, double 
+polarity) PWM: Generation and demodulation of PWM, PPM, Generation and demodulation 
+of PPM, Time Division Multiplexing. 
+ 
+TEXTBOOKS: 
+1. Communication Systems by Simon Haykins John Wiley & Sons, 4th Edition. 
+2. Electronics & Communication System – George Kennedy and Bernard Davis, 
+McGraw Hill Education 2004. 
+ 
+REFERENCES: 
+1. Communication theory, thomas,2 edition, McGraw-Hill Education 
+2. Communication Systems, 2E, R. P. Singh , S. D. Sapre , McGraw -Hill Education, 
+2008. 
+3. Analog and Digital Communication – K. Sam Shanmugam, Willey, 2005 
+4. Electronics Communication Systems- Wayne Tomasi, 6th Edition, Person 2009  
+  
+
+EC406ES: ANALOG COMMUNICATIONS LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    2 
+ 
+Note: 
+ Minimum 12 experiments should be conducted: 
+ Experiments are to be simulated first either using MATLAB, Comsim or any other 
+simulation software tools and then testing to be done in hardware. 
+ 
+LIST OF EXPERIMENTS: 
+1. Amplitude modulation and demodulation. 
+2. DSB-SC Modulator & Detector 
+3. SSB-SC Modulator & Detector (Phase Shift Method) 
+4. Frequency modulation and demodulation. 
+5. Study of spectrum analyzer and analysis of AM and FM Signals 
+6. Pre-emphasis & de-emphasis. 
+7. Time Division Multiplexing & De multiplexing 
+8. Frequency Division Multiplexing & De multiplexing 
+9. Verification of Sampling Theorem 
+10. Pulse Amplitude Modulation & Demodulation 
+11. Pulse Width Modulation & Demodulation 
+12. Pulse Position Modulation & Demodulation 
+13. Frequency Synthesizer. 
+14. AGC Characteristics. 
+15. PLL as FM Demodulator 
+  
+
+EC407ES: PULSE AND DIGITAL CIRCUITS LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    2 
+ 
+Note: 
+Minimum Twelve experiments to be conducted: 
+ 
+1. Linear wave Shaping 
+a. RC Low  Pass Circuit for  different  time constants 
+b. RC High Pass Circuit for different time constants 
+ 
+2. Non-linear wave shaping 
+a. Transfer characteristics and response of  Clippers: 
+i) Positive and Negative Clippers 
+ii) Clipping at two independent levels 
+b. The steady state output waveform of clampers for a square wave input 
+i) Positive  and Negative Clampers 
+ii) Clamping at  different reference voltage 
+ 
+3. Comparison  Operation of different types of Comparators 
+4. Switching characteristics of  a transistor 
+5. Design  a Bistable Multivibrator and draw its waveforms 
+6. Design  an Astable Multivibrator and draw its waveforms 
+7. Design  a Monostable  Multivibrator and draw its waveforms 
+8. Response of Schmitt Trigger circuit for loop gain  less than  and  greater than  one 
+9. UJT relaxation oscillator 
+10. The  output- voltage waveform of Boot strap sweep circuit 
+11. The  output- voltage waveform of Miller sweep circuit 
+12. Pulse Synchronization of An Astable circuit 
+13. Response of a  transistor Current sweep circuit 
+14. Sampling gates 
+a. Response of Unidirectional gate 
+b. Response of Bidirectional gate using transistors 
+15. Study of logic gates 
+  
+
+EC408ES: ANALOG ELECTRONICS LAB  
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    2 
+ 
+Note: 
+ Minimum 12 experiments should be conducted: 
+ Experiments are to be simulated using Multisim or P -spice or Equivalent Simulation 
+and then testing to be done in hardware. 
+  
+LIST OF EXPERIMENTS: 
+1. Common Emitter Amplifier 
+2. Common Base Amplifier  
+3. Common Source amplifier 
+4. Two Stage RC Coupled Amplifier 
+5. Current Shunt Feedback Amplifier 
+6. Voltage Series Feedback Amplifier 
+7. Cascode Amplifier 
+8. Wien Bridge Oscillator using Transistors 
+9. RC Phase Shift Oscillator using Transistors 
+10. Class A Power Amplifier (Transformer less) 
+11. Class B Complementary Symmetry Amplifier 
+12. Hartley Oscillator 
+13. Colpitt’s Oscillator 
+14. Single Tuned Voltage Amplifier 
+  
+
+MC400HS: GENDER SENSITIZATION LAB 
+ 
+B.Tech. II Year II Sem.                                      L    T    P   C 
+                             0     0    3    0 
+ 
+Course Objectives:  
+ To develop students’ sensibility with regard to issues of gender in contemporary 
+India. 
+ To provide a critical perspective on the socialization of men and women. 
+ To introduce students to information about some key biological aspects of genders. 
+ To expose the students to debates on the politics and economics of work. 
+ To help students reflect critically on gender violence. 
+ To expose students to more egalitarian interactions between men and women. 
+ 
+Course Outcomes: 
+ Students will have developed a better understanding of im portant issues related to 
+gender in contemporary India. 
+ Students will be sensitized to basic dimensions of the biological, sociological, 
+psychological and legal aspects of gender. This will be achieved through discussion of 
+materials derived from research, facts, everyday life, literature, and film. 
+ Students will attain a finer grasp of how gender discrimination works in our society 
+and how to counter it. 
+ Students will acquire insight into the gendered division of labour and its relation to 
+politics and economics. 
+ Men and women students and professionals will be better equipped to work and live 
+together as equals. 
+ Students will develop a sense of appreciation of women in all walks of life. 
+ Through providing accounts of studies and movements as well as the  new laws that 
+provide protection and relief to women, the textbook will empower students to 
+understand and respond to gender violence. 
+  
+UNIT - I          
+UNDERSTANDING GENDER 
+Gender: Why Should We Study It?  (Towards a World of Equals: Unit -1) 
+Socialization: Making Women, Making Men (Towards a World of Equals: Unit -2) 
+Introduction.  Preparing for Womanhood. Growing up Male. First lessons in Caste. Different 
+Masculinities. 
+ 
+UNIT - II       
+GENDER AND BIOLOGY: 
+ Missing Women: Sex Selection and Its Consequences (Towards a World of Equals: Unit -4) 
+Declining Sex Ratio. Demographic Consequences. 
+Gender Spectrum: Beyond the Binary (Towards a World of Equals: Unit -10) 
+Two or Many?  Struggles with Discrimination. 
+ 
+
+UNIT - III      
+GENDER AND LABOUR  
+Housework: the Invisible Labour (Towards a World of Equals: Unit -3) 
+“My Mother doesn’t Work.”  “Share the Load.” 
+Women’s Work: Its Politics and Economics (Towards a World of Equals: Unit -7) 
+Fact and Fiction. Unrecognized and Unaccounted work. Additional Reading: Wages and 
+Conditions of Work. 
+ 
+UNIT-IV  
+ISSUES OF VIOLENCE 
+Sexual Harassment: Say No! (Towards a World of Equals: Unit -6) 
+ Sexual Harassment, not Eve -teasing- Coping with Everyday Harassment - Further Reading: 
+“Chupulu”.  
+Domestic Violence: Speaking Out (Towards a World of Equals: Unit -8) 
+ Is Home a Safe Place? -When Women Unite [Film]. Rebuilding Lives.  Additional Reading: 
+New Forums for Justice. 
+Thinking about Sexual Violence (Towards a World of Equals: Unit -11) 
+ Blaming the Victim -“I Fought f or my Life….” - Additional Reading: The Caste Face of 
+Violence. 
+ 
+UNIT - V  
+GENDER:  CO - EXISTENCE  
+Just Relationships: Being Together as Equals (Towards a World of Equals: Unit -12) 
+Mary Kom and Onler. Love and Acid just do not Mix. Love Letters. Mothers and Fathers. 
+Additional Reading: Rosa Parks-The Brave Heart. 
+ 
+TEXTBOOK  
+All the five Units in the Textbook , “Towards a World of Equals: A Bilingual Textbook on 
+Gender”  written by A. Suneetha,  Uma Bhrugubanda, Duggirala Vasanta, Rama Melkote, 
+Vasudha Nagaraj, Asma Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu and 
+published by Telugu Akademi, Hyderabad,Telangana State in the year 2015. 
+ 
+Note: Since it is an Interdisciplinary Course, Resource Persons can be drawn from the fields 
+of English Literature or Sociology or Political Science or any other qualified faculty who has 
+expertise in this field from engineering departments. 
+ 
+REFERENCE BOOKS: 
+1. Menon, Nivedita. Seeing like a Feminist. New Delhi: Zubaan-Penguin Books, 2012  
+2. Abdulali Sohaila. “I Fought For My Life…and Won .”Available online at: 
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal/ 
+

@@ -1,0 +1,66 @@
+Code No: 133BM  
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech II Year I Semester Examinations, May/June - 2019 
+OBJECT ORIENTED PROGRAMMING THROUGH JAVA 
+(Common to CSE, IT) 
+Time: 3 Hours                Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A. 
+Part B consists of 5 Units. Answer any one full question from each unit.                
+Each question carries 10 marks and may have a, b as sub questions. 
+ 
+PART- A  
+(25 Marks) 
+1.a) Differentiate between class and object.      [2] 
+   b) What is meant by ad-hoc polymorphism?       [3] 
+   c) How to define a package in Java?        [2] 
+   d)      Contrast between abstract class and interface.     [3] 
+   e) Define exception.          [2]  
+   f)       Differentiate between a thread and a process.     [3]  
+   g)      Which methods of deque enable it to be used as a stack?     [2]  
+   h)      Make a comparison of List, array and ArrayList.      [3]  
+   i) Give the AWT hierarchy.         [2] 
+   j) What are the various classes used in creating a swing menu?   [3] 
+ 
+PART-B  
+(50 Marks) 
+2.a) What are the responsibilities of an agent? 
+   b) What is the purpose of constructor in Java programming?    [5+5] 
+OR 
+3.  Define inheritance. What ar e the benefits of inheritance? What costs are associated with 
+inheritance? How to prevent a class from inheritance?    [10] 
+ 
+4.   Write a program to demonstrate hierarchical and multiple inheritance using interfaces.   
+            [10] 
+OR 
+5.a) Demonstrate ordinal( ) method of enum. 
+   b) What is type wrapper? What is the role of auto boxing?    [5+5] 
+ 
+6.   Write a program to create three threads in your program and context switch among the 
+threads using sleep functions.        [10] 
+OR 
+7.a) Write a program with nested try statements for handling exception. 
+   b) How to create a user defined exception?      [5+5] 
+ 
+R16 
+JNTUH USED07-06-2019AM
+
+8.   Write a program to read a f ile content and extract words using String Tokenizer class. 
+Display the file if it contains the user query term/search key.   [10] 
+OR 
+9.a) Contrast sorted map and navigable map interfaces. 
+b) What is the purpose of BitSet class? What is the functionality of the following functions  
+of BitSet class:  cardinality( ) , flip( ) and intersects( )    [5+5] 
+ 
+10.a) Illustrate the use of Grid Bag layout. 
+     b) What are the subclasses of JButton class of swing package?    [5+5] 
+OR 
+11.a) Create a simple applet to display a smiley picture using Graphics class methods.     
+     b) Write a short note on delegation event model.     [5+5] 
+  
+ 
+---oo0oo--- 
+ 
+JNTUH USED07-06-2019AM
+

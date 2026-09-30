@@ -1,0 +1,55 @@
+ Code No: 151AG     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B.Tech I Year I Semester Examinations, September/October - 2021 
+BASIC ELECTRICAL ENGINEERING 
+(Common to EEE, CSE, IT, CSIT, ITE, CE(SE), CSE(CS), CSE(DS), CSE(Networks)) 
+Time: 3 Hours                                                  Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1. Find the current supplied by 10V battery for the following network shown in figure 1. 
+            [15] 
+ 
+Figure: 1 
+ 
+2. By using Norton’s theorem , determine the current through 5Ω resistor  for the circuit 
+ shown in figure 2.          [15] 
+ 
+Figure: 2 
+      
+3.a) Derive the expression for the average value and form factor of a sinusoidal waveform. 
+   b) Find the RMS voltage of the signal shown in figure 3.     [7+8] 
+ 
+Figure: 3 
+ 
+ 
+ 
+R18 
+ 
+JNTUH USED SEPT-2021
+
+4.a) What is series resonance? Explain  with respect to series R -L-C circuit connected across 
+ sinusoidal voltage source. 
+   b) Show that the resonant frequency ω 0 of an RLC series resonant circuit is the geometric 
+ mean of ω1 
+and ω2, the lower and upper half power frequencies respectively.  [7+8] 
+  
+5.a) Derive an emf equation of a single phase transformer. 
+   b) Explain about hysteresis and eddy current losses occur in a transformer.   [8+7] 
+ 
+6.a) Explain the operation of a transformer under no load and load conditions with the help of 
+ phasor diagrams. 
+   b) Explain different poly phase transformers connections.    [8+7] 
+  
+7.a) Give the constructional details of 3-phase Induction motor. 
+   b) Explain the torque speed characteristics of 3-phase Induction motor.   [8+7] 
+  
+8.a) Differentiate between MCB and MCCB. 
+   b) Explain the different types of batteries in detail.      [6+9] 
+ 
+ 
+ 
+---ooOoo--- 
+JNTUH USED SEPT-2021
+

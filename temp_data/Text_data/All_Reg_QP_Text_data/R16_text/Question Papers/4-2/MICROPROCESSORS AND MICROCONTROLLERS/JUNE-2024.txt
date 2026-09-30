@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Code No: 138GK     
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B. Tech IV Year II Semester Examinations, June - 2024 
+MICROPROCESSORS AND MICROCONTROLLERS 
+ (Computer Science and Engineering) 
+Time: 3 Hours                Max. Marks: 75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      Name the different segments available in 8086 µp.     [2]  
+   b)      Write any three branch and call instructions.      [3] 
+   c)      Explain PUSH and POP instructions in 8051.     [2] 
+   d)      Explain the memory organization of 8051.      [3] 
+   e)      What is the need of DMA?        [2] 
+   f)       Write a short note on SPI bus.       [3]  
+   g)      What is exception?         [2]  
+   h)      Write the role of barrel shifter in ARM.      [3]  
+   i)       List the applications of DSP processors.      [2] 
+   j)       Explain the priority concept in Cortex processor.     [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.a) What is Interrupt? Explain the Interrupts of 8086. 
+   b) Define the macro? Explain the working of macros in 8086 with one example. [5+5] 
+OR 
+3. Name the different addressing modes of 8086 and explain them with suitable example.  [10] 
+  
+4.a) Explain the TCON special function register with a diagram in 8051 microcontroller. 
+   b) Explain the serial communication interrupts.      [5+5] 
+OR 
+5.a) How does 8051 differentiate between the external and internal program memory. 
+   b) Discuss the I/O Ports of 8051.       [5+5] 
+ 
+6.a) Draw the 8251 USART architecture and explain its operation. 
+   b) Draw a neat sketch of DAC to be interfaced with 8051 microcontroller.  [5+5] 
+OR 
+7.a) Explain about on board communication Interfaces. 
+   b) Write short notes on serial communication standards.    [6+4] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R16 
+Used Papers 2024
+
+ 
+ 
+ 
+ 
+ 
+8.a) Discuss the main features of the ARM Processor. 
+   b) Explain the concept of thumb instructions in ARM processor.   [5+5] 
+OR 
+9. List the various modes of ARM processor and explain any two modes of it. [10] 
+ 
+10. Draw the functional block diagram of OMAP Processor and explain working of all blocks      
+ available in it.             [10] 
+OR 
+11.a) Explain the main features of the OMAP Processor. 
+     b) Discuss about memory access attributes of OMAP processor.   [5+5] 
+  
+ 
+---ooOoo--- 
+Used Papers 2024
+

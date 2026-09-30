@@ -1,0 +1,87 @@
+ 
+ 
+ 
+Code No: 111AF  
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+B.Tech I Year Examinations, December - 2017 
+COMPUTER PROGRAMMING 
+(Common to CE, EEE, ME, ECE, CSE, EIE, IT, MCT, MMT, AE, AME, MIE, PTM, 
+CEE, AGE) 
+Time: 3 hours                                      Max. Marks: 75 
+ 
+Note:  This question paper contains two parts A and B. 
+Part A is compulsory which carries 25 marks. Answer all questions in Part A.           
+ Part B consists of 5 Units. Answer any one full question from each unit.  Each 
+ question carries 10 marks and may have a, b, c as sub questions. 
+ 
+PART- A 
+ (25 Marks) 
+ 
+1.a) Differentiate between compiler and interpreter.   [2]   
+   b) What is an algorithm? What is its role in program development? [3] 
+   c) How many values can be returned by a function?   [2] 
+   d) Why is function known as a derived data type?    [3] 
+   e) What is dereference type?      [2]    
+   f) List the applications of pointers.     [3]  
+   g) What is the use of typedef?      [2]    
+   h) What is the difference between binary file and text file?  [3]    
+   i) What are the operations on stack?     [2] 
+   j) Compare array with linked list.      [3] 
+ 
+PART-B 
+ (50 Marks) 
+ 
+2.a) Demonstrate the usage of relational operators. 
+   b) Using while loop write a program to read 10 numbers from user and display their sum. 
+            [5+5] 
+OR 
+3.a) What is a data type? Discuss the four standard data types of C language. 
+   b) Construct a flowchart to identify largest number among the three given numbers. [5+5] 
+ 
+4. Discuss the advanta ges of using functions in problem solving. With the help of suitable 
+ examples illustrate inter function communication.     [10] 
+OR 
+5.a) How to declare and initialize a multi dimensional array? 
+   b)  Write a program to find sum of squares of an array element.   [5+5] 
+ 
+6.a) Can one variable have many pointers? Write a program to justify your answer. 
+   b) What operators are applicable to pointer variables? Give example expressions. 
+   c) Write a function to swap two numbers using pointer variables to these numbers. [10] 
+OR 
+7.a) Write a program to check whether a given string is a palindrome or not. 
+   b) Discuss the library functions for string to data conversion.    [5+5] 
+ 
+ 
+ 
+R13 
+JNTUH USED 12-12-2017PM
+
+ 
+ 
+ 
+8.a) What is a structure? Define a structure and explain the two methods of acc essing 
+ structure variables. 
+   b) In which situation a union is preferred over union.     [5+5] 
+OR 
+9.a) Write a program to transfer the contents of a file in to another file using file handling 
+ concepts. 
+   b) How can errors be handled in file programs?      [5+5] 
+ 
+10.a) Write an algorithm for binary search. 
+     b) Perform insertion sort  (step-by-step) and arrange the following number in ascending 
+ order.           [5+5] 
+ {23  45  25  67  89  37  12  90   32   19}       
+OR 
+11.a)  Write a program to implement a queue using arrays. 
+     b) What is an queue? Compare it with dequeue.      [5+5] 
+ 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+ 
+ 
+JNTUH USED 12-12-2017PM
+

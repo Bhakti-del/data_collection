@@ -1,0 +1,40 @@
+Code No: 155AB 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, February - 2022 
+ADVANCED OPERATING SYSTEMS 
+(Common to CSE, IT) 
+Time: 3 hours                                              Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a) Explain the design issues in distributed operating system. 
+   b) Compare vector Vs logical clocks.       [8+7] 
+ 
+2.a) Describe message passing communication model.  
+   b) Explain any one termination detection algorithm.     [8+7] 
+  
+3.a) Explain the steps to achieve mutual exclusion using token based algorithms. 
+   b) State and explain Shingal’s Mutual exclusion algorithm.    [8+7] 
+ 
+4.a) Explain the properties and performance of Lamport’s Mutual exclusion algorithm. 
+   b) Write Lamoprt’s algorithm for mutual exclusion.     [8+7] 
+ 
+5.a) Discuss the issues in deadlock detection in distributed systems. 
+   b) Explain edge chasing algorithm for dead lock detection.    [8+7] 
+ 
+6.a) Explain hierarchical deadlock detection algorithm. 
+   b) Explain the deadlock handling strategies in distributed systems.   [7+8] 
+ 
+7.a) Give note on process synchronization in multiprocessor operating system. 
+   b)  Describe the architecture of distributed file system.     [8+7] 
+ 
+8.a) Explain full replication algorithms for distributed shared memory. 
+   b) Explain components of load distributing algorithms.     [8+7] 
+   
+ 
+ 
+---ooOoo--- 
+ R18 
+used paper feb-22 jntu
+

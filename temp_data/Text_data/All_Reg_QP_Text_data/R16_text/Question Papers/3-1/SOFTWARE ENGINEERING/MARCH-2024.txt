@@ -1,0 +1,82 @@
+Code No: 135BM   
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech III Year I Semester Examinations, March - 2024 
+SOFTWARE ENGINEERING 
+(Computer Science and Engineering) 
+Time: 3 Hours                         Max. Marks: 75 
+ 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.      
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)     What is CMMI?         [2] 
+   b)      Describe the evolving role of software.      [3] 
+   c)      Define feasibility study.         [2] 
+   d)      Discuss about context models.       [3] 
+   e)      What are component-level design elements?      [2] 
+   f)      Write about architectural description languages.     [3] 
+   g)      What is defect removal efficiency?       [2] 
+   h)      Discuss about system testing.        [3] 
+   i)       What is software quality?        [2] 
+   j)       Describe about RMMM.        [3] 
+ 
+PART – B  
+(50 Marks) 
+ 
+2.  Describe the importance of process model. Explain about specialized process models.   
+  [10] 
+OR 
+3.a)  Explain about personal and team process models.      [5+5] 
+   b)  Define software engineering. Explain about process patterns.  
+  
+4.  Draw state machine models of the control software for:       
+a) An automatic washing machine that has different programs for different types of                 
+ clothes 
+b) The software for a DVD player 
+c) A telephone answering system that records incoming messages and displays the              
+number of accepted messages on an LED. The system should allow the telephone              
+customer to dial in from any location, type a seque nce of numbers (identified as           
+tones) and play the recorded messages.         [10] 
+OR 
+5.a)  Explain about the software requirements document.       
+   b)  Explain about behavioral system model.       [5+5] 
+ 
+ 
+ 
+ 
+ 
+ 
+ R16 
+Used Papers March-2024
+
+ 
+6.a)  Describe user interface design patterns.        
+   b)  What are various types of coupling? Explain in detail.     [5+5] 
+OR 
+7.a)  Discuss about an architecture trade-off analysis method.      
+   b)  Explain about pattern-based software design.      [5+5] 
+ 
+8.  What is software testing?  Why software construction is important? Explain about a 
+strategic approach to software testing.         [10] 
+OR 
+9.a)  Explain about metrics for design model.       
+   b)  Discuss about metrics for software quality.       [5+5] 
+ 
+10.  Explain the following:         
+      a) Risk strategies 
+      b) Software reliability.         [5+5] 
+OR 
+11.  Explain the following:         
+      a) SQA activities 
+      b) Risk refinement.          [5+5] 
+  
+ 
+ 
+---ooOoo--- 
+ 
+Used Papers March-2024
+

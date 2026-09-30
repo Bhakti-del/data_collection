@@ -1,0 +1,57 @@
+Code No: 157DW 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, January/February - 2023 
+SOFT COMPUTING           
+(Common to CSE, IT) 
+Time: 3 Hours           Max.Marks:75 
+Note: i) Question paper consists of Part A, Part B. 
+          ii) Part A is compulsory, which carries 25 marks. In Part A, Answer all questions.  
+          iii) In Part B, Answer any one question from each unit. Each question carries 10 marks               
+      and may have a, b as sub questions.    
+ 
+PART – A  
+    (25 Marks) 
+ 
+1.a)      List the differences between soft computing and hard computing.   [2]  
+   b)      What is a neural network?        [3] 
+   c)      What is relational join?        [2]  
+   d)      State extension principle for fuzzy sets.      [3]  
+   e)      Quote an example for multi criteria decision making.    [2] 
+   f)      List the variants of particle swarm optimization.     [3] 
+   g)      What is evolutionary computing?       [2] 
+   h)      Illustrate multipoint crossover.       [3]   
+   i)      How to reduce attributes in rough sets?      [2]  
+   j)      List neuro fuzzy systems.        [3] 
+ 
+PART – B  
+(50 Marks) 
+2. Outline the recent trends and advancements in soft computing.   [10] 
+OR 
+3.  Explain in detail about various soft computing methods.    [10] 
+  
+4.  Explain the properties of intuitionistic fuzzy relations and composition of two IFRs with 
+examples.          [10] 
+OR 
+5.  With suitable examples, discuss fuzzy propositions used in fuzzy rule based systems. 
+           [10] 
+ 
+6.  Compare and contrast problem solving with decision making.    [10] 
+OR 
+7.  Describe the clustering model of particle swarm optimization.    [10] 
+ 
+8.  Explain the basic concepts and operators of genetic algorithms.    [10] 
+OR 
+9.a)  Discuss the importance of fitness function in genetic algorithm. 
+   b)  Differentiate between mutation and crossover operations.    [5+5] 
+  
+10. Demonstrate fuzzy C-Means clustering algorithm.     [10] 
+OR 
+11.  Elaborate integration of soft computing techniques in information retrieval and semantic 
+web.           [10] 
+  
+---ooOoo--- 
+ 
+ 
+ R18 
+JNTUH Used papers 2023
+

@@ -1,0 +1,48 @@
+ 
+Code No: 136BC 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD  
+ B. Tech III Year II Semester Examinations, February/March - 2022 
+DESIGN PATTERNS 
+(Computer Science and Engineering) 
+Time: 3 hours                                                          Max. Marks: 75 
+Answer any five questions 
+All questions carry equal marks 
+- - - 
+ 
+1.a)  What are some common causes of the redesign? Explain. 
+   b)  How to use a design pattern? Explain in detail. 
+   c)  Draw a diagram to describe design pattern relationships.          [5+5+5] 
+ 
+2.a)  Explain in detail about “supporting multiple window systems”. 
+   b)  Explain the Spelling Checking and Hyphenation design problem in detail.  [8+7] 
+ 
+3.a)  Explain in detail about bridge design pattern. 
+   b)  What are the consequences of the Builder p attern? Explain Builder pattern                         
+ implementation.         [7+8] 
+ 
+4.a)  Write about motivation and consequences of Façade pattern. 
+   b)  Write sample code of Composite pattern. 
+   c)  Discuss the participants of the Adapter pattern and explain the functions of each.   
+                  [5+5+5] 
+ 
+5.a)  Describe in detail about Iterator Pattern. 
+   b)  Discuss the structure and participants of the state design pattern.   [8+7] 
+ 
+6.a)  Write about the implementation issues of the memento pattern. 
+    b)  What is Command Pattern? Describe in detail about structure, participants and                       
+ collaborations of the Command pattern.      [7+8] 
+ 
+7.a)  Discuss how to make the user interface more attractive in document editors. 
+   b)  Write about the intent, motivation, structure, and applicability of the Visitor pattern.
+            [8+7] 
+ 
+8.a)  Discuss in detail about proxy design pattern. 
+   b)  Explain the motivation of the Mediator pattern.     [7+8] 
+ 
+ 
+ 
+ 
+---ooOoo--- 
+ 
+R16 used paper feb/mar-2022 jntuh
+

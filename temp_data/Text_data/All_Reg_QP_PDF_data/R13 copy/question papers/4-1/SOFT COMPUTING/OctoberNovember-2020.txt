@@ -1,0 +1,44 @@
+Code No: 117HN     
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD 
+B. Tech IV Year I Semester Examinations, October/November - 2020 
+  SOFT COMPUTING  
+ (Common to CSE, IT) 
+Time: 2 Hours                 Max. Marks: 75 
+Answer any Five Questions  
+All Questions Carry Equal Marks 
+- - - 
+ 
+ 
+1.a) When will hill climbing searche fail? Do steepest ascent hill climbing always find         
+solutions? How might some problems be overcome in search? 
+b) What are the constituents of constraint satisfaction problem? Wr ite the formal definition         
+of a constraint over a set of variables.       [7+8] 
+ 
+2. Prove that A* heuristic search algorithm is optimal when applied in conjunction with a        
+monotonic heuristic.  State the conditions under which the algorithm is complete. [15] 
+    
+3.a) Explain why a multilayered perceptron does not learn if the initial weights and biases         
+are all zero. 
+   b) With a neat sketch, explain the back propagation network with necessary formulas.[7+8]  
+ 
+4.a) Summarize the characteristics and applications of Artificial Neural Networks. 
+b) What are the basic models of ANN based on connection topology? Explain them in brief. 
+           [7+8] 
+5.a) What is unsupervised learning? Discuss the Kohonen’s self-organizing maps in detail. 
+   b) Discuss in detail about learning vector quantization.     [7+8] 
+ 
+6.a) Draw and explain the working of Hamming network. 
+   b) Explain the architecture of counter propagation networks, its training and working.[7+8] 
+ 
+7.a) Define fuzzy relation and max-min composition of fuzzy  relations.    
+   b) Discuss about various membership functions used in fuzzy systems.  [7+8] 
+ 
+8.a) What do you mean by crossover and mutation? Explain different types of crossover and  
+          mutation techniques.          
+   b) How traveling salesmen problem optimize using genetic algorithm? Explain. [7+8] 
+  
+  
+--ooOoo--   
+R13 
+JNTUH USED 27-10-2020PM PAPER
+
