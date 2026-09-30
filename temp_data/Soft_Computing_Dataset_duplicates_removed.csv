@@ -1,0 +1,5 @@
+subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years
+Soft Computing,Discuss about means end analysis in brief.,SEARCH_AND_OPTIMIZATION,Understand,5,[],[2018]
+Soft Computing,Illustrate Best first search Algorithm with suitable example.,SEARCH_AND_OPTIMIZATION,Apply,15,[],[2021]
+Soft Computing,Explain the general structure of full Counter Propagation Net.,ASSOCIATIVE_MEMORY_AND_SOM,Understand,8,[],[2021]
+Soft Computing,List the differences between soft computing and hard computing.,SEARCH_AND_OPTIMIZATION,Remember,2,[2023],[]
