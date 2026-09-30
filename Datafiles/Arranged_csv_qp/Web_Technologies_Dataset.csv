@@ -77,7 +77,7 @@ Web Technologies,Demonstrate the use of cookies in servlets with an example.,PHP
 Web Technologies,Write a servlet program to retrieve data from the database.,SERVLET_LIFECYCLE_AND_API,Remember,6,[],[2018]
 Web Technologies,How to declare and use variables in JavaScript?,JAVASCRIPT_BASICS,Understand,3,[],[2018]
 Web Technologies,What are JSP Code snippets? Develop a JSP program to display current date and time,JSP_STRUCTURE_AND_DIRECTIVES,Create,7,[],"[2018, 2021]"
-Web Technologies,Write in very brief about JSP processing.,JSP_STRUCTURE_AND_DIRECTIVES,Remember,2,[],[2018]
+Web Technologies,Write in very brief about JSP processing.,JSP_STRUCTURE_AND_DIRECTIVES,Remember,2,[2018],[]
 Web Technologies,How to access a database from a JSP? Explain in detail.,MYSQL_PHP_CONNECTIVITY,Understand,8,[],[2018]
 Web Technologies,How is Client side Java Script different from Server side Java Script?,JAVASCRIPT_BASICS,Understand,3,[],[2018]
 Web Technologies,Write a simple AJAX application,AJAX,Remember,7,[],[2018]

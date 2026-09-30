@@ -12,7 +12,7 @@ Design Patterns,What is the difference between pattern and idiom?,PATTERN_FUNDAM
 Design Patterns,Explain the history and evolution of design patterns.,PATTERN_FUNDAMENTALS,Understand,5,[],[2023]
 Design Patterns,Discuss the principles and benefits of design patterns.,PATTERN_FUNDAMENTALS,Understand,5,[],[2024]
 Design Patterns,What is the difference between GoF patterns and enterprise patterns?,PATTERN_FUNDAMENTALS,Analyze,3,[2023],[]
-Design Patterns,Define design pattern. Explain its importance in software development. OR,PATTERN_FUNDAMENTALS,Understand,5,[],[2024]
+Design Patterns,Define design pattern. Explain its importance in software development.,PATTERN_FUNDAMENTALS,Understand,5,[],[2024]
 Design Patterns,What is Singleton pattern?,CREATIONAL_SINGLETON,Remember,2,[2023],[]
 Design Patterns,What are the advantages of Singleton pattern?,CREATIONAL_SINGLETON,Remember,2,[2024],[]
 Design Patterns,Explain the structure of Singleton pattern.,CREATIONAL_SINGLETON,Understand,3,[2023],[]
