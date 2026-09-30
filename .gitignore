@@ -22,6 +22,10 @@ deps/
 .lake/
 lake-packages/
 
+# Checkpoints & Cache
+*.checkpoint.json
+.tagger_checkpoint.json
+
 # OS / Editor
 .DS_Store
 Thumbs.db
