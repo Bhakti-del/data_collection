@@ -130,26 +130,124 @@ def parse_year(filename: str) -> int | None:
 
 
 def clean_question_text(text: str) -> str:
-    text = re.sub(r"\s+", " ", text).strip()
+    """Cleans question text, stripping question prefixes, trailing figure captions, matrices, and fixing OCR errors."""
+    # 1. Truncate at marks bracket if present in the text line (e.g. [10], [5+5], [15])
+    m_marks = re.search(r"\[\s*\d+(?:\s*[\+]\s*\d+)*\s*\]", text)
+    if m_marks:
+        before = text[:m_marks.start()].strip()
+        after = text[m_marks.end():].strip()
+        # Keep valid question continuation text after marks (e.g. 'Find: i)...', 'All dimensions are in mm')
+        # but discard figure captions (Figure 1, Graph 1) or matrix/data tables
+        if after and not re.match(r"^(?:Figure|Fig|Graph)\s*[:.]?\s*\d+", after, re.I):
+            words = after.split()
+            num_count = sum(1 for w in words if re.match(r"^[\d\.,\(\)\[\]]+$", w))
+            if num_count / max(1, len(words)) < 0.4:
+                text = before + " " + after
+            else:
+                text = before
+        else:
+            text = before
+
+    # 2. Strip leading headers, Part A/B, JNTUH, Question numbers
     text = re.split(r"\bPART\s*[-–]?\s*[AB]\b", text, flags=re.IGNORECASE)[0]
     text = re.split(r"\bJNTUH\b", text, flags=re.IGNORECASE)[0]
     text = re.sub(r"\bR1[0-9]\b", " ", text)
-    text = re.sub(r"^\s*\d+\.\s*(?:[a-j]\))?\s*", "", text)
-    text = re.sub(r"^\s*[a-j]\)\s*", "", text)
-    text = re.sub(r"\s*Figure\s*[:.]?\s*\d+\s*$", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\s*\[[\d\s\+]*\]", " ", text)
+    text = re.sub(r"^\s*\d+[\.\)]\s*(?:[a-z][\.\)])?\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"^\s*[a-z][\.\)]\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"^\s*[\)\.\-]\s*", "", text)
+
+    # 3. Strip trailing figure labels/captions
+    text = re.sub(r"\s*(?:Figure|Fig|Graph)\s*[:.]?\s*\d+\s*$", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*\((?:Figure|Fig|Graph)\s*[:.]?\s*\d+\)\.?\s*$", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*(?:Figure|Fig|Graph)\s*[:.]?\s*\d+\s*$", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\s*\bOR\b\s*$", "", text, flags=re.IGNORECASE)
-    return re.sub(r"\s+", " ", text).strip()
+
+    # 4. Remove unicode private-use characters & matrix symbols
+    text = re.sub(r"[\uf000-\uf8ff]", "", text)
+
+    # 5. Fix common OCR split-word and typo errors
+    word_fixes = [
+        (r"\bt he\b", "the"),
+        (r"\bc urrent\b", "current"),
+        (r"\bpow er\b", "power"),
+        (r"\ba lgorithm\b", "algorithm"),
+        (r"\bFig ure\b", "Figure"),
+        (r"\bt o\b", "to"),
+        (r"\btransforma tion\b", "transformation"),
+        (r"\bSuper position\b", "Superposition"),
+        (r"\bSuper\s+position\b", "Superposition"),
+        (r"\bThevinin\b", "Thevenin"),
+        (r"\bkrushkal\b", "Kruskal"),
+        (r"\bPrime\'s algorithm\b", "Prim's algorithm"),
+        (r"\bFinite Automate\b", "Finite Automata"),
+        (r"\bFinite Automaton[’\']s\b", "Finite Automata"),
+        (r"\bFinite Automaton\(FA\)\b", "Finite Automaton (FA)"),
+    ]
+    for pattern, repl in word_fixes:
+        text = re.sub(pattern, repl, text, flags=re.IGNORECASE)
+
+    # 6. Specific cleanup for double FA label artifact
+    text = re.sub(r"Figure:\s*3\s*", "", text)
+    text = re.sub(
+        r"Finite Automaton \(FA\) 1 \(figure 3\):\s*Finite Automaton \(FA\) 2\(figure 4\):?",
+        "Finite Automaton 1 (figure 3) and Finite Automaton 2 (figure 4).",
+        text,
+        flags=re.IGNORECASE
+    )
+
+    # 7. Normalize whitespace and punctuation spacing
+    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\s+([,\.:;\?\)])", r"\1", text)
+    text = re.sub(r"\(\s+", "(", text)
+
+    # Convert trailing colon to period if it's not introducing an enumerated list
+    if text.endswith(":") and not re.search(r"\b(?:find|calculate|determine)\s*:$", text, re.I):
+        text = text[:-1] + "."
+
+    # 8. Ensure trailing period if sentence ends without punctuation
+    if text and text[-1] not in (".", "?", ":", ";", "!"):
+        text += "."
+
+    return text
 
 
 def extract_marks(q_text: str) -> int | None:
-    """Extracts marks from brackets at the end of a question, e.g. [15] or [7+8]."""
-    m = re.search(r"\[(\d+)(?:\+(\d+))?\]\s*$", q_text)
-    if m:
-        if m.group(2):
-            return int(m.group(1)) + int(m.group(2))
-        return int(m.group(1))
-    return None
+    """Extracts marks from brackets anywhere in a question text, e.g. [15] or [7+8]."""
+    m = re.search(r"\[\s*(\d+(?:\s*[\+]\s*\d+)*)\s*\]", q_text)
+    if not m:
+        return None
+    return sum(int(x) for x in re.split(r"\s*[\+]\s*", m.group(1)))
+
+
+def get_paper_marks(questions: list[dict]) -> dict[str, int]:
+    """Calculates paper-wide marks mapping so subquestions inherit the split component marks."""
+    marks: dict[str, int] = {}
+    groups: dict[str, list[dict]] = {}
+    for q in questions:
+        groups.setdefault(q["q_no"].split(".")[0], []).append(q)
+
+    bracket = re.compile(r"\[\s*(\d+(?:\s*[\+]\s*\d+)*)\s*\]")
+    for main_no, group in groups.items():
+        explicit = {q["q_no"]: extract_marks(q["text"]) for q in group}
+        if all(v is not None for v in explicit.values()):
+            marks.update(explicit)
+            continue
+        components: list[int] = []
+        for q in group:
+            m = bracket.search(q["text"])
+            if m:
+                components = [int(x) for x in re.split(r"\s*[\+]\s*", m.group(1))]
+        if components and len(components) == len(group):
+            for q, component in zip(group, components):
+                marks[q["q_no"]] = component
+        elif components:
+            per = max(1, round(sum(components) / len(group)))
+            for q in group:
+                marks[q["q_no"]] = per
+        else:
+            for q_no, v in explicit.items():
+                marks[q_no] = v if v is not None else 10
+    return marks
 
 
 def tag_question(subj: str, text: str) -> str:
@@ -283,6 +381,7 @@ def parse_questions_from_text(text: str) -> list[dict]:
     questions = []
     current_q_num = None
     current_text = []
+    current_is_stem = False
 
     for line in lines:
         stripped = line.strip()
@@ -318,15 +417,26 @@ def parse_questions_from_text(text: str) -> list[dict]:
             q_sub = f".{m.group(2)}" if m.group(2) else ""
             current_q_num = f"{q_main}{q_sub}"
             current_text = [stripped]
+            current_is_stem = False
         elif m_sub and current_q_num:
-            if current_text:
-                questions.append({
-                    "q_no": current_q_num,
-                    "text": " ".join(current_text)
-                })
-            main_digit = current_q_num.split(".")[0]
-            current_q_num = f"{main_digit}.{m_sub.group(1)}"
-            current_text = [stripped]
+            joined_so_far = " ".join(current_text).strip()
+            if not current_is_stem:
+                current_is_stem = (
+                    "." not in current_q_num
+                    and (joined_so_far.endswith(":") or joined_so_far.lower().endswith("find:"))
+                    and not re.search(r"\[\s*\d+", joined_so_far)
+                )
+            if current_is_stem:
+                current_text.append(stripped)
+            else:
+                if current_text:
+                    questions.append({
+                        "q_no": current_q_num,
+                        "text": joined_so_far
+                    })
+                main_digit = current_q_num.split(".")[0]
+                current_q_num = f"{main_digit}.{m_sub.group(1)}"
+                current_text = [stripped]
         else:
             if current_text:
                 current_text.append(stripped)
@@ -481,6 +591,7 @@ def process_paper(txt_path: Path, img_out_dir: Path) -> list[dict]:
 
     content = txt_path.read_text(encoding="utf-8", errors="ignore")
     questions = parse_questions_from_text(content)
+    paper_marks = get_paper_marks(questions)
     subject = txt_path.parent.name
     subject_slug = re.sub(r"[^A-Za-z0-9]", "_", subject.upper())[:15]
     stem = txt_path.stem
@@ -504,12 +615,13 @@ def process_paper(txt_path: Path, img_out_dir: Path) -> list[dict]:
                 pix.save(str(img_path))
                 print(f"  [+] Cropped Diagram for Q{q_no}: {img_filename} {f'({fig_label})' if fig_label else ''}")
 
-        marks = extract_marks(q_text)
+        marks = paper_marks.get(q_no) or extract_marks(q_text)
+        raw_clean = clean_question_text(q_text)
 
         rows.append({
             "subject_name": subject,
             "question_no": q_no,
-            "raw_question_text": q_text,
+            "raw_question_text": raw_clean,
             "original_marks": marks if marks else "",
             "has_diagram": bool(img_filename),
             "image_path": str(Path("data/images") / img_filename) if img_filename else "",
@@ -578,6 +690,7 @@ def build_regulation_dataset(
             "MANAGEMENT SCIENCE",
         ]:
             continue
+        paper_marks = get_paper_marks(questions)
         subject_slug = re.sub(r"[^A-Za-z0-9]", "_", subject.upper())[:15]
         stem = txt_path.stem
         year = parse_year(stem)
@@ -606,7 +719,7 @@ def build_regulation_dataset(
             if len(raw_clean) < 10:
                 continue
 
-            marks = extract_marks(q_text)
+            marks = paper_marks.get(q_no) or extract_marks(q_text)
             main_q = q_no.split(".")[0]
             part = "A" if (has_part_a and main_q == "1") or (marks and marks <= 3) else "B"
 

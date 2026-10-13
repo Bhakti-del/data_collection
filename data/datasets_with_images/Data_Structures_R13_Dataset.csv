@@ -1,2 +1,2 @@
 subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years,image_path
-Data Structures,From the following graph find the traversal of nodes using BFS and DFS.,GRAPH_TRAVERSALS_BFS_DFS,Apply,10,[],[2018],data/images/DATA_STRUCTURES_NovemberDecember - 2018_Q6_b.png
+Data Structures,From the following graph find the traversal of nodes using BFS and DFS.,GRAPH_TRAVERSALS_BFS_DFS,Apply,5,[],[2018],data/images/DATA_STRUCTURES_NovemberDecember - 2018_Q6_b.png
