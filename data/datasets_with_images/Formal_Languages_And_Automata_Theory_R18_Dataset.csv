@@ -1,9 +1,0 @@
-subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years,image_path
-Formal Languages And Automata Theory,Convert the following NFA into equivalent DFA (figure 1).,UNTAGGED,Apply,8,[],[2022],data/images/FORMAL_LANGUAGE_FebruaryMarch-2022_Q1_b.png
-Formal Languages And Automata Theory,Convert the following NFA with € into equivalent NFA without € (figure 2).,UNTAGGED,Apply,7,[],[2022],data/images/FORMAL_LANGUAGE_FebruaryMarch-2022_Q2_a.png
-Formal Languages And Automata Theory,Find the minimum state automata for the following DFA (figure 3). Figure 3 used paper feb-22 jntu,FINITE_AUTOMATA,Apply,8,[],[2022],data/images/FORMAL_LANGUAGE_FebruaryMarch-2022_Q3_b.png
-Formal Languages And Automata Theory,Obtain a regular expression for the following FA (figure 4).,REGULAR_EXPRESSIONS,Apply,7,[],[2022],data/images/FORMAL_LANGUAGE_FebruaryMarch-2022_Q4_a.png
-Formal Languages And Automata Theory,Check whether the following two FSM’s are equivalent or not (figure 5)?,UNTAGGED,Understand,8,[],[2022],data/images/FORMAL_LANGUAGE_FebruaryMarch-2022_Q4_b.png
-Formal Languages And Automata Theory,Convert the following Mealy Machine in to an equivalent Moore Machine. (figure 1),TYPES_TURING_MACHINE,Apply,8,[],[2021],data/images/FORMAL_LANGUAGE_March-2021_Q1_a.png
-Formal Languages And Automata Theory,Construct the minimum state automata equivalent to the following. (figure 2),FINITE_AUTOMATA,Apply,8,[],[2021],data/images/FORMAL_LANGUAGE_March-2021_Q2_b.png
-Formal Languages And Automata Theory,Construct the regular expression for the following finite automata. (figure 3),FINITE_AUTOMATA,Apply,7,[],[2021],data/images/FORMAL_LANGUAGE_March-2021_Q4_b.png
