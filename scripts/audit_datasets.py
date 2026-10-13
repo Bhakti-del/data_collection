@@ -15,10 +15,12 @@ from pathlib import Path
 from collections import defaultdict
 
 VALID_BLOOMS = {'Remember', 'Understand', 'Apply', 'Analyze', 'Evaluate'}
-EXPECTED_COLUMNS = [
+EXPECTED_COLUMNS_7 = [
     "subject_name", "raw_question_text", "topic_tag",
     "bloom_level", "original_marks", "part_a_years", "part_b_years"
 ]
+EXPECTED_COLUMNS_8 = EXPECTED_COLUMNS_7 + ["image_path"]
+VALID_HEADERS = [EXPECTED_COLUMNS_7, EXPECTED_COLUMNS_8]
 
 def parse_years(ystr):
     if isinstance(ystr, list):
@@ -64,7 +66,7 @@ def audit_directory(dir_path: Path):
         total_records += len(rows)
 
         # 1. Header check
-        header_err = header != EXPECTED_COLUMNS
+        header_err = header not in VALID_HEADERS
         
         # Row audits
         schema_errs = 0
@@ -75,11 +77,11 @@ def audit_directory(dir_path: Path):
         dupes = defaultdict(list)
 
         for idx, r in enumerate(rows):
-            if len(r) != 7:
+            if len(r) not in (7, 8):
                 schema_errs += 1
                 continue
             
-            subj, qtext, topic, bloom, marks_str, pa_str, pb_str = r
+            subj, qtext, topic, bloom, marks_str, pa_str, pb_str = r[:7]
 
             # Bloom check
             if bloom not in VALID_BLOOMS:
