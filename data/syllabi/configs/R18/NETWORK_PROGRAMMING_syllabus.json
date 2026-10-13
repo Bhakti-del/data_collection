@@ -1,0 +1,62 @@
+{
+  "subject_name": "Network Programming",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "UNDERSTAND_INTER_PROCESS_INTER",
+        "UNDERSTAND_SOCKET_PROGRAMMING_ENTIRETY",
+        "UNDERSTAND_USAGE_TCP",
+        "RAW_SOCKETS",
+        "UNDERSTAND_HOW_BUILD_NETWORK"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "UNDERSTAND_INTER_PROCESS_INTER": [
+      "understand inter process inter",
+      "understand",
+      "inter",
+      "process",
+      "inter"
+    ],
+    "UNDERSTAND_SOCKET_PROGRAMMING_ENTIRETY": [
+      "understand socket programming entirety",
+      "understand",
+      "socket",
+      "programming",
+      "entirety"
+    ],
+    "UNDERSTAND_USAGE_TCP": [
+      "understand usage tcp",
+      "understand",
+      "usage"
+    ],
+    "RAW_SOCKETS": [
+      "raw sockets",
+      "sockets"
+    ],
+    "UNDERSTAND_HOW_BUILD_NETWORK": [
+      "understand how build network",
+      "understand",
+      "build",
+      "network"
+    ]
+  },
+  "syllabus_section": "NETWORK PROGRAMMING"
+}

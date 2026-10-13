@@ -1,0 +1,17 @@
+{
+  "subject_name": "Health And Safety In Mines",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "HEALTH_AND_SAFETY_IN_MINES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "HEALTH_AND_SAFETY_IN_MINES": [
+      "health and safety in mines"
+    ]
+  }
+}

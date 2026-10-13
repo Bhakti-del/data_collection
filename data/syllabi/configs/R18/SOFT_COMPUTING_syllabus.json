@@ -1,0 +1,41 @@
+{
+  "subject_name": "Soft Computing",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "FAMILIARIZE_SOFT_COMPUTING_INTRODUCE",
+        "COURSE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "FAMILIARIZE_SOFT_COMPUTING_INTRODUCE": [
+      "familiarize soft computing introduce",
+      "familiarize",
+      "soft",
+      "computing",
+      "introduce"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ]
+  },
+  "syllabus_section": "SOFT COMPUTING"
+}

@@ -1,0 +1,17 @@
+{
+  "subject_name": "Electric Drives And Control",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "ELECTRIC_DRIVES_AND_CONTROL"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ELECTRIC_DRIVES_AND_CONTROL": [
+      "electric drives and control"
+    ]
+  }
+}

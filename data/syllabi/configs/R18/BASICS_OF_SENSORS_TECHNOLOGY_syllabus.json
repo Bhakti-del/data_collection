@@ -1,0 +1,17 @@
+{
+  "subject_name": "Basics Of Sensors Technology",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "BASICS_OF_SENSORS_TECHNOLOGY"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "BASICS_OF_SENSORS_TECHNOLOGY": [
+      "basics of sensors technology"
+    ]
+  }
+}

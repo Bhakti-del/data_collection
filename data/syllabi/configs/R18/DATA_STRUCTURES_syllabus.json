@@ -1,0 +1,64 @@
+{
+  "subject_name": "Data Structures",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH_II_YEAR_I",
+        "L_T_P_C",
+        "COURSE_PROGRAMMING_PROBLEM_SOLVING",
+        "COURSE",
+        "EXPLORING_DATA_STRUCTURES_STACKS",
+        "INTRODUCES_VARIETY_DATA_STRUCTURES",
+        "SEARCH_TREES",
+        "TRIES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH_II_YEAR_I": [
+      "tech ii year i",
+      "tech",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "COURSE_PROGRAMMING_PROBLEM_SOLVING": [
+      "course programming problem solving",
+      "course",
+      "programming",
+      "problem",
+      "solving"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ],
+    "EXPLORING_DATA_STRUCTURES_STACKS": [
+      "exploring data structures stacks",
+      "exploring",
+      "data",
+      "structures",
+      "stacks"
+    ],
+    "INTRODUCES_VARIETY_DATA_STRUCTURES": [
+      "introduces variety data structures",
+      "introduces",
+      "variety",
+      "data",
+      "structures"
+    ],
+    "SEARCH_TREES": [
+      "search trees",
+      "search",
+      "trees"
+    ],
+    "TRIES": [
+      "tries",
+      "tries"
+    ]
+  },
+  "syllabus_section": "DATA STRUCTURES"
+}

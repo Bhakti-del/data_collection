@@ -1,0 +1,63 @@
+{
+  "subject_name": "Mathematics - Iv",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_I_SEM",
+        "L_T_P_C",
+        "LEARN_TYPES_MATRICES_PROPERTIES",
+        "RANK_MATRIX_APPLYING_KNOW",
+        "EIGEN_VALUES_EIGENVECTORS_REDUCE",
+        "SEQUENCE",
+        "NATURE_SERIES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_I_SEM": [
+      "i year i sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "LEARN_TYPES_MATRICES_PROPERTIES": [
+      "learn types matrices properties",
+      "learn",
+      "types",
+      "matrices",
+      "properties"
+    ],
+    "RANK_MATRIX_APPLYING_KNOW": [
+      "rank matrix applying know",
+      "rank",
+      "matrix",
+      "applying",
+      "know"
+    ],
+    "EIGEN_VALUES_EIGENVECTORS_REDUCE": [
+      "eigen values eigenvectors reduce",
+      "eigen",
+      "values",
+      "eigenvectors",
+      "reduce"
+    ],
+    "SEQUENCE": [
+      "sequence",
+      "sequence"
+    ],
+    "NATURE_SERIES": [
+      "nature series",
+      "nature",
+      "series"
+    ]
+  },
+  "syllabus_section": "MATHEMATICS - I"
+}

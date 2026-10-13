@@ -1,0 +1,63 @@
+{
+  "subject_name": "Information Retrieval Systems",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "DATA_STRUCTURES_COURSE",
+        "LEARN_IMPORTANT_ALGORITHMS_IRS",
+        "UNDERSTAND_DATA",
+        "FILE_STRUCTURES_NECESSARY_DESIGN",
+        "IMPLEMENT_INFORMATION_RETRIEVAL"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "DATA_STRUCTURES_COURSE": [
+      "data structures course",
+      "data",
+      "structures",
+      "course"
+    ],
+    "LEARN_IMPORTANT_ALGORITHMS_IRS": [
+      "learn important algorithms irs",
+      "learn",
+      "important",
+      "algorithms"
+    ],
+    "UNDERSTAND_DATA": [
+      "understand data",
+      "understand",
+      "data"
+    ],
+    "FILE_STRUCTURES_NECESSARY_DESIGN": [
+      "file structures necessary design",
+      "file",
+      "structures",
+      "necessary",
+      "design"
+    ],
+    "IMPLEMENT_INFORMATION_RETRIEVAL": [
+      "implement information retrieval",
+      "implement",
+      "information",
+      "retrieval"
+    ]
+  },
+  "syllabus_section": "INFORMATION RETRIEVAL SYSTEMS"
+}

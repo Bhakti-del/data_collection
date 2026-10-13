@@ -1,0 +1,67 @@
+{
+  "subject_name": "Applied Physics",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_I_SEM",
+        "L_T_P_C",
+        "STUDENTS_WILL_DEMONSTRATE_SKILLS",
+        "PROBLEM_SOLVING_LABORATORY_TECHNIQUES",
+        "STUDENTS_WILL_ABLE_DEMONSTRATE",
+        "FIBER_OPTICS_LASERS",
+        "SEMICONDUCTOR_PHYSICS_ELECTROMAGNETIC_THEORY"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_I_SEM": [
+      "i year i sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "STUDENTS_WILL_DEMONSTRATE_SKILLS": [
+      "students will demonstrate skills",
+      "students",
+      "will",
+      "demonstrate",
+      "skills"
+    ],
+    "PROBLEM_SOLVING_LABORATORY_TECHNIQUES": [
+      "problem solving laboratory techniques",
+      "problem",
+      "solving",
+      "laboratory",
+      "techniques"
+    ],
+    "STUDENTS_WILL_ABLE_DEMONSTRATE": [
+      "students will able demonstrate",
+      "students",
+      "will",
+      "able",
+      "demonstrate"
+    ],
+    "FIBER_OPTICS_LASERS": [
+      "fiber optics lasers",
+      "fiber",
+      "optics",
+      "lasers"
+    ],
+    "SEMICONDUCTOR_PHYSICS_ELECTROMAGNETIC_THEORY": [
+      "semiconductor physics electromagnetic theory",
+      "semiconductor",
+      "physics",
+      "electromagnetic",
+      "theory"
+    ]
+  },
+  "syllabus_section": "APPLIED PHYSICS"
+}

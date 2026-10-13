@@ -1,0 +1,17 @@
+{
+  "subject_name": "Remote Sensing And Gis",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "REMOTE_SENSING_AND_GIS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "REMOTE_SENSING_AND_GIS": [
+      "remote sensing and gis"
+    ]
+  }
+}

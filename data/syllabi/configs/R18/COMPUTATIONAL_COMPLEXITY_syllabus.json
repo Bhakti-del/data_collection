@@ -1,0 +1,68 @@
+{
+  "subject_name": "Computational Complexity",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "COURSE_COMPUTER_PROGRAMMING_DATA",
+        "COURSE_DISCRETE_STRUCTURES_GRAPH",
+        "INTRODUCES_THEORY_COMPUTATIONAL_COMPLEXITY",
+        "INTRODUCE_RANDOMIZED_ALGORITHMS_DISCUSS",
+        "DISCUSS_GRAPH_BASED_ALGORITHMS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "COURSE_COMPUTER_PROGRAMMING_DATA": [
+      "course computer programming data",
+      "course",
+      "computer",
+      "programming",
+      "data"
+    ],
+    "COURSE_DISCRETE_STRUCTURES_GRAPH": [
+      "course discrete structures graph",
+      "course",
+      "discrete",
+      "structures",
+      "graph"
+    ],
+    "INTRODUCES_THEORY_COMPUTATIONAL_COMPLEXITY": [
+      "introduces theory computational complexity",
+      "introduces",
+      "theory",
+      "computational",
+      "complexity"
+    ],
+    "INTRODUCE_RANDOMIZED_ALGORITHMS_DISCUSS": [
+      "introduce randomized algorithms discuss",
+      "introduce",
+      "randomized",
+      "algorithms",
+      "discuss"
+    ],
+    "DISCUSS_GRAPH_BASED_ALGORITHMS": [
+      "discuss graph based algorithms",
+      "discuss",
+      "graph",
+      "based",
+      "algorithms"
+    ]
+  },
+  "syllabus_section": "COMPUTATIONAL COMPLEXITY"
+}

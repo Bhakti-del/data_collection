@@ -1,0 +1,286 @@
+{
+  "subject_name": "Distributed Systems",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "CHARACTERIZATION_DISTRIBUTED_SYSTEMS",
+        "DISTRIBUTED_SYSTEMS",
+        "RESOU_RCE_SHARING_WEB",
+        "CHALLENGES",
+        "SYSTEM_MODELS",
+        "ARCHITECTURAL_FUNDAMENTAL_MODELS",
+        "NETWORKING_INTERNETWORKING",
+        "INTERPROCESS_COMMUNICATION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "OPERATING_SYSTEM_SUPPORT",
+        "OS_LAYER",
+        "PROTECTION",
+        "PROCESSES_THREADS",
+        "COMMUNICATION_INVOCATION",
+        "OPERATING_SYSTEM_ARCHITECTURE",
+        "DISTRIBUTED_FILE_SYSTEMS",
+        "FILE_SERVICE_ARCHITECTURE"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "PEER_PEER_SYSTEMS",
+        "NAPSTER_LEGACY",
+        "PEER_PEER_MIDDLEWARE",
+        "ROUTING_OVERLAYS",
+        "OVERLAY_CASE_STUDIES_PASTRY",
+        "TAPESTRY",
+        "APPLICATION_CASE_STUDIES_SQUIRREL",
+        "OCEANSTORE"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "TRANSACTIONS_CONCURRENCY_CONTROL",
+        "TRANSACTIONS",
+        "NESTED_TRANSACTIONS",
+        "LOCKS",
+        "OPTIMISTIC_CONCURRENCY_CONTROL",
+        "TIME_STAMP_ORDERING",
+        "DISTRIBUTED_TRANSACTIONS",
+        "FLAT_NESTED_DISTRIBUTED_TRANSACTIONS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "REPLICATION",
+        "SYST_EM_MODEL_GROUP",
+        "FAULT_TOLERANT_SERVICES",
+        "TRANSACTIONS_REPLICATED_DATA",
+        "DISTRIBUTED_SHARED_MEMORY",
+        "DESIGN_IMPLEMENTATION_ISSUES",
+        "CONSISTENCY_MODELS",
+        "R18_B"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "CHARACTERIZATION_DISTRIBUTED_SYSTEMS": [
+      "characterization distributed systems",
+      "characterization",
+      "distributed",
+      "systems"
+    ],
+    "DISTRIBUTED_SYSTEMS": [
+      "distributed systems",
+      "distributed",
+      "systems"
+    ],
+    "RESOU_RCE_SHARING_WEB": [
+      "resou rce sharing web",
+      "resou",
+      "sharing"
+    ],
+    "CHALLENGES": [
+      "challenges",
+      "challenges"
+    ],
+    "SYSTEM_MODELS": [
+      "system models",
+      "system",
+      "models"
+    ],
+    "ARCHITECTURAL_FUNDAMENTAL_MODELS": [
+      "architectural fundamental models",
+      "architectural",
+      "fundamental",
+      "models"
+    ],
+    "NETWORKING_INTERNETWORKING": [
+      "networking internetworking",
+      "networking",
+      "internetworking"
+    ],
+    "INTERPROCESS_COMMUNICATION": [
+      "interprocess communication",
+      "interprocess",
+      "communication"
+    ],
+    "OPERATING_SYSTEM_SUPPORT": [
+      "operating system support",
+      "operating",
+      "system",
+      "support"
+    ],
+    "OS_LAYER": [
+      "os layer",
+      "layer"
+    ],
+    "PROTECTION": [
+      "protection",
+      "protection"
+    ],
+    "PROCESSES_THREADS": [
+      "processes threads",
+      "processes",
+      "threads"
+    ],
+    "COMMUNICATION_INVOCATION": [
+      "communication invocation",
+      "communication",
+      "invocation"
+    ],
+    "OPERATING_SYSTEM_ARCHITECTURE": [
+      "operating system architecture",
+      "operating",
+      "system",
+      "architecture"
+    ],
+    "DISTRIBUTED_FILE_SYSTEMS": [
+      "distributed file systems",
+      "distributed",
+      "file",
+      "systems"
+    ],
+    "FILE_SERVICE_ARCHITECTURE": [
+      "file service architecture",
+      "file",
+      "service",
+      "architecture"
+    ],
+    "PEER_PEER_SYSTEMS": [
+      "peer peer systems",
+      "peer",
+      "peer",
+      "systems"
+    ],
+    "NAPSTER_LEGACY": [
+      "napster legacy",
+      "napster",
+      "legacy"
+    ],
+    "PEER_PEER_MIDDLEWARE": [
+      "peer peer middleware",
+      "peer",
+      "peer",
+      "middleware"
+    ],
+    "ROUTING_OVERLAYS": [
+      "routing overlays",
+      "routing",
+      "overlays"
+    ],
+    "OVERLAY_CASE_STUDIES_PASTRY": [
+      "overlay case studies pastry",
+      "overlay",
+      "case",
+      "studies",
+      "pastry"
+    ],
+    "TAPESTRY": [
+      "tapestry",
+      "tapestry"
+    ],
+    "APPLICATION_CASE_STUDIES_SQUIRREL": [
+      "application case studies squirrel",
+      "application",
+      "case",
+      "studies",
+      "squirrel"
+    ],
+    "OCEANSTORE": [
+      "oceanstore",
+      "oceanstore"
+    ],
+    "TRANSACTIONS_CONCURRENCY_CONTROL": [
+      "transactions concurrency control",
+      "transactions",
+      "concurrency",
+      "control"
+    ],
+    "TRANSACTIONS": [
+      "transactions",
+      "transactions"
+    ],
+    "NESTED_TRANSACTIONS": [
+      "nested transactions",
+      "nested",
+      "transactions"
+    ],
+    "LOCKS": [
+      "locks",
+      "locks"
+    ],
+    "OPTIMISTIC_CONCURRENCY_CONTROL": [
+      "optimistic concurrency control",
+      "optimistic",
+      "concurrency",
+      "control"
+    ],
+    "TIME_STAMP_ORDERING": [
+      "time stamp ordering",
+      "time",
+      "stamp",
+      "ordering"
+    ],
+    "DISTRIBUTED_TRANSACTIONS": [
+      "distributed transactions",
+      "distributed",
+      "transactions"
+    ],
+    "FLAT_NESTED_DISTRIBUTED_TRANSACTIONS": [
+      "flat nested distributed transactions",
+      "flat",
+      "nested",
+      "distributed",
+      "transactions"
+    ],
+    "REPLICATION": [
+      "replication",
+      "replication"
+    ],
+    "SYST_EM_MODEL_GROUP": [
+      "syst em model group",
+      "syst",
+      "model",
+      "group"
+    ],
+    "FAULT_TOLERANT_SERVICES": [
+      "fault tolerant services",
+      "fault",
+      "tolerant",
+      "services"
+    ],
+    "TRANSACTIONS_REPLICATED_DATA": [
+      "transactions replicated data",
+      "transactions",
+      "replicated",
+      "data"
+    ],
+    "DISTRIBUTED_SHARED_MEMORY": [
+      "distributed shared memory",
+      "distributed",
+      "shared",
+      "memory"
+    ],
+    "DESIGN_IMPLEMENTATION_ISSUES": [
+      "design implementation issues",
+      "design",
+      "implementation",
+      "issues"
+    ],
+    "CONSISTENCY_MODELS": [
+      "consistency models",
+      "consistency",
+      "models"
+    ],
+    "R18_B": [
+      "r18 b"
+    ]
+  },
+  "syllabus_section": "DISTRIBUTED SYSTEMS"
+}

@@ -1,0 +1,59 @@
+{
+  "subject_name": "Software Testing Methodologies",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "COURSE_SOFTWARE_ENGINEERING_COURSE",
+        "PROVIDE_KNOWLEDGE_SOFTWARE_TESTING",
+        "CRITERIA",
+        "STRATEGIES",
+        "METHODOLOGIES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "COURSE_SOFTWARE_ENGINEERING_COURSE": [
+      "course software engineering course",
+      "course",
+      "software",
+      "engineering",
+      "course"
+    ],
+    "PROVIDE_KNOWLEDGE_SOFTWARE_TESTING": [
+      "provide knowledge software testing",
+      "provide",
+      "knowledge",
+      "software",
+      "testing"
+    ],
+    "CRITERIA": [
+      "criteria",
+      "criteria"
+    ],
+    "STRATEGIES": [
+      "strategies",
+      "strategies"
+    ],
+    "METHODOLOGIES": [
+      "methodologies",
+      "methodologies"
+    ]
+  },
+  "syllabus_section": "SOFTWARE TESTING METHODOLOGIES"
+}

@@ -1,0 +1,65 @@
+{
+  "subject_name": "Industrial Management",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH_II_YEAR_II",
+        "L_T_P_C",
+        "COURSE_DATA_STRUCTURES",
+        "COURSE",
+        "UNDERSTAND_APPLICATIONS_DATABASE_SYSTEMS",
+        "MASTER_BASICS_SQL_CONSTRUCT",
+        "TOPICS_INCLUDE_DATA_MODELS",
+        "DATABASE_DESIGN"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH_II_YEAR_II": [
+      "tech ii year ii",
+      "tech",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "COURSE_DATA_STRUCTURES": [
+      "course data structures",
+      "course",
+      "data",
+      "structures"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ],
+    "UNDERSTAND_APPLICATIONS_DATABASE_SYSTEMS": [
+      "understand applications database systems",
+      "understand",
+      "applications",
+      "database",
+      "systems"
+    ],
+    "MASTER_BASICS_SQL_CONSTRUCT": [
+      "master basics sql construct",
+      "master",
+      "basics",
+      "construct"
+    ],
+    "TOPICS_INCLUDE_DATA_MODELS": [
+      "topics include data models",
+      "topics",
+      "include",
+      "data",
+      "models"
+    ],
+    "DATABASE_DESIGN": [
+      "database design",
+      "database",
+      "design"
+    ]
+  },
+  "syllabus_section": "DATABASE MANAGEMENT SYSTEMS"
+}

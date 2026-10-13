@@ -1,0 +1,306 @@
+{
+  "subject_name": "Advanced Operating Systems",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "ARCHITECTURES_DISTRIBUTED_SYSTEMS",
+        "SYSTEM_ARCHITECTURE_TYPES",
+        "DISTRIBUTED_OPERATING_SYSTEMS",
+        "ISSUES_DISTRIBUTED_OPERATING_SYSTEMS",
+        "COMMUNICATION_PRIMITIVES",
+        "THEORETICAL_FOUNDATIONS",
+        "INHERENT_LIMITATIONS_DISTRIBUTED_SYSTEM",
+        "LAMPORT_S_LOGICAL_CLOCKS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "DISTRIBUTED_MUTUAL_EXCLUSION",
+        "CLASSIFICATION_MUTUAL_EXCLUSION_ALGORITHMS",
+        "NON_TOKEN",
+        "BASED_ALGORITHMS",
+        "LAMPORT_S_ALGORITHM",
+        "RICART_AGRAWALA_ALGORITHM",
+        "MAEKAWA_S_ALGORITHM",
+        "TOKEN_BASED_ALGORITHMS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "DISTRIBUTED_DEADLOCK_DETECTION",
+        "PRELIMINARIES",
+        "DEADLOCK_HANDLING_STRATEGIES_DISTRIBUTED",
+        "ISSUES_DEADLOCK_DETECTION_RESOLUTION",
+        "CONTROL_ORGANIZATIONS_DISTRIBUTED_DEADLOCK",
+        "CENTRALIZED_DEADLOCK",
+        "DETECTION_ALGORITHMS",
+        "DISTRIBUTED_DEADLOCK_DETECTION_ALGORITHMS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "MULTIPROCESSOR_SYSTEM_ARCHITECTURES",
+        "MOTIVAT_ION_MULTIPROCESSOR_SYSTEMS",
+        "MULTIPROCESSOR_SYSTEM_ARCHITECTURES_MULTI",
+        "STRUCTURES_MULTIPROCESSOR_OPERATING_SYSTEMS",
+        "OPERATING_DESIGN_ISSUES",
+        "THREADS",
+        "PROCESS_SYNCHRONIZATION",
+        "PROCESSOR_SCHEDULING"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "DISTRIBUTED_SCHEDULING",
+        "ISSUES_LOAD_DISTRIBUTING",
+        "COMPONENTS_LOAD_DISTRIBUTED_ALGORITHM",
+        "STABILITY",
+        "LOAD_DISTRIBUTING_ALGORITHMS",
+        "REQUIREMENTS_LOAD_DISTRIBUTING",
+        "TASK_MIGRATION",
+        "ISSUES_TASK_MIGRATION_DISTRIBUTED"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ARCHITECTURES_DISTRIBUTED_SYSTEMS": [
+      "architectures distributed systems",
+      "architectures",
+      "distributed",
+      "systems"
+    ],
+    "SYSTEM_ARCHITECTURE_TYPES": [
+      "system architecture types",
+      "system",
+      "architecture",
+      "types"
+    ],
+    "DISTRIBUTED_OPERATING_SYSTEMS": [
+      "distributed operating systems",
+      "distributed",
+      "operating",
+      "systems"
+    ],
+    "ISSUES_DISTRIBUTED_OPERATING_SYSTEMS": [
+      "issues distributed operating systems",
+      "issues",
+      "distributed",
+      "operating",
+      "systems"
+    ],
+    "COMMUNICATION_PRIMITIVES": [
+      "communication primitives",
+      "communication",
+      "primitives"
+    ],
+    "THEORETICAL_FOUNDATIONS": [
+      "theoretical foundations",
+      "theoretical",
+      "foundations"
+    ],
+    "INHERENT_LIMITATIONS_DISTRIBUTED_SYSTEM": [
+      "inherent limitations distributed system",
+      "inherent",
+      "limitations",
+      "distributed",
+      "system"
+    ],
+    "LAMPORT_S_LOGICAL_CLOCKS": [
+      "lamport s logical clocks",
+      "lamport",
+      "logical",
+      "clocks"
+    ],
+    "DISTRIBUTED_MUTUAL_EXCLUSION": [
+      "distributed mutual exclusion",
+      "distributed",
+      "mutual",
+      "exclusion"
+    ],
+    "CLASSIFICATION_MUTUAL_EXCLUSION_ALGORITHMS": [
+      "classification mutual exclusion algorithms",
+      "classification",
+      "mutual",
+      "exclusion",
+      "algorithms"
+    ],
+    "NON_TOKEN": [
+      "non token",
+      "token"
+    ],
+    "BASED_ALGORITHMS": [
+      "based algorithms",
+      "based",
+      "algorithms"
+    ],
+    "LAMPORT_S_ALGORITHM": [
+      "lamport s algorithm",
+      "lamport",
+      "algorithm"
+    ],
+    "RICART_AGRAWALA_ALGORITHM": [
+      "ricart agrawala algorithm",
+      "ricart",
+      "agrawala",
+      "algorithm"
+    ],
+    "MAEKAWA_S_ALGORITHM": [
+      "maekawa s algorithm",
+      "maekawa",
+      "algorithm"
+    ],
+    "TOKEN_BASED_ALGORITHMS": [
+      "token based algorithms",
+      "token",
+      "based",
+      "algorithms"
+    ],
+    "DISTRIBUTED_DEADLOCK_DETECTION": [
+      "distributed deadlock detection",
+      "distributed",
+      "deadlock",
+      "detection"
+    ],
+    "PRELIMINARIES": [
+      "preliminaries",
+      "preliminaries"
+    ],
+    "DEADLOCK_HANDLING_STRATEGIES_DISTRIBUTED": [
+      "deadlock handling strategies distributed",
+      "deadlock",
+      "handling",
+      "strategies",
+      "distributed"
+    ],
+    "ISSUES_DEADLOCK_DETECTION_RESOLUTION": [
+      "issues deadlock detection resolution",
+      "issues",
+      "deadlock",
+      "detection",
+      "resolution"
+    ],
+    "CONTROL_ORGANIZATIONS_DISTRIBUTED_DEADLOCK": [
+      "control organizations distributed deadlock",
+      "control",
+      "organizations",
+      "distributed",
+      "deadlock"
+    ],
+    "CENTRALIZED_DEADLOCK": [
+      "centralized deadlock",
+      "centralized",
+      "deadlock"
+    ],
+    "DETECTION_ALGORITHMS": [
+      "detection algorithms",
+      "detection",
+      "algorithms"
+    ],
+    "DISTRIBUTED_DEADLOCK_DETECTION_ALGORITHMS": [
+      "distributed deadlock detection algorithms",
+      "distributed",
+      "deadlock",
+      "detection",
+      "algorithms"
+    ],
+    "MULTIPROCESSOR_SYSTEM_ARCHITECTURES": [
+      "multiprocessor system architectures",
+      "multiprocessor",
+      "system",
+      "architectures"
+    ],
+    "MOTIVAT_ION_MULTIPROCESSOR_SYSTEMS": [
+      "motivat ion multiprocessor systems",
+      "motivat",
+      "multiprocessor",
+      "systems"
+    ],
+    "MULTIPROCESSOR_SYSTEM_ARCHITECTURES_MULTI": [
+      "multiprocessor system architectures multi",
+      "multiprocessor",
+      "system",
+      "architectures",
+      "multi"
+    ],
+    "STRUCTURES_MULTIPROCESSOR_OPERATING_SYSTEMS": [
+      "structures multiprocessor operating systems",
+      "structures",
+      "multiprocessor",
+      "operating",
+      "systems"
+    ],
+    "OPERATING_DESIGN_ISSUES": [
+      "operating design issues",
+      "operating",
+      "design",
+      "issues"
+    ],
+    "THREADS": [
+      "threads",
+      "threads"
+    ],
+    "PROCESS_SYNCHRONIZATION": [
+      "process synchronization",
+      "process",
+      "synchronization"
+    ],
+    "PROCESSOR_SCHEDULING": [
+      "processor scheduling",
+      "processor",
+      "scheduling"
+    ],
+    "DISTRIBUTED_SCHEDULING": [
+      "distributed scheduling",
+      "distributed",
+      "scheduling"
+    ],
+    "ISSUES_LOAD_DISTRIBUTING": [
+      "issues load distributing",
+      "issues",
+      "load",
+      "distributing"
+    ],
+    "COMPONENTS_LOAD_DISTRIBUTED_ALGORITHM": [
+      "components load distributed algorithm",
+      "components",
+      "load",
+      "distributed",
+      "algorithm"
+    ],
+    "STABILITY": [
+      "stability",
+      "stability"
+    ],
+    "LOAD_DISTRIBUTING_ALGORITHMS": [
+      "load distributing algorithms",
+      "load",
+      "distributing",
+      "algorithms"
+    ],
+    "REQUIREMENTS_LOAD_DISTRIBUTING": [
+      "requirements load distributing",
+      "requirements",
+      "load",
+      "distributing"
+    ],
+    "TASK_MIGRATION": [
+      "task migration",
+      "task",
+      "migration"
+    ],
+    "ISSUES_TASK_MIGRATION_DISTRIBUTED": [
+      "issues task migration distributed",
+      "issues",
+      "task",
+      "migration",
+      "distributed"
+    ]
+  },
+  "syllabus_section": "ADVANCED OPERATING SYSTEMS"
+}

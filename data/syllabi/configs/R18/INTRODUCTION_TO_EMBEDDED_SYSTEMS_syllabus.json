@@ -1,0 +1,65 @@
+{
+  "subject_name": "Introduction To Embedded Systems",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COURSE_DIGITAL_LOGIC_DESIGN",
+        "COURSE_COMPUTER_ORGANIZATION_ARCHITECTURE",
+        "PROVIDE_OVERVIEW_PRINCIPLES_EMBEDDED",
+        "OPERATING_SYSTEMS_CORRELATION_HARDWARE",
+        "COURSE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COURSE_DIGITAL_LOGIC_DESIGN": [
+      "course digital logic design",
+      "course",
+      "digital",
+      "logic",
+      "design"
+    ],
+    "COURSE_COMPUTER_ORGANIZATION_ARCHITECTURE": [
+      "course computer organization architecture",
+      "course",
+      "computer",
+      "organization",
+      "architecture"
+    ],
+    "PROVIDE_OVERVIEW_PRINCIPLES_EMBEDDED": [
+      "provide overview principles embedded",
+      "provide",
+      "overview",
+      "principles",
+      "embedded"
+    ],
+    "OPERATING_SYSTEMS_CORRELATION_HARDWARE": [
+      "operating systems correlation hardware",
+      "operating",
+      "systems",
+      "correlation",
+      "hardware"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ]
+  },
+  "syllabus_section": "INTRODUCTION TO EMBEDDED SYSTEMS"
+}

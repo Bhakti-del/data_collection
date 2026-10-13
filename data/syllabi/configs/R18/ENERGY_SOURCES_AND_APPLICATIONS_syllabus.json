@@ -1,0 +1,17 @@
+{
+  "subject_name": "Energy Sources And Applications",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "ENERGY_SOURCES_AND_APPLICATIONS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ENERGY_SOURCES_AND_APPLICATIONS": [
+      "energy sources and applications"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "subject_name": "Advanced Algorithms",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COURSE_COMPUTER_PROGRAMMING_DATA",
+        "COURSE_ADVANCED_DATA_STRUCTURES",
+        "INTRODUCES_RECURRENCE_RELATIONS_ANALYZING",
+        "DESCRIBES_MAJOR_ALGORITHMIC_TECHNIQUES",
+        "DIVIDE_CONQUER"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COURSE_COMPUTER_PROGRAMMING_DATA": [
+      "course computer programming data",
+      "course",
+      "computer",
+      "programming",
+      "data"
+    ],
+    "COURSE_ADVANCED_DATA_STRUCTURES": [
+      "course advanced data structures",
+      "course",
+      "advanced",
+      "data",
+      "structures"
+    ],
+    "INTRODUCES_RECURRENCE_RELATIONS_ANALYZING": [
+      "introduces recurrence relations analyzing",
+      "introduces",
+      "recurrence",
+      "relations",
+      "analyzing"
+    ],
+    "DESCRIBES_MAJOR_ALGORITHMIC_TECHNIQUES": [
+      "describes major algorithmic techniques",
+      "describes",
+      "major",
+      "algorithmic",
+      "techniques"
+    ],
+    "DIVIDE_CONQUER": [
+      "divide conquer",
+      "divide",
+      "conquer"
+    ]
+  },
+  "syllabus_section": "ADVANCED ALGORITHMS"
+}

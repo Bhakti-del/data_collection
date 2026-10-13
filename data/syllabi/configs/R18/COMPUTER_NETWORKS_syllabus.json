@@ -1,0 +1,252 @@
+{
+  "subject_name": "Computer Networks",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "NETWORK_HARDWARE",
+        "NETWORK_SOFTWARE",
+        "IP_MODELS",
+        "NETWORKS",
+        "ARPANET",
+        "INTERNET",
+        "PHYSICAL_LAYER",
+        "GUIDED_TRANSMISSION_MEDIA"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "DATA_LINK_LAYER",
+        "DESIGN_ISSUES",
+        "FRAMING",
+        "ERROR_DETECTION_CORRECTION",
+        "ELEMENTARY_DATA_LINK_PROTOCOLS",
+        "SIMPLEX_PROTOCOL",
+        "SIMPLEX_STOP_WAIT_PROTOCOL",
+        "SLIDING_WINDOW_PROTOCOLS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "NETWORK_LAYER",
+        "DESIGN_ISSUES",
+        "ROUTING_ALGORITHMS",
+        "SHORTEST_PATH_ROUTING",
+        "FLOODING",
+        "HIERARCHICAL_ROUTING",
+        "BROADCAST",
+        "MULTICAST"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "TRANSPORT_LAYER",
+        "TRANSPORT_SERVICES",
+        "ELEMENTS_TRANSPORT_PROTOCOLS",
+        "CONNECTION_MANAGEMENT",
+        "TCP_UDP_PROTOCOLS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "APPLICATION_LAYER_DOMAIN_NAME",
+        "SNMP",
+        "ELECTRONIC_MAIL",
+        "WORLD_WEB",
+        "HTTP",
+        "STREAMING_AUDIO_VIDEO",
+        "BOOK",
+        "COMPUTER_NETWORKS_ANDREW_S"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "NETWORK_HARDWARE": [
+      "network hardware",
+      "network",
+      "hardware"
+    ],
+    "NETWORK_SOFTWARE": [
+      "network software",
+      "network",
+      "software"
+    ],
+    "IP_MODELS": [
+      "ip models",
+      "models"
+    ],
+    "NETWORKS": [
+      "networks",
+      "networks"
+    ],
+    "ARPANET": [
+      "arpanet",
+      "arpanet"
+    ],
+    "INTERNET": [
+      "internet",
+      "internet"
+    ],
+    "PHYSICAL_LAYER": [
+      "physical layer",
+      "physical",
+      "layer"
+    ],
+    "GUIDED_TRANSMISSION_MEDIA": [
+      "guided transmission media",
+      "guided",
+      "transmission",
+      "media"
+    ],
+    "DATA_LINK_LAYER": [
+      "data link layer",
+      "data",
+      "link",
+      "layer"
+    ],
+    "DESIGN_ISSUES": [
+      "design issues",
+      "design",
+      "issues"
+    ],
+    "FRAMING": [
+      "framing",
+      "framing"
+    ],
+    "ERROR_DETECTION_CORRECTION": [
+      "error detection correction",
+      "error",
+      "detection",
+      "correction"
+    ],
+    "ELEMENTARY_DATA_LINK_PROTOCOLS": [
+      "elementary data link protocols",
+      "elementary",
+      "data",
+      "link",
+      "protocols"
+    ],
+    "SIMPLEX_PROTOCOL": [
+      "simplex protocol",
+      "simplex",
+      "protocol"
+    ],
+    "SIMPLEX_STOP_WAIT_PROTOCOL": [
+      "simplex stop wait protocol",
+      "simplex",
+      "stop",
+      "wait",
+      "protocol"
+    ],
+    "SLIDING_WINDOW_PROTOCOLS": [
+      "sliding window protocols",
+      "sliding",
+      "window",
+      "protocols"
+    ],
+    "NETWORK_LAYER": [
+      "network layer",
+      "network",
+      "layer"
+    ],
+    "ROUTING_ALGORITHMS": [
+      "routing algorithms",
+      "routing",
+      "algorithms"
+    ],
+    "SHORTEST_PATH_ROUTING": [
+      "shortest path routing",
+      "shortest",
+      "path",
+      "routing"
+    ],
+    "FLOODING": [
+      "flooding",
+      "flooding"
+    ],
+    "HIERARCHICAL_ROUTING": [
+      "hierarchical routing",
+      "hierarchical",
+      "routing"
+    ],
+    "BROADCAST": [
+      "broadcast",
+      "broadcast"
+    ],
+    "MULTICAST": [
+      "multicast",
+      "multicast"
+    ],
+    "TRANSPORT_LAYER": [
+      "transport layer",
+      "transport",
+      "layer"
+    ],
+    "TRANSPORT_SERVICES": [
+      "transport services",
+      "transport",
+      "services"
+    ],
+    "ELEMENTS_TRANSPORT_PROTOCOLS": [
+      "elements transport protocols",
+      "elements",
+      "transport",
+      "protocols"
+    ],
+    "CONNECTION_MANAGEMENT": [
+      "connection management",
+      "connection",
+      "management"
+    ],
+    "TCP_UDP_PROTOCOLS": [
+      "tcp udp protocols",
+      "protocols"
+    ],
+    "APPLICATION_LAYER_DOMAIN_NAME": [
+      "application layer domain name",
+      "application",
+      "layer",
+      "domain",
+      "name"
+    ],
+    "SNMP": [
+      "snmp",
+      "snmp"
+    ],
+    "ELECTRONIC_MAIL": [
+      "electronic mail",
+      "electronic",
+      "mail"
+    ],
+    "WORLD_WEB": [
+      "world web",
+      "world"
+    ],
+    "HTTP": [
+      "http",
+      "http"
+    ],
+    "STREAMING_AUDIO_VIDEO": [
+      "streaming audio video",
+      "streaming",
+      "audio",
+      "video"
+    ],
+    "BOOK": [
+      "book",
+      "book"
+    ],
+    "COMPUTER_NETWORKS_ANDREW_S": [
+      "computer networks andrew s",
+      "computer",
+      "networks",
+      "andrew"
+    ]
+  },
+  "syllabus_section": "COMPUTER NETWORKS"
+}

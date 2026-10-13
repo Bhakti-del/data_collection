@@ -1,0 +1,304 @@
+{
+  "subject_name": "Machine Learning",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "WELL_POSED_LEARNING_PROBLEMS",
+        "DESIGNING_LEARNING_SYSTEM",
+        "PERSPECTIVES_ISSUES_MACHINE_LEARNING",
+        "LEARNING_TASK",
+        "LEARNING_SEARCH",
+        "FIND_S",
+        "FINDING_MAXIMALLY_SPECIFIC_HYPOTHESIS",
+        "VERSION_SPACES_CANDIDATE_ELIMINATION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "ARTIFICIAL_NEURAL_NETWORKS",
+        "NEURAL_NETWORK_REPRESENTATION",
+        "APPROPRIATE_PROBLEMS_NEURAL_NETWORK",
+        "PERCEPTIONS",
+        "MULTILAYER_NETWORKS_BACK_PROPAGATION",
+        "ARTIFICIAL_NEURAL_NETWORKS_REMARKS",
+        "ILLUSTRATIVE",
+        "FACE_RECOGNITION"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "BAYESIAN_LEARNING",
+        "BAYES_THEOREM",
+        "BA_YES_THEOREM_LEARNING",
+        "MAXIMUM_LIKELIHOOD_LEAST_SQUARED",
+        "MAXIMUM_LIKELIHOOD_HYPOTHESES_PREDICTING",
+        "MINIMUM_DESCRIPTION_LENGTH_PRINCIPLE",
+        "BAYES_OPTIMAL_CLASSIFIER",
+        "GIBS_ALGORITHM"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "GENETIC_ALGORITHMS",
+        "MOTIVATION",
+        "ILLUSTRATIVE",
+        "HYPOTHESIS_SPACE_SEARCH",
+        "GENETIC_PROGRAMMING",
+        "MODELS_EVOLUTION_LEARNING",
+        "PARALLELIZING_GENETIC_ALGORITHMS",
+        "LEARNING_SETS_RULES"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "ANALYTICAL_LEARNING",
+        "LEARNING_PERFECT_DOMAIN_THEORIES",
+        "PROLOG_EBG",
+        "REMARKS_EXPLANATION_BASED_LEARNING",
+        "EXPLANATION_BASED_LEARNING_SEARCH",
+        "ANALYTICAL_LEARNING_PRIOR_KNOWLEDGE",
+        "PRIOR_KNOWLEDGE_AUGMENT_SEARCH",
+        "COMBINING_INDUCTIVE_ANALYTICAL_LEARNING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "WELL_POSED_LEARNING_PROBLEMS": [
+      "well posed learning problems",
+      "well",
+      "posed",
+      "learning",
+      "problems"
+    ],
+    "DESIGNING_LEARNING_SYSTEM": [
+      "designing learning system",
+      "designing",
+      "learning",
+      "system"
+    ],
+    "PERSPECTIVES_ISSUES_MACHINE_LEARNING": [
+      "perspectives issues machine learning",
+      "perspectives",
+      "issues",
+      "machine",
+      "learning"
+    ],
+    "LEARNING_TASK": [
+      "learning task",
+      "learning",
+      "task"
+    ],
+    "LEARNING_SEARCH": [
+      "learning search",
+      "learning",
+      "search"
+    ],
+    "FIND_S": [
+      "find s",
+      "find"
+    ],
+    "FINDING_MAXIMALLY_SPECIFIC_HYPOTHESIS": [
+      "finding maximally specific hypothesis",
+      "finding",
+      "maximally",
+      "specific",
+      "hypothesis"
+    ],
+    "VERSION_SPACES_CANDIDATE_ELIMINATION": [
+      "version spaces candidate elimination",
+      "version",
+      "spaces",
+      "candidate",
+      "elimination"
+    ],
+    "ARTIFICIAL_NEURAL_NETWORKS": [
+      "artificial neural networks",
+      "artificial",
+      "neural",
+      "networks"
+    ],
+    "NEURAL_NETWORK_REPRESENTATION": [
+      "neural network representation",
+      "neural",
+      "network",
+      "representation"
+    ],
+    "APPROPRIATE_PROBLEMS_NEURAL_NETWORK": [
+      "appropriate problems neural network",
+      "appropriate",
+      "problems",
+      "neural",
+      "network"
+    ],
+    "PERCEPTIONS": [
+      "perceptions",
+      "perceptions"
+    ],
+    "MULTILAYER_NETWORKS_BACK_PROPAGATION": [
+      "multilayer networks back propagation",
+      "multilayer",
+      "networks",
+      "back",
+      "propagation"
+    ],
+    "ARTIFICIAL_NEURAL_NETWORKS_REMARKS": [
+      "artificial neural networks remarks",
+      "artificial",
+      "neural",
+      "networks",
+      "remarks"
+    ],
+    "ILLUSTRATIVE": [
+      "illustrative",
+      "illustrative"
+    ],
+    "FACE_RECOGNITION": [
+      "face recognition",
+      "face",
+      "recognition"
+    ],
+    "BAYESIAN_LEARNING": [
+      "bayesian learning",
+      "bayesian",
+      "learning"
+    ],
+    "BAYES_THEOREM": [
+      "bayes theorem",
+      "bayes",
+      "theorem"
+    ],
+    "BA_YES_THEOREM_LEARNING": [
+      "ba yes theorem learning",
+      "theorem",
+      "learning"
+    ],
+    "MAXIMUM_LIKELIHOOD_LEAST_SQUARED": [
+      "maximum likelihood least squared",
+      "maximum",
+      "likelihood",
+      "least",
+      "squared"
+    ],
+    "MAXIMUM_LIKELIHOOD_HYPOTHESES_PREDICTING": [
+      "maximum likelihood hypotheses predicting",
+      "maximum",
+      "likelihood",
+      "hypotheses",
+      "predicting"
+    ],
+    "MINIMUM_DESCRIPTION_LENGTH_PRINCIPLE": [
+      "minimum description length principle",
+      "minimum",
+      "description",
+      "length",
+      "principle"
+    ],
+    "BAYES_OPTIMAL_CLASSIFIER": [
+      "bayes optimal classifier",
+      "bayes",
+      "optimal",
+      "classifier"
+    ],
+    "GIBS_ALGORITHM": [
+      "gibs algorithm",
+      "gibs",
+      "algorithm"
+    ],
+    "GENETIC_ALGORITHMS": [
+      "genetic algorithms",
+      "genetic",
+      "algorithms"
+    ],
+    "MOTIVATION": [
+      "motivation",
+      "motivation"
+    ],
+    "HYPOTHESIS_SPACE_SEARCH": [
+      "hypothesis space search",
+      "hypothesis",
+      "space",
+      "search"
+    ],
+    "GENETIC_PROGRAMMING": [
+      "genetic programming",
+      "genetic",
+      "programming"
+    ],
+    "MODELS_EVOLUTION_LEARNING": [
+      "models evolution learning",
+      "models",
+      "evolution",
+      "learning"
+    ],
+    "PARALLELIZING_GENETIC_ALGORITHMS": [
+      "parallelizing genetic algorithms",
+      "parallelizing",
+      "genetic",
+      "algorithms"
+    ],
+    "LEARNING_SETS_RULES": [
+      "learning sets rules",
+      "learning",
+      "sets",
+      "rules"
+    ],
+    "ANALYTICAL_LEARNING": [
+      "analytical learning",
+      "analytical",
+      "learning"
+    ],
+    "LEARNING_PERFECT_DOMAIN_THEORIES": [
+      "learning perfect domain theories",
+      "learning",
+      "perfect",
+      "domain",
+      "theories"
+    ],
+    "PROLOG_EBG": [
+      "prolog ebg",
+      "prolog"
+    ],
+    "REMARKS_EXPLANATION_BASED_LEARNING": [
+      "remarks explanation based learning",
+      "remarks",
+      "explanation",
+      "based",
+      "learning"
+    ],
+    "EXPLANATION_BASED_LEARNING_SEARCH": [
+      "explanation based learning search",
+      "explanation",
+      "based",
+      "learning",
+      "search"
+    ],
+    "ANALYTICAL_LEARNING_PRIOR_KNOWLEDGE": [
+      "analytical learning prior knowledge",
+      "analytical",
+      "learning",
+      "prior",
+      "knowledge"
+    ],
+    "PRIOR_KNOWLEDGE_AUGMENT_SEARCH": [
+      "prior knowledge augment search",
+      "prior",
+      "knowledge",
+      "augment",
+      "search"
+    ],
+    "COMBINING_INDUCTIVE_ANALYTICAL_LEARNING": [
+      "combining inductive analytical learning",
+      "combining",
+      "inductive",
+      "analytical",
+      "learning"
+    ]
+  },
+  "syllabus_section": "MACHINE LEARNING"
+}

@@ -1,0 +1,51 @@
+{
+  "subject_name": "Concurrent Programming",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "COURSE_OPERATING_SYSTEMS",
+        "COURSE_JAVA_PROGRAMMING_COURSE",
+        "EXPLORE_ABSTRACTIONS_CONCURRENT_PROGRAMMING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "COURSE_OPERATING_SYSTEMS": [
+      "course operating systems",
+      "course",
+      "operating",
+      "systems"
+    ],
+    "COURSE_JAVA_PROGRAMMING_COURSE": [
+      "course java programming course",
+      "course",
+      "java",
+      "programming",
+      "course"
+    ],
+    "EXPLORE_ABSTRACTIONS_CONCURRENT_PROGRAMMING": [
+      "explore abstractions concurrent programming",
+      "explore",
+      "abstractions",
+      "concurrent",
+      "programming"
+    ]
+  },
+  "syllabus_section": "CONCURRENT PROGRAMMING"
+}

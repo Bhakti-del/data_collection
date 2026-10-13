@@ -1,0 +1,62 @@
+{
+  "subject_name": "English",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_II_SEM",
+        "L_T_P_C",
+        "SYLLABUS_ENGLISH_HAS_BEEN",
+        "COMMUNICATIVE_CRITICAL_THINKING_COMPETENCIES",
+        "ENGLISH_CLASSES",
+        "FOCUS_SHOULD_SKILLS_DEVELOPMENT",
+        "GRAMMAR"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_II_SEM": [
+      "i year ii sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "SYLLABUS_ENGLISH_HAS_BEEN": [
+      "syllabus english has been",
+      "syllabus",
+      "english",
+      "been"
+    ],
+    "COMMUNICATIVE_CRITICAL_THINKING_COMPETENCIES": [
+      "communicative critical thinking competencies",
+      "communicative",
+      "critical",
+      "thinking",
+      "competencies"
+    ],
+    "ENGLISH_CLASSES": [
+      "english classes",
+      "english",
+      "classes"
+    ],
+    "FOCUS_SHOULD_SKILLS_DEVELOPMENT": [
+      "focus should skills development",
+      "focus",
+      "should",
+      "skills",
+      "development"
+    ],
+    "GRAMMAR": [
+      "grammar",
+      "grammar"
+    ]
+  },
+  "syllabus_section": "ENGLISH"
+}

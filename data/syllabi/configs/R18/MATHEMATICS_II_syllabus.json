@@ -1,0 +1,52 @@
+{
+  "subject_name": "Mathematics-Ii",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_II_SEM",
+        "L_T_P_C",
+        "LEARN_METHODS_SOLVING_DIFFERENTIAL",
+        "EVALUATION_MULTIPLE_INTEGRALS_APPLICATIONS",
+        "SURFACE_VOLUME_INTEGRALS_COURSE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_II_SEM": [
+      "i year ii sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "LEARN_METHODS_SOLVING_DIFFERENTIAL": [
+      "learn methods solving differential",
+      "learn",
+      "methods",
+      "solving",
+      "differential"
+    ],
+    "EVALUATION_MULTIPLE_INTEGRALS_APPLICATIONS": [
+      "evaluation multiple integrals applications",
+      "evaluation",
+      "multiple",
+      "integrals",
+      "applications"
+    ],
+    "SURFACE_VOLUME_INTEGRALS_COURSE": [
+      "surface volume integrals course",
+      "surface",
+      "volume",
+      "integrals",
+      "course"
+    ]
+  },
+  "syllabus_section": "MATHEMATICS - II"
+}

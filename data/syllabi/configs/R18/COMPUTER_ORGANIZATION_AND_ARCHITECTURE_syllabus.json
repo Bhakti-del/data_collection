@@ -1,0 +1,64 @@
+{
+  "subject_name": "Computer Organization And Architecture",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH_II_YEAR_I",
+        "L_T_P_C",
+        "COURSE_DIGITAL_LOGIC_DESIGN",
+        "COURSE",
+        "PURPOSE_COURSE_INTRODUCE_PRINCIPLES",
+        "IT_BEGINS_ORGANIZATION",
+        "DESIGN",
+        "PROGRAMMING_DIGITAL_COMPUTER_INTRODUCES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH_II_YEAR_I": [
+      "tech ii year i",
+      "tech",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "COURSE_DIGITAL_LOGIC_DESIGN": [
+      "course digital logic design",
+      "course",
+      "digital",
+      "logic",
+      "design"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ],
+    "PURPOSE_COURSE_INTRODUCE_PRINCIPLES": [
+      "purpose course introduce principles",
+      "purpose",
+      "course",
+      "introduce",
+      "principles"
+    ],
+    "IT_BEGINS_ORGANIZATION": [
+      "it begins organization",
+      "begins",
+      "organization"
+    ],
+    "DESIGN": [
+      "design",
+      "design"
+    ],
+    "PROGRAMMING_DIGITAL_COMPUTER_INTRODUCES": [
+      "programming digital computer introduces",
+      "programming",
+      "digital",
+      "computer",
+      "introduces"
+    ]
+  },
+  "syllabus_section": "COMPUTER ORGANIZATION AND ARCHITECTURE"
+}

@@ -1,0 +1,17 @@
+{
+  "subject_name": "Environmental Impact Assessment",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "ENVIRONMENTAL_IMPACT_ASSESSMENT"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ENVIRONMENTAL_IMPACT_ASSESSMENT": [
+      "environmental impact assessment"
+    ]
+  }
+}

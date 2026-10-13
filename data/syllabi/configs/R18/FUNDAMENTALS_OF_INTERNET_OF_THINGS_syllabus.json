@@ -1,0 +1,62 @@
+{
+  "subject_name": "Fundamentals Of Internet Of Things",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "INTRODUCE_TERMINOLOGY",
+        "TECHNOLOGY_APPLICATIONS_INTRODUCE_M2M",
+        "MACHINE_MACHINE",
+        "NECESSARY_PROTOCOLS_INTRODUCE_PYTHON",
+        "WIDELY_IOT_APPLICATIONS_INTRODUCE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "INTRODUCE_TERMINOLOGY": [
+      "introduce terminology",
+      "introduce",
+      "terminology"
+    ],
+    "TECHNOLOGY_APPLICATIONS_INTRODUCE_M2M": [
+      "technology applications introduce m2m",
+      "technology",
+      "applications",
+      "introduce"
+    ],
+    "MACHINE_MACHINE": [
+      "machine machine",
+      "machine",
+      "machine"
+    ],
+    "NECESSARY_PROTOCOLS_INTRODUCE_PYTHON": [
+      "necessary protocols introduce python",
+      "necessary",
+      "protocols",
+      "introduce",
+      "python"
+    ],
+    "WIDELY_IOT_APPLICATIONS_INTRODUCE": [
+      "widely iot applications introduce",
+      "widely",
+      "applications",
+      "introduce"
+    ]
+  },
+  "syllabus_section": "INTERNET OF THINGS"
+}

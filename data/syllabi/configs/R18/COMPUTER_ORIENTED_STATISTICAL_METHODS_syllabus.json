@@ -1,0 +1,52 @@
+{
+  "subject_name": "Computer Oriented Statistical Methods",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH_II_YEAR_I",
+        "L_T_P_C",
+        "MATHEMATICS_COURSES_FIRST_YEAR",
+        "COURSE",
+        "LEARN_THEORY_PROBABILITY",
+        "PROBABILITY_DISTRIBUTIONS_SINGLE_MULTIPLE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH_II_YEAR_I": [
+      "tech ii year i",
+      "tech",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "MATHEMATICS_COURSES_FIRST_YEAR": [
+      "mathematics courses first year",
+      "mathematics",
+      "courses",
+      "first",
+      "year"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ],
+    "LEARN_THEORY_PROBABILITY": [
+      "learn theory probability",
+      "learn",
+      "theory",
+      "probability"
+    ],
+    "PROBABILITY_DISTRIBUTIONS_SINGLE_MULTIPLE": [
+      "probability distributions single multiple",
+      "probability",
+      "distributions",
+      "single",
+      "multiple"
+    ]
+  },
+  "syllabus_section": "COMPUTER ORIENTED STATISTICAL METHODS"
+}

@@ -1,0 +1,17 @@
+{
+  "subject_name": "Basics Of Power Plant Engineering",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "BASICS_OF_POWER_PLANT_ENGINEERING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "BASICS_OF_POWER_PLANT_ENGINEERING": [
+      "basics of power plant engineering"
+    ]
+  }
+}

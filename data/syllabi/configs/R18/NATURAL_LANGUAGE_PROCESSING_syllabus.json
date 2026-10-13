@@ -1,0 +1,221 @@
+{
+  "subject_name": "Natural Language Processing",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "FINDING_STRUCTURE_WORDS",
+        "WORDS_COMPONENTS",
+        "ISSUES_CHALLENGES",
+        "MORPHOLOGICAL_MODELS_FINDING_STRUCTURE",
+        "COMPLEXITY_APPROACHES",
+        "PERFORMANCES_APPROACHES"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "SYNTAX_ANALYSIS",
+        "PARSING_NATURAL_LANGUAGE",
+        "TREEBANKS",
+        "DATA_DRIVEN_APPROACH_SYNTAX",
+        "REPRESENTATION_SYNTACTIC_STRUCTURE",
+        "PARSING_ALGORITHMS",
+        "MODELS_AMBIGUITY_RESOLUTION_PARSING",
+        "MULTILINGUAL_ISSUES"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "SEMANTIC_PARSING",
+        "SEMANTIC_INTERPRETATION",
+        "SYSTEM_PARADIGMS",
+        "WORD_SENSE_SYSTEMS",
+        "SOFTWARE"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "PREDICATE_ARGUMENT_STRUCTURE",
+        "MEANING_REPRESENTATION_SYSTEMS",
+        "SOFTWARE"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "DISCOURSE_PROCESSING",
+        "COHENSION",
+        "RESOLUTION",
+        "DISCOURSE_COHENSION_STRUCTURE_LANGUAGE",
+        "N_GRAM_MODELS",
+        "LANGUAGE_MODEL_EVALUATION",
+        "PARAMETER_ESTIMATION",
+        "LANGUAGE_MODEL_ADAPTATION"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "FINDING_STRUCTURE_WORDS": [
+      "finding structure words",
+      "finding",
+      "structure",
+      "words"
+    ],
+    "WORDS_COMPONENTS": [
+      "words components",
+      "words",
+      "components"
+    ],
+    "ISSUES_CHALLENGES": [
+      "issues challenges",
+      "issues",
+      "challenges"
+    ],
+    "MORPHOLOGICAL_MODELS_FINDING_STRUCTURE": [
+      "morphological models finding structure",
+      "morphological",
+      "models",
+      "finding",
+      "structure"
+    ],
+    "COMPLEXITY_APPROACHES": [
+      "complexity approaches",
+      "complexity",
+      "approaches"
+    ],
+    "PERFORMANCES_APPROACHES": [
+      "performances approaches",
+      "performances",
+      "approaches"
+    ],
+    "SYNTAX_ANALYSIS": [
+      "syntax analysis",
+      "syntax",
+      "analysis"
+    ],
+    "PARSING_NATURAL_LANGUAGE": [
+      "parsing natural language",
+      "parsing",
+      "natural",
+      "language"
+    ],
+    "TREEBANKS": [
+      "treebanks",
+      "treebanks"
+    ],
+    "DATA_DRIVEN_APPROACH_SYNTAX": [
+      "data driven approach syntax",
+      "data",
+      "driven",
+      "approach",
+      "syntax"
+    ],
+    "REPRESENTATION_SYNTACTIC_STRUCTURE": [
+      "representation syntactic structure",
+      "representation",
+      "syntactic",
+      "structure"
+    ],
+    "PARSING_ALGORITHMS": [
+      "parsing algorithms",
+      "parsing",
+      "algorithms"
+    ],
+    "MODELS_AMBIGUITY_RESOLUTION_PARSING": [
+      "models ambiguity resolution parsing",
+      "models",
+      "ambiguity",
+      "resolution",
+      "parsing"
+    ],
+    "MULTILINGUAL_ISSUES": [
+      "multilingual issues",
+      "multilingual",
+      "issues"
+    ],
+    "SEMANTIC_PARSING": [
+      "semantic parsing",
+      "semantic",
+      "parsing"
+    ],
+    "SEMANTIC_INTERPRETATION": [
+      "semantic interpretation",
+      "semantic",
+      "interpretation"
+    ],
+    "SYSTEM_PARADIGMS": [
+      "system paradigms",
+      "system",
+      "paradigms"
+    ],
+    "WORD_SENSE_SYSTEMS": [
+      "word sense systems",
+      "word",
+      "sense",
+      "systems"
+    ],
+    "SOFTWARE": [
+      "software",
+      "software"
+    ],
+    "PREDICATE_ARGUMENT_STRUCTURE": [
+      "predicate argument structure",
+      "predicate",
+      "argument",
+      "structure"
+    ],
+    "MEANING_REPRESENTATION_SYSTEMS": [
+      "meaning representation systems",
+      "meaning",
+      "representation",
+      "systems"
+    ],
+    "DISCOURSE_PROCESSING": [
+      "discourse processing",
+      "discourse",
+      "processing"
+    ],
+    "COHENSION": [
+      "cohension",
+      "cohension"
+    ],
+    "RESOLUTION": [
+      "resolution",
+      "resolution"
+    ],
+    "DISCOURSE_COHENSION_STRUCTURE_LANGUAGE": [
+      "discourse cohension structure language",
+      "discourse",
+      "cohension",
+      "structure",
+      "language"
+    ],
+    "N_GRAM_MODELS": [
+      "n gram models",
+      "gram",
+      "models"
+    ],
+    "LANGUAGE_MODEL_EVALUATION": [
+      "language model evaluation",
+      "language",
+      "model",
+      "evaluation"
+    ],
+    "PARAMETER_ESTIMATION": [
+      "parameter estimation",
+      "parameter",
+      "estimation"
+    ],
+    "LANGUAGE_MODEL_ADAPTATION": [
+      "language model adaptation",
+      "language",
+      "model",
+      "adaptation"
+    ]
+  },
+  "syllabus_section": "NATURAL LANGUAGE PROCESSING"
+}

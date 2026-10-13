@@ -1,0 +1,64 @@
+{
+  "subject_name": "Real Time Systems",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COMPUTER_ORGANIZATION_OPERATING_SYSTEM",
+        "PROVIDE_BROAD_UNDERSTANDING_REQUIREMENTS",
+        "MAKE_STUDENT_UNDERSTAND",
+        "APPLICATIONS_REAL_TIME_FEATURES",
+        "COURSE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COMPUTER_ORGANIZATION_OPERATING_SYSTEM": [
+      "computer organization operating system",
+      "computer",
+      "organization",
+      "operating",
+      "system"
+    ],
+    "PROVIDE_BROAD_UNDERSTANDING_REQUIREMENTS": [
+      "provide broad understanding requirements",
+      "provide",
+      "broad",
+      "understanding",
+      "requirements"
+    ],
+    "MAKE_STUDENT_UNDERSTAND": [
+      "make student understand",
+      "make",
+      "student",
+      "understand"
+    ],
+    "APPLICATIONS_REAL_TIME_FEATURES": [
+      "applications real time features",
+      "applications",
+      "real",
+      "time",
+      "features"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ]
+  },
+  "syllabus_section": "REAL TIME SYSTEMS"
+}

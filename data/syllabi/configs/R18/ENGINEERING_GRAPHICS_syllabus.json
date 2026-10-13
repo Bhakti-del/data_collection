@@ -1,0 +1,61 @@
+{
+  "subject_name": "Engineering Graphics",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_I_SEM",
+        "L_T_P_C",
+        "NIL_COURSE",
+        "PROVIDE_ENGINEERING_DRAWING",
+        "IMPART_KNOWLEDGE_STANDARD_PRINCIPLES",
+        "DRAW_SECTIONAL_VIEWS_PICTORIAL",
+        "COURSE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_I_SEM": [
+      "i year i sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "NIL_COURSE": [
+      "nil course",
+      "course"
+    ],
+    "PROVIDE_ENGINEERING_DRAWING": [
+      "provide engineering drawing",
+      "provide",
+      "engineering",
+      "drawing"
+    ],
+    "IMPART_KNOWLEDGE_STANDARD_PRINCIPLES": [
+      "impart knowledge standard principles",
+      "impart",
+      "knowledge",
+      "standard",
+      "principles"
+    ],
+    "DRAW_SECTIONAL_VIEWS_PICTORIAL": [
+      "draw sectional views pictorial",
+      "draw",
+      "sectional",
+      "views",
+      "pictorial"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ]
+  },
+  "syllabus_section": "ENGINEERING GRAPHICS"
+}

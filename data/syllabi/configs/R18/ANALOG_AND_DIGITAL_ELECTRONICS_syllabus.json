@@ -1,0 +1,65 @@
+{
+  "subject_name": "Analog And Digital Electronics",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH_II_YEAR_I",
+        "L_T_P_C",
+        "INTRODUCE_COMPONENTS_DIODES",
+        "BJTS_FETS",
+        "KNOW_APPLICATIONS_COMPONENTS",
+        "GIVE_UNDERSTANDING_TYPES_AMPLIFIER",
+        "UNDERSTAND_COMBINATIONAL_LOGIC_CIRCUITS",
+        "COURSE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH_II_YEAR_I": [
+      "tech ii year i",
+      "tech",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "INTRODUCE_COMPONENTS_DIODES": [
+      "introduce components diodes",
+      "introduce",
+      "components",
+      "diodes"
+    ],
+    "BJTS_FETS": [
+      "bjts fets",
+      "bjts",
+      "fets"
+    ],
+    "KNOW_APPLICATIONS_COMPONENTS": [
+      "know applications components",
+      "know",
+      "applications",
+      "components"
+    ],
+    "GIVE_UNDERSTANDING_TYPES_AMPLIFIER": [
+      "give understanding types amplifier",
+      "give",
+      "understanding",
+      "types",
+      "amplifier"
+    ],
+    "UNDERSTAND_COMBINATIONAL_LOGIC_CIRCUITS": [
+      "understand combinational logic circuits",
+      "understand",
+      "combinational",
+      "logic",
+      "circuits"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ]
+  },
+  "syllabus_section": "ANALOG AND DIGITAL ELECTRONICS"
+}

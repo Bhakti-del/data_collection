@@ -1,0 +1,17 @@
+{
+  "subject_name": "Renewable Energy Sources",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "RENEWABLE_ENERGY_SOURCES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "RENEWABLE_ENERGY_SOURCES": [
+      "renewable energy sources"
+    ]
+  }
+}
