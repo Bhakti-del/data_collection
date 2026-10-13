@@ -1,0 +1,455 @@
+subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years,normalized_marks,slot_type
+Object Oriented Programming through Java,What is an abstract class?,ABSTRACT_CLASSES,Remember,2,"[2019, 2024]",[],1,PART_A_1M
+Object Oriented Programming through Java,What is abstract class? Give example.,ABSTRACT_CLASSES,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Define Abstract class and Abstract method.,ABSTRACT_CLASSES,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,"Write a program which has an abstract class Solid and implements Cylinder, Cone and Sphere by inheriting from solid to find surface area and volume.",ABSTRACT_CLASSES,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,"Explain the significance of public, protected and private access specifiers in inheritance.",ACCESS_CONTROL,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,"Explain various access modifiers (private, public, protected and default) used in JAVA.",ACCESS_CONTROL,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What is adapter class?,ADAPTER_CLASSES,Remember,2,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Define Adapter classes.,ADAPTER_CLASSES,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What is an adapter class? Explain with an example.,ADAPTER_CLASSES,Understand,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,What is an adapter class? What is their role in event handling?,ADAPTER_CLASSES,Remember,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Explain about the adapter class with an example.,ADAPTER_CLASSES,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,What is an applet?,APPLETS_CONCEPTS_AND_LIFECYCLE,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What is Swing in Java? How it differs from Applet.,APPLETS_CONCEPTS_AND_LIFECYCLE,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Why do applet classes need to be declared as public?,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,How do applets differ from application program?,APPLETS_CONCEPTS_AND_LIFECYCLE,Analyze,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Why is an applet more secure than an application program?,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,4,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What is an Applet? Explain the life cycle of an Applet.,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,5,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain the life cycle of an applet.,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,5,[],"[2017, 2023]",5,PART_B_5M
+Object Oriented Programming through Java,Write an applet to display the mouse cursor position in that applet window.,APPLETS_CONCEPTS_AND_LIFECYCLE,Apply,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Explain how the parameters are passing to an applet.,CREATING_AND_PASSING_PARAMETERS_TO_APPLETS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Write a simple calculator applet that can handle basic math functions.,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What is an applet? Explain the life cycle of Applet with a neat sketch.,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write the applets to draw the Cube and Cylinder shapes.,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Create a simple applet to display a smiley picture using Graphics class methods.,APPLETS_CONCEPTS_AND_LIFECYCLE,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Discuss about different applet display methods in brief.,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,What is the difference between init( ) and start ( ) methods in an Applet? When will each be executed?,APPLETS_CONCEPTS_AND_LIFECYCLE,Analyze,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Explain the security issues of applets and compare them with applications.,APPLETS_CONCEPTS_AND_LIFECYCLE,Analyze,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,"Develop an applet that receives an integer in one text field and the compute the factorial value and return in another text field , when the button named COMPUTE is clicked.",APPLETS_CONCEPTS_AND_LIFECYCLE,Apply,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain the following: a) MVC architecture b) Anonymous inner classes c) Security issues in applets.,APPLETS_CONCEPTS_AND_LIFECYCLE,Understand,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,Give the AWT hierarchy.,AWT_CLASS_HIERARCHY,Understand,2,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain AWT class hierarchy.,INHERITANCE_BASICS_AND_TYPES,Understand,5,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Implement a Java program that utilizes the AWT class hierarchy to create a simple user interface.,INHERITANCE_BASICS_AND_TYPES,Apply,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What is the purpose of a ScrollPane in Java GUI?,AWT_CONTAINERS_AND_PANELS,Remember,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Discuss various AWT containers with examples.,AWT_USER_INTERFACE_COMPONENTS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a java program to design a scientific calculator using AWT.,AWT_USER_INTERFACE_COMPONENTS,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,List out various checked exceptions in Java.,BUILT_IN_EXCEPTIONS,Remember,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,List any four unchecked exception.,BUILT_IN_EXCEPTIONS,Remember,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain the concept of java built in exceptions with an example.,BUILT_IN_EXCEPTIONS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Differentiate between Checked and UnChecked Exceptions with examples.,BUILT_IN_EXCEPTIONS,Analyze,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Explain Checked and Unchecked Exceptions in Java ? Explain.,BUILT_IN_EXCEPTIONS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain checked exceptions and unchecked exceptions with example.,BUILT_IN_EXCEPTIONS,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Write about built-in exceptions in java.,BUILT_IN_EXCEPTIONS,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What is the difference between a class and an object?,CLASSES_AND_OBJECTS,Analyze,2,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Identify the differences between Classes and Instances.,CLASSES_AND_OBJECTS,Analyze,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Differentiate between a class and object.,CLASSES_AND_OBJECTS,Analyze,5,[2019],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Describe the key features of classes and objects in Java.,CLASSES_AND_OBJECTS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What is the significance of CLASSPATH variable?,CLASSPATH,Remember,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the significance of the CLASSPATH environment variable in creating/using a package?,CLASSPATH,Remember,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,Discuss about CLASSPATH environment variables.,CLASSPATH,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Explain the purpose of the CLASSPATH and how it is used in Java.,CLASSPATH,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What is Default Constructor and Parameterized constructor?,CONSTRUCTORS_AND_METHODS,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Which methods of deque enable it to be used as a stack?,CONSTRUCTORS_AND_METHODS,Understand,2,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Differentiate between print() and println() methods in Java.,CONSTRUCTORS_AND_METHODS,Analyze,2,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,What is a Constructor?,CONSTRUCTORS_AND_METHODS,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What are static variables and static methods?,CONSTRUCTORS_AND_METHODS,Remember,3,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain the need of Constructors?,CONSTRUCTORS_AND_METHODS,Understand,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What is a constructor? What is its requirement in programming? Explain with program.,CONSTRUCTORS_AND_METHODS,Understand,5,[],"[2018, 2022]",5,PART_B_5M
+Object Oriented Programming through Java,Write a program to illustrate a copy constructor so that a string may be duplicated into another variable either by assignment or copying.,CONSTRUCTORS_AND_METHODS,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,"Discuss how java handles overridden methods. In short, how base class member functions can be invoked in a derived class if the derived class also has a member function with the same name.",CONSTRUCTORS_AND_METHODS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Write a Program to illustrate static variables and static methods.,CONSTRUCTORS_AND_METHODS,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is the use of ArrayList class? Describe any two methods of Array List class.,CONSTRUCTORS_AND_METHODS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain the importance of constructor.,CONSTRUCTORS_AND_METHODS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is the importance of hashCode() and equals() methods?,CONSTRUCTORS_AND_METHODS,Remember,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,What is the purpose of constructor in Java programming?,CONSTRUCTORS_AND_METHODS,Remember,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Demonstrate ordinal( ) method of enum.,CONSTRUCTORS_AND_METHODS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What are Control Statements?,CONTROL_STATEMENTS,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain the control statements in Java.,CONTROL_STATEMENTS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Give the syntax of various control statements used in Java programs and explain them.,CONTROL_STATEMENTS,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write a java program to pass parameters to an Applet.,CREATING_AND_PASSING_PARAMETERS_TO_APPLETS,Apply,5,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain how to pass parameters to applets.,CREATING_AND_PASSING_PARAMETERS_TO_APPLETS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Explain the process of passing parameters to Applets.,CREATING_AND_PASSING_PARAMETERS_TO_APPLETS,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,How to pass parameters to an applet? Write an applet to accept Account number and balance in the form of parameter and print message “low balance” if balance is less than 500.,CREATING_AND_PASSING_PARAMETERS_TO_APPLETS,Apply,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,What are the two ways of implementing thread in Java?,CREATING_THREADS,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,How do we start and stop a thread?,CREATING_THREADS,Understand,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain the need of Multithreading.,CREATING_THREADS,Understand,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the difference between a thread and a process?,MULTITHREADING_VS_MULTITASKING,Analyze,3,[2023],[2017],5,PART_B_5M
+Object Oriented Programming through Java,How to assign priorities to threads?,THREAD_PRIORITIES,Understand,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,How to create threads in Java?,CREATING_THREADS,Understand,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Differentiate between a thread and a process.,MULTITHREADING_VS_MULTITASKING,Analyze,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,How do we set priorities for threads?,THREAD_PRIORITIES,Understand,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the difference Thread and Process?,MULTITHREADING_VS_MULTITASKING,Analyze,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Describe how to create a thread with an example.,CREATING_THREADS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a program that demonstrate the priority setting in threads.,THREAD_PRIORITIES,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to create four threads using Runnable interface.,CREATING_THREADS,Apply,5,[],"[2017, 2018]",5,PART_B_5M
+Object Oriented Programming through Java,Differentiate between multiprocessing and multithreading. What is to be done to implement these in a program?,CREATING_THREADS,Analyze,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a program that creates two threads. Fist thread prints the numbers from 1 to 100 and the other thread prints the numbers from 100 to 1.,CREATING_THREADS,Apply,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Explain different procedures for creating thread.,CREATING_THREADS,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain about creation of threads in Java.,CREATING_THREADS,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,"Write a program to create two threads, using these two th reads print even and odd numbers in increasing order.",CREATING_THREADS,Apply,7,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,How to assign priorities to threads in Java program?,THREAD_PRIORITIES,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to create three threads in your program and context switch among the threads using sleep functions.,CREATING_THREADS,Apply,10,[],[2019],10,PART_B_10M
+Object Oriented Programming through Java,Explain Multithreading. In how many ways java implements multithreading? Explain at least one of these ways with appropriate example.,CREATING_THREADS,Understand,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,How can you create your own exception subclass?,CUSTOM_EXCEPTIONS,Understand,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What keywords are essential in handling user-defined exception?,CUSTOM_EXCEPTIONS,Understand,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,"With a program, illustrate user defined exception handling.",CUSTOM_EXCEPTIONS,Apply,5,[],"[2018, 2022]",5,PART_B_5M
+Object Oriented Programming through Java,Demonstrate creation of user defined exception in Java.,CUSTOM_EXCEPTIONS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,How to create a user defined exception?,CUSTOM_EXCEPTIONS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Discuss about creating user defined exceptions in detail.,CUSTOM_EXCEPTIONS,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,What are the differences between caught and uncaught exception?,EXCEPTION_HANDLING_CONCEPTS,Analyze,5,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to create user defined exception.,CUSTOM_EXCEPTIONS,Apply,5,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,What is Daemon Thread?,DAEMON_THREADS,Remember,2,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Differentiate between regular threads and daemon threads in Java.,DAEMON_THREADS,Analyze,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What is the size of char data type? Why does it differ from C language?,DATA_TYPES_VARIABLES_ARRAYS,Analyze,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,Why reserved words are not used in variable name.,DATA_TYPES_VARIABLES_ARRAYS,Understand,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,"Make a comparison of List, array and ArrayList.",DATA_TYPES_VARIABLES_ARRAYS,Analyze,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain the enumerated data types with an example.,DATA_TYPES_VARIABLES_ARRAYS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Write a program which stor es a list of strings in an Array List and then displays the contents of the list.,DATA_TYPES_VARIABLES_ARRAYS,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,List the primitive data types available in Java and explain.,DATA_TYPES_VARIABLES_ARRAYS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,What is an array? How do you declare the array in java? Give examples.,DATA_TYPES_VARIABLES_ARRAYS,Remember,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program to find smallest of array elements.,DATA_TYPES_VARIABLES_ARRAYS,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,"Discuss the various data types available in Java, with examples.",DATA_TYPES_VARIABLES_ARRAYS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Discuss different data types defined in Java.,DATA_TYPES_VARIABLES_ARRAYS,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain about various data types used in Java with examples.,DATA_TYPES_VARIABLES_ARRAYS,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,How to implement Array List in Java with examples?,DATA_TYPES_VARIABLES_ARRAYS,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What are the primitive data types available in Java? Explain.,DATA_TYPES_VARIABLES_ARRAYS,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,How to obtain an array from an ArrayList?,DATA_TYPES_VARIABLES_ARRAYS,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain Array List and Array Deque? What is the difference between them? How do you implement them in java? Explain with suitable example.,DATA_TYPES_VARIABLES_ARRAYS,Analyze,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,"Given two one dimensional arrays A and B which are sorted in ascending order. Write a program to merge them into a single sorted array C that contains every item from arrays A and B, in ascending order.",DATA_TYPES_VARIABLES_ARRAYS,Apply,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,Write a java code to sort array list in descending order.,DATA_TYPES_VARIABLES_ARRAYS,Understand,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,What are annotations in Java?,ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS,Remember,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the benefit of Generics in Collections Framework?,ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Describe the generics with examples.,ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS,Understand,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Demonstrate Enumerations and Auto Boxing in Java.,ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,"Define Event, Panel and container.",EVENT_HANDLING_AND_DELEGATION_MODEL,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,"What are the various events generated by menu, List box components?",EVENT_HANDLING_AND_DELEGATION_MODEL,Remember,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What is an Event Listener in java?,EVENT_HANDLING_AND_DELEGATION_MODEL,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Describe the Event Handling in detail.,EVENT_HANDLING_AND_DELEGATION_MODEL,Understand,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What is an Event Listener? Give an example.,EVENT_HANDLING_AND_DELEGATION_MODEL,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,How Event handling is done in java?,EVENT_HANDLING_AND_DELEGATION_MODEL,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is the role of event listeners in event handling? List the Java event listeners.,EVENT_HANDLING_AND_DELEGATION_MODEL,Remember,5,[],"[2018, 2022]",5,PART_B_5M
+Object Oriented Programming through Java,Briefly explain Delegation Event Model.,EVENT_HANDLING_AND_DELEGATION_MODEL,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Describe in detail about the various event listener interfaces.,EVENT_HANDLING_AND_DELEGATION_MODEL,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Write a short note on delegation event model.,EVENT_HANDLING_AND_DELEGATION_MODEL,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What is exception?,EXCEPTION_HANDLING_CONCEPTS,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Differentiate between error and exception.,EXCEPTION_HANDLING_CONCEPTS,Analyze,2,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the difference between error and an exception?,EXCEPTION_HANDLING_CONCEPTS,Analyze,2,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain the benefits of exception handling.,EXCEPTION_HANDLING_CONCEPTS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,"Write a program that counts the number of characters, words and lines in a file. Use exceptions to check whether the file you are reading exists or not. Take file name as a command line argument.",EXCEPTION_HANDLING_CONCEPTS,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What happens when a raised exception is not caught by any catch block ? Explain with an example.,TRY_CATCH_THROW_THROWS_FINALLY,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Differentiate between an error and an exception. Give examples for the same.,EXCEPTION_HANDLING_CONCEPTS,Analyze,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is meant by re-throwing exception? Discuss a suitable scenario for this.,EXCEPTION_HANDLING_CONCEPTS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What are advantages of using Exception handling mechanism in a program?,EXCEPTION_HANDLING_CONCEPTS,Remember,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a java program that demonstrates how certain exception types are not allowed to be thrown.,EXCEPTION_HANDLING_CONCEPTS,Apply,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Analyze the impact of not using exception handling in a program. How does it affect the overall program flow and user experience?,EXCEPTION_HANDLING_CONCEPTS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Write a program with nested try statements for handling exception.,TRY_CATCH_THROW_THROWS_FINALLY,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What are the different ways to handle exceptions? Explain.,EXCEPTION_HANDLING_CONCEPTS,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,What is an Exception? How is an Exception handled in JAVA?,EXCEPTION_HANDLING_CONCEPTS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a java code for handling Arithmetic exception?,EXCEPTION_HANDLING_CONCEPTS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is Exception? How exceptions are handled in Java?,EXCEPTION_HANDLING_CONCEPTS,Remember,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What is an exception? Explain about exceptional handling in Java.,EXCEPTION_HANDLING_CONCEPTS,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,What is an Exception? How is an Exception handled in JAVA? Give example.,EXCEPTION_HANDLING_CONCEPTS,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What is an exception? How is it different from an error? What are the basic keywords used to handle exceptions in Java? Explain their usage.,EXCEPTION_HANDLING_CONCEPTS,Analyze,10,[],[2021],10,PART_B_10M
+Object Oriented Programming through Java,Can a class extend multiple interfaces?,EXTENDING_INTERFACES,Understand,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,With suitable code segments illustrate various uses of ‘final’ keyword.,FINAL_KEYWORD,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program that uses the final keyword in the context of inheritance.,FINAL_KEYWORD,Apply,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What is meant by Garbage collection?,GARBAGE_COLLECTION,Remember,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Explain the following with example a) this keyword. b) garbage collection. c) Constructor.,GARBAGE_COLLECTION,Understand,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,Explain the role of Graphics in drawing and rendering in Java. Write a Java program that demonstrates the use of the Graphics class.,GRAPHICS_PROGRAMMING,Apply,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,What is the difference between implicit and explicit import state ment? Which one takes less time for compilation.,IMPORTING_PACKAGES,Analyze,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Describe the process of importing and accessing a package with suitable examples.,IMPORTING_PACKAGES,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Explain about importing Java packages with suitable Java program.,IMPORTING_PACKAGES,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain with an example how multiple inheritance is achieved in Java.,INHERITANCE_BASICS_AND_TYPES,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What is inheritance and how does it help to create new classes quickly.,INHERITANCE_BASICS_AND_TYPES,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,"Given a scenario, can you propose a solution that leverages Java's inheritance concepts to optimize code structure?",INHERITANCE_BASICS_AND_TYPES,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,How do you implement Hierarchical Inheritance in Java? Explain.,INHERITANCE_BASICS_AND_TYPES,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is inheritance? Discuss different inheritance types.,INHERITANCE_BASICS_AND_TYPES,Understand,6,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Discuss the benefits of inheritance.,INHERITANCE_BASICS_AND_TYPES,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Explain Data abstraction encapsulation and inheritance with suitable example.,INHERITANCE_BASICS_AND_TYPES,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Describe various forms of inheritance in java with example.,INHERITANCE_BASICS_AND_TYPES,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What is composition in Java? How is it different from inheritance?,INHERITANCE_BASICS_AND_TYPES,Analyze,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What is inheritance? Explain different forms of inheritance with suitable program segments and real world example classes.,INHERITANCE_BASICS_AND_TYPES,Understand,10,[],[2017],10,PART_B_10M
+Object Oriented Programming through Java,What are the benefits of inheritance? Explain the various forms of inheritance with suitable code segments.,INHERITANCE_BASICS_AND_TYPES,Understand,10,[],"[2018, 2022]",10,PART_B_10M
+Object Oriented Programming through Java,"Explain inheritance and its types? How runtime polymorphism can be achieved using inheritance, explain with a suitable program?",INHERITANCE_BASICS_AND_TYPES,Apply,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,Define inheritance. What ar e the benefits of inheritance? What costs are associated with inheritance? How to prevent a class from inheritance?,INHERITANCE_BASICS_AND_TYPES,Understand,10,[],[2019],10,PART_B_10M
+Object Oriented Programming through Java,Name any two user interface components in Java.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Remember,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,"Differentiate class, abstract class and interface.",INTERFACES_DEFINITION_AND_IMPLEMENTATION,Analyze,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What is an interface and how it differs from a class?,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Remember,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Compare interface and abstract class.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Analyze,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain Nested Interfaces?,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Contrast between abstract class and interface.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Analyze,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain abstract class with an example and compare with interface,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Analyze,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Differentiate between interface and abstract class.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Analyze,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Identify the relationship between classes and interfaces.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is an interface? What are the similarities between interfaces and classes?,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Remember,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,How can you extend one interface by the other interface? Discuss.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Give an Example to demonstrate the extension of interfaces in Java.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Critically eva luate the design choices made in the definition of collection interfaces. How do these choices contribute to the flexibility and extensibility of the Collections Framework?,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Contrast sorted map and navigable map interfaces.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Analyze,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Give an example where interface can be used to support multiple inheritance.,INHERITANCE_BASICS_AND_TYPES,Understand,5,[],"[2017, 2018]",5,PART_B_5M
+Object Oriented Programming through Java,What is the accessibility of a public method or field inside a nonpublic class or interface? Explain.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,How to design and implement an interface in Java? Give an example.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,What is Comparable and Comparator interface? Differentiate between them.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Analyze,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Explain nested interfaces with an example JAVA program.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain about implementation of interfaces in Java.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,How to design and implement an interface? Explain.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,How to define an interface? What is its role in multiple inheritance?,INHERITANCE_BASICS_AND_TYPES,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What is interface? How to implement interface in Java?,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain about Collection interface and its methods.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Discuss the similarities between interfaces and classes.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,How to inherit an interface to another?,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain how interface is used to achieve multiple inheritance in Java?,INHERITANCE_BASICS_AND_TYPES,Understand,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,Write a program to demonstrate hierarchical and multiple inheritance using interfaces.,INHERITANCE_BASICS_AND_TYPES,Apply,10,[],[2019],10,PART_B_10M
+Object Oriented Programming through Java,Explain Map Interfaces and Classes with examples.,INTERFACES_DEFINITION_AND_IMPLEMENTATION,Understand,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,How does Java support inter thread communication?,INTER_THREAD_COMMUNICATION,Understand,2,"[2018, 2023]",[],1,PART_A_1M
+Object Oriented Programming through Java,Write a program to implement producer -consumer communication using inter thread communication functions.,INTER_THREAD_COMMUNICATION,Apply,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Describe producer-consumer pattern using inter-thread communication,INTER_THREAD_COMMUNICATION,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Evaluate the use of wait() and notify() for inter -thread communication. How do these mechanisms contribute to effective coordination between threads?,INTER_THREAD_COMMUNICATION,Evaluate,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What are the methods available in the Character Streams? Discuss.,JAVA_IO_BASICS,Understand,2,[2017],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Compare byte streams with character streams.,JAVA_IO_BASICS,Analyze,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,"Write a Java program to read a text file then count and display no. of lines, words in it.",JAVA_IO_BASICS,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program to copy contents of one file to another.,JAVA_IO_BASICS,Apply,5,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to copy the contents of file1 to file 2. Read the names of files as command line arguments.,JAVA_IO_BASICS,Apply,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Explain the random access file operations with a suitable program.,JAVA_IO_BASICS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to display the bytes of a file in reverse sequence. Provide the name of the file as a command line argument. (Use RandomAccessFile).,JAVA_IO_BASICS,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,How can we open and read a text file in java? Explain your answer with an example JAVA program.,JAVA_IO_BASICS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What is a stream? Explain Byte Stream and Character Stream.,JAVA_IO_BASICS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Distinguish between byte streams and character streams.,JAVA_IO_BASICS,Analyze,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Distinguish between Byte Stream Classes and Character Stream Classes.,JAVA_IO_BASICS,Analyze,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,State the differences between a byte stream and a character stream.,JAVA_IO_BASICS,Analyze,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to improve the efficiency of writing data into a file using Buffered Output Stream.,JAVA_IO_BASICS,Apply,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Write java program to display the contents of file.,JAVA_IO_BASICS,Apply,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Discuss about File Output Stream with an example.,JAVA_IO_BASICS,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to read and write contents of a file as a stream of bytes?,JAVA_IO_BASICS,Apply,7,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain random access file operations and File class in Java.,JAVA_IO_BASICS,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program to show the use of File Input Stream.,JAVA_IO_BASICS,Apply,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What support is provided by File class for file management? Illustrate with suitable scenarios.,JAVA_IO_BASICS,Understand,10,[],[2018],10,PART_B_10M
+Object Oriented Programming through Java,Write a program to perform find and replace activity on a given file. Read file name as command line argument and string1 to search in the file and replace it with string2. String1 and String2 are from user through prompt.,JAVA_IO_BASICS,Apply,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,Write a program that generates random integers and stores them in a file named “rand.dat”. The program then reads the integers from file and displays on the screen.,JAVA_IO_BASICS,Apply,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,Write a program to merge the content of two files (user’s contacts in a mobile) into a target file.,JAVA_IO_BASICS,Apply,10,[],[2021],10,PART_B_10M
+Object Oriented Programming through Java,Differentiate between grid layout and border layout managers.,LAYOUT_MANAGERS,Analyze,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What are the various layout managers used in Java?,LAYOUT_MANAGERS,Remember,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Illustrate in detail about the various layout managers used in Java?,LAYOUT_MANAGERS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is an Layout manager? Explain different types of Layout managers.,LAYOUT_MANAGERS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,List and explain different types of Layout managers with suitable examples.,LAYOUT_MANAGERS,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Explain various layout managers in JAVA.,LAYOUT_MANAGERS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,What is Layout manager? Discuss different types of layout managers used in JAVA with demonstration.,LAYOUT_MANAGERS,Understand,10,[],[2021],10,PART_B_10M
+Object Oriented Programming through Java,What are the member access rules?,MEMBER_ACCESS_RULES,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Discuss member access rules.,MEMBER_ACCESS_RULES,Understand,6,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Demonstrate constructor overloading concept.,METHOD_AND_CONSTRUCTOR_OVERLOADING,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,What is method overloading? Demonstrate with sample Java code.,METHOD_AND_CONSTRUCTOR_OVERLOADING,Remember,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program to implement constructor overloading.,METHOD_AND_CONSTRUCTOR_OVERLOADING,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Illustrate method overloading with an example JAVA program.,METHOD_AND_CONSTRUCTOR_OVERLOADING,Apply,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program for method overloading concept.,METHOD_AND_CONSTRUCTOR_OVERLOADING,Apply,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Define Constructor. What is constructor overloading? Write a program to illustrate the same.,METHOD_AND_CONSTRUCTOR_OVERLOADING,Apply,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,Define polymorphism and inheritance.,METHOD_OVERRIDING_AND_POLYMORPHISM,Remember,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What is meant by ad-hoc polymorphism?,METHOD_OVERRIDING_AND_POLYMORPHISM,Remember,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,What is meant by dynamic method dispatch?,METHOD_OVERRIDING_AND_POLYMORPHISM,Remember,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,What is polymorphism? Explain different types of polymorphisms with examples.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,"Using Java, can you implement a practical example of method overriding to demonstrate polymorphic behavior?",METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,How does polymorphism promote extensibility? Explain with example.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,How do we implement polymorphism in JAVA? Explain briefly.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Explain how JAVA implements run-time polymorphism.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain method overriding with a suitable example program.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,What is Method overriding? Write a program to demonstrate method overriding.,METHOD_OVERRIDING_AND_POLYMORPHISM,Apply,7,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain about method overriding in Java with example.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What is dynamic binding? How it differs from static binding?,METHOD_OVERRIDING_AND_POLYMORPHISM,Remember,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain the concept of dynamic binding with an example program.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Discuss about various types of polymorphism.,METHOD_OVERRIDING_AND_POLYMORPHISM,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,"Explain inheritance and its types? H ow runtime polymorphism can be achieved using inheritance, explain with a suitable program?",METHOD_OVERRIDING_AND_POLYMORPHISM,Apply,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,What is polymorphism? Differentiate between compile time and runtime polymorphism with the help of complete java program.,METHOD_OVERRIDING_AND_POLYMORPHISM,Analyze,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,What are the sources for item event?,MOUSE_AND_KEYBOARD_EVENTS,Remember,2,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,Write a java Program to handle various keyboard events.,MOUSE_AND_KEYBOARD_EVENTS,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain procedure to handle mouse events in Java with an example program.,MOUSE_AND_KEYBOARD_EVENTS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Discuss the handling of mouse events in Java.,MOUSE_AND_KEYBOARD_EVENTS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,How to handle mouse events in Java program? Explain with an example.,MOUSE_AND_KEYBOARD_EVENTS,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Explain about the Mouse Event Class and how to implement java with example.,MOUSE_AND_KEYBOARD_EVENTS,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to implement the keyboard events in Java.,MOUSE_AND_KEYBOARD_EVENTS,Apply,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What is an event? Explain delegation event model with suitable program for handling mouse events.,MOUSE_AND_KEYBOARD_EVENTS,Understand,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,What is thread based preemptive multitasking?,MULTITHREADING_VS_MULTITASKING,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Define and differentiate multiprocessing and multithreading.,MULTITHREADING_VS_MULTITASKING,Analyze,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Analyze the advantages and disadvantages of thread -based multitasking compared to process-based multitasking. In what scenarios is one more suitable than the other?,MULTITHREADING_VS_MULTITASKING,Analyze,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Differentiate between thread-based multitasking and process-based multitasking.,MULTITHREADING_VS_MULTITASKING,Analyze,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Distinguish between thread based and process based multitasking.,MULTITHREADING_VS_MULTITASKING,Analyze,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Explain the thread based preemptive multitasking with example.,MULTITHREADING_VS_MULTITASKING,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Describe the Model-View-Controller architecture.,MVC_ARCHITECTURE,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Explain about MVC architecture.,MVC_ARCHITECTURE,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain MVC architecture? Explain about containers? Write the limitations of AWT.,MVC_ARCHITECTURE,Understand,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,Create a user interface using MVC architecture and swing concepts to book a seat in a bus [like redbus/abhibus applications].,MVC_ARCHITECTURE,Apply,10,[],[2021],10,PART_B_10M
+Object Oriented Programming through Java,What is an anonymous inner class?,NESTED_AND_INNER_CLASSES,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the use of anonymous inner class?,NESTED_AND_INNER_CLASSES,Remember,2,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,What is an Inner class?,NESTED_AND_INNER_CLASSES,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Discuss about anonymous inner classes.,NESTED_AND_INNER_CLASSES,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,What is a nested class? Is every nested class an inner class? Justify your answer.,NESTED_AND_INNER_CLASSES,Evaluate,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What is inner class? Discuss different inner classes.,NESTED_AND_INNER_CLASSES,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain the uses of inner classes.,NESTED_AND_INNER_CLASSES,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,List and explain any four methods of Object class.,OBJECT_CLASS,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Define data abstraction.,OOP_PARADIGM_AND_CONCEPTS,Remember,2,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the significance of Java’s byte code?,OOP_PARADIGM_AND_CONCEPTS,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What is Byte code?,OOP_PARADIGM_AND_CONCEPTS,Remember,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What is an Object? How to allocate memory for objects?,CLASSES_AND_OBJECTS,Understand,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What are the differences between JToggle buttion and Radio buttion?,SWING_COMPONENTS,Analyze,2,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,What is Console class? What is its use in java?,JAVA_IO_BASICS,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What is a Java Priority queue?,THREAD_PRIORITIES,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Write about Random Utility Class?,STRING_HANDLING_AND_JAVA_UTIL,Understand,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Write about Border Layout.,LAYOUT_MANAGERS,Understand,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,List the different ways to read input from console in java.,JAVA_IO_BASICS,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Define stream. List types of streams.,JAVA_IO_BASICS,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Does java supports multiple inheritances? Justify your answer.,INHERITANCE_BASICS_AND_TYPES,Evaluate,3,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,List the applications of object oriented programming.,OOP_PARADIGM_AND_CONCEPTS,Remember,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,How to cast types in expression evaluation?,TYPE_CONVERSION_AND_CASTING,Understand,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Contrast text streams and binary streams.,JAVA_IO_BASICS,Analyze,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain why Java is Machine Independent.,OOP_PARADIGM_AND_CONCEPTS,Understand,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain the use of ‘for’ statement in Java with an example.,CONTROL_STATEMENTS,Understand,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,List out the benefits of Stream oriented I/O.,JAVA_IO_BASICS,Remember,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What are symbolic constants? Explain with examples.,DATA_TYPES_VARIABLES_ARRAYS,Understand,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,Define the basic characteristics of object oriented programming.,OOP_PARADIGM_AND_CONCEPTS,Remember,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the use of auto boxing in java? Explain.,ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS,Understand,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What is serialization? Give one example.,JAVA_IO_BASICS,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What is Priority Queue in Java? Explain,THREAD_PRIORITIES,Understand,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What is the need of IO Streams?,JAVA_IO_BASICS,Remember,3,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is a Multi Threading? Explain.,CREATING_THREADS,Understand,3,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What feature of Java makes it platform independent and portable?,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Is Java a robust language? Justify your answer.,OOP_PARADIGM_AND_CONCEPTS,Evaluate,5,[],"[2017, 2023]",5,PART_B_5M
+Object Oriented Programming through Java,Write a program to count number of words in a given sentence.,STRING_HANDLING_AND_JAVA_UTIL,Apply,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Discuss the drawbacks of procedural languages and explain the need of object oriented programming with suitable program.,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],"[2018, 2022, 2023]",5,PART_B_5M
+Object Oriented Programming through Java,Discuss the lexical issues of Java.,DATA_TYPES_VARIABLES_ARRAYS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program to check whether a given string is palindrome.,STRING_HANDLING_AND_JAVA_UTIL,Apply,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What are the fundamental characteristics of OOPs?,OOP_PARADIGM_AND_CONCEPTS,Remember,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Write a simple Timer that can periodically print a timeout message.,CREATING_THREADS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to display the month names by JList and display the Days by JComboBox.,SWING_COMPONENTS,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Explain any five features of object oriented programming.,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is auto boxing? Explain.,ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain the implementation of priority queue in java.,THREAD_PRIORITIES,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Discuss the different levels of access protection available in Java.,ACCESS_CONTROL,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,What are the different ways that are possible to create multiple threaded programs in java? Discuss the differences between them.,CREATING_THREADS,Analyze,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to create a frame window that responds to key strokes.,MOUSE_AND_KEYBOARD_EVENTS,Apply,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Can you demonstrate how the principles of object -oriented thinking can be applied to solve a real-world problem?,OOP_PARADIGM_AND_CONCEPTS,Apply,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Can you create a multilevel class hierarchy in Java to model a system with different levels of abstraction?,INHERITANCE_BASICS_AND_TYPES,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,What are the responsibilities of an agent?,OOP_PARADIGM_AND_CONCEPTS,Remember,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What is type wrapper? What is the role of auto boxing?,ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS,Remember,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,"What is the purpose of BitSet class? What is the functionality of the following functions of BitSet class: cardinality( ) , flip( ) and intersects( )",STRING_HANDLING_AND_JAVA_UTIL,Remember,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Illustrate the use of Grid Bag layout.,LAYOUT_MANAGERS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What is meant by byte code? Briefly explain how Java is platform independent.,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Explain different parts of a Java program with an appropriate example.,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,How many ways are possible in ja va to create multiple threaded programs? Discuss the differences between them.,CREATING_THREADS,Analyze,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Explain the Bit Set and Calander classes in detail.,STRING_HANDLING_AND_JAVA_UTIL,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Describe the structure of a typical Java program with an example.,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write the significance of Java Virtual Machine.,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to create a frame window that responds to mouse clicks.,MOUSE_AND_KEYBOARD_EVENTS,Apply,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Write the summary of OOP concepts.,OOP_PARADIGM_AND_CONCEPTS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Explain the features of Java.,OOP_PARADIGM_AND_CONCEPTS,Understand,7,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,List and explain various features of Object Oriented Programming paradigm.,OOP_PARADIGM_AND_CONCEPTS,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Does Java support multi way selection statement? Justify your answer.,CONTROL_STATEMENTS,Evaluate,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,What are Java buzzwords? Explain in detail.,OOP_PARADIGM_AND_CONCEPTS,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain various features of Java language.,OOP_PARADIGM_AND_CONCEPTS,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write a detailed note on Java Virtual Machine.,OOP_PARADIGM_AND_CONCEPTS,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What features of Java make it a robust language?,OOP_PARADIGM_AND_CONCEPTS,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to list all the files and directories contained in a directory given as the command line argument.,JAVA_IO_BASICS,Apply,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Make a comparison of procedural programming paradigm with object oriented programming paradigm.,OOP_PARADIGM_AND_CONCEPTS,Analyze,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What are object-oriented paradigms? Explain in detail.,OOP_PARADIGM_AND_CONCEPTS,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Discuss about input and output streams in Java with examples.,JAVA_IO_BASICS,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain string and string buffer class in Java.,STRING_HANDLING_AND_JAVA_UTIL,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What is meant by data abstraction? Briefly explain.,OOP_PARADIGM_AND_CONCEPTS,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Write a Java program to accept a String and to reverse it?,STRING_HANDLING_AND_JAVA_UTIL,Apply,8,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,How is abstraction different from information hiding?,OOP_PARADIGM_AND_CONCEPTS,Analyze,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Compare and contrast procedure oriented programming with object oriented programming. Which paradigm is preferred for advanced problem solving? Why.,OOP_PARADIGM_AND_CONCEPTS,Evaluate,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,"Analyze the use of utility classes in complex data processing scenarios. How can these classes contribute to code readability and maintainability, and are there any trade -offs associated with their usage?",STRING_HANDLING_AND_JAVA_UTIL,Understand,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,List the various operators in Java.,OPERATORS_AND_EXPRESSIONS,Remember,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Write a program to compute division by 2 without using any arithmetic operator.,OPERATORS_AND_EXPRESSIONS,Apply,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Define a Package? What is its use in java? Explain.,PACKAGES_CREATION_AND_ACCESS,Understand,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Discuss the concept of Packages.,PACKAGES_CREATION_AND_ACCESS,Understand,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,How to define a package in Java?,PACKAGES_CREATION_AND_ACCESS,Understand,2,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,What is a package? How to define it and access it?,PACKAGES_CREATION_AND_ACCESS,Understand,3,"[2017, 2023]",[],1,PART_A_1M
+Object Oriented Programming through Java,How to create and use a package in Java program?,PACKAGES_CREATION_AND_ACCESS,Understand,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,What is a Package? Write down the steps for creating user defined package.,PACKAGES_CREATION_AND_ACCESS,Remember,3,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain the process of creating and accessing packages with suitable example.,PACKAGES_CREATION_AND_ACCESS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain the member access rules for package in Java,PACKAGES_CREATION_AND_ACCESS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Discuss the various levels of access protection for packages and their implications.,ACCESS_CONTROL,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Discuss how to define and import a package? Explain with an example.,PACKAGES_CREATION_AND_ACCESS,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain the process of defining and creating a package with suitable examples.,PACKAGES_CREATION_AND_ACCESS,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,"Explain the process of defining, creating, and accessing a package in Java.",PACKAGES_CREATION_AND_ACCESS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Discuss access protection for packages.,ACCESS_CONTROL,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What is a package? Explain creating and accessing package with example.,PACKAGES_CREATION_AND_ACCESS,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,How to create and access packages in JAVA? Illustrate briefly.,PACKAGES_CREATION_AND_ACCESS,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,"How to define a package? How to access, import a package? Explain with examples.",PACKAGES_CREATION_AND_ACCESS,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Write a Program to demonstrate how to create a package and use it in another class.,PACKAGES_CREATION_AND_ACCESS,Apply,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,What are Packages? Explain. Write a Java code to create Employee package with basic employee details?,PACKAGES_CREATION_AND_ACCESS,Understand,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,Discuss basic in-built packages in java and their uses in application development in brief. Which package is the default package?,PACKAGES_CREATION_AND_ACCESS,Understand,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,Explain various parameter passing techniques.,PARAMETER_PASSING_AND_RECURSION,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What is the use of Scanner class?,STRING_HANDLING_AND_JAVA_UTIL,Remember,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Write about the string Tokenizer.,STRING_HANDLING_AND_JAVA_UTIL,Understand,2,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Write about any two string handling functions in Java?,STRING_HANDLING_AND_JAVA_UTIL,Understand,2,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What is the purpose of String Tokenizer class? Explain.,STRING_HANDLING_AND_JAVA_UTIL,Understand,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,Write a short note on String Tokenizer.,STRING_HANDLING_AND_JAVA_UTIL,Understand,5,[2024],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Explain about Calendar class and DateFormat class methods in detail.,STRING_HANDLING_AND_JAVA_UTIL,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain Date and Scanner classes in detail.,STRING_HANDLING_AND_JAVA_UTIL,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to read a f ile content and extract words using String Tokenizer class. Display the file if it contains the user query term/search key.,STRING_HANDLING_AND_JAVA_UTIL,Apply,10,[],[2019],10,PART_B_10M
+Object Oriented Programming through Java,Illustrate the use of the super keyword in a Java program.,SUPER_KEYWORD,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,"Write a program to implement multilevel hierarchy, use super keyword to define methods in sub classes.",SUPER_KEYWORD,Apply,10,[],[2021],10,PART_B_10M
+Object Oriented Programming through Java,Which Swing class is used for creating buttons?,SWING_COMPONENTS,Understand,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Give the subclasses of JButton class.,SWING_COMPONENTS,Understand,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain about JCombo box.,SWING_COMPONENTS,Understand,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Explore GUI Programming with Swing.,SWING_COMPONENTS,Understand,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Give the hierarchy for swing components.,SWING_COMPONENTS,Understand,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,In what way JButton is better than Button Class explain with an example?,SWING_COMPONENTS,Understand,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Give an overview of JButton class.,SWING_COMPONENTS,Understand,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What are the various classes used in creating a swing menu?,SWING_COMPONENTS,Remember,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain about the Hierarchy for the swing components.,SWING_COMPONENTS,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Compare and contrast Swing and Abstract Window Toolkit (AWT) in Java.,SWING_COMPONENTS,Analyze,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,What are the subclasses of JButton class of swing package?,SWING_COMPONENTS,Remember,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,What are the various components of Swing? Explain.,SWING_COMPONENTS,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Discuss how Combo boxes contribute to a more user-friendly interface in Java Swing.,SWING_COMPONENTS,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to create user interface for simple arithmetic calculator using swing components and grid layout manager.,LAYOUT_MANAGERS,Apply,6,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Design a user interface to collect data from the student for admission application using swing components.,SWING_COMPONENTS,Understand,7,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,"Propose a comprehensive comparison between AWT and Swing, considering not only their limitations but also their strengths. Formulate recommendations for situatio ns where AWT might still be preferable.",SWING_COMPONENTS,Understand,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,Synthesize a strategy for handling simultaneous mouse and keyboard events in a Swing application. Propose solutions for scenarios where efficient handling of multiple input sources is crucial.,SWING_COMPONENTS,Understand,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,Write about various Swing Controls? Write a code to create login window.,SWING_COMPONENTS,Understand,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,Explain three UI components of swing and their classes and constructors.,SWING_COMPONENTS,Understand,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,List the swing containers.,SWING_CONTAINERS_JFRAME_JAPPLET,Remember,2,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Write a swing application which uses JTabbed Pane and JPanel.,SWING_CONTAINERS_JFRAME_JAPPLET,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,How to move/drag a component placed in Swing Container? Explain.,SWING_CONTAINERS_JFRAME_JAPPLET,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,Compare the features of JApplet and JFrame in Java Swing.,SWING_CONTAINERS_JFRAME_JAPPLET,Analyze,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Name any two limitations of AWT.,SWING_OVERVIEW_AND_LIMITATIONS_OF_AWT,Remember,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What are the limitations of AWT?,SWING_OVERVIEW_AND_LIMITATIONS_OF_AWT,Remember,2,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Why swing components are preferred over AWT components?,SWING_OVERVIEW_AND_LIMITATIONS_OF_AWT,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,What is the purpose of ‘this’ keyword in java?,THIS_KEYWORD,Remember,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Analyze the impact of using for -each loops on code readability and maintainability. How does this alternative contribute to or hinder the expressiveness of the code?,THIS_KEYWORD,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to explain the concept of dynami c method dispatch and also discuss real world applications of this concept.,THIS_KEYWORD,Apply,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,Write the complete life cycle of a thread.,THREAD_LIFECYCLE,Understand,3,[2018],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain the life cycle of a Thread.,THREAD_LIFECYCLE,Understand,5,[],[2019],5,PART_B_5M
+Object Oriented Programming through Java,Explain with a neat diagram the life cycle of a thread.,THREAD_LIFECYCLE,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Describe the life cycle of a thread in Java.,THREAD_LIFECYCLE,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Describe the thread life cycle.,THREAD_LIFECYCLE,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Describe the life cycle of a thread.,THREAD_LIFECYCLE,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Explain briefly about the life cycle of a thread and Explain various methods of thread class.,THREAD_LIFECYCLE,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,List the thread priorities with examples.,THREAD_PRIORITIES,Remember,3,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,Write a program to explain thread priorities usage.,THREAD_PRIORITIES,Apply,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Describe thread states and thread priorities.,THREAD_PRIORITIES,Understand,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Explain thread states and thread priorities.,THREAD_PRIORITIES,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain how to implement thread priorities in java with examples.,THREAD_PRIORITIES,Understand,8,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,Write about Synchronization of threads.,THREAD_SYNCHRONIZATION,Understand,2,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,What is synchronization and why is it important?,THREAD_SYNCHRONIZATION,Understand,3,[2017],[],1,PART_A_1M
+Object Oriented Programming through Java,Explain thread synchronization briefly.,THREAD_SYNCHRONIZATION,Understand,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,How to achieve synchronization among threads? Write suitable code.,THREAD_SYNCHRONIZATION,Understand,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,What is synchronization? How to implement synchronization in Java.,THREAD_SYNCHRONIZATION,Understand,7,[],[2021],5,PART_B_5M
+Object Oriented Programming through Java,What is the need of thread synchronization? What is the Java support for this?,THREAD_SYNCHRONIZATION,Remember,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,Describe the need of thread synchronization. How is it achieved in Java programming? Explain with a suitable program.,THREAD_SYNCHRONIZATION,Apply,10,[],[2022],10,PART_B_10M
+Object Oriented Programming through Java,How many catch blocks and finally blocks can we use with try blocks? Why.,TRY_CATCH_THROW_THROWS_FINALLY,Understand,3,[2019],[],1,PART_A_1M
+Object Oriented Programming through Java,Compare and contrast throw and throws.,TRY_CATCH_THROW_THROWS_FINALLY,Analyze,3,[2023],[],1,PART_A_1M
+Object Oriented Programming through Java,Write a program using try and catch block to check whether the given array size is negative or not.,TRY_CATCH_THROW_THROWS_FINALLY,Apply,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Differentiate between throw and throws. Give example.,TRY_CATCH_THROW_THROWS_FINALLY,Analyze,5,[],[2023],5,PART_B_5M
+Object Oriented Programming through Java,Write a program to illustrate the use of multiple catch blocks for a try block.,TRY_CATCH_THROW_THROWS_FINALLY,Apply,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,What are the uses of ‘throw’ and ‘throws’ clauses for exception handling?,TRY_CATCH_THROW_THROWS_FINALLY,Remember,5,[],[2017],5,PART_B_5M
+Object Oriented Programming through Java,How to handle multiple catch blocks for a nested try block? Explain with an example.,TRY_CATCH_THROW_THROWS_FINALLY,Understand,5,[],"[2018, 2022]",5,PART_B_5M
+Object Oriented Programming through Java,"Evaluate the role of throw, throws, and finally in exception handling. How do these constructs contribute to robust error management in a program?",TRY_CATCH_THROW_THROWS_FINALLY,Evaluate,5,[],[2024],5,PART_B_5M
+Object Oriented Programming through Java,Write a java program that illustrates the application of multiple catch statements.,TRY_CATCH_THROW_THROWS_FINALLY,Apply,5,[],[2018],5,PART_B_5M
+Object Oriented Programming through Java,Discuss ‘throw’ and ‘throws’ keywords for exception handling.,TRY_CATCH_THROW_THROWS_FINALLY,Understand,7,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,"Explain the usage of try, catch, throw, throws and finally keywords in exception.",TRY_CATCH_THROW_THROWS_FINALLY,Understand,8,[],[2022],5,PART_B_5M
+Object Oriented Programming through Java,Explain nested try statements and multiple catch blocks with example programs.,TRY_CATCH_THROW_THROWS_FINALLY,Understand,8,[],[2020],5,PART_B_5M
+Object Oriented Programming through Java,What is an exception? Write a program to accept a password from user and throw “Authentication Denied” exception if the password is incorrect.,TRY_CATCH_THROW_THROWS_FINALLY,Apply,10,[],[2023],10,PART_B_10M
+Object Oriented Programming through Java,"Explain the usage of try, catch, throw, throws, and finally in Java exception handling with code examples.",TRY_CATCH_THROW_THROWS_FINALLY,Understand,10,[],[2024],10,PART_B_10M
+Object Oriented Programming through Java,Demonstrate exception handling mechanism with ‘try -catch-finally’ blocks with an example JAVA program.,TRY_CATCH_THROW_THROWS_FINALLY,Understand,10,[],[2021],10,PART_B_10M
+Object Oriented Programming through Java,What is type conversion?,TYPE_CONVERSION_AND_CASTING,Remember,1,[2024],[],1,PART_A_1M
+Object Oriented Programming through Java,What are the primitive data types in Java? Write about type conversions.,TYPE_CONVERSION_AND_CASTING,Remember,5,[],"[2018, 2022]",5,PART_B_5M

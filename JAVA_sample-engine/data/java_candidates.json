@@ -1,0 +1,7253 @@
+[
+  {
+    "id": "JAVA_001",
+    "text": "What is an abstract class?",
+    "topic": "ABSTRACT_CLASSES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019,
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_002",
+    "text": "What is abstract class? Give example.",
+    "topic": "ABSTRACT_CLASSES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_003",
+    "text": "Define Abstract class and Abstract method.",
+    "topic": "ABSTRACT_CLASSES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_004",
+    "text": "Write a program which has an abstract class Solid and implements Cylinder, Cone and Sphere by inheriting from solid to find surface area and volume.",
+    "topic": "ABSTRACT_CLASSES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_005",
+    "text": "Explain the significance of public, protected and private access specifiers in inheritance.",
+    "topic": "ACCESS_CONTROL",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_006",
+    "text": "Explain various access modifiers (private, public, protected and default) used in JAVA.",
+    "topic": "ACCESS_CONTROL",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_007",
+    "text": "What is adapter class?",
+    "topic": "ADAPTER_CLASSES",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_008",
+    "text": "Define Adapter classes.",
+    "topic": "ADAPTER_CLASSES",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_009",
+    "text": "What is an adapter class? Explain with an example.",
+    "topic": "ADAPTER_CLASSES",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_010",
+    "text": "What is an adapter class? What is their role in event handling?",
+    "topic": "ADAPTER_CLASSES",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_011",
+    "text": "Explain about the adapter class with an example.",
+    "topic": "ADAPTER_CLASSES",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_012",
+    "text": "What is an applet?",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_013",
+    "text": "What is Swing in Java? How it differs from Applet.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_014",
+    "text": "Why do applet classes need to be declared as public?",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_015",
+    "text": "How do applets differ from application program?",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_016",
+    "text": "Why is an applet more secure than an application program?",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_017",
+    "text": "What is an Applet? Explain the life cycle of an Applet.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_018",
+    "text": "Explain the life cycle of an applet.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017,
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_019",
+    "text": "Write an applet to display the mouse cursor position in that applet window.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_020",
+    "text": "Explain how the parameters are passing to an applet.",
+    "topic": "CREATING_AND_PASSING_PARAMETERS_TO_APPLETS",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_021",
+    "text": "Write a simple calculator applet that can handle basic math functions.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_022",
+    "text": "What is an applet? Explain the life cycle of Applet with a neat sketch.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_023",
+    "text": "Write the applets to draw the Cube and Cylinder shapes.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_024",
+    "text": "Create a simple applet to display a smiley picture using Graphics class methods.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_025",
+    "text": "Discuss about different applet display methods in brief.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_026",
+    "text": "What is the difference between init( ) and start ( ) methods in an Applet? When will each be executed?",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_027",
+    "text": "Explain the security issues of applets and compare them with applications.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_028",
+    "text": "Develop an applet that receives an integer in one text field and the compute the factorial value and return in another text field , when the button named COMPUTE is clicked.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_029",
+    "text": "Explain the following: a) MVC architecture b) Anonymous inner classes c) Security issues in applets.",
+    "topic": "APPLETS_CONCEPTS_AND_LIFECYCLE",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_030",
+    "text": "Give the AWT hierarchy.",
+    "topic": "AWT_CLASS_HIERARCHY",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_031",
+    "text": "Explain AWT class hierarchy.",
+    "topic": "AWT_CLASS_HIERARCHY",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_032",
+    "text": "Implement a Java program that utilizes the AWT class hierarchy to create a simple user interface.",
+    "topic": "AWT_CLASS_HIERARCHY",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_033",
+    "text": "What is the purpose of a ScrollPane in Java GUI?",
+    "topic": "AWT_CONTAINERS_AND_PANELS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_034",
+    "text": "Discuss various AWT containers with examples.",
+    "topic": "AWT_USER_INTERFACE_COMPONENTS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_035",
+    "text": "Write a java program to design a scientific calculator using AWT.",
+    "topic": "AWT_USER_INTERFACE_COMPONENTS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_036",
+    "text": "List out various checked exceptions in Java.",
+    "topic": "BUILT_IN_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_037",
+    "text": "List any four unchecked exception.",
+    "topic": "BUILT_IN_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_038",
+    "text": "Explain the concept of java built in exceptions with an example.",
+    "topic": "BUILT_IN_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_039",
+    "text": "Differentiate between Checked and UnChecked Exceptions with examples.",
+    "topic": "BUILT_IN_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_040",
+    "text": "Explain Checked and Unchecked Exceptions in Java ? Explain.",
+    "topic": "BUILT_IN_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_041",
+    "text": "Explain checked exceptions and unchecked exceptions with example.",
+    "topic": "BUILT_IN_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_042",
+    "text": "Write about built-in exceptions in java.",
+    "topic": "BUILT_IN_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_043",
+    "text": "What is the difference between a class and an object?",
+    "topic": "CLASSES_AND_OBJECTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_044",
+    "text": "Identify the differences between Classes and Instances.",
+    "topic": "CLASSES_AND_OBJECTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_045",
+    "text": "Differentiate between a class and object.",
+    "topic": "CLASSES_AND_OBJECTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017,
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_046",
+    "text": "Describe the key features of classes and objects in Java.",
+    "topic": "CLASSES_AND_OBJECTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_047",
+    "text": "What is the significance of CLASSPATH variable?",
+    "topic": "CLASSPATH",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_048",
+    "text": "What is the significance of the CLASSPATH environment variable in creating/using a package?",
+    "topic": "CLASSPATH",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_049",
+    "text": "Discuss about CLASSPATH environment variables.",
+    "topic": "CLASSPATH",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_050",
+    "text": "Explain the purpose of the CLASSPATH and how it is used in Java.",
+    "topic": "CLASSPATH",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_051",
+    "text": "What is Default Constructor and Parameterized constructor?",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_052",
+    "text": "Which methods of deque enable it to be used as a stack?",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_053",
+    "text": "Differentiate between print() and println() methods in Java.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_054",
+    "text": "What is a Constructor?",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_055",
+    "text": "What are static variables and static methods?",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_056",
+    "text": "Explain the need of Constructors?",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_057",
+    "text": "What is a constructor? What is its requirement in programming? Explain with program.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018,
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_058",
+    "text": "Write a program to illustrate a copy constructor so that a string may be duplicated into another variable either by assignment or copying.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_059",
+    "text": "Discuss how java handles overridden methods. In short, how base class member functions can be invoked in a derived class if the derived class also has a member function with the same name.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_060",
+    "text": "Write a Program to illustrate static variables and static methods.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_061",
+    "text": "What is the use of ArrayList class? Describe any two methods of Array List class.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_062",
+    "text": "Explain the importance of constructor.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_063",
+    "text": "What is the importance of hashCode() and equals() methods?",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_064",
+    "text": "What is the purpose of constructor in Java programming?",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_065",
+    "text": "Demonstrate ordinal( ) method of enum.",
+    "topic": "CONSTRUCTORS_AND_METHODS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_066",
+    "text": "What are Control Statements?",
+    "topic": "CONTROL_STATEMENTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_067",
+    "text": "Explain the control statements in Java.",
+    "topic": "CONTROL_STATEMENTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_068",
+    "text": "Give the syntax of various control statements used in Java programs and explain them.",
+    "topic": "CONTROL_STATEMENTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_069",
+    "text": "Write a java program to pass parameters to an Applet.",
+    "topic": "CREATING_AND_PASSING_PARAMETERS_TO_APPLETS",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_070",
+    "text": "Explain how to pass parameters to applets.",
+    "topic": "CREATING_AND_PASSING_PARAMETERS_TO_APPLETS",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_071",
+    "text": "Explain the process of passing parameters to Applets.",
+    "topic": "CREATING_AND_PASSING_PARAMETERS_TO_APPLETS",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_072",
+    "text": "How to pass parameters to an applet? Write an applet to accept Account number and balance in the form of parameter and print message \u201clow balance\u201d if balance is less than 500.",
+    "topic": "CREATING_AND_PASSING_PARAMETERS_TO_APPLETS",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_073",
+    "text": "What are the two ways of implementing thread in Java?",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_074",
+    "text": "How do we start and stop a thread?",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_075",
+    "text": "Explain the need of Multithreading.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_076",
+    "text": "What is the difference between a thread and a process?",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017,
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_077",
+    "text": "How to assign priorities to threads?",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_078",
+    "text": "How to create threads in Java?",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_079",
+    "text": "Differentiate between a thread and a process.",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_080",
+    "text": "How do we set priorities for threads?",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_081",
+    "text": "What is the difference Thread and Process?",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_082",
+    "text": "Describe how to create a thread with an example.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_083",
+    "text": "Write a program that demonstrate the priority setting in threads.",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_084",
+    "text": "Write a program to create four threads using Runnable interface.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017,
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_085",
+    "text": "Differentiate between multiprocessing and multithreading. What is to be done to implement these in a program?",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_086",
+    "text": "Write a program that creates two threads. Fist thread prints the numbers from 1 to 100 and the other thread prints the numbers from 100 to 1.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_087",
+    "text": "Explain different procedures for creating thread.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_088",
+    "text": "Explain about creation of threads in Java.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_089",
+    "text": "Write a program to create two threads, using these two th reads print even and odd numbers in increasing order.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_090",
+    "text": "How to assign priorities to threads in Java program?",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_091",
+    "text": "Write a program to create three threads in your program and context switch among the threads using sleep functions.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_092",
+    "text": "Explain Multithreading. In how many ways java implements multithreading? Explain at least one of these ways with appropriate example.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_093",
+    "text": "How can you create your own exception subclass?",
+    "topic": "CUSTOM_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_094",
+    "text": "What keywords are essential in handling user-defined exception?",
+    "topic": "CUSTOM_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_095",
+    "text": "With a program, illustrate user defined exception handling.",
+    "topic": "CUSTOM_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018,
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_096",
+    "text": "Demonstrate creation of user defined exception in Java.",
+    "topic": "CUSTOM_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_097",
+    "text": "How to create a user defined exception?",
+    "topic": "CUSTOM_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_098",
+    "text": "Discuss about creating user defined exceptions in detail.",
+    "topic": "CUSTOM_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_099",
+    "text": "What are the differences between caught and uncaught exception?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_100",
+    "text": "Write a program to create user defined exception.",
+    "topic": "CUSTOM_EXCEPTIONS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_101",
+    "text": "What is Daemon Thread?",
+    "topic": "DAEMON_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_102",
+    "text": "Differentiate between regular threads and daemon threads in Java.",
+    "topic": "DAEMON_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_103",
+    "text": "What is the size of char data type? Why does it differ from C language?",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_104",
+    "text": "Why reserved words are not used in variable name.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_105",
+    "text": "Make a comparison of List, array and ArrayList.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_106",
+    "text": "Explain the enumerated data types with an example.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_107",
+    "text": "Write a program which stor es a list of strings in an Array List and then displays the contents of the list.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_108",
+    "text": "List the primitive data types available in Java and explain.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_109",
+    "text": "What is an array? How do you declare the array in java? Give examples.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_110",
+    "text": "Write a Java program to find smallest of array elements.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_111",
+    "text": "Discuss the various data types available in Java, with examples.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_112",
+    "text": "Discuss different data types defined in Java.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_113",
+    "text": "Explain about various data types used in Java with examples.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_114",
+    "text": "How to implement Array List in Java with examples?",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_115",
+    "text": "What are the primitive data types available in Java? Explain.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_116",
+    "text": "How to obtain an array from an ArrayList?",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_117",
+    "text": "Explain Array List and Array Deque? What is the difference between them? How do you implement them in java? Explain with suitable example.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_118",
+    "text": "Given two one dimensional arrays A and B which are sorted in ascending order. Write a program to merge them into a single sorted array C that contains every item from arrays A and B, in ascending order.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_119",
+    "text": "Write a java code to sort array list in descending order.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_120",
+    "text": "What are annotations in Java?",
+    "topic": "ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_121",
+    "text": "What is the benefit of Generics in Collections Framework?",
+    "topic": "ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_122",
+    "text": "Describe the generics with examples.",
+    "topic": "ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_123",
+    "text": "Demonstrate Enumerations and Auto Boxing in Java.",
+    "topic": "ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_124",
+    "text": "Define Event, Panel and container.",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_125",
+    "text": "What are the various events generated by menu, List box components?",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_126",
+    "text": "What is an Event Listener in java?",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_127",
+    "text": "Describe the Event Handling in detail.",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_128",
+    "text": "What is an Event Listener? Give an example.",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_129",
+    "text": "How Event handling is done in java?",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_130",
+    "text": "What is the role of event listeners in event handling? List the Java event listeners.",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018,
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_131",
+    "text": "Briefly explain Delegation Event Model.",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_132",
+    "text": "Describe in detail about the various event listener interfaces.",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_133",
+    "text": "Write a short note on delegation event model.",
+    "topic": "EVENT_HANDLING_AND_DELEGATION_MODEL",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_134",
+    "text": "What is exception?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_135",
+    "text": "Differentiate between error and exception.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_136",
+    "text": "What is the difference between error and an exception?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_137",
+    "text": "Explain the benefits of exception handling.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_138",
+    "text": "Write a program that counts the number of characters, words and lines in a file. Use exceptions to check whether the file you are reading exists or not. Take file name as a command line argument.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_139",
+    "text": "What happens when a raised exception is not caught by any catch block ? Explain with an example.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_140",
+    "text": "Differentiate between an error and an exception. Give examples for the same.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_141",
+    "text": "What is meant by re-throwing exception? Discuss a suitable scenario for this.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_142",
+    "text": "What are advantages of using Exception handling mechanism in a program?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_143",
+    "text": "Write a java program that demonstrates how certain exception types are not allowed to be thrown.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_144",
+    "text": "Analyze the impact of not using exception handling in a program. How does it affect the overall program flow and user experience?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_145",
+    "text": "Write a program with nested try statements for handling exception.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_146",
+    "text": "What are the different ways to handle exceptions? Explain.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_147",
+    "text": "What is an Exception? How is an Exception handled in JAVA?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_148",
+    "text": "Write a java code for handling Arithmetic exception?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_149",
+    "text": "What is Exception? How exceptions are handled in Java?",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_150",
+    "text": "What is an exception? Explain about exceptional handling in Java.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_151",
+    "text": "What is an Exception? How is an Exception handled in JAVA? Give example.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_152",
+    "text": "What is an exception? How is it different from an error? What are the basic keywords used to handle exceptions in Java? Explain their usage.",
+    "topic": "EXCEPTION_HANDLING_CONCEPTS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_153",
+    "text": "Can a class extend multiple interfaces?",
+    "topic": "EXTENDING_INTERFACES",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_154",
+    "text": "With suitable code segments illustrate various uses of \u2018final\u2019 keyword.",
+    "topic": "FINAL_KEYWORD",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_155",
+    "text": "Write a Java program that uses the final keyword in the context of inheritance.",
+    "topic": "FINAL_KEYWORD",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_156",
+    "text": "What is meant by Garbage collection?",
+    "topic": "GARBAGE_COLLECTION",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_157",
+    "text": "Explain the following with example a) this keyword. b) garbage collection. c) Constructor.",
+    "topic": "GARBAGE_COLLECTION",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_158",
+    "text": "Explain the role of Graphics in drawing and rendering in Java. Write a Java program that demonstrates the use of the Graphics class.",
+    "topic": "GRAPHICS_PROGRAMMING",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_159",
+    "text": "What is the difference between implicit and explicit import state ment? Which one takes less time for compilation.",
+    "topic": "IMPORTING_PACKAGES",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_160",
+    "text": "Describe the process of importing and accessing a package with suitable examples.",
+    "topic": "IMPORTING_PACKAGES",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_161",
+    "text": "Explain about importing Java packages with suitable Java program.",
+    "topic": "IMPORTING_PACKAGES",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_162",
+    "text": "Explain with an example how multiple inheritance is achieved in Java.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_163",
+    "text": "What is inheritance and how does it help to create new classes quickly.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_164",
+    "text": "Given a scenario, can you propose a solution that leverages Java's inheritance concepts to optimize code structure?",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_165",
+    "text": "How do you implement Hierarchical Inheritance in Java? Explain.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_166",
+    "text": "What is inheritance? Discuss different inheritance types.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_167",
+    "text": "Discuss the benefits of inheritance.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_168",
+    "text": "Explain Data abstraction encapsulation and inheritance with suitable example.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_169",
+    "text": "Describe various forms of inheritance in java with example.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_170",
+    "text": "What is composition in Java? How is it different from inheritance?",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_171",
+    "text": "What is inheritance? Explain different forms of inheritance with suitable program segments and real world example classes.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_172",
+    "text": "What are the benefits of inheritance? Explain the various forms of inheritance with suitable code segments.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2018,
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_173",
+    "text": "Explain inheritance and its types? How runtime polymorphism can be achieved using inheritance, explain with a suitable program?",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_174",
+    "text": "Define inheritance. What ar e the benefits of inheritance? What costs are associated with inheritance? How to prevent a class from inheritance?",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_175",
+    "text": "Name any two user interface components in Java.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_176",
+    "text": "Differentiate class, abstract class and interface.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_177",
+    "text": "What is an interface and how it differs from a class?",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_178",
+    "text": "Compare interface and abstract class.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_179",
+    "text": "Explain Nested Interfaces?",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_180",
+    "text": "Contrast between abstract class and interface.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_181",
+    "text": "Explain abstract class with an example and compare with interface",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_182",
+    "text": "Differentiate between interface and abstract class.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_183",
+    "text": "Identify the relationship between classes and interfaces.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_184",
+    "text": "What is an interface? What are the similarities between interfaces and classes?",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_185",
+    "text": "How can you extend one interface by the other interface? Discuss.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_186",
+    "text": "Give an Example to demonstrate the extension of interfaces in Java.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_187",
+    "text": "Critically eva luate the design choices made in the definition of collection interfaces. How do these choices contribute to the flexibility and extensibility of the Collections Framework?",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_188",
+    "text": "Contrast sorted map and navigable map interfaces.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_189",
+    "text": "Give an example where interface can be used to support multiple inheritance.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017,
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_190",
+    "text": "What is the accessibility of a public method or field inside a nonpublic class or interface? Explain.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_191",
+    "text": "How to design and implement an interface in Java? Give an example.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_192",
+    "text": "What is Comparable and Comparator interface? Differentiate between them.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_193",
+    "text": "Explain nested interfaces with an example JAVA program.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_194",
+    "text": "Explain about implementation of interfaces in Java.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_195",
+    "text": "How to design and implement an interface? Explain.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_196",
+    "text": "How to define an interface? What is its role in multiple inheritance?",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_197",
+    "text": "What is interface? How to implement interface in Java?",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_198",
+    "text": "Explain about Collection interface and its methods.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_199",
+    "text": "Discuss the similarities between interfaces and classes.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_200",
+    "text": "How to inherit an interface to another?",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_201",
+    "text": "Explain how interface is used to achieve multiple inheritance in Java?",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_202",
+    "text": "Write a program to demonstrate hierarchical and multiple inheritance using interfaces.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_203",
+    "text": "Explain Map Interfaces and Classes with examples.",
+    "topic": "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_204",
+    "text": "How does Java support inter thread communication?",
+    "topic": "INTER_THREAD_COMMUNICATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018,
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_205",
+    "text": "Write a program to implement producer -consumer communication using inter thread communication functions.",
+    "topic": "INTER_THREAD_COMMUNICATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_206",
+    "text": "Describe producer-consumer pattern using inter-thread communication",
+    "topic": "INTER_THREAD_COMMUNICATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_207",
+    "text": "Evaluate the use of wait() and notify() for inter -thread communication. How do these mechanisms contribute to effective coordination between threads?",
+    "topic": "INTER_THREAD_COMMUNICATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Evaluate",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_208",
+    "text": "What are the methods available in the Character Streams? Discuss.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017,
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_209",
+    "text": "Compare byte streams with character streams.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_210",
+    "text": "Write a Java program to read a text file then count and display no. of lines, words in it.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_211",
+    "text": "Write a Java program to copy contents of one file to another.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_212",
+    "text": "Write a program to copy the contents of file1 to file 2. Read the names of files as command line arguments.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_213",
+    "text": "Explain the random access file operations with a suitable program.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_214",
+    "text": "Write a program to display the bytes of a file in reverse sequence. Provide the name of the file as a command line argument. (Use RandomAccessFile).",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_215",
+    "text": "How can we open and read a text file in java? Explain your answer with an example JAVA program.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_216",
+    "text": "What is a stream? Explain Byte Stream and Character Stream.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_217",
+    "text": "Distinguish between byte streams and character streams.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_218",
+    "text": "Distinguish between Byte Stream Classes and Character Stream Classes.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_219",
+    "text": "State the differences between a byte stream and a character stream.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_220",
+    "text": "Write a program to improve the efficiency of writing data into a file using Buffered Output Stream.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_221",
+    "text": "Write java program to display the contents of file.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_222",
+    "text": "Discuss about File Output Stream with an example.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_223",
+    "text": "Write a program to read and write contents of a file as a stream of bytes?",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_224",
+    "text": "Explain random access file operations and File class in Java.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_225",
+    "text": "Write a Java program to show the use of File Input Stream.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_226",
+    "text": "What support is provided by File class for file management? Illustrate with suitable scenarios.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_227",
+    "text": "Write a program to perform find and replace activity on a given file. Read file name as command line argument and string1 to search in the file and replace it with string2. String1 and String2 are from user through prompt.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_228",
+    "text": "Write a program that generates random integers and stores them in a file named \u201crand.dat\u201d. The program then reads the integers from file and displays on the screen.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_229",
+    "text": "Write a program to merge the content of two files (user\u2019s contacts in a mobile) into a target file.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_230",
+    "text": "Differentiate between grid layout and border layout managers.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_231",
+    "text": "What are the various layout managers used in Java?",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_232",
+    "text": "Illustrate in detail about the various layout managers used in Java?",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_233",
+    "text": "What is an Layout manager? Explain different types of Layout managers.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_234",
+    "text": "List and explain different types of Layout managers with suitable examples.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_235",
+    "text": "Explain various layout managers in JAVA.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_236",
+    "text": "What is Layout manager? Discuss different types of layout managers used in JAVA with demonstration.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_237",
+    "text": "What are the member access rules?",
+    "topic": "MEMBER_ACCESS_RULES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_238",
+    "text": "Discuss member access rules.",
+    "topic": "MEMBER_ACCESS_RULES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_239",
+    "text": "Demonstrate constructor overloading concept.",
+    "topic": "METHOD_AND_CONSTRUCTOR_OVERLOADING",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_240",
+    "text": "What is method overloading? Demonstrate with sample Java code.",
+    "topic": "METHOD_AND_CONSTRUCTOR_OVERLOADING",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_241",
+    "text": "Write a Java program to implement constructor overloading.",
+    "topic": "METHOD_AND_CONSTRUCTOR_OVERLOADING",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_242",
+    "text": "Illustrate method overloading with an example JAVA program.",
+    "topic": "METHOD_AND_CONSTRUCTOR_OVERLOADING",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_243",
+    "text": "Write a Java program for method overloading concept.",
+    "topic": "METHOD_AND_CONSTRUCTOR_OVERLOADING",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_244",
+    "text": "Define Constructor. What is constructor overloading? Write a program to illustrate the same.",
+    "topic": "METHOD_AND_CONSTRUCTOR_OVERLOADING",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_245",
+    "text": "Define polymorphism and inheritance.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_246",
+    "text": "What is meant by ad-hoc polymorphism?",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_247",
+    "text": "What is meant by dynamic method dispatch?",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_248",
+    "text": "What is polymorphism? Explain different types of polymorphisms with examples.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_249",
+    "text": "Using Java, can you implement a practical example of method overriding to demonstrate polymorphic behavior?",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_250",
+    "text": "How does polymorphism promote extensibility? Explain with example.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_251",
+    "text": "How do we implement polymorphism in JAVA? Explain briefly.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_252",
+    "text": "Explain how JAVA implements run-time polymorphism.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_253",
+    "text": "Explain method overriding with a suitable example program.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_254",
+    "text": "What is Method overriding? Write a program to demonstrate method overriding.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_255",
+    "text": "Explain about method overriding in Java with example.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_256",
+    "text": "What is dynamic binding? How it differs from static binding?",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_257",
+    "text": "Explain the concept of dynamic binding with an example program.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_258",
+    "text": "Discuss about various types of polymorphism.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_259",
+    "text": "Explain inheritance and its types? H ow runtime polymorphism can be achieved using inheritance, explain with a suitable program?",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_260",
+    "text": "What is polymorphism? Differentiate between compile time and runtime polymorphism with the help of complete java program.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_261",
+    "text": "What are the sources for item event?",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_262",
+    "text": "Write a java Program to handle various keyboard events.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_263",
+    "text": "Explain procedure to handle mouse events in Java with an example program.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_264",
+    "text": "Discuss the handling of mouse events in Java.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_265",
+    "text": "How to handle mouse events in Java program? Explain with an example.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_266",
+    "text": "Explain about the Mouse Event Class and how to implement java with example.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_267",
+    "text": "Write a program to implement the keyboard events in Java.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_268",
+    "text": "What is an event? Explain delegation event model with suitable program for handling mouse events.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_269",
+    "text": "What is thread based preemptive multitasking?",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_270",
+    "text": "Define and differentiate multiprocessing and multithreading.",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_271",
+    "text": "Analyze the advantages and disadvantages of thread -based multitasking compared to process-based multitasking. In what scenarios is one more suitable than the other?",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_272",
+    "text": "Differentiate between thread-based multitasking and process-based multitasking.",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_273",
+    "text": "Distinguish between thread based and process based multitasking.",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_274",
+    "text": "Explain the thread based preemptive multitasking with example.",
+    "topic": "MULTITHREADING_VS_MULTITASKING",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_275",
+    "text": "Describe the Model-View-Controller architecture.",
+    "topic": "MVC_ARCHITECTURE",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_276",
+    "text": "Explain about MVC architecture.",
+    "topic": "MVC_ARCHITECTURE",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_277",
+    "text": "Explain MVC architecture? Explain about containers? Write the limitations of AWT.",
+    "topic": "MVC_ARCHITECTURE",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_278",
+    "text": "Create a user interface using MVC architecture and swing concepts to book a seat in a bus [like redbus/abhibus applications].",
+    "topic": "MVC_ARCHITECTURE",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_279",
+    "text": "What is an anonymous inner class?",
+    "topic": "NESTED_AND_INNER_CLASSES",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_280",
+    "text": "What is the use of anonymous inner class?",
+    "topic": "NESTED_AND_INNER_CLASSES",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_281",
+    "text": "What is an Inner class?",
+    "topic": "NESTED_AND_INNER_CLASSES",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_282",
+    "text": "Discuss about anonymous inner classes.",
+    "topic": "NESTED_AND_INNER_CLASSES",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_283",
+    "text": "What is a nested class? Is every nested class an inner class? Justify your answer.",
+    "topic": "NESTED_AND_INNER_CLASSES",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Evaluate",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_284",
+    "text": "What is inner class? Discuss different inner classes.",
+    "topic": "NESTED_AND_INNER_CLASSES",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_285",
+    "text": "Explain the uses of inner classes.",
+    "topic": "NESTED_AND_INNER_CLASSES",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_286",
+    "text": "List and explain any four methods of Object class.",
+    "topic": "OBJECT_CLASS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_287",
+    "text": "Define data abstraction.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_288",
+    "text": "What is the significance of Java\u2019s byte code?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_289",
+    "text": "What is Byte code?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_290",
+    "text": "What is an Object? How to allocate memory for objects?",
+    "topic": "CLASSES_AND_OBJECTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_291",
+    "text": "What are the differences between JToggle buttion and Radio buttion?",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_292",
+    "text": "What is Console class? What is its use in java?",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_294",
+    "text": "Write about Random Utility Class?",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_295",
+    "text": "Write about Border Layout.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_296",
+    "text": "List the different ways to read input from console in java.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_297",
+    "text": "Define stream. List types of streams.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_298",
+    "text": "Does java supports multiple inheritances? Justify your answer.",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Evaluate",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_299",
+    "text": "List the applications of object oriented programming.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_300",
+    "text": "How to cast types in expression evaluation?",
+    "topic": "TYPE_CONVERSION_AND_CASTING",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_301",
+    "text": "Contrast text streams and binary streams.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_302",
+    "text": "Explain why Java is Machine Independent.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_303",
+    "text": "Explain the use of \u2018for\u2019 statement in Java with an example.",
+    "topic": "CONTROL_STATEMENTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_304",
+    "text": "List out the benefits of Stream oriented I/O.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_305",
+    "text": "What are symbolic constants? Explain with examples.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_306",
+    "text": "Define the basic characteristics of object oriented programming.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_307",
+    "text": "What is the use of auto boxing in java? Explain.",
+    "topic": "ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_308",
+    "text": "What is serialization? Give one example.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_310",
+    "text": "What is the need of IO Streams?",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_311",
+    "text": "What is a Multi Threading? Explain.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_312",
+    "text": "What feature of Java makes it platform independent and portable?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_313",
+    "text": "Is Java a robust language? Justify your answer.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Evaluate",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017,
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_314",
+    "text": "Write a program to count number of words in a given sentence.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_315",
+    "text": "Discuss the drawbacks of procedural languages and explain the need of object oriented programming with suitable program.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018,
+      2022,
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.375
+  },
+  {
+    "id": "JAVA_316",
+    "text": "Discuss the lexical issues of Java.",
+    "topic": "DATA_TYPES_VARIABLES_ARRAYS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_317",
+    "text": "Write a Java program to check whether a given string is palindrome.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_318",
+    "text": "What are the fundamental characteristics of OOPs?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_319",
+    "text": "Write a simple Timer that can periodically print a timeout message.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_320",
+    "text": "Write a program to display the month names by JList and display the Days by JComboBox.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_321",
+    "text": "Explain any five features of object oriented programming.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_322",
+    "text": "What is auto boxing? Explain.",
+    "topic": "ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_323",
+    "text": "Explain the implementation of priority queue in java.",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_324",
+    "text": "Discuss the different levels of access protection available in Java.",
+    "topic": "ACCESS_CONTROL",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_325",
+    "text": "What are the different ways that are possible to create multiple threaded programs in java? Discuss the differences between them.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_326",
+    "text": "Write a program to create a frame window that responds to key strokes.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_327",
+    "text": "Can you demonstrate how the principles of object -oriented thinking can be applied to solve a real-world problem?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_328",
+    "text": "Can you create a multilevel class hierarchy in Java to model a system with different levels of abstraction?",
+    "topic": "INHERITANCE_BASICS_AND_TYPES",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_329",
+    "text": "What are the responsibilities of an agent?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_330",
+    "text": "What is type wrapper? What is the role of auto boxing?",
+    "topic": "ENUMERATIONS_AUTOBOXING_ANNOTATIONS_GENERICS",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_331",
+    "text": "What is the purpose of BitSet class? What is the functionality of the following functions of BitSet class: cardinality( ) , flip( ) and intersects( )",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_332",
+    "text": "Illustrate the use of Grid Bag layout.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_333",
+    "text": "What is meant by byte code? Briefly explain how Java is platform independent.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_334",
+    "text": "Explain different parts of a Java program with an appropriate example.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_335",
+    "text": "How many ways are possible in ja va to create multiple threaded programs? Discuss the differences between them.",
+    "topic": "CREATING_THREADS",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_336",
+    "text": "Explain the Bit Set and Calander classes in detail.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_337",
+    "text": "Describe the structure of a typical Java program with an example.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_338",
+    "text": "Write the significance of Java Virtual Machine.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_339",
+    "text": "Write a program to create a frame window that responds to mouse clicks.",
+    "topic": "MOUSE_AND_KEYBOARD_EVENTS",
+    "unit": 4,
+    "category": "U4_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_340",
+    "text": "Write the summary of OOP concepts.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_341",
+    "text": "Explain the features of Java.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_342",
+    "text": "List and explain various features of Object Oriented Programming paradigm.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_343",
+    "text": "Does Java support multi way selection statement? Justify your answer.",
+    "topic": "CONTROL_STATEMENTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Evaluate",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_344",
+    "text": "What are Java buzzwords? Explain in detail.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_345",
+    "text": "Explain various features of Java language.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_346",
+    "text": "Write a detailed note on Java Virtual Machine.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_347",
+    "text": "What features of Java make it a robust language?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_348",
+    "text": "Write a program to list all the files and directories contained in a directory given as the command line argument.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_349",
+    "text": "Make a comparison of procedural programming paradigm with object oriented programming paradigm.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_350",
+    "text": "What are object-oriented paradigms? Explain in detail.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_351",
+    "text": "Discuss about input and output streams in Java with examples.",
+    "topic": "JAVA_IO_BASICS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_352",
+    "text": "Explain string and string buffer class in Java.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_353",
+    "text": "What is meant by data abstraction? Briefly explain.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_354",
+    "text": "Write a Java program to accept a String and to reverse it?",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_355",
+    "text": "How is abstraction different from information hiding?",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_356",
+    "text": "Compare and contrast procedure oriented programming with object oriented programming. Which paradigm is preferred for advanced problem solving? Why.",
+    "topic": "OOP_PARADIGM_AND_CONCEPTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Evaluate",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_357",
+    "text": "Analyze the use of utility classes in complex data processing scenarios. How can these classes contribute to code readability and maintainability, and are there any trade -offs associated with their usage?",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_358",
+    "text": "List the various operators in Java.",
+    "topic": "OPERATORS_AND_EXPRESSIONS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_359",
+    "text": "Write a program to compute division by 2 without using any arithmetic operator.",
+    "topic": "OPERATORS_AND_EXPRESSIONS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_360",
+    "text": "Define a Package? What is its use in java? Explain.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_361",
+    "text": "Discuss the concept of Packages.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_362",
+    "text": "How to define a package in Java?",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_363",
+    "text": "What is a package? How to define it and access it?",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017,
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_364",
+    "text": "How to create and use a package in Java program?",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_365",
+    "text": "What is a Package? Write down the steps for creating user defined package.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_366",
+    "text": "Explain the process of creating and accessing packages with suitable example.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_367",
+    "text": "Explain the member access rules for package in Java",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_368",
+    "text": "Discuss the various levels of access protection for packages and their implications.",
+    "topic": "ACCESS_CONTROL",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_369",
+    "text": "Discuss how to define and import a package? Explain with an example.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_370",
+    "text": "Explain the process of defining and creating a package with suitable examples.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_371",
+    "text": "Explain the process of defining, creating, and accessing a package in Java.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_372",
+    "text": "Discuss access protection for packages.",
+    "topic": "ACCESS_CONTROL",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_373",
+    "text": "What is a package? Explain creating and accessing package with example.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_374",
+    "text": "How to create and access packages in JAVA? Illustrate briefly.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_375",
+    "text": "How to define a package? How to access, import a package? Explain with examples.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_376",
+    "text": "Write a Program to demonstrate how to create a package and use it in another class.",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_377",
+    "text": "What are Packages? Explain. Write a Java code to create Employee package with basic employee details?",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_378",
+    "text": "Discuss basic in-built packages in java and their uses in application development in brief. Which package is the default package?",
+    "topic": "PACKAGES_CREATION_AND_ACCESS",
+    "unit": 2,
+    "category": "U2_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_379",
+    "text": "Explain various parameter passing techniques.",
+    "topic": "PARAMETER_PASSING_AND_RECURSION",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_380",
+    "text": "What is the use of Scanner class?",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_381",
+    "text": "Write about the string Tokenizer.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_382",
+    "text": "Write about any two string handling functions in Java?",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_383",
+    "text": "What is the purpose of String Tokenizer class? Explain.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_384",
+    "text": "Write a short note on String Tokenizer.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023,
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_385",
+    "text": "Explain about Calendar class and DateFormat class methods in detail.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_386",
+    "text": "Explain Date and Scanner classes in detail.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_387",
+    "text": "Write a program to read a f ile content and extract words using String Tokenizer class. Display the file if it contains the user query term/search key.",
+    "topic": "STRING_HANDLING_AND_JAVA_UTIL",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_388",
+    "text": "Illustrate the use of the super keyword in a Java program.",
+    "topic": "SUPER_KEYWORD",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_389",
+    "text": "Write a program to implement multilevel hierarchy, use super keyword to define methods in sub classes.",
+    "topic": "SUPER_KEYWORD",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_390",
+    "text": "Which Swing class is used for creating buttons?",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_391",
+    "text": "Give the subclasses of JButton class.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_392",
+    "text": "Explain about JCombo box.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_393",
+    "text": "Explore GUI Programming with Swing.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_394",
+    "text": "Give the hierarchy for swing components.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_395",
+    "text": "In what way JButton is better than Button Class explain with an example?",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_396",
+    "text": "Give an overview of JButton class.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_397",
+    "text": "What are the various classes used in creating a swing menu?",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_398",
+    "text": "Explain about the Hierarchy for the swing components.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_399",
+    "text": "Compare and contrast Swing and Abstract Window Toolkit (AWT) in Java.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_400",
+    "text": "What are the subclasses of JButton class of swing package?",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_401",
+    "text": "What are the various components of Swing? Explain.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_402",
+    "text": "Discuss how Combo boxes contribute to a more user-friendly interface in Java Swing.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_403",
+    "text": "Write a program to create user interface for simple arithmetic calculator using swing components and grid layout manager.",
+    "topic": "LAYOUT_MANAGERS",
+    "unit": 4,
+    "category": "U4_CAT_B",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_404",
+    "text": "Design a user interface to collect data from the student for admission application using swing components.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_405",
+    "text": "Propose a comprehensive comparison between AWT and Swing, considering not only their limitations but also their strengths. Formulate recommendations for situatio ns where AWT might still be preferable.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_406",
+    "text": "Synthesize a strategy for handling simultaneous mouse and keyboard events in a Swing application. Propose solutions for scenarios where efficient handling of multiple input sources is crucial.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_407",
+    "text": "Write about various Swing Controls? Write a code to create login window.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_408",
+    "text": "Explain three UI components of swing and their classes and constructors.",
+    "topic": "SWING_COMPONENTS",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_409",
+    "text": "List the swing containers.",
+    "topic": "SWING_CONTAINERS_JFRAME_JAPPLET",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_410",
+    "text": "Write a swing application which uses JTabbed Pane and JPanel.",
+    "topic": "SWING_CONTAINERS_JFRAME_JAPPLET",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_411",
+    "text": "How to move/drag a component placed in Swing Container? Explain.",
+    "topic": "SWING_CONTAINERS_JFRAME_JAPPLET",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_412",
+    "text": "Compare the features of JApplet and JFrame in Java Swing.",
+    "topic": "SWING_CONTAINERS_JFRAME_JAPPLET",
+    "unit": 5,
+    "category": "U5_APPLETS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_413",
+    "text": "Name any two limitations of AWT.",
+    "topic": "SWING_OVERVIEW_AND_LIMITATIONS_OF_AWT",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_414",
+    "text": "What are the limitations of AWT?",
+    "topic": "SWING_OVERVIEW_AND_LIMITATIONS_OF_AWT",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_415",
+    "text": "Why swing components are preferred over AWT components?",
+    "topic": "SWING_OVERVIEW_AND_LIMITATIONS_OF_AWT",
+    "unit": 5,
+    "category": "U5_SWING",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_416",
+    "text": "What is the purpose of \u2018this\u2019 keyword in java?",
+    "topic": "THIS_KEYWORD",
+    "unit": 1,
+    "category": "U1_CAT_B",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_417",
+    "text": "Analyze the impact of using for -each loops on code readability and maintainability. How does this alternative contribute to or hinder the expressiveness of the code?",
+    "topic": "CONTROL_STATEMENTS",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_418",
+    "text": "Write a program to explain the concept of dynami c method dispatch and also discuss real world applications of this concept.",
+    "topic": "METHOD_OVERRIDING_AND_POLYMORPHISM",
+    "unit": 2,
+    "category": "U2_CAT_A",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_419",
+    "text": "Write the complete life cycle of a thread.",
+    "topic": "THREAD_LIFECYCLE",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_420",
+    "text": "Explain the life cycle of a Thread.",
+    "topic": "THREAD_LIFECYCLE",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_421",
+    "text": "Explain with a neat diagram the life cycle of a thread.",
+    "topic": "THREAD_LIFECYCLE",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_422",
+    "text": "Describe the life cycle of a thread in Java.",
+    "topic": "THREAD_LIFECYCLE",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_423",
+    "text": "Describe the thread life cycle.",
+    "topic": "THREAD_LIFECYCLE",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_424",
+    "text": "Describe the life cycle of a thread.",
+    "topic": "THREAD_LIFECYCLE",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_425",
+    "text": "Explain briefly about the life cycle of a thread and Explain various methods of thread class.",
+    "topic": "THREAD_LIFECYCLE",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_426",
+    "text": "List the thread priorities with examples.",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_427",
+    "text": "Write a program to explain thread priorities usage.",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_428",
+    "text": "Describe thread states and thread priorities.",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_429",
+    "text": "Explain thread states and thread priorities.",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_430",
+    "text": "Explain how to implement thread priorities in java with examples.",
+    "topic": "THREAD_PRIORITIES",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_431",
+    "text": "Write about Synchronization of threads.",
+    "topic": "THREAD_SYNCHRONIZATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_432",
+    "text": "What is synchronization and why is it important?",
+    "topic": "THREAD_SYNCHRONIZATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_433",
+    "text": "Explain thread synchronization briefly.",
+    "topic": "THREAD_SYNCHRONIZATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_434",
+    "text": "How to achieve synchronization among threads? Write suitable code.",
+    "topic": "THREAD_SYNCHRONIZATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_435",
+    "text": "What is synchronization? How to implement synchronization in Java.",
+    "topic": "THREAD_SYNCHRONIZATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_436",
+    "text": "What is the need of thread synchronization? What is the Java support for this?",
+    "topic": "THREAD_SYNCHRONIZATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_437",
+    "text": "Describe the need of thread synchronization. How is it achieved in Java programming? Explain with a suitable program.",
+    "topic": "THREAD_SYNCHRONIZATION",
+    "unit": 3,
+    "category": "U3_THREADS",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_438",
+    "text": "How many catch blocks and finally blocks can we use with try blocks? Why.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2019
+    ],
+    "last_year": 2019,
+    "gap": 5,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_439",
+    "text": "Compare and contrast throw and throws.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_440",
+    "text": "Write a program using try and catch block to check whether the given array size is negative or not.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_441",
+    "text": "Differentiate between throw and throws. Give example.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Analyze",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_442",
+    "text": "Write a program to illustrate the use of multiple catch blocks for a try block.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_443",
+    "text": "What are the uses of \u2018throw\u2019 and \u2018throws\u2019 clauses for exception handling?",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2017
+    ],
+    "last_year": 2017,
+    "gap": 7,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_444",
+    "text": "How to handle multiple catch blocks for a nested try block? Explain with an example.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018,
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.25
+  },
+  {
+    "id": "JAVA_445",
+    "text": "Evaluate the role of throw, throws, and finally in exception handling. How do these constructs contribute to robust error management in a program?",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Evaluate",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_446",
+    "text": "Write a java program that illustrates the application of multiple catch statements.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018
+    ],
+    "last_year": 2018,
+    "gap": 6,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_447",
+    "text": "Discuss \u2018throw\u2019 and \u2018throws\u2019 keywords for exception handling.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_448",
+    "text": "Explain the usage of try, catch, throw, throws and finally keywords in exception.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_449",
+    "text": "Explain nested try statements and multiple catch blocks with example programs.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2020
+    ],
+    "last_year": 2020,
+    "gap": 4,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_450",
+    "text": "What is an exception? Write a program to accept a password from user and throw \u201cAuthentication Denied\u201d exception if the password is incorrect.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Apply",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2023
+    ],
+    "last_year": 2023,
+    "gap": 1,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_451",
+    "text": "Explain the usage of try, catch, throw, throws, and finally in Java exception handling with code examples.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_452",
+    "text": "Demonstrate exception handling mechanism with \u2018try -catch-finally\u2019 blocks with an example JAVA program.",
+    "topic": "TRY_CATCH_THROW_THROWS_FINALLY",
+    "unit": 3,
+    "category": "U3_EXCEPTIONS",
+    "bloom": "Understand",
+    "normalized_marks": 10,
+    "slot_type": "PART_B_10M",
+    "years": [
+      2021
+    ],
+    "last_year": 2021,
+    "gap": 3,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_453",
+    "text": "What is type conversion?",
+    "topic": "TYPE_CONVERSION_AND_CASTING",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 1,
+    "slot_type": "PART_A_1M",
+    "years": [
+      2024
+    ],
+    "last_year": 2024,
+    "gap": 0,
+    "freq": 0.125
+  },
+  {
+    "id": "JAVA_454",
+    "text": "What are the primitive data types in Java? Write about type conversions.",
+    "topic": "TYPE_CONVERSION_AND_CASTING",
+    "unit": 1,
+    "category": "U1_CAT_A",
+    "bloom": "Remember",
+    "normalized_marks": 5,
+    "slot_type": "PART_B_5M",
+    "years": [
+      2018,
+      2022
+    ],
+    "last_year": 2022,
+    "gap": 2,
+    "freq": 0.25
+  }
+]
