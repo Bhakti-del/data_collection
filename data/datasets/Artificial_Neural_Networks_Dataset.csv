@@ -168,7 +168,7 @@ Artificial Neural Networks,Write about Boltzmann Learning.,NEURON_MODELS_AND_LEA
 Artificial Neural Networks,Write an early stopping meta-algorithm for determining the best amount of time to train.,NEURON_MODELS_AND_LEARNING,Remember,15,[],[2020]
 Artificial Neural Networks,Write the difference between supervised and unsupervised learning.,NEURON_MODELS_AND_LEARNING,Analyze,2,[2023],[]
 Artificial Neural Networks,Write the following algorithms in associative memories.,NEURON_MODELS_AND_LEARNING,Remember,5,[],[2023]
-Artificial Neural Networks,"Consider a Kohonen network with two cluster units and five input units. The weigh vectors for the cluster units are w1 = [0.1, 0.3, 0.5, 0.7, 0.9] and w2 = [0.9, 0.7, 0.5, 0.3, 0.1] Use the square of the Euclidean distance to find the winning cluster unit for the input pattern.",SELF_ORGANIZING_MAPS,Remember,5,[],[2023]
+Artificial Neural Networks,"Consider a Kohonen network with two cluster units and five input units. The weight vectors for the cluster units are w_1 = [0.1, 0.3, 0.5, 0.7, 0.9] and w_2 = [0.9, 0.7, 0.5, 0.3, 0.1] Use the square of the Euclidean distance to find the winning cluster unit for the input pattern.",SELF_ORGANIZING_MAPS,Remember,5,[],[2023]
 Artificial Neural Networks,Describe the three essential processes involved in the formation of self -organizing map.,SELF_ORGANIZING_MAPS,Understand,15,[],[2021]
 Artificial Neural Networks,Discuss Computer Simulations and Learning Vector Quantization.,SELF_ORGANIZING_MAPS,Apply,5,[],[2019]
 Artificial Neural Networks,Discuss in detail about Adaptive pattern classification.,SELF_ORGANIZING_MAPS,Understand,10,[],[2024]
