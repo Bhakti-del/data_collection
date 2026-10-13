@@ -51,7 +51,7 @@ TEXT_ROOT = (
 )
 CONFIG_DIR = PROJECT_ROOT / "data" / "syllabi" / "configs" / REGULATION
 IMG_OUT = PROJECT_ROOT / "data" / "images"
-DATASETS_DIR = PROJECT_ROOT / "data" / "datasets"
+DATASETS_DIR = PROJECT_ROOT / "data" / "datasets_with_images"
 DATASETS_IMG_DIR = PROJECT_ROOT / "data" / "datasets_with_images"
 
 BLOOM_VERBS = {
@@ -241,22 +241,13 @@ def build_subject(folder: str, text_dir: Path) -> tuple[int, int]:
 
     base = f"{title_slug(folder)}_R18_Dataset.csv"
     DATASETS_DIR.mkdir(parents=True, exist_ok=True)
-    DATASETS_IMG_DIR.mkdir(parents=True, exist_ok=True)
     with open(DATASETS_DIR / base, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         for rec in dataset.values():
             writer.writerow(to_row(rec))
 
-    with_img = 0
-    with open(DATASETS_IMG_DIR / base, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        for rec in dataset.values():
-            if rec["image_paths"]:
-                writer.writerow(to_row(rec))
-                with_img += 1
-
+    with_img = sum(1 for rec in dataset.values() if rec["image_paths"])
     return len(dataset), with_img
 
 
@@ -304,7 +295,6 @@ def main() -> None:
     print(f"Total questions    : {total_q}")
     print(f"Image questions    : {total_img}")
     print(f"Datasets dir       : {DATASETS_DIR}")
-    print(f"Images-only dir    : {DATASETS_IMG_DIR}")
 
 
 if __name__ == "__main__":
