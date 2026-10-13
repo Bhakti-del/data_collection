@@ -1,0 +1,2 @@
+subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years,image_path
+Electronic Devices And Circuits,"For the circuit shown β = 150, VCC = 10 V, RB = 300K Ω and RC = 1100 Ω. Find: i) Quiescent Current ICQ ii) Quiescent Voltage VCEQ.",TRANSISTOR_BIASING_AND_STABILIZATION,Apply,5,[],[2023],data/images/ELECTRONIC_DEVI_SEPTEMBEROCTOBER-2023_Q8_b.png

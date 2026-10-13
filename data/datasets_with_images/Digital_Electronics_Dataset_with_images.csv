@@ -1,0 +1,2 @@
+subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years,image_path
+Digital Electronics,Design a clocked sequential machine using JK flip flops for the state diagram shown in figure. Use state reduction if possible and make proper state assignment.,GENERAL,Apply,10,[],[2024],data/images/DIGITAL_ELECTRO_6FEBRUARY-2024_Q11.png
