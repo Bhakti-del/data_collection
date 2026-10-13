@@ -1,0 +1,74 @@
+{
+  "subject_name": "Java Programming",
+  "canonical_id": "SUBJECT_JAVA",
+  "regulation": "R15",
+  "year": "II",
+  "sem": "II",
+  "units": {
+    "UNIT_1": {
+      "name": "OOP concepts and Java programming",
+      "topics": [
+        "OOP_CONCEPTS_AND_PARADIGMS",
+        "DATA_ABSTRACTION_AND_ENCAPSULATION",
+        "HISTORY_OF_JAVA_AND_BUZZWORDS",
+        "DATA_TYPES_VARIABLES_CONSTANTS",
+        "OPERATORS_AND_EXPRESSIONS",
+        "CONTROL_FLOW_AND_LOOPS",
+        "ARRAYS_AND_STRINGS",
+        "CONSTRUCTORS_AND_METHODS",
+        "PARAMETER_PASSING_AND_RECURSION",
+        "GARBAGE_COLLECTION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "Inheritance, Polymorphism, Interfaces, Packages",
+      "topics": [
+        "INHERITANCE_HIERARCHIES",
+        "MEMBER_ACCESS_RULES",
+        "SUPER_KEYWORD",
+        "FINAL_CLASSES_AND_METHODS",
+        "METHOD_OVERRIDING_AND_DYNAMIC_BINDING",
+        "ABSTRACT_CLASSES_AND_METHODS",
+        "INTERFACES_DEFINITION_AND_IMPLEMENTATION",
+        "INNER_CLASSES",
+        "PACKAGES_CREATION_AND_CLASSPATH"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Exception handling and Multithreading",
+      "topics": [
+        "EXCEPTION_HANDLING_BENEFITS",
+        "CHECKED_AND_UNCHECKED_EXCEPTIONS",
+        "TRY_CATCH_THROW_THROWS_FINALLY",
+        "CUSTOM_EXCEPTIONS",
+        "MULTITHREADING_AND_THREAD_STATES",
+        "CREATING_THREADS",
+        "THREAD_PRIORITIES",
+        "THREAD_SYNCHRONIZATION",
+        "INTER_THREAD_COMMUNICATION"
+      ]
+    },
+    "UNIT_4": {
+      "name": "Collection Framework, Files and Connecting to Database",
+      "topics": [
+        "JAVA_COLLECTION_FRAMEWORK",
+        "COLLECTION_CLASSES_VECTOR_STACK_HASHTABLE",
+        "GENERICS_AND_ITERATORS",
+        "FILE_STREAMS_AND_IO",
+        "CONNECTING_TO_DATABASE_JDBC"
+      ]
+    },
+    "UNIT_5": {
+      "name": "GUI Programming with Java, Event handling and Applets",
+      "topics": [
+        "AWT_CLASS_HIERARCHY",
+        "SWING_VS_AWT_AND_COMPONENTS",
+        "LAYOUT_MANAGERS",
+        "EVENT_HANDLING_AND_DELEGATION_MODEL",
+        "MOUSE_AND_KEYBOARD_EVENTS",
+        "ADAPTER_CLASSES",
+        "APPLETS_LIFECYCLE_AND_GRAPHICS"
+      ]
+    }
+  }
+}

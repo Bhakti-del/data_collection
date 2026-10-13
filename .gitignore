@@ -6,28 +6,35 @@ __pycache__/
 venv/
 env/
 
-# Large PDF binaries & temporary text dumps
-data/raw_pdfs/*
-!data/raw_pdfs/.gitkeep
-data/extracted_text/*
-!data/extracted_text/.gitkeep
+# Data Engineering Pipeline - Raw Inputs & Local Caches
+data/raw/
+data/raw_pdfs/
+data/extracted_text/
+data/cleaned_text/
+temp_data/cleaned_papers/
+temp_data/Text_data/
 
-# Elixir / Phoenix build artifacts
+# Local Scratch, Metrics & Review Checkpoints
+scratch/
+scratch_metrics.json
+*.checkpoint.json
+.tagger_checkpoint.json
+
+# Build & Language Artifacts
 _build/
 deps/
 *.beam
 .fetch
-
-# Lean build artifacts
 .lake/
 lake-packages/
 
-# Checkpoints & Cache
-*.checkpoint.json
-.tagger_checkpoint.json
-
-# OS / Editor
+# OS / Editor Artifacts
 .DS_Store
 Thumbs.db
 *.swp
 *.swo
+
+# Explicitly Whitelist Canonical Datasets, Syllabi & Excluded Repositories
+!data/datasets/*.csv
+!data/syllabi/**
+!data/excluded/*.csv

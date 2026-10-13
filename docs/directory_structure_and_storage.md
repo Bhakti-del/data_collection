@@ -12,25 +12,36 @@ question-paper-predictor/
 │   ├── pipeline_architecture.md                 # End-to-end pipeline architecture & rules
 │   ├── subject_onboarding_guide.md              # Parallel execution SOP for team members
 │   ├── data_cleaning_guide.md                   # Text normalization, en-dash, and kerning rules
-│   └── setup_and_run.md                         # Pipeline execution guide
+│   ├── setup_and_run.md                         # Pipeline execution guide
+│   └── directory_structure_and_storage.md       # Directory layout and data hierarchy
 │
-├── data/                                        # Data assets
-│   ├── Java_Dataset.csv                         # Master finalized dataset for Java (454 rows)
-│   ├── java_unmatched_archive.csv               # Archived legacy out-of-syllabus questions
-│   ├── cleaned_papers/                          # Cleaned question paper text files
-│   └── syllabi_configs/                         # Master syllabus JSON configs per subject
-│       └── R22/                                 # Official R22 syllabus JSON configs
-│           └── Java_syllabus.json
+├── data/                                        # Canonical Data Root (Single Source of Truth)
+│   ├── datasets/                                # Validated Production Datasets (29 Subject CSVs)
+│   │   ├── Advanced_Algorithms_Dataset.csv
+│   │   ├── Artificial_Intelligence_Dataset.csv
+│   │   └── ... (all 29 subject datasets)
+│   ├── syllabi/                                 # Official syllabi references & configs
+│   │   ├── R22_CSE_Syllabus.md
+│   │   └── configs/                             # Regulation-wise JSON configs (R13, R15, R16, R18, R22)
+│   ├── excluded/                                # Filtered questions & figure-dependent archives
+│   │   ├── Advanced_Algorithms_excluded.csv
+│   │   └── ...
+│   └── raw/                                     # Raw crawled inputs & OCR txt (gitignored)
+│       ├── extracted_text/
+│       └── pdfs/
 │
-├── scripts/                                     # Automated data collection pipeline tools
+├── Training_Data/                               # Independent model training datasets (Untouched)
+│   └── dbms_os_se_train.csv
+│
+├── scripts/                                     # Automated data collection & QA pipeline tools
+│   ├── audit_datasets.py                        # Automated integrity & quality validation suite
+│   ├── clean_all_datasets.py                    # Master dataset standardization & cleaning pipeline
 │   ├── clean_papers.py                          # Boilerplate stripper and text regularizer
 │   ├── txt_to_csv.py                            # Question segmentation and mark extraction
 │   ├── local_llm_tagger.py                      # Local LLM syllabus & Bloom classifier (Ollama)
 │   └── extract_images.py                        # Diagram and equation extractor
 │
-├── syllabus/                                    # Raw syllabus references
-│   └── R22_CSE_Syllabus.md                      # Official JNTUH R22 CSE Syllabus
-│
+├── src/                                         # Core parsing, tagging, and deduplication modules
 └── tools/                                       # Scraping and batch extraction tools
     ├── pdf_to_txt.py                            # PDF to text converter
     └── qpaper_scraper.py                        # Selenium-based crawler
