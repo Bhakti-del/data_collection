@@ -121,11 +121,24 @@ def parse_questions_from_text(text: str) -> list[dict]:
         if not stripped:
             continue
 
-        if any(h in stripped.lower() for h in [
+        low = stripped.lower()
+        if any(h in low for h in [
             "hall ticket", "roll no", "jawaharlal nehru technological",
-            "time: 3 hours", "max marks", "max. marks", "note:",
-            "answer any five", "part-a", "part-b", "---oo"
+            "time: 3 hours", "time: 2 hours", "max marks", "max. marks", "note:",
+            "answer any five", "part-a", "part-b", "---oo", "code no",
+            "jntuh", "-ooooo-", "--ooo--"
         ]):
+            continue
+        # Standalone exam instructions / noise lines
+        if re.fullmatch(r"or", low):
+            continue
+        if re.fullmatch(r"\(\s*\d+\s*marks\s*\)", low):
+            continue
+        if re.fullmatch(r"part\s*[\-–]?\s*[ab]\b.*", low):
+            continue
+        if re.fullmatch(r"r1[0-9](\s*[/,]?\s*r1[0-9])*", low):
+            continue
+        if re.match(r"^\d{2}[\-/]\d{2}[\-/]\d{4}", low):
             continue
 
         m = re.match(r"^\s*(\d+)[\.\)]\s*(?:([a-z])\))?", stripped, re.IGNORECASE)
@@ -300,6 +313,7 @@ def main():
     parser = argparse.ArgumentParser(description="Extract diagrams and generate structured dataset with image paths.")
     parser.add_argument("--paper", type=str, help="Specific paper stem to process (e.g., 'March-2021')")
     parser.add_argument("--subject", type=str, help="Filter by subject folder name")
+    parser.add_argument("--regulation", type=str, help="Filter by regulation folder (e.g., 'R15')")
     parser.add_argument("--all", action="store_true", help="Process all available papers")
     parser.add_argument("--img_out", type=Path, default=DEFAULT_IMG_OUT, help="Directory to save cropped images")
     parser.add_argument("--csv_out", type=Path, default=DEFAULT_CSV_OUT, help="Path for output CSV")
@@ -317,6 +331,11 @@ def main():
     txt_files = list(TEXT_BASE.rglob("*.txt"))
     if args.subject:
         txt_files = [f for f in txt_files if args.subject.lower() in f.parent.name.lower()]
+    if args.regulation:
+        txt_files = [
+            f for f in txt_files
+            if any(args.regulation.lower() in part.lower() for part in f.relative_to(TEXT_BASE).parts)
+        ]
     if args.paper:
         txt_files = [f for f in txt_files if args.paper.lower() in f.stem.lower()]
 
