@@ -1,0 +1,300 @@
+{
+  "subject_name": "Probability And Statistics",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "SINGLE_RANDOM_VARIABLES_PROBABILITY",
+        "RANDOM_VARIABLES",
+        "DISCRETE_CONTINUOUS",
+        "PROBABILITY_DISTRIBUTIONS",
+        "MASS_FUNCTION",
+        "DENSITY_FUNCTION_PROBABILITY_DISTRIBUTION",
+        "MATHEMATICAL_EXPECTATION",
+        "MOMENT_ORIGIN"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "MULTIPLE_RANDOM_VARIABLES",
+        "CORRELATION_REGRESSION",
+        "JOINT_PROBABILITY_DISTRIBUTIONS_JOINT",
+        "DENSITY_FUNCTION",
+        "MARGINAL_PROBABILITY_COMPUTER_SCIENCE",
+        "DENSITY_FUNCTIONS",
+        "COVARIANCE_TWO_RANDOM_VARIABLES",
+        "CORRELATION"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "SAMPLING_DISTRIBUTIONS_TESTING_HYPOTHESIS",
+        "POPULATION",
+        "SAMPLING",
+        "STATISTIC",
+        "PARAMETER",
+        "TYPES_SAMPLING",
+        "EXPECTED_VALUES_SAMPLE_MEAN",
+        "SAMPLING_DISTRIBUTION"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "QUEUING_THEORY",
+        "STRUCTURE_QUEUING_SYSTEM",
+        "OPERATING_CHARACTERISTICS_QUEUING_SYSTEM",
+        "TRANSIENT_STEADY_STATES",
+        "TERMINOLOGY_QUEUING_SYSTEMS",
+        "ARRIVAL_SERVICE_PROCESSES_PURE",
+        "MODEL_INFINITE_QUEUE",
+        "MODEL_FINITE_QUEUE"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "STOCHASTIC_PROCESSES",
+        "STOCHASTIC_PROCESSES_CLASSIFICATION_RANDOM",
+        "METHODS_DESCRIPTION_RANDOM_PROCESSES",
+        "COMPUTER_SCIENCE_ENGINEERING_STATIONARY",
+        "AVERAGE_VALUES_SINGLE_RANDOM",
+        "MARKOV_PROCESS",
+        "MARKOV_CHAIN",
+        "CLASSIFICATION_STATES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "SINGLE_RANDOM_VARIABLES_PROBABILITY": [
+      "single random variables probability",
+      "single",
+      "random",
+      "variables",
+      "probability"
+    ],
+    "RANDOM_VARIABLES": [
+      "random variables",
+      "random",
+      "variables"
+    ],
+    "DISCRETE_CONTINUOUS": [
+      "discrete continuous",
+      "discrete",
+      "continuous"
+    ],
+    "PROBABILITY_DISTRIBUTIONS": [
+      "probability distributions",
+      "probability",
+      "distributions"
+    ],
+    "MASS_FUNCTION": [
+      "mass function",
+      "mass",
+      "function"
+    ],
+    "DENSITY_FUNCTION_PROBABILITY_DISTRIBUTION": [
+      "density function probability distribution",
+      "density",
+      "function",
+      "probability",
+      "distribution"
+    ],
+    "MATHEMATICAL_EXPECTATION": [
+      "mathematical expectation",
+      "mathematical",
+      "expectation"
+    ],
+    "MOMENT_ORIGIN": [
+      "moment origin",
+      "moment",
+      "origin"
+    ],
+    "MULTIPLE_RANDOM_VARIABLES": [
+      "multiple random variables",
+      "multiple",
+      "random",
+      "variables"
+    ],
+    "CORRELATION_REGRESSION": [
+      "correlation regression",
+      "correlation",
+      "regression"
+    ],
+    "JOINT_PROBABILITY_DISTRIBUTIONS_JOINT": [
+      "joint probability distributions joint",
+      "joint",
+      "probability",
+      "distributions",
+      "joint"
+    ],
+    "DENSITY_FUNCTION": [
+      "density function",
+      "density",
+      "function"
+    ],
+    "MARGINAL_PROBABILITY_COMPUTER_SCIENCE": [
+      "marginal probability computer science",
+      "marginal",
+      "probability",
+      "computer",
+      "science"
+    ],
+    "DENSITY_FUNCTIONS": [
+      "density functions",
+      "density",
+      "functions"
+    ],
+    "COVARIANCE_TWO_RANDOM_VARIABLES": [
+      "covariance two random variables",
+      "covariance",
+      "random",
+      "variables"
+    ],
+    "CORRELATION": [
+      "correlation",
+      "correlation"
+    ],
+    "SAMPLING_DISTRIBUTIONS_TESTING_HYPOTHESIS": [
+      "sampling distributions testing hypothesis",
+      "sampling",
+      "distributions",
+      "testing",
+      "hypothesis"
+    ],
+    "POPULATION": [
+      "population",
+      "population"
+    ],
+    "SAMPLING": [
+      "sampling",
+      "sampling"
+    ],
+    "STATISTIC": [
+      "statistic",
+      "statistic"
+    ],
+    "PARAMETER": [
+      "parameter",
+      "parameter"
+    ],
+    "TYPES_SAMPLING": [
+      "types sampling",
+      "types",
+      "sampling"
+    ],
+    "EXPECTED_VALUES_SAMPLE_MEAN": [
+      "expected values sample mean",
+      "expected",
+      "values",
+      "sample",
+      "mean"
+    ],
+    "SAMPLING_DISTRIBUTION": [
+      "sampling distribution",
+      "sampling",
+      "distribution"
+    ],
+    "QUEUING_THEORY": [
+      "queuing theory",
+      "queuing",
+      "theory"
+    ],
+    "STRUCTURE_QUEUING_SYSTEM": [
+      "structure queuing system",
+      "structure",
+      "queuing",
+      "system"
+    ],
+    "OPERATING_CHARACTERISTICS_QUEUING_SYSTEM": [
+      "operating characteristics queuing system",
+      "operating",
+      "characteristics",
+      "queuing",
+      "system"
+    ],
+    "TRANSIENT_STEADY_STATES": [
+      "transient steady states",
+      "transient",
+      "steady",
+      "states"
+    ],
+    "TERMINOLOGY_QUEUING_SYSTEMS": [
+      "terminology queuing systems",
+      "terminology",
+      "queuing",
+      "systems"
+    ],
+    "ARRIVAL_SERVICE_PROCESSES_PURE": [
+      "arrival service processes pure",
+      "arrival",
+      "service",
+      "processes",
+      "pure"
+    ],
+    "MODEL_INFINITE_QUEUE": [
+      "model infinite queue",
+      "model",
+      "infinite",
+      "queue"
+    ],
+    "MODEL_FINITE_QUEUE": [
+      "model finite queue",
+      "model",
+      "finite",
+      "queue"
+    ],
+    "STOCHASTIC_PROCESSES": [
+      "stochastic processes",
+      "stochastic",
+      "processes"
+    ],
+    "STOCHASTIC_PROCESSES_CLASSIFICATION_RANDOM": [
+      "stochastic processes classification random",
+      "stochastic",
+      "processes",
+      "classification",
+      "random"
+    ],
+    "METHODS_DESCRIPTION_RANDOM_PROCESSES": [
+      "methods description random processes",
+      "methods",
+      "description",
+      "random",
+      "processes"
+    ],
+    "COMPUTER_SCIENCE_ENGINEERING_STATIONARY": [
+      "computer science engineering stationary",
+      "computer",
+      "science",
+      "engineering",
+      "stationary"
+    ],
+    "AVERAGE_VALUES_SINGLE_RANDOM": [
+      "average values single random",
+      "average",
+      "values",
+      "single",
+      "random"
+    ],
+    "MARKOV_PROCESS": [
+      "markov process",
+      "markov",
+      "process"
+    ],
+    "MARKOV_CHAIN": [
+      "markov chain",
+      "markov",
+      "chain"
+    ],
+    "CLASSIFICATION_STATES": [
+      "classification states",
+      "classification",
+      "states"
+    ]
+  },
+  "syllabus_section": "PROBABILITY AND STATISTICS"
+}

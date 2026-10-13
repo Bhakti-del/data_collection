@@ -1,0 +1,308 @@
+{
+  "subject_name": "Mathematics-1",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "THEORY_MATRICES",
+        "REAL_MATRICES",
+        "SYMMETRIC",
+        "SKEW",
+        "ORTHOGONAL",
+        "COMPLEX_MATRICES",
+        "HERMITIAN",
+        "SKEW_HERMITIAN_UNITARY_MATRICES"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "DIFFERENTIAL_CALCULUS_METHODS",
+        "ROLLE_S_MEAN_VALUE",
+        "LAGRANGE_S_MEAN_VALUE",
+        "CAUCHY_S_MEAN_VALUE",
+        "ALL_THEOREMS_WITHOUT_PROOF",
+        "VERIFICATION_THEOREMS_TESTING_APPLICABILITY",
+        "FUNCTIONS_SEVERAL_VARIABLES",
+        "FUNCTIONAL_DEPENDENCE_JACOBIAN_MAXIMA"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "IMPROPER_INTEGRATION",
+        "MULTIPLE_INTEGRATION_APPLICATIONS",
+        "GAMMA_BETA_FUNCTIONS_RELATION",
+        "EVALUATION_IMPROPER_INTEGRALS_GAMMA",
+        "BETA_FUNCTIONS_MULTIPLE_INTEGRALS",
+        "DOUBLE_TRIPLE_INTEGRALS",
+        "CHANGE_ORDER_INTEGRATION_CHANGE",
+        "POLAR"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "DIFFERENTIAL_EQUATIONS_APPLICATIONS",
+        "OVERVIEW_DIFFERENTIAL_EQUATIONS_EXACT",
+        "LINEAR_BERNOULLI",
+        "NOT_EXAMINED",
+        "APPLICATIONS_FIRST_ORDER_DIFFERENTIAL",
+        "NEWTON_S_LAW_COOLING",
+        "LAW_NATURAL_GROWTH_DECAY",
+        "ORTHOGONAL_TRAJECTORIES"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "LAPLACE_TRANSFORM_APPLICATIONS_ORDINARY",
+        "DOMAIN_FUNCTION_KERNEL_LAPLACE",
+        "EXISTENCE_LAPLACE_TRANSFORM",
+        "LAPLACE_TRANSFORM_STANDARD_FUNCTIONS",
+        "FIRST_SHIFTING_THEOREM",
+        "LAPLACE_TRANSFORM_FUNCTIONS_WHEN",
+        "LAPLACE_TRANSFORMS_DERIVATIVES_INTEGRALS",
+        "STEP_FUNCTION"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "THEORY_MATRICES": [
+      "theory matrices",
+      "theory",
+      "matrices"
+    ],
+    "REAL_MATRICES": [
+      "real matrices",
+      "real",
+      "matrices"
+    ],
+    "SYMMETRIC": [
+      "symmetric",
+      "symmetric"
+    ],
+    "SKEW": [
+      "skew",
+      "skew"
+    ],
+    "ORTHOGONAL": [
+      "orthogonal",
+      "orthogonal"
+    ],
+    "COMPLEX_MATRICES": [
+      "complex matrices",
+      "complex",
+      "matrices"
+    ],
+    "HERMITIAN": [
+      "hermitian",
+      "hermitian"
+    ],
+    "SKEW_HERMITIAN_UNITARY_MATRICES": [
+      "skew hermitian unitary matrices",
+      "skew",
+      "hermitian",
+      "unitary",
+      "matrices"
+    ],
+    "DIFFERENTIAL_CALCULUS_METHODS": [
+      "differential calculus methods",
+      "differential",
+      "calculus",
+      "methods"
+    ],
+    "ROLLE_S_MEAN_VALUE": [
+      "rolle s mean value",
+      "rolle",
+      "mean",
+      "value"
+    ],
+    "LAGRANGE_S_MEAN_VALUE": [
+      "lagrange s mean value",
+      "lagrange",
+      "mean",
+      "value"
+    ],
+    "CAUCHY_S_MEAN_VALUE": [
+      "cauchy s mean value",
+      "cauchy",
+      "mean",
+      "value"
+    ],
+    "ALL_THEOREMS_WITHOUT_PROOF": [
+      "all theorems without proof",
+      "theorems",
+      "without",
+      "proof"
+    ],
+    "VERIFICATION_THEOREMS_TESTING_APPLICABILITY": [
+      "verification theorems testing applicability",
+      "verification",
+      "theorems",
+      "testing",
+      "applicability"
+    ],
+    "FUNCTIONS_SEVERAL_VARIABLES": [
+      "functions several variables",
+      "functions",
+      "several",
+      "variables"
+    ],
+    "FUNCTIONAL_DEPENDENCE_JACOBIAN_MAXIMA": [
+      "functional dependence jacobian maxima",
+      "functional",
+      "dependence",
+      "jacobian",
+      "maxima"
+    ],
+    "IMPROPER_INTEGRATION": [
+      "improper integration",
+      "improper",
+      "integration"
+    ],
+    "MULTIPLE_INTEGRATION_APPLICATIONS": [
+      "multiple integration applications",
+      "multiple",
+      "integration",
+      "applications"
+    ],
+    "GAMMA_BETA_FUNCTIONS_RELATION": [
+      "gamma beta functions relation",
+      "gamma",
+      "beta",
+      "functions",
+      "relation"
+    ],
+    "EVALUATION_IMPROPER_INTEGRALS_GAMMA": [
+      "evaluation improper integrals gamma",
+      "evaluation",
+      "improper",
+      "integrals",
+      "gamma"
+    ],
+    "BETA_FUNCTIONS_MULTIPLE_INTEGRALS": [
+      "beta functions multiple integrals",
+      "beta",
+      "functions",
+      "multiple",
+      "integrals"
+    ],
+    "DOUBLE_TRIPLE_INTEGRALS": [
+      "double triple integrals",
+      "double",
+      "triple",
+      "integrals"
+    ],
+    "CHANGE_ORDER_INTEGRATION_CHANGE": [
+      "change order integration change",
+      "change",
+      "order",
+      "integration",
+      "change"
+    ],
+    "POLAR": [
+      "polar",
+      "polar"
+    ],
+    "DIFFERENTIAL_EQUATIONS_APPLICATIONS": [
+      "differential equations applications",
+      "differential",
+      "equations",
+      "applications"
+    ],
+    "OVERVIEW_DIFFERENTIAL_EQUATIONS_EXACT": [
+      "overview differential equations exact",
+      "overview",
+      "differential",
+      "equations",
+      "exact"
+    ],
+    "LINEAR_BERNOULLI": [
+      "linear bernoulli",
+      "linear",
+      "bernoulli"
+    ],
+    "NOT_EXAMINED": [
+      "not examined",
+      "examined"
+    ],
+    "APPLICATIONS_FIRST_ORDER_DIFFERENTIAL": [
+      "applications first order differential",
+      "applications",
+      "first",
+      "order",
+      "differential"
+    ],
+    "NEWTON_S_LAW_COOLING": [
+      "newton s law cooling",
+      "newton",
+      "cooling"
+    ],
+    "LAW_NATURAL_GROWTH_DECAY": [
+      "law natural growth decay",
+      "natural",
+      "growth",
+      "decay"
+    ],
+    "ORTHOGONAL_TRAJECTORIES": [
+      "orthogonal trajectories",
+      "orthogonal",
+      "trajectories"
+    ],
+    "LAPLACE_TRANSFORM_APPLICATIONS_ORDINARY": [
+      "laplace transform applications ordinary",
+      "laplace",
+      "transform",
+      "applications",
+      "ordinary"
+    ],
+    "DOMAIN_FUNCTION_KERNEL_LAPLACE": [
+      "domain function kernel laplace",
+      "domain",
+      "function",
+      "kernel",
+      "laplace"
+    ],
+    "EXISTENCE_LAPLACE_TRANSFORM": [
+      "existence laplace transform",
+      "existence",
+      "laplace",
+      "transform"
+    ],
+    "LAPLACE_TRANSFORM_STANDARD_FUNCTIONS": [
+      "laplace transform standard functions",
+      "laplace",
+      "transform",
+      "standard",
+      "functions"
+    ],
+    "FIRST_SHIFTING_THEOREM": [
+      "first shifting theorem",
+      "first",
+      "shifting",
+      "theorem"
+    ],
+    "LAPLACE_TRANSFORM_FUNCTIONS_WHEN": [
+      "laplace transform functions when",
+      "laplace",
+      "transform",
+      "functions",
+      "when"
+    ],
+    "LAPLACE_TRANSFORMS_DERIVATIVES_INTEGRALS": [
+      "laplace transforms derivatives integrals",
+      "laplace",
+      "transforms",
+      "derivatives",
+      "integrals"
+    ],
+    "STEP_FUNCTION": [
+      "step function",
+      "step",
+      "function"
+    ]
+  },
+  "syllabus_section": "MATHEMATICS -I"
+}

@@ -1,0 +1,269 @@
+{
+  "subject_name": "Mathematical Foundations Of Computer Science",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "MATHEMATICAL_LOGIC",
+        "STATEMENTS_NOTATIONS",
+        "CONNECTIVES",
+        "WELL_FORMED_FORMULAS",
+        "TRUTH_TABLES",
+        "TAUTOLOGY",
+        "EQUIVALENCE_IMPLICATION",
+        "NORMAL_FORMS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "RELATIONS",
+        "PROPERTIES_BINARY_RELATIONS",
+        "EQUIVALENCE",
+        "TRANSITIVE_CLOSURE",
+        "COMPATIBILITY_PARTIAL_ORDERING_RELATIONS",
+        "LATTICES",
+        "HASSE_DIAGRAM",
+        "FUNCTIONS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "ELEMENTARY_COMBINATORICS",
+        "BASIS_COUNTING",
+        "COMBINATIONS_PERMUTATIONS",
+        "REPETITIONS",
+        "CONSTRAINED_REPETITIONS",
+        "BINOMIAL_COEFFICIENTS",
+        "BINOMIAL_MULTINOMIAL_THEOREMS",
+        "PRINCIPLES_INCLUSION"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "RECURRENCE_RELATION",
+        "GENERATING_FUNCTIONS",
+        "FUNCTION_SEQUENCES_CALCULATING_COEFFICIENT",
+        "RECURRENCE_RELATIONS",
+        "SOLVING_RECURRENCE_RELATION_SUBSTITUTION",
+        "CHARACTERISTICS_COMPUTER_SCIENCE_ENGINEERING"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "GRAPH_THEORY",
+        "REPRESENTATION_GRAPH",
+        "SPANNING_TREES",
+        "PLANAR_GRAPHS",
+        "GRAPH_THEORY_APPLICATIONS",
+        "ISOMORPHISM_SUB_GRAPHS",
+        "MULTI_GRAPHS_EULER_CIRCUITS",
+        "HAMILTONIAN_GRAPHS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "MATHEMATICAL_LOGIC": [
+      "mathematical logic",
+      "mathematical",
+      "logic"
+    ],
+    "STATEMENTS_NOTATIONS": [
+      "statements notations",
+      "statements",
+      "notations"
+    ],
+    "CONNECTIVES": [
+      "connectives",
+      "connectives"
+    ],
+    "WELL_FORMED_FORMULAS": [
+      "well formed formulas",
+      "well",
+      "formed",
+      "formulas"
+    ],
+    "TRUTH_TABLES": [
+      "truth tables",
+      "truth",
+      "tables"
+    ],
+    "TAUTOLOGY": [
+      "tautology",
+      "tautology"
+    ],
+    "EQUIVALENCE_IMPLICATION": [
+      "equivalence implication",
+      "equivalence",
+      "implication"
+    ],
+    "NORMAL_FORMS": [
+      "normal forms",
+      "normal",
+      "forms"
+    ],
+    "RELATIONS": [
+      "relations",
+      "relations"
+    ],
+    "PROPERTIES_BINARY_RELATIONS": [
+      "properties binary relations",
+      "properties",
+      "binary",
+      "relations"
+    ],
+    "EQUIVALENCE": [
+      "equivalence",
+      "equivalence"
+    ],
+    "TRANSITIVE_CLOSURE": [
+      "transitive closure",
+      "transitive",
+      "closure"
+    ],
+    "COMPATIBILITY_PARTIAL_ORDERING_RELATIONS": [
+      "compatibility partial ordering relations",
+      "compatibility",
+      "partial",
+      "ordering",
+      "relations"
+    ],
+    "LATTICES": [
+      "lattices",
+      "lattices"
+    ],
+    "HASSE_DIAGRAM": [
+      "hasse diagram",
+      "hasse",
+      "diagram"
+    ],
+    "FUNCTIONS": [
+      "functions",
+      "functions"
+    ],
+    "ELEMENTARY_COMBINATORICS": [
+      "elementary combinatorics",
+      "elementary",
+      "combinatorics"
+    ],
+    "BASIS_COUNTING": [
+      "basis counting",
+      "basis",
+      "counting"
+    ],
+    "COMBINATIONS_PERMUTATIONS": [
+      "combinations permutations",
+      "combinations",
+      "permutations"
+    ],
+    "REPETITIONS": [
+      "repetitions",
+      "repetitions"
+    ],
+    "CONSTRAINED_REPETITIONS": [
+      "constrained repetitions",
+      "constrained",
+      "repetitions"
+    ],
+    "BINOMIAL_COEFFICIENTS": [
+      "binomial coefficients",
+      "binomial",
+      "coefficients"
+    ],
+    "BINOMIAL_MULTINOMIAL_THEOREMS": [
+      "binomial multinomial theorems",
+      "binomial",
+      "multinomial",
+      "theorems"
+    ],
+    "PRINCIPLES_INCLUSION": [
+      "principles inclusion",
+      "principles",
+      "inclusion"
+    ],
+    "RECURRENCE_RELATION": [
+      "recurrence relation",
+      "recurrence",
+      "relation"
+    ],
+    "GENERATING_FUNCTIONS": [
+      "generating functions",
+      "generating",
+      "functions"
+    ],
+    "FUNCTION_SEQUENCES_CALCULATING_COEFFICIENT": [
+      "function sequences calculating coefficient",
+      "function",
+      "sequences",
+      "calculating",
+      "coefficient"
+    ],
+    "RECURRENCE_RELATIONS": [
+      "recurrence relations",
+      "recurrence",
+      "relations"
+    ],
+    "SOLVING_RECURRENCE_RELATION_SUBSTITUTION": [
+      "solving recurrence relation substitution",
+      "solving",
+      "recurrence",
+      "relation",
+      "substitution"
+    ],
+    "CHARACTERISTICS_COMPUTER_SCIENCE_ENGINEERING": [
+      "characteristics computer science engineering",
+      "characteristics",
+      "computer",
+      "science",
+      "engineering"
+    ],
+    "GRAPH_THEORY": [
+      "graph theory",
+      "graph",
+      "theory"
+    ],
+    "REPRESENTATION_GRAPH": [
+      "representation graph",
+      "representation",
+      "graph"
+    ],
+    "SPANNING_TREES": [
+      "spanning trees",
+      "spanning",
+      "trees"
+    ],
+    "PLANAR_GRAPHS": [
+      "planar graphs",
+      "planar",
+      "graphs"
+    ],
+    "GRAPH_THEORY_APPLICATIONS": [
+      "graph theory applications",
+      "graph",
+      "theory",
+      "applications"
+    ],
+    "ISOMORPHISM_SUB_GRAPHS": [
+      "isomorphism sub graphs",
+      "isomorphism",
+      "graphs"
+    ],
+    "MULTI_GRAPHS_EULER_CIRCUITS": [
+      "multi graphs euler circuits",
+      "multi",
+      "graphs",
+      "euler",
+      "circuits"
+    ],
+    "HAMILTONIAN_GRAPHS": [
+      "hamiltonian graphs",
+      "hamiltonian",
+      "graphs"
+    ]
+  },
+  "syllabus_section": "MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE"
+}

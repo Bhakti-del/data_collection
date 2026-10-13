@@ -1,0 +1,258 @@
+{
+  "subject_name": "English",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "CHAPTER_ENTITLED_WIT_HUMOUR",
+        "PUBLISHED_ORIENT_BLACK_SWAN",
+        "HYDERABAD",
+        "CHAPTER_ENTITLED_MOKSHAGUNDAM_VISVESVARAYA",
+        "PUBLISHED_MARUTHI_PUBLICATIONS",
+        "L_LISTENING_SOUNDS",
+        "STRESS_INTONATION_S_GREETING",
+        "INTRODUCING_ONESELF_OTHERS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "CHAPTER_ENTITLED_CYBER_AGE",
+        "HYDERABAD",
+        "CHAPTER_ENTITLED_THREE_DAYS",
+        "PUBLISHED_MARUTHI_PUBLICATIONS",
+        "LISTENING_THEMES_FACTS_S",
+        "APOLOGIZING",
+        "INTERRUPTING",
+        "REQUESTING_MAKING_POLITE_CONVERSATION"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "CHAPTER_ENTITLED_RISK_MANAGEMENT",
+        "FUNCTIONAL_ENGLISH_SUCCESS_PUBLISHED",
+        "HYDERABAD",
+        "CHAPTER_ENTITLED_LEELA_S",
+        "NARAYAN_EPITOME_WISDOM",
+        "PUBLISHED_MARUTHI_PUBLICATIONS",
+        "HYDERABAD_L",
+        "MAIN_POINTS_SUB_POINTS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "CHAPTER_ENTITLED_HUMAN_VALUES",
+        "HYDERABAD",
+        "CHAPTER_ENTITLED_LAST_LEAF",
+        "PUBLISHED_MARUTHI_PUBLICATIONS",
+        "HYDERABAD_L",
+        "LISTENING_SPECIFIC_DETAILS_INFORMATION",
+        "EXPRESSING_OPINIONS_TELEPHONE_INTERACTIONS",
+        "READING_SPECIFIC_DETAILS_INFORMATION"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "CHAPTER_ENTITLED_SPORTS_HEALTH",
+        "FUNCTIONAL_ENGLISH_SUCCESS_PUBLISHED",
+        "HYDERABAD",
+        "CHAPTER_ENTITLED_CONVOCATION_SPEECH",
+        "NARAYANMURTHY_EPITOME_WISDOM",
+        "PUBLISHED_MARUTHI_PUBLICATIONS",
+        "HYDERABAD_L_CRITICAL_LISTENING",
+        "ATTITUDE_S_GROUP_DISCUSSION"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "CHAPTER_ENTITLED_WIT_HUMOUR": [
+      "chapter entitled wit humour",
+      "chapter",
+      "entitled",
+      "humour"
+    ],
+    "PUBLISHED_ORIENT_BLACK_SWAN": [
+      "published orient black swan",
+      "published",
+      "orient",
+      "black",
+      "swan"
+    ],
+    "HYDERABAD": [
+      "hyderabad",
+      "hyderabad"
+    ],
+    "CHAPTER_ENTITLED_MOKSHAGUNDAM_VISVESVARAYA": [
+      "chapter entitled mokshagundam visvesvaraya",
+      "chapter",
+      "entitled",
+      "mokshagundam",
+      "visvesvaraya"
+    ],
+    "PUBLISHED_MARUTHI_PUBLICATIONS": [
+      "published maruthi publications",
+      "published",
+      "maruthi",
+      "publications"
+    ],
+    "L_LISTENING_SOUNDS": [
+      "l listening sounds",
+      "listening",
+      "sounds"
+    ],
+    "STRESS_INTONATION_S_GREETING": [
+      "stress intonation s greeting",
+      "stress",
+      "intonation",
+      "greeting"
+    ],
+    "INTRODUCING_ONESELF_OTHERS": [
+      "introducing oneself others",
+      "introducing",
+      "oneself",
+      "others"
+    ],
+    "CHAPTER_ENTITLED_CYBER_AGE": [
+      "chapter entitled cyber age",
+      "chapter",
+      "entitled",
+      "cyber"
+    ],
+    "CHAPTER_ENTITLED_THREE_DAYS": [
+      "chapter entitled three days",
+      "chapter",
+      "entitled",
+      "three",
+      "days"
+    ],
+    "LISTENING_THEMES_FACTS_S": [
+      "listening themes facts s",
+      "listening",
+      "themes",
+      "facts"
+    ],
+    "APOLOGIZING": [
+      "apologizing",
+      "apologizing"
+    ],
+    "INTERRUPTING": [
+      "interrupting",
+      "interrupting"
+    ],
+    "REQUESTING_MAKING_POLITE_CONVERSATION": [
+      "requesting making polite conversation",
+      "requesting",
+      "making",
+      "polite",
+      "conversation"
+    ],
+    "CHAPTER_ENTITLED_RISK_MANAGEMENT": [
+      "chapter entitled risk management",
+      "chapter",
+      "entitled",
+      "risk",
+      "management"
+    ],
+    "FUNCTIONAL_ENGLISH_SUCCESS_PUBLISHED": [
+      "functional english success published",
+      "functional",
+      "english",
+      "success",
+      "published"
+    ],
+    "CHAPTER_ENTITLED_LEELA_S": [
+      "chapter entitled leela s",
+      "chapter",
+      "entitled",
+      "leela"
+    ],
+    "NARAYAN_EPITOME_WISDOM": [
+      "narayan epitome wisdom",
+      "narayan",
+      "epitome",
+      "wisdom"
+    ],
+    "HYDERABAD_L": [
+      "hyderabad l",
+      "hyderabad"
+    ],
+    "MAIN_POINTS_SUB_POINTS": [
+      "main points sub points",
+      "main",
+      "points",
+      "points"
+    ],
+    "CHAPTER_ENTITLED_HUMAN_VALUES": [
+      "chapter entitled human values",
+      "chapter",
+      "entitled",
+      "human",
+      "values"
+    ],
+    "CHAPTER_ENTITLED_LAST_LEAF": [
+      "chapter entitled last leaf",
+      "chapter",
+      "entitled",
+      "last",
+      "leaf"
+    ],
+    "LISTENING_SPECIFIC_DETAILS_INFORMATION": [
+      "listening specific details information",
+      "listening",
+      "specific",
+      "details",
+      "information"
+    ],
+    "EXPRESSING_OPINIONS_TELEPHONE_INTERACTIONS": [
+      "expressing opinions telephone interactions",
+      "expressing",
+      "opinions",
+      "telephone",
+      "interactions"
+    ],
+    "READING_SPECIFIC_DETAILS_INFORMATION": [
+      "reading specific details information",
+      "reading",
+      "specific",
+      "details",
+      "information"
+    ],
+    "CHAPTER_ENTITLED_SPORTS_HEALTH": [
+      "chapter entitled sports health",
+      "chapter",
+      "entitled",
+      "sports",
+      "health"
+    ],
+    "CHAPTER_ENTITLED_CONVOCATION_SPEECH": [
+      "chapter entitled convocation speech",
+      "chapter",
+      "entitled",
+      "convocation",
+      "speech"
+    ],
+    "NARAYANMURTHY_EPITOME_WISDOM": [
+      "narayanmurthy epitome wisdom",
+      "narayanmurthy",
+      "epitome",
+      "wisdom"
+    ],
+    "HYDERABAD_L_CRITICAL_LISTENING": [
+      "hyderabad l critical listening",
+      "hyderabad",
+      "critical",
+      "listening"
+    ],
+    "ATTITUDE_S_GROUP_DISCUSSION": [
+      "attitude s group discussion",
+      "attitude",
+      "group",
+      "discussion"
+    ]
+  },
+  "syllabus_section": "ENGLISH"
+}

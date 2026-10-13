@@ -1,0 +1,285 @@
+{
+  "subject_name": "Computer Programming",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "COMPUTERS",
+        "COMPUTER_SYSTEMS",
+        "COMPUTING_ENVIRONMENTS",
+        "COMPUTER_LANGUAGES",
+        "CREATING_RUNNING_PROGRAMS",
+        "PROGRAM_DEVELOPMENT",
+        "C_LANGUAGE",
+        "BACKGROUND"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "FUNCTIONS_DESIGNING_STRUCTURED_PROGRAMS",
+        "FUNCTIONS",
+        "USER_DEFINED_FUNCTIONS",
+        "INTER_FUNCTION_COMMUNICATION",
+        "STANDARD_FUNCTIONS",
+        "SCOPE",
+        "STORAGE_CLASSES_AUTO",
+        "REGISTER"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "POINTERS",
+        "POINTERS_INTER_FUNCTION_COMMUNICATION",
+        "POINTERS_POINTERS",
+        "COMPATIBILITY",
+        "POINTER_APPLICATIONS_ARRAYS_POINTERS",
+        "POINTER_ARITHMETIC_ARRAYS",
+        "PASSING_ARRAY_FUNCTION",
+        "COMPUTER_SCIENCE_ENGINEERING_MEMORY"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "ENUMERATED",
+        "UNION_TYPES_TYPE",
+        "TYPEDEF",
+        "ENUMERATED_TYPES",
+        "STRUCTURES_DECLARATION",
+        "INITIALIZATION",
+        "ACCESSING_STRUCTURES",
+        "COMPLEX_STRUCTURES"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "SEARCHING_SORTING",
+        "SORTING_SELECTION_SORT",
+        "BUBBLE_SORT",
+        "SEARCHING_LINEAR_BINARY_SEARCH",
+        "LISTS_LINEAR_LIST",
+        "SINGLY_LINKED_LIST_IMPLEMENTATION",
+        "INSERTION",
+        "DELETION_SEARCHING_LINEAR_LIST"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "COMPUTERS": [
+      "computers",
+      "computers"
+    ],
+    "COMPUTER_SYSTEMS": [
+      "computer systems",
+      "computer",
+      "systems"
+    ],
+    "COMPUTING_ENVIRONMENTS": [
+      "computing environments",
+      "computing",
+      "environments"
+    ],
+    "COMPUTER_LANGUAGES": [
+      "computer languages",
+      "computer",
+      "languages"
+    ],
+    "CREATING_RUNNING_PROGRAMS": [
+      "creating running programs",
+      "creating",
+      "running",
+      "programs"
+    ],
+    "PROGRAM_DEVELOPMENT": [
+      "program development",
+      "program",
+      "development"
+    ],
+    "C_LANGUAGE": [
+      "c language",
+      "language"
+    ],
+    "BACKGROUND": [
+      "background",
+      "background"
+    ],
+    "FUNCTIONS_DESIGNING_STRUCTURED_PROGRAMS": [
+      "functions designing structured programs",
+      "functions",
+      "designing",
+      "structured",
+      "programs"
+    ],
+    "FUNCTIONS": [
+      "functions",
+      "functions"
+    ],
+    "USER_DEFINED_FUNCTIONS": [
+      "user defined functions",
+      "user",
+      "defined",
+      "functions"
+    ],
+    "INTER_FUNCTION_COMMUNICATION": [
+      "inter function communication",
+      "inter",
+      "function",
+      "communication"
+    ],
+    "STANDARD_FUNCTIONS": [
+      "standard functions",
+      "standard",
+      "functions"
+    ],
+    "SCOPE": [
+      "scope",
+      "scope"
+    ],
+    "STORAGE_CLASSES_AUTO": [
+      "storage classes auto",
+      "storage",
+      "classes",
+      "auto"
+    ],
+    "REGISTER": [
+      "register",
+      "register"
+    ],
+    "POINTERS": [
+      "pointers",
+      "pointers"
+    ],
+    "POINTERS_INTER_FUNCTION_COMMUNICATION": [
+      "pointers inter function communication",
+      "pointers",
+      "inter",
+      "function",
+      "communication"
+    ],
+    "POINTERS_POINTERS": [
+      "pointers pointers",
+      "pointers",
+      "pointers"
+    ],
+    "COMPATIBILITY": [
+      "compatibility",
+      "compatibility"
+    ],
+    "POINTER_APPLICATIONS_ARRAYS_POINTERS": [
+      "pointer applications arrays pointers",
+      "pointer",
+      "applications",
+      "arrays",
+      "pointers"
+    ],
+    "POINTER_ARITHMETIC_ARRAYS": [
+      "pointer arithmetic arrays",
+      "pointer",
+      "arithmetic",
+      "arrays"
+    ],
+    "PASSING_ARRAY_FUNCTION": [
+      "passing array function",
+      "passing",
+      "array",
+      "function"
+    ],
+    "COMPUTER_SCIENCE_ENGINEERING_MEMORY": [
+      "computer science engineering memory",
+      "computer",
+      "science",
+      "engineering",
+      "memory"
+    ],
+    "ENUMERATED": [
+      "enumerated",
+      "enumerated"
+    ],
+    "UNION_TYPES_TYPE": [
+      "union types type",
+      "union",
+      "types",
+      "type"
+    ],
+    "TYPEDEF": [
+      "typedef",
+      "typedef"
+    ],
+    "ENUMERATED_TYPES": [
+      "enumerated types",
+      "enumerated",
+      "types"
+    ],
+    "STRUCTURES_DECLARATION": [
+      "structures declaration",
+      "structures",
+      "declaration"
+    ],
+    "INITIALIZATION": [
+      "initialization",
+      "initialization"
+    ],
+    "ACCESSING_STRUCTURES": [
+      "accessing structures",
+      "accessing",
+      "structures"
+    ],
+    "COMPLEX_STRUCTURES": [
+      "complex structures",
+      "complex",
+      "structures"
+    ],
+    "SEARCHING_SORTING": [
+      "searching sorting",
+      "searching",
+      "sorting"
+    ],
+    "SORTING_SELECTION_SORT": [
+      "sorting selection sort",
+      "sorting",
+      "selection",
+      "sort"
+    ],
+    "BUBBLE_SORT": [
+      "bubble sort",
+      "bubble",
+      "sort"
+    ],
+    "SEARCHING_LINEAR_BINARY_SEARCH": [
+      "searching linear binary search",
+      "searching",
+      "linear",
+      "binary",
+      "search"
+    ],
+    "LISTS_LINEAR_LIST": [
+      "lists linear list",
+      "lists",
+      "linear",
+      "list"
+    ],
+    "SINGLY_LINKED_LIST_IMPLEMENTATION": [
+      "singly linked list implementation",
+      "singly",
+      "linked",
+      "list",
+      "implementation"
+    ],
+    "INSERTION": [
+      "insertion",
+      "insertion"
+    ],
+    "DELETION_SEARCHING_LINEAR_LIST": [
+      "deletion searching linear list",
+      "deletion",
+      "searching",
+      "linear",
+      "list"
+    ]
+  },
+  "syllabus_section": "COMPUTER PROGRAMMING"
+}

@@ -1,0 +1,286 @@
+{
+  "subject_name": "Database Management Systems",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "DATABASE_SYSTEM_APPLICATIONS",
+        "PURPOSE_DATABASE_SYSTEMS",
+        "VIEW_DATA",
+        "DATA_ABSTRACTION",
+        "INSTANCES_SCHEMAS",
+        "DATA_MODELS",
+        "DATABASE_LANGUAGES",
+        "DATABASE_ACCESS_APPLICATION_PROGRAMS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "RELATIONAL_ALGEBRA_CALCULUS",
+        "RELATIONAL_ALGEBRA",
+        "SELECTION_PROJECTION",
+        "RENAMING",
+        "JOINS",
+        "DIVISION",
+        "ALGEBRA_QUERIES",
+        "RELATIONAL_CALCULUS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "SCHEMA_REFINEMENT",
+        "PROBLEMS_CAUSED_REDUNDANCY",
+        "DECOMPOSITIONS",
+        "PROBLEM_RELATED_DECOMPOSITION",
+        "FUNCTIONAL_DEPENDENCIES",
+        "REASONING_FDS",
+        "NORMAL_FORMS",
+        "FIRST"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "TRANSACTION_MANAGEMENT_TRANSACTION_TRANSACTION",
+        "CONCURRENT",
+        "EXECUTIONS",
+        "SERIALIZABILITY_RECOVERABILITY",
+        "IMPLEMENTATION_ISOLATION",
+        "TESTING_SERIALIZABILITY",
+        "CONCURRENCY_CONTROL_LOCK_BASED",
+        "TIMESTAMP_BASED_PROTOCOLS_VALIDATION"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "OVERVIEW_STORAGE_INDEXING",
+        "DATA_EXTERNAL_STORAGE",
+        "FILE_ORGANIZATION_INDEXING",
+        "CLUSTERED_INDEXES",
+        "PRIMARY_SECONDARY_INDEXES",
+        "INDEX_DATA_STRUCTURES",
+        "HASH_BASED_INDEXING",
+        "TREE_BASED_INDEXING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "DATABASE_SYSTEM_APPLICATIONS": [
+      "database system applications",
+      "database",
+      "system",
+      "applications"
+    ],
+    "PURPOSE_DATABASE_SYSTEMS": [
+      "purpose database systems",
+      "purpose",
+      "database",
+      "systems"
+    ],
+    "VIEW_DATA": [
+      "view data",
+      "view",
+      "data"
+    ],
+    "DATA_ABSTRACTION": [
+      "data abstraction",
+      "data",
+      "abstraction"
+    ],
+    "INSTANCES_SCHEMAS": [
+      "instances schemas",
+      "instances",
+      "schemas"
+    ],
+    "DATA_MODELS": [
+      "data models",
+      "data",
+      "models"
+    ],
+    "DATABASE_LANGUAGES": [
+      "database languages",
+      "database",
+      "languages"
+    ],
+    "DATABASE_ACCESS_APPLICATION_PROGRAMS": [
+      "database access application programs",
+      "database",
+      "access",
+      "application",
+      "programs"
+    ],
+    "RELATIONAL_ALGEBRA_CALCULUS": [
+      "relational algebra calculus",
+      "relational",
+      "algebra",
+      "calculus"
+    ],
+    "RELATIONAL_ALGEBRA": [
+      "relational algebra",
+      "relational",
+      "algebra"
+    ],
+    "SELECTION_PROJECTION": [
+      "selection projection",
+      "selection",
+      "projection"
+    ],
+    "RENAMING": [
+      "renaming",
+      "renaming"
+    ],
+    "JOINS": [
+      "joins",
+      "joins"
+    ],
+    "DIVISION": [
+      "division",
+      "division"
+    ],
+    "ALGEBRA_QUERIES": [
+      "algebra queries",
+      "algebra",
+      "queries"
+    ],
+    "RELATIONAL_CALCULUS": [
+      "relational calculus",
+      "relational",
+      "calculus"
+    ],
+    "SCHEMA_REFINEMENT": [
+      "schema refinement",
+      "schema",
+      "refinement"
+    ],
+    "PROBLEMS_CAUSED_REDUNDANCY": [
+      "problems caused redundancy",
+      "problems",
+      "caused",
+      "redundancy"
+    ],
+    "DECOMPOSITIONS": [
+      "decompositions",
+      "decompositions"
+    ],
+    "PROBLEM_RELATED_DECOMPOSITION": [
+      "problem related decomposition",
+      "problem",
+      "related",
+      "decomposition"
+    ],
+    "FUNCTIONAL_DEPENDENCIES": [
+      "functional dependencies",
+      "functional",
+      "dependencies"
+    ],
+    "REASONING_FDS": [
+      "reasoning fds",
+      "reasoning"
+    ],
+    "NORMAL_FORMS": [
+      "normal forms",
+      "normal",
+      "forms"
+    ],
+    "FIRST": [
+      "first",
+      "first"
+    ],
+    "TRANSACTION_MANAGEMENT_TRANSACTION_TRANSACTION": [
+      "transaction management transaction transaction",
+      "transaction",
+      "management",
+      "transaction",
+      "transaction"
+    ],
+    "CONCURRENT": [
+      "concurrent",
+      "concurrent"
+    ],
+    "EXECUTIONS": [
+      "executions",
+      "executions"
+    ],
+    "SERIALIZABILITY_RECOVERABILITY": [
+      "serializability recoverability",
+      "serializability",
+      "recoverability"
+    ],
+    "IMPLEMENTATION_ISOLATION": [
+      "implementation isolation",
+      "implementation",
+      "isolation"
+    ],
+    "TESTING_SERIALIZABILITY": [
+      "testing serializability",
+      "testing",
+      "serializability"
+    ],
+    "CONCURRENCY_CONTROL_LOCK_BASED": [
+      "concurrency control lock based",
+      "concurrency",
+      "control",
+      "lock",
+      "based"
+    ],
+    "TIMESTAMP_BASED_PROTOCOLS_VALIDATION": [
+      "timestamp based protocols validation",
+      "timestamp",
+      "based",
+      "protocols",
+      "validation"
+    ],
+    "OVERVIEW_STORAGE_INDEXING": [
+      "overview storage indexing",
+      "overview",
+      "storage",
+      "indexing"
+    ],
+    "DATA_EXTERNAL_STORAGE": [
+      "data external storage",
+      "data",
+      "external",
+      "storage"
+    ],
+    "FILE_ORGANIZATION_INDEXING": [
+      "file organization indexing",
+      "file",
+      "organization",
+      "indexing"
+    ],
+    "CLUSTERED_INDEXES": [
+      "clustered indexes",
+      "clustered",
+      "indexes"
+    ],
+    "PRIMARY_SECONDARY_INDEXES": [
+      "primary secondary indexes",
+      "primary",
+      "secondary",
+      "indexes"
+    ],
+    "INDEX_DATA_STRUCTURES": [
+      "index data structures",
+      "index",
+      "data",
+      "structures"
+    ],
+    "HASH_BASED_INDEXING": [
+      "hash based indexing",
+      "hash",
+      "based",
+      "indexing"
+    ],
+    "TREE_BASED_INDEXING": [
+      "tree based indexing",
+      "tree",
+      "based",
+      "indexing"
+    ]
+  },
+  "syllabus_section": "DATABASE MANAGEMENT SYSTEMS"
+}

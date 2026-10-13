@@ -1,0 +1,277 @@
+{
+  "subject_name": "Environmental Studies",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "ECOSYSTEMS",
+        "SCOPE_IMPORTANCE_ECOSYSTEM",
+        "STRUCTURE_FUNCTION_ECOSYSTEM",
+        "FOOD_CHAINS",
+        "FOOD_WEBS_ECOLOGICAL_PYRAMIDS",
+        "FLOW_ENERGY",
+        "BIOGEOCHEMICAL_CYCLES",
+        "BIOACCUMULATION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "NATURAL_RESOURCES",
+        "CLASSIFICATION_RESOURCES",
+        "LIVING_NON_LIVING_RESOURCES",
+        "WATER_RESOURCES",
+        "USE_UTILIZATION_SURFACE_GROUND",
+        "FLOODS_DROUGHTS",
+        "DAMS",
+        "BENEFITS_PROBLEMS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "BIODIVERSITY_BIOTIC_RESOURCES",
+        "GENETIC",
+        "SPECIES_ECOSYSTEM_DIVERSITY",
+        "VALUE_BIODIVERSITY",
+        "CONSUMPTIVE_USE",
+        "PRODUCTIVE_USE",
+        "SOCIAL",
+        "ETHICAL"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "ENVIRONMENTAL_POLLUTION_CONTROL_TECHNOLOGIES",
+        "ENVIRONMENTAL_POLLUTION",
+        "CLASSIFICATION_POLLUTION",
+        "AIR_POLLUTION",
+        "PRIMARY_SECONDARY_POLLUTANTS",
+        "AUTOMOBILE_INDUSTRIAL_POLLUTION",
+        "AMBIENT_AIR_QUALITY_STANDARDS",
+        "WATER_POLLUTION"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "ENVIRONMENTAL_POLICY",
+        "LEGISLATION_EIA",
+        "ENVIRONMENTAL_PROTECTION_ACT",
+        "LEGAL_ASPECTS_AIR_ACT",
+        "WATER_ACT",
+        "FOREST_ACT",
+        "WILD_LIFE_ACT",
+        "MUNICIPAL_SOLID_WASTE_MANAGEMENT"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ECOSYSTEMS": [
+      "ecosystems",
+      "ecosystems"
+    ],
+    "SCOPE_IMPORTANCE_ECOSYSTEM": [
+      "scope importance ecosystem",
+      "scope",
+      "importance",
+      "ecosystem"
+    ],
+    "STRUCTURE_FUNCTION_ECOSYSTEM": [
+      "structure function ecosystem",
+      "structure",
+      "function",
+      "ecosystem"
+    ],
+    "FOOD_CHAINS": [
+      "food chains",
+      "food",
+      "chains"
+    ],
+    "FOOD_WEBS_ECOLOGICAL_PYRAMIDS": [
+      "food webs ecological pyramids",
+      "food",
+      "webs",
+      "ecological",
+      "pyramids"
+    ],
+    "FLOW_ENERGY": [
+      "flow energy",
+      "flow",
+      "energy"
+    ],
+    "BIOGEOCHEMICAL_CYCLES": [
+      "biogeochemical cycles",
+      "biogeochemical",
+      "cycles"
+    ],
+    "BIOACCUMULATION": [
+      "bioaccumulation",
+      "bioaccumulation"
+    ],
+    "NATURAL_RESOURCES": [
+      "natural resources",
+      "natural",
+      "resources"
+    ],
+    "CLASSIFICATION_RESOURCES": [
+      "classification resources",
+      "classification",
+      "resources"
+    ],
+    "LIVING_NON_LIVING_RESOURCES": [
+      "living non living resources",
+      "living",
+      "living",
+      "resources"
+    ],
+    "WATER_RESOURCES": [
+      "water resources",
+      "water",
+      "resources"
+    ],
+    "USE_UTILIZATION_SURFACE_GROUND": [
+      "use utilization surface ground",
+      "utilization",
+      "surface",
+      "ground"
+    ],
+    "FLOODS_DROUGHTS": [
+      "floods droughts",
+      "floods",
+      "droughts"
+    ],
+    "DAMS": [
+      "dams",
+      "dams"
+    ],
+    "BENEFITS_PROBLEMS": [
+      "benefits problems",
+      "benefits",
+      "problems"
+    ],
+    "BIODIVERSITY_BIOTIC_RESOURCES": [
+      "biodiversity biotic resources",
+      "biodiversity",
+      "biotic",
+      "resources"
+    ],
+    "GENETIC": [
+      "genetic",
+      "genetic"
+    ],
+    "SPECIES_ECOSYSTEM_DIVERSITY": [
+      "species ecosystem diversity",
+      "species",
+      "ecosystem",
+      "diversity"
+    ],
+    "VALUE_BIODIVERSITY": [
+      "value biodiversity",
+      "value",
+      "biodiversity"
+    ],
+    "CONSUMPTIVE_USE": [
+      "consumptive use",
+      "consumptive"
+    ],
+    "PRODUCTIVE_USE": [
+      "productive use",
+      "productive"
+    ],
+    "SOCIAL": [
+      "social",
+      "social"
+    ],
+    "ETHICAL": [
+      "ethical",
+      "ethical"
+    ],
+    "ENVIRONMENTAL_POLLUTION_CONTROL_TECHNOLOGIES": [
+      "environmental pollution control technologies",
+      "environmental",
+      "pollution",
+      "control",
+      "technologies"
+    ],
+    "ENVIRONMENTAL_POLLUTION": [
+      "environmental pollution",
+      "environmental",
+      "pollution"
+    ],
+    "CLASSIFICATION_POLLUTION": [
+      "classification pollution",
+      "classification",
+      "pollution"
+    ],
+    "AIR_POLLUTION": [
+      "air pollution",
+      "pollution"
+    ],
+    "PRIMARY_SECONDARY_POLLUTANTS": [
+      "primary secondary pollutants",
+      "primary",
+      "secondary",
+      "pollutants"
+    ],
+    "AUTOMOBILE_INDUSTRIAL_POLLUTION": [
+      "automobile industrial pollution",
+      "automobile",
+      "industrial",
+      "pollution"
+    ],
+    "AMBIENT_AIR_QUALITY_STANDARDS": [
+      "ambient air quality standards",
+      "ambient",
+      "quality",
+      "standards"
+    ],
+    "WATER_POLLUTION": [
+      "water pollution",
+      "water",
+      "pollution"
+    ],
+    "ENVIRONMENTAL_POLICY": [
+      "environmental policy",
+      "environmental",
+      "policy"
+    ],
+    "LEGISLATION_EIA": [
+      "legislation eia",
+      "legislation"
+    ],
+    "ENVIRONMENTAL_PROTECTION_ACT": [
+      "environmental protection act",
+      "environmental",
+      "protection"
+    ],
+    "LEGAL_ASPECTS_AIR_ACT": [
+      "legal aspects air act",
+      "legal",
+      "aspects"
+    ],
+    "WATER_ACT": [
+      "water act",
+      "water"
+    ],
+    "FOREST_ACT": [
+      "forest act",
+      "forest"
+    ],
+    "WILD_LIFE_ACT": [
+      "wild life act",
+      "wild",
+      "life"
+    ],
+    "MUNICIPAL_SOLID_WASTE_MANAGEMENT": [
+      "municipal solid waste management",
+      "municipal",
+      "solid",
+      "waste",
+      "management"
+    ]
+  },
+  "syllabus_section": "ENVIRONMENTAL STUDIES"
+}

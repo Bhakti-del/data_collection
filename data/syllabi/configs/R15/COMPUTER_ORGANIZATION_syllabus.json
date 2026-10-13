@@ -1,0 +1,243 @@
+{
+  "subject_name": "Computer Organization",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "COMPUTER_ORGANIZATION",
+        "FUNCTIONS_CPU",
+        "O_UNITS",
+        "MEMORY",
+        "INSTRUCTION",
+        "INSTRUCTION_FORMATS_ONE_ADDRESS",
+        "TWO_ADDRESSES",
+        "ZERO_ADDRESSES_THREE_ADDRESSES"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "INPUT_OUTPUT_ORGANIZATIONS_I",
+        "O_INTERFACE",
+        "O_BUS_INTERFACE_MODULES",
+        "O_VS_MEMORY_BUS",
+        "ISOLATED_VS_MEMORY_MAPPED",
+        "ASYNCHRONOUS_DATA_TRANSFER_STROBE",
+        "HAND_SHAKING",
+        "ASYNCHRONOUS_SERIAL_TRANSFER_ASYNCHRONOUS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "MEMORY_ORGANIZATIONS_MEMORY_HIERARCHY",
+        "MAIN_MEMORY",
+        "ROM_CHIPS",
+        "MEMORY_ADDRESS_MAP",
+        "MEMORY_CONNECTION_CPU",
+        "ASSOCIATE_MEMORY",
+        "CACHE_MEMORY",
+        "DATA_CACHE"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "CPU_PIN_DIAGRAM_SPECIAL",
+        "SEGMENT_REGISTER",
+        "PIPELINING",
+        "FLAG_REGISTER",
+        "ADDRESSING_MODES"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "INSTRUCTION_FORMATS",
+        "ASSEMBLY_LANGUAGE_PROGRAMS_INVOLVING",
+        "SORTING",
+        "EVALUATION_ARITHMETIC_EXPRESSIONS",
+        "COMPUTER_SCIENCE_ENGINEERING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "COMPUTER_ORGANIZATION": [
+      "computer organization",
+      "computer",
+      "organization"
+    ],
+    "FUNCTIONS_CPU": [
+      "functions cpu",
+      "functions"
+    ],
+    "O_UNITS": [
+      "o units",
+      "units"
+    ],
+    "MEMORY": [
+      "memory",
+      "memory"
+    ],
+    "INSTRUCTION": [
+      "instruction",
+      "instruction"
+    ],
+    "INSTRUCTION_FORMATS_ONE_ADDRESS": [
+      "instruction formats one address",
+      "instruction",
+      "formats",
+      "address"
+    ],
+    "TWO_ADDRESSES": [
+      "two addresses",
+      "addresses"
+    ],
+    "ZERO_ADDRESSES_THREE_ADDRESSES": [
+      "zero addresses three addresses",
+      "zero",
+      "addresses",
+      "three",
+      "addresses"
+    ],
+    "INPUT_OUTPUT_ORGANIZATIONS_I": [
+      "input output organizations i",
+      "input",
+      "output",
+      "organizations"
+    ],
+    "O_INTERFACE": [
+      "o interface",
+      "interface"
+    ],
+    "O_BUS_INTERFACE_MODULES": [
+      "o bus interface modules",
+      "interface",
+      "modules"
+    ],
+    "O_VS_MEMORY_BUS": [
+      "o vs memory bus",
+      "memory"
+    ],
+    "ISOLATED_VS_MEMORY_MAPPED": [
+      "isolated vs memory mapped",
+      "isolated",
+      "memory",
+      "mapped"
+    ],
+    "ASYNCHRONOUS_DATA_TRANSFER_STROBE": [
+      "asynchronous data transfer strobe",
+      "asynchronous",
+      "data",
+      "transfer",
+      "strobe"
+    ],
+    "HAND_SHAKING": [
+      "hand shaking",
+      "hand",
+      "shaking"
+    ],
+    "ASYNCHRONOUS_SERIAL_TRANSFER_ASYNCHRONOUS": [
+      "asynchronous serial transfer asynchronous",
+      "asynchronous",
+      "serial",
+      "transfer",
+      "asynchronous"
+    ],
+    "MEMORY_ORGANIZATIONS_MEMORY_HIERARCHY": [
+      "memory organizations memory hierarchy",
+      "memory",
+      "organizations",
+      "memory",
+      "hierarchy"
+    ],
+    "MAIN_MEMORY": [
+      "main memory",
+      "main",
+      "memory"
+    ],
+    "ROM_CHIPS": [
+      "rom chips",
+      "chips"
+    ],
+    "MEMORY_ADDRESS_MAP": [
+      "memory address map",
+      "memory",
+      "address"
+    ],
+    "MEMORY_CONNECTION_CPU": [
+      "memory connection cpu",
+      "memory",
+      "connection"
+    ],
+    "ASSOCIATE_MEMORY": [
+      "associate memory",
+      "associate",
+      "memory"
+    ],
+    "CACHE_MEMORY": [
+      "cache memory",
+      "cache",
+      "memory"
+    ],
+    "DATA_CACHE": [
+      "data cache",
+      "data",
+      "cache"
+    ],
+    "CPU_PIN_DIAGRAM_SPECIAL": [
+      "cpu pin diagram special",
+      "diagram",
+      "special"
+    ],
+    "SEGMENT_REGISTER": [
+      "segment register",
+      "segment",
+      "register"
+    ],
+    "PIPELINING": [
+      "pipelining",
+      "pipelining"
+    ],
+    "FLAG_REGISTER": [
+      "flag register",
+      "flag",
+      "register"
+    ],
+    "ADDRESSING_MODES": [
+      "addressing modes",
+      "addressing",
+      "modes"
+    ],
+    "INSTRUCTION_FORMATS": [
+      "instruction formats",
+      "instruction",
+      "formats"
+    ],
+    "ASSEMBLY_LANGUAGE_PROGRAMS_INVOLVING": [
+      "assembly language programs involving",
+      "assembly",
+      "language",
+      "programs",
+      "involving"
+    ],
+    "SORTING": [
+      "sorting",
+      "sorting"
+    ],
+    "EVALUATION_ARITHMETIC_EXPRESSIONS": [
+      "evaluation arithmetic expressions",
+      "evaluation",
+      "arithmetic",
+      "expressions"
+    ],
+    "COMPUTER_SCIENCE_ENGINEERING": [
+      "computer science engineering",
+      "computer",
+      "science",
+      "engineering"
+    ]
+  },
+  "syllabus_section": "COMPUTER ORGANIZATION"
+}

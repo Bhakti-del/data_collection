@@ -1,0 +1,273 @@
+{
+  "subject_name": "Engineering Drawing",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "ENGINEERING_DRAWING",
+        "PRINCIPLES_ENGINEERING_DRAWING",
+        "GRAPHICS",
+        "DRAWING_INSTRUMENTS",
+        "CONVENTIONS_DRAWING",
+        "LETTERING_PRACTICE",
+        "BIS_CONVENTIONS",
+        "CURVES"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "ORTHOGRAPHIC_PROJECTIONS_FIRST_ANGLE",
+        "PRINCIPLES_ORTHOGRAPHIC_PROJECTIONS",
+        "CONVENTIONS",
+        "FIRST_THIRD_ANGLE_PROJECTIONS",
+        "PROJECTIONS_POINTS",
+        "INCLUDING_POINTS_ALL_FOUR",
+        "PROJECTIONS_LINES",
+        "PARALLEL"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "PROJECTIONS_SOLIDS",
+        "PROJECTIONS_REGULAR_SOLIDS",
+        "CUBE",
+        "PRISMS",
+        "PYRAMIDS",
+        "TETRAHEDRAN",
+        "CYLINDER_CONE",
+        "AXIS_INCLINED_BOTH_PLANES"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "DEVELOPMENT_SURFACES",
+        "DEVELOPMENT_SURFACES_RIGHT",
+        "REGULAR_SOLIDS",
+        "PRISMS",
+        "CYLINDER",
+        "PYRAMIDS",
+        "CONE_PARTS",
+        "FRUSTUM_SOLIDS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "ISOMETRIC_PROJECTIONS",
+        "PRINCIPLES_ISOMETRIC_PROJECTION",
+        "ISOMETRIC_SCALE",
+        "ISOMETRIC_VIEWS_CONVENTIONS",
+        "PLANE_FIGURES",
+        "COMPOUND_COMPUTER_SCIENCE_ENGINEERING",
+        "ISOMETRIC_PROJECTION_OBJECTS_HAVING",
+        "ISOMETRIC_PROJECTION_PARTS_SPHERICAL"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ENGINEERING_DRAWING": [
+      "engineering drawing",
+      "engineering",
+      "drawing"
+    ],
+    "PRINCIPLES_ENGINEERING_DRAWING": [
+      "principles engineering drawing",
+      "principles",
+      "engineering",
+      "drawing"
+    ],
+    "GRAPHICS": [
+      "graphics",
+      "graphics"
+    ],
+    "DRAWING_INSTRUMENTS": [
+      "drawing instruments",
+      "drawing",
+      "instruments"
+    ],
+    "CONVENTIONS_DRAWING": [
+      "conventions drawing",
+      "conventions",
+      "drawing"
+    ],
+    "LETTERING_PRACTICE": [
+      "lettering practice",
+      "lettering",
+      "practice"
+    ],
+    "BIS_CONVENTIONS": [
+      "bis conventions",
+      "conventions"
+    ],
+    "CURVES": [
+      "curves",
+      "curves"
+    ],
+    "ORTHOGRAPHIC_PROJECTIONS_FIRST_ANGLE": [
+      "orthographic projections first angle",
+      "orthographic",
+      "projections",
+      "first",
+      "angle"
+    ],
+    "PRINCIPLES_ORTHOGRAPHIC_PROJECTIONS": [
+      "principles orthographic projections",
+      "principles",
+      "orthographic",
+      "projections"
+    ],
+    "CONVENTIONS": [
+      "conventions",
+      "conventions"
+    ],
+    "FIRST_THIRD_ANGLE_PROJECTIONS": [
+      "first third angle projections",
+      "first",
+      "third",
+      "angle",
+      "projections"
+    ],
+    "PROJECTIONS_POINTS": [
+      "projections points",
+      "projections",
+      "points"
+    ],
+    "INCLUDING_POINTS_ALL_FOUR": [
+      "including points all four",
+      "including",
+      "points",
+      "four"
+    ],
+    "PROJECTIONS_LINES": [
+      "projections lines",
+      "projections",
+      "lines"
+    ],
+    "PARALLEL": [
+      "parallel",
+      "parallel"
+    ],
+    "PROJECTIONS_SOLIDS": [
+      "projections solids",
+      "projections",
+      "solids"
+    ],
+    "PROJECTIONS_REGULAR_SOLIDS": [
+      "projections regular solids",
+      "projections",
+      "regular",
+      "solids"
+    ],
+    "CUBE": [
+      "cube",
+      "cube"
+    ],
+    "PRISMS": [
+      "prisms",
+      "prisms"
+    ],
+    "PYRAMIDS": [
+      "pyramids",
+      "pyramids"
+    ],
+    "TETRAHEDRAN": [
+      "tetrahedran",
+      "tetrahedran"
+    ],
+    "CYLINDER_CONE": [
+      "cylinder cone",
+      "cylinder",
+      "cone"
+    ],
+    "AXIS_INCLINED_BOTH_PLANES": [
+      "axis inclined both planes",
+      "axis",
+      "inclined",
+      "both",
+      "planes"
+    ],
+    "DEVELOPMENT_SURFACES": [
+      "development surfaces",
+      "development",
+      "surfaces"
+    ],
+    "DEVELOPMENT_SURFACES_RIGHT": [
+      "development surfaces right",
+      "development",
+      "surfaces",
+      "right"
+    ],
+    "REGULAR_SOLIDS": [
+      "regular solids",
+      "regular",
+      "solids"
+    ],
+    "CYLINDER": [
+      "cylinder",
+      "cylinder"
+    ],
+    "CONE_PARTS": [
+      "cone parts",
+      "cone",
+      "parts"
+    ],
+    "FRUSTUM_SOLIDS": [
+      "frustum solids",
+      "frustum",
+      "solids"
+    ],
+    "ISOMETRIC_PROJECTIONS": [
+      "isometric projections",
+      "isometric",
+      "projections"
+    ],
+    "PRINCIPLES_ISOMETRIC_PROJECTION": [
+      "principles isometric projection",
+      "principles",
+      "isometric",
+      "projection"
+    ],
+    "ISOMETRIC_SCALE": [
+      "isometric scale",
+      "isometric",
+      "scale"
+    ],
+    "ISOMETRIC_VIEWS_CONVENTIONS": [
+      "isometric views conventions",
+      "isometric",
+      "views",
+      "conventions"
+    ],
+    "PLANE_FIGURES": [
+      "plane figures",
+      "plane",
+      "figures"
+    ],
+    "COMPOUND_COMPUTER_SCIENCE_ENGINEERING": [
+      "compound computer science engineering",
+      "compound",
+      "computer",
+      "science",
+      "engineering"
+    ],
+    "ISOMETRIC_PROJECTION_OBJECTS_HAVING": [
+      "isometric projection objects having",
+      "isometric",
+      "projection",
+      "objects",
+      "having"
+    ],
+    "ISOMETRIC_PROJECTION_PARTS_SPHERICAL": [
+      "isometric projection parts spherical",
+      "isometric",
+      "projection",
+      "parts",
+      "spherical"
+    ]
+  },
+  "syllabus_section": "ENGINEERING DRAWING"
+}

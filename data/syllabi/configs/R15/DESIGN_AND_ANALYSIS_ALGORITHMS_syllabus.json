@@ -1,0 +1,278 @@
+{
+  "subject_name": "Design And Analysis Algorithms",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "PSEUDO_CODE_EXPRESSING_ALGORITHMS",
+        "PERFORMANCE_ANALYSIS_SPACE_COMPLEXITY",
+        "TIME_COMPLEXITY",
+        "ASYMPTOTIC_NOTATION_BIG_OH",
+        "OMEGA_NOTATION",
+        "THETA_NOTATION_LITTLE_OH",
+        "PROBABILISTIC_ANALYSIS",
+        "AMORTIZED_COMPLEXITY"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "SEARCHING_TRAVERSAL_TECHNIQUES",
+        "EFFICIENT_NON_RECURSIVE_BINARY",
+        "DISJOINT_SET",
+        "UNION_FIND_ALGORITHMS",
+        "SPANNING_TREES",
+        "GRAPH_TRAVERSALS_BREADTH_FIRST",
+        "GRAPHS",
+        "GAME_TREES"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "GREEDY_METHOD",
+        "APPLICATIONS_JOB_SEQUENCING_DEADLINES",
+        "KNAPSACK_PROBLEM",
+        "MINIMUM_COST_SPANNING_TREES",
+        "SINGLE_SOURCE_SHORTEST_PATH",
+        "DYNAMIC_PROGRAMMING",
+        "APPLICATIONS_MULTISTAGE_GRAPHS",
+        "OPTIMAL_BINARY_SEARCH_TREES"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "BACKTRACKING",
+        "APPLICATIONS_N_QUEEN_PROBLEM",
+        "SUM_SUBSETS_PROBLEM",
+        "GRAPH_COLORING",
+        "HAMILTONIAN_CYCLES",
+        "COMPUTER_SCIENCE_ENGINEERING_BRANCH",
+        "TRAVELING_SALES_PERSON_PROBLEM",
+        "KNAPSACK_PROBLEM_LC_BRANCH"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "NP_HARD_NP_COMPLETE",
+        "NON_DETERMINISTIC_ALGORITHMS",
+        "HARD_NP_COMPLETE_CLASSES",
+        "NP_HARD_PROBLEMS",
+        "COOK_S_THEOREM"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "PSEUDO_CODE_EXPRESSING_ALGORITHMS": [
+      "pseudo code expressing algorithms",
+      "pseudo",
+      "code",
+      "expressing",
+      "algorithms"
+    ],
+    "PERFORMANCE_ANALYSIS_SPACE_COMPLEXITY": [
+      "performance analysis space complexity",
+      "performance",
+      "analysis",
+      "space",
+      "complexity"
+    ],
+    "TIME_COMPLEXITY": [
+      "time complexity",
+      "time",
+      "complexity"
+    ],
+    "ASYMPTOTIC_NOTATION_BIG_OH": [
+      "asymptotic notation big oh",
+      "asymptotic",
+      "notation"
+    ],
+    "OMEGA_NOTATION": [
+      "omega notation",
+      "omega",
+      "notation"
+    ],
+    "THETA_NOTATION_LITTLE_OH": [
+      "theta notation little oh",
+      "theta",
+      "notation",
+      "little"
+    ],
+    "PROBABILISTIC_ANALYSIS": [
+      "probabilistic analysis",
+      "probabilistic",
+      "analysis"
+    ],
+    "AMORTIZED_COMPLEXITY": [
+      "amortized complexity",
+      "amortized",
+      "complexity"
+    ],
+    "SEARCHING_TRAVERSAL_TECHNIQUES": [
+      "searching traversal techniques",
+      "searching",
+      "traversal",
+      "techniques"
+    ],
+    "EFFICIENT_NON_RECURSIVE_BINARY": [
+      "efficient non recursive binary",
+      "efficient",
+      "recursive",
+      "binary"
+    ],
+    "DISJOINT_SET": [
+      "disjoint set",
+      "disjoint"
+    ],
+    "UNION_FIND_ALGORITHMS": [
+      "union find algorithms",
+      "union",
+      "find",
+      "algorithms"
+    ],
+    "SPANNING_TREES": [
+      "spanning trees",
+      "spanning",
+      "trees"
+    ],
+    "GRAPH_TRAVERSALS_BREADTH_FIRST": [
+      "graph traversals breadth first",
+      "graph",
+      "traversals",
+      "breadth",
+      "first"
+    ],
+    "GRAPHS": [
+      "graphs",
+      "graphs"
+    ],
+    "GAME_TREES": [
+      "game trees",
+      "game",
+      "trees"
+    ],
+    "GREEDY_METHOD": [
+      "greedy method",
+      "greedy",
+      "method"
+    ],
+    "APPLICATIONS_JOB_SEQUENCING_DEADLINES": [
+      "applications job sequencing deadlines",
+      "applications",
+      "sequencing",
+      "deadlines"
+    ],
+    "KNAPSACK_PROBLEM": [
+      "knapsack problem",
+      "knapsack",
+      "problem"
+    ],
+    "MINIMUM_COST_SPANNING_TREES": [
+      "minimum cost spanning trees",
+      "minimum",
+      "cost",
+      "spanning",
+      "trees"
+    ],
+    "SINGLE_SOURCE_SHORTEST_PATH": [
+      "single source shortest path",
+      "single",
+      "source",
+      "shortest",
+      "path"
+    ],
+    "DYNAMIC_PROGRAMMING": [
+      "dynamic programming",
+      "dynamic",
+      "programming"
+    ],
+    "APPLICATIONS_MULTISTAGE_GRAPHS": [
+      "applications multistage graphs",
+      "applications",
+      "multistage",
+      "graphs"
+    ],
+    "OPTIMAL_BINARY_SEARCH_TREES": [
+      "optimal binary search trees",
+      "optimal",
+      "binary",
+      "search",
+      "trees"
+    ],
+    "BACKTRACKING": [
+      "backtracking",
+      "backtracking"
+    ],
+    "APPLICATIONS_N_QUEEN_PROBLEM": [
+      "applications n queen problem",
+      "applications",
+      "queen",
+      "problem"
+    ],
+    "SUM_SUBSETS_PROBLEM": [
+      "sum subsets problem",
+      "subsets",
+      "problem"
+    ],
+    "GRAPH_COLORING": [
+      "graph coloring",
+      "graph",
+      "coloring"
+    ],
+    "HAMILTONIAN_CYCLES": [
+      "hamiltonian cycles",
+      "hamiltonian",
+      "cycles"
+    ],
+    "COMPUTER_SCIENCE_ENGINEERING_BRANCH": [
+      "computer science engineering branch",
+      "computer",
+      "science",
+      "engineering",
+      "branch"
+    ],
+    "TRAVELING_SALES_PERSON_PROBLEM": [
+      "traveling sales person problem",
+      "traveling",
+      "sales",
+      "person",
+      "problem"
+    ],
+    "KNAPSACK_PROBLEM_LC_BRANCH": [
+      "knapsack problem lc branch",
+      "knapsack",
+      "problem",
+      "branch"
+    ],
+    "NP_HARD_NP_COMPLETE": [
+      "np hard np complete",
+      "hard",
+      "complete"
+    ],
+    "NON_DETERMINISTIC_ALGORITHMS": [
+      "non deterministic algorithms",
+      "deterministic",
+      "algorithms"
+    ],
+    "HARD_NP_COMPLETE_CLASSES": [
+      "hard np complete classes",
+      "hard",
+      "complete",
+      "classes"
+    ],
+    "NP_HARD_PROBLEMS": [
+      "np hard problems",
+      "hard",
+      "problems"
+    ],
+    "COOK_S_THEOREM": [
+      "cook s theorem",
+      "cook",
+      "theorem"
+    ]
+  },
+  "syllabus_section": "DESIGN AND ANALYSIS OF ALGORITHMS"
+}

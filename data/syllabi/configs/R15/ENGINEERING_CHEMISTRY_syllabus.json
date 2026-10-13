@@ -1,0 +1,282 @@
+{
+  "subject_name": "Engineering Chemistry",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "ELECTROCHEMISTRY_CORROSION",
+        "ELECTRO_CHEMISTRY",
+        "CONDUCTANCE",
+        "SPECIFIC",
+        "EQUIVALENT_MOLAR_CONDUCTANCE_UNITS",
+        "APPLICATIONS_CONDUCTANCE",
+        "CONDUCTOMETRIC_TITRATIONS",
+        "GALVANIC_CELLS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "ENGINEERING_MATERIALS",
+        "POLYMERS",
+        "TYPES_POLYMERIZATION",
+        "CHAIN_STEP_GROWTH",
+        "PLASTICS",
+        "THERMOPLASTIC_THERMO_SETTING_RESINS",
+        "COMPOUNDING_COMPUTER_SCIENCE_ENGINEERING",
+        "COMPRESSION_INJECTION_MOULDING"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "WATER_TREATMENT",
+        "HARDNESS_WATER",
+        "CAUSES_HARDNESS",
+        "EXPRESSION_HARDNESS",
+        "UNITS",
+        "TYPES_HARDNESS",
+        "ESTIMATION_TEMPORARY_PERMANENT_HARDNESS",
+        "NUMERICAL_PROBLEMS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "FUELS_COMBUSTION",
+        "FUELS",
+        "SOILD_FUELS",
+        "COAL",
+        "ANALYSIS_COAL",
+        "PROXIMATE_ULTIMATE_ANALYSIS_SIGNIFICANCE",
+        "LIQUID_FUELS",
+        "PETROLEUM_REFINING"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "PHASE_RULE_SURFACE_CHEMISTRY",
+        "PHASE_RULE",
+        "TERMS",
+        "PHASE",
+        "COMPUTER_SCIENCE_ENGINEERING_COMPONENT",
+        "DEGREE_FREEDOM",
+        "PHASE_RULE_EQUATION",
+        "PHASE_DIAGRAMS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ELECTROCHEMISTRY_CORROSION": [
+      "electrochemistry corrosion",
+      "electrochemistry",
+      "corrosion"
+    ],
+    "ELECTRO_CHEMISTRY": [
+      "electro chemistry",
+      "electro",
+      "chemistry"
+    ],
+    "CONDUCTANCE": [
+      "conductance",
+      "conductance"
+    ],
+    "SPECIFIC": [
+      "specific",
+      "specific"
+    ],
+    "EQUIVALENT_MOLAR_CONDUCTANCE_UNITS": [
+      "equivalent molar conductance units",
+      "equivalent",
+      "molar",
+      "conductance",
+      "units"
+    ],
+    "APPLICATIONS_CONDUCTANCE": [
+      "applications conductance",
+      "applications",
+      "conductance"
+    ],
+    "CONDUCTOMETRIC_TITRATIONS": [
+      "conductometric titrations",
+      "conductometric",
+      "titrations"
+    ],
+    "GALVANIC_CELLS": [
+      "galvanic cells",
+      "galvanic",
+      "cells"
+    ],
+    "ENGINEERING_MATERIALS": [
+      "engineering materials",
+      "engineering",
+      "materials"
+    ],
+    "POLYMERS": [
+      "polymers",
+      "polymers"
+    ],
+    "TYPES_POLYMERIZATION": [
+      "types polymerization",
+      "types",
+      "polymerization"
+    ],
+    "CHAIN_STEP_GROWTH": [
+      "chain step growth",
+      "chain",
+      "step",
+      "growth"
+    ],
+    "PLASTICS": [
+      "plastics",
+      "plastics"
+    ],
+    "THERMOPLASTIC_THERMO_SETTING_RESINS": [
+      "thermoplastic thermo setting resins",
+      "thermoplastic",
+      "thermo",
+      "setting",
+      "resins"
+    ],
+    "COMPOUNDING_COMPUTER_SCIENCE_ENGINEERING": [
+      "compounding computer science engineering",
+      "compounding",
+      "computer",
+      "science",
+      "engineering"
+    ],
+    "COMPRESSION_INJECTION_MOULDING": [
+      "compression injection moulding",
+      "compression",
+      "injection",
+      "moulding"
+    ],
+    "WATER_TREATMENT": [
+      "water treatment",
+      "water",
+      "treatment"
+    ],
+    "HARDNESS_WATER": [
+      "hardness water",
+      "hardness",
+      "water"
+    ],
+    "CAUSES_HARDNESS": [
+      "causes hardness",
+      "causes",
+      "hardness"
+    ],
+    "EXPRESSION_HARDNESS": [
+      "expression hardness",
+      "expression",
+      "hardness"
+    ],
+    "UNITS": [
+      "units",
+      "units"
+    ],
+    "TYPES_HARDNESS": [
+      "types hardness",
+      "types",
+      "hardness"
+    ],
+    "ESTIMATION_TEMPORARY_PERMANENT_HARDNESS": [
+      "estimation temporary permanent hardness",
+      "estimation",
+      "temporary",
+      "permanent",
+      "hardness"
+    ],
+    "NUMERICAL_PROBLEMS": [
+      "numerical problems",
+      "numerical",
+      "problems"
+    ],
+    "FUELS_COMBUSTION": [
+      "fuels combustion",
+      "fuels",
+      "combustion"
+    ],
+    "FUELS": [
+      "fuels",
+      "fuels"
+    ],
+    "SOILD_FUELS": [
+      "soild fuels",
+      "soild",
+      "fuels"
+    ],
+    "COAL": [
+      "coal",
+      "coal"
+    ],
+    "ANALYSIS_COAL": [
+      "analysis coal",
+      "analysis",
+      "coal"
+    ],
+    "PROXIMATE_ULTIMATE_ANALYSIS_SIGNIFICANCE": [
+      "proximate ultimate analysis significance",
+      "proximate",
+      "ultimate",
+      "analysis",
+      "significance"
+    ],
+    "LIQUID_FUELS": [
+      "liquid fuels",
+      "liquid",
+      "fuels"
+    ],
+    "PETROLEUM_REFINING": [
+      "petroleum refining",
+      "petroleum",
+      "refining"
+    ],
+    "PHASE_RULE_SURFACE_CHEMISTRY": [
+      "phase rule surface chemistry",
+      "phase",
+      "rule",
+      "surface",
+      "chemistry"
+    ],
+    "PHASE_RULE": [
+      "phase rule",
+      "phase",
+      "rule"
+    ],
+    "TERMS": [
+      "terms",
+      "terms"
+    ],
+    "PHASE": [
+      "phase",
+      "phase"
+    ],
+    "COMPUTER_SCIENCE_ENGINEERING_COMPONENT": [
+      "computer science engineering component",
+      "computer",
+      "science",
+      "engineering",
+      "component"
+    ],
+    "DEGREE_FREEDOM": [
+      "degree freedom",
+      "degree",
+      "freedom"
+    ],
+    "PHASE_RULE_EQUATION": [
+      "phase rule equation",
+      "phase",
+      "rule",
+      "equation"
+    ],
+    "PHASE_DIAGRAMS": [
+      "phase diagrams",
+      "phase",
+      "diagrams"
+    ]
+  },
+  "syllabus_section": "ENGINEERING CHEMISTRY"
+}

@@ -1,0 +1,280 @@
+{
+  "subject_name": "Digital Logic Design",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "DIGITAL_SYSTEMS",
+        "BINARY_NUMBERS",
+        "OCTAL",
+        "HEXA_DECIMAL_BASE_NUMBERS",
+        "NUMBER_BASE_CONVERSIONS",
+        "COMPLEMENTS",
+        "SIGNED_BINARY_NUMBERS",
+        "FLOATING_POINT_NUMBER_REPRESENTATION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "GATE_LEVEL_MINIMIZATION_COMBINATION",
+        "K_MAPS_METHODS",
+        "THREE_VARIABLE",
+        "FOUR_VARIABLE",
+        "FIVE_VARIABLE",
+        "SUM_PRODUCTS",
+        "PRODUCT_SUMS_SIMPLIFICATION",
+        "DON_T_CARE_CONDITIONS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "COMBINATIONAL_CIRCUITS",
+        "DESIGN_PROCEDURE",
+        "COMBINATIONAL_CIRCUIT_CODE_CONVERTERS",
+        "BINARY_ADDER",
+        "SUBTRACTOR",
+        "MULTIPLIER",
+        "MAGNITUDE_COMPARATOR",
+        "DECODERS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "SYNCHRONOUS_SEQUENTIAL_CIRCUITS",
+        "LATCHES",
+        "FLIP_FLOPS",
+        "ANALYSIS_CLOCKED_SEQUENTIAL_CIRCUITS",
+        "DESIGN_COUNTERS",
+        "UP_DOWN_COUNTERS",
+        "RIPPLE_COUNTERS",
+        "REGISTERS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "MEMORY",
+        "RANDOM_ACCESS_MEMORY",
+        "TYPES_ROM",
+        "MEMORY_DECODING",
+        "ADDRESS_DATA_BUS",
+        "SEQUENTIAL_MEMORY",
+        "CACHE_MEMORY",
+        "PROGRAMMABLE_LOGIC_ARRAYS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "DIGITAL_SYSTEMS": [
+      "digital systems",
+      "digital",
+      "systems"
+    ],
+    "BINARY_NUMBERS": [
+      "binary numbers",
+      "binary",
+      "numbers"
+    ],
+    "OCTAL": [
+      "octal",
+      "octal"
+    ],
+    "HEXA_DECIMAL_BASE_NUMBERS": [
+      "hexa decimal base numbers",
+      "hexa",
+      "decimal",
+      "base",
+      "numbers"
+    ],
+    "NUMBER_BASE_CONVERSIONS": [
+      "number base conversions",
+      "number",
+      "base",
+      "conversions"
+    ],
+    "COMPLEMENTS": [
+      "complements",
+      "complements"
+    ],
+    "SIGNED_BINARY_NUMBERS": [
+      "signed binary numbers",
+      "signed",
+      "binary",
+      "numbers"
+    ],
+    "FLOATING_POINT_NUMBER_REPRESENTATION": [
+      "floating point number representation",
+      "floating",
+      "point",
+      "number",
+      "representation"
+    ],
+    "GATE_LEVEL_MINIMIZATION_COMBINATION": [
+      "gate level minimization combination",
+      "gate",
+      "level",
+      "minimization",
+      "combination"
+    ],
+    "K_MAPS_METHODS": [
+      "k maps methods",
+      "maps",
+      "methods"
+    ],
+    "THREE_VARIABLE": [
+      "three variable",
+      "three",
+      "variable"
+    ],
+    "FOUR_VARIABLE": [
+      "four variable",
+      "four",
+      "variable"
+    ],
+    "FIVE_VARIABLE": [
+      "five variable",
+      "five",
+      "variable"
+    ],
+    "SUM_PRODUCTS": [
+      "sum products",
+      "products"
+    ],
+    "PRODUCT_SUMS_SIMPLIFICATION": [
+      "product sums simplification",
+      "product",
+      "sums",
+      "simplification"
+    ],
+    "DON_T_CARE_CONDITIONS": [
+      "don t care conditions",
+      "care",
+      "conditions"
+    ],
+    "COMBINATIONAL_CIRCUITS": [
+      "combinational circuits",
+      "combinational",
+      "circuits"
+    ],
+    "DESIGN_PROCEDURE": [
+      "design procedure",
+      "design",
+      "procedure"
+    ],
+    "COMBINATIONAL_CIRCUIT_CODE_CONVERTERS": [
+      "combinational circuit code converters",
+      "combinational",
+      "circuit",
+      "code",
+      "converters"
+    ],
+    "BINARY_ADDER": [
+      "binary adder",
+      "binary",
+      "adder"
+    ],
+    "SUBTRACTOR": [
+      "subtractor",
+      "subtractor"
+    ],
+    "MULTIPLIER": [
+      "multiplier",
+      "multiplier"
+    ],
+    "MAGNITUDE_COMPARATOR": [
+      "magnitude comparator",
+      "magnitude",
+      "comparator"
+    ],
+    "DECODERS": [
+      "decoders",
+      "decoders"
+    ],
+    "SYNCHRONOUS_SEQUENTIAL_CIRCUITS": [
+      "synchronous sequential circuits",
+      "synchronous",
+      "sequential",
+      "circuits"
+    ],
+    "LATCHES": [
+      "latches",
+      "latches"
+    ],
+    "FLIP_FLOPS": [
+      "flip flops",
+      "flip",
+      "flops"
+    ],
+    "ANALYSIS_CLOCKED_SEQUENTIAL_CIRCUITS": [
+      "analysis clocked sequential circuits",
+      "analysis",
+      "clocked",
+      "sequential",
+      "circuits"
+    ],
+    "DESIGN_COUNTERS": [
+      "design counters",
+      "design",
+      "counters"
+    ],
+    "UP_DOWN_COUNTERS": [
+      "up down counters",
+      "down",
+      "counters"
+    ],
+    "RIPPLE_COUNTERS": [
+      "ripple counters",
+      "ripple",
+      "counters"
+    ],
+    "REGISTERS": [
+      "registers",
+      "registers"
+    ],
+    "MEMORY": [
+      "memory",
+      "memory"
+    ],
+    "RANDOM_ACCESS_MEMORY": [
+      "random access memory",
+      "random",
+      "access",
+      "memory"
+    ],
+    "TYPES_ROM": [
+      "types rom",
+      "types"
+    ],
+    "MEMORY_DECODING": [
+      "memory decoding",
+      "memory",
+      "decoding"
+    ],
+    "ADDRESS_DATA_BUS": [
+      "address data bus",
+      "address",
+      "data"
+    ],
+    "SEQUENTIAL_MEMORY": [
+      "sequential memory",
+      "sequential",
+      "memory"
+    ],
+    "CACHE_MEMORY": [
+      "cache memory",
+      "cache",
+      "memory"
+    ],
+    "PROGRAMMABLE_LOGIC_ARRAYS": [
+      "programmable logic arrays",
+      "programmable",
+      "logic",
+      "arrays"
+    ]
+  },
+  "syllabus_section": "DIGITAL LOGIC DESIGN"
+}

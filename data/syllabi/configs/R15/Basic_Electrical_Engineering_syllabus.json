@@ -1,0 +1,122 @@
+{
+  "subject_name": "Basic Electrical Engineering",
+  "canonical_id": "SUBJECT_BEE",
+  "regulation": "R15",
+  "year": "II",
+  "sem": "I",
+  "units": {
+    "UNIT_1": {
+      "name": "Introduction to Electrical Engineering and Network Analysis",
+      "topics": [
+        "ELECTRICAL_QUANTITIES_AND_OHMS_LAW",
+        "KIRCHHOFFS_LAWS",
+        "SERIES_PARALLEL_CIRCUITS",
+        "STAR_DELTA_TRANSFORMATION",
+        "SUPERPOSITION_THEOREM",
+        "THEVENINS_THEOREM",
+        "NORTON_THEOREM",
+        "MAXIMUM_POWER_TRANSFER_THEOREM",
+        "INDUCTANCE_AND_CAPACITANCE"
+      ]
+    },
+    "UNIT_2": {
+      "name": "Alternating Quantities and AC Circuits",
+      "topics": [
+        "AC_FUNDAMENTALS",
+        "RMS_AND_AVERAGE_VALUES",
+        "FORM_FACTOR_AND_PEAK_FACTOR",
+        "PHASOR_REPRESENTATION",
+        "SERIES_AC_CIRCUITS",
+        "PARALLEL_AC_CIRCUITS",
+        "RESONANCE",
+        "POWER_AND_POWER_FACTOR",
+        "THREE_PHASE_CIRCUITS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Transformers",
+      "topics": [
+        "TRANSFORMER_PRINCIPLE",
+        "TRANSFORMER_CONSTRUCTION",
+        "IDEAL_AND_PRACTICAL_TRANSFORMER",
+        "TRANSFORMER_LOSSES",
+        "TRANSFORMER_EFFICIENCY",
+        "TRANSFORMER_REGULATION",
+        "TRANSFORMER_TESTS",
+        "AUTOTRANSFORMER",
+        "THREE_PHASE_TRANSFORMER"
+      ]
+    },
+    "UNIT_4": {
+      "name": "D.C. and A.C. Machines",
+      "topics": [
+        "DC_GENERATOR_PRINCIPLE",
+        "EMF_EQUATION_AND_WINDINGS",
+        "DC_MOTOR_PRINCIPLE",
+        "INDUCTION_MOTOR",
+        "SINGLE_PHASE_MOTOR",
+        "SYNCHRONOUS_MACHINE"
+      ]
+    },
+    "UNIT_5": {
+      "name": "Basic Instruments",
+      "topics": [
+        "CLASSIFICATION_OF_INSTRUMENTS",
+        "MOVING_COIL_INSTRUMENT",
+        "MOVING_IRON_INSTRUMENT",
+        "CONTROLLING_TORQUE",
+        "DAMPING_TORQUE",
+        "MEASURING_INSTRUMENTS",
+        "ERRORS_IN_INSTRUMENTS"
+      ]
+    }
+  },
+  "domain_triggers": {
+    "UNIT_3": ["transformer"],
+    "UNIT_5": ["instrument", "ammeter", "voltmeter", "wattmeter", "pmmc", "moving coil", "moving iron", "damping torque", "controlling torque", "energy meter"],
+    "UNIT_4": ["motor", "generator", "alternator", "dc machine", "induction", "synchronous"],
+    "UNIT_2": ["alternating", "sinusoidal", "waveform", "rms", "root mean square", "form factor", "peak factor", "phasor", "j operator", "impedance", "reactance", "resonance", "power factor", "three phase", "admittance", "susceptance", "average value", "series circuit", "parallel circuit"]
+  },
+  "topic_keywords": {
+    "ELECTRICAL_QUANTITIES_AND_OHMS_LAW": ["ohm", "resistance", "resistivity", "conductivity", "conductor", "electric current", "electric potential", "emf", "charge", "coulomb", "dc voltage", "types of sources", "classification of sources", "dependent source", "independent source", "types of elements"],
+    "KIRCHHOFFS_LAWS": ["kirchhoff", "kirchoff", "kvl", "kcl", "loop", "node", "junction"],
+    "SERIES_PARALLEL_CIRCUITS": ["series", "parallel", "equivalent resistance", "equivalent capacitance", "voltage divider", "current divider"],
+    "STAR_DELTA_TRANSFORMATION": ["star", "delta", "transformation", "delta star", "star delta"],
+    "SUPERPOSITION_THEOREM": ["superposition", "super position"],
+    "THEVENINS_THEOREM": ["thevenin", "thevinin"],
+    "NORTON_THEOREM": ["norton"],
+    "MAXIMUM_POWER_TRANSFER_THEOREM": ["maximum power", "power transfer"],
+    "INDUCTANCE_AND_CAPACITANCE": ["inductance", "capacitance", "inductor", "capacitor", "reactance", "henry"],
+    "AC_FUNDAMENTALS": ["alternating", "sinusoidal", "waveform", "amplitude", "phase angle", "frequency", "time period", "ac voltage", "alternating quantity", "phase relation", "pure capacitive", "pure inductive", "instantaneous value", "cycle"],
+    "RMS_AND_AVERAGE_VALUES": ["rms", "root mean square", "average value", "mean value"],
+    "FORM_FACTOR_AND_PEAK_FACTOR": ["form factor", "peak factor", "crest factor", "peak value"],
+    "PHASOR_REPRESENTATION": ["phasor", "j operator", "phasor algebra", "vector diagram", "simplify the following expression", "significance of 'j'"],
+    "SERIES_AC_CIRCUITS": ["series circuit", "series ac", "impedance", "r-l-c series", "rl circuit", "rc circuit", "r-l series", "r-c circuit"],
+    "PARALLEL_AC_CIRCUITS": ["parallel circuit", "admittance", "susceptance", "conductance", "parallel ac"],
+    "RESONANCE": ["resonance", "resonant", "quality factor", "bandwidth"],
+    "POWER_AND_POWER_FACTOR": ["power factor", "real power", "reactive power", "apparent power", "active power", "power triangle", "instantaneous power", "average power"],
+    "THREE_PHASE_CIRCUITS": ["three phase", "3-phase", "three-phase", "star connected", "delta connected", "line voltage", "phase voltage"],
+    "TRANSFORMER_PRINCIPLE": ["transformer principle", "working of transformer", "working principle of a single phase transformer", "working principle of transformer", "mutual induction", "operation of a transformer", "leakage flux", "leakage", "equivalent circuit", "step up transformer", "step down transformer", "turns in the primary", "flux density", "cross sectional area"],
+    "TRANSFORMER_CONSTRUCTION": ["core type", "shell type", "core-type", "shell-type", "constructional", "construction features of a single phase transformer", "windings of transformer", "types of a single phase transformer", "parts of a transformer", "types of transformer"],
+    "IDEAL_AND_PRACTICAL_TRANSFORMER": ["ideal transformer", "practical transformer", "ideal and a practical transformer"],
+    "TRANSFORMER_LOSSES": ["copper loss", "core loss", "iron loss", "hysteresis", "eddy current", "various losses", "losses that occur", "losses of single phase transformer", "losses in a single phase transformer", "losses"],
+    "TRANSFORMER_EFFICIENCY": ["efficiency", "maximum efficiency", "transformer efficiency", "efficiency of the transformer", "efficiency of transformer"],
+    "TRANSFORMER_REGULATION": ["regulation", "voltage regulation"],
+    "TRANSFORMER_TESTS": ["oc test", "sc test", "open circuit test", "short circuit test", "oc and sc", "tests that are conducted"],
+    "AUTOTRANSFORMER": ["autotransformer", "auto transformer"],
+    "THREE_PHASE_TRANSFORMER": ["three phase transformer", "three-phase transformer"],
+    "DC_GENERATOR_PRINCIPLE": ["dc generator", "dc machine", "separately excited", "self excited", "self-excited", "shunt generator", "series generator", "compound generator", "lap and wave"],
+    "EMF_EQUATION_AND_WINDINGS": ["emf equation", "generated emf", "lap winding", "wave winding", "conductors", "flux per pole"],
+    "DC_MOTOR_PRINCIPLE": ["dc motor", "dc motors", "d.c motor", "d.c. motor", "dc series motor", "dc shunt motor", "series motor", "shunt motor", "compound motor", "long shunt", "short shunt", "back emf", "torque equation", "production of torque", "speed control", "losses in a d.c machine", "losses in dc machine"],
+    "INDUCTION_MOTOR": ["induction motor", "three phase induction", "rotating magnetic field", "synchronous speed", "slip", "rotor frequency", "torque slip"],
+    "SINGLE_PHASE_MOTOR": ["single phase induction", "single phase motor", "single-phase motor", "capacitor start"],
+    "SYNCHRONOUS_MACHINE": ["synchronous generator", "synchronous motor", "alternator", "synchronous machine"],
+    "CLASSIFICATION_OF_INSTRUMENTS": ["classification of instruments", "classification of measuring instruments", "indicating", "integrating", "recording instrument", "with respect to instruments"],
+    "MOVING_COIL_INSTRUMENT": ["moving coil", "pmmc", "permanent magnet", "moving coil permanent magnet"],
+    "MOVING_IRON_INSTRUMENT": ["moving iron", "attraction type", "repulsion type", "mi type"],
+    "CONTROLLING_TORQUE": ["controlling torque", "controlling", "spring control", "gravity control"],
+    "DAMPING_TORQUE": ["damping torque", "damping"],
+    "MEASURING_INSTRUMENTS": ["measuring instrument", "measuring instruments", "ammeter", "voltmeter", "wattmeter", "energy meter", "galvanometer", "used to measure", "measure voltage"],
+    "ERRORS_IN_INSTRUMENTS": ["errors", "error", "compensate", "compensation"]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "subject_name": "Engineering Physics",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "CRYSTALLOGRAPHY",
+        "IONIC_BOND",
+        "COVALENT_BOND",
+        "METALLIC_BOND",
+        "HYDROGEN_BOND",
+        "VANDER_WAAL_S_BOND",
+        "CALCULATION_COHESIVE_ENERGY_DIATOMIC",
+        "CELL"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "PRINCIPLES_QUANTUM_MECHANICS",
+        "WAVES_PARTICLES",
+        "DE_BROGLIE_HYPOTHESIS",
+        "MATTER_WAVES",
+        "DAVISSON_GERMER_EXPERIMENT",
+        "HEISENBERG_S_UNCERTAINTY_PRINCIPLE",
+        "SCHR_DINGER_S_TIME",
+        "PHYSICAL_SIGNIFICANCE_WAVE_FUNCTION"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "DIELECTRIC_PROPERTIES",
+        "ELECTRIC_DIPOLE",
+        "DIPOLE_MOMENT",
+        "DIELECTRIC_CONSTANT",
+        "POLARIZABILITY",
+        "ELECTRIC_SUSCEPTIBILITY",
+        "DISPLACEMENT_VECTOR",
+        "ELECTRONIC"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "OPTICS",
+        "INTERFERENCE_INTERFERENCE_THIN_FILMS",
+        "REFLECTED_LIGHT",
+        "NEWTON_RINGS_EXPERIMENT_FRAUNHOFER",
+        "N_SLITS",
+        "DIFFRACTION_GRATING_EXPERIMENT",
+        "DOUBLE_REFRACTION_CONSTRUCTION_WORKING",
+        "CHARACTERISTICS_LASERS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "SEMICONDUCTOR_PHYSICS",
+        "FERMI_LEVEL_INTRINSIC_EXTRINSIC",
+        "CALCULATION_CARRIER_CONCENTRATION_INTRINSIC",
+        "EXTRINSIC_SEMICONDUCTORS",
+        "DIRECT_INDIRECT_BAND_GAP",
+        "HALL_EFFECT_FORMATION_PN",
+        "OPEN_CIRCUIT_PN_JUNCTION",
+        "ENERGY_DIAGRAM_PN_DIODE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "CRYSTALLOGRAPHY": [
+      "crystallography",
+      "crystallography"
+    ],
+    "IONIC_BOND": [
+      "ionic bond",
+      "ionic",
+      "bond"
+    ],
+    "COVALENT_BOND": [
+      "covalent bond",
+      "covalent",
+      "bond"
+    ],
+    "METALLIC_BOND": [
+      "metallic bond",
+      "metallic",
+      "bond"
+    ],
+    "HYDROGEN_BOND": [
+      "hydrogen bond",
+      "hydrogen",
+      "bond"
+    ],
+    "VANDER_WAAL_S_BOND": [
+      "vander waal s bond",
+      "vander",
+      "waal",
+      "bond"
+    ],
+    "CALCULATION_COHESIVE_ENERGY_DIATOMIC": [
+      "calculation cohesive energy diatomic",
+      "calculation",
+      "cohesive",
+      "energy",
+      "diatomic"
+    ],
+    "CELL": [
+      "cell",
+      "cell"
+    ],
+    "PRINCIPLES_QUANTUM_MECHANICS": [
+      "principles quantum mechanics",
+      "principles",
+      "quantum",
+      "mechanics"
+    ],
+    "WAVES_PARTICLES": [
+      "waves particles",
+      "waves",
+      "particles"
+    ],
+    "DE_BROGLIE_HYPOTHESIS": [
+      "de broglie hypothesis",
+      "broglie",
+      "hypothesis"
+    ],
+    "MATTER_WAVES": [
+      "matter waves",
+      "matter",
+      "waves"
+    ],
+    "DAVISSON_GERMER_EXPERIMENT": [
+      "davisson germer experiment",
+      "davisson",
+      "germer",
+      "experiment"
+    ],
+    "HEISENBERG_S_UNCERTAINTY_PRINCIPLE": [
+      "heisenberg s uncertainty principle",
+      "heisenberg",
+      "uncertainty",
+      "principle"
+    ],
+    "SCHR_DINGER_S_TIME": [
+      "schr dinger s time",
+      "schr",
+      "dinger",
+      "time"
+    ],
+    "PHYSICAL_SIGNIFICANCE_WAVE_FUNCTION": [
+      "physical significance wave function",
+      "physical",
+      "significance",
+      "wave",
+      "function"
+    ],
+    "DIELECTRIC_PROPERTIES": [
+      "dielectric properties",
+      "dielectric",
+      "properties"
+    ],
+    "ELECTRIC_DIPOLE": [
+      "electric dipole",
+      "electric",
+      "dipole"
+    ],
+    "DIPOLE_MOMENT": [
+      "dipole moment",
+      "dipole",
+      "moment"
+    ],
+    "DIELECTRIC_CONSTANT": [
+      "dielectric constant",
+      "dielectric",
+      "constant"
+    ],
+    "POLARIZABILITY": [
+      "polarizability",
+      "polarizability"
+    ],
+    "ELECTRIC_SUSCEPTIBILITY": [
+      "electric susceptibility",
+      "electric",
+      "susceptibility"
+    ],
+    "DISPLACEMENT_VECTOR": [
+      "displacement vector",
+      "displacement",
+      "vector"
+    ],
+    "ELECTRONIC": [
+      "electronic",
+      "electronic"
+    ],
+    "OPTICS": [
+      "optics",
+      "optics"
+    ],
+    "INTERFERENCE_INTERFERENCE_THIN_FILMS": [
+      "interference interference thin films",
+      "interference",
+      "interference",
+      "thin",
+      "films"
+    ],
+    "REFLECTED_LIGHT": [
+      "reflected light",
+      "reflected",
+      "light"
+    ],
+    "NEWTON_RINGS_EXPERIMENT_FRAUNHOFER": [
+      "newton rings experiment fraunhofer",
+      "newton",
+      "rings",
+      "experiment",
+      "fraunhofer"
+    ],
+    "N_SLITS": [
+      "n slits",
+      "slits"
+    ],
+    "DIFFRACTION_GRATING_EXPERIMENT": [
+      "diffraction grating experiment",
+      "diffraction",
+      "grating",
+      "experiment"
+    ],
+    "DOUBLE_REFRACTION_CONSTRUCTION_WORKING": [
+      "double refraction construction working",
+      "double",
+      "refraction",
+      "construction",
+      "working"
+    ],
+    "CHARACTERISTICS_LASERS": [
+      "characteristics lasers",
+      "characteristics",
+      "lasers"
+    ],
+    "SEMICONDUCTOR_PHYSICS": [
+      "semiconductor physics",
+      "semiconductor",
+      "physics"
+    ],
+    "FERMI_LEVEL_INTRINSIC_EXTRINSIC": [
+      "fermi level intrinsic extrinsic",
+      "fermi",
+      "level",
+      "intrinsic",
+      "extrinsic"
+    ],
+    "CALCULATION_CARRIER_CONCENTRATION_INTRINSIC": [
+      "calculation carrier concentration intrinsic",
+      "calculation",
+      "carrier",
+      "concentration",
+      "intrinsic"
+    ],
+    "EXTRINSIC_SEMICONDUCTORS": [
+      "extrinsic semiconductors",
+      "extrinsic",
+      "semiconductors"
+    ],
+    "DIRECT_INDIRECT_BAND_GAP": [
+      "direct indirect band gap",
+      "direct",
+      "indirect",
+      "band"
+    ],
+    "HALL_EFFECT_FORMATION_PN": [
+      "hall effect formation pn",
+      "hall",
+      "effect",
+      "formation"
+    ],
+    "OPEN_CIRCUIT_PN_JUNCTION": [
+      "open circuit pn junction",
+      "open",
+      "circuit",
+      "junction"
+    ],
+    "ENERGY_DIAGRAM_PN_DIODE": [
+      "energy diagram pn diode",
+      "energy",
+      "diagram",
+      "diode"
+    ]
+  },
+  "syllabus_section": "ENGINEERING PHYSICS"
+}

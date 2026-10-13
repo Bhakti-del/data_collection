@@ -1,0 +1,315 @@
+{
+  "subject_name": "Mathematical Methods",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "INTERPOLATION_CURVE_FITTING",
+        "INTERPOLATION",
+        "ERRORS_POLYNOMIAL_INTERPOLATION",
+        "FINITE_DIFFERENCES_FORWARD_DIFFERENCES",
+        "SYMBOLIC_RELATIONS_SEPARATION_SYMBOLS",
+        "DIFFERENCES_POLYNOMIAL_NEWTON_S",
+        "CENTRAL_DIFFERENCE_INTERPOLATION_FORMULAE",
+        "GAUSS_CENTRAL_DIFFERENCE_FORMULAE"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "NUMERICAL_TECHNIQUES",
+        "SOLUTION_ALGEBRAIC_TRANSCENDENTAL_EQUATIONS",
+        "GRAPHICAL_INTERPRETATION_SOLUTION_EQUATIONS",
+        "BISECTION_METHOD",
+        "METHOD_FALSE_POSITION",
+        "ITERATION_METHOD",
+        "NEWTON_RAPHSON_METHOD",
+        "SOLVING_SYSTEM_NON_HOMOGENEOUS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "FOURIER_SERIES_FOURIER_TRANSFORMS",
+        "PERIODIC_FUNCTION",
+        "FOURIER_EXPANSION_PERIODIC_FUNCTIONS",
+        "FOURIER_SERIES_EVEN_ODD",
+        "FOURIER_SERIES_ARBITRARY_INTERVAL",
+        "EVEN_ODD_PERIODIC_CONTINUATION",
+        "HALF_RANGE_FOURIER_SINE",
+        "FOURIER_INTEGRAL_THEOREM"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "PARTIAL_DIFFERENTIAL_EQUATIONS",
+        "FORMATION_PARTIAL_DIFFERENTIAL_EQUATION",
+        "SOLUTIONS_FIRST_ORDER_LINEAR",
+        "LAGRANGE",
+        "EQUATION_NON_LINEAR_EQUATIONS",
+        "CHARPIT_S_METHOD",
+        "METHOD_SEPARATION_VARIABLES_SECOND",
+        "HEAT_EQUATION"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "VECTOR_CALCULUS",
+        "SCALAR_POINT_FUNCTION_VECTOR",
+        "GRADIENT_DIVERGENCE_CURL_RELATED",
+        "LAPLACIAN_OPERATOR",
+        "LINE_INTEGRAL",
+        "WORK_DONE",
+        "SURFACE_INTEGRALS_VOLUME_INTEGRAL",
+        "GREEN_S_THEOREM"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "INTERPOLATION_CURVE_FITTING": [
+      "interpolation curve fitting",
+      "interpolation",
+      "curve",
+      "fitting"
+    ],
+    "INTERPOLATION": [
+      "interpolation",
+      "interpolation"
+    ],
+    "ERRORS_POLYNOMIAL_INTERPOLATION": [
+      "errors polynomial interpolation",
+      "errors",
+      "polynomial",
+      "interpolation"
+    ],
+    "FINITE_DIFFERENCES_FORWARD_DIFFERENCES": [
+      "finite differences forward differences",
+      "finite",
+      "differences",
+      "forward",
+      "differences"
+    ],
+    "SYMBOLIC_RELATIONS_SEPARATION_SYMBOLS": [
+      "symbolic relations separation symbols",
+      "symbolic",
+      "relations",
+      "separation",
+      "symbols"
+    ],
+    "DIFFERENCES_POLYNOMIAL_NEWTON_S": [
+      "differences polynomial newton s",
+      "differences",
+      "polynomial",
+      "newton"
+    ],
+    "CENTRAL_DIFFERENCE_INTERPOLATION_FORMULAE": [
+      "central difference interpolation formulae",
+      "central",
+      "difference",
+      "interpolation",
+      "formulae"
+    ],
+    "GAUSS_CENTRAL_DIFFERENCE_FORMULAE": [
+      "gauss central difference formulae",
+      "gauss",
+      "central",
+      "difference",
+      "formulae"
+    ],
+    "NUMERICAL_TECHNIQUES": [
+      "numerical techniques",
+      "numerical",
+      "techniques"
+    ],
+    "SOLUTION_ALGEBRAIC_TRANSCENDENTAL_EQUATIONS": [
+      "solution algebraic transcendental equations",
+      "solution",
+      "algebraic",
+      "transcendental",
+      "equations"
+    ],
+    "GRAPHICAL_INTERPRETATION_SOLUTION_EQUATIONS": [
+      "graphical interpretation solution equations",
+      "graphical",
+      "interpretation",
+      "solution",
+      "equations"
+    ],
+    "BISECTION_METHOD": [
+      "bisection method",
+      "bisection",
+      "method"
+    ],
+    "METHOD_FALSE_POSITION": [
+      "method false position",
+      "method",
+      "false",
+      "position"
+    ],
+    "ITERATION_METHOD": [
+      "iteration method",
+      "iteration",
+      "method"
+    ],
+    "NEWTON_RAPHSON_METHOD": [
+      "newton raphson method",
+      "newton",
+      "raphson",
+      "method"
+    ],
+    "SOLVING_SYSTEM_NON_HOMOGENEOUS": [
+      "solving system non homogeneous",
+      "solving",
+      "system",
+      "homogeneous"
+    ],
+    "FOURIER_SERIES_FOURIER_TRANSFORMS": [
+      "fourier series fourier transforms",
+      "fourier",
+      "series",
+      "fourier",
+      "transforms"
+    ],
+    "PERIODIC_FUNCTION": [
+      "periodic function",
+      "periodic",
+      "function"
+    ],
+    "FOURIER_EXPANSION_PERIODIC_FUNCTIONS": [
+      "fourier expansion periodic functions",
+      "fourier",
+      "expansion",
+      "periodic",
+      "functions"
+    ],
+    "FOURIER_SERIES_EVEN_ODD": [
+      "fourier series even odd",
+      "fourier",
+      "series",
+      "even"
+    ],
+    "FOURIER_SERIES_ARBITRARY_INTERVAL": [
+      "fourier series arbitrary interval",
+      "fourier",
+      "series",
+      "arbitrary",
+      "interval"
+    ],
+    "EVEN_ODD_PERIODIC_CONTINUATION": [
+      "even odd periodic continuation",
+      "even",
+      "periodic",
+      "continuation"
+    ],
+    "HALF_RANGE_FOURIER_SINE": [
+      "half range fourier sine",
+      "half",
+      "range",
+      "fourier",
+      "sine"
+    ],
+    "FOURIER_INTEGRAL_THEOREM": [
+      "fourier integral theorem",
+      "fourier",
+      "integral",
+      "theorem"
+    ],
+    "PARTIAL_DIFFERENTIAL_EQUATIONS": [
+      "partial differential equations",
+      "partial",
+      "differential",
+      "equations"
+    ],
+    "FORMATION_PARTIAL_DIFFERENTIAL_EQUATION": [
+      "formation partial differential equation",
+      "formation",
+      "partial",
+      "differential",
+      "equation"
+    ],
+    "SOLUTIONS_FIRST_ORDER_LINEAR": [
+      "solutions first order linear",
+      "solutions",
+      "first",
+      "order",
+      "linear"
+    ],
+    "LAGRANGE": [
+      "lagrange",
+      "lagrange"
+    ],
+    "EQUATION_NON_LINEAR_EQUATIONS": [
+      "equation non linear equations",
+      "equation",
+      "linear",
+      "equations"
+    ],
+    "CHARPIT_S_METHOD": [
+      "charpit s method",
+      "charpit",
+      "method"
+    ],
+    "METHOD_SEPARATION_VARIABLES_SECOND": [
+      "method separation variables second",
+      "method",
+      "separation",
+      "variables",
+      "second"
+    ],
+    "HEAT_EQUATION": [
+      "heat equation",
+      "heat",
+      "equation"
+    ],
+    "VECTOR_CALCULUS": [
+      "vector calculus",
+      "vector",
+      "calculus"
+    ],
+    "SCALAR_POINT_FUNCTION_VECTOR": [
+      "scalar point function vector",
+      "scalar",
+      "point",
+      "function",
+      "vector"
+    ],
+    "GRADIENT_DIVERGENCE_CURL_RELATED": [
+      "gradient divergence curl related",
+      "gradient",
+      "divergence",
+      "curl",
+      "related"
+    ],
+    "LAPLACIAN_OPERATOR": [
+      "laplacian operator",
+      "laplacian",
+      "operator"
+    ],
+    "LINE_INTEGRAL": [
+      "line integral",
+      "line",
+      "integral"
+    ],
+    "WORK_DONE": [
+      "work done",
+      "work",
+      "done"
+    ],
+    "SURFACE_INTEGRALS_VOLUME_INTEGRAL": [
+      "surface integrals volume integral",
+      "surface",
+      "integrals",
+      "volume",
+      "integral"
+    ],
+    "GREEN_S_THEOREM": [
+      "green s theorem",
+      "green",
+      "theorem"
+    ]
+  },
+  "syllabus_section": "MATHEMATICAL METHODS"
+}

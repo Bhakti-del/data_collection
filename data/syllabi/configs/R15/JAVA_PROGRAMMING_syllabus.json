@@ -1,0 +1,272 @@
+{
+  "subject_name": "Java Programming",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "DATA_ABSTRACTION",
+        "ENCAPSULATION",
+        "INHERITANCE",
+        "BENEFITS_INHERITANCE",
+        "POLYMORPHISM",
+        "CLASSES_OBJECTS",
+        "PROCEDURAL_OBJECT_ORIENTED_PROGRAMMING",
+        "HISTORY_JAVA"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "INHERITANCE",
+        "INHERITANCE_HIERARCHIES",
+        "SUPER_SUB_CLASSES",
+        "MEMBER_ACCESS_RULES",
+        "SUPER_KEYWORD",
+        "PREVENTING_INHERITANCE",
+        "FINAL_CLASSES_METHODS",
+        "OBJECT_CLASS_METHODS_POLYMORPHISM"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "EXCEPTION_HANDLING",
+        "DEALING_ERRORS",
+        "BENEFITS_EXCEPTION_HANDLING",
+        "CLASSIFICATION_EXCEPTIONS_EXCEPTION_HIERARCHY",
+        "CHECKED_EXCEPTIONS_UNCHECKED_EXCEPTIONS",
+        "USAGE_TRY",
+        "CATCH",
+        "THROW"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "COLLECTION_FRAMEWORK_JAVA",
+        "JAVA_COLLECTIONS",
+        "OVERVIEW_JAVA_COLLECTION_FRAME",
+        "GENERICS",
+        "COMMONLY_COLLECTION_CLASSES_ARRAY",
+        "VECTOR",
+        "HASH_TABLE",
+        "STACK"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "GUI_PROGRAMMING_JAVA",
+        "AWT_CLASS_HIERARCHY",
+        "SWING",
+        "SWING_VS",
+        "HIERARCHY_SWING_COMPONENTS",
+        "CONTAINERS",
+        "JFRAME",
+        "JAPPLET"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "DATA_ABSTRACTION": [
+      "data abstraction",
+      "data",
+      "abstraction"
+    ],
+    "ENCAPSULATION": [
+      "encapsulation",
+      "encapsulation"
+    ],
+    "INHERITANCE": [
+      "inheritance",
+      "inheritance"
+    ],
+    "BENEFITS_INHERITANCE": [
+      "benefits inheritance",
+      "benefits",
+      "inheritance"
+    ],
+    "POLYMORPHISM": [
+      "polymorphism",
+      "polymorphism"
+    ],
+    "CLASSES_OBJECTS": [
+      "classes objects",
+      "classes",
+      "objects"
+    ],
+    "PROCEDURAL_OBJECT_ORIENTED_PROGRAMMING": [
+      "procedural object oriented programming",
+      "procedural",
+      "object",
+      "oriented",
+      "programming"
+    ],
+    "HISTORY_JAVA": [
+      "history java",
+      "history",
+      "java"
+    ],
+    "INHERITANCE_HIERARCHIES": [
+      "inheritance hierarchies",
+      "inheritance",
+      "hierarchies"
+    ],
+    "SUPER_SUB_CLASSES": [
+      "super sub classes",
+      "super",
+      "classes"
+    ],
+    "MEMBER_ACCESS_RULES": [
+      "member access rules",
+      "member",
+      "access",
+      "rules"
+    ],
+    "SUPER_KEYWORD": [
+      "super keyword",
+      "super",
+      "keyword"
+    ],
+    "PREVENTING_INHERITANCE": [
+      "preventing inheritance",
+      "preventing",
+      "inheritance"
+    ],
+    "FINAL_CLASSES_METHODS": [
+      "final classes methods",
+      "final",
+      "classes",
+      "methods"
+    ],
+    "OBJECT_CLASS_METHODS_POLYMORPHISM": [
+      "object class methods polymorphism",
+      "object",
+      "class",
+      "methods",
+      "polymorphism"
+    ],
+    "EXCEPTION_HANDLING": [
+      "exception handling",
+      "exception",
+      "handling"
+    ],
+    "DEALING_ERRORS": [
+      "dealing errors",
+      "dealing",
+      "errors"
+    ],
+    "BENEFITS_EXCEPTION_HANDLING": [
+      "benefits exception handling",
+      "benefits",
+      "exception",
+      "handling"
+    ],
+    "CLASSIFICATION_EXCEPTIONS_EXCEPTION_HIERARCHY": [
+      "classification exceptions exception hierarchy",
+      "classification",
+      "exceptions",
+      "exception",
+      "hierarchy"
+    ],
+    "CHECKED_EXCEPTIONS_UNCHECKED_EXCEPTIONS": [
+      "checked exceptions unchecked exceptions",
+      "checked",
+      "exceptions",
+      "unchecked",
+      "exceptions"
+    ],
+    "USAGE_TRY": [
+      "usage try",
+      "usage"
+    ],
+    "CATCH": [
+      "catch",
+      "catch"
+    ],
+    "THROW": [
+      "throw",
+      "throw"
+    ],
+    "COLLECTION_FRAMEWORK_JAVA": [
+      "collection framework java",
+      "collection",
+      "framework",
+      "java"
+    ],
+    "JAVA_COLLECTIONS": [
+      "java collections",
+      "java",
+      "collections"
+    ],
+    "OVERVIEW_JAVA_COLLECTION_FRAME": [
+      "overview java collection frame",
+      "overview",
+      "java",
+      "collection",
+      "frame"
+    ],
+    "GENERICS": [
+      "generics",
+      "generics"
+    ],
+    "COMMONLY_COLLECTION_CLASSES_ARRAY": [
+      "commonly collection classes array",
+      "commonly",
+      "collection",
+      "classes",
+      "array"
+    ],
+    "VECTOR": [
+      "vector",
+      "vector"
+    ],
+    "HASH_TABLE": [
+      "hash table",
+      "hash",
+      "table"
+    ],
+    "STACK": [
+      "stack",
+      "stack"
+    ],
+    "GUI_PROGRAMMING_JAVA": [
+      "gui programming java",
+      "programming",
+      "java"
+    ],
+    "AWT_CLASS_HIERARCHY": [
+      "awt class hierarchy",
+      "class",
+      "hierarchy"
+    ],
+    "SWING": [
+      "swing",
+      "swing"
+    ],
+    "SWING_VS": [
+      "swing vs",
+      "swing"
+    ],
+    "HIERARCHY_SWING_COMPONENTS": [
+      "hierarchy swing components",
+      "hierarchy",
+      "swing",
+      "components"
+    ],
+    "CONTAINERS": [
+      "containers",
+      "containers"
+    ],
+    "JFRAME": [
+      "jframe",
+      "jframe"
+    ],
+    "JAPPLET": [
+      "japplet",
+      "japplet"
+    ]
+  },
+  "syllabus_section": "JAVA PROGRAMMING"
+}

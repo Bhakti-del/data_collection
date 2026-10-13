@@ -1,0 +1,288 @@
+{
+  "subject_name": "Formal Languages And Automata Theory",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "FUNDAMENTALS",
+        "STRINGS",
+        "ALPHABET",
+        "LANGUAGE",
+        "FINITE_STATE_MACHINE",
+        "FINITE_AUTOMATON_MODEL",
+        "ACCEPTANCE_STRINGS",
+        "LANGUAGES"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "REGULAR_LANGUAGES",
+        "REGULAR_SETS",
+        "REGULAR_EXPRESSIONS",
+        "IDENTITY_RULES",
+        "CONSTRUCTING_FINITE_AUTOMATA_REGULAR",
+        "CONVERSION_FINITE_AUTOMATA_REGULAR",
+        "PUMPING_LEMMA_REGULAR_SETS",
+        "CLOSURE_PROPERTIES_REGULAR_SETS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "CONTEXT_FREE_GRAMMARS",
+        "AMBIGUITY_CONTEXT_FREE_GRAMMARS",
+        "MINIMISATION_CONTEXT_FREE_GRAMMARS",
+        "CHOMSKY_NORMAL_FORM",
+        "GREIBACK_NORMAL_FORM",
+        "PUMPING_LEMMA_CONTEXT_FREE",
+        "ENUMERATION_PROPERTIES_CFL",
+        "PROOFS_OMITTED"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "TURING_MACHINE",
+        "MODEL",
+        "DESIGN_TM",
+        "COMPUTABLE_FUNCTIONS",
+        "RECURSIVELY_ENUMERABLE_LANGUAGES",
+        "CHURCH_S_HYPOTHESIS",
+        "COUNTER_MACHINE",
+        "TYPES_TURING_MACHINES"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "COMPUTABILITY_THEORY",
+        "CHOMSKY_HIERARCHY_LANGUAGES",
+        "DECIDABILITY",
+        "UNIVERSAL_TURING_MACHINE",
+        "UNDECIDABILITY_POSTS",
+        "CORRESPONDENCE_PROBLEM",
+        "TURING_REDUCIBILITY",
+        "P_NP_PROBLEMS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "FUNDAMENTALS": [
+      "fundamentals",
+      "fundamentals"
+    ],
+    "STRINGS": [
+      "strings",
+      "strings"
+    ],
+    "ALPHABET": [
+      "alphabet",
+      "alphabet"
+    ],
+    "LANGUAGE": [
+      "language",
+      "language"
+    ],
+    "FINITE_STATE_MACHINE": [
+      "finite state machine",
+      "finite",
+      "state",
+      "machine"
+    ],
+    "FINITE_AUTOMATON_MODEL": [
+      "finite automaton model",
+      "finite",
+      "automaton",
+      "model"
+    ],
+    "ACCEPTANCE_STRINGS": [
+      "acceptance strings",
+      "acceptance",
+      "strings"
+    ],
+    "LANGUAGES": [
+      "languages",
+      "languages"
+    ],
+    "REGULAR_LANGUAGES": [
+      "regular languages",
+      "regular",
+      "languages"
+    ],
+    "REGULAR_SETS": [
+      "regular sets",
+      "regular",
+      "sets"
+    ],
+    "REGULAR_EXPRESSIONS": [
+      "regular expressions",
+      "regular",
+      "expressions"
+    ],
+    "IDENTITY_RULES": [
+      "identity rules",
+      "identity",
+      "rules"
+    ],
+    "CONSTRUCTING_FINITE_AUTOMATA_REGULAR": [
+      "constructing finite automata regular",
+      "constructing",
+      "finite",
+      "automata",
+      "regular"
+    ],
+    "CONVERSION_FINITE_AUTOMATA_REGULAR": [
+      "conversion finite automata regular",
+      "conversion",
+      "finite",
+      "automata",
+      "regular"
+    ],
+    "PUMPING_LEMMA_REGULAR_SETS": [
+      "pumping lemma regular sets",
+      "pumping",
+      "lemma",
+      "regular",
+      "sets"
+    ],
+    "CLOSURE_PROPERTIES_REGULAR_SETS": [
+      "closure properties regular sets",
+      "closure",
+      "properties",
+      "regular",
+      "sets"
+    ],
+    "CONTEXT_FREE_GRAMMARS": [
+      "context free grammars",
+      "context",
+      "free",
+      "grammars"
+    ],
+    "AMBIGUITY_CONTEXT_FREE_GRAMMARS": [
+      "ambiguity context free grammars",
+      "ambiguity",
+      "context",
+      "free",
+      "grammars"
+    ],
+    "MINIMISATION_CONTEXT_FREE_GRAMMARS": [
+      "minimisation context free grammars",
+      "minimisation",
+      "context",
+      "free",
+      "grammars"
+    ],
+    "CHOMSKY_NORMAL_FORM": [
+      "chomsky normal form",
+      "chomsky",
+      "normal",
+      "form"
+    ],
+    "GREIBACK_NORMAL_FORM": [
+      "greiback normal form",
+      "greiback",
+      "normal",
+      "form"
+    ],
+    "PUMPING_LEMMA_CONTEXT_FREE": [
+      "pumping lemma context free",
+      "pumping",
+      "lemma",
+      "context",
+      "free"
+    ],
+    "ENUMERATION_PROPERTIES_CFL": [
+      "enumeration properties cfl",
+      "enumeration",
+      "properties"
+    ],
+    "PROOFS_OMITTED": [
+      "proofs omitted",
+      "proofs",
+      "omitted"
+    ],
+    "TURING_MACHINE": [
+      "turing machine",
+      "turing",
+      "machine"
+    ],
+    "MODEL": [
+      "model",
+      "model"
+    ],
+    "DESIGN_TM": [
+      "design tm",
+      "design"
+    ],
+    "COMPUTABLE_FUNCTIONS": [
+      "computable functions",
+      "computable",
+      "functions"
+    ],
+    "RECURSIVELY_ENUMERABLE_LANGUAGES": [
+      "recursively enumerable languages",
+      "recursively",
+      "enumerable",
+      "languages"
+    ],
+    "CHURCH_S_HYPOTHESIS": [
+      "church s hypothesis",
+      "church",
+      "hypothesis"
+    ],
+    "COUNTER_MACHINE": [
+      "counter machine",
+      "counter",
+      "machine"
+    ],
+    "TYPES_TURING_MACHINES": [
+      "types turing machines",
+      "types",
+      "turing",
+      "machines"
+    ],
+    "COMPUTABILITY_THEORY": [
+      "computability theory",
+      "computability",
+      "theory"
+    ],
+    "CHOMSKY_HIERARCHY_LANGUAGES": [
+      "chomsky hierarchy languages",
+      "chomsky",
+      "hierarchy",
+      "languages"
+    ],
+    "DECIDABILITY": [
+      "decidability",
+      "decidability"
+    ],
+    "UNIVERSAL_TURING_MACHINE": [
+      "universal turing machine",
+      "universal",
+      "turing",
+      "machine"
+    ],
+    "UNDECIDABILITY_POSTS": [
+      "undecidability posts",
+      "undecidability",
+      "posts"
+    ],
+    "CORRESPONDENCE_PROBLEM": [
+      "correspondence problem",
+      "correspondence",
+      "problem"
+    ],
+    "TURING_REDUCIBILITY": [
+      "turing reducibility",
+      "turing",
+      "reducibility"
+    ],
+    "P_NP_PROBLEMS": [
+      "p np problems",
+      "problems"
+    ]
+  },
+  "syllabus_section": "FORMAL LANGUAGES AND AUTOMATA THEORY"
+}

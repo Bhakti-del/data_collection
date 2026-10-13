@@ -1,0 +1,287 @@
+{
+  "subject_name": "Data Structures",
+  "regulation": "R15",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "ALGORITHM_SPECIFICATION",
+        "RECURSIVE_ALGORITHMS",
+        "DATA_ABSTRACTION_PERFORMANCE_ANALYSIS",
+        "ASYMPTOTIC_NOTATION_BIG_O",
+        "OMEGA_THETA_NOTATIONS",
+        "LINEAR_NON_LINEAR_DATA",
+        "SINGLY_LINKED_LISTS_INSERTION",
+        "DELETION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "STACK_ADT",
+        "ARRAY_LINKED_IMPLEMENTATIONS_C",
+        "APPLICATIONS_INFIX_POSTFIX_CONVERSION",
+        "POSTFIX_EXPRESSION_EVALUATION",
+        "RECURSION_IMPLEMENTATION",
+        "QUEUE_ADT",
+        "CIRCULAR_QUEUES_INSERTION_DELETION",
+        "DEQUE"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "TREES",
+        "REPRESENTATION_TREES",
+        "BINARY_TREE_ADT",
+        "PROPERTIES_BINARY_TREES",
+        "BINARY_TREE_REPRESENTATIONS_ARRAY",
+        "BINARY_TREE_TRAVERSALS",
+        "THREADED_BINARY_TREES",
+        "MAX_PRIORITY_QUEUE_ADT"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "SEARCHING_LINEAR_SEARCH",
+        "BINARY_SEARCH",
+        "STATIC_HASHING",
+        "HASH_TABLES",
+        "HASH_FUNCTIONS",
+        "OVERFLOW_HANDLING",
+        "SORTING_INSERTION_SORT",
+        "SELECTION_SORT"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "SEARCH_TREES_BINARY_SEARCH",
+        "SEARCHING",
+        "INSERTION_DELETION",
+        "AVL_TREES",
+        "INSERTION_AVL_TREE",
+        "B_TREES",
+        "B_TREE_ORDER_M",
+        "INSERTION_SEARCHING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ALGORITHM_SPECIFICATION": [
+      "algorithm specification",
+      "algorithm",
+      "specification"
+    ],
+    "RECURSIVE_ALGORITHMS": [
+      "recursive algorithms",
+      "recursive",
+      "algorithms"
+    ],
+    "DATA_ABSTRACTION_PERFORMANCE_ANALYSIS": [
+      "data abstraction performance analysis",
+      "data",
+      "abstraction",
+      "performance",
+      "analysis"
+    ],
+    "ASYMPTOTIC_NOTATION_BIG_O": [
+      "asymptotic notation big o",
+      "asymptotic",
+      "notation"
+    ],
+    "OMEGA_THETA_NOTATIONS": [
+      "omega theta notations",
+      "omega",
+      "theta",
+      "notations"
+    ],
+    "LINEAR_NON_LINEAR_DATA": [
+      "linear non linear data",
+      "linear",
+      "linear",
+      "data"
+    ],
+    "SINGLY_LINKED_LISTS_INSERTION": [
+      "singly linked lists insertion",
+      "singly",
+      "linked",
+      "lists",
+      "insertion"
+    ],
+    "DELETION": [
+      "deletion",
+      "deletion"
+    ],
+    "STACK_ADT": [
+      "stack adt",
+      "stack"
+    ],
+    "ARRAY_LINKED_IMPLEMENTATIONS_C": [
+      "array linked implementations c",
+      "array",
+      "linked",
+      "implementations"
+    ],
+    "APPLICATIONS_INFIX_POSTFIX_CONVERSION": [
+      "applications infix postfix conversion",
+      "applications",
+      "infix",
+      "postfix",
+      "conversion"
+    ],
+    "POSTFIX_EXPRESSION_EVALUATION": [
+      "postfix expression evaluation",
+      "postfix",
+      "expression",
+      "evaluation"
+    ],
+    "RECURSION_IMPLEMENTATION": [
+      "recursion implementation",
+      "recursion",
+      "implementation"
+    ],
+    "QUEUE_ADT": [
+      "queue adt",
+      "queue"
+    ],
+    "CIRCULAR_QUEUES_INSERTION_DELETION": [
+      "circular queues insertion deletion",
+      "circular",
+      "queues",
+      "insertion",
+      "deletion"
+    ],
+    "DEQUE": [
+      "deque",
+      "deque"
+    ],
+    "TREES": [
+      "trees",
+      "trees"
+    ],
+    "REPRESENTATION_TREES": [
+      "representation trees",
+      "representation",
+      "trees"
+    ],
+    "BINARY_TREE_ADT": [
+      "binary tree adt",
+      "binary",
+      "tree"
+    ],
+    "PROPERTIES_BINARY_TREES": [
+      "properties binary trees",
+      "properties",
+      "binary",
+      "trees"
+    ],
+    "BINARY_TREE_REPRESENTATIONS_ARRAY": [
+      "binary tree representations array",
+      "binary",
+      "tree",
+      "representations",
+      "array"
+    ],
+    "BINARY_TREE_TRAVERSALS": [
+      "binary tree traversals",
+      "binary",
+      "tree",
+      "traversals"
+    ],
+    "THREADED_BINARY_TREES": [
+      "threaded binary trees",
+      "threaded",
+      "binary",
+      "trees"
+    ],
+    "MAX_PRIORITY_QUEUE_ADT": [
+      "max priority queue adt",
+      "priority",
+      "queue"
+    ],
+    "SEARCHING_LINEAR_SEARCH": [
+      "searching linear search",
+      "searching",
+      "linear",
+      "search"
+    ],
+    "BINARY_SEARCH": [
+      "binary search",
+      "binary",
+      "search"
+    ],
+    "STATIC_HASHING": [
+      "static hashing",
+      "static",
+      "hashing"
+    ],
+    "HASH_TABLES": [
+      "hash tables",
+      "hash",
+      "tables"
+    ],
+    "HASH_FUNCTIONS": [
+      "hash functions",
+      "hash",
+      "functions"
+    ],
+    "OVERFLOW_HANDLING": [
+      "overflow handling",
+      "overflow",
+      "handling"
+    ],
+    "SORTING_INSERTION_SORT": [
+      "sorting insertion sort",
+      "sorting",
+      "insertion",
+      "sort"
+    ],
+    "SELECTION_SORT": [
+      "selection sort",
+      "selection",
+      "sort"
+    ],
+    "SEARCH_TREES_BINARY_SEARCH": [
+      "search trees binary search",
+      "search",
+      "trees",
+      "binary",
+      "search"
+    ],
+    "SEARCHING": [
+      "searching",
+      "searching"
+    ],
+    "INSERTION_DELETION": [
+      "insertion deletion",
+      "insertion",
+      "deletion"
+    ],
+    "AVL_TREES": [
+      "avl trees",
+      "trees"
+    ],
+    "INSERTION_AVL_TREE": [
+      "insertion avl tree",
+      "insertion",
+      "tree"
+    ],
+    "B_TREES": [
+      "b trees",
+      "trees"
+    ],
+    "B_TREE_ORDER_M": [
+      "b tree order m",
+      "tree",
+      "order"
+    ],
+    "INSERTION_SEARCHING": [
+      "insertion searching",
+      "insertion",
+      "searching"
+    ]
+  },
+  "syllabus_section": "DATA STRUCTURES"
+}
