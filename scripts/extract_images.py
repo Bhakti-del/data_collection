@@ -131,18 +131,24 @@ def parse_year(filename: str) -> int | None:
 
 def clean_question_text(text: str) -> str:
     """Cleans question text, stripping question prefixes, trailing figure captions, matrices, and fixing OCR errors."""
+    # 0. Normalize unicode ligatures and smart quotes
+    text = text.replace("ﬁ", "fi").replace("ﬂ", "fl").replace("–", "-").replace("—", "-")
+    text = text.replace("„", "'").replace("‟", "'")
+
     # 1. Truncate at marks bracket if present in the text line (e.g. [10], [5+5], [15])
     m_marks = re.search(r"\[\s*\d+(?:\s*[\+]\s*\d+)*\s*\]", text)
     if m_marks:
         before = text[:m_marks.start()].strip()
         after = text[m_marks.end():].strip()
-        # Keep valid question continuation text after marks (e.g. 'Find: i)...', 'All dimensions are in mm')
-        # but discard figure captions (Figure 1, Graph 1) or matrix/data tables
-        if after and not re.match(r"^(?:Figure|Fig|Graph)\s*[:.]?\s*\d+", after, re.I):
-            words = after.split()
+        # Strip leading figure/graph label from after if present
+        after_clean = re.sub(r"^(?:Figure|Fig|Graph)\s*[:.]?\s*\d+\s*", "", after, flags=re.I).strip()
+        # Keep valid question continuation text after marks (e.g. 'Show the matrix...', 'All dimensions are in mm')
+        # but discard figure captions or matrix/data tables
+        if after_clean:
+            words = after_clean.split()
             num_count = sum(1 for w in words if re.match(r"^[\d\.,\(\)\[\]]+$", w))
             if num_count / max(1, len(words)) < 0.4:
-                text = before + " " + after
+                text = before + " " + after_clean
             else:
                 text = before
         else:
@@ -169,14 +175,30 @@ def clean_question_text(text: str) -> str:
     word_fixes = [
         (r"\bt he\b", "the"),
         (r"\bc urrent\b", "current"),
+        (r"\bc ircuit\b", "circuit"),
         (r"\bpow er\b", "power"),
         (r"\ba lgorithm\b", "algorithm"),
         (r"\bFig ure\b", "Figure"),
+        (r"\bf igure\b", "figure"),
         (r"\bt o\b", "to"),
+        (r"\br ight\b", "right"),
+        (r"\bp lanes\b", "planes"),
+        (r"\bho rizontal\b", "horizontal"),
+        (r"\bbetw een\b", "between"),
+        (r"\bbo dies\b", "bodies"),
+        (r"\bvie w\b", "view"),
+        (r"\bshortest p ath\b", "shortest path"),
+        (r"\bv ertices\b", "vertices"),
+        (r"\bbloc k\b", "block"),
+        (r"\b1 00-kg\b", "100-kg"),
+        (r"\bprimis\b", "Prim's"),
         (r"\btransforma tion\b", "transformation"),
         (r"\bSuper position\b", "Superposition"),
         (r"\bSuper\s+position\b", "Superposition"),
         (r"\bThevinin\b", "Thevenin"),
+        (r"\bThevenin[’']s\b", "Thevenin's"),
+        (r"\bNorton[’']s\b", "Norton's"),
+        (r"\bD\'\s*Alembert[’']s\b", "D'Alembert's"),
         (r"\bkrushkal\b", "Kruskal"),
         (r"\bPrime\'s algorithm\b", "Prim's algorithm"),
         (r"\bFinite Automate\b", "Finite Automata"),
@@ -186,7 +208,13 @@ def clean_question_text(text: str) -> str:
     for pattern, repl in word_fixes:
         text = re.sub(pattern, repl, text, flags=re.IGNORECASE)
 
-    # 6. Specific cleanup for double FA label artifact
+    # 6. Specific cleanup for figure label duplication & FA label artifact
+    text = re.sub(
+        r"(\b(?:fig(?:ure)?|graph)\.?\s*\d+[\.:]?)\s*(?:Figure|Fig|Graph)\s*\d+[\.:]?\s*",
+        r"\1 ",
+        text,
+        flags=re.IGNORECASE,
+    )
     text = re.sub(r"Figure:\s*3\s*", "", text)
     text = re.sub(
         r"Finite Automaton \(FA\) 1 \(figure 3\):\s*Finite Automaton \(FA\) 2\(figure 4\):?",
@@ -201,7 +229,7 @@ def clean_question_text(text: str) -> str:
     text = re.sub(r"\(\s+", "(", text)
 
     # Convert trailing colon to period if it's not introducing an enumerated list
-    if text.endswith(":") and not re.search(r"\b(?:find|calculate|determine)\s*:$", text, re.I):
+    if text.endswith(":") and not re.search(r"\b(?:find|calculate|determine|draw|interpret)\s*:$", text, re.I):
         text = text[:-1] + "."
 
     # 8. Ensure trailing period if sentence ends without punctuation
@@ -253,33 +281,62 @@ def get_paper_marks(questions: list[dict]) -> dict[str, int]:
 def tag_question(subj: str, text: str) -> str:
     """Tags question strictly matching JNTUH syllabus units."""
     t = text.lower()
-    if "electrical" in subj.lower():
-        if "transformer" in t:
-            return "IDEAL_AND_PRACTICAL_TRANSFORMER"
+    s = subj.lower()
+
+    if "mechanics" in s:
+        if "friction" in t or "wedge" in t or "screw" in t or "impending" in t or "slipping" in t or "rough" in t:
+            return "FRICTION_AND_WEDGES"
+        if "centroid" in t or "center of gravity" in t or "centre of gravity" in t:
+            return "CENTROID_AND_CENTER_OF_GRAVITY"
+        if "moment of inertia" in t or "radius of gyration" in t:
+            return "AREA_AND_MASS_MOMENTS_OF_INERTIA"
+        if "spring" in t or "vibration" in t or "speed" in t or "velocity" in t or "acceleration" in t or "d' alembert" in t or "kinetics" in t or "energy" in t or "impulse" in t:
+            return "KINETICS_AND_WORK_ENERGY"
+        if "resultant" in t or "equilibrium" in t or "force" in t or "moment" in t or "reaction" in t or "tension" in t or "couple" in t or "cylinder" in t or "beam" in t or "joist" in t:
+            return "EQUILIBRIUM_AND_SYSTEM_OF_FORCES"
+        return "ENGINEERING_MECHANICS"
+
+    if "electrical" in s or "beee" in s:
         if "thevenin" in t or "thevinin" in t:
             return "THEVENINS_THEOREM"
-        if "super" in t and "position" in t:
+        if "norton" in t:
+            return "NORTONS_THEOREM"
+        if "superposition" in t or ("super" in t and "position" in t):
             return "SUPERPOSITION_THEOREM"
+        if "maximum power" in t:
+            return "MAXIMUM_POWER_TRANSFER_THEOREM"
+        if "reciprocity" in t:
+            return "RECIPROCITY_THEOREM"
+        if "transformer" in t:
+            return "IDEAL_AND_PRACTICAL_TRANSFORMER"
+        if "diode" in t or "rectifier" in t:
+            return "DIODES_AND_RECTIFIERS"
+        if "bjt" in t or "transistor" in t:
+            return "BIPOLAR_JUNCTION_TRANSISTORS"
         if "star" in t and "delta" in t:
             return "STAR_DELTA_TRANSFORMATION"
+        if "kirchhoff" in t or "kvl" in t or "kcl" in t or "mesh" in t or "nodal" in t:
+            return "KIRCHHOFFS_LAWS_AND_NETWORK_ANALYSIS"
+        if "capacit" in t or "inductor" in t:
+            return "CAPACITORS_AND_INDUCTORS"
         if "rms" in t or "average value" in t or "periodic function" in t or "waveform" in t or "form factor" in t:
             return "RMS_AND_AVERAGE_VALUES"
-        if "kirchhoff" in t:
-            return "KIRCHHOFFS_LAWS"
-        if "capacit" in t:
-            return "CAPACITORS_AND_INDUCTORS"
+        if "resonant" in t or "resonance" in t:
+            return "RESONANCE_IN_AC_CIRCUITS"
+        if "power" in t or "resistance" in t or "current" in t or "voltage" in t:
+            return "DC_CIRCUIT_ANALYSIS_AND_NETWORK_THEOREMS"
         return "ELECTRICAL_QUANTITIES_AND_OHMS_LAW"
 
-    if "drawing" in subj.lower():
+    if "drawing" in s or "graphics" in s:
         if "isometric view" in t or "isometric projection" in t:
             if "orthographic" in t or "projections are given" in t or "views of a solid" in t:
                 return "ORTHOGRAPHIC_TO_ISOMETRIC_PROJECTION"
             return "ISOMETRIC_PROJECTIONS"
-        if "orthographic" in t or "front view" in t or "top view" in t or "side view" in t or "first angle" in t:
+        if "orthographic" in t or "front view" in t or "top view" in t or "side view" in t or "first angle" in t or "elevation" in t:
             return "ORTHOGRAPHIC_PROJECTIONS"
         return "ENGINEERING_DRAWING_PROJECTIONS"
 
-    if "formal languages" in subj.lower() or "flat" in subj.lower():
+    if "formal languages" in s or "flat" in s:
         if "minimiz" in t:
             return "MINIMIZATION_OF_FINITE_AUTOMATA"
         if "nfa" in t and "dfa" in t:
@@ -290,7 +347,7 @@ def tag_question(subj: str, text: str) -> str:
             return "EQUIVALENCE_OF_FINITE_AUTOMATA"
         return "FINITE_AUTOMATA"
 
-    if "mathematical foundations" in subj.lower() or "mfcs" in subj.lower():
+    if "mathematical foundations" in s or "mfcs" in s:
         if "chromatic" in t or "color" in t:
             return "CHROMATIC_NUMBER_AND_GRAPH_COLORING"
         if "hamilton" in t:
@@ -301,34 +358,41 @@ def tag_question(subj: str, text: str) -> str:
             return "GRAPH_ISOMORPHISM"
         if "dual" in t:
             return "PLANAR_AND_DUAL_GRAPHS"
-        if "kruskal" in t or "prime" in t or "spanning" in t:
+        if "kruskal" in t or "prime" in t or "prim" in t or "spanning" in t:
             return "MINIMAL_SPANNING_TREES"
         if "shortest path" in t:
             return "SHORTEST_PATH_IN_GRAPHS"
         return "GRAPH_THEORY"
 
-    if "algorithms" in subj.lower() or "daa" in subj.lower():
+    if "algorithms" in s:
+        if "max flow" in t or "network flow" in t:
+            return "MAXIMUM_FLOW_AND_NETWORK_FLOWS"
+        if "floyd" in t or "all pairs" in t or "all pair" in t:
+            return "ALL_PAIRS_SHORTEST_PATH"
+        if "dijkstra" in t or "single source" in t or "shortest path" in t or "shortest -path" in t:
+            return "SINGLE_SOURCE_SHORTEST_PATH"
         if "kruskal" in t or "prim" in t or "mcst" in t or "spanning" in t:
             return "MINIMUM_COST_SPANNING_TREES"
-        if "shortest path" in t or "all pairs" in t or "single source" in t:
-            if "all pairs" in t:
-                return "ALL_PAIRS_SHORTEST_PATH"
-            return "SINGLE_SOURCE_SHORTEST_PATH"
         if "tour" in t or "tsp" in t or "travelling" in t:
             return "TRAVELLING_SALESPERSON_PROBLEM"
         if "traversal" in t or "bfs" in t or "dfs" in t:
             return "GRAPH_TRAVERSALS"
         return "GRAPH_ALGORITHMS"
 
-    if "data structures" in subj.lower():
+    if "data structures" in s:
         if "bfs" in t or "dfs" in t or "traversal" in t:
             return "GRAPH_TRAVERSALS_BFS_DFS"
+        if "matrix" in t or "adjacency" in t or "represent" in t:
+            return "GRAPH_REPRESENTATIONS"
         return "GRAPHS_AND_REPRESENTATIONS"
 
-    if "electronic devices" in subj.lower() or "edc" in subj.lower():
+    if "electronic devices" in s or "edc" in s:
         if "circuit" in t or "vcc" in t or "rb" in t or "rc" in t or "β" in t:
             return "TRANSISTOR_BIASING_AND_STABILIZATION"
         return "BIPOLAR_JUNCTION_TRANSISTORS"
+
+    if "english" in s or "communication" in s:
+        return "TECHNICAL_COMMUNICATION_AND_DATA_INTERPRETATION"
 
     return "GENERAL"
 
@@ -423,7 +487,6 @@ def parse_questions_from_text(text: str) -> list[dict]:
             if not current_is_stem:
                 current_is_stem = (
                     "." not in current_q_num
-                    and (joined_so_far.endswith(":") or joined_so_far.lower().endswith("find:"))
                     and not re.search(r"\[\s*\d+", joined_so_far)
                 )
             if current_is_stem:
@@ -638,7 +701,7 @@ def build_regulation_dataset(
     subject_filter: str | None = None,
     paper_filter: str | None = None,
     img_out_dir: Path = DEFAULT_IMG_OUT,
-    csv_out_path: Path = DEFAULT_CSV_OUT,
+    csv_out_path: Path | None = None,
     write_per_subject: bool = False
 ) -> None:
     """
@@ -647,13 +710,18 @@ def build_regulation_dataset(
         subject_name, raw_question_text, topic_tag, bloom_level,
         original_marks, part_a_years, part_b_years, image_path
     """
+    if csv_out_path is None or csv_out_path == DEFAULT_CSV_OUT:
+        csv_out_path = DATASETS_IMG_DIR / f"{regulation}_Dataset_with_images.csv"
+
     img_out_dir.mkdir(parents=True, exist_ok=True)
     csv_out_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Locate regulation text folders
     cand_dirs = [
         PROJECT_ROOT / "temp_data" / "cleaned_papers" / f"{regulation}_text" / "question papers",
+        PROJECT_ROOT / "temp_data" / "cleaned_papers" / f"{regulation}_text" / "Question Papers",
         PROJECT_ROOT / "temp_data" / "Text_data" / "All_Reg_QP_Text_data" / f"{regulation}_text" / "question papers",
+        PROJECT_ROOT / "temp_data" / "Text_data" / "All_Reg_QP_Text_data" / f"{regulation}_text" / "Question Papers",
     ]
     reg_root = next((d for d in cand_dirs if d.exists()), None)
     if not reg_root:
@@ -683,7 +751,7 @@ def build_regulation_dataset(
         if not any(IMAGE_TRIGGERS.search(q["text"]) for q in questions):
             continue
 
-        subject = txt_path.parent.name
+        subject = txt_path.parent.name.strip()
         if subject.upper() in [
             "MANAGERIAL ECONOMICS AND FINANCIAL ANALYSIS",
             "PROBABILITY AND STATISTICS",
@@ -816,7 +884,7 @@ def main():
     parser.add_argument("--regulation", type=str, default="R13", help="Regulation filter (e.g., 'R13', 'R15')")
     parser.add_argument("--all", action="store_true", help="Process all available papers")
     parser.add_argument("--img_out", type=Path, default=DEFAULT_IMG_OUT, help="Directory to save cropped images")
-    parser.add_argument("--csv_out", type=Path, default=DEFAULT_CSV_OUT, help="Path for output dataset CSV")
+    parser.add_argument("--csv_out", type=Path, default=None, help="Path for output dataset CSV")
     parser.add_argument("--per_subject", action="store_true", default=False, help="Write per-subject datasets as well")
 
     args = parser.parse_args()
