@@ -639,7 +639,7 @@ def build_regulation_dataset(
     paper_filter: str | None = None,
     img_out_dir: Path = DEFAULT_IMG_OUT,
     csv_out_path: Path = DEFAULT_CSV_OUT,
-    write_per_subject: bool = True
+    write_per_subject: bool = False
 ) -> None:
     """
     Builds the dataset with images for all subjects and papers under the specified regulation.
@@ -817,7 +817,7 @@ def main():
     parser.add_argument("--all", action="store_true", help="Process all available papers")
     parser.add_argument("--img_out", type=Path, default=DEFAULT_IMG_OUT, help="Directory to save cropped images")
     parser.add_argument("--csv_out", type=Path, default=DEFAULT_CSV_OUT, help="Path for output dataset CSV")
-    parser.add_argument("--per_subject", action="store_true", default=True, help="Write per-subject datasets as well")
+    parser.add_argument("--per_subject", action="store_true", default=False, help="Write per-subject datasets as well")
 
     args = parser.parse_args()
 
