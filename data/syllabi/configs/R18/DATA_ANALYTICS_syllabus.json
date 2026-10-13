@@ -1,0 +1,64 @@
+{
+  "subject_name": "Data Analytics",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COURSE_DATABASE_MANAGEMENT_SYSTEMS",
+        "KNOWLEDGE_PROBABILITY_STATISTICS",
+        "COURSE",
+        "EXPLORE_FUNDAMENTAL_DATA_ANALYTICS",
+        "LEARN_PRINCIPLES_METHODS_STATISTICAL"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COURSE_DATABASE_MANAGEMENT_SYSTEMS": [
+      "course database management systems",
+      "course",
+      "database",
+      "management",
+      "systems"
+    ],
+    "KNOWLEDGE_PROBABILITY_STATISTICS": [
+      "knowledge probability statistics",
+      "knowledge",
+      "probability",
+      "statistics"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ],
+    "EXPLORE_FUNDAMENTAL_DATA_ANALYTICS": [
+      "explore fundamental data analytics",
+      "explore",
+      "fundamental",
+      "data",
+      "analytics"
+    ],
+    "LEARN_PRINCIPLES_METHODS_STATISTICAL": [
+      "learn principles methods statistical",
+      "learn",
+      "principles",
+      "methods",
+      "statistical"
+    ]
+  },
+  "syllabus_section": "DATA ANALYTICS"
+}

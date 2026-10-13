@@ -1,0 +1,64 @@
+{
+  "subject_name": "Cyber Forensics",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "NETWORK_SECURITY_COURSE",
+        "BRIEF_EXPLANATION_OBJECTIVE_PROVIDE",
+        "ORDER_UNDERSTAND_COMPUTER_FORENSICS",
+        "FIRST_ALL",
+        "PEOPLE_HAVE_RECOGNIZE_ROLES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "NETWORK_SECURITY_COURSE": [
+      "network security course",
+      "network",
+      "security",
+      "course"
+    ],
+    "BRIEF_EXPLANATION_OBJECTIVE_PROVIDE": [
+      "brief explanation objective provide",
+      "brief",
+      "explanation",
+      "objective",
+      "provide"
+    ],
+    "ORDER_UNDERSTAND_COMPUTER_FORENSICS": [
+      "order understand computer forensics",
+      "order",
+      "understand",
+      "computer",
+      "forensics"
+    ],
+    "FIRST_ALL": [
+      "first all",
+      "first"
+    ],
+    "PEOPLE_HAVE_RECOGNIZE_ROLES": [
+      "people have recognize roles",
+      "people",
+      "have",
+      "recognize",
+      "roles"
+    ]
+  },
+  "syllabus_section": "CYBER FORENSICS"
+}

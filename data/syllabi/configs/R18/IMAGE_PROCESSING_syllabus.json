@@ -1,0 +1,250 @@
+{
+  "subject_name": "Image Processing",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "DIGITAL_IMAGE_FUNDAMENTALS",
+        "DIGITAL_IMAGE_THROUGH_SCANNER",
+        "DIGITAL_CAMERA",
+        "GRAY_LEVELS",
+        "GRAY_LEVEL_BINARY_IMAGE",
+        "SAMPLING_QUANTIZATION",
+        "RELATIONSHIP_PIXELS",
+        "IMAGING_GEOMETRY"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "IMAGE_ENHANCEMENT_SPATIAL_DOMAIN",
+        "HISTOGRAM_PROCESSING",
+        "SPATIAL_FILTERING",
+        "ENHANCEMENT_FREQUENCY_DOMAIN",
+        "IMAGE_SMOOTHING",
+        "IMAGE_SHARPENING"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "IMAGE_RESTORATION_DEGRADATION_MODEL",
+        "ALGEBRAIC_APPROACH_RESTORATION",
+        "INVERSE_FILTERI_NG",
+        "LEAST_MEAN_SQUARE_FILTERS",
+        "CONSTRAINED_LEAST_SQUARES_RESTORATION",
+        "INTERACTIVE_RESTORATION"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "IMAGE_SEGMENTATION_DETECTION_DISCONTINUITIES",
+        "EDGE_LINKING_BOUNDARY_DETECTION",
+        "THRESHOLDING",
+        "REGION_ORIENTED_SEGMENTATION"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "IMAGE_COMPRESSION_REDUNDANCIES_REMOVAL",
+        "FIDELITY_CRITERIA",
+        "IMAGE_COMPRESSION_MODELS",
+        "SOURCE_ENCODER_DECODER",
+        "ERROR_FREE_COMPRESSION",
+        "LOSSY_COMPRESSION",
+        "BOOK",
+        "DIGITAL_IMAGE_PROCESSING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "DIGITAL_IMAGE_FUNDAMENTALS": [
+      "digital image fundamentals",
+      "digital",
+      "image",
+      "fundamentals"
+    ],
+    "DIGITAL_IMAGE_THROUGH_SCANNER": [
+      "digital image through scanner",
+      "digital",
+      "image",
+      "through",
+      "scanner"
+    ],
+    "DIGITAL_CAMERA": [
+      "digital camera",
+      "digital",
+      "camera"
+    ],
+    "GRAY_LEVELS": [
+      "gray levels",
+      "gray",
+      "levels"
+    ],
+    "GRAY_LEVEL_BINARY_IMAGE": [
+      "gray level binary image",
+      "gray",
+      "level",
+      "binary",
+      "image"
+    ],
+    "SAMPLING_QUANTIZATION": [
+      "sampling quantization",
+      "sampling",
+      "quantization"
+    ],
+    "RELATIONSHIP_PIXELS": [
+      "relationship pixels",
+      "relationship",
+      "pixels"
+    ],
+    "IMAGING_GEOMETRY": [
+      "imaging geometry",
+      "imaging",
+      "geometry"
+    ],
+    "IMAGE_ENHANCEMENT_SPATIAL_DOMAIN": [
+      "image enhancement spatial domain",
+      "image",
+      "enhancement",
+      "spatial",
+      "domain"
+    ],
+    "HISTOGRAM_PROCESSING": [
+      "histogram processing",
+      "histogram",
+      "processing"
+    ],
+    "SPATIAL_FILTERING": [
+      "spatial filtering",
+      "spatial",
+      "filtering"
+    ],
+    "ENHANCEMENT_FREQUENCY_DOMAIN": [
+      "enhancement frequency domain",
+      "enhancement",
+      "frequency",
+      "domain"
+    ],
+    "IMAGE_SMOOTHING": [
+      "image smoothing",
+      "image",
+      "smoothing"
+    ],
+    "IMAGE_SHARPENING": [
+      "image sharpening",
+      "image",
+      "sharpening"
+    ],
+    "IMAGE_RESTORATION_DEGRADATION_MODEL": [
+      "image restoration degradation model",
+      "image",
+      "restoration",
+      "degradation",
+      "model"
+    ],
+    "ALGEBRAIC_APPROACH_RESTORATION": [
+      "algebraic approach restoration",
+      "algebraic",
+      "approach",
+      "restoration"
+    ],
+    "INVERSE_FILTERI_NG": [
+      "inverse filteri ng",
+      "inverse",
+      "filteri"
+    ],
+    "LEAST_MEAN_SQUARE_FILTERS": [
+      "least mean square filters",
+      "least",
+      "mean",
+      "square",
+      "filters"
+    ],
+    "CONSTRAINED_LEAST_SQUARES_RESTORATION": [
+      "constrained least squares restoration",
+      "constrained",
+      "least",
+      "squares",
+      "restoration"
+    ],
+    "INTERACTIVE_RESTORATION": [
+      "interactive restoration",
+      "interactive",
+      "restoration"
+    ],
+    "IMAGE_SEGMENTATION_DETECTION_DISCONTINUITIES": [
+      "image segmentation detection discontinuities",
+      "image",
+      "segmentation",
+      "detection",
+      "discontinuities"
+    ],
+    "EDGE_LINKING_BOUNDARY_DETECTION": [
+      "edge linking boundary detection",
+      "edge",
+      "linking",
+      "boundary",
+      "detection"
+    ],
+    "THRESHOLDING": [
+      "thresholding",
+      "thresholding"
+    ],
+    "REGION_ORIENTED_SEGMENTATION": [
+      "region oriented segmentation",
+      "region",
+      "oriented",
+      "segmentation"
+    ],
+    "IMAGE_COMPRESSION_REDUNDANCIES_REMOVAL": [
+      "image compression redundancies removal",
+      "image",
+      "compression",
+      "redundancies",
+      "removal"
+    ],
+    "FIDELITY_CRITERIA": [
+      "fidelity criteria",
+      "fidelity",
+      "criteria"
+    ],
+    "IMAGE_COMPRESSION_MODELS": [
+      "image compression models",
+      "image",
+      "compression",
+      "models"
+    ],
+    "SOURCE_ENCODER_DECODER": [
+      "source encoder decoder",
+      "source",
+      "encoder",
+      "decoder"
+    ],
+    "ERROR_FREE_COMPRESSION": [
+      "error free compression",
+      "error",
+      "free",
+      "compression"
+    ],
+    "LOSSY_COMPRESSION": [
+      "lossy compression",
+      "lossy",
+      "compression"
+    ],
+    "BOOK": [
+      "book",
+      "book"
+    ],
+    "DIGITAL_IMAGE_PROCESSING": [
+      "digital image processing",
+      "digital",
+      "image",
+      "processing"
+    ]
+  },
+  "syllabus_section": "IMAGE PROCESSING"
+}

@@ -1,0 +1,17 @@
+{
+  "subject_name": "Non-Conventional Energy Sources",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "NON_CONVENTIONAL_ENERGY_SOURCES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "NON_CONVENTIONAL_ENERGY_SOURCES": [
+      "non-conventional energy sources"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "subject_name": "Distributed Databases",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COURSE_DATABASE_MANAGEMENT_SYSTEMS",
+        "PURPOSE_COURSE_ENRICH_PREVIOUS",
+        "INTRODUCE_PRINCIPLES_IMPLEMENTATION_TECHNIQUES",
+        "EQUIP_STUDENTS_PRINCIPLES_KNOWLEDGE",
+        "TOPICS_INCLUDE_DISTRIBUTED_DBMS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COURSE_DATABASE_MANAGEMENT_SYSTEMS": [
+      "course database management systems",
+      "course",
+      "database",
+      "management",
+      "systems"
+    ],
+    "PURPOSE_COURSE_ENRICH_PREVIOUS": [
+      "purpose course enrich previous",
+      "purpose",
+      "course",
+      "enrich",
+      "previous"
+    ],
+    "INTRODUCE_PRINCIPLES_IMPLEMENTATION_TECHNIQUES": [
+      "introduce principles implementation techniques",
+      "introduce",
+      "principles",
+      "implementation",
+      "techniques"
+    ],
+    "EQUIP_STUDENTS_PRINCIPLES_KNOWLEDGE": [
+      "equip students principles knowledge",
+      "equip",
+      "students",
+      "principles",
+      "knowledge"
+    ],
+    "TOPICS_INCLUDE_DISTRIBUTED_DBMS": [
+      "topics include distributed dbms",
+      "topics",
+      "include",
+      "distributed",
+      "dbms"
+    ]
+  },
+  "syllabus_section": "DISTRIBUTED DATABASES"
+}

@@ -1,0 +1,65 @@
+{
+  "subject_name": "Cloud Computing",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COURSE_COMPUTER_NETWORKS",
+        "COURSE_OPERATING_SYSTEMS",
+        "COURSE_DISTRIBUTED_SYSTEMS_COURSE",
+        "COURSE_PROVIDES_INSIGHT_CLOUD",
+        "DISTRIBUTED_SYSTEM_MODELS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COURSE_COMPUTER_NETWORKS": [
+      "course computer networks",
+      "course",
+      "computer",
+      "networks"
+    ],
+    "COURSE_OPERATING_SYSTEMS": [
+      "course operating systems",
+      "course",
+      "operating",
+      "systems"
+    ],
+    "COURSE_DISTRIBUTED_SYSTEMS_COURSE": [
+      "course distributed systems course",
+      "course",
+      "distributed",
+      "systems",
+      "course"
+    ],
+    "COURSE_PROVIDES_INSIGHT_CLOUD": [
+      "course provides insight cloud",
+      "course",
+      "provides",
+      "insight",
+      "cloud"
+    ],
+    "DISTRIBUTED_SYSTEM_MODELS": [
+      "distributed system models",
+      "distributed",
+      "system",
+      "models"
+    ]
+  },
+  "syllabus_section": "CLOUD COMPUTING"
+}

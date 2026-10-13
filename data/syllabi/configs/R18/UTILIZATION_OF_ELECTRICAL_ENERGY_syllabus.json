@@ -1,0 +1,17 @@
+{
+  "subject_name": "Utilization Of Electrical Energy",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "UTILIZATION_OF_ELECTRICAL_ENERGY"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "UTILIZATION_OF_ELECTRICAL_ENERGY": [
+      "utilization of electrical energy"
+    ]
+  }
+}

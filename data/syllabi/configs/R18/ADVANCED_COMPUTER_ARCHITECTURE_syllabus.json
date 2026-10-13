@@ -1,0 +1,59 @@
+{
+  "subject_name": "Advanced Computer Architecture",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COMPUTER_ORGANIZATION_COURSE",
+        "IMPART_PRINCIPLES_PARALLEL_ADVANCED",
+        "DEVELOP_DESIGN_TECHNIQUES_SCALABLE",
+        "APPLY_TECHNIQUES_PARALLEL_ADVANCED"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COMPUTER_ORGANIZATION_COURSE": [
+      "computer organization course",
+      "computer",
+      "organization",
+      "course"
+    ],
+    "IMPART_PRINCIPLES_PARALLEL_ADVANCED": [
+      "impart principles parallel advanced",
+      "impart",
+      "principles",
+      "parallel",
+      "advanced"
+    ],
+    "DEVELOP_DESIGN_TECHNIQUES_SCALABLE": [
+      "develop design techniques scalable",
+      "develop",
+      "design",
+      "techniques",
+      "scalable"
+    ],
+    "APPLY_TECHNIQUES_PARALLEL_ADVANCED": [
+      "apply techniques parallel advanced",
+      "apply",
+      "techniques",
+      "parallel",
+      "advanced"
+    ]
+  },
+  "syllabus_section": "ADVANCED COMPUTER ARCHITECTURE"
+}

@@ -1,0 +1,253 @@
+{
+  "subject_name": "Web Technologies",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "DECLARING_VARIABLES",
+        "DATA_TYPES",
+        "ARRAYS",
+        "STRINGS",
+        "OPERATORS",
+        "EXPRESSIONS",
+        "CONTROL_STRUCTURES",
+        "FUNCTIONS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "HTML_COMMON_TAGS_LIST",
+        "TABLES",
+        "IMAGES",
+        "FORMS",
+        "FRAMES",
+        "CASCADING_STYLE_SHEETS",
+        "DEFINING_XML_TAGS",
+        "ATTRIBUTES_VALUES"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "SERVLETS",
+        "COMMON_GATEWAY_INTERFACE",
+        "LIFE_CYCLE_SERVLET",
+        "DEPLOYING_SERVLET",
+        "SERVLET_API",
+        "READING_SERVLET_PARAMETERS",
+        "READING_INITIALIZATION_PARAMETERS",
+        "HANDLING_HTTP_REQUEST_RESPONSES"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "ANATOMY_JSP_PAGE",
+        "JSP_PROCESSING",
+        "DECLARATIONS",
+        "DIRECTIVES",
+        "EXPRESSIONS",
+        "CODE_SNIPPETS",
+        "IMPLICIT_OBJECTS",
+        "BEANS_JSP_PAGES"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "CLIENT_SIDE_SCRIPTING",
+        "JAVASCRIPT",
+        "JAVASCRIPT_LANGUAGE",
+        "DECLARING_VARIABLES",
+        "SCOPE_VARIABLES",
+        "FUNCTIONS",
+        "EVENT_HANDLERS",
+        "ONCLICK"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "DECLARING_VARIABLES": [
+      "declaring variables",
+      "declaring",
+      "variables"
+    ],
+    "DATA_TYPES": [
+      "data types",
+      "data",
+      "types"
+    ],
+    "ARRAYS": [
+      "arrays",
+      "arrays"
+    ],
+    "STRINGS": [
+      "strings",
+      "strings"
+    ],
+    "OPERATORS": [
+      "operators",
+      "operators"
+    ],
+    "EXPRESSIONS": [
+      "expressions",
+      "expressions"
+    ],
+    "CONTROL_STRUCTURES": [
+      "control structures",
+      "control",
+      "structures"
+    ],
+    "FUNCTIONS": [
+      "functions",
+      "functions"
+    ],
+    "HTML_COMMON_TAGS_LIST": [
+      "html common tags list",
+      "html",
+      "common",
+      "tags",
+      "list"
+    ],
+    "TABLES": [
+      "tables",
+      "tables"
+    ],
+    "IMAGES": [
+      "images",
+      "images"
+    ],
+    "FORMS": [
+      "forms",
+      "forms"
+    ],
+    "FRAMES": [
+      "frames",
+      "frames"
+    ],
+    "CASCADING_STYLE_SHEETS": [
+      "cascading style sheets",
+      "cascading",
+      "style",
+      "sheets"
+    ],
+    "DEFINING_XML_TAGS": [
+      "defining xml tags",
+      "defining",
+      "tags"
+    ],
+    "ATTRIBUTES_VALUES": [
+      "attributes values",
+      "attributes",
+      "values"
+    ],
+    "SERVLETS": [
+      "servlets",
+      "servlets"
+    ],
+    "COMMON_GATEWAY_INTERFACE": [
+      "common gateway interface",
+      "common",
+      "gateway",
+      "interface"
+    ],
+    "LIFE_CYCLE_SERVLET": [
+      "life cycle servlet",
+      "life",
+      "cycle",
+      "servlet"
+    ],
+    "DEPLOYING_SERVLET": [
+      "deploying servlet",
+      "deploying",
+      "servlet"
+    ],
+    "SERVLET_API": [
+      "servlet api",
+      "servlet"
+    ],
+    "READING_SERVLET_PARAMETERS": [
+      "reading servlet parameters",
+      "reading",
+      "servlet",
+      "parameters"
+    ],
+    "READING_INITIALIZATION_PARAMETERS": [
+      "reading initialization parameters",
+      "reading",
+      "initialization",
+      "parameters"
+    ],
+    "HANDLING_HTTP_REQUEST_RESPONSES": [
+      "handling http request responses",
+      "handling",
+      "http",
+      "request",
+      "responses"
+    ],
+    "ANATOMY_JSP_PAGE": [
+      "anatomy jsp page",
+      "anatomy",
+      "page"
+    ],
+    "JSP_PROCESSING": [
+      "jsp processing",
+      "processing"
+    ],
+    "DECLARATIONS": [
+      "declarations",
+      "declarations"
+    ],
+    "DIRECTIVES": [
+      "directives",
+      "directives"
+    ],
+    "CODE_SNIPPETS": [
+      "code snippets",
+      "code",
+      "snippets"
+    ],
+    "IMPLICIT_OBJECTS": [
+      "implicit objects",
+      "implicit",
+      "objects"
+    ],
+    "BEANS_JSP_PAGES": [
+      "beans jsp pages",
+      "beans",
+      "pages"
+    ],
+    "CLIENT_SIDE_SCRIPTING": [
+      "client side scripting",
+      "client",
+      "side",
+      "scripting"
+    ],
+    "JAVASCRIPT": [
+      "javascript",
+      "javascript"
+    ],
+    "JAVASCRIPT_LANGUAGE": [
+      "javascript language",
+      "javascript",
+      "language"
+    ],
+    "SCOPE_VARIABLES": [
+      "scope variables",
+      "scope",
+      "variables"
+    ],
+    "EVENT_HANDLERS": [
+      "event handlers",
+      "event",
+      "handlers"
+    ],
+    "ONCLICK": [
+      "onclick",
+      "onclick"
+    ]
+  },
+  "syllabus_section": "WEB TECHNOLOGIES"
+}

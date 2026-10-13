@@ -1,0 +1,68 @@
+{
+  "subject_name": "Human Computer Interaction",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "GAIN_OVERVIEW_HUMAN_COMPUTER",
+        "UNDERSTANDING_USER_INTERFACE_DESIGN",
+        "ALTERNATIVES_TRADITIONAL_KEYBOARD_MOUSE",
+        "BECOME_FAMILIAR_VOCABULARY_ASSOCIATED",
+        "ABLE_APPLY_MODELS_COGNITIVE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "GAIN_OVERVIEW_HUMAN_COMPUTER": [
+      "gain overview human computer",
+      "gain",
+      "overview",
+      "human",
+      "computer"
+    ],
+    "UNDERSTANDING_USER_INTERFACE_DESIGN": [
+      "understanding user interface design",
+      "understanding",
+      "user",
+      "interface",
+      "design"
+    ],
+    "ALTERNATIVES_TRADITIONAL_KEYBOARD_MOUSE": [
+      "alternatives traditional keyboard mouse",
+      "alternatives",
+      "traditional",
+      "keyboard",
+      "mouse"
+    ],
+    "BECOME_FAMILIAR_VOCABULARY_ASSOCIATED": [
+      "become familiar vocabulary associated",
+      "become",
+      "familiar",
+      "vocabulary",
+      "associated"
+    ],
+    "ABLE_APPLY_MODELS_COGNITIVE": [
+      "able apply models cognitive",
+      "able",
+      "apply",
+      "models",
+      "cognitive"
+    ]
+  },
+  "syllabus_section": "HUMAN COMPUTER INTERACTION"
+}

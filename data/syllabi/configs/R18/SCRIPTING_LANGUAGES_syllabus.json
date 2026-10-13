@@ -1,0 +1,65 @@
+{
+  "subject_name": "Scripting Languages",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "COURSE_COMPUTER_PROGRAMMING_DATA",
+        "COURSE_OBJECT_ORIENTED_PROGRAMMING",
+        "COURSE_INTRODUCES_SCRIPT_PROGRAMMING",
+        "INTRODUCES_SCRIPTING_LANGUAGES_PERL",
+        "RUBY_TCL"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "COURSE_COMPUTER_PROGRAMMING_DATA": [
+      "course computer programming data",
+      "course",
+      "computer",
+      "programming",
+      "data"
+    ],
+    "COURSE_OBJECT_ORIENTED_PROGRAMMING": [
+      "course object oriented programming",
+      "course",
+      "object",
+      "oriented",
+      "programming"
+    ],
+    "COURSE_INTRODUCES_SCRIPT_PROGRAMMING": [
+      "course introduces script programming",
+      "course",
+      "introduces",
+      "script",
+      "programming"
+    ],
+    "INTRODUCES_SCRIPTING_LANGUAGES_PERL": [
+      "introduces scripting languages perl",
+      "introduces",
+      "scripting",
+      "languages",
+      "perl"
+    ],
+    "RUBY_TCL": [
+      "ruby tcl",
+      "ruby"
+    ]
+  },
+  "syllabus_section": "SCRIPTING LANGUAGES"
+}

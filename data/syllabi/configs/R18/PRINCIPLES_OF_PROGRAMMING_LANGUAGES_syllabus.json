@@ -1,0 +1,285 @@
+{
+  "subject_name": "Principles Of Programming Languages",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "PRELIMINARY",
+        "REASONS_STUDYING_PROGRAMMING_LANGUAGES",
+        "PROGRAMMING_DOMAINS",
+        "LANGUAGE_EVALUATION_CRITERIA",
+        "INFLUENCES_LANGUAGE_DESIGN",
+        "LANGUAGE_CATEGORIES",
+        "LANGUAGE_DESIGN_TRADE_OFFS",
+        "IMPLEMENTATION_METHODS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "NAMES",
+        "BINDINGS",
+        "SCOPES",
+        "VARIABLES",
+        "BINDING",
+        "SCOPE",
+        "SCOPE_LIFETIME",
+        "REFERENCING_ENVIRONMENTS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "SUBPROGRAMS_BLOCKS",
+        "FUNDAMENTALS_SUB_PROGRAMS",
+        "DESIGN_ISSUES_SUBPROGRAMS",
+        "LOCAL_REFERENCING_ENVIRONMENTS",
+        "PARAMETER_PASSING_METHODS",
+        "PARAMETERS_SUBPROGRAMS",
+        "CALLING_SUBPROGRAMS_INDIRECTLY",
+        "OVERLOADED_SUBPROGRAMS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "CONCURRENCY",
+        "SUBPROGRAM_LEVEL_CONCURRENCY",
+        "SEMAPHORES",
+        "MONITORS",
+        "MESSAGE_PASSING",
+        "JAVA_THREADS",
+        "CONCURRENCY_FUNCTION_LANGUAGES",
+        "STATEMENT_LEVEL_CONCURRENCY"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "FUNCTIONAL_PROGR_AMMING_LANGUAGES",
+        "MATHEMATICAL_FUNCTIONS",
+        "FUNDAMENTALS_FUNCTIONAL_PROGRAMMING_LANGUAGE",
+        "LISP",
+        "SUPPORT_FUNCTIONAL_PROGRAMMING_PRIMARILY",
+        "COMPARISON_FUNCTIONAL_IMPERATIVE_LANGUAGES",
+        "OVERVIEW_LOGIC_PROGRAMMING",
+        "ELEMENTS_PROLOG"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "PRELIMINARY": [
+      "preliminary",
+      "preliminary"
+    ],
+    "REASONS_STUDYING_PROGRAMMING_LANGUAGES": [
+      "reasons studying programming languages",
+      "reasons",
+      "studying",
+      "programming",
+      "languages"
+    ],
+    "PROGRAMMING_DOMAINS": [
+      "programming domains",
+      "programming",
+      "domains"
+    ],
+    "LANGUAGE_EVALUATION_CRITERIA": [
+      "language evaluation criteria",
+      "language",
+      "evaluation",
+      "criteria"
+    ],
+    "INFLUENCES_LANGUAGE_DESIGN": [
+      "influences language design",
+      "influences",
+      "language",
+      "design"
+    ],
+    "LANGUAGE_CATEGORIES": [
+      "language categories",
+      "language",
+      "categories"
+    ],
+    "LANGUAGE_DESIGN_TRADE_OFFS": [
+      "language design trade offs",
+      "language",
+      "design",
+      "trade",
+      "offs"
+    ],
+    "IMPLEMENTATION_METHODS": [
+      "implementation methods",
+      "implementation",
+      "methods"
+    ],
+    "NAMES": [
+      "names",
+      "names"
+    ],
+    "BINDINGS": [
+      "bindings",
+      "bindings"
+    ],
+    "SCOPES": [
+      "scopes",
+      "scopes"
+    ],
+    "VARIABLES": [
+      "variables",
+      "variables"
+    ],
+    "BINDING": [
+      "binding",
+      "binding"
+    ],
+    "SCOPE": [
+      "scope",
+      "scope"
+    ],
+    "SCOPE_LIFETIME": [
+      "scope lifetime",
+      "scope",
+      "lifetime"
+    ],
+    "REFERENCING_ENVIRONMENTS": [
+      "referencing environments",
+      "referencing",
+      "environments"
+    ],
+    "SUBPROGRAMS_BLOCKS": [
+      "subprograms blocks",
+      "subprograms",
+      "blocks"
+    ],
+    "FUNDAMENTALS_SUB_PROGRAMS": [
+      "fundamentals sub programs",
+      "fundamentals",
+      "programs"
+    ],
+    "DESIGN_ISSUES_SUBPROGRAMS": [
+      "design issues subprograms",
+      "design",
+      "issues",
+      "subprograms"
+    ],
+    "LOCAL_REFERENCING_ENVIRONMENTS": [
+      "local referencing environments",
+      "local",
+      "referencing",
+      "environments"
+    ],
+    "PARAMETER_PASSING_METHODS": [
+      "parameter passing methods",
+      "parameter",
+      "passing",
+      "methods"
+    ],
+    "PARAMETERS_SUBPROGRAMS": [
+      "parameters subprograms",
+      "parameters",
+      "subprograms"
+    ],
+    "CALLING_SUBPROGRAMS_INDIRECTLY": [
+      "calling subprograms indirectly",
+      "calling",
+      "subprograms",
+      "indirectly"
+    ],
+    "OVERLOADED_SUBPROGRAMS": [
+      "overloaded subprograms",
+      "overloaded",
+      "subprograms"
+    ],
+    "CONCURRENCY": [
+      "concurrency",
+      "concurrency"
+    ],
+    "SUBPROGRAM_LEVEL_CONCURRENCY": [
+      "subprogram level concurrency",
+      "subprogram",
+      "level",
+      "concurrency"
+    ],
+    "SEMAPHORES": [
+      "semaphores",
+      "semaphores"
+    ],
+    "MONITORS": [
+      "monitors",
+      "monitors"
+    ],
+    "MESSAGE_PASSING": [
+      "message passing",
+      "message",
+      "passing"
+    ],
+    "JAVA_THREADS": [
+      "java threads",
+      "java",
+      "threads"
+    ],
+    "CONCURRENCY_FUNCTION_LANGUAGES": [
+      "concurrency function languages",
+      "concurrency",
+      "function",
+      "languages"
+    ],
+    "STATEMENT_LEVEL_CONCURRENCY": [
+      "statement level concurrency",
+      "statement",
+      "level",
+      "concurrency"
+    ],
+    "FUNCTIONAL_PROGR_AMMING_LANGUAGES": [
+      "functional progr amming languages",
+      "functional",
+      "progr",
+      "amming",
+      "languages"
+    ],
+    "MATHEMATICAL_FUNCTIONS": [
+      "mathematical functions",
+      "mathematical",
+      "functions"
+    ],
+    "FUNDAMENTALS_FUNCTIONAL_PROGRAMMING_LANGUAGE": [
+      "fundamentals functional programming language",
+      "fundamentals",
+      "functional",
+      "programming",
+      "language"
+    ],
+    "LISP": [
+      "lisp",
+      "lisp"
+    ],
+    "SUPPORT_FUNCTIONAL_PROGRAMMING_PRIMARILY": [
+      "support functional programming primarily",
+      "support",
+      "functional",
+      "programming",
+      "primarily"
+    ],
+    "COMPARISON_FUNCTIONAL_IMPERATIVE_LANGUAGES": [
+      "comparison functional imperative languages",
+      "comparison",
+      "functional",
+      "imperative",
+      "languages"
+    ],
+    "OVERVIEW_LOGIC_PROGRAMMING": [
+      "overview logic programming",
+      "overview",
+      "logic",
+      "programming"
+    ],
+    "ELEMENTS_PROLOG": [
+      "elements prolog",
+      "elements",
+      "prolog"
+    ]
+  },
+  "syllabus_section": "PRINCIPLES OF PROGRAMMING LANGUAGES"
+}

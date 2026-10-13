@@ -1,0 +1,36 @@
+{
+  "subject_name": "Neural Networks And Deep Learning",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "INTRODUCE_FOUNDATIONS_ARTIFICIAL_NEURAL"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "INTRODUCE_FOUNDATIONS_ARTIFICIAL_NEURAL": [
+      "introduce foundations artificial neural",
+      "introduce",
+      "foundations",
+      "artificial",
+      "neural"
+    ]
+  },
+  "syllabus_section": "NEURAL NETWORKS & DEEP LEARNING"
+}

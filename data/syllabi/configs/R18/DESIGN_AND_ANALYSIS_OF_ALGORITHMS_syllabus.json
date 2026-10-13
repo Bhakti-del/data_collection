@@ -1,0 +1,243 @@
+{
+  "subject_name": "Design And Analysis Of Algorithms",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "PERFORMANCE_ANALYSIS_SPACE_COMPLEXITY",
+        "TIME_COMPLEXITY",
+        "ASYMPTOTIC_NOTATIONS_BIG_OH",
+        "OMEGA_NOTATION",
+        "THETA_NOTATION_LITTLE_OH",
+        "DIVIDE_CONQUER",
+        "APPLICATIONS_BINARY_SEARCH",
+        "QUICK_SORT"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "DISJOINT_SETS",
+        "DISJOINT_SET",
+        "UNION_FIND_ALGORITHMS_BACKTRACKING",
+        "N_QUEEN_S_PROBLEM",
+        "SUM_SUBSETS_PROBLEM",
+        "GRAPH_COLORING"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "DYNAMIC_PROGRAMMING",
+        "OPTIMAL_BINARY_SEARCH_TREES",
+        "KNAPSACK_PROBLEM",
+        "ALL_PAIRS_SHORTEST_PATH",
+        "TRAVELING_SALES_PERSON_PROBLEM",
+        "RELIABILITY_DESIGN"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "GREEDY_METHOD",
+        "APPLICATIONS_JOB_SEQUENCING_DEADLINES",
+        "KNAPSACK_PROBLEM",
+        "MINIMUM_COST_SPANNING_TREES",
+        "SINGLE_SOURCE_SHORTEST_PATH"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "BRANCH_BOUND",
+        "TRAVELLING_SALES_PERSON_PROBLEM",
+        "KNAPSACK_PROBLEM",
+        "LC_BRANCH_BOUND_SOLUTION",
+        "FIFO_BRANCH_BOUND_SOLUTION",
+        "NP_HARD_NP_COMPLETE",
+        "NON_DETERMINISTIC_ALGORITHMS",
+        "HARD_NP_COMPLETE_CLASSES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "PERFORMANCE_ANALYSIS_SPACE_COMPLEXITY": [
+      "performance analysis space complexity",
+      "performance",
+      "analysis",
+      "space",
+      "complexity"
+    ],
+    "TIME_COMPLEXITY": [
+      "time complexity",
+      "time",
+      "complexity"
+    ],
+    "ASYMPTOTIC_NOTATIONS_BIG_OH": [
+      "asymptotic notations big oh",
+      "asymptotic",
+      "notations"
+    ],
+    "OMEGA_NOTATION": [
+      "omega notation",
+      "omega",
+      "notation"
+    ],
+    "THETA_NOTATION_LITTLE_OH": [
+      "theta notation little oh",
+      "theta",
+      "notation",
+      "little"
+    ],
+    "DIVIDE_CONQUER": [
+      "divide conquer",
+      "divide",
+      "conquer"
+    ],
+    "APPLICATIONS_BINARY_SEARCH": [
+      "applications binary search",
+      "applications",
+      "binary",
+      "search"
+    ],
+    "QUICK_SORT": [
+      "quick sort",
+      "quick",
+      "sort"
+    ],
+    "DISJOINT_SETS": [
+      "disjoint sets",
+      "disjoint",
+      "sets"
+    ],
+    "DISJOINT_SET": [
+      "disjoint set",
+      "disjoint"
+    ],
+    "UNION_FIND_ALGORITHMS_BACKTRACKING": [
+      "union find algorithms backtracking",
+      "union",
+      "find",
+      "algorithms",
+      "backtracking"
+    ],
+    "N_QUEEN_S_PROBLEM": [
+      "n queen s problem",
+      "queen",
+      "problem"
+    ],
+    "SUM_SUBSETS_PROBLEM": [
+      "sum subsets problem",
+      "subsets",
+      "problem"
+    ],
+    "GRAPH_COLORING": [
+      "graph coloring",
+      "graph",
+      "coloring"
+    ],
+    "DYNAMIC_PROGRAMMING": [
+      "dynamic programming",
+      "dynamic",
+      "programming"
+    ],
+    "OPTIMAL_BINARY_SEARCH_TREES": [
+      "optimal binary search trees",
+      "optimal",
+      "binary",
+      "search",
+      "trees"
+    ],
+    "KNAPSACK_PROBLEM": [
+      "knapsack problem",
+      "knapsack",
+      "problem"
+    ],
+    "ALL_PAIRS_SHORTEST_PATH": [
+      "all pairs shortest path",
+      "pairs",
+      "shortest",
+      "path"
+    ],
+    "TRAVELING_SALES_PERSON_PROBLEM": [
+      "traveling sales person problem",
+      "traveling",
+      "sales",
+      "person",
+      "problem"
+    ],
+    "RELIABILITY_DESIGN": [
+      "reliability design",
+      "reliability",
+      "design"
+    ],
+    "GREEDY_METHOD": [
+      "greedy method",
+      "greedy",
+      "method"
+    ],
+    "APPLICATIONS_JOB_SEQUENCING_DEADLINES": [
+      "applications job sequencing deadlines",
+      "applications",
+      "sequencing",
+      "deadlines"
+    ],
+    "MINIMUM_COST_SPANNING_TREES": [
+      "minimum cost spanning trees",
+      "minimum",
+      "cost",
+      "spanning",
+      "trees"
+    ],
+    "SINGLE_SOURCE_SHORTEST_PATH": [
+      "single source shortest path",
+      "single",
+      "source",
+      "shortest",
+      "path"
+    ],
+    "BRANCH_BOUND": [
+      "branch bound",
+      "branch",
+      "bound"
+    ],
+    "TRAVELLING_SALES_PERSON_PROBLEM": [
+      "travelling sales person problem",
+      "travelling",
+      "sales",
+      "person",
+      "problem"
+    ],
+    "LC_BRANCH_BOUND_SOLUTION": [
+      "lc branch bound solution",
+      "branch",
+      "bound",
+      "solution"
+    ],
+    "FIFO_BRANCH_BOUND_SOLUTION": [
+      "fifo branch bound solution",
+      "fifo",
+      "branch",
+      "bound",
+      "solution"
+    ],
+    "NP_HARD_NP_COMPLETE": [
+      "np hard np complete",
+      "hard",
+      "complete"
+    ],
+    "NON_DETERMINISTIC_ALGORITHMS": [
+      "non deterministic algorithms",
+      "deterministic",
+      "algorithms"
+    ],
+    "HARD_NP_COMPLETE_CLASSES": [
+      "hard np complete classes",
+      "hard",
+      "complete",
+      "classes"
+    ]
+  },
+  "syllabus_section": "DESIGN AND ANALYSIS OF ALGORITHMS"
+}

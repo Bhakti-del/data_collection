@@ -1,0 +1,289 @@
+{
+  "subject_name": "Organizational Behaviour",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "NATURE_SCOPE",
+        "ENVIRONMENTAL_ORGANIZATIONAL_CONTEXT",
+        "IMPACT_IT",
+        "GLOBALIZATION",
+        "DIVERSITY",
+        "ETHICS",
+        "CULTURE",
+        "REWARD_SYSTEMS_ORGANIZATIONAL_DESIGN"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "COGNITIVE_PROCESSES_II",
+        "PERSONALITY_ATTITUDES",
+        "PERSONALITY_CONTINUUM",
+        "MEANING_PERSONALITY",
+        "JOHARI_WINDOW_TRANSACTIONAL_ANALYSIS",
+        "NATURE_DIMENSION_ATTITUDES",
+        "JOB_SATISFACTION_ORGANIZATIONAL_COMMITMENT",
+        "POSITIVE_ORGANIZATIONAL_BEHAVIOUR"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "DYNAMICS_OB_I",
+        "COMMUNICATION",
+        "INTERACTIVE_COMMUNICATION_ORGANIZATIONS",
+        "BARRIERS_COMMUNICATION_STRATEGIES_IMPROVE",
+        "DECISION_MAKING",
+        "PARTICIPATIVE_DECISION_MAKING_TECHNIQUES",
+        "CREATIVITY_GROUP_DECISION_MAKING",
+        "DYNAMICS_OB_II_STRESS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "DYNAMICS_OB_III_POWER",
+        "MEANING_TYPES_POWER",
+        "EMPOWERMENT",
+        "GROUPS_VS",
+        "TEAMS",
+        "NATURE_GROUPS",
+        "DYNAMICS_INFORMAL_GROUPS",
+        "DYSFUNCTIONS_GROUPS_TEAMS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "LEADING_HIGH_PERFORMANCE",
+        "JOB_DESIGN_GOAL_SETTING",
+        "QUALITY_WORK_LIFE",
+        "SOCIO_TECHNICAL_DESIGN_HIGH",
+        "BEHAVIOURAL_PERFORMANCE_MANAGEMENT",
+        "REINFORCEMENT_PUNISHMENT_PRINCIPLES_LEARNING",
+        "LEADERSHIP_THEORIES",
+        "STYLES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "NATURE_SCOPE": [
+      "nature scope",
+      "nature",
+      "scope"
+    ],
+    "ENVIRONMENTAL_ORGANIZATIONAL_CONTEXT": [
+      "environmental organizational context",
+      "environmental",
+      "organizational",
+      "context"
+    ],
+    "IMPACT_IT": [
+      "impact it",
+      "impact"
+    ],
+    "GLOBALIZATION": [
+      "globalization",
+      "globalization"
+    ],
+    "DIVERSITY": [
+      "diversity",
+      "diversity"
+    ],
+    "ETHICS": [
+      "ethics",
+      "ethics"
+    ],
+    "CULTURE": [
+      "culture",
+      "culture"
+    ],
+    "REWARD_SYSTEMS_ORGANIZATIONAL_DESIGN": [
+      "reward systems organizational design",
+      "reward",
+      "systems",
+      "organizational",
+      "design"
+    ],
+    "COGNITIVE_PROCESSES_II": [
+      "cognitive processes ii",
+      "cognitive",
+      "processes"
+    ],
+    "PERSONALITY_ATTITUDES": [
+      "personality attitudes",
+      "personality",
+      "attitudes"
+    ],
+    "PERSONALITY_CONTINUUM": [
+      "personality continuum",
+      "personality",
+      "continuum"
+    ],
+    "MEANING_PERSONALITY": [
+      "meaning personality",
+      "meaning",
+      "personality"
+    ],
+    "JOHARI_WINDOW_TRANSACTIONAL_ANALYSIS": [
+      "johari window transactional analysis",
+      "johari",
+      "window",
+      "transactional",
+      "analysis"
+    ],
+    "NATURE_DIMENSION_ATTITUDES": [
+      "nature dimension attitudes",
+      "nature",
+      "dimension",
+      "attitudes"
+    ],
+    "JOB_SATISFACTION_ORGANIZATIONAL_COMMITMENT": [
+      "job satisfaction organizational commitment",
+      "satisfaction",
+      "organizational",
+      "commitment"
+    ],
+    "POSITIVE_ORGANIZATIONAL_BEHAVIOUR": [
+      "positive organizational behaviour",
+      "positive",
+      "organizational",
+      "behaviour"
+    ],
+    "DYNAMICS_OB_I": [
+      "dynamics ob i",
+      "dynamics"
+    ],
+    "COMMUNICATION": [
+      "communication",
+      "communication"
+    ],
+    "INTERACTIVE_COMMUNICATION_ORGANIZATIONS": [
+      "interactive communication organizations",
+      "interactive",
+      "communication",
+      "organizations"
+    ],
+    "BARRIERS_COMMUNICATION_STRATEGIES_IMPROVE": [
+      "barriers communication strategies improve",
+      "barriers",
+      "communication",
+      "strategies",
+      "improve"
+    ],
+    "DECISION_MAKING": [
+      "decision making",
+      "decision",
+      "making"
+    ],
+    "PARTICIPATIVE_DECISION_MAKING_TECHNIQUES": [
+      "participative decision making techniques",
+      "participative",
+      "decision",
+      "making",
+      "techniques"
+    ],
+    "CREATIVITY_GROUP_DECISION_MAKING": [
+      "creativity group decision making",
+      "creativity",
+      "group",
+      "decision",
+      "making"
+    ],
+    "DYNAMICS_OB_II_STRESS": [
+      "dynamics ob ii stress",
+      "dynamics",
+      "stress"
+    ],
+    "DYNAMICS_OB_III_POWER": [
+      "dynamics ob iii power",
+      "dynamics",
+      "power"
+    ],
+    "MEANING_TYPES_POWER": [
+      "meaning types power",
+      "meaning",
+      "types",
+      "power"
+    ],
+    "EMPOWERMENT": [
+      "empowerment",
+      "empowerment"
+    ],
+    "GROUPS_VS": [
+      "groups vs",
+      "groups"
+    ],
+    "TEAMS": [
+      "teams",
+      "teams"
+    ],
+    "NATURE_GROUPS": [
+      "nature groups",
+      "nature",
+      "groups"
+    ],
+    "DYNAMICS_INFORMAL_GROUPS": [
+      "dynamics informal groups",
+      "dynamics",
+      "informal",
+      "groups"
+    ],
+    "DYSFUNCTIONS_GROUPS_TEAMS": [
+      "dysfunctions groups teams",
+      "dysfunctions",
+      "groups",
+      "teams"
+    ],
+    "LEADING_HIGH_PERFORMANCE": [
+      "leading high performance",
+      "leading",
+      "high",
+      "performance"
+    ],
+    "JOB_DESIGN_GOAL_SETTING": [
+      "job design goal setting",
+      "design",
+      "goal",
+      "setting"
+    ],
+    "QUALITY_WORK_LIFE": [
+      "quality work life",
+      "quality",
+      "work",
+      "life"
+    ],
+    "SOCIO_TECHNICAL_DESIGN_HIGH": [
+      "socio technical design high",
+      "socio",
+      "technical",
+      "design",
+      "high"
+    ],
+    "BEHAVIOURAL_PERFORMANCE_MANAGEMENT": [
+      "behavioural performance management",
+      "behavioural",
+      "performance",
+      "management"
+    ],
+    "REINFORCEMENT_PUNISHMENT_PRINCIPLES_LEARNING": [
+      "reinforcement punishment principles learning",
+      "reinforcement",
+      "punishment",
+      "principles",
+      "learning"
+    ],
+    "LEADERSHIP_THEORIES": [
+      "leadership theories",
+      "leadership",
+      "theories"
+    ],
+    "STYLES": [
+      "styles",
+      "styles"
+    ]
+  },
+  "syllabus_section": "ORGANIZATIONAL BEHAVIOUR"
+}

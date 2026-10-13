@@ -1,0 +1,17 @@
+{
+  "subject_name": "Fundamentals Of Robotics",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "FUNDAMENTALS_OF_ROBOTICS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "FUNDAMENTALS_OF_ROBOTICS": [
+      "fundamentals of robotics"
+    ]
+  }
+}

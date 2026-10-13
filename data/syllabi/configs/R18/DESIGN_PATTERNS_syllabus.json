@@ -1,0 +1,68 @@
+{
+  "subject_name": "Design Patterns",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "III_YEAR_B",
+        "TECH",
+        "CSE_II_SEM_L",
+        "COURSE_FORMAL_LANGUAGES_AUTOMATA",
+        "COURSE_COMPUTER_ORGANIZATION_ARCHITECTURE",
+        "COURSE_COMPUTER_PROGRAMMING_DATA",
+        "INTRODUCE_MAJOR_LANGUAGE_TRANSLATION",
+        "TOPICS_INCLUDE_PHASES_COMPILER"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "III_YEAR_B": [
+      "iii year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_II_SEM_L": [
+      "cse ii sem l"
+    ],
+    "COURSE_FORMAL_LANGUAGES_AUTOMATA": [
+      "course formal languages automata",
+      "course",
+      "formal",
+      "languages",
+      "automata"
+    ],
+    "COURSE_COMPUTER_ORGANIZATION_ARCHITECTURE": [
+      "course computer organization architecture",
+      "course",
+      "computer",
+      "organization",
+      "architecture"
+    ],
+    "COURSE_COMPUTER_PROGRAMMING_DATA": [
+      "course computer programming data",
+      "course",
+      "computer",
+      "programming",
+      "data"
+    ],
+    "INTRODUCE_MAJOR_LANGUAGE_TRANSLATION": [
+      "introduce major language translation",
+      "introduce",
+      "major",
+      "language",
+      "translation"
+    ],
+    "TOPICS_INCLUDE_PHASES_COMPILER": [
+      "topics include phases compiler",
+      "topics",
+      "include",
+      "phases",
+      "compiler"
+    ]
+  },
+  "syllabus_section": "COMPILER DESIGN"
+}

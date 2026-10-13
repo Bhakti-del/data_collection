@@ -1,0 +1,68 @@
+{
+  "subject_name": "Artificial Intelligence",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I_SEM_L",
+        "COURSE_COMPUTER_PROGRAMMING_DATA",
+        "COURSE_ADVANCED_DATA_STRUCTURES",
+        "COURSE_DESIGN_ANALYSIS_ALGORITHMS",
+        "COURSE_MATHEMATICAL_FOUNDATIONS_COMPUTER",
+        "SOME_BACKGROUND_LINEAR_ALGEBRA"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I_SEM_L": [
+      "cse i sem l"
+    ],
+    "COURSE_COMPUTER_PROGRAMMING_DATA": [
+      "course computer programming data",
+      "course",
+      "computer",
+      "programming",
+      "data"
+    ],
+    "COURSE_ADVANCED_DATA_STRUCTURES": [
+      "course advanced data structures",
+      "course",
+      "advanced",
+      "data",
+      "structures"
+    ],
+    "COURSE_DESIGN_ANALYSIS_ALGORITHMS": [
+      "course design analysis algorithms",
+      "course",
+      "design",
+      "analysis",
+      "algorithms"
+    ],
+    "COURSE_MATHEMATICAL_FOUNDATIONS_COMPUTER": [
+      "course mathematical foundations computer",
+      "course",
+      "mathematical",
+      "foundations",
+      "computer"
+    ],
+    "SOME_BACKGROUND_LINEAR_ALGEBRA": [
+      "some background linear algebra",
+      "some",
+      "background",
+      "linear",
+      "algebra"
+    ]
+  },
+  "syllabus_section": "ARTIFICIAL INTELLIGENCE"
+}

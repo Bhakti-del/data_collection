@@ -1,0 +1,17 @@
+{
+  "subject_name": "Measuring Instruments",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "GENERAL",
+      "topics": [
+        "MEASURING_INSTRUMENTS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "MEASURING_INSTRUMENTS": [
+      "measuring instruments"
+    ]
+  }
+}

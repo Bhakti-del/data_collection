@@ -1,0 +1,287 @@
+{
+  "subject_name": "Quantitative Analysis For Business Decisions",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "BUSINESS_ECONOMICS",
+        "BUSINESS",
+        "STRUCTURE_BUSINESS_FIRM",
+        "THEORY_FIRM",
+        "TYPES_BUSINESS_ENTITIES",
+        "LIMITED_LIABILITY_COMPANIES",
+        "SOURCES_CAPITAL_COMPANY",
+        "NON_CONVENTIONAL_SOURCES_FINANCE"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "DEMAND_SUPPLY_ANALYSIS",
+        "ELASTICITY_DEMAND",
+        "ELASTICITY",
+        "TYPES_ELASTICITY",
+        "LAW_DEMAND",
+        "MEASUREMENT_SIGNIFICANCE_ELASTICITY_DEMAND",
+        "FACTORS_AFFECTING_ELASTICITY_DEMAND",
+        "ELASTICITY_DEMAND_DECISION_MAKING"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "PRODUCTION",
+        "COST",
+        "MARKET_STRUCTURES_PRICING",
+        "PRODUCTION_ANALYSIS",
+        "FACTORS_PRODUCTION",
+        "PRODUCTION_FUNCTION",
+        "PRODUCTION_FUNCTION_ONE_VARIABLE",
+        "TWO_VARIABLE_INPUTS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "FINANCIAL_ACCOUNTING",
+        "ACCOUNTING_CONVENTIONS",
+        "ACCOUNTING_EQUATION",
+        "DOUBLE_ENTRY_SYSTEM_ACCOUNTING",
+        "RULES_MAINTAINING_ACCOUNTS",
+        "JOURNAL",
+        "POSTING_LEDGER",
+        "PREPARATION_TRIAL_BALANCE"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "FINANCIAL_ANALYSIS_THROUGH_RATIOS",
+        "RATIO_ANALYSIS",
+        "LIQUIDITY_RATIOS",
+        "TURNOVER_RATIOS",
+        "PROFITABILITY_RATIOS",
+        "PROPRIETARY_RATIOS",
+        "SOLVENCY",
+        "LEVERAGE_RATIOS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "BUSINESS_ECONOMICS": [
+      "business economics",
+      "business",
+      "economics"
+    ],
+    "BUSINESS": [
+      "business",
+      "business"
+    ],
+    "STRUCTURE_BUSINESS_FIRM": [
+      "structure business firm",
+      "structure",
+      "business",
+      "firm"
+    ],
+    "THEORY_FIRM": [
+      "theory firm",
+      "theory",
+      "firm"
+    ],
+    "TYPES_BUSINESS_ENTITIES": [
+      "types business entities",
+      "types",
+      "business",
+      "entities"
+    ],
+    "LIMITED_LIABILITY_COMPANIES": [
+      "limited liability companies",
+      "limited",
+      "liability",
+      "companies"
+    ],
+    "SOURCES_CAPITAL_COMPANY": [
+      "sources capital company",
+      "sources",
+      "capital",
+      "company"
+    ],
+    "NON_CONVENTIONAL_SOURCES_FINANCE": [
+      "non conventional sources finance",
+      "conventional",
+      "sources",
+      "finance"
+    ],
+    "DEMAND_SUPPLY_ANALYSIS": [
+      "demand supply analysis",
+      "demand",
+      "supply",
+      "analysis"
+    ],
+    "ELASTICITY_DEMAND": [
+      "elasticity demand",
+      "elasticity",
+      "demand"
+    ],
+    "ELASTICITY": [
+      "elasticity",
+      "elasticity"
+    ],
+    "TYPES_ELASTICITY": [
+      "types elasticity",
+      "types",
+      "elasticity"
+    ],
+    "LAW_DEMAND": [
+      "law demand",
+      "demand"
+    ],
+    "MEASUREMENT_SIGNIFICANCE_ELASTICITY_DEMAND": [
+      "measurement significance elasticity demand",
+      "measurement",
+      "significance",
+      "elasticity",
+      "demand"
+    ],
+    "FACTORS_AFFECTING_ELASTICITY_DEMAND": [
+      "factors affecting elasticity demand",
+      "factors",
+      "affecting",
+      "elasticity",
+      "demand"
+    ],
+    "ELASTICITY_DEMAND_DECISION_MAKING": [
+      "elasticity demand decision making",
+      "elasticity",
+      "demand",
+      "decision",
+      "making"
+    ],
+    "PRODUCTION": [
+      "production",
+      "production"
+    ],
+    "COST": [
+      "cost",
+      "cost"
+    ],
+    "MARKET_STRUCTURES_PRICING": [
+      "market structures pricing",
+      "market",
+      "structures",
+      "pricing"
+    ],
+    "PRODUCTION_ANALYSIS": [
+      "production analysis",
+      "production",
+      "analysis"
+    ],
+    "FACTORS_PRODUCTION": [
+      "factors production",
+      "factors",
+      "production"
+    ],
+    "PRODUCTION_FUNCTION": [
+      "production function",
+      "production",
+      "function"
+    ],
+    "PRODUCTION_FUNCTION_ONE_VARIABLE": [
+      "production function one variable",
+      "production",
+      "function",
+      "variable"
+    ],
+    "TWO_VARIABLE_INPUTS": [
+      "two variable inputs",
+      "variable",
+      "inputs"
+    ],
+    "FINANCIAL_ACCOUNTING": [
+      "financial accounting",
+      "financial",
+      "accounting"
+    ],
+    "ACCOUNTING_CONVENTIONS": [
+      "accounting conventions",
+      "accounting",
+      "conventions"
+    ],
+    "ACCOUNTING_EQUATION": [
+      "accounting equation",
+      "accounting",
+      "equation"
+    ],
+    "DOUBLE_ENTRY_SYSTEM_ACCOUNTING": [
+      "double entry system accounting",
+      "double",
+      "entry",
+      "system",
+      "accounting"
+    ],
+    "RULES_MAINTAINING_ACCOUNTS": [
+      "rules maintaining accounts",
+      "rules",
+      "maintaining",
+      "accounts"
+    ],
+    "JOURNAL": [
+      "journal",
+      "journal"
+    ],
+    "POSTING_LEDGER": [
+      "posting ledger",
+      "posting",
+      "ledger"
+    ],
+    "PREPARATION_TRIAL_BALANCE": [
+      "preparation trial balance",
+      "preparation",
+      "trial",
+      "balance"
+    ],
+    "FINANCIAL_ANALYSIS_THROUGH_RATIOS": [
+      "financial analysis through ratios",
+      "financial",
+      "analysis",
+      "through",
+      "ratios"
+    ],
+    "RATIO_ANALYSIS": [
+      "ratio analysis",
+      "ratio",
+      "analysis"
+    ],
+    "LIQUIDITY_RATIOS": [
+      "liquidity ratios",
+      "liquidity",
+      "ratios"
+    ],
+    "TURNOVER_RATIOS": [
+      "turnover ratios",
+      "turnover",
+      "ratios"
+    ],
+    "PROFITABILITY_RATIOS": [
+      "profitability ratios",
+      "profitability",
+      "ratios"
+    ],
+    "PROPRIETARY_RATIOS": [
+      "proprietary ratios",
+      "proprietary",
+      "ratios"
+    ],
+    "SOLVENCY": [
+      "solvency",
+      "solvency"
+    ],
+    "LEVERAGE_RATIOS": [
+      "leverage ratios",
+      "leverage",
+      "ratios"
+    ]
+  },
+  "syllabus_section": "BUSINESS ECONOMICS AND FINANCIAL ANALYSIS"
+}

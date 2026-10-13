@@ -1,0 +1,5 @@
+subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years,image_path
+Advanced Algorithms,Find the max flow of the following graph.,MAXIMUM_FLOW_AND_NETWORK_FLOWS,Apply,15,[],[2020],data/images/Advanced Algorithms/ADVANCED_ALGORI_December-2020_Q4.png
+Advanced Algorithms,Find the Minimum cost spanning tree using Kruskal’s algorithm for the given graph.,MINIMUM_COST_SPANNING_TREES,Apply,5,[],[2023],data/images/Advanced Algorithms/ADVANCED_ALGORI_JULYAUGSEPT-2023_Q5_a.png
+Advanced Algorithms,Explain the implementation steps of Dijkstra’s algorithm to find shortest path of a given graph (as shown in figure 1).,SINGLE_SOURCE_SHORTEST_PATH,Apply,7,[],[2020],data/images/Advanced Algorithms/ADVANCED_ALGORI_September-2020_Q3_b.png
+Advanced Algorithms,"Run the Floyd-Warshall algorithm on the weighted, directed graph of below figure 2. Show the matrix D(k) that results for each iteration of the outer loop.",ALL_PAIRS_SHORTEST_PATH,Apply,15,[],[2020],data/images/Advanced Algorithms/ADVANCED_ALGORI_September-2020_Q4.png

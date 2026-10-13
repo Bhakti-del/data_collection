@@ -1,0 +1,63 @@
+{
+  "subject_name": "Programming For Problem Solving",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_I_SEM",
+        "L_T_P_C",
+        "LEARN_FUNDAMENTALS_COMPUTERS",
+        "UNDERSTAND_STEPS_PROGRAM_DEVELOPMENT",
+        "LEARN_SYNTAX_SEMANTICS_C",
+        "LEARN_USAGE_STRUCTURED_PROGRAMMING",
+        "COURSE"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_I_SEM": [
+      "i year i sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "LEARN_FUNDAMENTALS_COMPUTERS": [
+      "learn fundamentals computers",
+      "learn",
+      "fundamentals",
+      "computers"
+    ],
+    "UNDERSTAND_STEPS_PROGRAM_DEVELOPMENT": [
+      "understand steps program development",
+      "understand",
+      "steps",
+      "program",
+      "development"
+    ],
+    "LEARN_SYNTAX_SEMANTICS_C": [
+      "learn syntax semantics c",
+      "learn",
+      "syntax",
+      "semantics"
+    ],
+    "LEARN_USAGE_STRUCTURED_PROGRAMMING": [
+      "learn usage structured programming",
+      "learn",
+      "usage",
+      "structured",
+      "programming"
+    ],
+    "COURSE": [
+      "course",
+      "course"
+    ]
+  },
+  "syllabus_section": "PROGRAMMING FOR PROBLEM SOLVING"
+}

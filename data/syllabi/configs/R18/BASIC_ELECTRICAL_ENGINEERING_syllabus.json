@@ -1,0 +1,62 @@
+{
+  "subject_name": "Basic Electrical Engineering",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_I_SEM",
+        "L_T_P_C",
+        "INTRODUCE_ELECTRICAL_CIRCUITS_COMPONENTS",
+        "DC_CIRCUITS_AC_SINGLE",
+        "AC_MACHINES_TRANSFORMERS",
+        "IMPORT_KNOWLEDGE_ELECTRICAL_INSTALLATIONS",
+        "INTRODUCE_POWER"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_I_SEM": [
+      "i year i sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "INTRODUCE_ELECTRICAL_CIRCUITS_COMPONENTS": [
+      "introduce electrical circuits components",
+      "introduce",
+      "electrical",
+      "circuits",
+      "components"
+    ],
+    "DC_CIRCUITS_AC_SINGLE": [
+      "dc circuits ac single",
+      "circuits",
+      "single"
+    ],
+    "AC_MACHINES_TRANSFORMERS": [
+      "ac machines transformers",
+      "machines",
+      "transformers"
+    ],
+    "IMPORT_KNOWLEDGE_ELECTRICAL_INSTALLATIONS": [
+      "import knowledge electrical installations",
+      "import",
+      "knowledge",
+      "electrical",
+      "installations"
+    ],
+    "INTRODUCE_POWER": [
+      "introduce power",
+      "introduce",
+      "power"
+    ]
+  },
+  "syllabus_section": "BASIC ELECTRICAL ENGINEERING"
+}

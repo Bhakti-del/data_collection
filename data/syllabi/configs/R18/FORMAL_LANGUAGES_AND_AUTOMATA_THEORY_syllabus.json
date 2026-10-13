@@ -1,0 +1,299 @@
+{
+  "subject_name": "Formal Languages And Automata Theory",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "FINITE_AUTOMATA",
+        "STRUCTURAL_REPRESENTATIONS",
+        "AUTOMATA_COMPLEXITY",
+        "CENTRAL_AUTOMATA_THEORY",
+        "ALPHABETS",
+        "STRINGS",
+        "LANGUAGES",
+        "NONDETERMINISTIC_FINITE_AUTOMATA"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "REGULAR_EXPRESSIONS",
+        "FINITE_AUTOMATA_REGULAR_EXPRESSIONS",
+        "APPLICATIONS_REGULAR_EXPRESSIONS",
+        "ALGEBRAIC_LAWS_REGULAR_EXPRESSIONS",
+        "CONVERSION_FINITE_AUTOMATA_REGULAR",
+        "PUMPING_LEMMA_REGULAR_LANGUAGES",
+        "STATEMENT_PUMPING_LEMMA",
+        "APPLICATIONS_PUMPING_LEMMA"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "CONTEXT_FREE_GRAMMARS",
+        "DERIVATIONS_GRAMMAR",
+        "LEFTMOST_RIGHTMOST_DERIVATIONS",
+        "LANGUAGE_GRAMMAR",
+        "SENTENTIAL_FORMS",
+        "PARSE_TRESS",
+        "APPLICATIONS_CONTEXT_FREE_GRAMMARS",
+        "AMBIGUITY_GRAMMARS_LANGUAGES"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "NORMAL_FORMS_CONTEXT_FREE",
+        "ELIMINATING_USELESS_SYMBOLS",
+        "ELIMINATING_PRODUCTIONS",
+        "CHOMSKY_NORMAL_FORM_GRIEBECH",
+        "PUMPING_LEMMA_CONTEXT_FREE",
+        "STATEMENT_PUMPING_LEMMA",
+        "APPLICATIONS_CLOSURE_PROPERTIES_CONTEXT",
+        "CLOSURE_PROPERTIES_CFL_S"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "TYPES_TURING_MACHINE",
+        "TURING_MACHINES_HALTING_UNDECIDABILITY",
+        "UNDECIDABILITY",
+        "LANGUAGE_NOT_RECURSIVELY_ENUMERABLE",
+        "UNDECIDABLE_PROBLEM_RE",
+        "UNDECIDABLE_PROBLEMS_TURING_MACHINES",
+        "RECURSIVE_LANGUAGES",
+        "PROPERTIES_RECURSIVE_LANGUAGES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "FINITE_AUTOMATA": [
+      "finite automata",
+      "finite",
+      "automata"
+    ],
+    "STRUCTURAL_REPRESENTATIONS": [
+      "structural representations",
+      "structural",
+      "representations"
+    ],
+    "AUTOMATA_COMPLEXITY": [
+      "automata complexity",
+      "automata",
+      "complexity"
+    ],
+    "CENTRAL_AUTOMATA_THEORY": [
+      "central automata theory",
+      "central",
+      "automata",
+      "theory"
+    ],
+    "ALPHABETS": [
+      "alphabets",
+      "alphabets"
+    ],
+    "STRINGS": [
+      "strings",
+      "strings"
+    ],
+    "LANGUAGES": [
+      "languages",
+      "languages"
+    ],
+    "NONDETERMINISTIC_FINITE_AUTOMATA": [
+      "nondeterministic finite automata",
+      "nondeterministic",
+      "finite",
+      "automata"
+    ],
+    "REGULAR_EXPRESSIONS": [
+      "regular expressions",
+      "regular",
+      "expressions"
+    ],
+    "FINITE_AUTOMATA_REGULAR_EXPRESSIONS": [
+      "finite automata regular expressions",
+      "finite",
+      "automata",
+      "regular",
+      "expressions"
+    ],
+    "APPLICATIONS_REGULAR_EXPRESSIONS": [
+      "applications regular expressions",
+      "applications",
+      "regular",
+      "expressions"
+    ],
+    "ALGEBRAIC_LAWS_REGULAR_EXPRESSIONS": [
+      "algebraic laws regular expressions",
+      "algebraic",
+      "laws",
+      "regular",
+      "expressions"
+    ],
+    "CONVERSION_FINITE_AUTOMATA_REGULAR": [
+      "conversion finite automata regular",
+      "conversion",
+      "finite",
+      "automata",
+      "regular"
+    ],
+    "PUMPING_LEMMA_REGULAR_LANGUAGES": [
+      "pumping lemma regular languages",
+      "pumping",
+      "lemma",
+      "regular",
+      "languages"
+    ],
+    "STATEMENT_PUMPING_LEMMA": [
+      "statement pumping lemma",
+      "statement",
+      "pumping",
+      "lemma"
+    ],
+    "APPLICATIONS_PUMPING_LEMMA": [
+      "applications pumping lemma",
+      "applications",
+      "pumping",
+      "lemma"
+    ],
+    "CONTEXT_FREE_GRAMMARS": [
+      "context free grammars",
+      "context",
+      "free",
+      "grammars"
+    ],
+    "DERIVATIONS_GRAMMAR": [
+      "derivations grammar",
+      "derivations",
+      "grammar"
+    ],
+    "LEFTMOST_RIGHTMOST_DERIVATIONS": [
+      "leftmost rightmost derivations",
+      "leftmost",
+      "rightmost",
+      "derivations"
+    ],
+    "LANGUAGE_GRAMMAR": [
+      "language grammar",
+      "language",
+      "grammar"
+    ],
+    "SENTENTIAL_FORMS": [
+      "sentential forms",
+      "sentential",
+      "forms"
+    ],
+    "PARSE_TRESS": [
+      "parse tress",
+      "parse",
+      "tress"
+    ],
+    "APPLICATIONS_CONTEXT_FREE_GRAMMARS": [
+      "applications context free grammars",
+      "applications",
+      "context",
+      "free",
+      "grammars"
+    ],
+    "AMBIGUITY_GRAMMARS_LANGUAGES": [
+      "ambiguity grammars languages",
+      "ambiguity",
+      "grammars",
+      "languages"
+    ],
+    "NORMAL_FORMS_CONTEXT_FREE": [
+      "normal forms context free",
+      "normal",
+      "forms",
+      "context",
+      "free"
+    ],
+    "ELIMINATING_USELESS_SYMBOLS": [
+      "eliminating useless symbols",
+      "eliminating",
+      "useless",
+      "symbols"
+    ],
+    "ELIMINATING_PRODUCTIONS": [
+      "eliminating productions",
+      "eliminating",
+      "productions"
+    ],
+    "CHOMSKY_NORMAL_FORM_GRIEBECH": [
+      "chomsky normal form griebech",
+      "chomsky",
+      "normal",
+      "form",
+      "griebech"
+    ],
+    "PUMPING_LEMMA_CONTEXT_FREE": [
+      "pumping lemma context free",
+      "pumping",
+      "lemma",
+      "context",
+      "free"
+    ],
+    "APPLICATIONS_CLOSURE_PROPERTIES_CONTEXT": [
+      "applications closure properties context",
+      "applications",
+      "closure",
+      "properties",
+      "context"
+    ],
+    "CLOSURE_PROPERTIES_CFL_S": [
+      "closure properties cfl s",
+      "closure",
+      "properties"
+    ],
+    "TYPES_TURING_MACHINE": [
+      "types turing machine",
+      "types",
+      "turing",
+      "machine"
+    ],
+    "TURING_MACHINES_HALTING_UNDECIDABILITY": [
+      "turing machines halting undecidability",
+      "turing",
+      "machines",
+      "halting",
+      "undecidability"
+    ],
+    "UNDECIDABILITY": [
+      "undecidability",
+      "undecidability"
+    ],
+    "LANGUAGE_NOT_RECURSIVELY_ENUMERABLE": [
+      "language not recursively enumerable",
+      "language",
+      "recursively",
+      "enumerable"
+    ],
+    "UNDECIDABLE_PROBLEM_RE": [
+      "undecidable problem re",
+      "undecidable",
+      "problem"
+    ],
+    "UNDECIDABLE_PROBLEMS_TURING_MACHINES": [
+      "undecidable problems turing machines",
+      "undecidable",
+      "problems",
+      "turing",
+      "machines"
+    ],
+    "RECURSIVE_LANGUAGES": [
+      "recursive languages",
+      "recursive",
+      "languages"
+    ],
+    "PROPERTIES_RECURSIVE_LANGUAGES": [
+      "properties recursive languages",
+      "properties",
+      "recursive",
+      "languages"
+    ]
+  },
+  "syllabus_section": "FORMAL LANGUAGES AND AUTOMATA THEORY"
+}

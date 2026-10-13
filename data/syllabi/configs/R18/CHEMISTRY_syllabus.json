@@ -1,0 +1,66 @@
+{
+  "subject_name": "Chemistry",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "TECH",
+        "I_YEAR_II_SEM",
+        "L_T_P_C",
+        "BRING_ADAPTABILITY_CHEMISTRY_ACQUIRE",
+        "IMPART_KNOWLEDGE_ATOMIC",
+        "MOLECULAR_ELECTRONIC_MODIFICATIONS_WHICH",
+        "ACQUIRE_KNOWLEDGE_ELECTROCHEMISTRY",
+        "CORROSION_WATER_TREATMENT_WHICH"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "I_YEAR_II_SEM": [
+      "i year ii sem",
+      "year"
+    ],
+    "L_T_P_C": [
+      "l t p c"
+    ],
+    "BRING_ADAPTABILITY_CHEMISTRY_ACQUIRE": [
+      "bring adaptability chemistry acquire",
+      "bring",
+      "adaptability",
+      "chemistry",
+      "acquire"
+    ],
+    "IMPART_KNOWLEDGE_ATOMIC": [
+      "impart knowledge atomic",
+      "impart",
+      "knowledge",
+      "atomic"
+    ],
+    "MOLECULAR_ELECTRONIC_MODIFICATIONS_WHICH": [
+      "molecular electronic modifications which",
+      "molecular",
+      "electronic",
+      "modifications",
+      "which"
+    ],
+    "ACQUIRE_KNOWLEDGE_ELECTROCHEMISTRY": [
+      "acquire knowledge electrochemistry",
+      "acquire",
+      "knowledge",
+      "electrochemistry"
+    ],
+    "CORROSION_WATER_TREATMENT_WHICH": [
+      "corrosion water treatment which",
+      "corrosion",
+      "water",
+      "treatment",
+      "which"
+    ]
+  },
+  "syllabus_section": "CHEMISTRY"
+}

@@ -1,0 +1,293 @@
+{
+  "subject_name": "Mobile Application Development",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "ANDROID_OPERATING_SYSTEM",
+        "ANDROID_OS_DESIGN_FEATURES",
+        "ANDROID_DEVELOPMENT_FRAMEWORK",
+        "SDK_FEATURES",
+        "INSTALLING_RUNNING_APPLICATIONS_ANDROID",
+        "CREATING_AVDS",
+        "TYPES_ANDROID_APPLICATIONS",
+        "BEST_PRACTICES_ANDROID_PROGRAMMING"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "ANDROID_USER_INTERFACE",
+        "MEASUREMENTS",
+        "DEVICE_PIXEL_DENSITY_INDEPENDENT",
+        "S_LAYOUTS",
+        "LINEAR",
+        "RELATIVE",
+        "GRID_TABLE_LAYOUTS_USER",
+        "COMPONENTS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "INTENTS_BROADCASTS",
+        "INTENT",
+        "INTENTS_LAUNCH_ACTIVITIES",
+        "EXPLICITLY_STARTING_NEW_ACTIVITY",
+        "IMPLICIT_INTENTS",
+        "PASSING_DATA_INTENTS",
+        "GETTING_RESULTS_ACTIVITIES",
+        "NATIVE_ACTIONS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "PERSISTENT_STORAGE",
+        "FILES",
+        "APPLICATION_SPECIFIC_FOLDERS_FILES",
+        "CREATING_FILES",
+        "READING_DATA_FILES",
+        "LISTING_CONTENTS_DIRECTORY_SHARED",
+        "CREATING_SHARED_PREFERENCES",
+        "SAVING_RETRIEVING_DATA_SHARED"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "DATABASE",
+        "SQLITE_DATABASE",
+        "CREATING_OPENING_DATABASE",
+        "CREATING_TABLES",
+        "INSERTING_RETRIEVING_ETINDELG_DATA",
+        "REGISTERING_CONTENT_PROVIDERS",
+        "CONTENT_PROVIDERS",
+        "INSERT"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "ANDROID_OPERATING_SYSTEM": [
+      "android operating system",
+      "android",
+      "operating",
+      "system"
+    ],
+    "ANDROID_OS_DESIGN_FEATURES": [
+      "android os design features",
+      "android",
+      "design",
+      "features"
+    ],
+    "ANDROID_DEVELOPMENT_FRAMEWORK": [
+      "android development framework",
+      "android",
+      "development",
+      "framework"
+    ],
+    "SDK_FEATURES": [
+      "sdk features",
+      "features"
+    ],
+    "INSTALLING_RUNNING_APPLICATIONS_ANDROID": [
+      "installing running applications android",
+      "installing",
+      "running",
+      "applications",
+      "android"
+    ],
+    "CREATING_AVDS": [
+      "creating avds",
+      "creating",
+      "avds"
+    ],
+    "TYPES_ANDROID_APPLICATIONS": [
+      "types android applications",
+      "types",
+      "android",
+      "applications"
+    ],
+    "BEST_PRACTICES_ANDROID_PROGRAMMING": [
+      "best practices android programming",
+      "best",
+      "practices",
+      "android",
+      "programming"
+    ],
+    "ANDROID_USER_INTERFACE": [
+      "android user interface",
+      "android",
+      "user",
+      "interface"
+    ],
+    "MEASUREMENTS": [
+      "measurements",
+      "measurements"
+    ],
+    "DEVICE_PIXEL_DENSITY_INDEPENDENT": [
+      "device pixel density independent",
+      "device",
+      "pixel",
+      "density",
+      "independent"
+    ],
+    "S_LAYOUTS": [
+      "s layouts",
+      "layouts"
+    ],
+    "LINEAR": [
+      "linear",
+      "linear"
+    ],
+    "RELATIVE": [
+      "relative",
+      "relative"
+    ],
+    "GRID_TABLE_LAYOUTS_USER": [
+      "grid table layouts user",
+      "grid",
+      "table",
+      "layouts",
+      "user"
+    ],
+    "COMPONENTS": [
+      "components",
+      "components"
+    ],
+    "INTENTS_BROADCASTS": [
+      "intents broadcasts",
+      "intents",
+      "broadcasts"
+    ],
+    "INTENT": [
+      "intent",
+      "intent"
+    ],
+    "INTENTS_LAUNCH_ACTIVITIES": [
+      "intents launch activities",
+      "intents",
+      "launch",
+      "activities"
+    ],
+    "EXPLICITLY_STARTING_NEW_ACTIVITY": [
+      "explicitly starting new activity",
+      "explicitly",
+      "starting",
+      "activity"
+    ],
+    "IMPLICIT_INTENTS": [
+      "implicit intents",
+      "implicit",
+      "intents"
+    ],
+    "PASSING_DATA_INTENTS": [
+      "passing data intents",
+      "passing",
+      "data",
+      "intents"
+    ],
+    "GETTING_RESULTS_ACTIVITIES": [
+      "getting results activities",
+      "getting",
+      "results",
+      "activities"
+    ],
+    "NATIVE_ACTIONS": [
+      "native actions",
+      "native",
+      "actions"
+    ],
+    "PERSISTENT_STORAGE": [
+      "persistent storage",
+      "persistent",
+      "storage"
+    ],
+    "FILES": [
+      "files",
+      "files"
+    ],
+    "APPLICATION_SPECIFIC_FOLDERS_FILES": [
+      "application specific folders files",
+      "application",
+      "specific",
+      "folders",
+      "files"
+    ],
+    "CREATING_FILES": [
+      "creating files",
+      "creating",
+      "files"
+    ],
+    "READING_DATA_FILES": [
+      "reading data files",
+      "reading",
+      "data",
+      "files"
+    ],
+    "LISTING_CONTENTS_DIRECTORY_SHARED": [
+      "listing contents directory shared",
+      "listing",
+      "contents",
+      "directory",
+      "shared"
+    ],
+    "CREATING_SHARED_PREFERENCES": [
+      "creating shared preferences",
+      "creating",
+      "shared",
+      "preferences"
+    ],
+    "SAVING_RETRIEVING_DATA_SHARED": [
+      "saving retrieving data shared",
+      "saving",
+      "retrieving",
+      "data",
+      "shared"
+    ],
+    "DATABASE": [
+      "database",
+      "database"
+    ],
+    "SQLITE_DATABASE": [
+      "sqlite database",
+      "sqlite",
+      "database"
+    ],
+    "CREATING_OPENING_DATABASE": [
+      "creating opening database",
+      "creating",
+      "opening",
+      "database"
+    ],
+    "CREATING_TABLES": [
+      "creating tables",
+      "creating",
+      "tables"
+    ],
+    "INSERTING_RETRIEVING_ETINDELG_DATA": [
+      "inserting retrieving etindelg data",
+      "inserting",
+      "retrieving",
+      "etindelg",
+      "data"
+    ],
+    "REGISTERING_CONTENT_PROVIDERS": [
+      "registering content providers",
+      "registering",
+      "content",
+      "providers"
+    ],
+    "CONTENT_PROVIDERS": [
+      "content providers",
+      "content",
+      "providers"
+    ],
+    "INSERT": [
+      "insert",
+      "insert"
+    ]
+  },
+  "syllabus_section": "MOBILE APPLICATION DEVELOPMENT"
+}

@@ -1,0 +1,293 @@
+{
+  "subject_name": "Software Engineering",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "SOFTWARE_ENGINEERING",
+        "EVOLVING_ROLE_SOFTWARE",
+        "CHANGING_NATURE_SOFTWARE",
+        "SOFTWARE_MYTHS",
+        "GENERIC_VIEW_PROCESS",
+        "SOFTWARE_ENGINEERING_LAYERED_TECHNOLOGY",
+        "PROCESS_FRAMEWORK",
+        "CAPABILITY_MATURITY_MODEL_INTEGRATION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "SOFTWARE_REQUIREMENTS",
+        "FUNCTIONAL_NON_FUNCTIONAL_REQUIREMENTS",
+        "USER_REQUIREMENTS",
+        "SYSTEM_REQUIREMENTS",
+        "INTERFACE_SPECIFICATION",
+        "SOFTWARE_REQUIREMENTS_DOCUMENT",
+        "REQUIREMENTS_ENGINEERING_PROCESS",
+        "FEASIBILITY_STUDIES"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "DESIGN_ENGINEERING",
+        "DESIGN_PROCESS_DESIGN_QUALITY",
+        "DESIGN",
+        "DESIGN_MODEL",
+        "CREATING_ARCHITECTURAL_DESIGN",
+        "SOFTWARE_ARCHITECTURE",
+        "DATA_DESIGN",
+        "ARCHITECTURAL_STYLES_PATTERNS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "TESTING_STRATEGIES",
+        "STRATEGIC_APPROACH_SOFTWARE_TESTING",
+        "TEST_STRATEGIES_CONVENTIONAL_SOFTWARE",
+        "BLACK_BOX_WHITE_BOX",
+        "VALIDATION_TESTING",
+        "SYSTEM_TESTING",
+        "ART_DEBUGGING",
+        "PRODUCT_METRICS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "METRICS_PROCESS_PRODUCTS",
+        "SOFTWARE_MEASUREMENT",
+        "METRICS_SOFTWARE_QUALITY",
+        "RISK_MANAGEMENT",
+        "REACTIVE_VS_PROACTIVE_RISK",
+        "SOFTWARE_RISKS",
+        "RISK_ID_ENTIFICATION",
+        "RISK_PROJECTION"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "SOFTWARE_ENGINEERING": [
+      "software engineering",
+      "software",
+      "engineering"
+    ],
+    "EVOLVING_ROLE_SOFTWARE": [
+      "evolving role software",
+      "evolving",
+      "role",
+      "software"
+    ],
+    "CHANGING_NATURE_SOFTWARE": [
+      "changing nature software",
+      "changing",
+      "nature",
+      "software"
+    ],
+    "SOFTWARE_MYTHS": [
+      "software myths",
+      "software",
+      "myths"
+    ],
+    "GENERIC_VIEW_PROCESS": [
+      "generic view process",
+      "generic",
+      "view",
+      "process"
+    ],
+    "SOFTWARE_ENGINEERING_LAYERED_TECHNOLOGY": [
+      "software engineering layered technology",
+      "software",
+      "engineering",
+      "layered",
+      "technology"
+    ],
+    "PROCESS_FRAMEWORK": [
+      "process framework",
+      "process",
+      "framework"
+    ],
+    "CAPABILITY_MATURITY_MODEL_INTEGRATION": [
+      "capability maturity model integration",
+      "capability",
+      "maturity",
+      "model",
+      "integration"
+    ],
+    "SOFTWARE_REQUIREMENTS": [
+      "software requirements",
+      "software",
+      "requirements"
+    ],
+    "FUNCTIONAL_NON_FUNCTIONAL_REQUIREMENTS": [
+      "functional non functional requirements",
+      "functional",
+      "functional",
+      "requirements"
+    ],
+    "USER_REQUIREMENTS": [
+      "user requirements",
+      "user",
+      "requirements"
+    ],
+    "SYSTEM_REQUIREMENTS": [
+      "system requirements",
+      "system",
+      "requirements"
+    ],
+    "INTERFACE_SPECIFICATION": [
+      "interface specification",
+      "interface",
+      "specification"
+    ],
+    "SOFTWARE_REQUIREMENTS_DOCUMENT": [
+      "software requirements document",
+      "software",
+      "requirements",
+      "document"
+    ],
+    "REQUIREMENTS_ENGINEERING_PROCESS": [
+      "requirements engineering process",
+      "requirements",
+      "engineering",
+      "process"
+    ],
+    "FEASIBILITY_STUDIES": [
+      "feasibility studies",
+      "feasibility",
+      "studies"
+    ],
+    "DESIGN_ENGINEERING": [
+      "design engineering",
+      "design",
+      "engineering"
+    ],
+    "DESIGN_PROCESS_DESIGN_QUALITY": [
+      "design process design quality",
+      "design",
+      "process",
+      "design",
+      "quality"
+    ],
+    "DESIGN": [
+      "design",
+      "design"
+    ],
+    "DESIGN_MODEL": [
+      "design model",
+      "design",
+      "model"
+    ],
+    "CREATING_ARCHITECTURAL_DESIGN": [
+      "creating architectural design",
+      "creating",
+      "architectural",
+      "design"
+    ],
+    "SOFTWARE_ARCHITECTURE": [
+      "software architecture",
+      "software",
+      "architecture"
+    ],
+    "DATA_DESIGN": [
+      "data design",
+      "data",
+      "design"
+    ],
+    "ARCHITECTURAL_STYLES_PATTERNS": [
+      "architectural styles patterns",
+      "architectural",
+      "styles",
+      "patterns"
+    ],
+    "TESTING_STRATEGIES": [
+      "testing strategies",
+      "testing",
+      "strategies"
+    ],
+    "STRATEGIC_APPROACH_SOFTWARE_TESTING": [
+      "strategic approach software testing",
+      "strategic",
+      "approach",
+      "software",
+      "testing"
+    ],
+    "TEST_STRATEGIES_CONVENTIONAL_SOFTWARE": [
+      "test strategies conventional software",
+      "test",
+      "strategies",
+      "conventional",
+      "software"
+    ],
+    "BLACK_BOX_WHITE_BOX": [
+      "black box white box",
+      "black",
+      "white"
+    ],
+    "VALIDATION_TESTING": [
+      "validation testing",
+      "validation",
+      "testing"
+    ],
+    "SYSTEM_TESTING": [
+      "system testing",
+      "system",
+      "testing"
+    ],
+    "ART_DEBUGGING": [
+      "art debugging",
+      "debugging"
+    ],
+    "PRODUCT_METRICS": [
+      "product metrics",
+      "product",
+      "metrics"
+    ],
+    "METRICS_PROCESS_PRODUCTS": [
+      "metrics process products",
+      "metrics",
+      "process",
+      "products"
+    ],
+    "SOFTWARE_MEASUREMENT": [
+      "software measurement",
+      "software",
+      "measurement"
+    ],
+    "METRICS_SOFTWARE_QUALITY": [
+      "metrics software quality",
+      "metrics",
+      "software",
+      "quality"
+    ],
+    "RISK_MANAGEMENT": [
+      "risk management",
+      "risk",
+      "management"
+    ],
+    "REACTIVE_VS_PROACTIVE_RISK": [
+      "reactive vs proactive risk",
+      "reactive",
+      "proactive",
+      "risk"
+    ],
+    "SOFTWARE_RISKS": [
+      "software risks",
+      "software",
+      "risks"
+    ],
+    "RISK_ID_ENTIFICATION": [
+      "risk id entification",
+      "risk",
+      "entification"
+    ],
+    "RISK_PROJECTION": [
+      "risk projection",
+      "risk",
+      "projection"
+    ]
+  },
+  "syllabus_section": "SOFTWARE ENGINEERING"
+}

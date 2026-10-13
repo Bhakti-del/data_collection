@@ -1,0 +1,57 @@
+{
+  "subject_name": "Data Mining",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "UNIT_1",
+      "topics": [
+        "IV_YEAR_B",
+        "TECH",
+        "CSE_I",
+        "SEM_L_T_P",
+        "COURSE_DATABASE_MANAGEMENT_SYSTEMS",
+        "IT_PRESENTS_METHODS_MINING",
+        "ASSOCIATIONS",
+        "CORRELATIONS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "IV_YEAR_B": [
+      "iv year b",
+      "year"
+    ],
+    "TECH": [
+      "tech",
+      "tech"
+    ],
+    "CSE_I": [
+      "cse i"
+    ],
+    "SEM_L_T_P": [
+      "sem l t p"
+    ],
+    "COURSE_DATABASE_MANAGEMENT_SYSTEMS": [
+      "course database management systems",
+      "course",
+      "database",
+      "management",
+      "systems"
+    ],
+    "IT_PRESENTS_METHODS_MINING": [
+      "it presents methods mining",
+      "presents",
+      "methods",
+      "mining"
+    ],
+    "ASSOCIATIONS": [
+      "associations",
+      "associations"
+    ],
+    "CORRELATIONS": [
+      "correlations",
+      "correlations"
+    ]
+  },
+  "syllabus_section": "DATA MINING"
+}

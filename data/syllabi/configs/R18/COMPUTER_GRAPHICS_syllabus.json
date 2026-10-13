@@ -1,0 +1,274 @@
+{
+  "subject_name": "Computer Graphics",
+  "regulation": "R18",
+  "units": {
+    "UNIT_1": {
+      "name": "I",
+      "topics": [
+        "APPLICATION_AREAS_COMPUTER_GRAPHICS",
+        "OVERVIEW_GRAPHICS_SYSTEMS",
+        "VIDEO_DISPLAY_DEVICES",
+        "RASTER_SCAN_SYSTEMS",
+        "RANDOM_SCAN_SYSTEMS",
+        "GRAPHICS_MONITORS_WORK_STATIONS",
+        "POINTS_LINES",
+        "LINE_DRAWING_ALGORITHMS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "II",
+      "topics": [
+        "D_GEOMETRICAL_TRANSFORMS",
+        "TRANSLATION",
+        "SCALING",
+        "ROTATION",
+        "REFLECTION_SHEAR_TRANSFORMATION_S",
+        "MATRIX_REPRESENTATIONS_HOMOGENEOUS_COORDINATES",
+        "COMPOSITE_TRANSFORMS",
+        "TRANSFORMATIONS_COORDINATE_SYSTEMS_D"
+      ]
+    },
+    "UNIT_3": {
+      "name": "III",
+      "topics": [
+        "D_OBJECT_REPRESENTATION",
+        "POLYGON_SURFACES",
+        "QUADRIC_SURFACES",
+        "SPLINE_REPRESENTATION",
+        "HERMITE_CURVE",
+        "BEZIER_CURVE_B_SPLINE",
+        "BEZIER_B_SPLINE_SURFACES",
+        "ILLUMINATION_MODELS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "IV",
+      "topics": [
+        "D_GEOMETRIC_TRANSFORMATIONS",
+        "TRANSLATION",
+        "ROTATION",
+        "SCALING",
+        "REFLECTION_SHEAR_TRANSFORMATIONS",
+        "COMPOSITE_TRANSFORMATIONS",
+        "D_VIEWING",
+        "VIEWING_PIPELINE"
+      ]
+    },
+    "UNIT_5": {
+      "name": "V",
+      "topics": [
+        "COMPUTER_ANIMATION",
+        "DESIGN_ANIMATION_SEQUENCE",
+        "COMPUTER_ANIMATION_FUNCTIONS",
+        "RASTER_ANIMATION",
+        "COMPUTER_ANIMATION_LANGUAGES",
+        "KEY_FRAME_SYSTEMS",
+        "MOTION_SPECIFICATIONS_R18_B",
+        "TECH_CSE_III_YEAR"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "APPLICATION_AREAS_COMPUTER_GRAPHICS": [
+      "application areas computer graphics",
+      "application",
+      "areas",
+      "computer",
+      "graphics"
+    ],
+    "OVERVIEW_GRAPHICS_SYSTEMS": [
+      "overview graphics systems",
+      "overview",
+      "graphics",
+      "systems"
+    ],
+    "VIDEO_DISPLAY_DEVICES": [
+      "video display devices",
+      "video",
+      "display",
+      "devices"
+    ],
+    "RASTER_SCAN_SYSTEMS": [
+      "raster scan systems",
+      "raster",
+      "scan",
+      "systems"
+    ],
+    "RANDOM_SCAN_SYSTEMS": [
+      "random scan systems",
+      "random",
+      "scan",
+      "systems"
+    ],
+    "GRAPHICS_MONITORS_WORK_STATIONS": [
+      "graphics monitors work stations",
+      "graphics",
+      "monitors",
+      "work",
+      "stations"
+    ],
+    "POINTS_LINES": [
+      "points lines",
+      "points",
+      "lines"
+    ],
+    "LINE_DRAWING_ALGORITHMS": [
+      "line drawing algorithms",
+      "line",
+      "drawing",
+      "algorithms"
+    ],
+    "D_GEOMETRICAL_TRANSFORMS": [
+      "d geometrical transforms",
+      "geometrical",
+      "transforms"
+    ],
+    "TRANSLATION": [
+      "translation",
+      "translation"
+    ],
+    "SCALING": [
+      "scaling",
+      "scaling"
+    ],
+    "ROTATION": [
+      "rotation",
+      "rotation"
+    ],
+    "REFLECTION_SHEAR_TRANSFORMATION_S": [
+      "reflection shear transformation s",
+      "reflection",
+      "shear",
+      "transformation"
+    ],
+    "MATRIX_REPRESENTATIONS_HOMOGENEOUS_COORDINATES": [
+      "matrix representations homogeneous coordinates",
+      "matrix",
+      "representations",
+      "homogeneous",
+      "coordinates"
+    ],
+    "COMPOSITE_TRANSFORMS": [
+      "composite transforms",
+      "composite",
+      "transforms"
+    ],
+    "TRANSFORMATIONS_COORDINATE_SYSTEMS_D": [
+      "transformations coordinate systems d",
+      "transformations",
+      "coordinate",
+      "systems"
+    ],
+    "D_OBJECT_REPRESENTATION": [
+      "d object representation",
+      "object",
+      "representation"
+    ],
+    "POLYGON_SURFACES": [
+      "polygon surfaces",
+      "polygon",
+      "surfaces"
+    ],
+    "QUADRIC_SURFACES": [
+      "quadric surfaces",
+      "quadric",
+      "surfaces"
+    ],
+    "SPLINE_REPRESENTATION": [
+      "spline representation",
+      "spline",
+      "representation"
+    ],
+    "HERMITE_CURVE": [
+      "hermite curve",
+      "hermite",
+      "curve"
+    ],
+    "BEZIER_CURVE_B_SPLINE": [
+      "bezier curve b spline",
+      "bezier",
+      "curve",
+      "spline"
+    ],
+    "BEZIER_B_SPLINE_SURFACES": [
+      "bezier b spline surfaces",
+      "bezier",
+      "spline",
+      "surfaces"
+    ],
+    "ILLUMINATION_MODELS": [
+      "illumination models",
+      "illumination",
+      "models"
+    ],
+    "D_GEOMETRIC_TRANSFORMATIONS": [
+      "d geometric transformations",
+      "geometric",
+      "transformations"
+    ],
+    "REFLECTION_SHEAR_TRANSFORMATIONS": [
+      "reflection shear transformations",
+      "reflection",
+      "shear",
+      "transformations"
+    ],
+    "COMPOSITE_TRANSFORMATIONS": [
+      "composite transformations",
+      "composite",
+      "transformations"
+    ],
+    "D_VIEWING": [
+      "d viewing",
+      "viewing"
+    ],
+    "VIEWING_PIPELINE": [
+      "viewing pipeline",
+      "viewing",
+      "pipeline"
+    ],
+    "COMPUTER_ANIMATION": [
+      "computer animation",
+      "computer",
+      "animation"
+    ],
+    "DESIGN_ANIMATION_SEQUENCE": [
+      "design animation sequence",
+      "design",
+      "animation",
+      "sequence"
+    ],
+    "COMPUTER_ANIMATION_FUNCTIONS": [
+      "computer animation functions",
+      "computer",
+      "animation",
+      "functions"
+    ],
+    "RASTER_ANIMATION": [
+      "raster animation",
+      "raster",
+      "animation"
+    ],
+    "COMPUTER_ANIMATION_LANGUAGES": [
+      "computer animation languages",
+      "computer",
+      "animation",
+      "languages"
+    ],
+    "KEY_FRAME_SYSTEMS": [
+      "key frame systems",
+      "frame",
+      "systems"
+    ],
+    "MOTION_SPECIFICATIONS_R18_B": [
+      "motion specifications r18 b",
+      "motion",
+      "specifications"
+    ],
+    "TECH_CSE_III_YEAR": [
+      "tech cse iii year",
+      "tech",
+      "year"
+    ]
+  },
+  "syllabus_section": "COMPUTER GRAPHICS"
+}
