@@ -1,0 +1,66 @@
+{
+  "subject_name": "Basic Electrical Engineering",
+  "canonical_id": "SUBJECT_BEE",
+  "regulation": "R22",
+  "year": "I",
+  "sem": "I",
+  "units": {
+    "UNIT_1": {
+      "name": "D.C. Circuits",
+      "topics": [
+        "CIRCUIT_ELEMENTS_AND_KIRCHHOFFS_LAWS",
+        "NETWORK_THEOREMS",
+        "TRANSIENT_ANALYSIS_DC"
+      ]
+    },
+    "UNIT_2": {
+      "name": "A.C. Circuits",
+      "topics": [
+        "SINUSOIDAL_STEADY_STATE_AND_PHASORS",
+        "RESONANCE_IN_AC_CIRCUITS",
+        "THREE_PHASE_CIRCUITS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Transformers",
+      "topics": [
+        "IDEAL_AND_PRACTICAL_TRANSFORMERS",
+        "EQUIVALENT_CIRCUIT_AND_LOSSES",
+        "AUTO_TRANSFORMER_AND_THREE_PHASE"
+      ]
+    },
+    "UNIT_4": {
+      "name": "Electrical Machines",
+      "topics": [
+        "DC_MACHINES_AND_CHARACTERISTICS",
+        "THREE_PHASE_INDUCTION_MOTORS",
+        "SINGLE_PHASE_MOTORS_AND_ALTERNATORS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "Electrical Installations",
+      "topics": [
+        "SWITCHGEAR_AND_PROTECTION",
+        "EARTHING_AND_CABLES",
+        "POWER_FACTOR_AND_ENERGY_CONSUMPTION"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "CIRCUIT_ELEMENTS_AND_KIRCHHOFFS_LAWS": ["kvl", "kcl", "kirchhoff", "mesh analysis", "nodal analysis", "resistor", "inductor", "capacitor", "ohm's law", "current divider", "voltage divider"],
+    "NETWORK_THEOREMS": ["thevenin", "thevenin's", "norton", "norton's", "superposition", "maximum power transfer", "reciprocity"],
+    "TRANSIENT_ANALYSIS_DC": ["transient", "rl circuit", "rc circuit", "time constant", "step response"],
+    "SINUSOIDAL_STEADY_STATE_AND_PHASORS": ["phasor", "sinusoidal", "rms value", "average value", "form factor", "peak factor", "impedance", "admittance", "power factor", "apparent power", "reactive power", "rlc series"],
+    "RESONANCE_IN_AC_CIRCUITS": ["resonance", "resonant frequency", "series resonance", "parallel resonance", "q factor", "quality factor", "bandwidth"],
+    "THREE_PHASE_CIRCUITS": ["three phase", "three-phase", "star connection", "delta connection", "line voltage", "phase voltage", "line current", "phase current", "two wattmeter"],
+    "IDEAL_AND_PRACTICAL_TRANSFORMERS": ["transformer", "emf equation of transformer", "ideal transformer", "transformation ratio", "turns ratio"],
+    "EQUIVALENT_CIRCUIT_AND_LOSSES": ["equivalent circuit of transformer", "iron losses", "copper losses", "core loss", "open circuit test", "short circuit test", "oc test", "sc test", "efficiency of transformer", "voltage regulation"],
+    "AUTO_TRANSFORMER_AND_THREE_PHASE": ["auto transformer", "auto-transformer", "three phase transformer"],
+    "DC_MACHINES_AND_CHARACTERISTICS": ["dc motor", "dc generator", "dc machine", "back emf", "torque equation", "shunt motor", "series motor", "characteristics of dc motor"],
+    "THREE_PHASE_INDUCTION_MOTORS": ["induction motor", "slip", "torque-slip", "rotating magnetic field", "squirrel cage", "slip ring", "starting of induction motor"],
+    "SINGLE_PHASE_MOTORS_AND_ALTERNATORS": ["single phase induction motor", "split phase", "capacitor start", "synchronous generator", "alternator"],
+    "SWITCHGEAR_AND_PROTECTION": ["switchgear", "mcb", "mccb", "elcb", "fuse", "sfu"],
+    "EARTHING_AND_CABLES": ["earthing", "pipe earthing", "plate earthing", "cables", "wires"],
+    "POWER_FACTOR_AND_ENERGY_CONSUMPTION": ["power factor improvement", "energy consumption", "electricity bill", "tariffs"]
+  }
+}

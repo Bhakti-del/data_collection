@@ -1,0 +1,66 @@
+{
+  "subject_name": "Ordinary Differential Equations & Vector Calculus",
+  "canonical_id": "SUBJECT_ODEV",
+  "regulation": "R22",
+  "year": "I",
+  "sem": "II",
+  "units": {
+    "UNIT_1": {
+      "name": "ODE — First Order",
+      "topics": [
+        "FIRST_ORDER_LINEAR_ODES",
+        "BERNOULLI_AND_EXACT_EQUATIONS",
+        "APPLICATIONS_OF_FIRST_ORDER_ODES"
+      ]
+    },
+    "UNIT_2": {
+      "name": "ODE — Higher Order",
+      "topics": [
+        "HIGHER_ORDER_LINEAR_ODES_WITH_CONSTANT_COEFFICIENTS",
+        "METHOD_OF_VARIATION_OF_PARAMETERS",
+        "CAUCHY_AND_LEGENDRE_LINEAR_EQUATIONS",
+        "SIMULTANEOUS_LINEAR_ODES"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Vector Differentiation & Line Integrals",
+      "topics": [
+        "VECTOR_DIFFERENTIATION",
+        "LINE_INTEGRALS_AND_GREENS_THEOREM"
+      ]
+    },
+    "UNIT_4": {
+      "name": "Vector Integration",
+      "topics": [
+        "SURFACE_AND_VOLUME_INTEGRALS",
+        "GAUSS_DIVERGENCE_THEOREM",
+        "STOKES_THEOREM"
+      ]
+    },
+    "UNIT_5": {
+      "name": "Laplace Transforms",
+      "topics": [
+        "LAPLACE_TRANSFORMS_OF_STANDARD_FUNCTIONS",
+        "INVERSE_LAPLACE_TRANSFORMS",
+        "APPLICATIONS_OF_LAPLACE_TRANSFORMS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "FIRST_ORDER_LINEAR_ODES": ["first order", "integrating factor", "linear equation", "dy/dx"],
+    "BERNOULLI_AND_EXACT_EQUATIONS": ["bernoulli", "exact equation", "exact differential", "m dx + n dy"],
+    "APPLICATIONS_OF_FIRST_ORDER_ODES": ["newton's law of cooling", "cooling", "growth", "decay", "orthogonal trajectories", "orthogonal trajectory"],
+    "HIGHER_ORDER_LINEAR_ODES_WITH_CONSTANT_COEFFICIENTS": ["particular integral", "complementary function", "constant coefficients", "auxiliary equation", "d^2y/dx^2", "d2y/dx2"],
+    "METHOD_OF_VARIATION_OF_PARAMETERS": ["variation of parameters", "method of variation"],
+    "CAUCHY_AND_LEGENDRE_LINEAR_EQUATIONS": ["cauchy", "legendre", "cauchy-euler", "x^2 d^2y/dx^2"],
+    "SIMULTANEOUS_LINEAR_ODES": ["simultaneous differential", "simultaneous linear"],
+    "VECTOR_DIFFERENTIATION": ["gradient", "divergence", "curl", "directional derivative", "solenoidal", "irrotational", "scalar potential"],
+    "LINE_INTEGRALS_AND_GREENS_THEOREM": ["line integral", "green's theorem", "work done"],
+    "SURFACE_AND_VOLUME_INTEGRALS": ["surface integral", "volume integral", "flux of vector"],
+    "GAUSS_DIVERGENCE_THEOREM": ["gauss divergence", "divergence theorem"],
+    "STOKES_THEOREM": ["stokes theorem", "stoke's theorem"],
+    "LAPLACE_TRANSFORMS_OF_STANDARD_FUNCTIONS": ["laplace transform", "shifting theorem", "multiplication by t", "periodic function", "heaviside", "dirac delta"],
+    "INVERSE_LAPLACE_TRANSFORMS": ["inverse laplace", "convolution theorem"],
+    "APPLICATIONS_OF_LAPLACE_TRANSFORMS": ["using laplace transform solve", "solve by laplace", "initial value problem"]
+  }
+}
