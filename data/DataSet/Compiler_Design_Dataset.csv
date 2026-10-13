@@ -142,7 +142,7 @@ Compiler Design,Discuss how Finite Automata is used to re cognize tokens and per
 Compiler Design,Explain about hashing .,LEXICAL_ANALYSIS,Analyze,2,[2019],[]
 Compiler Design,Explain in detail about the role of Lexical analyzer with the po ssible error Recovery actions.,LEXICAL_ANALYSIS,Analyze,10,[],[2018]
 Compiler Design,"Explain various error recovery strategies in lexical analysis. b) Construct a Finite automata and scanning algorithm for recognizing identifiers, numerical constants in ‘C’ language.",LEXICAL_ANALYSIS,Apply,5,[],[2023]
-Compiler Design,For the grammar S ->0S1 | 01. Indicate the handle in each of the following right-sentential forms:,LEXICAL_ANALYSIS,Apply,2,[2024],[]
+Compiler Design,"For the grammar S -> 0S1 | 01, indicate the handle in each of the following right-sentential forms: i) 000111 ii) 00S11.",LEXICAL_ANALYSIS,Apply,2,[2024],[]
 Compiler Design,How do you calculate the cost of an instruction?,LEXICAL_ANALYSIS,Analyze,2,[2019],[]
 Compiler Design,How to design and implement a lexical analyzer? Explain with an example.,LEXICAL_ANALYSIS,Analyze,15,[],[2021]
 Compiler Design,"How to specify the Tokens? Differentiate Token, Lexeme and Pattern with suitable examples. b) Explain various Error Recovery strategies in Lexical analysis.",LEXICAL_ANALYSIS,Analyze,15,[],[2021]
