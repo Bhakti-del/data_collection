@@ -15,9 +15,13 @@ from pathlib import Path
 from collections import defaultdict
 
 VALID_BLOOMS = {'Remember', 'Understand', 'Apply', 'Analyze', 'Evaluate'}
-EXPECTED_COLUMNS = [
+EXPECTED_COLUMNS_7 = [
     "subject_name", "raw_question_text", "topic_tag",
     "bloom_level", "original_marks", "part_a_years", "part_b_years"
+]
+EXPECTED_COLUMNS_8 = [
+    "subject_name", "raw_question_text", "topic_tag",
+    "bloom_level", "original_marks", "part_a_years", "part_b_years", "image_path"
 ]
 
 def parse_years(ystr):
@@ -63,8 +67,11 @@ def audit_directory(dir_path: Path):
         rows = reader[1:]
         total_records += len(rows)
 
-        # 1. Header check
-        header_err = header != EXPECTED_COLUMNS
+        # 1. Header check (supports 7-col or 8-col standard schema)
+        is_8_col = (header == EXPECTED_COLUMNS_8)
+        is_7_col = (header == EXPECTED_COLUMNS_7)
+        header_err = not (is_7_col or is_8_col)
+        expected_len = 8 if is_8_col else 7
         
         # Row audits
         schema_errs = 0
@@ -72,14 +79,21 @@ def audit_directory(dir_path: Path):
         mark_errs = 0
         stem_errs = 0
         year_errs = 0
+        image_errs = 0
         dupes = defaultdict(list)
 
         for idx, r in enumerate(rows):
-            if len(r) != 7:
+            if len(r) != expected_len:
                 schema_errs += 1
                 continue
             
-            subj, qtext, topic, bloom, marks_str, pa_str, pb_str = r
+            if is_8_col:
+                subj, qtext, topic, bloom, marks_str, pa_str, pb_str, img_path = r
+                if img_path and not Path(img_path).exists():
+                    image_errs += 1
+            else:
+                subj, qtext, topic, bloom, marks_str, pa_str, pb_str = r
+                img_path = ""
 
             # Bloom check
             if bloom not in VALID_BLOOMS:
@@ -109,13 +123,13 @@ def audit_directory(dir_path: Path):
                 stem_errs += 1
 
             norm = normalize_text_for_dedup(qtext)
-            dupes[(topic, norm)].append(idx)
+            dupes[(topic, norm, img_path)].append(idx)
 
         dupe_errs = sum(1 for v in dupes.values() if len(v) > 1)
-        sub_violations = (1 if header_err else 0) + schema_errs + bloom_errs + mark_errs + stem_errs + year_errs + dupe_errs
+        sub_violations = (1 if header_err else 0) + schema_errs + bloom_errs + mark_errs + stem_errs + year_errs + dupe_errs + image_errs
         total_violations += sub_violations
 
-        status = "PASSED (0 defects)" if sub_violations == 0 else f"ISSUES: schema={schema_errs}, bloom={bloom_errs}, marks={mark_errs}, stems={stem_errs}, dupes={dupe_errs}"
+        status = "PASSED (0 defects)" if sub_violations == 0 else f"ISSUES: schema={schema_errs}, bloom={bloom_errs}, marks={mark_errs}, stems={stem_errs}, dupes={dupe_errs}, images={image_errs}"
         print(f"  {fpath.name:45s} | {len(rows):3d} rows | {status}")
         results.append((fpath.name, len(rows), sub_violations))
 

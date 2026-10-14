@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json.schemastore.org/partial-gemini-settings.json",
+  "version": "1.0",
+  "description": "Permissions configuration for question-paper-predictor allowing non-disruptive Python, test, QA, and inspection commands.",
+  "autoExecutionPolicy": "always-proceed",
+  "permissionGrants": {
+    "allow": [
+      "command(regex:^python3? (scripts/|src/|tools/|run_pipeline\\.py|conftest\\.py).*)",
+      "command(regex:^python3? -m (pytest|unittest|flake8|black|isort|mypy).*)",
+      "command(regex:^pytest.*)",
+      "command(regex:^python3? -c \".*\")",
+      "command(regex:^python3? --version)",
+      "command(regex:^pip (list|show|check).*)",
+      "command(regex:^git (status|diff|log|branch|ls-files|ls-tree|show).*)",
+      "command(regex:^(ls|dir|cat|head|tail|grep|find|wc|tree|awk|sed|echo|which|pwd).*)",
+      "command(regex:^python3? scripts/audit_datasets\\.py.*)",
+      "command(regex:^python3? scripts/clean_all_datasets\\.py.*)",
+      "command(regex:^python3? scripts/clean_papers\\.py.*)",
+      "command(regex:^python3? scripts/txt_to_csv\\.py.*)",
+      "command(regex:^python3? scripts/extract_images\\.py.*)",
+      "command(regex:^python3? scripts/local_llm_tagger\\.py.*)",
+      "command(regex:^python3? src/parser\\.py.*)",
+      "command(regex:^python3? src/tagger\\.py.*)",
+      "command(regex:^python3? src/deduplicator\\.py.*)"
+    ],
+    "ask": [
+      "command(regex:^pip install .*)",
+      "command(regex:^git (commit|push|checkout -B|clean -fd|merge|rebase).*)",
+      "command(regex:^rm -r .*)",
+      "command(regex:^mv .*)"
+    ],
+    "deny": [
+      "command(regex:^rm -rf (/|~|/home|/root|\\.\\.).*)",
+      "command(regex:^git push.*(--force|-f).*)",
+      "command(regex:^git reset --hard.*)"
+    ]
+  }
+}
