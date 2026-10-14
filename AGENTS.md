@@ -59,31 +59,24 @@ question-paper-predictor/
 │   └── permissions.json                         # Command permission grant specification
 │
 ├── data/                                        # Single Source of Truth for Data
-│   ├── raw/                                     # Raw crawled inputs & unedited OCR txt
-│   │   ├── text_papers/                         # Raw text papers across regulations
-│   │   └── images/                              # Raw diagram snippets
+│   ├── README.md                                # Dataset catalog & architecture guide
 │   │
-│   ├── cleaned/                                 # Regularized paper text files
-│   │   └── text_papers/                         # Boilerplate-stripped exam text
+│   ├── subjects/                                # Canonical 8-column subject datasets (35 subjects)
 │   │
-│   ├── intermediate/                            # Pipeline staging artifacts
-│   │   ├── questions_raw.csv                    # Parsed atomic questions
-│   │   ├── questions_tagged.csv                 # Embedding-tagged questions
-│   │   ├── review_queue.csv                     # Low-confidence questions needing QA
-│   │   ├── topic_embeddings.npy                 # Cached sentence embeddings
-│   │   └── topic_tag_vocabulary.csv             # Topic vocabulary mapping
+│   ├── normalized/                              # Normalized slot-mapped datasets for prediction engines
 │   │
-│   ├── processed/                               # Canonical Validated Datasets
-│   │   ├── subjects/                            # Production subject CSVs (30 subjects)
-│   │   ├── with_images/                         # CSVs with mapped diagram paths
-│   │   ├── training/                            # Consolidated training sets (e.g. dbms_os_se_train.csv)
-│   │   └── excluded/                            # Filtered questions (missing figures/unmatched)
+│   ├── images/                                  # Extracted and verified exam diagrams
 │   │
 │   ├── syllabi/                                 # Syllabi definitions and configs
 │   │   ├── configs/                             # Regulation-wise JSON configs (R13, R15, R16, R18, R22)
 │   │   └── references/                          # Markdown syllabi references
 │   │
-│   └── images/                                  # Extracted and verified exam diagrams
+│   ├── raw/                                     # Raw crawled inputs & unedited OCR txt
+│   │   ├── text_papers/                         # Raw text papers across regulations
+│   │   └── pdf_papers/                          # Original exam PDFs (git-ignored)
+│   │
+│   └── cleaned/                                 # Regularized paper text files
+│       └── text_papers/                         # Boilerplate-stripped exam text
 │
 ├── docs/                                        # Architecture specifications and guides
 │
@@ -94,7 +87,7 @@ question-paper-predictor/
 │   ├── extract_images.py                        # Diagram extractor
 │   ├── local_llm_tagger.py                      # Ollama-based LLM classifier
 │   ├── txt_to_csv.py                            # Regex question parser
-│   └── regulation_builders/                     # Regulation-specific batch generators
+│   └── build_*_canonical.py                     # Subject canonical builders
 │
 ├── src/                                         # Core modular pipeline
 │   ├── parser.py                                # Paper parser and question segmenter
@@ -110,7 +103,7 @@ question-paper-predictor/
 
 ## 4. Dataset Standards & Schema Contract
 
-All finalized subject CSVs inside `data/processed/subjects/` must strictly comply with the **8-Column Standard Schema** (merging text and image-based questions):
+All finalized subject CSVs inside `data/subjects/` must strictly comply with the **8-Column Standard Schema** (merging text and image-based questions):
 
 | Column Name | Type | Description | Example |
 | :--- | :--- | :--- | :--- |

@@ -1,7 +1,0 @@
-subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years,excluded_reason
-Advanced Algorithms,Find the max flow of the following graph:,,Remember,15,[],[2020],max flow of the following graph
-Advanced Algorithms,Find the Minimum cost spanning tree using Kruskal’s algorithm for the given graph.,,Remember,5,[],[2023],"kruskal.{0,25}algorithm for the given graph"
-Advanced Algorithms,Write an approximation algorithm for Travelling Sales person problem and implement for the following graph.,,Apply,10,[],[2024],implement for the following graph
-Advanced Algorithms,Explain the implementation steps of Dijkstra’s algorithm to find shortest path of a given graph (as shown in figure 1). Figure 1,,Apply,7,[],[2020],as shown in figure\s*1
-Advanced Algorithms,"Run the Floyd-Warshall algorithm on the weighted, directed graph of below figure 2. Figure 2 Show the matrix D(k) that results for each iteration of the outer loop.",,Apply,15,[],[2020],below figure\s*2
-Advanced Algorithms,Solve the following instance of the single source shortest path problem with vertex ‘a’ as the source.,,Apply,8,[],[2022],following instance of the single source

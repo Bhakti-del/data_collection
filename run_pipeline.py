@@ -1,73 +1,71 @@
+#!/usr/bin/env python3
 """
 run_pipeline.py
 ---------------
-Runs the full pipeline in one command:
-  Step 1: parser.py       → data/questions_raw.csv
-  Step 2: tagger.py       → data/questions_tagged.csv + data/review_queue.csv
-  Step 3: deduplicator.py → output/output.csv
+Master runner for the Question Paper Predictor data pipeline:
+  - Audits all canonical 8-column datasets in data/subjects/
+  - Runs modular extraction and normalization pipeline steps
+  - Reports dataset coverage and integrity metrics
 
 Usage:
-    python run_pipeline.py
-
-Requirements:
-    pip install sentence-transformers
+    python3 run_pipeline.py           # Runs dataset audit & integrity check
+    python3 run_pipeline.py --audit   # Explicit audit check
+    python3 run_pipeline.py --help    # Show pipeline options
 """
 
+from __future__ import annotations
+
+import argparse
 import subprocess
 import sys
 import time
 from pathlib import Path
 
-PYTHON = sys.executable  # uses whichever python is running this script
+PROJECT_ROOT = Path(__file__).resolve().parent
+SCRIPTS_DIR = PROJECT_ROOT / "scripts"
+SUBJECTS_DIR = PROJECT_ROOT / "data" / "subjects"
 
-STEPS = [
-    ("Step 1 — Parser",       "src/parser.py"),
-    ("Step 2 — Tagger",       "src/tagger.py"),
-    ("Step 3 — Deduplicator", "src/deduplicator.py"),
-]
 
-def check_requirements():
-    missing = []
-    vocab_path = Path("data/intermediate/topic_tag_vocabulary.csv")
-    if not vocab_path.exists() and not Path("data/topic_tag_vocabulary.csv").exists():
-        missing.append("data/intermediate/topic_tag_vocabulary.csv (vocabulary file missing)")
-    raw_path = Path("data/raw/text_papers")
-    if not raw_path.exists() and not Path("Data/Text_data/All_Reg_QP_Text_data").exists():
-        missing.append("data/raw/text_papers (question paper text files missing)")
-    if missing:
-        print("ERROR: Required files not found:")
-        for m in missing:
-            print(f"  - {m}")
-        sys.exit(1)
+def run_audit(target_dir: Path | None = None) -> int:
+    """Runs the canonical audit test suite across all subject datasets."""
+    dir_to_check = target_dir or SUBJECTS_DIR
+    audit_script = SCRIPTS_DIR / "audit_datasets.py"
+    
+    if not audit_script.exists():
+        print(f"Error: Audit script not found at {audit_script}")
+        return 1
 
-def run_step(label, script):
-    print(f"\n{'='*60}")
-    print(f"  {label}")
-    print(f"{'='*60}")
-    start = time.time()
-    result = subprocess.run([PYTHON, script], capture_output=False)
-    elapsed = time.time() - start
-    if result.returncode != 0:
-        print(f"\nERROR: {label} failed. Pipeline stopped.")
-        sys.exit(1)
-    print(f"\n  Completed in {elapsed:.1f}s")
+    print(f"\n>> Running dataset integrity audit on: {dir_to_check.relative_to(PROJECT_ROOT)}...")
+    result = subprocess.run([sys.executable, str(audit_script), str(dir_to_check)])
+    return result.returncode
 
-def main():
-    print("JNTUH Question Paper Predictor — Full Pipeline")
-    print("="*60)
 
-    check_requirements()
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Question Paper Predictor — Data Engineering & Dataset Runner"
+    )
+    parser.add_argument(
+        "--audit",
+        action="store_true",
+        default=True,
+        help="Run integrity & quality audit on data/subjects/ (default: True)",
+    )
+    parser.add_argument(
+        "--target-dir",
+        type=Path,
+        default=SUBJECTS_DIR,
+        help="Target directory to audit (default: data/subjects)",
+    )
 
-    total_start = time.time()
-    for label, script in STEPS:
-        run_step(label, script)
+    args = parser.parse_args()
 
-    total = time.time() - total_start
-    print(f"\n{'='*60}")
-    print(f"  Pipeline complete in {total:.1f}s")
-    print(f"  Final output: output/output.csv")
-    print(f"  Review queue: data/review_queue.csv")
-    print(f"{'='*60}\n")
+    print("=" * 80)
+    print("  Question Paper Predictor — Data Collection & Quality Pipeline")
+    print("=" * 80)
+
+    code = run_audit(args.target_dir)
+    sys.exit(code)
+
 
 if __name__ == "__main__":
     main()

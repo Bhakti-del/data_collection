@@ -1,2 +1,0 @@
-subject_name,raw_question_text,topic_tag,bloom_level,original_marks,part_a_years,part_b_years
-Data Analytics,Construct a decision tree for the following data using CART algorithm. [10] RID Profession Age Income Buys Laptop 1 Student 21 5000 yes 2 Clerk 23 10000 yes 3 Professor 27 45000 yes 4 Professor 52 95000 no 5 Student 21 10000 yes 6 Clerk 45 12000 no,CLASSIFICATION_ANALYTICS,Apply,10,[],[2023]
