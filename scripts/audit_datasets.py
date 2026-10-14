@@ -19,10 +19,8 @@ EXPECTED_COLUMNS_7 = [
     "subject_name", "raw_question_text", "topic_tag",
     "bloom_level", "original_marks", "part_a_years", "part_b_years"
 ]
-EXPECTED_COLUMNS_8 = [
-    "subject_name", "raw_question_text", "topic_tag",
-    "bloom_level", "original_marks", "part_a_years", "part_b_years", "image_path"
-]
+EXPECTED_COLUMNS_8 = EXPECTED_COLUMNS_7 + ["image_path"]
+VALID_HEADERS = [EXPECTED_COLUMNS_7, EXPECTED_COLUMNS_8]
 
 def parse_years(ystr):
     if isinstance(ystr, list):

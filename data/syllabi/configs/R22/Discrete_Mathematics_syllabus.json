@@ -1,0 +1,66 @@
+{
+  "subject_name": "Discrete Mathematics",
+  "canonical_id": "SUBJECT_DM",
+  "regulation": "R22",
+  "year": "II",
+  "sem": "II",
+  "units": {
+    "UNIT_1": {
+      "name": "Mathematical Logic",
+      "topics": [
+        "PROPOSITIONAL_LOGIC_AND_CONNECTIVES",
+        "NORMAL_FORMS_AND_INFERENCE",
+        "PREDICATE_CALCULUS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "Set Theory",
+      "topics": [
+        "SET_THEORY_AND_OPERATIONS",
+        "RELATIONS_AND_ORDERING",
+        "FUNCTIONS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Algebraic Structures",
+      "topics": [
+        "ALGEBRAIC_SYSTEMS_SEMIGROUPS_MONOIDS",
+        "GROUPS_AND_SUBGROUPS",
+        "LATTICES_AND_BOOLEAN_ALGEBRA"
+      ]
+    },
+    "UNIT_4": {
+      "name": "Elementary Combinatorics",
+      "topics": [
+        "PERMUTATIONS_AND_COMBINATIONS",
+        "BINOMIAL_AND_MULTINOMIAL_THEOREMS",
+        "RECURRENCE_RELATIONS_AND_GENERATING_FUNCTIONS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "Graph Theory",
+      "topics": [
+        "GRAPH_CONCEPTS_AND_ISOMORPHISM",
+        "TREES_AND_SPANNING_TREES",
+        "PLANAR_GRAPHS_AND_COLORING"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "PROPOSITIONAL_LOGIC_AND_CONNECTIVES": ["propositional", "connectives", "truth table", "tautology", "contradiction", "well formed formula", "wff", "equivalence", "negation", "conditional", "biconditional", "statement"],
+    "NORMAL_FORMS_AND_INFERENCE": ["normal form", "pdnf", "pcnf", "disjunctive normal", "conjunctive normal", "inference", "modus ponens", "resolution", "valid argument", "premises"],
+    "PREDICATE_CALCULUS": ["predicate", "quantifier", "universal quantifier", "existential quantifier", "free variable", "bound variable", "predicate calculus", "universe of discourse"],
+    "SET_THEORY_AND_OPERATIONS": ["set", "subsets", "power set", "union", "intersection", "complement", "cartesian product"],
+    "RELATIONS_AND_ORDERING": ["relation", "equivalence relation", "equivalence class", "partial order", "poset", "hasse diagram", "hasse", "transitive closure", "reflexive", "symmetric", "transitive", "antisymmetric", "irreflexive"],
+    "FUNCTIONS": ["function", "injective", "surjective", "bijective", "one-to-one", "onto", "composition of functions", "inverse function"],
+    "ALGEBRAIC_SYSTEMS_SEMIGROUPS_MONOIDS": ["algebraic system", "semigroup", "semi group", "monoid", "closure", "associative", "identity element"],
+    "GROUPS_AND_SUBGROUPS": ["group", "abelian group", "subgroup", "cyclic group", "generator", "coset", "lagrange's theorem", "order of group", "order of element"],
+    "LATTICES_AND_BOOLEAN_ALGEBRA": ["lattice", "bounded lattice", "distributive lattice", "complemented lattice", "boolean algebra", "meet", "join", "lub", "glb", "boolean"],
+    "PERMUTATIONS_AND_COMBINATIONS": ["permutation", "combination", "pigeonhole principle", "pigeon hole", "counting principle", "inclusion-exclusion", "r-permutations", "how many ways", "how many bit strings", "how many permutations", "arrangements"],
+    "BINOMIAL_AND_MULTINOMIAL_THEOREMS": ["binomial theorem", "multinomial theorem", "binomial coefficient", "combinations with repetition", "coefficient of", "expansion"],
+    "RECURRENCE_RELATIONS_AND_GENERATING_FUNCTIONS": ["recurrence relation", "recurrence", "generating function", "fibonacci", "characteristic roots", "divide and conquer recurrence", "master theorem"],
+    "GRAPH_CONCEPTS_AND_ISOMORPHISM": ["graph", "vertex", "vertices", "edge", "degree", "isomorphic", "isomorphism", "bipartite", "complete graph", "adjacency matrix", "incidence matrix", "subgraph", "euler circuit", "euler path", "hamiltonian"],
+    "TREES_AND_SPANNING_TREES": ["tree", "spanning tree", "binary tree", "rooted tree", "directed tree", "minimum spanning tree"],
+    "PLANAR_GRAPHS_AND_COLORING": ["planar graph", "planar", "euler's formula", "euler formula", "graph coloring", "chromatic number", "four color"]
+  }
+}

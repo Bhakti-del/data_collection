@@ -1,0 +1,56 @@
+{
+  "subject_name": "Computer Oriented Statistical Methods",
+  "canonical_id": "SUBJECT_COSM",
+  "regulation": "R22",
+  "year": "II",
+  "sem": "I",
+  "units": {
+    "UNIT_1": {
+      "name": "Probability",
+      "topics": [
+        "PROBABILITY_CONCEPTS_AND_RULES",
+        "PROBABILITY_DISTRIBUTIONS"
+      ]
+    },
+    "UNIT_2": {
+      "name": "Expectation & Discrete Distributions",
+      "topics": [
+        "MATHEMATICAL_EXPECTATION",
+        "BINOMIAL_DISTRIBUTION",
+        "POISSON_DISTRIBUTION"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Continuous & Sampling Distributions",
+      "topics": [
+        "CONTINUOUS_DISTRIBUTIONS",
+        "SAMPLING_DISTRIBUTIONS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "Estimation & Hypothesis Testing",
+      "topics": [
+        "STATISTICAL_ESTIMATION",
+        "HYPOTHESIS_TESTING"
+      ]
+    },
+    "UNIT_5": {
+      "name": "Stochastic Processes & Markov Chains",
+      "topics": [
+        "MARKOV_CHAINS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "PROBABILITY_CONCEPTS_AND_RULES": ["probability", "conditional probability", "bayes", "baye's", "sample space", "independent events", "addition rule", "multiplication rule"],
+    "PROBABILITY_DISTRIBUTIONS": ["random variable", "discrete random variable", "continuous random variable", "probability density function", "pdf", "pmf", "cumulative distribution", "cdf"],
+    "MATHEMATICAL_EXPECTATION": ["expectation", "expected value", "mean", "variance", "covariance", "chebyshev", "moment generating function", "mgf"],
+    "BINOMIAL_DISTRIBUTION": ["binomial distribution", "binomial", "n trials"],
+    "POISSON_DISTRIBUTION": ["poisson distribution", "poisson", "average rate"],
+    "CONTINUOUS_DISTRIBUTIONS": ["normal distribution", "standard normal", "area under normal", "uniform distribution", "exponential distribution"],
+    "SAMPLING_DISTRIBUTIONS": ["central limit theorem", "sampling distribution", "standard error", "t-distribution", "student's t", "f-distribution"],
+    "STATISTICAL_ESTIMATION": ["estimation", "confidence interval", "maximum likelihood", "point estimate", "interval estimate"],
+    "HYPOTHESIS_TESTING": ["hypothesis", "null hypothesis", "alternative hypothesis", "level of significance", "type i error", "type ii error", "critical region", "chi-square", "goodness of fit", "contingency table", "anova", "analysis of variance", "z-test", "t-test"],
+    "MARKOV_CHAINS": ["markov", "stochastic process", "transition probability matrix", "state transition", "steady state", "n-step transition"]
+  }
+}

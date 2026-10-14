@@ -1,0 +1,66 @@
+{
+  "subject_name": "Engineering Chemistry",
+  "canonical_id": "SUBJECT_EC",
+  "regulation": "R22",
+  "year": "I",
+  "sem": "I",
+  "units": {
+    "UNIT_1": {
+      "name": "Water and its Treatment",
+      "topics": [
+        "WATER_HARDNESS_AND_ESTIMATION",
+        "POTABLE_WATER_TREATMENT",
+        "BOILER_TROUBLES_AND_TREATMENT"
+      ]
+    },
+    "UNIT_2": {
+      "name": "Battery Chemistry & Corrosion",
+      "topics": [
+        "BATTERIES_AND_FUEL_CELLS",
+        "CORROSION_THEORIES_AND_TYPES",
+        "CORROSION_CONTROL_AND_PROTECTION"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Polymeric Materials",
+      "topics": [
+        "POLYMER_CLASSIFICATION_AND_SYNTHESIS",
+        "PLASTICS_AND_ELASTOMERS",
+        "CONDUCTING_AND_BIODEGRADABLE_POLYMERS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "Energy Sources",
+      "topics": [
+        "FUELS_AND_CALORIFIC_VALUE",
+        "SOLID_AND_LIQUID_FUELS",
+        "GASEOUS_FUELS_AND_BIOFUELS"
+      ]
+    },
+    "UNIT_5": {
+      "name": "Engineering Materials",
+      "topics": [
+        "PORTLAND_CEMENT_AND_REFRACTORIES",
+        "SMART_AND_NANO_MATERIALS",
+        "LUBRICANTS_AND_PROPERTIES"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "WATER_HARDNESS_AND_ESTIMATION": ["hardness", "edta", "complexometric", "ppm", "degree clark", "temporary hardness", "permanent hardness"],
+    "POTABLE_WATER_TREATMENT": ["potable water", "chlorination", "break point chlorination", "defluoridation", "disinfection", "ozonization"],
+    "BOILER_TROUBLES_AND_TREATMENT": ["boiler troubles", "sludge", "scale", "priming", "foaming", "caustic embrittlement", "ion exchange", "ion-exchange", "zeolite", "reverse osmosis"],
+    "BATTERIES_AND_FUEL_CELLS": ["battery", "batteries", "lead acid", "lithium ion", "li-ion", "zinc air", "fuel cell", "solar cell", "photovoltaic"],
+    "CORROSION_THEORIES_AND_TYPES": ["corrosion", "electrochemical corrosion", "dry corrosion", "galvanic corrosion", "pitting corrosion", "waterline corrosion", "crevice corrosion"],
+    "CORROSION_CONTROL_AND_PROTECTION": ["cathodic protection", "sacrificial anode", "impressed current", "galvanizing", "tinning", "electroplating", "inhibitor"],
+    "POLYMER_CLASSIFICATION_AND_SYNTHESIS": ["polymer", "polymerization", "addition polymerization", "condensation polymerization", "tacticity", "free radical"],
+    "PLASTICS_AND_ELASTOMERS": ["pvc", "bakelite", "teflon", "nylon", "rubber", "natural rubber", "vulcanization", "elastomer", "frp", "fiber reinforced"],
+    "CONDUCTING_AND_BIODEGRADABLE_POLYMERS": ["conducting polymer", "polyaniline", "polyacetylene", "biodegradable polymer", "pla"],
+    "FUELS_AND_CALORIFIC_VALUE": ["calorific value", "gross calorific", "net calorific", "hcv", "lcv", "dulong's formula", "bomb calorimeter", "boy's calorimeter"],
+    "SOLID_AND_LIQUID_FUELS": ["coal", "proximate analysis", "ultimate analysis", "carbonization", "petroleum", "cracking", "octane", "cetane", "knocking"],
+    "GASEOUS_FUELS_AND_BIOFUELS": ["natural gas", "lpg", "cng", "biogas", "biodiesel", "transesterification"],
+    "PORTLAND_CEMENT_AND_REFRACTORIES": ["portland cement", "cement", "setting and hardening", "refractory", "refractories"],
+    "SMART_AND_NANO_MATERIALS": ["smart materials", "shape memory", "thermoresponse", "nanomaterials", "carbon nanotubes"],
+    "LUBRICANTS_AND_PROPERTIES": ["lubricant", "lubricants", "viscosity", "viscosity index", "flash point", "fire point", "cloud point", "pour point", "aniline point"]
+  }
+}

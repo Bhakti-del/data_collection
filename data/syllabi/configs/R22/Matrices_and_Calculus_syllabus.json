@@ -1,0 +1,74 @@
+{
+  "subject_name": "Matrices and Calculus",
+  "canonical_id": "SUBJECT_MC",
+  "regulation": "R22",
+  "year": "I",
+  "sem": "I",
+  "units": {
+    "UNIT_1": {
+      "name": "Matrices",
+      "topics": [
+        "RANK_OF_MATRIX",
+        "LINEAR_SYSTEMS_OF_EQUATIONS",
+        "GAUSS_ELIMINATION_AND_JORDAN",
+        "GAUSS_SEIDEL_ITERATION"
+      ]
+    },
+    "UNIT_2": {
+      "name": "Eigen Values & Eigen Vectors",
+      "topics": [
+        "EIGEN_VALUES_AND_EIGEN_VECTORS",
+        "CAYLEY_HAMILTON_THEOREM",
+        "DIAGONALIZATION",
+        "QUADRATIC_FORMS"
+      ]
+    },
+    "UNIT_3": {
+      "name": "Calculus",
+      "topics": [
+        "MEAN_VALUE_THEOREMS",
+        "TAYLOR_AND_MACLAURIN_SERIES",
+        "SURFACE_AREAS_AND_VOLUMES_OF_REVOLUTION",
+        "BETA_AND_GAMMA_FUNCTIONS"
+      ]
+    },
+    "UNIT_4": {
+      "name": "Multivariable Calculus — Differentiation",
+      "topics": [
+        "PARTIAL_DIFFERENTIATION",
+        "JACOBIAN",
+        "MAXIMA_AND_MINIMA"
+      ]
+    },
+    "UNIT_5": {
+      "name": "Multivariable Calculus — Integration",
+      "topics": [
+        "DOUBLE_INTEGRALS",
+        "CHANGE_OF_ORDER_OF_INTEGRATION",
+        "TRIPLE_INTEGRALS",
+        "APPLICATIONS_OF_MULTIPLE_INTEGRALS"
+      ]
+    }
+  },
+  "topic_keywords": {
+    "RANK_OF_MATRIX": ["rank", "echelon", "normal form", "minor", "submatrix"],
+    "LINEAR_SYSTEMS_OF_EQUATIONS": ["system of equations", "homogeneous", "non-homogeneous", "consistency", "inconsistent", "trivial solution", "augmented matrix"],
+    "GAUSS_ELIMINATION_AND_JORDAN": ["gauss elimination", "gauss-elimination", "gauss jordan", "gauss-jordan", "inverse using gauss"],
+    "GAUSS_SEIDEL_ITERATION": ["gauss seidel", "gauss-seidel", "iteration method", "diagonally dominant"],
+    "EIGEN_VALUES_AND_EIGEN_VECTORS": ["eigenvalue", "eigenvalues", "eigen vector", "eigenvectors", "characteristic equation", "characteristic roots", "trace"],
+    "CAYLEY_HAMILTON_THEOREM": ["cayley hamilton", "cayley-hamilton", "inverse of matrix using cayley"],
+    "DIAGONALIZATION": ["diagonalization", "diagonalize", "modal matrix", "orthogonal transformation", "orthogonal matrix", "similar matrix"],
+    "QUADRATIC_FORMS": ["quadratic form", "canonical form", "index", "signature", "positive definite", "negative definite", "indefinite", "semi definite"],
+    "MEAN_VALUE_THEOREMS": ["rolle", "lagrange", "cauchy", "mean value theorem", "mvt"],
+    "TAYLOR_AND_MACLAURIN_SERIES": ["taylor", "maclaurin", "expansion of", "series expansion", "power series"],
+    "SURFACE_AREAS_AND_VOLUMES_OF_REVOLUTION": ["volume of revolution", "surface area of revolution", "revolution about"],
+    "BETA_AND_GAMMA_FUNCTIONS": ["beta function", "gamma function", "duplication formula", "beta and gamma", "beta", "gamma"],
+    "PARTIAL_DIFFERENTIATION": ["partial derivative", "partial differentiation", "euler's theorem", "homogeneous function", "total derivative"],
+    "JACOBIAN": ["jacobian", "functional dependence", "functional relationship"],
+    "MAXIMA_AND_MINIMA": ["maxima", "minima", "maximum", "minimum", "extreme values", "saddle point", "stationary point", "lagrange multiplier", "lagrange's multiplier"],
+    "DOUBLE_INTEGRALS": ["double integral", "double integration", "polar coordinates", "cartesian coordinates"],
+    "CHANGE_OF_ORDER_OF_INTEGRATION": ["change of order", "reversing order of integration"],
+    "TRIPLE_INTEGRALS": ["triple integral", "triple integration"],
+    "APPLICATIONS_OF_MULTIPLE_INTEGRALS": ["area bounded", "volume bounded", "area enclosed", "volume enclosed", "change of variables"]
+  }
+}
