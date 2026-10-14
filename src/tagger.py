@@ -19,11 +19,12 @@ from pathlib import Path
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 
-QUESTIONS_RAW  = Path("data/questions_raw.csv")
-VOCAB_FILE     = Path("data/topic_tag_vocabulary.csv")
-TAGGED_OUT     = Path("data/questions_tagged.csv")
-REVIEW_OUT     = Path("data/review_queue.csv")
-EMBEDDINGS_OUT = Path("data/topic_embeddings.npy")
+INTERMEDIATE_DIR = Path("data/intermediate")
+QUESTIONS_RAW  = INTERMEDIATE_DIR / "questions_raw.csv" if (INTERMEDIATE_DIR / "questions_raw.csv").exists() else Path("data/questions_raw.csv")
+VOCAB_FILE     = INTERMEDIATE_DIR / "topic_tag_vocabulary.csv" if (INTERMEDIATE_DIR / "topic_tag_vocabulary.csv").exists() else Path("data/topic_tag_vocabulary.csv")
+TAGGED_OUT     = INTERMEDIATE_DIR / "questions_tagged.csv"
+REVIEW_OUT     = INTERMEDIATE_DIR / "review_queue.csv"
+EMBEDDINGS_OUT = INTERMEDIATE_DIR / "topic_embeddings.npy"
 
 # Confidence below this → goes to review queue
 AUTO_TAG_THRESHOLD = 0.35

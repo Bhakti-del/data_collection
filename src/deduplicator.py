@@ -20,7 +20,7 @@ from collections import defaultdict
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 
-TAGGED_FILE = Path("data/questions_tagged.csv")
+TAGGED_FILE = Path("data/intermediate/questions_tagged.csv") if Path("data/intermediate/questions_tagged.csv").exists() else Path("data/questions_tagged.csv")
 OUTPUT_FILE = Path("output/output.csv")
 
 # Questions with cosine similarity >= this are merged

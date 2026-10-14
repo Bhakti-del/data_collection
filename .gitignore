@@ -6,19 +6,23 @@ __pycache__/
 venv/
 env/
 
-# Data Engineering Pipeline - Raw Inputs & Local Caches
-data/raw/
+# Data Engineering Pipeline - Large Raw Binary Inputs & Local Caches
+data/raw/pdf_papers/
+*.zip
+*.tar.gz
 data/raw_pdfs/
 data/extracted_text/
 data/cleaned_text/
-temp_data/cleaned_papers/
-temp_data/Text_data/
 
 # Local Scratch, Metrics & Review Checkpoints
 scratch/
 scratch_metrics.json
 *.checkpoint.json
 .tagger_checkpoint.json
+temp_data/
+slesha-Data-folder/
+Config_Loader/
+data_preparation/
 
 # Build & Language Artifacts
 _build/
@@ -34,7 +38,10 @@ Thumbs.db
 *.swp
 *.swo
 
-# Explicitly Whitelist Canonical Datasets, Syllabi & Excluded Repositories
-!data/datasets/*.csv
+# Whitelist Canonical Datasets, Syllabi, Intermediate & Diagram Images
+!data/processed/**
 !data/syllabi/**
-!data/excluded/*.csv
+!data/images/**
+!data/intermediate/**
+!data/raw/text_papers/**
+!data/cleaned/text_papers/**

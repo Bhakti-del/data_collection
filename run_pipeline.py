@@ -28,10 +28,12 @@ STEPS = [
 
 def check_requirements():
     missing = []
-    if not Path("data/topic_tag_vocabulary.csv").exists():
-        missing.append("data/topic_tag_vocabulary.csv  (vocabulary file missing)")
-    if not Path("Data/Text_data/All_Reg_QP_Text_data").exists():
-        missing.append("Data/Text_data/All_Reg_QP_Text_data  (question paper text files missing)")
+    vocab_path = Path("data/intermediate/topic_tag_vocabulary.csv")
+    if not vocab_path.exists() and not Path("data/topic_tag_vocabulary.csv").exists():
+        missing.append("data/intermediate/topic_tag_vocabulary.csv (vocabulary file missing)")
+    raw_path = Path("data/raw/text_papers")
+    if not raw_path.exists() and not Path("Data/Text_data/All_Reg_QP_Text_data").exists():
+        missing.append("data/raw/text_papers (question paper text files missing)")
     if missing:
         print("ERROR: Required files not found:")
         for m in missing:

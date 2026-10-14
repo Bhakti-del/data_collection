@@ -23,8 +23,8 @@ from pathlib import Path
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 
-ROOT   = Path("Data/Text_data/All_Reg_QP_Text_data")
-OUTPUT = Path("data/questions_raw.csv")
+ROOT   = Path("data/raw/text_papers") if Path("data/raw/text_papers").exists() else Path("Data/Text_data/All_Reg_QP_Text_data")
+OUTPUT = Path("data/intermediate/questions_raw.csv")
 
 TARGET_SUBJECTS = {
     "OPERATING SYSTEMS":           "Operating Systems",
